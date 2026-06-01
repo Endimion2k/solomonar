@@ -144,6 +144,36 @@ def build_deconcentrated_from_config(
     return out
 
 
+def build_local_from_config(
+    sources_flat: list[dict], counties: list[str] | None = None
+) -> list[Organization]:
+    """Generează instituțiile din subordinea Consiliilor Județene (axă SEPARATĂ de stat central).
+
+    tier=LOCAL_AUTONOMY (NU deconcentrate). Ex.: DGASPC, DJEP × județe.
+    """
+    counties = counties or COUNTIES
+    out: list[Organization] = []
+    for s in sources_flat:
+        if s.get("category") != "local" or not s.get("service_types"):
+            continue
+        svcs = s["service_types"]
+        services = svcs if isinstance(svcs, list) else [x for v in svcs.values() for x in v]
+        for svc in services:
+            for county in counties:
+                name = f"{svc} {county}"
+                out.append(
+                    Organization(
+                        romega_id=make_id("o", name),
+                        name=name,
+                        short_name=svc,
+                        type=OrgType.LOCAL_COUNCIL_BODY,
+                        tier=Tier.LOCAL_AUTONOMY,
+                        county=county,
+                    )
+                )
+    return out
+
+
 def find_declaration_links(html: bytes | str, base: str = "") -> list[str]:
     """Detectează linkuri PDF de declarații de avere/interese (pattern comun .gov.ro)."""
     sel = selector(html)

@@ -5,6 +5,7 @@ from __future__ import annotations
 from connectors.institutie.generic import (
     COUNTIES,
     build_deconcentrated_from_config,
+    build_local_from_config,
     build_organizations,
     find_declaration_links,
     generate_deconcentrated,
@@ -64,6 +65,12 @@ def test_build_deconcentrated_from_config():
     # 29 tipuri de servicii × 42 unități ≈ 1218
     assert len(orgs) >= 1000
     assert all(o.type == "deconcentrated" for o in orgs)
+
+
+def test_build_local_from_config():
+    orgs = build_local_from_config(_flat())
+    assert len(orgs) >= 100  # ~4 servicii × 42 unități
+    assert all(o.tier == "local_autonomy" and o.type == "local_council_body" for o in orgs)
 
 
 def test_find_declaration_links():

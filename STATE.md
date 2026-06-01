@@ -78,10 +78,10 @@ omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declar
 **Faza 5 — „restul" (în curs):**
 - ✅ **Connector generic `institutie`** — config → Organization: **43 instituții centrale** (16 ministere + 23 agenții + guvern + 2 camere) + SUBORDINATE_OF (minister→guvern) + `find_declaration_links`
 - ✅ **Tier 3 deconcentrate (templated)** — 29 tipuri serviciu × 42 unități = **1.218 instituții**; total **1.261 noduri Organization** din config, zero cod/instituție
+- ✅ **Enrichment BNR** — curs valutar (XML, validat LIVE); ⬜ INS Tempo
+- ✅ **Axa locală** (Consilii Județene, `local_cj`, tier separat) — 168 instituții. **Total acoperire: 1.429 instituții** (43 centrale + 1.218 deconcentrate + 168 locale)
 - ⬜ Bugete & salarii (data.gov.ro + MF transparenta-bugetara)
 - ⬜ Legislație (legislatie.just.ro SOAP) ↔ proiecte de lege
-- ⬜ Enrichment (BNR curs, INS Tempo)
-- ⬜ Axa locală (Consilii Județene — `local_cj`, tier separat)
 - ⬜ **Acționariat % (plătit) — DEFERIT la final** (D7)
 
 **Mediu de validare:** ești în RO → scraping/API live funcționează de pe mașina ta (cdep.ro, ANAF, data.gov.ro confirmate). Runner self-hosted = pentru rulări programate/volum.

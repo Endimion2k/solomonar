@@ -34,6 +34,10 @@ def _build_connector(source_id: str):
         from connectors.achizitii.sicap import SicapConnector
 
         return SicapConnector()
+    if source_id == "bnr":
+        from connectors.opendata.bnr import BnrConnector
+
+        return BnrConnector()
     return None
 
 
