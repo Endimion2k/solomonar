@@ -58,8 +58,18 @@ CI: ✅ `.github/workflows/source.yml` (generic) + `schedule.yml` (cron daily/we
 **Constatare live confirmată:** rezolvarea pe listă (fără dată naștere) supra-contopește
 omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declarații (ANI = ancoră).
 
-**Următor: Faza 3 — Companii de stat + acționariat** (AMEPIP master list, ANAF API enrich,
-data.gov.ro ONRC dump, board-uri Art.51, graf proprietate; decizie buget T1 pentru acționariat %).
+**Faza 3 — Companii de stat (free-tier): v0 (cod) — 69/69 teste.**
+- ✅ `connectors/fiscal/anaf.py` — connector `api` ANAF (status/CAEN/TVA/inactiv după CUI), **validat LIVE** (Romgaz/Hidroelectrica/Nuclearelectrica)
+- ✅ `connectors/companii/amepip.py` — parser master list SOE (Anexa 1: CUI+denumire+autoritate)
+- ✅ `connectors/companii/onrc_dump.py` — parser dump ONRC (firme + reprezentanți legali; GRATIS)
+- ✅ `connectors/companii/registry.py` — `CompanyRegistry` (merge pe CUI) + `control_edges` (stat→SOE)
+- ✅ `anaf_api` în CLI
+- **Decizie D7 (T1 rezolvat):** gratis acum (reprezentanți legali din ONRC dump); acționariat cu % (termene/risco, plătit) **DEFERIT la final**.
+- **Finding live:** endpoint ANAF v8 documentat = 404; corect = `…/api/PlatitorTvaRest/v9/tva` (reparat).
+- [~] board-uri Art.51 (per companie) + BVB (listate) + MF bilanțuri bulk — pe runner / sub-val ulterior
+
+**Următor: Faza 4 — Achiziții publice (SICAP)** (XLSX bulk data.gov.ro + opțional istoric.e-licitatie JSON;
+muchii AWARDED_CONTRACT autoritate→firmă; cross-link cu SOE/demnitari pentru semnale).
 
 ## Decizii luate (cu rațiune)
 
@@ -76,7 +86,7 @@ data.gov.ro ONRC dump, board-uri Art.51, graf proprietate; decizie buget T1 pent
 
 | # | Tensiune | Opțiuni |
 |---|---|---|
-| T1 | **Acționariat cu % la scară** nu există gratuit (ONRC dump = doar reprezentanți legali, nu asociați) | (a) doar reprezentanți legali din data.gov.ro (gratis, parțial); (b) API comercial — termene.ro / risco.ro (ACT ~1 RON/query) pentru asociați+%; (c) hibrid: gratis pentru bază, plătit on-demand pentru ținte de interes. **De decis bugetul.** |
+| T1 | **Acționariat cu % la scară** nu există gratuit (ONRC dump = doar reprezentanți legali, nu asociați) | (a) doar reprezentanți legali din data.gov.ro (gratis, parțial); (b) API comercial — termene.ro / risco.ro (ACT ~1 RON/query) pentru asociați+%; (c) hibrid: gratis pentru bază, plătit on-demand pentru ținte de interes. **REZOLVAT (D7): gratis acum, plătit deferit la final.** |
 | T2 | **UBO (beneficiari reali)** restricționat din 2025 (Legea 86/2025: interes legitim + taxă + semnătură; jurnaliștii pot fi refuzați) | Probabil în afara scopului automat. De urmărit cazuistica „interes legitim". |
 | T3 | **Adâncimea instituțională** (Tier 3 deconcentrate ~1.000 + axa locală ~300) | Plan: Tier 2 (agenții centrale) prioritar; Tier 3 templated mai târziu; axa Consiliilor Județene modelată separat. |
 | T4 | **Runner self-hosted** — cdep.ro/senat.ro geo-blochează cloud IPs | Reutilizăm setup-ul din `cdep-api-poc` (PC Windows în RO). De confirmat capacitatea pentru volum crescut (ANI = ~1.6M PDF-uri). |

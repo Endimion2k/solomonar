@@ -132,7 +132,7 @@ sources:
     name: "ANAF — API platitori TVA / date firmă"
     category: agency
     tier: subordinated
-    base_url: "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva"
+    base_url: "https://webservicesp.anaf.ro/api/PlatitorTvaRest/v9/tva"  # v9 live (v8 = 404)
     access: api
     format: json
     auth: none

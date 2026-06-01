@@ -26,6 +26,10 @@ def _build_connector(source_id: str):
         from connectors.ani.declaratii import AniConnector
 
         return AniConnector()
+    if source_id == "anaf_api":
+        from connectors.fiscal.anaf import AnafConnector
+
+        return AnafConnector()
     return None
 
 
