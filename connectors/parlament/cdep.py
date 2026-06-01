@@ -3,7 +3,8 @@
 Diferențe față de original (scrapers/deputati.py):
 - folosește romega_core.http.Client (throttle per-host + bronze) în loc de _http global;
 - mapează `Deputat` (model cdep) → `Person` canonic prin PersonRegistry (romega_id + crosswalk);
-- parsarea de date RO e factorizată în romega_core.dates (partajat cu connectorul senat).
+- parsarea de date RO e factorizată în romega_core.dates (partajat cu connectorul senat);
+- normalizează diacriticele de afișare (cedilă → virgulă-jos) și atașează provenance (SourceRef).
 
 Regexurile și logica de parsare sunt păstrate fidel (parsare identică pe HTML-ul cdep.ro).
 """
@@ -19,7 +20,9 @@ from pydantic import BaseModel
 from romega_core.dates import RE_BIRTH, parse_ro_date
 from romega_core.http import Client
 from romega_core.models import Person
+from romega_core.names import fix_ro_diacritics
 from romega_core.parse import selector
+from romega_core.provenance import SourceRef
 from romega_core.resolve import PersonRegistry
 
 BASE = "https://www.cdep.ro"
@@ -64,7 +67,7 @@ def _clean_text(sel: Selector) -> str:
 def parse_profile(html: bytes | str, idm: int, leg: int = 2024, url: str | None = None) -> CdepDeputat:
     """Parsează o pagină de profil cdep.ro → CdepDeputat (portare fidelă)."""
     sel = selector(html)
-    name = (sel.css("title::text").get() or "").strip()
+    name = fix_ro_diacritics((sel.css("title::text").get() or "").strip())
     text = _clean_text(sel)
 
     birth_date = None
@@ -74,15 +77,15 @@ def parse_profile(html: bytes | str, idm: int, leg: int = 2024, url: str | None 
     judet = circumscriptie = None
     if (m := RE_CIRC.search(text)) is not None:
         circumscriptie = int(m.group(1))
-        judet = m.group(2).strip().title()
+        judet = fix_ro_diacritics(m.group(2).strip().title())
 
     current_party = None
     if (m := RE_PARTY.search(text)) is not None:
-        current_party = m.group(1).strip(" -")
+        current_party = fix_ro_diacritics(m.group(1).strip(" -"))
 
     current_group = None
     if (m := RE_GROUP.search(text)) is not None:
-        current_group = m.group(1).strip()
+        current_group = fix_ro_diacritics(m.group(1).strip())
 
     gender = None
     low = text.lower()
@@ -111,8 +114,10 @@ def parse_profile(html: bytes | str, idm: int, leg: int = 2024, url: str | None 
     )
 
 
-def to_person(dep: CdepDeputat, registry: PersonRegistry) -> Person:
-    """Mapează un Deputat cdep → Person canonic, atribuind romega_id + crosswalk cdep_idm."""
+def to_person(
+    dep: CdepDeputat, registry: PersonRegistry, source: SourceRef | None = None
+) -> Person:
+    """Mapează un Deputat cdep → Person canonic, atribuind romega_id + crosswalk + provenance."""
     match = registry.resolve(
         dep.name,
         birth_date=dep.birth_date,
@@ -125,6 +130,7 @@ def to_person(dep: CdepDeputat, registry: PersonRegistry) -> Person:
         birth_date=dep.birth_date,
         county=dep.judet,
         external_ids={"cdep": [str(dep.cdep_idm)]},
+        sources=[source] if source else [],
     )
 
 
@@ -155,7 +161,9 @@ class CdepConnector:
                     params = dict(re.findall(r"(\w+)=(\d+)", href))
                     idm = int(params.get("idm", 0))
                     if idm > 0 and idm not in found:
-                        name = " ".join(" ".join(cells[1].css("*::text").getall()).split())
+                        name = fix_ro_diacritics(
+                            " ".join(" ".join(cells[1].css("*::text").getall()).split())
+                        )
                         found[idm] = {"idm": idm, "name": name, "href": href}
                     break
         return list(found.values())

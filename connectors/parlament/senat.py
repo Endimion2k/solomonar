@@ -22,7 +22,9 @@ from pydantic import BaseModel
 from romega_core.dates import RE_BIRTH, parse_ro_date
 from romega_core.http import Client
 from romega_core.models import Person
+from romega_core.names import fix_ro_diacritics
 from romega_core.parse import selector
+from romega_core.provenance import SourceRef
 from romega_core.resolve import PersonRegistry
 
 BASE = "https://www.senat.ro"
@@ -74,7 +76,7 @@ def parse_senator_profile(
     html: bytes | str, guid: str, leg: int = 2024, url: str | None = None
 ) -> SenatSenator:
     sel = selector(html)
-    name = (sel.css("title::text").get() or "").strip()
+    name = fix_ro_diacritics((sel.css("title::text").get() or "").strip())
     text = re.sub(r"\s+", " ", " ".join(sel.css("body *::text").getall())).strip()
 
     birth_date = None
@@ -95,7 +97,9 @@ def parse_senator_profile(
     )
 
 
-def to_person(sen: SenatSenator, registry: PersonRegistry) -> Person:
+def to_person(
+    sen: SenatSenator, registry: PersonRegistry, source: SourceRef | None = None
+) -> Person:
     """Mapează un Senator → Person canonic. Unifică bicameral prin PersonRegistry."""
     match = registry.resolve(
         sen.name,
@@ -109,6 +113,7 @@ def to_person(sen: SenatSenator, registry: PersonRegistry) -> Person:
         birth_date=sen.birth_date,
         county=sen.judet,
         external_ids={"senat": [sen.senat_guid]},
+        sources=[source] if source else [],
     )
 
 

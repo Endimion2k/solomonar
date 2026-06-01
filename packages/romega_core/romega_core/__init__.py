@@ -11,6 +11,7 @@ from __future__ import annotations
 
 from romega_core.names import (
     canonical_name,
+    fix_ro_diacritics,
     name_key,
     name_similarity,
     split_name,
@@ -21,6 +22,7 @@ from romega_core.resolve import MatchResult, MatchStatus, PersonRegistry
 
 __all__ = [
     "strip_diacritics",
+    "fix_ro_diacritics",
     "name_key",
     "canonical_name",
     "split_name",

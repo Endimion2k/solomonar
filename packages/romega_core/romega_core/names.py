@@ -47,6 +47,19 @@ def strip_diacritics(s: str) -> str:
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 
+# Cedilă (ş/ţ) → virgulă-jos (ș/ț): standardul RO modern, PĂSTRÂND diacriticele.
+_RO_DISPLAY_MAP = str.maketrans({"ş": "ș", "Ş": "Ș", "ţ": "ț", "Ţ": "Ț"})
+
+
+def fix_ro_diacritics(s: str) -> str:
+    """Normalizează forma diacriticelor pentru AFIȘARE (cedilă → virgulă-jos), păstrându-le.
+
+    Opus lui strip_diacritics: aici păstrăm diacriticele, doar le standardizăm forma.
+    cdep.ro/senat.ro servesc adesea formele vechi cu cedilă (ş/ţ).
+    """
+    return s.translate(_RO_DISPLAY_MAP)
+
+
 def _tokens(s: str) -> list[str]:
     """Token-uri alfabetice normalizate (fără diacritice, lowercase, fără titluri, len>=2)."""
     flat = strip_diacritics(s).lower().replace("-", " ")
