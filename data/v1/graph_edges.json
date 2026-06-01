@@ -110,5 +110,68 @@
     "type": "SUBORDINATE_OF",
     "props": {},
     "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:44fe0d721200c5d2",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:1ab9fb21a6e8c014",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:f74a061c67d56d5f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:a7a5bf2c1e97805d",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:21d9c900fe33da2c",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:ff73ad20ef77a009",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:d85e447320de6b77",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "Ministerul Energiei"
+    },
+    "sources": []
   }
 ]

@@ -18,6 +18,7 @@ import re
 from urllib.parse import urljoin
 
 from romega_core.models import Edge, EdgeType, Organization, OrgType, Tier, make_id
+from romega_core.names import name_key
 from romega_core.parse import selector
 from romega_core.provenance import SourceRef
 
@@ -79,6 +80,26 @@ def build_organizations(
             )
         )
     return orgs
+
+
+def resolve_org_by_name(name: str, orgs: list[Organization]) -> str | None:
+    """Mapează un nume de instituție (ex. autoritate tutelară SOE) → romega_id de Organization.
+
+    Folosește name_key (invariant la ordine/diacritice). Exact, apoi containment.
+    """
+    if not name:
+        return None
+    target = name_key(name)
+    if not target:
+        return None
+    for o in orgs:
+        if name_key(o.name) == target:
+            return o.romega_id
+    for o in orgs:
+        ok = name_key(o.name)
+        if ok and (target in ok or ok in target):
+            return o.romega_id
+    return None
 
 
 def subordinate_edges(sources_flat: list[dict]) -> list[Edge]:

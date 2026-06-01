@@ -10,6 +10,7 @@ from connectors.institutie.generic import (
     find_declaration_links,
     generate_deconcentrated,
     org_id,
+    resolve_org_by_name,
     subordinate_edges,
 )
 from pipeline.config import iter_sources, load_sources
@@ -71,6 +72,13 @@ def test_build_local_from_config():
     orgs = build_local_from_config(_flat())
     assert len(orgs) >= 100  # ~4 servicii × 42 unități
     assert all(o.tier == "local_autonomy" and o.type == "local_council_body" for o in orgs)
+
+
+def test_resolve_org_by_name():
+    orgs = build_organizations(_flat())
+    assert resolve_org_by_name("Ministerul Energiei", orgs) == org_id("energie")
+    assert resolve_org_by_name("Ministerul Finanțelor", orgs) == org_id("mf")
+    assert resolve_org_by_name("Institutie Inexistenta XYZ", orgs) is None
 
 
 def test_find_declaration_links():

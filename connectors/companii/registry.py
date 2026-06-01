@@ -46,13 +46,25 @@ class CompanyRegistry:
         return len(self._by_cui)
 
 
-def control_edges(companies: list[Company], state_org_id: str = STATE_ORG_ID) -> list[Edge]:
-    """Muchii CONTROLS de la autoritatea tutelară (sau stat) către fiecare SOE."""
+def control_edges(
+    companies: list[Company],
+    state_org_id: str = STATE_ORG_ID,
+    org_resolver=None,
+) -> list[Edge]:
+    """Muchii CONTROLS de la autoritatea tutelară (sau stat) către fiecare SOE.
+
+    `org_resolver(name) -> org_id|None` leagă autoritatea tutelară la nodul-Organization REAL
+    (din config), nu doar la un id derivat din nume — graf coerent.
+    """
     edges: list[Edge] = []
     for c in companies:
         if not c.is_soe:
             continue
-        src = make_id("o", c.tutelary_authority) if c.tutelary_authority else state_org_id
+        src = None
+        if c.tutelary_authority and org_resolver:
+            src = org_resolver(c.tutelary_authority)
+        if not src:
+            src = make_id("o", c.tutelary_authority) if c.tutelary_authority else state_org_id
         edges.append(
             Edge(src=src, dst=c.romega_id, type=EdgeType.CONTROLS, props={"apt": c.tutelary_authority})
         )
