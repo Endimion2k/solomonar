@@ -30,6 +30,10 @@ def _build_connector(source_id: str):
         from connectors.fiscal.anaf import AnafConnector
 
         return AnafConnector()
+    if source_id == "sicap_bulk":
+        from connectors.achizitii.sicap import SicapConnector
+
+        return SicapConnector()
     return None
 
 

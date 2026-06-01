@@ -65,5 +65,20 @@ class GraphStore:
         """
         return self.con.execute(query).fetchall()
 
+    def contracts_with_conflicted_suppliers(self) -> list[tuple[str, str, str]]:
+        """Firme care au PRIMIT contracte ȘI au în CA o persoană cu funcție publică (red flag).
+
+        Întoarce (company, authority, person) — lanțul follow-the-money → conflict de interese.
+        """
+        query = """
+            SELECT DISTINCT ac.dst AS company, ac.src AS authority, b.src AS person
+            FROM edge ac
+            JOIN edge b ON b.dst = ac.dst AND b.type = 'MEMBER_OF_BOARD'
+            JOIN edge p ON p.src = b.src AND p.type = 'HOLDS_POSITION'
+            WHERE ac.type = 'AWARDED_CONTRACT'
+            ORDER BY company, person
+        """
+        return self.con.execute(query).fetchall()
+
     def close(self) -> None:
         self.con.close()

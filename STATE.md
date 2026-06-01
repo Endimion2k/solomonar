@@ -68,8 +68,22 @@ omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declar
 - **Finding live:** endpoint ANAF v8 documentat = 404; corect = `…/api/PlatitorTvaRest/v9/tva` (reparat).
 - [~] board-uri Art.51 (per companie) + BVB (listate) + MF bilanțuri bulk — pe runner / sub-val ulterior
 
-**Următor: Faza 4 — Achiziții publice (SICAP)** (XLSX bulk data.gov.ro + opțional istoric.e-licitatie JSON;
-muchii AWARDED_CONTRACT autoritate→firmă; cross-link cu SOE/demnitari pentru semnale).
+**Faza 4 — Achiziții publice (SICAP): v0 (cod) — 73/73 teste.**
+- ✅ `connectors/achizitii/sicap.py` — parser contracte (XLSX/CSV → Contract), `read_xlsx` (lazy openpyxl), agregate (total per firmă/autoritate), `awarded_contract_edges`, `SicapConnector.discover` (CKAN) **validat LIVE** (achizitii-publice-2025 = 28 resurse XLSX reale)
+- ✅ `GraphStore.contracts_with_conflicted_suppliers()` — **follow-the-money**: firmă cu contract + membru CA cu funcție publică (red flag), testat
+- ✅ `sicap_bulk` în CLI
+
+🎯 **Lista de priorități 1-2-3-4 COMPLETĂ** (Senat → ANI → Companii → SICAP).
+
+**Următor — „restul" (ordinea din masterplan §Faza 5+):**
+1. Tier 2 — agenții centrale (connector generic `institutie`): ANAF, ANI, ONRC, Curtea de Conturi, ASF, BNR, AEP...
+2. Bugete & salarii (data.gov.ro + MF transparenta-bugetara)
+3. Legislație (legislatie.just.ro SOAP) ↔ proiecte de lege
+4. Tier 3 deconcentrate (templated) + axa locală (Consilii Județene)
+5. Enrichment (BNR curs, INS Tempo)
+6. **Acționariat % (plătit) — DEFERIT la final** (D7)
+
+**Mediu de validare:** ești în RO → scraping/API live funcționează de pe mașina ta (cdep.ro, ANAF, data.gov.ro confirmate). Runner self-hosted = pentru rulări programate/volum.
 
 ## Decizii luate (cu rațiune)
 
