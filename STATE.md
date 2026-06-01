@@ -44,8 +44,22 @@ CI: ✅ `.github/workflows/source.yml` (generic) + `schedule.yml` (cron daily/we
 - ✅ **Unificare bicamerală testată**: aceeași persoană deputat(cdep)+senator(senat) → un singur `romega_id` cu ambele ID-uri externe
 - ✅ `senat` înregistrat în CLI; fixture-uri sintetice (selectorii live de validat pe runner)
 
-**Următor: Faza 2 — Declarații ANI** (headless `declaratii.integritate.eu` + OCR pre-2022 +
-parser pe template legal + delta avere; ANI = ancoră de rezoluție pentru toți demnitarii).
+**Hardening (post-test live):**
+- ✅ `fix_ro_diacritics` (cedilă→virgulă-jos) aplicat la nume/județ în connectoare
+- ✅ provenance: `to_person` (cdep+senat) atașează `SourceRef`
+
+**Faza 2 — Declarații ANI: v0 (cod) — 62/62 teste.**
+- ✅ `connectors/ani/declaratii.py` — `parse_avere_text` (portat din analiza_avere_pdf.py: secțiuni I–VII, sume RON/valută, m²), `compute_avere_delta`, `parse_interese` (best-effort), `extract_pdf_text` (lazy pdfplumber)
+- ✅ `connectors/ani/redaction.py` — guard PII (CNP/telefon/CI), `assert_clean` (critic legal)
+- ✅ `AniConnector` skeleton headless (necesită Playwright; OCR pre-2022) — validat pe runner
+- ✅ `ani` în CLI; fixture sintetic template ANI
+- [~] headless live + OCR — necesită Playwright + acces ANI real (runner)
+
+**Constatare live confirmată:** rezolvarea pe listă (fără dată naștere) supra-contopește
+omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declarații (ANI = ancoră).
+
+**Următor: Faza 3 — Companii de stat + acționariat** (AMEPIP master list, ANAF API enrich,
+data.gov.ro ONRC dump, board-uri Art.51, graf proprietate; decizie buget T1 pentru acționariat %).
 
 ## Decizii luate (cu rațiune)
 

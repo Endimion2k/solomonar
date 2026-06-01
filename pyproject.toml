@@ -37,4 +37,9 @@ line-length = 100
 target-version = "py311"
 
 [tool.pytest.ini_options]
-testpaths = ["packages/romega_core/tests", "pipeline/tests", "connectors/parlament/tests"]
+testpaths = [
+    "packages/romega_core/tests",
+    "pipeline/tests",
+    "connectors/parlament/tests",
+    "connectors/ani/tests",
+]

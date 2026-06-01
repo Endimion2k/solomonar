@@ -22,6 +22,10 @@ def _build_connector(source_id: str):
         from connectors.parlament.senat import SenatConnector
 
         return SenatConnector()
+    if source_id == "ani":
+        from connectors.ani.declaratii import AniConnector
+
+        return AniConnector()
     return None
 
 
