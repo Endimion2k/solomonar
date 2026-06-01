@@ -75,13 +75,14 @@ omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declar
 
 🎯 **Lista de priorități 1-2-3-4 COMPLETĂ** (Senat → ANI → Companii → SICAP).
 
-**Următor — „restul" (ordinea din masterplan §Faza 5+):**
-1. Tier 2 — agenții centrale (connector generic `institutie`): ANAF, ANI, ONRC, Curtea de Conturi, ASF, BNR, AEP...
-2. Bugete & salarii (data.gov.ro + MF transparenta-bugetara)
-3. Legislație (legislatie.just.ro SOAP) ↔ proiecte de lege
-4. Tier 3 deconcentrate (templated) + axa locală (Consilii Județene)
-5. Enrichment (BNR curs, INS Tempo)
-6. **Acționariat % (plătit) — DEFERIT la final** (D7)
+**Faza 5 — „restul" (în curs):**
+- ✅ **Connector generic `institutie`** — config → Organization: **43 instituții centrale** (16 ministere + 23 agenții + guvern + 2 camere) + SUBORDINATE_OF (minister→guvern) + `find_declaration_links`
+- ✅ **Tier 3 deconcentrate (templated)** — 29 tipuri serviciu × 42 unități = **1.218 instituții**; total **1.261 noduri Organization** din config, zero cod/instituție
+- ⬜ Bugete & salarii (data.gov.ro + MF transparenta-bugetara)
+- ⬜ Legislație (legislatie.just.ro SOAP) ↔ proiecte de lege
+- ⬜ Enrichment (BNR curs, INS Tempo)
+- ⬜ Axa locală (Consilii Județene — `local_cj`, tier separat)
+- ⬜ **Acționariat % (plătit) — DEFERIT la final** (D7)
 
 **Mediu de validare:** ești în RO → scraping/API live funcționează de pe mașina ta (cdep.ro, ANAF, data.gov.ro confirmate). Runner self-hosted = pentru rulări programate/volum.
 

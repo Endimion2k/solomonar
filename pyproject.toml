@@ -45,4 +45,5 @@ testpaths = [
     "connectors/fiscal/tests",
     "connectors/companii/tests",
     "connectors/achizitii/tests",
+    "connectors/institutie/tests",
 ]

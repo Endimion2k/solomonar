@@ -108,6 +108,7 @@ class Organization(_Base):
     parent: str | None = None
     tutelary_authority: str | None = None
     domain: str | None = None
+    county: str | None = None  # pentru deconcentrate / local
     cif: str | None = None
     valid_from: date | None = None  # instituțiile se versionează în timp
     valid_to: date | None = None
