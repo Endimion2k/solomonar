@@ -2,7 +2,8 @@
 
 Diferențe față de original (scrapers/deputati.py):
 - folosește romega_core.http.Client (throttle per-host + bronze) în loc de _http global;
-- mapează `Deputat` (model cdep) → `Person` canonic prin PersonRegistry (romega_id + crosswalk).
+- mapează `Deputat` (model cdep) → `Person` canonic prin PersonRegistry (romega_id + crosswalk);
+- parsarea de date RO e factorizată în romega_core.dates (partajat cu connectorul senat).
 
 Regexurile și logica de parsare sunt păstrate fidel (parsare identică pe HTML-ul cdep.ro).
 """
@@ -12,9 +13,10 @@ from __future__ import annotations
 import re
 from datetime import date
 
-from pydantic import BaseModel
 from parsel import Selector
+from pydantic import BaseModel
 
+from romega_core.dates import RE_BIRTH, parse_ro_date
 from romega_core.http import Client
 from romega_core.models import Person
 from romega_core.parse import selector
@@ -24,8 +26,7 @@ BASE = "https://www.cdep.ro"
 LIST_URL = BASE + "/ords/pls/parlam/structura2015.de?cam={cam}&leg={leg}&idl=1"
 PROFILE_URL = BASE + "/ords/pls/parlam/structura2015.mp?idm={idm}&cam={cam}&leg={leg}"
 
-# --- Regex portate identic din scrapers/deputati.py ---
-RE_BIRTH = re.compile(r"n\.\s*(\d{1,2})\s+([a-zăâîşţșț\.]+)\s+(\d{4})", re.IGNORECASE)
+# --- Regex cdep-specifice (RE_BIRTH e în romega_core.dates) ---
 RE_CIRC = re.compile(
     r"circumscripti(?:a|ia|ţia|ția)\s+electoral(?:a|ă)\s+nr\.\s*(\d+)\s+"
     r"([A-ZĂÂÎȘŞȚŢ\- ]+?)(?=\s+data|\s+Grup|\s+Forma|$)",
@@ -37,13 +38,6 @@ RE_GROUP = re.compile(
     r"\s+Delega[ţt]ii|\s+Grupuri\s+de\s+prietenie|\s+Activitatea\s+parlamentar)",
     re.IGNORECASE,
 )
-
-ROMANIAN_MONTHS = {
-    "ian": 1, "ianuarie": 1, "feb": 2, "februarie": 2, "mar": 3, "mart": 3, "martie": 3,
-    "apr": 4, "aprilie": 4, "mai": 5, "iun": 6, "iunie": 6, "iul": 7, "iulie": 7,
-    "aug": 8, "august": 8, "sep": 9, "sept": 9, "septembrie": 9, "oct": 10, "octombrie": 10,
-    "noi": 11, "nov": 11, "noiembrie": 11, "dec": 12, "decembrie": 12,
-}
 
 
 class CdepDeputat(BaseModel):
@@ -63,17 +57,6 @@ class CdepDeputat(BaseModel):
     profile_url: str | None = None
 
 
-def _parse_ro_date(day_str: str, month_str: str, year_str: str) -> date | None:
-    m = month_str.rstrip(".").lower().replace("ş", "s").replace("ţ", "t").replace("ș", "s").replace("ț", "t")
-    month = ROMANIAN_MONTHS.get(m) or ROMANIAN_MONTHS.get(m[:3])
-    if month is None:
-        return None
-    try:
-        return date(int(year_str), month, int(day_str))
-    except (ValueError, TypeError):
-        return None
-
-
 def _clean_text(sel: Selector) -> str:
     return re.sub(r"\s+", " ", " ".join(sel.css("body *::text").getall())).strip()
 
@@ -86,7 +69,7 @@ def parse_profile(html: bytes | str, idm: int, leg: int = 2024, url: str | None 
 
     birth_date = None
     if (m := RE_BIRTH.search(text)) is not None:
-        birth_date = _parse_ro_date(*m.groups())
+        birth_date = parse_ro_date(*m.groups())
 
     judet = circumscriptie = None
     if (m := RE_CIRC.search(text)) is not None:

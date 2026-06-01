@@ -38,7 +38,14 @@ CI: ✅ `.github/workflows/source.yml` (generic) + `schedule.yml` (cron daily/we
 - [~] „diff gol" vs cdep-api-poc pe date live — **necesită rulare pe runner-ul RO** (cdep.ro geo-blochează cloud)
 - [~] CI end-to-end — workflows + CLI gata; **necesită înregistrarea runner-ului self-hosted RO**
 
-**Următor: Faza 1 — Senat** (connector `parlament/senat`, crosswalk GUID↔cdep↔romega_id, bicameral).
+**Faza 1 — Senat: COMPLETĂ (cod) — 50/50 teste.**
+- ✅ `romega_core/dates.py` — parsare date RO factorizată (partajat cdep + senat)
+- ✅ `connectors/parlament/senat.py` — listă + profil (GUID), `to_person` cu crosswalk `senat`
+- ✅ **Unificare bicamerală testată**: aceeași persoană deputat(cdep)+senator(senat) → un singur `romega_id` cu ambele ID-uri externe
+- ✅ `senat` înregistrat în CLI; fixture-uri sintetice (selectorii live de validat pe runner)
+
+**Următor: Faza 2 — Declarații ANI** (headless `declaratii.integritate.eu` + OCR pre-2022 +
+parser pe template legal + delta avere; ANI = ancoră de rezoluție pentru toți demnitarii).
 
 ## Decizii luate (cu rațiune)
 

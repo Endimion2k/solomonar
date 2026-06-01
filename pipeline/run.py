@@ -18,6 +18,10 @@ def _build_connector(source_id: str):
         from connectors.parlament.cdep import CdepConnector
 
         return CdepConnector()
+    if source_id == "senat":
+        from connectors.parlament.senat import SenatConnector
+
+        return SenatConnector()
     return None
 
 
