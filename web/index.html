@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ROMEGA — transparența aparatului de stat</title>
+  <meta name="description" content="Platformă de transparență: Parlament, ministere, agenții, companii de stat, declarații, achiziții.">
+  <style>
+    :root{
+      --bg:#0e1116; --panel:#171c24; --line:#262d39; --fg:#e8edf4; --muted:#9aa7b8;
+      --accent:#4ea3ff; --accent2:#2bd1a3; --warn:#ffb454; --radius:12px;
+    }
+    @media (prefers-color-scheme: light){
+      :root{ --bg:#f6f8fb; --panel:#fff; --line:#e3e8ef; --fg:#16202c;
+             --muted:#5b6675; --accent:#1f6feb; --accent2:#0a9d77; }
+    }
+    *{box-sizing:border-box}
+    body{margin:0;font:16px/1.55 system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--fg)}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    .wrap{max-width:1100px;margin:0 auto;padding:24px 20px 64px}
+    header{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px;border-bottom:1px solid var(--line);padding-bottom:18px}
+    h1{font-size:28px;margin:0;letter-spacing:-.02em}
+    h1 .tag{color:var(--accent2)}
+    .sub{color:var(--muted);margin:2px 0 0}
+    .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0}
+    .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px}
+    .card .n{font-size:30px;font-weight:700;letter-spacing:-.02em}
+    .card .l{color:var(--muted);font-size:13px;margin-top:4px}
+    .toolbar{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:18px 0 8px}
+    input[type=search]{flex:1;min-width:220px;background:var(--panel);border:1px solid var(--line);
+      color:var(--fg);border-radius:10px;padding:11px 14px;font-size:15px}
+    input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
+    table{width:100%;border-collapse:collapse;margin-top:8px}
+    th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+    th{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+    tr:hover td{background:rgba(78,163,255,.06)}
+    .pill{display:inline-block;font-size:11px;padding:2px 9px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
+    .pill.ministry{color:var(--accent)} .pill.agency{color:var(--accent2)} .pill.government{color:var(--warn)}
+    footer{margin-top:40px;color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
+    .muted{color:var(--muted)}
+    @media (prefers-reduced-motion: reduce){*{transition:none!important}}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>RO<span class="tag">MEGA</span></h1>
+      <p class="sub">Transparența aparatului de stat — Parlament · ministere · agenții · companii de stat · declarații · achiziții</p>
+    </header>
+
+    <section class="cards" id="cards" aria-live="polite"></section>
+
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Caută o instituție centrală…" aria-label="Caută instituție">
+      <span class="muted" id="count"></span>
+    </div>
+    <table>
+      <thead><tr><th>Instituție</th><th>Tip</th><th>Domeniu</th></tr></thead>
+      <tbody id="rows"><tr><td colspan="3" class="muted">Se încarcă…</td></tr></tbody>
+    </table>
+
+    <footer>
+      Date din surse publice oficiale, în scop de transparență. Fiecare entitate poartă proveniență (sursă + dată).
+      Cod &amp; date: <a href="https://github.com/Endimion2k/romega">github.com/Endimion2k/romega</a>.
+      Generat: <span id="gen" class="muted">—</span>
+    </footer>
+  </div>
+
+  <script>
+    const DATA = "../data/v1"; // ajustează în funcție de rădăcina GitHub Pages
+    const TYPE_LABEL = {ministry:"minister", agency:"agenție", government:"guvern", parliament_chamber:"cameră parl."};
+    let ALL = [];
+
+    function card(n, label){ return `<div class="card"><div class="n">${n.toLocaleString("ro-RO")}</div><div class="l">${label}</div></div>`; }
+
+    function render(list){
+      const rows = document.getElementById("rows");
+      document.getElementById("count").textContent = `${list.length} rezultate`;
+      if(!list.length){ rows.innerHTML = `<tr><td colspan="3" class="muted">Niciun rezultat.</td></tr>`; return; }
+      rows.innerHTML = list.map(o => {
+        const t = o.type || "";
+        const dom = o.domain ? `<a href="https://${o.domain}" rel="noopener">${o.domain}</a>` : "—";
+        return `<tr><td>${o.name||""}</td><td><span class="pill ${t}">${TYPE_LABEL[t]||t}</span></td><td>${dom}</td></tr>`;
+      }).join("");
+    }
+
+    async function load(){
+      try{
+        const [status, centrale] = await Promise.all([
+          fetch(`${DATA}/status.json`).then(r=>r.json()),
+          fetch(`${DATA}/organizatii/centrale.json`).then(r=>r.json()),
+        ]);
+        const c = status.collections || {};
+        document.getElementById("cards").innerHTML =
+          card(c.organizatii||0,"instituții (total)") +
+          card(c.organizatii_centrale||0,"centrale") +
+          card(c.organizatii_deconcentrate||0,"deconcentrate") +
+          card(c.organizatii_locale||0,"locale (CJ)") +
+          card(c.graph_edges||0,"relații graf");
+        document.getElementById("gen").textContent = (status.generated_at||"").slice(0,10);
+        ALL = (centrale.data||[]).slice().sort((a,b)=>(a.name||"").localeCompare(b.name||"","ro"));
+        render(ALL);
+      }catch(e){
+        document.getElementById("rows").innerHTML = `<tr><td colspan="3" class="muted">Nu am putut încărca datele (${e}). Rulează <code>python -m pipeline.run --build</code>.</td></tr>`;
+      }
+    }
+
+    document.getElementById("q").addEventListener("input", e=>{
+      const q = e.target.value.trim().toLowerCase();
+      render(!q ? ALL : ALL.filter(o => (o.name||"").toLowerCase().includes(q) || (o.domain||"").toLowerCase().includes(q)));
+    });
+    load();
+  </script>
+</body>
+</html>

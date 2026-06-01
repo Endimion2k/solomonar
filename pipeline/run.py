@@ -42,6 +42,10 @@ def _build_connector(source_id: str):
         from connectors.legislatie.legislatie import LegislatieConnector
 
         return LegislatieConnector()
+    if source_id == "ins_tempo":
+        from connectors.opendata.ins import InsConnector
+
+        return InsConnector()
     return None
 
 
