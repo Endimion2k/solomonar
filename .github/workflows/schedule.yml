@@ -1,0 +1,38 @@
+name: schedule
+
+# Cron-uri care dispatch source.yml pe grupuri, cu cadența din config/sources.yaml.
+
+on:
+  schedule:
+    - cron: "0 4 * * *"    # zilnic 04:00 UTC — parlament (ca în cdep-api-poc)
+    - cron: "0 3 * * 1"    # săptămânal, luni 03:00 — declarații, board-uri
+    - cron: "0 2 1 * *"    # lunar, ziua 1, 02:00 — dump-uri bulk
+  workflow_dispatch: {}
+
+jobs:
+  daily:
+    if: github.event.schedule == '0 4 * * *' || github.event_name == 'workflow_dispatch'
+    strategy:
+      matrix:
+        source: [cdep, senat]
+    uses: ./.github/workflows/source.yml
+    with:
+      source: ${{ matrix.source }}
+
+  weekly:
+    if: github.event.schedule == '0 3 * * 1'
+    strategy:
+      matrix:
+        source: [ani, soe_boards]
+    uses: ./.github/workflows/source.yml
+    with:
+      source: ${{ matrix.source }}
+
+  monthly:
+    if: github.event.schedule == '0 2 1 * *'
+    strategy:
+      matrix:
+        source: [onrc_dump, mf_bilanturi, sicap_bulk, datagov_ckan]
+    uses: ./.github/workflows/source.yml
+    with:
+      source: ${{ matrix.source }}

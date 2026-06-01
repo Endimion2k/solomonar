@@ -1,0 +1,461 @@
+# ============================================================================
+# ROMEGA — Registrul de surse (single source of truth pentru connectors)
+# ----------------------------------------------------------------------------
+# Acest fișier e CONSUMAT de connectors (pipeline-ul citește de aici) ȘI e
+# echivalentul machine-readable al docs/03-SOURCES.md. Nu lăsa cele două să
+# diveargă: orice sursă nouă se adaugă AICI întâi.
+#
+# access:   api | bulk | scrape | headless | paid
+# cadence:  daily | weekly | monthly | onbuild | ondemand
+# tier:     central | subordinated | deconcentrated | local_autonomy | parliament
+# phase:    0..5  (valul din docs/00-MASTERPLAN.md)
+# status:   planned | wip | active
+# ============================================================================
+
+meta:
+  version: 0.1.0
+  updated: "2026-06-01"
+  note: "Verificat iunie 2026. Vezi docs/03-SOURCES.md pentru context."
+
+defaults:
+  user_agent: "ROMEGA-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
+  rate_limit_per_host: "1/s"
+  respect_robots: true
+  cache_bronze: true
+
+# ----------------------------------------------------------------------------
+# A. PARLAMENT
+# ----------------------------------------------------------------------------
+sources:
+  - id: cdep
+    name: "Camera Deputaților"
+    category: parliament
+    tier: parliament
+    base_url: "https://www.cdep.ro"
+    access: scrape
+    format: [html, xml, pdf]
+    auth: none
+    cadence: daily
+    phase: 0
+    priority: high
+    connector: parlament/cdep
+    status: planned
+    needs_self_hosted_runner: true   # geo-block cloud IPs
+    notes: "Portare 1:1 a scriptelor run_*.py din cdep-api-poc. Sursa bicamerală a legii (cam=1=Senat)."
+
+  - id: senat
+    name: "Senatul României"
+    category: parliament
+    tier: parliament
+    base_url: "https://www.senat.ro"
+    access: scrape
+    format: [html, pdf]
+    auth: none
+    cadence: daily
+    phase: 1
+    priority: high
+    connector: parlament/senat
+    status: planned
+    needs_self_hosted_runner: true
+    id_scheme: guid                  # NU împarte ID cu cdep → crosswalk pe nume+legislatură
+    endpoints:
+      senators: "FisaSenatori.aspx"
+      senator: "FisaSenator.aspx?ParlamentarID={guid}"
+      votes: "Voturiplen.aspx"
+      bills: "legiproiect.aspx"
+      bill_file: "Legis/Lista.aspx?cod={cod}&NR={nr}&AN={an}"
+      questions: "VizualizareIntrebariInterpelari.aspx"
+      committees: "EnumComisii.aspx?Permanenta=1"
+      stenograms: "StenoPag2.aspx"
+
+# ----------------------------------------------------------------------------
+# B. CENTRUL GUVERNULUI
+# ----------------------------------------------------------------------------
+  - id: gov
+    name: "Guvernul României"
+    category: government
+    tier: central
+    base_url: "https://gov.ro"
+    access: scrape
+    format: [html, pdf]
+    phase: 5
+    priority: medium
+    connector: institutie/generic
+    status: planned
+
+  - id: sgg
+    name: "Secretariatul General al Guvernului"
+    category: government
+    tier: central
+    base_url: "https://sgg.gov.ro"
+    access: scrape
+    phase: 5
+    priority: medium
+    connector: institutie/generic
+    status: planned
+
+# ----------------------------------------------------------------------------
+# C. MINISTERE (16) — generate cu connector generic + listă
+# ----------------------------------------------------------------------------
+  - id: ministere
+    name: "Ministerele Guvernului României"
+    category: ministry
+    tier: central
+    access: scrape
+    phase: 5
+    priority: medium
+    connector: institutie/generic
+    status: planned
+    versioned: true                  # structura se schimbă la fiecare cabinet
+    items:
+      - { id: mae,      name: "Ministerul Afacerilor Externe",                                   domain: "mae.ro" }
+      - { id: mai,      name: "Ministerul Afacerilor Interne",                                   domain: "mai.gov.ro" }
+      - { id: mapn,     name: "Ministerul Apărării Naționale",                                   domain: "mapn.ro" }
+      - { id: just,     name: "Ministerul Justiției",                                            domain: "just.ro" }
+      - { id: mf,       name: "Ministerul Finanțelor",                                           domain: "mfinante.gov.ro" }
+      - { id: economie, name: "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului", domain: "economie.gov.ro" }
+      - { id: energie,  name: "Ministerul Energiei",                                             domain: "energie.gov.ro" }
+      - { id: mt,       name: "Ministerul Transporturilor și Infrastructurii",                   domain: "mt.ro" }
+      - { id: madr,     name: "Ministerul Agriculturii și Dezvoltării Rurale",                   domain: "madr.ro" }
+      - { id: mmediu,   name: "Ministerul Mediului, Apelor și Pădurilor",                        domain: "mmediu.ro" }
+      - { id: mdlpa,    name: "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",     domain: "mdlpa.ro" }
+      - { id: mfe,      name: "Ministerul Investițiilor și Proiectelor Europene",                domain: "mfe.gov.ro" }
+      - { id: mmuncii,  name: "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale", domain: "mmuncii.gov.ro" }
+      - { id: ms,       name: "Ministerul Sănătății",                                            domain: "ms.ro" }
+      - { id: edu,      name: "Ministerul Educației și Cercetării",                              domain: "edu.ro" }
+      - { id: cultura,  name: "Ministerul Culturii",                                             domain: "cultura.ro" }
+
+# ----------------------------------------------------------------------------
+# D. AGENȚII & AUTORITĂȚI CENTRALE (Tier 2)
+# ----------------------------------------------------------------------------
+  - id: anaf_api
+    name: "ANAF — API platitori TVA / date firmă"
+    category: agency
+    tier: subordinated
+    base_url: "https://webservicesp.anaf.ro/PlatitorTvaRest/api/v8/ws/tva"
+    access: api
+    format: json
+    auth: none
+    method: POST
+    rate_limit: "100 CUI/req, 1 req/s"
+    cadence: ondemand
+    phase: 3
+    priority: high
+    connector: fiscal/anaf
+    status: planned
+    docs: "https://static.anaf.ro/static/10/Anaf/Informatii_R/Servicii_web/doc_WS_V8.txt"
+
+  - id: ani
+    name: "ANI — Declarații de avere și interese"
+    category: agency
+    tier: subordinated
+    base_url: "https://declaratii.integritate.eu"
+    access: headless
+    format: pdf
+    auth: none
+    cadence: weekly
+    phase: 2
+    priority: high
+    connector: ani/portal
+    status: planned
+    legal: "Legea 176/2010; redactări obligatorii (CNP/adrese/semnături)"
+    archive_url: "https://old-declaratii.integritate.eu"
+    notes: "SPA JS, ~1.6M declarații, fără API/bulk. 2022+ native PDF; pre-2022 scanat → OCR."
+
+  - id: onrc
+    name: "ONRC — Registrul Comerțului"
+    category: agency
+    tier: subordinated
+    base_url: "https://www.onrc.ro"
+    access: scrape
+    format: [html, pdf]
+    phase: 3
+    priority: high
+    connector: companii/onrc
+    status: planned
+    notes: "RECOM gratis (info). Documente oficiale = plătit. UBO = restricționat (Legea 86/2025)."
+
+  - id: agentii_centrale
+    name: "Agenții & autorități centrale (Tier 2)"
+    category: agency
+    tier: subordinated
+    access: scrape
+    phase: 5
+    priority: medium
+    connector: institutie/generic
+    status: planned
+    items:
+      - { id: avr,    name: "Autoritatea Vamală Română",                 domain: "customs.ro" }
+      - { id: anap,   name: "Agenția Națională pentru Achiziții Publice", domain: "anap.gov.ro" }
+      - { id: dna,    name: "Direcția Națională Anticorupție",            domain: "pna.ro" }
+      - { id: dga,    name: "Direcția Generală Anticorupție",            domain: "mai-dga.ro" }
+      - { id: anabi,  name: "ANABI",                                      domain: "anabi.just.ro" }
+      - { id: ancpi,  name: "ANCPI — Cadastru",                          domain: "ancpi.ro" }
+      - { id: ccr,    name: "Curtea de Conturi",                         domain: "curteadeconturi.ro" }
+      - { id: anrp,   name: "ANRP — Restituirea Proprietăților",         domain: "mfinante.gov.ro/anrp" }
+      - { id: asf,    name: "Autoritatea de Supraveghere Financiară",    domain: "asfromania.ro" }
+      - { id: anre,   name: "ANRE — Reglementare Energie",               domain: "anre.ro" }
+      - { id: ancom,  name: "ANCOM — Comunicații",                       domain: "ancom.ro" }
+      - { id: cc,     name: "Consiliul Concurenței",                     domain: "consiliulconcurentei.ro" }
+      - { id: anspdcp,name: "ANSPDCP — Protecția Datelor (GDPR)",        domain: "dataprotection.ro" }
+      - { id: aep,    name: "Autoritatea Electorală Permanentă",         domain: "roaep.ro" }
+      - { id: cnsc,   name: "CNSC — Soluționarea Contestațiilor",        domain: "cnsc.ro" }
+      - { id: cnas,   name: "Casa Națională de Asigurări de Sănătate",   domain: "cnas.ro" }
+      - { id: cnpp,   name: "Casa Națională de Pensii Publice",          domain: "cnpp.ro" }
+      - { id: anofm,  name: "ANOFM — Ocuparea Forței de Muncă",          domain: "anofm.ro" }
+      - { id: anpis,  name: "ANPIS — Plăți și Inspecție Socială",        domain: "mmanpis.ro" }
+      - { id: anpc,   name: "ANPC — Protecția Consumatorilor",           domain: "anpc.ro" }
+    # NOTĂ: ANRMAP desființată (2015 → ANAP). A NU se indexa.
+
+# ----------------------------------------------------------------------------
+# F/G. COMPANII DE STAT + DATE FINANCIARE
+# ----------------------------------------------------------------------------
+  - id: amepip
+    name: "AMEPIP — Raport întreprinderi publice (master list SOE)"
+    category: soe
+    tier: subordinated
+    base_url: "https://amepip.gov.ro"
+    access: bulk
+    format: pdf
+    phase: 3
+    priority: high
+    connector: companii/amepip
+    status: planned
+    master_list: "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf"
+    notes: "Anexa 1 = CUI + nume + autoritate tutelară. ~1.320 monitorizate (146 centrale + 1.174 locale)."
+
+  - id: companiidestat
+    name: "companiidestat.ro (agregator independent)"
+    category: soe
+    base_url: "https://companiidestat.ro"
+    access: scrape
+    phase: 3
+    priority: medium
+    connector: companii/companiidestat
+    status: planned
+    notes: "1.247 indexate / 1.502 urmărite, salarii executivi, subvenții, 2019–2024. API menționat, nedocumentat."
+
+  - id: bvb
+    name: "Bursa de Valori București (SOE listate)"
+    category: soe
+    base_url: "https://bvb.ro"
+    access: scrape
+    phase: 3
+    priority: medium
+    connector: companii/bvb
+    status: planned
+    notes: "Board, hotărâri AGA, financiare: Hidroelectrica, Romgaz, Nuclearelectrica, Transgaz, Transelectrica, Conpet, Oil Terminal."
+
+  - id: soe_boards
+    name: "Board-uri SOE (OUG 109/2011 Art. 51, site-uri proprii)"
+    category: soe
+    access: scrape
+    phase: 3
+    priority: medium
+    connector: companii/boards
+    status: planned
+    notes: "CA/directorat + CV + remunerație. Conformare inegală; crawl per companie."
+
+  - id: mf_bilanturi
+    name: "Ministerul Finanțelor — bilanțuri (bulk via data.gov.ro)"
+    category: fiscal
+    access: bulk
+    format: [txt, csv]
+    phase: 3
+    priority: high
+    connector: fiscal/mf-bilanturi
+    status: planned
+    dataset_pattern: "situatii_financiare_{an}"   # 2012..2024
+    notes: "Indicatori financiari per CUI. Cheia naturală = CUI."
+
+  - id: mf_lookup
+    name: "Ministerul Finanțelor — info fiscale și bilanțuri (per CUI)"
+    category: fiscal
+    base_url: "https://mfinante.gov.ro/ro/persoane-juridice/informatii-fiscale-si-bilanturi"
+    access: scrape
+    format: html
+    phase: 3
+    priority: low
+    connector: fiscal/mf-lookup
+    status: planned
+    notes: "Single-CUI live (fără API). Bulk = mf_bilanturi."
+
+# ----------------------------------------------------------------------------
+# H. ACȚIONARIAT / PROPRIETATE (vezi tensiunea T1 în STATE.md)
+# ----------------------------------------------------------------------------
+  - id: onrc_dump
+    name: "data.gov.ro — dump ONRC (firme + reprezentanți legali)"
+    category: ownership
+    access: bulk
+    format: csv
+    license: "CC BY 4.0"
+    phase: 3
+    priority: high
+    connector: opendata/datagov
+    status: planned
+    files: [OD_FIRME.CSV, OD_REPREZENTANTI_LEGALI, OD_CAEN_AUTORIZAT, OD_STARE_FIRMA, OD_SUCURSALE_ALTE_STATE_MEMBRE]
+    notes: "GRATIS. Conține reprezentanți legali, NU asociați/% și NU UBO."
+
+  - id: termene
+    name: "termene.ro — API acționariat (Asociați și Administratori)"
+    category: ownership
+    base_url: "https://apis.termene.ro"
+    access: paid
+    format: json
+    auth: subscription
+    phase: 3
+    priority: medium
+    connector: companii/ownership
+    status: blocked            # depinde de decizia de buget T1
+    provides_shareholders: true
+    notes: "Asociați: nume, funcție, %, dată naștere. ToS: fără republicare în masă."
+
+  - id: risco
+    name: "risco.ro — API ACT (acționari + cote)"
+    category: ownership
+    access: paid
+    format: json
+    pricing: "~1 RON/query, min 100 RON/lună"
+    phase: 3
+    priority: medium
+    connector: companii/ownership
+    status: blocked            # depinde de T1
+    provides_shareholders: true
+
+  - id: ubo
+    name: "Registrul Beneficiarilor Reali (UBO)"
+    category: ownership
+    base_url: "https://www.onrc.ro/index.php/ro/informatii-privind-beneficiarii-reali"
+    access: paid
+    phase: null
+    priority: out_of_scope
+    status: blocked
+    legal: "Legea 86/2025 — interes legitim + taxă + semnătură; jurnaliștii pot fi refuzați"
+    notes: "Practic în afara scopului automat (restricționat din 2025)."
+
+# ----------------------------------------------------------------------------
+# I. ACHIZIȚII PUBLICE
+# ----------------------------------------------------------------------------
+  - id: sicap_bulk
+    name: "SICAP/SEAP — achiziții (bulk data.gov.ro)"
+    category: procurement
+    access: bulk
+    format: xlsx
+    license: "OGL v1.0"
+    phase: 4
+    priority: high
+    connector: achizitii/datagov-xlsx
+    status: planned
+    dataset_pattern: "achizitii-publice-{an}"   # 28 fișiere/an, publisher ADR
+    notes: "FĂRĂ OCDS funcțional. Cale stabilă = XLSX."
+
+  - id: elicitatie_json
+    name: "e-licitatie istoric — API legacy (JSON)"
+    category: procurement
+    base_url: "https://istoric.e-licitatie.ro/api-pub"
+    access: api
+    format: json
+    phase: 4
+    priority: low
+    connector: achizitii/elicitatie-json
+    status: planned
+    stability: fragile
+    notes: "Nedocumentat, reverse-engineered. Endpoints C_PUBLIC_*. Opțional, pentru detaliu."
+
+# ----------------------------------------------------------------------------
+# J. LEGISLAȚIE
+# ----------------------------------------------------------------------------
+  - id: legislatie
+    name: "Portal Legislativ (legislatie.just.ro)"
+    category: legislation
+    base_url: "http://legislatie.just.ro/apiws"
+    access: api
+    format: xml-soap
+    auth: token             # GetToken gratis
+    phase: 5
+    priority: medium
+    connector: opendata/legislatie
+    status: planned
+    notes: "150.000+ acte. Flow: GetToken → Search. Monitorul Oficial PDF e paywall — folosim asta."
+
+# ----------------------------------------------------------------------------
+# K. ENRICHMENT + OPEN DATA
+# ----------------------------------------------------------------------------
+  - id: datagov_ckan
+    name: "data.gov.ro — portal CKAN"
+    category: opendata
+    base_url: "https://data.gov.ro/api/3/action"
+    access: api
+    format: json
+    auth: none
+    phase: 3
+    priority: high
+    connector: opendata/datagov
+    status: planned
+    key_datasets: [situatii_financiare, achizitii-publice, firme, drepturi-salariale, buget, informatii_fiscale]
+
+  - id: bnr
+    name: "BNR — curs valutar"
+    category: enrichment
+    base_url: "https://www.bnr.ro/nbrfxrates.xml"
+    access: api
+    format: xml
+    auth: none
+    phase: 5
+    priority: low
+    connector: opendata/bnr
+    status: planned
+    archive: "https://curs.bnr.ro/files/xml/years/nbrfxrates{an}.xml"
+
+  - id: ins_tempo
+    name: "INS Tempo — statistică"
+    category: enrichment
+    base_url: "http://statistici.insse.ro:8077/tempo-ins"
+    access: api
+    format: json
+    auth: none
+    phase: 5
+    priority: low
+    connector: opendata/ins
+    status: planned
+
+# ----------------------------------------------------------------------------
+# L. TIER 3 — SERVICII DECONCENTRATE (templated: tip × 42 unități)
+# ----------------------------------------------------------------------------
+  - id: deconcentrate
+    name: "Servicii publice deconcentrate (Tier 3)"
+    category: deconcentrated
+    tier: deconcentrated
+    access: scrape
+    phase: 5
+    priority: medium
+    connector: institutie/deconcentrat_template
+    status: planned
+    coordinated_by: "Prefect ({jud}.prefectura.mai.gov.ro)"
+    units: 42                # 41 județe + București (unele regionale → ~900-1100 real)
+    service_types:
+      sanatate_social: [DSP, CAS, CJP, AJPIS]
+      munca: [AJOFM, ITM]
+      educatie_cultura: [ISJ, DJC, DJST]
+      agricultura: [DAJ, DSVSA, APIA, OJFIR, ANIF]
+      mediu: [APM, GNM, "Garda Forestieră", SGA]
+      finante: [DGRFP, AJFP, DRV]     # DGRFP/DRV regionale
+      registre: [OCPI, ORC]
+      ordine: [IPJ, IJJ, ISU]
+      consumator: [CJPC, OPC]
+      statistica: [DJS]               # regional
+
+# ----------------------------------------------------------------------------
+# M. AXA LOCALĂ (Consilii Județene — tier SEPARAT, NU stat central)
+# ----------------------------------------------------------------------------
+  - id: local_cj
+    name: "Instituții în subordinea Consiliilor Județene"
+    category: local
+    tier: local_autonomy
+    access: scrape
+    phase: 5
+    priority: low
+    connector: institutie/local_template
+    status: planned
+    warning: "NU sunt servicii deconcentrate ale statului central — autonomie locală."
+    service_types: [DGASPC, DJEP, "spitale județene", "drumuri/poduri județene"]

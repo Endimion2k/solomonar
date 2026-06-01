@@ -1,0 +1,12 @@
+# Normalizează line endings la LF în repo (consistent cross-platform).
+* text=auto eol=lf
+
+# Fixture-uri de test = output brut de server, păstrate EXACT (fără conversie).
+connectors/**/fixtures/** -text
+
+# Binare
+*.png binary
+*.jpg binary
+*.pdf binary
+*.duckdb binary
+*.sqlite binary

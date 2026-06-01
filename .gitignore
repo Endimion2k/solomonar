@@ -1,0 +1,36 @@
+# Bronze (artefacte brute cache-uite) și build DB — NU se comit
+data/raw/
+data/build/
+*.duckdb
+*.duckdb.wal
+
+# SQLite registre canonice: SE COMIT (romega_id stabil) — vezi excepția
+!data/build/registry.sqlite
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+*.egg-info/
+dist/
+build/
+
+# Playwright / OCR temp
+.playwright/
+tmp_discovery/
+*.tmp
+
+# Pagefind index generat
+web/pagefind/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Memorie locală (per CLAUDE.md — nu se comite)
+.claude/memory/

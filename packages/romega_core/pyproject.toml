@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "romega-core"
+version = "0.1.0"
+description = "ROMEGA shared core: HTTP, parsing, canonical models, entity resolution, IO"
+requires-python = ">=3.11"
+license = { text = "OGL-3.0" }
+dependencies = [
+  "pydantic>=2.6",
+  "python-dateutil>=2.9",
+  "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+http = ["requests>=2.31", "truststore>=0.9", "parsel>=1.9"]
+pdf = ["pdfplumber>=0.11", "pypdf>=4.0"]
+dev = ["pytest>=8.0"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["romega_core*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

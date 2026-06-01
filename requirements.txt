@@ -1,0 +1,15 @@
+# ROMEGA — dependențe runtime (pinuite soft; CI instalează + `pip install -e packages/romega_core`)
+# Moștenit din cdep-api-poc + adăugiri (DuckDB, PyYAML).
+
+pydantic>=2.6
+python-dateutil>=2.9
+pyyaml>=6.0
+requests>=2.31
+truststore>=0.9          # cert store OS (fix antivirus/firewall MITM pe Windows)
+parsel>=1.9              # CSS/XPath
+duckdb>=0.10             # engine analitic embedded (staging + gold + graf)
+pdfplumber>=0.11         # declarații PDF (Faza 2)
+
+# Opțional, per fază (decomentează când e nevoie):
+# playwright>=1.42       # ANI SPA (Faza 2) — apoi: playwright install chromium
+# pytesseract>=0.3.10    # OCR declarații pre-2022 (Faza 2)

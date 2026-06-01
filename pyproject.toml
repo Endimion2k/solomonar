@@ -1,0 +1,40 @@
+# ROMEGA — workspace config (placeholder Faza 0)
+# Stack moștenit din cdep-api-poc + adăugiri (DuckDB, Playwright, OCR).
+
+[project]
+name = "romega"
+version = "0.1.0"
+description = "Romania Open Mega-Graph of the State — platformă de transparență a aparatului de stat"
+requires-python = ">=3.11"
+license = { text = "OGL-3.0" }
+
+dependencies = [
+  # HTTP / scraping (din cdep-api-poc)
+  "requests>=2.31",
+  "truststore>=0.9",        # SSL legacy cdep.ro pe Windows
+  "parsel>=1.9",            # CSS/XPath (Scrapy extraction)
+  # Modele
+  "pydantic>=2.6",
+  # Build DB
+  "duckdb>=0.10",           # engine analitic embedded (staging + gold + graf)
+  # PDF / declarații
+  "pypdf>=4.0",
+  "pdfplumber>=0.11",
+  # Config
+  "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+headless = ["playwright>=1.42"]      # ANI SPA (Faza 2)
+ocr = ["pytesseract>=0.3.10", "Pillow>=10.0"]   # declarații pre-2022 (Faza 2)
+dev = ["pytest>=8.0", "ruff>=0.3", "pre-commit>=3.6"]
+
+# Workspace: packages/romega_core + connectors/* sunt module locale.
+# (structura completă în README.md)
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.pytest.ini_options]
+testpaths = ["packages/romega_core/tests", "pipeline/tests", "connectors/parlament/tests"]

@@ -1,0 +1,45 @@
+name: source
+
+# Workflow GENERIC parametrizat pe source_id (din config/sources.yaml).
+# Apelat manual (workflow_dispatch) sau de schedule.yml (workflow_call).
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "source_id din config/sources.yaml (ex. cdep, senat, ani)"
+        required: true
+        type: string
+  workflow_call:
+    inputs:
+      source:
+        required: true
+        type: string
+
+jobs:
+  run:
+    # Runner self-hosted în RO: cdep.ro/senat.ro geo-blochează IP-urile de cloud.
+    runs-on: [self-hosted, romania]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+          python -m pip install -e packages/romega_core
+
+      - name: Run connector + pipeline
+        run: python -m pipeline.run --source ${{ inputs.source }}
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "romega-bot"
+          git config user.email "bot@romega.local"
+          git add data/v1 data/build/registry.sqlite || true
+          git commit -m "data: refresh ${{ inputs.source }}" || echo "nimic de comis"
+          git push || true
