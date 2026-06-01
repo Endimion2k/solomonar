@@ -38,6 +38,10 @@ def _build_connector(source_id: str):
         from connectors.opendata.bnr import BnrConnector
 
         return BnrConnector()
+    if source_id == "legislatie":
+        from connectors.legislatie.legislatie import LegislatieConnector
+
+        return LegislatieConnector()
     return None
 
 
