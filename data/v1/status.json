@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-06-01T15:17:22.526083+00:00",
+  "version": "0.1.0",
+  "collections": {
+    "organizatii": 1429,
+    "organizatii_centrale": 43,
+    "organizatii_deconcentrate": 1218,
+    "organizatii_locale": 168,
+    "graph_edges": 16
+  }
+}

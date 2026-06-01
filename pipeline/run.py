@@ -45,7 +45,15 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="romega")
     ap.add_argument("--source", help="source_id din config/sources.yaml")
     ap.add_argument("--list", action="store_true", help="listează toate sursele")
+    ap.add_argument("--build", action="store_true", help="build gold → data/v1/*.json")
     args = ap.parse_args(argv)
+
+    if args.build:
+        from pipeline.build import build_all
+
+        status = build_all()
+        print(f"[build] {status['collections']}")
+        return 0
 
     doc = load_sources()
 
