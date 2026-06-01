@@ -78,6 +78,7 @@ class EdgeType(StrEnum):
     AWARDED_CONTRACT = "AWARDED_CONTRACT"
     DECLARED = "DECLARED"
     SUBORDINATE_OF = "SUBORDINATE_OF"
+    LEGAL_REP = "LEGAL_REP"  # reprezentant legal (Person → Company), din ONRC
 
 
 # --------------------------------------------------------------------------- #
