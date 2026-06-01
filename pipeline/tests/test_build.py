@@ -30,3 +30,15 @@ def test_build_control_edges_resolve_to_org_node(tmp_path):
     ctrl = next(e for e in edges if e["type"] == "CONTROLS" and e["dst"] == romgaz)
     # Romgaz e controlat de Ministerul Energiei → nodul-Organization REAL (org_id 'energie')
     assert ctrl["src"] == org_id("energie")
+
+
+def test_control_chain_on_published_graph(tmp_path):
+    """End-to-end: din graful PUBLICAT, 'ce controlează Ministerul Energiei?' → SOE-urile."""
+    from pipeline.gold.graph import load_published_graph
+
+    build_all(tmp_path)
+    g = load_published_graph(tmp_path)
+    controlled = {row[0] for row in g.control_chain(org_id("energie"))}
+    assert Company.id_for_cui(14056826) in controlled  # Romgaz
+    assert Company.id_for_cui(10874881) in controlled  # Nuclearelectrica
+    g.close()

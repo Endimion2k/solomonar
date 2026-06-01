@@ -9,6 +9,7 @@ Activează exact interogările care diferențiază ROMEGA (vezi docs/02-DATA-MOD
 from __future__ import annotations
 
 import json
+from pathlib import Path
 
 import duckdb
 
@@ -82,3 +83,12 @@ class GraphStore:
 
     def close(self) -> None:
         self.con.close()
+
+
+def load_published_graph(data_dir: str | Path) -> GraphStore:
+    """Reconstruiește un GraphStore din `data/v1/graph_edges.json` publicat (publish → query)."""
+    g = GraphStore()
+    edges = json.loads((Path(data_dir) / "graph_edges.json").read_text(encoding="utf-8"))
+    for e in edges:
+        g.add_edge(e["src"], e["dst"], e.get("type", ""), e.get("props"))
+    return g

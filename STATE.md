@@ -9,6 +9,18 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
 
 ## Poziția curentă
 
+> **SUMAR (2026-06-01, sesiune autonomă):** Faze 0–6 implementate · **95 teste verzi** ·
+> **13 commit-uri** pe `Endimion2k/romega` (privat) · **API static publicat** în `data/v1/`
+> (1.429 instituții + 7 SOE reale + graf 23 muchii) · client web · validat LIVE (cdep.ro,
+> ANAF v9, data.gov.ro, BNR, INS, SICAP). Bucla completă: scrape/API → resolve → graf →
+> publish JSON → query (ex. `control_chain(Min. Energiei)` → cele 7 SOE).
+>
+> **Backlog rămas:** parsare bugete/salarii (heterogen) · scrapere coverage (Curtea de Conturi,
+> AEP, DNA) · rezoluție reprezentanți ONRC → Person · board-uri Art.51 (runner) · **acționariat %
+> plătit (DEFERIT, D7)** · deploy GitHub Pages + runner self-hosted.
+
+---
+
 **Faza 0 — Fundație: COMPLETĂ (cod) — 44/44 teste verzi.** `cdep-api-poc` clonat sparse la
 `../cdep-api-poc` ca referință. venv la `.venv`, `romega-core` instalat editable.
 
