@@ -76,7 +76,33 @@ romega/
 
 ## Status
 
-🟡 **Faza 0 — Fundație** (în planificare). Vezi [`docs/00-MASTERPLAN.md`](docs/00-MASTERPLAN.md) și [`STATE.md`](STATE.md).
+🟢 **Faze 0–6 implementate · 93 teste verzi · API static publicat.** Vezi [`STATE.md`](STATE.md) pentru detalii.
+
+| Domeniu | Stare | Validare |
+|---|---|---|
+| Fundație (core + pipeline DuckDB/SQLite + CI) | ✅ | 93 teste |
+| Parlament — Camera + Senat + **unificare bicamerală** | ✅ | HTML real cdep.ro |
+| Declarații avere/interese (ANI) + **guard redactare PII** + delta | ✅ | template ANI |
+| Companii de stat — ANAF API + AMEPIP + ONRC + `CONTROLS` | ✅ | **live** (Romgaz, Hidroelectrica…) |
+| Achiziții (SICAP) + `AWARDED_CONTRACT` + **follow-the-money** | ✅ | live (28 XLSX) |
+| Instituții — generic config-driven: **1.429** (centrale + deconcentrate + locale) | ✅ | din `sources.yaml` |
+| Legislație (parsare referințe + SOAP) · BNR · INS Tempo · CKAN | ✅ | **live** (BNR, INS 1915 matrici) |
+| Export → `data/v1/*.json` (API static) + client web | ✅ | publicat |
+
+**Întrebări pe care le modelează deja:** *aceeași persoană = deputat+senator+membru CA* · *stat→SOE→subsidiară* · *firmă de demnitar care ia bani publici*.
+
+### Cum rulezi
+```bash
+python -m venv .venv && .venv/Scripts/python -m pip install -r requirements.txt
+.venv/Scripts/python -m pip install -e packages/romega_core
+.venv/Scripts/python -m pytest .                       # 93 teste
+.venv/Scripts/python -m pipeline.run --list            # listează sursele
+.venv/Scripts/python -m pipeline.run --build           # generează data/v1/*.json
+# client: deschide web/index.html
+```
+
+> Validat live de pe o mașină din RO: cdep.ro (SSL legacy), ANAF API (v9), data.gov.ro, BNR, INS, SICAP.
+> Rularea programată/la volum → runner self-hosted (geo-block cloud).
 
 ## Licență
 
