@@ -20,11 +20,15 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
 > (133 unici) publicați în `data/v1/parlament/` (cu birth_date din profile → omonimi separați la cdep;
 > senat fără birth_date → entități proprii, fără fals-merge cross-cameră).
 >
-> **🟡 Item 3 (coverage):** ✅ Curtea de Conturi + ✅ DNA (validate live). ❌ AEP = reCAPTCHA (Camoufox).
-> ⚠️ ANI: portal nou CONFIRMAT drivable cu Playwright (search input + buton); RĂMAS = extragere
-> rezultate din componenta Angular + mecanism PDF (subproiect). Parser+guard+delta gata (Faza 2).
+> **🟡 Item 3 (coverage):** ✅ Curtea de Conturi + ✅ DNA (validate live).
+> **ANI:** ✅ harvest API DESCHIS — **11.700 organizații** + 1.109 funcții + 42 județe în
+> `data/v1/ani/`. Căutarea de declarații = **Cloudflare Turnstile** (anti-bot) → headless basic
+> NU trece; API search e Spring Boot la `/api/` (fields deschise, search gated). Parser+guard+delta gata.
+> **AEP:** reCAPTCHA. **Camoufox** (unealta prescrisă pt. ambele) instalat dar **spawn blocat de
+> antivirusul MITM** ("spawn UNKNOWN") → necesită excludere antivirus / rulare pe runner / solver Turnstile.
 >
-> **Backlog:** ANI harvest (driver rezultate) · AEP (Camoufox) · bugete/salarii (heterogen) ·
+> **Backlog (necesită acțiunea ta / runner):** ANI+AEP harvest = deblocare Camoufox (excludere
+> antivirus pt. camoufox.exe) SAU rulare pe runner SAU solver Turnstile · bugete/salarii (heterogen) ·
 > board-uri Art.51 (runner) · **acționariat % plătit (DEFERIT, D7)**.
 
 ---
