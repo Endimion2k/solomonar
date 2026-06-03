@@ -1,11 +1,12 @@
 {
-  "generated_at": "2026-06-03T20:52:44.941489+00:00",
-  "sursa": "site-uri ministere (Legea 176/2010, fara CAPTCHA)",
-  "total": 3,
+  "generated_at": "2026-06-03T21:34:10.925724+00:00",
+  "sursa": "site-uri ministere (Legea 176/2010, fara CAPTCHA) — crawl 2 niveluri",
+  "total": 51,
+  "pdf_descarcate": 350,
+  "pii_blocate": 0,
   "declaratii": [
     {
       "institutie": "Ministerul Afacerilor Externe",
-      "domain": "mae.ro",
       "pdf_url": "https://mae.ro/sites/default/files/file/anul_2021/2021_pdf/da_ba.pdf",
       "terenuri": 0,
       "cladiri": 0,
@@ -15,8 +16,487 @@
       "auto": 0
     },
     {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2023/06/ADAM-RODICA-BIANCA-AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 143116,
+      "datorii_ron": 302102,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-ADAM-A.-BIANCA-RODICA-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 196468,
+      "datorii_ron": 218938,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-ADAM-A.-BIANCA-RODICA-anual-pana-la-15-iunie.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 196468,
+      "datorii_ron": 218938,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-ADAM-A.-RODICA-BIANCA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 143116,
+      "datorii_ron": 302102,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/08/DA-ADAM-A.-BIANCA-RODICA-anual-pana-la-15-iunie.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 156359,
+      "datorii_ron": 218938,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Antonescu-I.-Anca-Stefania-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 1079912,
+      "venituri_ron": 103424,
+      "datorii_ron": 287850,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Buliga-G.-Toader-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 267336,
+      "datorii_ron": 299200,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-DUTA-S.-ANDRA-MARILENA-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 100849,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-MANOLACHE-M.-MADALINA-LACRAMIOARA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 198798,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Marasescu-F.-Mihaela-anual-pana-la-15-iunie.pdf",
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 128685,
+      "datorii_ron": 239952,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-OPREA-G.-MICA-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 93168,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-TODECI-C.-ANDRA-MARIA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 77628,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-TOZA-F.-CLAUDINA-LIVIA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 92729,
+      "datorii_ron": 75750,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Vida-S.-Maria-Roxana-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 96000,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-ZAMFIR-G.-Elena-Roxana-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 132000,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/312aa845fb6c5e808fa30fb03f32be78.pdf",
+      "terenuri": 8,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 4452340,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/614d4c629a6c8c2ede5cc3e9fb326bdb.pdf",
+      "terenuri": 4,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 190701,
+      "datorii_ron": 350000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/d3eae620820efa5ec416f6b6f170de5e.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 466148,
+      "venituri_ron": 224976,
+      "datorii_ron": 388683,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/ec749970051e460e8a704504af4ead23.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 121176,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/%C8%98erban_N._Lucia_Amalia_LENpFXo.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 227864,
+      "datorii_ron": 230000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/%C8%98uicu_G._George-Ionu%C8%9B_U9N5ZgK.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 30304,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Abala%C8%99i_S._R%C4%83zvan-Bogdan.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 203543,
+      "datorii_ron": 275048,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Achimescu_A._Ion.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 163210,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Achimescu_Ion.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 124111,
+      "datorii_ron": 460757,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Al_Hasoon_Bugaru_Ana_Maria.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 98810,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Al_Hasoon_Bugaru_M._Ana-Maria.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 79518,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Albu_C._Constantina.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 288121,
+      "datorii_ron": 36000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Albu_C._Constantina_2.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 288121,
+      "datorii_ron": 36000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_A._leana_Andreea.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 42910,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_Ileana_Andreea.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 64750,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_Ileana_Andreea_2.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 64750,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_S._Silviana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 69640,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_Florentina_Daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 90954,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_G._Sorin_Tiberiu.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 205000,
+      "venituri_ron": 320764,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_I._Florentina_Daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 81064,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_Sorin_Tiberiu.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 25000,
+      "venituri_ron": 320764,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Amza_Monica_Ileana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 69520,
+      "datorii_ron": 275000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Amza_S._Monica-Ileana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 65291,
+      "datorii_ron": 275000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andra_Marius_Daniel.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 241114,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andra_R._Marius-Daniel.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 137308,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andreescu_D._Drago%C8%99-Valentin.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 43031,
+      "datorii_ron": 50000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andreescu_Dragos_Valentin.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 50835,
+      "datorii_ron": 50000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angelescu_Mirela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 132965,
+      "datorii_ron": 463231,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angelescu_N._Mirela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 122992,
+      "datorii_ron": 463231,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Anghelache_F._Victori%C8%9Ba.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 109728,
+      "datorii_ron": 110000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Anghelache_Victorita.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 137194,
+      "datorii_ron": 110000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angheloiu_Gabriela.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 229009,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
       "institutie": "Ministerul Culturii",
-      "domain": "cultura.ro",
+      "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Cajal-S-DA-DI-2025.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10310,
+      "venituri_ron": 766954,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Culturii",
       "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2.pdf",
       "terenuri": 1,
       "cladiri": 1,
@@ -27,7 +507,6 @@
     },
     {
       "institutie": "Ministerul Culturii",
-      "domain": "cultura.ro",
       "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2025.pdf",
       "terenuri": 1,
       "cladiri": 1,
