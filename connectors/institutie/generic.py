@@ -15,7 +15,7 @@ CONTROLS folosește make_id pe NUMELE autorității, distinct de org-ul cu id-sl
 from __future__ import annotations
 
 import re
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 from romega_core.models import Edge, EdgeType, Organization, OrgType, Tier, make_id
 from romega_core.names import name_key
@@ -235,3 +235,49 @@ def find_declaration_links(html: bytes | str, base: str = "") -> list[str]:
                 seen.add(url)
                 out.append(url)
     return out
+
+
+# Excludem ghiduri/formulare/legi (nu sunt declarații completate).
+_RE_GUIDE = re.compile(r"ghid|formular|model|instruct|incompat|nomenclat|/lege|cerere|/anexa", re.IGNORECASE)
+_RE_SUBPAGE = re.compile(r"declarat|avere|integritate", re.IGNORECASE)
+
+
+def crawl_declaration_pdfs(
+    client, start_url: str, source_id: str, domain: str, max_depth: int = 2, max_pdfs: int = 200
+) -> list[str]:
+    """Crawl BFS depth-limited pe un site de instituție → toate PDF-urile de declarații.
+
+    Folosește client.fetch_many (PARALEL + cache bronze). Urmărește sub-paginile care conțin
+    'declarat/avere/integritate' (până la max_depth), strânge PDF-urile (excluzând ghiduri/formulare).
+    """
+    pdfs: set[str] = set()
+    visited: set[str] = set()
+    frontier = [start_url]
+    for depth in range(max_depth + 1):
+        frontier = [u for u in frontier if u not in visited]
+        if not frontier or len(pdfs) >= max_pdfs:
+            break
+        for u in frontier:
+            visited.add(u)
+        fetched = client.fetch_many([(u, source_id, ".html") for u in frontier], workers=6)
+        next_frontier: set[str] = set()
+        for page_url, content in fetched.items():
+            if not content:
+                continue
+            for a in selector(content).css("a"):
+                href = a.attrib.get("href", "")
+                if not href:
+                    continue
+                full = urljoin(page_url, href)
+                net = urlparse(full).netloc
+                if net and domain not in net:
+                    continue
+                if full.lower().split("?")[0].endswith(".pdf"):
+                    if not _RE_GUIDE.search(full):
+                        pdfs.add(full)
+                elif depth < max_depth and full not in visited:
+                    text = " ".join(a.css("::text").getall())
+                    if _RE_SUBPAGE.search(href + " " + text):
+                        next_frontier.add(full)
+        frontier = list(next_frontier)
+    return sorted(pdfs)[:max_pdfs]
