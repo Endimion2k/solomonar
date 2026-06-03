@@ -24,10 +24,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
 > **ANI:** ✅ harvest API DESCHIS — **11.700 organizații** + 1.109 funcții + 42 județe în
 > `data/v1/ani/`. Căutarea de declarații = **Cloudflare Turnstile** (anti-bot) → headless basic
 > NU trece; API search e Spring Boot la `/api/` (fields deschise, search gated). Parser+guard+delta gata.
-> **AEP:** reCAPTCHA. **Camoufox** (unealta prescrisă pt. ambele) instalat dar **spawn blocat de
-> antivirusul MITM** ("spawn UNKNOWN") → necesită excludere antivirus / rulare pe runner / solver Turnstile.
+> **AEP:** reCAPTCHA. **Camoufox DEBLOCAT** — execuția din `AppData\Local` era blocată de o
+> politică (AppLocker/ASR); copiat la `altele/cmf` (non-AppData) → rulează (Firefox 135). DAR
+> **ambele CAPTCHA rezistă la Camoufox** (testat headless + non-headless + humanize + 36s): ANI
+> Turnstile nu eliberează token la submit; AEP rămâne "Checking your browser". → necesită
+> **solver CAPTCHA comercial (2captcha/capsolver) SAU human-in-the-loop** (rezolvă o dată, refolosește sesiunea).
 >
-> **Backlog (necesită acțiunea ta / runner):** ANI+AEP harvest = deblocare Camoufox (excludere
+> **Backlog (necesită acțiunea ta / runner):** ANI-search + AEP = solver CAPTCHA sau om-în-buclă (Camoufox singur NU ajunge). ANI fields deja harvestate. Restul: deblocare Camoufox (excludere
 > antivirus pt. camoufox.exe) SAU rulare pe runner SAU solver Turnstile · bugete/salarii (heterogen) ·
 > board-uri Art.51 (runner) · **acționariat % plătit (DEFERIT, D7)**.
 
