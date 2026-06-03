@@ -9,21 +9,23 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
 
 ## Poziția curentă
 
-> **SUMAR (2026-06-03, sesiuni autonome):** Faze 0–6 + coverage · **98 teste verzi** · ~19
-> commit-uri pe `Endimion2k/romega` (privat) · **API static publicat** în `data/v1/`.
-> Validat LIVE de pe mașina din RO: cdep.ro, ANAF v9, data.gov.ro, BNR, INS, SICAP, Curtea de Conturi.
+> **SUMAR (2026-06-03, sesiuni autonome):** Faze 0–6 + coverage · **98 teste verzi** · 22
+> commit-uri pe `Endimion2k/romega` (PUBLIC) · **API STATIC LIVE** pe GitHub Pages.
+> Validat LIVE din RO: cdep.ro, senat.ro, ANAF v9, data.gov.ro, BNR, INS, SICAP, Curtea de Conturi, DNA, ANI portal.
 >
-> **RULARE LIVE REALĂ (Item 2):** scrape complet cdep → **335 deputați, 335 persoane unice,
-> 0 erori** publicate în `data/v1/parlament/` (cu birth_date din profile → omonimii separați corect).
+> **🟢 Item 1 (deploy): LIVE** — repo public, Pages "built". API la
+> `https://endimion2k.github.io/romega/data/v1/status.json` (HTTP 200), client la `/romega/web/`.
 >
-> **Item 1 (deploy):** BLOCAT — GitHub Pages necesită repo public (free) sau GitHub Pro; ai ales
-> *privat*, nu schimb vizibilitatea autonom. Tot restul e deploy-ready (`.nojekyll`, `data/v1`, `web/`).
+> **🟢 Item 2 (rulări live):** cdep → **335 deputați** (335 unici, 0 erori) + senat → **134 senatori**
+> (133 unici) publicați în `data/v1/parlament/` (cu birth_date din profile → omonimi separați la cdep;
+> senat fără birth_date → entități proprii, fără fals-merge cross-cameră).
 >
-> **Item 3 (coverage):** ✅ Curtea de Conturi (rapoarte audit, validat live) + ✅ DNA (comunicate,
-> validat pe URL-uri reale via firecrawl). ❌ AEP = reCAPTCHA (chiar și stealth) → necesită Camoufox/manual.
+> **🟡 Item 3 (coverage):** ✅ Curtea de Conturi + ✅ DNA (validate live). ❌ AEP = reCAPTCHA (Camoufox).
+> ⚠️ ANI: portal nou CONFIRMAT drivable cu Playwright (search input + buton); RĂMAS = extragere
+> rezultate din componenta Angular + mecanism PDF (subproiect). Parser+guard+delta gata (Faza 2).
 >
-> **Backlog rămas:** AEP (reCAPTCHA) · bugete/salarii (heterogen) · board-uri Art.51 + declarații ANI
-> live (runner/headless) · **acționariat % plătit (DEFERIT, D7)** · deploy (decizia ta: public/Pro).
+> **Backlog:** ANI harvest (driver rezultate) · AEP (Camoufox) · bugete/salarii (heterogen) ·
+> board-uri Art.51 (runner) · **acționariat % plătit (DEFERIT, D7)**.
 
 ---
 
