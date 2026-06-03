@@ -24,8 +24,15 @@ def _to_int(s: str | None) -> int | None:
         return None
 
 
-def _rows(csv_text: str) -> list[dict]:
-    reader = csv.DictReader(io.StringIO(csv_text))
+def _sniff_delimiter(csv_text: str) -> str:
+    """Dump-urile ONRC 2025 folosesc '^'; cele vechi ','. Detectează din prima linie."""
+    first = csv_text.lstrip("﻿").splitlines()[0] if csv_text.strip() else ""
+    return "^" if first.count("^") > first.count(",") else ","
+
+
+def _rows(csv_text: str, delimiter: str | None = None) -> list[dict]:
+    csv_text = csv_text.lstrip("﻿")
+    reader = csv.DictReader(io.StringIO(csv_text), delimiter=delimiter or _sniff_delimiter(csv_text))
     return [{(k or "").strip().lower(): (v or "").strip() for k, v in row.items()} for row in reader]
 
 

@@ -18,3 +18,12 @@ def test_parse_and_merge():
     romgaz = next(c for c in companies if c.cui == 14056826)
     assert romgaz.reg_com == "J40/100/2001"
     assert set(romgaz.legal_reps) == {"Popescu Ion", "Ionescu Maria"}
+
+
+def test_parse_firme_caret_delimiter():
+    """Dump-ul ONRC 2025 real folosește delimiter '^' + BOM + header MAJUSCULE."""
+    txt = "﻿DENUMIRE^CUI^COD_INMATRICULARE\nROMGAZ SA^14056826^J40/100/2001\n"
+    firme = parse_firme(txt)
+    assert 14056826 in firme
+    assert firme[14056826]["reg_com"] == "J40/100/2001"
+    assert firme[14056826]["name"] == "ROMGAZ SA"
