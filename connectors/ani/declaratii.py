@@ -188,22 +188,34 @@ def extract_pdf_text(pdf_bytes: bytes) -> str:
 
 
 class AniConnector:
-    """Arhetip `headless`. declaratii.integritate.eu e SPA JS → necesită Playwright.
+    """Arhetip `headless`. declaratii.integritate.eu — confirmat DRIVABLE cu Playwright (iunie 2026).
 
-    Flux (pe runner): headless drive search form → index declarații + URL-uri PDF →
-    fetch PDF (bronze) → extract_pdf_text (sau OCR pre-2022) → parse_avere_text → link Person.
+    DESCOPERIRE VALIDATĂ (probe Playwright live):
+    - Portal nou (BASE): SPA Angular Material. Title "Declaratii de avere si interese".
+      Căutare simplă = PRIMUL `input` (formControl ssidLastName). Buton submit: text "Cauta".
+      Căutare avansată: Instituție, Funcție, Localitate, Județ, Data, Tip declarație.
+      RĂMAS DE FĂCUT: extragerea rezultatelor — sunt în componente Angular custom (NU `<a href>`);
+      accesul la PDF pare a fi prin acțiune JS (download/blob), de reverse-engineering.
+    - Portal vechi (ARCHIVE, 2008–2022): server-rendered DAR ICEfaces JSF (ice.captureSubmit) —
+      căutare prin Ajax stateful (view-state + token), de asemenea non-trivial.
+
+    Flux țintă (pe runner): headless → search → result component → PDF URL/blob → fetch (bronze)
+    → extract_pdf_text (sau OCR pre-2022) → parse_avere_text → redaction.assert_clean → link Person.
+    Parserul + guard-ul + delta sunt GATA (Faza 2); rămâne doar driverul de rezultate.
     """
 
     source_id = "ani"
     BASE = "https://declaratii.integritate.eu"
     ARCHIVE = "https://old-declaratii.integritate.eu"
+    SEARCH_INPUT = "input"          # primul input = nume (căutare simplă)
+    SEARCH_BUTTON = "Cauta"          # text buton submit
 
     def __init__(self, client: Client | None = None) -> None:
         self.client = client or Client()
 
-    def search(self, **filters) -> list[dict]:  # pragma: no cover
+    def search(self, last_name: str, **filters) -> list[dict]:  # pragma: no cover - SPA live
         raise NotImplementedError(
-            "ANI e SPA JS — necesită Playwright (headless). "
-            "Instalează: pip install playwright && playwright install chromium. "
-            "Se validează pe runner-ul self-hosted RO."
+            "ANI confirmat drivable cu Playwright (vezi DESCOPERIRE în docstring): "
+            "search input = primul input, buton 'Cauta'. RĂMAS: extragerea rezultatelor din "
+            "componenta Angular custom + mecanismul de acces PDF (acțiune JS). Subproiect dedicat."
         )
