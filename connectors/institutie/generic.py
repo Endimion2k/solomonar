@@ -195,6 +195,30 @@ def build_local_from_config(
     return out
 
 
+SECTION_KW = {
+    "conducere": re.compile(r"conducere|cabinet|ministr|secretar de stat", re.IGNORECASE),
+    "declaratii": re.compile(r"declarat\w*\s*(de\s*)?aver|aver\w*.{0,8}interes", re.IGNORECASE),
+    "integritate": re.compile(r"integritate", re.IGNORECASE),
+    "transparenta": re.compile(r"transparen\w*\s*decizional", re.IGNORECASE),
+}
+
+
+def find_institution_sections(html: bytes | str, base: str = "") -> dict:
+    """Detectează secțiunile-cheie ale unui site de instituție (conducere, declarații, integritate)."""
+    sel = selector(html)
+    found: dict[str, str] = {}
+    for a in sel.css("a"):
+        href = a.attrib.get("href", "")
+        if not href:
+            continue
+        text = " ".join(t.strip() for t in a.css("::text").getall() if t.strip())
+        blob = f"{href} {text}"
+        for cat, rx in SECTION_KW.items():
+            if cat not in found and rx.search(blob):
+                found[cat] = urljoin(base + "/", href)
+    return found
+
+
 def find_declaration_links(html: bytes | str, base: str = "") -> list[str]:
     """Detectează linkuri PDF de declarații de avere/interese (pattern comun .gov.ro)."""
     sel = selector(html)

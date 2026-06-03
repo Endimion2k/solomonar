@@ -1,0 +1,216 @@
+{
+  "generated_at": "2026-06-03T20:33:06.418888+00:00",
+  "ministere": [
+    {
+      "id": "mae",
+      "name": "Ministerul Afacerilor Externe",
+      "domain": "mae.ro",
+      "sections": {
+        "conducere": "https://mae.ro/node/68557",
+        "transparenta": "https://mae.ro/node/2011",
+        "declaratii": "https://mae.ro/node/5104"
+      },
+      "declaratii_pdf": 6,
+      "status": "ok",
+      "declaratii_sample": [
+        "https://mae.ro/sites/default/files/file/anul_2019/2019_pdf/ghid_completare_dai_ianuarie_2019_actualizat.pdf",
+        "https://mae.ro/sites/default/files/file/anul_2019/2019_pdf/ghid_incompatibilitati_si_conflicte_ianuarie_2019.pdf",
+        "https://mae.ro/sites/default/files/file/anul_2016/2016_pdf/2016_formular_da.pdf"
+      ]
+    },
+    {
+      "id": "mai",
+      "name": "Ministerul Afacerilor Interne",
+      "domain": "mai.gov.ro",
+      "sections": {
+        "conducere": "https://www.mai.gov.ro/category/conducere/",
+        "declaratii": "https://www.mai.gov.ro/informatii-publice/declaratii-de-avere/",
+        "integritate": "https://www.mai.gov.ro/integritate-institutionala/"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "mapn",
+      "name": "Ministerul Apărării Naționale",
+      "domain": "mapn.ro",
+      "sections": {
+        "conducere": "https://www.mapn.ro/conducere/index.php",
+        "declaratii": "https://www.mapn.ro/declaratii/index.php",
+        "transparenta": "http://sg.mapn.ro/transparenta",
+        "integritate": "https://www.mapn.ro/integritate_institutionala/index.php"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "just",
+      "name": "Ministerul Justiției",
+      "domain": "just.ro",
+      "sections": {},
+      "declaratii_pdf": 0,
+      "status": "err:ConnectionError"
+    },
+    {
+      "id": "mf",
+      "name": "Ministerul Finanțelor",
+      "domain": "mfinante.gov.ro",
+      "sections": {},
+      "declaratii_pdf": 0,
+      "status": "ok"
+    },
+    {
+      "id": "economie",
+      "name": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "domain": "economie.gov.ro",
+      "sections": {
+        "conducere": "https://economie.gov.ro/legislatie/administrarea-participatiilor-statului/",
+        "declaratii": "https://economie.gov.ro/declaratii-de-avere-si-interese/",
+        "transparenta": "https://economie.gov.ro/",
+        "integritate": "https://economie.gov.ro/"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "energie",
+      "name": "Ministerul Energiei",
+      "domain": "energie.gov.ro",
+      "sections": {
+        "integritate": "https://energie.gov.ro/transparenta-si-integritate/",
+        "conducere": "https://energie.gov.ro/bogdan-ivan-ministrul-energiei-romania-se-afla-intr-o-pozitie-excelenta-pentru-a-deveni-un-jucator-important-in-industria-occidentala-a-materialelor-critice-prin-dezvoltarea-proiectului-de-la-feldi/"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok"
+    },
+    {
+      "id": "mt",
+      "name": "Ministerul Transporturilor și Infrastructurii",
+      "domain": "mt.ro",
+      "sections": {
+        "conducere": "https://mt.ro/despre-noi/conducere/ministrul-transporturilor",
+        "integritate": "https://mt.ro/strategia-in-transporturi/integritate-institutionala/codul-etic-deontologic-de-conduita"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok"
+    },
+    {
+      "id": "madr",
+      "name": "Ministerul Agriculturii și Dezvoltării Rurale",
+      "domain": "madr.ro",
+      "sections": {
+        "transparenta": "https://madr.ro/transparenta.html",
+        "conducere": "https://madr.ro/comunicare/alocari-semnificative-si-masuri-cu-aplicare-imediata-cerute-de-ministrul-tanczos-barna-la-bruxelles-pentru-sprijinirea-fermierilor.html"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok"
+    },
+    {
+      "id": "mmediu",
+      "name": "Ministerul Mediului, Apelor și Pădurilor",
+      "domain": "mmediu.ro",
+      "sections": {
+        "conducere": "https://mmediu.ro/despre-noi/conducere/",
+        "declaratii": "https://mmediu.ro/informatii-de-interes-public/declaratii-de-avere-si-interese/",
+        "integritate": "https://mmediu.ro/transparenta/concluziile-rapoartelor-de-control-elaborate-de-corp-control-integritate-si-anticoruptie/"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "mdlpa",
+      "name": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+      "domain": "mdlpa.ro",
+      "sections": {
+        "conducere": "https://mdlpa.ro/",
+        "declaratii": "https://mdlpa.ro/",
+        "transparenta": "https://mdlpa.ro/pages/prezentaregenerala141",
+        "integritate": "https://mdlpa.ro/pages/integritatesibunaguvernare"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "mfe",
+      "name": "Ministerul Investițiilor și Proiectelor Europene",
+      "domain": "mfe.gov.ro",
+      "sections": {
+        "conducere": "https://mfe.gov.ro/minister/conducere/",
+        "integritate": "https://mfe.gov.ro/informatii-de-interes-public/integritate-institutionala/",
+        "declaratii": "https://mfe.gov.ro/avertizor-in-interes-public/"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "mmuncii",
+      "name": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+      "domain": "mmuncii.gov.ro",
+      "sections": {
+        "conducere": "https://mmuncii.gov.ro/conducere/",
+        "declaratii": "https://mmuncii.gov.ro/declaratii-de-avere-si-interese/",
+        "transparenta": "https://mmuncii.gov.ro/transparenta-decizionala/",
+        "integritate": "https://mmuncii.gov.ro/integritate-institutionala/"
+      },
+      "declaratii_pdf": 2,
+      "status": "ok",
+      "declaratii_sample": [
+        "https://mmuncii.gov.ro/wp-content/uploads/2026/04/declaratie-de-avere_Dragos-Nicolae-Pislaru.pdf",
+        "https://mmuncii.gov.ro/wp-content/uploads/2026/04/declaratie-de-interese_Dragos-Nicolae-Pislaru.pdf"
+      ]
+    },
+    {
+      "id": "ms",
+      "name": "Ministerul Sănătății",
+      "domain": "ms.ro",
+      "sections": {
+        "conducere": "https://ms.ro/minister/conducere/",
+        "transparenta": "https://ms.ro/",
+        "declaratii": "https://ms.ro/informatii-de-interes-public/declaratii-de-avere-si-interese/",
+        "integritate": "https://ms.ro/informatii-de-interes-public/campanii-informare-educare-comunicare/avertizor-de-integritate/"
+      },
+      "declaratii_pdf": 0,
+      "status": "ok",
+      "declaratii_sample": []
+    },
+    {
+      "id": "edu",
+      "name": "Ministerul Educației și Cercetării",
+      "domain": "edu.ro",
+      "sections": {
+        "conducere": "https://edu.ro/echipa_conducere",
+        "declaratii": "https://edu.ro/declaratii-avere-interese",
+        "transparenta": "https://www.edu.ro/legea-52"
+      },
+      "declaratii_pdf": 2,
+      "status": "ok",
+      "declaratii_sample": [
+        "https://www.integritate.eu/Admin/Public/DWSDownload.aspx?File=Files%2fFiles%2fFormulare%2f101+FormularEDITABIL_DeclaratieAvere_Legea176_2010_Anexa1.pdf",
+        "https://www.integritate.eu/Admin/Public/DWSDownload.aspx?File=Files%2fFiles%2fFormulare%2f103+FormularEDITABIL_DeclaratieInterese_Legea176_2010_Anexa2_(1).pdf"
+      ]
+    },
+    {
+      "id": "cultura",
+      "name": "Ministerul Culturii",
+      "domain": "cultura.ro",
+      "sections": {
+        "conducere": "https://www.cultura.ro/conducere/",
+        "declaratii": "https://www.cultura.ro/declaratii-de-avere-si-de-interese/",
+        "integritate": "https://cultura.ro/"
+      },
+      "declaratii_pdf": 9,
+      "status": "ok",
+      "declaratii_sample": [
+        "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2.pdf",
+        "https://www.cultura.ro/wp-content/uploads/2025/08/Declaratia-de-interese-2025.pdf",
+        "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2025.pdf"
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@ from connectors.institutie.generic import (
     build_local_from_config,
     build_organizations,
     find_declaration_links,
+    find_institution_sections,
     generate_deconcentrated,
     org_id,
     resolve_org_by_name,
@@ -79,6 +80,18 @@ def test_resolve_org_by_name():
     assert resolve_org_by_name("Ministerul Energiei", orgs) == org_id("energie")
     assert resolve_org_by_name("Ministerul Finanțelor", orgs) == org_id("mf")
     assert resolve_org_by_name("Institutie Inexistenta XYZ", orgs) is None
+
+
+def test_find_institution_sections():
+    html = (
+        '<a href="/minister/conducere/">Conducere</a>'
+        '<a href="/node/5104">Declarații avere-interese</a>'
+        '<a href="/contact">Contact</a>'
+    )
+    s = find_institution_sections(html, "https://mae.ro")
+    assert s["conducere"] == "https://mae.ro/minister/conducere/"
+    assert s["declaratii"] == "https://mae.ro/node/5104"
+    assert "transparenta" not in s
 
 
 def test_find_declaration_links():
