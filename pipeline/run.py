@@ -50,6 +50,10 @@ def _build_connector(source_id: str):
         from connectors.audit.curteadeconturi import CurteaDeConturiConnector
 
         return CurteaDeConturiConnector()
+    if source_id == "dna":
+        from connectors.audit.dna import DnaConnector
+
+        return DnaConnector()
     return None
 
 

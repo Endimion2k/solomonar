@@ -1,0 +1,5697 @@
+[
+  {
+    "src": "p:5fa95e59c4220f05",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=1&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:45:57.049732Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ff1be93965551463",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=3&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:45:57.968392Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e6bc6c9f25efc311",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=4&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:45:58.954076Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7965740be4fe3ad0",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=5&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:45:59.966592Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c402357c8359b67c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=6&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:00.972709Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5bb08599a4c3a7cb",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=7&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:03.450473Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d16ee54778d9c85f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=8&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:04.816797Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5d98b51d3822a2a5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=9&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:05.108666Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ae19ba73249d7c4e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=10&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:06.690095Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b840856cc7ceba81",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=12&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:08.434086Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b0bfae619fb9b470",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=13&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:08.683730Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5ff2b952dc77f903",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=14&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:09.725667Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:62419388ab92e726",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=15&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:11.714133Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:57cd4b4498a09e8f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=16&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:12.012461Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fd73516b7ce8313c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=17&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:13.092445Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f81b33fc5304f5de",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=18&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:14.081204Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:84380436c6f2ce49",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=19&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:16.052619Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:206ab0c91773cb55",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=20&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:17.463844Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3b757192d319e6e7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=21&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:17.723192Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:30dcac57dd4856a9",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=22&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:19.331974Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:852f208859773664",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=23&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:19.716484Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:99d3c66837474f3c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=24&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:22.018700Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:abebfc23b815e343",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=25&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:23.368067Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b32073cfd27c0501",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=26&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:23.675605Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:cc8821b968af1baa",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=27&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:24.671519Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:40b336cd4a0c0490",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=28&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:25.629525Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:34670d877d40318f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=29&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:26.666291Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:66952ce00b719bba",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=30&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:27.703577Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c181bbfab8605ac2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=31&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:29.379961Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fdfa01b318e53197",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=32&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:30.264753Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f88d45b50c421e4a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=33&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:30.625662Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:17545ee0077d00a3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=34&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:32.795210Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:26cdafb52a0564a9",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=35&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:33.038408Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3351135d1fb166b2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=36&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:35.192180Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c189f8b435b5bcd8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=37&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:36.362055Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:25642c851bca4cd8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=38&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:36.604666Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b0793bcc725901cc",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=39&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:38.469023Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a525d680a89179a3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=40&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:38.938438Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:84a805b0807c090c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=41&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:40.707870Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3efd73750ddbe491",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=42&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:41.321836Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fcbf7ff9991d4045",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=43&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:42.975645Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:89a47dce21ed9dcd",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=44&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:43.312045Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9d9a028f5dc82b16",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=45&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:44.209334Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3b02ce8e915cd8b9",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=46&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:45.247340Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b5abd22a5bf2b43b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=47&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:47.426394Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:28fa71d46e498be4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=48&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:47.707143Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f97e32aae0184644",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=49&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:49.706324Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:926c0771aa8a36d3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=50&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:49.982504Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1dab588a6cae1dfe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=51&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:52.265908Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:aeb602d73ece0c78",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=52&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:52.524232Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fc5ba050886bc3ac",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=53&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:53.567540Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:adcd81ae6bb3cdf8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=54&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:55.729686Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0b72693545f709a6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=55&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:56.153283Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bfeb74ca723db637",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=56&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:56.979887Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5b76beefa5f12851",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=57&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:59.123094Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:86a8912423a3406e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=58&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:46:59.420864Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5258c39818404142",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=60&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:01.484879Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7e6166029d68882c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=61&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:01.741008Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:780a23143e84409c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:02.724627Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:79808a276d4b542e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=63&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:03.711575Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5e3e44bebd2c3e6d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=64&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:04.733448Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fa36f533457c7230",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=65&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:06.637065Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1b32879612af216d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=66&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:06.877728Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b403025b5b62df11",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=67&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:09.642796Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:56dadf9b6c7f197d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=68&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:09.852428Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2131bb4595099f07",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=69&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:11.658456Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c1f8f15b45487648",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=70&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:12.870548Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e76167f9f5fdc727",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=71&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:13.173529Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:aacc446c047bd6d6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=72&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:14.167794Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6c58b1e7a25febf5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=73&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:16.239480Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bb8a01fa4e7e9d0e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=74&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:16.521657Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:780f08d754812a67",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=75&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:18.868715Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:61677ae758f1986c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=76&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:19.469771Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bb5e4b5b9b4713c3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=77&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:21.895630Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:42d55d8fa4b2a338",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=78&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:22.520249Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5545850c2dfb6407",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=79&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:23.212591Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ac341ca37b2fa458",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=80&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:24.222176Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:537e67ee012b4abe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=81&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:25.288027Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6a52e0422811486d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=82&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:26.318665Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fed550e450d9e789",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=83&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:28.514219Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:affa603baf13bae4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=84&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:28.783234Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e89e64f9ed1c82e2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=85&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:29.798136Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f8731eaf65ef3db4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=86&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:31.397563Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9661f253ebbf7e35",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=87&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:33.244472Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:35cfa4ca3a109a61",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=88&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:34.820862Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a03565475670656d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=89&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:35.246945Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d8be10967782beeb",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=90&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:36.985941Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:4106272a5e6fc8fc",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=91&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:37.245839Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:93e4b6c2f1f6b56d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=92&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:39.233460Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:72cdd848983fc330",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=93&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:39.528350Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:da4f2a191eef41fe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=94&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:40.480535Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2c7bfc00ffd57958",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=95&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:42.694216Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0c3184d8808c92b0",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=96&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:43.384267Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a1423350b9c984e3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=97&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:45.333559Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:707184dd31317ccc",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=98&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:45.617504Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:12f87efc50754477",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=99&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:47.658933Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7af48b845a64ca8e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:47.977606Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:89e9b9f41742d959",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=101&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:49.024553Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d1e9cd5934aa4a1d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=102&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:50.718947Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1e200a89719b4b17",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=103&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:52.200365Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fe71787cafe411ae",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=104&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:53.919040Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:cf585457bb727370",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=105&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:54.244752Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9781d7ff0c2617cf",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=106&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:55.230141Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:de666a1c84b8451f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=107&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:56.237818Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8a4f18a065dd884b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:47:58.469928Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f5e428745745d726",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=109&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:00.016985Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6c6dad42a95a87e3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=110&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:00.306137Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5a1ab5c7565f0069",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=111&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:02.456660Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:36e69a992a78c444",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=112&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:02.783522Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:63ff39222208b535",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=113&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:03.806474Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:98efd7da65d40d74",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=114&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:04.736108Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1c7670cbae6afa80",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=115&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:05.761462Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e5c41b7f5bd40508",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=116&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:07.737453Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c73c76e4e83da980",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=117&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:08.238619Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3b90aee50e8c21a6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=118&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:09.029959Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:83ac679d7e071fdd",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=119&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:11.386966Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7f771cb9a0b5b0fe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=120&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:12.706516Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:53728f37f816fe9a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=121&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:14.059584Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7be0fb967b41dee1",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=122&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:14.366189Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:112ac4ccab0922c1",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=123&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:15.316756Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bc78159e60cf6af3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=124&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:16.322477Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:765edd78637d6493",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=125&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:17.429495Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ed6de9deab2d6cc9",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=126&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:19.506342Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bdd045fddd980876",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=127&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:19.752429Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5fd46dff70f09ecf",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:20.763988Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5a62e02ac2af6ed6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=129&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:23.147772Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ac0da71c7af23b9e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=130&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:23.553853Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f7f58224ae00b6af",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=131&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:24.444154Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5df2c2599c87118c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=132&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:25.469475Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c3e674051d7935e7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=133&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:27.655088Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1e316dedfe81a0fb",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=134&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:29.219792Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:946d741a7f3a5fe6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:29.549837Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:83ceb55ab94e0f6a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=136&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:30.524879Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f590321a93c28df1",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=137&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:31.574601Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a9ece44fb2f7c933",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=138&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:33.764550Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9fb6a1a934755cdf",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=139&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:35.006821Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0441d54ac8fa2ae1",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=140&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:35.334660Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:20033f435a7f6bc5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=141&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:36.312475Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f08329e103924f14",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=142&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:37.345909Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:857a05b4e9158b3e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=143&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:38.384972Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e48cd60fa277b46e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=144&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:40.504969Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f670d99f5374f099",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=145&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:41.842505Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2e50f68c1b245d97",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=147&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:42.252361Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b1b8b74b71c7e61a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=148&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:43.180555Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6784fb1251daf222",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=149&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:44.150631Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7b3a2a6b94205f32",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=150&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:45.136576Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:126b8665ae954bac",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=151&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:47.616144Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5ef6d48e1dc26bb6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:48.672240Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:78896aeb00895d99",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=153&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:49.991024Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c15ab5a69facd9bb",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:50.959538Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:77e749b516b5497c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=155&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:51.305750Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5e768246fa223cfd",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=156&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:52.312160Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:68de2af272a900a8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=157&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:54.186489Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:65c570fc8494c0eb",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=158&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:54.488867Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:219191ec0faf0047",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=159&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:56.616644Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e55a12208429b88b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=160&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:56.906862Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:37f3b528ddad75ee",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=161&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:48:58.903385Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9ad56f7e022abba0",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=162&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:00.324248Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6ae9f806a8eccac5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=163&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:01.782270Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:289bc97d9d981b88",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=164&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:03.034903Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fb4ac4de886e228e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=165&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:04.519720Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:db779f4e509579de",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=166&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:05.763302Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7e6a22917619578e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=167&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:07.108961Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7624c0fe68a5542b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=168&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:07.427071Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e8babed52d3f3dd8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=169&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:09.537247Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fa170ca216bd97ba",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=170&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:10.833206Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:166977787afacc64",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=171&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:12.514101Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e68cedde5ae5b319",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=172&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:13.915235Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b47a669956876976",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=173&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:14.474605Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:cdb653a8db4a6d3d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=174&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:16.270442Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8d6b4f0a63e3d87d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:16.575807Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:93227f3aa630c33f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=176&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:18.496400Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8172f9ce3dd30fcc",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=177&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:18.819898Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ed4f0d8a26834716",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=178&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:20.796310Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:36e41a158486eeec",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=179&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:22.504976Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:09da82a8519a7439",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=180&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:24.041077Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:98b5c51acfc8cffa",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=181&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:25.682678Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:820b91746a42ec57",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=334&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:26.997290Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:71517a79d01735fd",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=182&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:28.569819Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d4dfc5650dc144b7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:30.066395Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:eb922e4683a9df7a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=184&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:30.361696Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d973b222c0a1b05a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=185&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:32.554578Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:4edff00a916a216d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=186&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:33.894576Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f50b2a72cef6ac07",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=187&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:35.332373Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:26f9ec82b97141c3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:35.563849Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0c2d2eae2b9e4c4b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=189&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:36.577087Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fafdd16ae87e5b14",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=190&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:38.916957Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:980cb738a78b1dac",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=191&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:40.115309Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6f39191e67af30ce",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=192&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:40.374020Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:08f8567bd07ce552",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=193&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:42.496856Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:914d4eeb323992dc",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=194&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:43.782121Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d286fe20e4342666",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=195&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:44.060798Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:283c39115b78c856",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=196&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:46.225924Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f3c49a0afb70ec9a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=198&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:46.611487Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3e44f4d526ce31ee",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=199&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:48.725050Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a8a98dd9bbbcd36a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=200&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:50.388799Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bee5b9f39d84d7d2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=201&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:52.059302Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5d0fdcf00d823154",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=202&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:53.353966Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0009dc24d4a005da",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=203&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:53.650447Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:64f4ecbad38a1624",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=204&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:55.514324Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a4a6bf4f65800ab2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=205&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:55.805247Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7b78aaaf3e0ba815",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=206&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:49:58.416025Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:53bff3f15effd7b5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=207&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:00.082869Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7179c952d687c597",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=208&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:01.788204Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:bca169e8a55684b6",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=209&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:02.095755Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:802e14934e17b54e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=210&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:03.113172Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:dec42034f8a86853",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:04.076333Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a335e3e4059f80fe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=212&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:06.291189Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f83a54ecb09f043f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=213&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:06.600135Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:659f7a03cfbc0765",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=214&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:07.552756Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0f8be1a187697461",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=215&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:08.583619Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6cd09a6e8a1627f7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=216&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:09.568234Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5877a0d1acdd0e92",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=217&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:10.628060Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:032f30f2d03ad5db",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:11.642228Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e18bf4bdfa4200db",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=219&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:13.596180Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:421ccbc20e8055ba",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:15.217000Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:844ab47df285b290",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=220&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:16.644052Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fbaa3efb06cda27b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=221&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:16.937477Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ffc99a04333782b7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=222&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:18.803603Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a3b29346a59459da",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=223&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:19.087803Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9a44f51d785e43a8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=224&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:20.012585Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ead152061433a144",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=225&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:21.135946Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:cceb8494cfb80cb7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=226&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:22.648698Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3c41153f9771a3fe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=227&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:23.134594Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b5c13abe7f855cf4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=228&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:23.996585Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0313aa1ca4f229a5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=229&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:25.068941Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:054854840df78dbb",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=230&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:27.117503Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:dbcedb60ab36e69c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=231&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:28.340833Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:616045d7af0943f3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=232&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:28.625622Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:e6abfebdea200bb5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=233&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:29.644163Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8757c41420bb421f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=234&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:32.043337Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:df1646a06b290d64",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=235&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:32.410725Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b3cae585d00ce684",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=236&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:33.298650Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:70f9744569f447d7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=237&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:34.261773Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9d3778198a0f926a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=238&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:36.326160Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b48f62b1a2eb0954",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=239&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:36.563109Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3bcc31e6a5254c9d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=240&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:38.664792Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3db502e5ad3cdd88",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:38.915797Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ddf5b37fd1693a1d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=242&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:41.461577Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:36dae52aca11e449",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=243&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:42.977823Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:37d3bd224e47994a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=244&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:44.178385Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2400a0c281370058",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=245&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:45.220962Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0fc389d906a5b5f4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=246&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:46.299368Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:73a713ffcaf37e8f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=247&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:47.691530Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:d9839aa476c5017f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=248&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:48.803678Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c48281895105d022",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=249&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:49.059532Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:94795d358d81d928",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=250&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:50.064501Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c34d4e921e02bf48",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=251&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:52.017238Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:36284ecbc01adbec",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=252&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:53.643340Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:53eb9a6671e10b58",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=253&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:54.911516Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ba67e7de1c21a487",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=254&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:55.223162Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ff56f12bec705014",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=255&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:57.235355Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1755c373cb711f01",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:57.496163Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:dfb2a75b114ed6c8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=257&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:58.486216Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:813c4f9aced63a28",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=333&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:50:59.478847Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9f31f3dcf99d047d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=258&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:00.537145Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:77a18aa23899c24a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=259&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:02.986314Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c5ebe61bddb6de80",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=260&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:04.415867Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:4238022ef0853b03",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=261&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:04.661791Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:abafb8f19f9be7a4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=262&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:06.656992Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:76fb62c9d660530a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=263&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:06.929547Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:6f11cc17c7f4746c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=264&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:09.102006Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:852501609619f2a7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=265&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:10.939303Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c4172958cf266c3e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=266&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:11.255492Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2de56be6d1624477",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=267&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:12.283942Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:c2e338c6fbe3c1d7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=268&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:13.454986Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:81e19d8bb38f6c1d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=269&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:14.246143Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8f8251412d93d61b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=270&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:16.454786Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9c577197344fba77",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=271&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:16.742498Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:883d67b8027c4c2a",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=272&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:17.753034Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0d7a730367371184",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=273&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:18.682129Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fed219c45a7a885b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=274&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:20.579944Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2b4dbbf76edf173e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=275&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:20.833372Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2ea1828973cd5500",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=276&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:23.030987Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b7a7c49ed968f1f5",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=277&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:23.284147Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b3b8797768b1d904",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=278&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:24.319454Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5e3bf4333f6eb125",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=279&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:26.279624Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7839d84a678f3b45",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=280&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:26.508110Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:7b02e2a0b725e473",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=281&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:27.493250Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b5533843dd23c032",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=282&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:28.486373Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:9e3d12159e717533",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=283&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:30.288525Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ab8d27d830faee52",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=284&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:30.542697Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:31b84b7c9c1938c2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=285&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:31.622363Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:48dfc24d4005b656",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=286&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:32.555514Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2ff803e1fb381cae",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=287&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:33.566122Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:0ddaa0e4ea06c350",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=288&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:35.947091Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fb9baa1c2649aff4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:37.582107Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f5a8506abd0dad14",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=290&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:39.312901Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:939503d3c77dcbf3",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=291&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:39.635624Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:caf32cf1eae2d9cc",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=292&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:41.462476Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:33c4d2a85f337b8c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=293&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:41.815501Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:45c674beb36bc2c0",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=294&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:43.899228Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:af8eb1407d1cca75",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=295&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:44.162494Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a2f99de33f69621b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=296&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:46.101818Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2143039a3372f1d2",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=297&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:47.783783Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:2320976ff936e606",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=298&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:48.108333Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1fc935518f8342d7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=299&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:49.142364Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ddc4007fbe82ad20",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=300&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:50.757224Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:77e41da816541035",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=301&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:52.624322Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1f00505d0b24fe29",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=302&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:54.200019Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fb03f6b7e66a1d41",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=303&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:55.506478Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:ea1ee2c321e99ded",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:56.946590Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5bc827ac7f88fc3f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=305&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:57.811798Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1890bc8f5655b5ed",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=306&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:58.213390Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:520e0b649e77beea",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=307&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:51:59.225422Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:178edbf44a91599e",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:00.249273Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:43450c3f9c0b37ef",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=309&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:01.324952Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:36f4a9ee3d4d9c98",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:03.326385Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:b9b1ee37e647e3e8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=311&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:03.633087Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:75cbffc15add443b",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:04.661090Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:4f39c18af43ed90d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=313&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:05.605329Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:558640a18695dd03",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=314&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:07.738875Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1421c9444f496c5c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=315&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:08.016284Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:369dddcd1027f536",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=316&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:10.159662Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1e6ab4db28d408e1",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=317&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:10.584704Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:cc5b43b36f0cf926",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=335&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:12.983783Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:941c670ef23fbff4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=318&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:13.262789Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:47c34e316c6e02cf",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=319&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:14.253431Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fe26adcf521a783d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=320&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:15.201150Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:fed71d77335144c4",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=321&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:16.266090Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:65560cd3faf4436f",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=322&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:17.355320Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:aea9a2c0d15198cd",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=323&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:19.208932Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:f032954ba8ed24ac",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=324&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:19.511511Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8155614a5fc7219c",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=325&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:20.487117Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:64bd6e99f4518cf1",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=326&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:22.508683Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:4efd4cedd3de2d36",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=327&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:23.084726Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:da355e93576939ab",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=328&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:24.308425Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:96ce9e63d77c5abe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=329&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:26.195242Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:8349eef94e237e6d",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=330&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:26.551624Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:1560bd66aab68f57",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=331&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:27.509920Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:5eaf0eb9d22949e8",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=2&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:29.784611Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:cd025b10e393bdfe",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=146&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:31.585331Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:eaa9280bf5a3aced",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=197&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:33.321137Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:3a51ee47817d5bf7",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=59&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:34.893020Z",
+        "bronze_sha256": null
+      }
+    ]
+  },
+  {
+    "src": "p:a5ee01faf5e63e75",
+    "dst": "o:c07621d908e10354",
+    "type": "HOLDS_POSITION",
+    "props": {
+      "role": "deputat",
+      "legislatura": 2024
+    },
+    "sources": [
+      {
+        "source_id": "cdep",
+        "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=11&cam=2&leg=2024",
+        "fetched_at": "2026-06-03T14:52:35.264483Z",
+        "bronze_sha256": null
+      }
+    ]
+  }
+]

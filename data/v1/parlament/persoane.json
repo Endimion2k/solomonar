@@ -1,0 +1,7380 @@
+{
+  "meta": {
+    "generated_at": "2026-06-03T14:52:35.268784Z",
+    "source_url": "cdep.ro",
+    "scraper_version": "0.1.0",
+    "count": 335
+  },
+  "data": [
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=1&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:45:57.049732Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5fa95e59c4220f05",
+      "full_name": "Adomnicai Mirela Elena",
+      "aliases": [
+        "Adomnicai Mirela Elena"
+      ],
+      "birth_date": "1970-08-15",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "1"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=3&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:45:57.968392Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ff1be93965551463",
+      "full_name": "Albu Dumitrita",
+      "aliases": [
+        "Albu Dumitrita"
+      ],
+      "birth_date": "1988-10-14",
+      "county": "- Circumscriptia Electorala Pentru Cetatenii Români Cu Domiciliul În Afara Tarii",
+      "external_ids": {
+        "cdep": [
+          "3"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=4&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:45:58.954076Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e6bc6c9f25efc311",
+      "full_name": "Alecsandru Marius-Nicolae",
+      "aliases": [
+        "Alecsandru Marius-Nicolae"
+      ],
+      "birth_date": "1974-01-14",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "4"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=5&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:45:59.966592Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7965740be4fe3ad0",
+      "full_name": "Alecu Robert",
+      "aliases": [
+        "Alecu Robert"
+      ],
+      "birth_date": "1987-05-03",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "5"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=6&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:00.972709Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c402357c8359b67c",
+      "full_name": "Amet Varol",
+      "aliases": [
+        "Amet Varol"
+      ],
+      "birth_date": "1972-12-09",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "6"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=7&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:03.450473Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5bb08599a4c3a7cb",
+      "full_name": "Andrei Alexandru-Ioan",
+      "aliases": [
+        "Andrei Alexandru-Ioan"
+      ],
+      "birth_date": "1985-01-02",
+      "county": "Giurgiu",
+      "external_ids": {
+        "cdep": [
+          "7"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=8&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:04.816797Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d16ee54778d9c85f",
+      "full_name": "Andrei Cosmin",
+      "aliases": [
+        "Andrei Cosmin"
+      ],
+      "birth_date": "1979-04-18",
+      "county": "Tulcea",
+      "external_ids": {
+        "cdep": [
+          "8"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=9&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:05.108666Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5d98b51d3822a2a5",
+      "full_name": "Andronache Gabriel",
+      "aliases": [
+        "Andronache Gabriel"
+      ],
+      "birth_date": "1974-09-22",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "9"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=10&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:06.690095Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ae19ba73249d7c4e",
+      "full_name": "Andrusca Lucian-Nicolae",
+      "aliases": [
+        "Andrusca Lucian-Nicolae"
+      ],
+      "birth_date": "1975-12-01",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "10"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=12&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:08.434086Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b840856cc7ceba81",
+      "full_name": "Atanasiu Corina",
+      "aliases": [
+        "Atanasiu Corina"
+      ],
+      "birth_date": "1974-08-05",
+      "county": "Vrancea",
+      "external_ids": {
+        "cdep": [
+          "12"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=13&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:08.683730Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b0bfae619fb9b470",
+      "full_name": "Avramescu Stefanita-Alin",
+      "aliases": [
+        "Avramescu Stefanita-Alin"
+      ],
+      "birth_date": "1989-01-23",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "13"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=14&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:09.725667Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5ff2b952dc77f903",
+      "full_name": "Baciu Romica-Andrei",
+      "aliases": [
+        "Baciu Romica-Andrei"
+      ],
+      "birth_date": "1986-09-18",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "14"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=15&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:11.714133Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:62419388ab92e726",
+      "full_name": "Badea Nelu-Valentin",
+      "aliases": [
+        "Badea Nelu-Valentin"
+      ],
+      "birth_date": "1988-01-18",
+      "county": "Teleorman",
+      "external_ids": {
+        "cdep": [
+          "15"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=16&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:12.012461Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:57cd4b4498a09e8f",
+      "full_name": "Badiu Georgel",
+      "aliases": [
+        "Badiu Georgel"
+      ],
+      "birth_date": "1968-05-24",
+      "county": "Vrancea",
+      "external_ids": {
+        "cdep": [
+          "16"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=17&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:13.092445Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fd73516b7ce8313c",
+      "full_name": "Balan Ioan",
+      "aliases": [
+        "Balan Ioan"
+      ],
+      "birth_date": "1967-01-22",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "17"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=18&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:14.081204Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f81b33fc5304f5de",
+      "full_name": "Bara Nicolae-Adrian",
+      "aliases": [
+        "Bara Nicolae-Adrian"
+      ],
+      "birth_date": "1981-07-08",
+      "county": "Alba",
+      "external_ids": {
+        "cdep": [
+          "18"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=19&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:16.052619Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:84380436c6f2ce49",
+      "full_name": "Barbu Florin-Ionut",
+      "aliases": [
+        "Barbu Florin-Ionut"
+      ],
+      "birth_date": "1980-09-04",
+      "county": "Olt",
+      "external_ids": {
+        "cdep": [
+          "19"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=20&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:17.463844Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:206ab0c91773cb55",
+      "full_name": "Barstan Tiberiu-Claudiu",
+      "aliases": [
+        "Barstan Tiberiu-Claudiu"
+      ],
+      "birth_date": "1975-07-26",
+      "county": "Hunedoara",
+      "external_ids": {
+        "cdep": [
+          "20"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=21&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:17.723192Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3b757192d319e6e7",
+      "full_name": "Bas Ana-Marcela",
+      "aliases": [
+        "Bas Ana-Marcela"
+      ],
+      "birth_date": "1974-05-04",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "21"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=22&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:19.331974Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:30dcac57dd4856a9",
+      "full_name": "Baisanu Stefan-Alexandru",
+      "aliases": [
+        "Baisanu Stefan-Alexandru"
+      ],
+      "birth_date": "1968-01-03",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "22"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=23&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:19.716484Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:852f208859773664",
+      "full_name": "Becali George",
+      "aliases": [
+        "Becali George"
+      ],
+      "birth_date": "1958-06-25",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "23"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=24&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:22.018700Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:99d3c66837474f3c",
+      "full_name": "Bejinariu Eugen",
+      "aliases": [
+        "Bejinariu Eugen"
+      ],
+      "birth_date": "1959-01-28",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "24"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=25&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:23.368067Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:abebfc23b815e343",
+      "full_name": "Bende Sandor",
+      "aliases": [
+        "Bende Sandor"
+      ],
+      "birth_date": "1969-05-29",
+      "county": "Harghita",
+      "external_ids": {
+        "cdep": [
+          "25"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=26&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:23.675605Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b32073cfd27c0501",
+      "full_name": "Berescu Monica-Elena",
+      "aliases": [
+        "Berescu Monica-Elena"
+      ],
+      "birth_date": "1987-05-21",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "26"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=27&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:24.671519Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:cc8821b968af1baa",
+      "full_name": "Biro Daniel-Razvan",
+      "aliases": [
+        "Biro Daniel-Razvan"
+      ],
+      "birth_date": "1994-02-26",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "27"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=28&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:25.629525Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:40b336cd4a0c0490",
+      "full_name": "Biro Rozalia-Ibolya",
+      "aliases": [
+        "Biro Rozalia-Ibolya"
+      ],
+      "birth_date": "1965-05-13",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "28"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=29&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:26.666291Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:34670d877d40318f",
+      "full_name": "Blaga Daniel-Codrut",
+      "aliases": [
+        "Blaga Daniel-Codrut"
+      ],
+      "birth_date": "1980-06-13",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "29"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=30&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:27.703577Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:66952ce00b719bba",
+      "full_name": "Bode Lucian Nicolae",
+      "aliases": [
+        "Bode Lucian Nicolae"
+      ],
+      "birth_date": "1974-10-27",
+      "county": "Sălaj",
+      "external_ids": {
+        "cdep": [
+          "30"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=31&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:29.379961Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c181bbfab8605ac2",
+      "full_name": "Bogdan Ionel-Ovidiu",
+      "aliases": [
+        "Bogdan Ionel-Ovidiu"
+      ],
+      "birth_date": "1987-01-25",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "31"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=32&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:30.264753Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fdfa01b318e53197",
+      "full_name": "Bogdanel Lucian-Gabriel",
+      "aliases": [
+        "Bogdanel Lucian-Gabriel"
+      ],
+      "birth_date": "1983-08-16",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "32"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=33&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:30.625662Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f88d45b50c421e4a",
+      "full_name": "Bordian Alexandru",
+      "aliases": [
+        "Bordian Alexandru"
+      ],
+      "birth_date": "1990-03-16",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "33"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=34&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:32.795210Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:17545ee0077d00a3",
+      "full_name": "Bors George-Madalin",
+      "aliases": [
+        "Bors George-Madalin"
+      ],
+      "birth_date": "1974-09-15",
+      "county": "Teleorman",
+      "external_ids": {
+        "cdep": [
+          "34"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=35&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:33.038408Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:26cdafb52a0564a9",
+      "full_name": "Bosutar Tiberiu-Nicolae",
+      "aliases": [
+        "Bosutar Tiberiu-Nicolae"
+      ],
+      "birth_date": "1974-07-25",
+      "county": "Bistrița-Năsăud",
+      "external_ids": {
+        "cdep": [
+          "35"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=36&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:35.192180Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3351135d1fb166b2",
+      "full_name": "Botez Mihai-Catalin",
+      "aliases": [
+        "Botez Mihai-Catalin"
+      ],
+      "birth_date": "1986-03-29",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "36"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=37&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:36.362055Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c189f8b435b5bcd8",
+      "full_name": "Bouda Stefan",
+      "aliases": [
+        "Bouda Stefan"
+      ],
+      "birth_date": "1978-06-08",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "37"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=38&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:36.604666Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:25642c851bca4cd8",
+      "full_name": "Bruynseels Ramona-Ioana",
+      "aliases": [
+        "Bruynseels Ramona-Ioana"
+      ],
+      "birth_date": "1980-02-14",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "38"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=39&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:38.469023Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b0793bcc725901cc",
+      "full_name": "Bucur Ariana-Oana",
+      "aliases": [
+        "Bucur Ariana-Oana"
+      ],
+      "birth_date": "1964-05-11",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "39"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=40&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:38.938438Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a525d680a89179a3",
+      "full_name": "Bucura-Oprescu Simona",
+      "aliases": [
+        "Bucura-Oprescu Simona"
+      ],
+      "birth_date": "1980-04-02",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "40"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=41&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:40.707870Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:84a805b0807c090c",
+      "full_name": "Budaca Vasile",
+      "aliases": [
+        "Budaca Vasile"
+      ],
+      "birth_date": "1975-01-01",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "41"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=42&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:41.321836Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3efd73750ddbe491",
+      "full_name": "Budai Marius-Constantin",
+      "aliases": [
+        "Budai Marius-Constantin"
+      ],
+      "birth_date": "1972-05-01",
+      "county": "Botoșani",
+      "external_ids": {
+        "cdep": [
+          "42"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=43&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:42.975645Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fcbf7ff9991d4045",
+      "full_name": "Buican Cristian",
+      "aliases": [
+        "Buican Cristian"
+      ],
+      "birth_date": "1966-09-16",
+      "county": "Vâlcea",
+      "external_ids": {
+        "cdep": [
+          "43"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=44&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:43.312045Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:89a47dce21ed9dcd",
+      "full_name": "Bulai Iulian",
+      "aliases": [
+        "Bulai Iulian"
+      ],
+      "birth_date": "1987-12-02",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "44"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=45&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:44.209334Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9d9a028f5dc82b16",
+      "full_name": "Bulearca Marius-Felix",
+      "aliases": [
+        "Bulearca Marius-Felix"
+      ],
+      "birth_date": "1964-12-19",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "45"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=46&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:45.247340Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3b02ce8e915cd8b9",
+      "full_name": "Burduja Sebastian-Ioan",
+      "aliases": [
+        "Burduja Sebastian-Ioan"
+      ],
+      "birth_date": "1985-06-18",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "46"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=47&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:47.426394Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b5abd22a5bf2b43b",
+      "full_name": "Butura Cristina-Irina",
+      "aliases": [
+        "Butura Cristina-Irina"
+      ],
+      "birth_date": "1982-05-26",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "47"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=48&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:47.707143Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:28fa71d46e498be4",
+      "full_name": "Buzoianu Diana-Anda",
+      "aliases": [
+        "Buzoianu Diana-Anda"
+      ],
+      "birth_date": "1994-05-16",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "48"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=49&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:49.706324Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f97e32aae0184644",
+      "full_name": "Cadar Razvan-Olimpiu",
+      "aliases": [
+        "Cadar Razvan-Olimpiu"
+      ],
+      "birth_date": "1980-05-11",
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "49"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=50&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:49.982504Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:926c0771aa8a36d3",
+      "full_name": "Caragata Florin",
+      "aliases": [
+        "Caragata Florin"
+      ],
+      "birth_date": "1983-06-15",
+      "county": "Ialomița",
+      "external_ids": {
+        "cdep": [
+          "50"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=51&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:52.265908Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1dab588a6cae1dfe",
+      "full_name": "Caciu Adrian",
+      "aliases": [
+        "Caciu Adrian"
+      ],
+      "birth_date": "1974-02-20",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "51"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=52&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:52.524232Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:aeb602d73ece0c78",
+      "full_name": "Cernit Maria",
+      "aliases": [
+        "Cernit Maria"
+      ],
+      "birth_date": "1968-08-20",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "52"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=53&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:53.567540Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fc5ba050886bc3ac",
+      "full_name": "Chilat Crina-Fiorela",
+      "aliases": [
+        "Chilat Crina-Fiorela"
+      ],
+      "birth_date": "1971-10-03",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "53"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=54&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:55.729686Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:adcd81ae6bb3cdf8",
+      "full_name": "Chirila Virgil Alin",
+      "aliases": [
+        "Chirila Virgil Alin"
+      ],
+      "birth_date": "1983-05-28",
+      "county": "Mehedinți",
+      "external_ids": {
+        "cdep": [
+          "54"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=55&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:56.153283Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0b72693545f709a6",
+      "full_name": "Chirita Razvan-Mirel",
+      "aliases": [
+        "Chirita Razvan-Mirel"
+      ],
+      "birth_date": "1985-04-01",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "55"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=56&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:56.979887Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bfeb74ca723db637",
+      "full_name": "Ciobanu Adrian-Virgil",
+      "aliases": [
+        "Ciobanu Adrian-Virgil"
+      ],
+      "birth_date": "1979-02-10",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "56"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=57&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:59.123094Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5b76beefa5f12851",
+      "full_name": "Ciobotaru Dragos-Fanica",
+      "aliases": [
+        "Ciobotaru Dragos-Fanica"
+      ],
+      "birth_date": "1985-07-05",
+      "county": "Vrancea",
+      "external_ids": {
+        "cdep": [
+          "57"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=58&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:46:59.420864Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:86a8912423a3406e",
+      "full_name": "Ciocan Doinita",
+      "aliases": [
+        "Ciocan Doinita"
+      ],
+      "birth_date": "1960-06-24",
+      "county": "Brăila",
+      "external_ids": {
+        "cdep": [
+          "58"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=60&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:01.484879Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5258c39818404142",
+      "full_name": "Ciornei Daniel-Catalin",
+      "aliases": [
+        "Ciornei Daniel-Catalin"
+      ],
+      "birth_date": "1989-09-18",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "60"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=61&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:01.741008Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7e6166029d68882c",
+      "full_name": "Ciortea Razvan-Iulian",
+      "aliases": [
+        "Ciortea Razvan-Iulian"
+      ],
+      "birth_date": "1976-07-19",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "61"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:02.724627Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:780a23143e84409c",
+      "full_name": "Ciubuc Ciprian",
+      "aliases": [
+        "Ciubuc Ciprian"
+      ],
+      "birth_date": "1985-12-07",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "62"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=63&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:03.711575Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:79808a276d4b542e",
+      "full_name": "Ciuca Liviu-Bogdan",
+      "aliases": [
+        "Ciuca Liviu-Bogdan"
+      ],
+      "birth_date": "1968-10-13",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "63"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=64&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:04.733448Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5e3e44bebd2c3e6d",
+      "full_name": "Ciunt Ionel",
+      "aliases": [
+        "Ciunt Ionel"
+      ],
+      "birth_date": "1963-11-05",
+      "county": "Sălaj",
+      "external_ids": {
+        "cdep": [
+          "64"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=65&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:06.637065Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fa36f533457c7230",
+      "full_name": "Cimpan Cristian-Emanuel",
+      "aliases": [
+        "Cimpan Cristian-Emanuel"
+      ],
+      "birth_date": "1987-11-08",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "65"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=66&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:06.877728Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1b32879612af216d",
+      "full_name": "Cimpean Ovidiu-Vasile",
+      "aliases": [
+        "Cimpean Ovidiu-Vasile"
+      ],
+      "birth_date": "1985-01-18",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "66"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=67&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:09.642796Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b403025b5b62df11",
+      "full_name": "Cimpianu Andreea-Petronela",
+      "aliases": [
+        "Cimpianu Andreea-Petronela"
+      ],
+      "birth_date": "1991-04-18",
+      "county": "- Circumscriptia Electorala Pentru Cetatenii Români Cu Domiciliul În Afara Tarii",
+      "external_ids": {
+        "cdep": [
+          "67"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=68&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:09.852428Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:56dadf9b6c7f197d",
+      "full_name": "Cirligea Florin-Eugen",
+      "aliases": [
+        "Cirligea Florin-Eugen"
+      ],
+      "birth_date": "1963-10-26",
+      "county": "Brăila",
+      "external_ids": {
+        "cdep": [
+          "68"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=69&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:11.658456Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2131bb4595099f07",
+      "full_name": "Cirligeanu Ariadna-Elena",
+      "aliases": [
+        "Cirligeanu Ariadna-Elena"
+      ],
+      "birth_date": "2001-05-08",
+      "county": "Botoșani",
+      "external_ids": {
+        "cdep": [
+          "69"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=70&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:12.870548Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c1f8f15b45487648",
+      "full_name": "Coarna Dumitru",
+      "aliases": [
+        "Coarna Dumitru"
+      ],
+      "birth_date": "1964-06-05",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "70"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=71&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:13.173529Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e76167f9f5fdc727",
+      "full_name": "Cojocaru Petru-Bogdan",
+      "aliases": [
+        "Cojocaru Petru-Bogdan"
+      ],
+      "birth_date": "1983-08-30",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "71"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=72&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:14.167794Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:aacc446c047bd6d6",
+      "full_name": "Colesa Ilie-Alin",
+      "aliases": [
+        "Colesa Ilie-Alin"
+      ],
+      "birth_date": "1976-06-17",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "72"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=73&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:16.239480Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6c58b1e7a25febf5",
+      "full_name": "Coliban Allen",
+      "aliases": [
+        "Coliban Allen"
+      ],
+      "birth_date": "1979-06-03",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "73"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=74&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:16.521657Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bb8a01fa4e7e9d0e",
+      "full_name": "Coman Dragos-Florin",
+      "aliases": [
+        "Coman Dragos-Florin"
+      ],
+      "birth_date": "1981-06-05",
+      "county": "Călărași",
+      "external_ids": {
+        "cdep": [
+          "74"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=75&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:18.868715Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:780f08d754812a67",
+      "full_name": "Constantinescu Andra-Claudia",
+      "aliases": [
+        "Constantinescu Andra-Claudia"
+      ],
+      "birth_date": "1994-10-15",
+      "county": "Brăila",
+      "external_ids": {
+        "cdep": [
+          "75"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=76&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:19.469771Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:61677ae758f1986c",
+      "full_name": "Constantinescu Sergiu-Mircea",
+      "aliases": [
+        "Constantinescu Sergiu-Mircea"
+      ],
+      "birth_date": "1971-11-12",
+      "county": "Tulcea",
+      "external_ids": {
+        "cdep": [
+          "76"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=77&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:21.895630Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bb5e4b5b9b4713c3",
+      "full_name": "Corches Codruta-Maria",
+      "aliases": [
+        "Corches Codruta-Maria"
+      ],
+      "birth_date": "1997-08-12",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "77"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=78&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:22.520249Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:42d55d8fa4b2a338",
+      "full_name": "Corendea Cosmin-Ioan",
+      "aliases": [
+        "Corendea Cosmin-Ioan"
+      ],
+      "birth_date": "1976-05-20",
+      "county": "Giurgiu",
+      "external_ids": {
+        "cdep": [
+          "78"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=79&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:23.212591Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5545850c2dfb6407",
+      "full_name": "Cotinescu Ilie-Aurelian",
+      "aliases": [
+        "Cotinescu Ilie-Aurelian"
+      ],
+      "birth_date": "1976-12-21",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "79"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=80&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:24.222176Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ac341ca37b2fa458",
+      "full_name": "Cotirlet Paul-Claudiu",
+      "aliases": [
+        "Cotirlet Paul-Claudiu"
+      ],
+      "birth_date": "1988-06-21",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "80"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=81&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:25.288027Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:537e67ee012b4abe",
+      "full_name": "Cozma Adrian-Felician",
+      "aliases": [
+        "Cozma Adrian-Felician"
+      ],
+      "birth_date": "1986-08-30",
+      "county": "Satu-Mare",
+      "external_ids": {
+        "cdep": [
+          "81"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=82&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:26.318665Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6a52e0422811486d",
+      "full_name": "Cristian Brian",
+      "aliases": [
+        "Cristian Brian"
+      ],
+      "birth_date": "1990-06-14",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "82"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=83&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:28.514219Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fed550e450d9e789",
+      "full_name": "Cristici Ognean",
+      "aliases": [
+        "Cristici Ognean"
+      ],
+      "birth_date": "1965-09-01",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "83"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=84&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:28.783234Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:affa603baf13bae4",
+      "full_name": "Crusoveanu Marian",
+      "aliases": [
+        "Crusoveanu Marian"
+      ],
+      "birth_date": "1981-12-19",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "84"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=85&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:29.798136Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e89e64f9ed1c82e2",
+      "full_name": "Csep Eva-Andrea",
+      "aliases": [
+        "Csep Eva-Andrea"
+      ],
+      "birth_date": "1976-10-27",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "85"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=86&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:31.397563Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f8731eaf65ef3db4",
+      "full_name": "Csillag Andrei",
+      "aliases": [
+        "Csillag Andrei"
+      ],
+      "birth_date": "1990-07-16",
+      "county": "Bistrița-Năsăud",
+      "external_ids": {
+        "cdep": [
+          "86"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=87&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:33.244472Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9661f253ebbf7e35",
+      "full_name": "Csoma Botond",
+      "aliases": [
+        "Csoma Botond"
+      ],
+      "birth_date": "1975-02-18",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "87"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=88&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:34.820862Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:35cfa4ca3a109a61",
+      "full_name": "Culeafa Mihai",
+      "aliases": [
+        "Culeafa Mihai"
+      ],
+      "birth_date": "1971-05-17",
+      "county": "Mehedinți",
+      "external_ids": {
+        "cdep": [
+          "88"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=89&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:35.246945Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a03565475670656d",
+      "full_name": "Dascalu Cristina-Emanuela",
+      "aliases": [
+        "Dascalu Cristina-Emanuela"
+      ],
+      "birth_date": "1969-05-20",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "89"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=90&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:36.985941Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d8be10967782beeb",
+      "full_name": "Dimitriu Alexandru-Paul",
+      "aliases": [
+        "Dimitriu Alexandru-Paul"
+      ],
+      "birth_date": "1981-06-26",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "90"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=91&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:37.245839Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:4106272a5e6fc8fc",
+      "full_name": "Dobos Elena",
+      "aliases": [
+        "Dobos Elena"
+      ],
+      "birth_date": "1978-09-12",
+      "county": "Tulcea",
+      "external_ids": {
+        "cdep": [
+          "91"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=92&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:39.233460Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:93e4b6c2f1f6b56d",
+      "full_name": "Dobre Ciprian-Minodor",
+      "aliases": [
+        "Dobre Ciprian-Minodor"
+      ],
+      "birth_date": "1971-04-26",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "92"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=93&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:39.528350Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:72cdd848983fc330",
+      "full_name": "Dolineaschi Andrei",
+      "aliases": [
+        "Dolineaschi Andrei"
+      ],
+      "birth_date": "1975-06-21",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "93"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=94&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:40.480535Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:da4f2a191eef41fe",
+      "full_name": "Dragoescu Cezar-Mihail",
+      "aliases": [
+        "Dragoescu Cezar-Mihail"
+      ],
+      "birth_date": "1983-08-30",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "94"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=95&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:42.694216Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2c7bfc00ffd57958",
+      "full_name": "Drinceanu Vlad-Florentin",
+      "aliases": [
+        "Drinceanu Vlad-Florentin"
+      ],
+      "birth_date": "1974-08-28",
+      "county": "Teleorman",
+      "external_ids": {
+        "cdep": [
+          "95"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=96&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:43.384267Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0c3184d8808c92b0",
+      "full_name": "Drula Catalin",
+      "aliases": [
+        "Drula Catalin"
+      ],
+      "birth_date": "1981-05-02",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "96"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=97&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:45.333559Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a1423350b9c984e3",
+      "full_name": "Dunava Costel Neculai",
+      "aliases": [
+        "Dunava Costel Neculai"
+      ],
+      "birth_date": "1978-03-07",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "97"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=98&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:45.617504Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:707184dd31317ccc",
+      "full_name": "Echert Adrian",
+      "aliases": [
+        "Echert Adrian"
+      ],
+      "birth_date": "1987-01-11",
+      "county": "Sibiu",
+      "external_ids": {
+        "cdep": [
+          "98"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=99&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:47.658933Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:12f87efc50754477",
+      "full_name": "Enache Diana",
+      "aliases": [
+        "Enache Diana"
+      ],
+      "birth_date": "1986-09-28",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "99"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:47.977606Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7af48b845a64ca8e",
+      "full_name": "Enache Mihai-Adrian",
+      "aliases": [
+        "Enache Mihai-Adrian"
+      ],
+      "birth_date": "1988-09-28",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "100"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=101&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:49.024553Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:89e9b9f41742d959",
+      "full_name": "Enachi Raisa",
+      "aliases": [
+        "Enachi Raisa"
+      ],
+      "birth_date": "1982-03-10",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "101"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=102&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:50.718947Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d1e9cd5934aa4a1d",
+      "full_name": "Ene Gabriela-Corina",
+      "aliases": [
+        "Ene Gabriela-Corina"
+      ],
+      "birth_date": "1987-11-01",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "102"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=103&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:52.200365Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1e200a89719b4b17",
+      "full_name": "Faget Madalin-Laurentiu",
+      "aliases": [
+        "Faget Madalin-Laurentiu"
+      ],
+      "birth_date": "1968-10-13",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "103"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=104&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:53.919040Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fe71787cafe411ae",
+      "full_name": "Fechet Mircea",
+      "aliases": [
+        "Fechet Mircea"
+      ],
+      "birth_date": "1980-07-01",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "104"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=105&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:54.244752Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:cf585457bb727370",
+      "full_name": "Feodor Silviu",
+      "aliases": [
+        "Feodor Silviu"
+      ],
+      "birth_date": "1973-08-13",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "105"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=106&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:55.230141Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9781d7ff0c2617cf",
+      "full_name": "Fifor Mihai-Viorel",
+      "aliases": [
+        "Fifor Mihai-Viorel"
+      ],
+      "birth_date": "1970-05-10",
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "106"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=107&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:56.237818Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:de666a1c84b8451f",
+      "full_name": "Firczak Iulius Marian",
+      "aliases": [
+        "Firczak Iulius Marian"
+      ],
+      "birth_date": "1979-10-14",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "107"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:47:58.469928Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8a4f18a065dd884b",
+      "full_name": "Florea Gabriel-Florinel",
+      "aliases": [
+        "Florea Gabriel-Florinel"
+      ],
+      "birth_date": "1981-04-17",
+      "county": "Teleorman",
+      "external_ids": {
+        "cdep": [
+          "108"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=109&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:00.016985Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f5e428745745d726",
+      "full_name": "Furtuna Mirela",
+      "aliases": [
+        "Furtuna Mirela"
+      ],
+      "birth_date": "1980-11-15",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "109"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=110&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:00.306137Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6c6dad42a95a87e3",
+      "full_name": "Gal Calin-Gratian",
+      "aliases": [
+        "Gal Calin-Gratian"
+      ],
+      "birth_date": "1966-12-22",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "110"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=111&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:02.456660Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5a1ab5c7565f0069",
+      "full_name": "Gal Karoly",
+      "aliases": [
+        "Gal Karoly"
+      ],
+      "birth_date": "1973-09-20",
+      "county": "Covasna",
+      "external_ids": {
+        "cdep": [
+          "111"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=112&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:02.783522Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:36e69a992a78c444",
+      "full_name": "Gant Ovidiu Victor",
+      "aliases": [
+        "Gant Ovidiu Victor"
+      ],
+      "birth_date": "1966-08-18",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "112"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=113&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:03.806474Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:63ff39222208b535",
+      "full_name": "Gavrila Anamaria",
+      "aliases": [
+        "Gavrila Anamaria"
+      ],
+      "birth_date": "1983-10-15",
+      "county": "Hunedoara",
+      "external_ids": {
+        "cdep": [
+          "113"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=114&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:04.736108Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:98efd7da65d40d74",
+      "full_name": "Gavrila Bianca-Eugenia",
+      "aliases": [
+        "Gavrila Bianca-Eugenia"
+      ],
+      "birth_date": "1986-10-12",
+      "county": "Alba",
+      "external_ids": {
+        "cdep": [
+          "114"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=115&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:05.761462Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1c7670cbae6afa80",
+      "full_name": "Gavrilescu Gratiela Leocadia",
+      "aliases": [
+        "Gavrilescu Gratiela Leocadia"
+      ],
+      "birth_date": "1966-06-24",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "115"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=116&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:07.737453Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e5c41b7f5bd40508",
+      "full_name": "Geamanu Aurora-Adela",
+      "aliases": [
+        "Geamanu Aurora-Adela"
+      ],
+      "birth_date": "1979-02-28",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "116"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=117&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:08.238619Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c73c76e4e83da980",
+      "full_name": "Georgescu Gheorghe-Daniel",
+      "aliases": [
+        "Georgescu Gheorghe-Daniel"
+      ],
+      "birth_date": "1973-03-04",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "117"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=118&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:09.029959Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3b90aee50e8c21a6",
+      "full_name": "Gheorghe Andrei Daniel",
+      "aliases": [
+        "Gheorghe Andrei Daniel"
+      ],
+      "birth_date": "1985-07-27",
+      "county": "Ilfov",
+      "external_ids": {
+        "cdep": [
+          "118"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=119&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:11.386966Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:83ac679d7e071fdd",
+      "full_name": "Gheorghe Ionel",
+      "aliases": [
+        "Gheorghe Ionel"
+      ],
+      "birth_date": "1970-09-05",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "119"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=120&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:12.706516Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7f771cb9a0b5b0fe",
+      "full_name": "Gheorghe Mihai-Claudiu",
+      "aliases": [
+        "Gheorghe Mihai-Claudiu"
+      ],
+      "birth_date": "1977-12-19",
+      "county": "Călărași",
+      "external_ids": {
+        "cdep": [
+          "120"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=121&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:14.059584Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:53728f37f816fe9a",
+      "full_name": "Gheorghiu Andrei-Florin",
+      "aliases": [
+        "Gheorghiu Andrei-Florin"
+      ],
+      "birth_date": "1985-12-22",
+      "county": "Vâlcea",
+      "external_ids": {
+        "cdep": [
+          "121"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=122&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:14.366189Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7be0fb967b41dee1",
+      "full_name": "Ghera Giureci-Slobodan",
+      "aliases": [
+        "Ghera Giureci-Slobodan"
+      ],
+      "birth_date": "1979-04-15",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "122"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=123&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:15.316756Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:112ac4ccab0922c1",
+      "full_name": "Gherasim Laura",
+      "aliases": [
+        "Gherasim Laura"
+      ],
+      "birth_date": "1978-09-24",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "123"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=124&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:16.322477Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bc78159e60cf6af3",
+      "full_name": "Ghigiu Alexandru-Mihai",
+      "aliases": [
+        "Ghigiu Alexandru-Mihai"
+      ],
+      "birth_date": "1989-01-19",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "124"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=125&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:17.429495Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:765edd78637d6493",
+      "full_name": "Gima George",
+      "aliases": [
+        "Gima George"
+      ],
+      "birth_date": "1984-03-08",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "125"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=126&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:19.506342Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ed6de9deab2d6cc9",
+      "full_name": "Giurgiu Adrian",
+      "aliases": [
+        "Giurgiu Adrian"
+      ],
+      "birth_date": "1991-10-30",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "126"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=127&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:19.752429Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bdd045fddd980876",
+      "full_name": "Gliga Dumitrita",
+      "aliases": [
+        "Gliga Dumitrita"
+      ],
+      "birth_date": "1980-08-02",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "127"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:20.763988Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5fd46dff70f09ecf",
+      "full_name": "Goidescu Ionel",
+      "aliases": [
+        "Goidescu Ionel"
+      ],
+      "birth_date": "1967-06-24",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "128"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=129&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:23.147772Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5a62e02ac2af6ed6",
+      "full_name": "Gorghiu Alina-Stefania",
+      "aliases": [
+        "Gorghiu Alina-Stefania"
+      ],
+      "birth_date": "1978-09-16",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "129"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=130&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:23.553853Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ac0da71c7af23b9e",
+      "full_name": "Govor Mircea-Vasile",
+      "aliases": [
+        "Govor Mircea-Vasile"
+      ],
+      "birth_date": "1960-11-16",
+      "county": "Satu-Mare",
+      "external_ids": {
+        "cdep": [
+          "130"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=131&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:24.444154Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f7f58224ae00b6af",
+      "full_name": "Grindeanu Sorin-Mihai",
+      "aliases": [
+        "Grindeanu Sorin-Mihai"
+      ],
+      "birth_date": "1973-12-05",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "131"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=132&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:25.469475Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5df2c2599c87118c",
+      "full_name": "Grofu Daniel",
+      "aliases": [
+        "Grofu Daniel"
+      ],
+      "birth_date": "1971-03-07",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "132"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=133&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:27.655088Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c3e674051d7935e7",
+      "full_name": "Grosaru Ioana",
+      "aliases": [
+        "Grosaru Ioana"
+      ],
+      "birth_date": "1952-07-29",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "133"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=134&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:29.219792Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1e316dedfe81a0fb",
+      "full_name": "Grosu Veronica",
+      "aliases": [
+        "Grosu Veronica"
+      ],
+      "birth_date": "1969-11-04",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "134"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:29.549837Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:946d741a7f3a5fe6",
+      "full_name": "Groza Calin-Florin",
+      "aliases": [
+        "Groza Calin-Florin"
+      ],
+      "birth_date": "1983-07-29",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "135"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=136&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:30.524879Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:83ceb55ab94e0f6a",
+      "full_name": "Gurlui Silviu-Octavian",
+      "aliases": [
+        "Gurlui Silviu-Octavian"
+      ],
+      "birth_date": "1971-11-05",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "136"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=137&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:31.574601Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f590321a93c28df1",
+      "full_name": "Gusa Andrei-Cosmin",
+      "aliases": [
+        "Gusa Andrei-Cosmin"
+      ],
+      "birth_date": "1997-06-30",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "137"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=138&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:33.764550Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a9ece44fb2f7c933",
+      "full_name": "Hagiu Augustin-Florin",
+      "aliases": [
+        "Hagiu Augustin-Florin"
+      ],
+      "birth_date": "1977-08-06",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "138"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=139&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:35.006821Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9fb6a1a934755cdf",
+      "full_name": "Hajdu Gabor",
+      "aliases": [
+        "Hajdu Gabor"
+      ],
+      "birth_date": "1976-11-02",
+      "county": "Harghita",
+      "external_ids": {
+        "cdep": [
+          "139"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=140&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:35.334660Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0441d54ac8fa2ae1",
+      "full_name": "Hangan Pollyanna-Hanellore",
+      "aliases": [
+        "Hangan Pollyanna-Hanellore"
+      ],
+      "birth_date": "1975-07-04",
+      "county": "Hunedoara",
+      "external_ids": {
+        "cdep": [
+          "140"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=141&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:36.312475Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:20033f435a7f6bc5",
+      "full_name": "Holban Georgeta-Carmen",
+      "aliases": [
+        "Holban Georgeta-Carmen"
+      ],
+      "birth_date": "1968-02-14",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "141"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=142&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:37.345909Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f08329e103924f14",
+      "full_name": "Hristu Cosmin",
+      "aliases": [
+        "Hristu Cosmin"
+      ],
+      "birth_date": "1981-08-30",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "142"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=143&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:38.384972Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:857a05b4e9158b3e",
+      "full_name": "Hutuca Bogdan-Iulian",
+      "aliases": [
+        "Hutuca Bogdan-Iulian"
+      ],
+      "birth_date": "1967-07-10",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "143"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=144&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:40.504969Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e48cd60fa277b46e",
+      "full_name": "Iagar Monica",
+      "aliases": [
+        "Iagar Monica"
+      ],
+      "birth_date": "1973-04-02",
+      "county": "Satu-Mare",
+      "external_ids": {
+        "cdep": [
+          "144"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=145&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:41.842505Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f670d99f5374f099",
+      "full_name": "Iancu Marius-Ionel",
+      "aliases": [
+        "Iancu Marius-Ionel"
+      ],
+      "birth_date": "1972-06-08",
+      "county": "Olt",
+      "external_ids": {
+        "cdep": [
+          "145"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=147&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:42.252361Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2e50f68c1b245d97",
+      "full_name": "Intotero Natalia-Elena",
+      "aliases": [
+        "Intotero Natalia-Elena"
+      ],
+      "birth_date": "1976-01-14",
+      "county": "Hunedoara",
+      "external_ids": {
+        "cdep": [
+          "147"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=148&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:43.180555Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b1b8b74b71c7e61a",
+      "full_name": "Ion Nicolae-Mirel",
+      "aliases": [
+        "Ion Nicolae-Mirel"
+      ],
+      "birth_date": "1968-06-19",
+      "county": "Sibiu",
+      "external_ids": {
+        "cdep": [
+          "148"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=149&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:44.150631Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6784fb1251daf222",
+      "full_name": "Ion Stelian-Cristian",
+      "aliases": [
+        "Ion Stelian-Cristian"
+      ],
+      "birth_date": "1977-06-24",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "149"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=150&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:45.136576Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7b3a2a6b94205f32",
+      "full_name": "Ionescu Monica",
+      "aliases": [
+        "Ionescu Monica"
+      ],
+      "birth_date": "1975-09-24",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "150"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=151&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:47.616144Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:126b8665ae954bac",
+      "full_name": "Ionescu Radu-Mihail",
+      "aliases": [
+        "Ionescu Radu-Mihail"
+      ],
+      "birth_date": "1972-12-22",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "151"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:48.672240Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5ef6d48e1dc26bb6",
+      "full_name": "Ionescu Tudor",
+      "aliases": [
+        "Ionescu Tudor"
+      ],
+      "birth_date": "1978-01-25",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "152"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=153&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:49.991024Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:78896aeb00895d99",
+      "full_name": "Iordache Ion",
+      "aliases": [
+        "Iordache Ion"
+      ],
+      "birth_date": "1974-05-05",
+      "county": "Gorj",
+      "external_ids": {
+        "cdep": [
+          "153"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:50.959538Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c15ab5a69facd9bb",
+      "full_name": "Iosub Cosmin-Teodor",
+      "aliases": [
+        "Iosub Cosmin-Teodor"
+      ],
+      "birth_date": "1999-05-21",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "154"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=155&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:51.305750Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:77e749b516b5497c",
+      "full_name": "Irimia Ancuta-Florina",
+      "aliases": [
+        "Irimia Ancuta-Florina"
+      ],
+      "birth_date": "1992-12-18",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "155"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=156&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:52.312160Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5e768246fa223cfd",
+      "full_name": "Isac Marius-Adrian",
+      "aliases": [
+        "Isac Marius-Adrian"
+      ],
+      "birth_date": "1978-03-03",
+      "county": "Caraș-Severin",
+      "external_ids": {
+        "cdep": [
+          "156"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=157&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:54.186489Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:68de2af272a900a8",
+      "full_name": "Ivan Bogdan-Gruia",
+      "aliases": [
+        "Ivan Bogdan-Gruia"
+      ],
+      "birth_date": "1991-03-24",
+      "county": "Bistrița-Năsăud",
+      "external_ids": {
+        "cdep": [
+          "157"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=158&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:54.488867Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:65c570fc8494c0eb",
+      "full_name": "Jianu Iosif-Florin",
+      "aliases": [
+        "Jianu Iosif-Florin"
+      ],
+      "birth_date": "1985-06-15",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "158"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=159&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:56.616644Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:219191ec0faf0047",
+      "full_name": "Kantor Boglarka",
+      "aliases": [
+        "Kantor Boglarka"
+      ],
+      "birth_date": "1987-11-13",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "159"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=160&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:56.906862Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e55a12208429b88b",
+      "full_name": "Kelemen Hunor",
+      "aliases": [
+        "Kelemen Hunor"
+      ],
+      "birth_date": "1967-10-18",
+      "county": "Harghita",
+      "external_ids": {
+        "cdep": [
+          "160"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=161&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:48:58.903385Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:37f3b528ddad75ee",
+      "full_name": "Kolcsar Anquetil-Karoly",
+      "aliases": [
+        "Kolcsar Anquetil-Karoly"
+      ],
+      "birth_date": "1968-12-12",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "161"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=162&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:00.324248Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9ad56f7e022abba0",
+      "full_name": "Koler Eduard-Virgil",
+      "aliases": [
+        "Koler Eduard-Virgil"
+      ],
+      "birth_date": "1975-05-06",
+      "county": "Mehedinți",
+      "external_ids": {
+        "cdep": [
+          "162"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=163&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:01.782270Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6ae9f806a8eccac5",
+      "full_name": "Konczei Csaba",
+      "aliases": [
+        "Konczei Csaba"
+      ],
+      "birth_date": "1966-02-22",
+      "county": "Covasna",
+      "external_ids": {
+        "cdep": [
+          "163"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=164&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:03.034903Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:289bc97d9d981b88",
+      "full_name": "Kroncsis Sebastian-Andrei",
+      "aliases": [
+        "Kroncsis Sebastian-Andrei"
+      ],
+      "birth_date": "1985-03-26",
+      "county": "Sibiu",
+      "external_ids": {
+        "cdep": [
+          "164"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=165&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:04.519720Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fb4ac4de886e228e",
+      "full_name": "Kulcsar-Terza Jozsef-Gyorgy",
+      "aliases": [
+        "Kulcsar-Terza Jozsef-Gyorgy"
+      ],
+      "birth_date": "1972-11-24",
+      "county": "Covasna",
+      "external_ids": {
+        "cdep": [
+          "165"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=166&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:05.763302Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:db779f4e509579de",
+      "full_name": "Ladanyi Laszlo-Zsolt",
+      "aliases": [
+        "Ladanyi Laszlo-Zsolt"
+      ],
+      "birth_date": "1970-05-07",
+      "county": "Harghita",
+      "external_ids": {
+        "cdep": [
+          "166"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=167&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:07.108961Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7e6a22917619578e",
+      "full_name": "Lazar Teodor",
+      "aliases": [
+        "Lazar Teodor"
+      ],
+      "birth_date": "1967-09-28",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "167"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=168&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:07.427071Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7624c0fe68a5542b",
+      "full_name": "Lapusan Remus-Gabriel",
+      "aliases": [
+        "Lapusan Remus-Gabriel"
+      ],
+      "birth_date": "1971-02-19",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "168"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=169&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:09.537247Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e8babed52d3f3dd8",
+      "full_name": "Lazaroi Ioan",
+      "aliases": [
+        "Lazaroi Ioan"
+      ],
+      "birth_date": "1980-08-03",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "169"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=170&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:10.833206Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fa170ca216bd97ba",
+      "full_name": "Lipa Elisabeta",
+      "aliases": [
+        "Lipa Elisabeta"
+      ],
+      "birth_date": "1964-10-26",
+      "county": "Botoșani",
+      "external_ids": {
+        "cdep": [
+          "170"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=171&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:12.514101Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:166977787afacc64",
+      "full_name": "Longher Ghervazen",
+      "aliases": [
+        "Longher Ghervazen"
+      ],
+      "birth_date": "1972-01-03",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "171"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=172&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:13.915235Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e68cedde5ae5b319",
+      "full_name": "Lorincz Stefan-Iulian",
+      "aliases": [
+        "Lorincz Stefan-Iulian"
+      ],
+      "birth_date": "1991-05-07",
+      "county": "- Circumscriptia Electorala Pentru Cetatenii Români Cu Domiciliul În Afara Tarii",
+      "external_ids": {
+        "cdep": [
+          "172"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=173&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:14.474605Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b47a669956876976",
+      "full_name": "Lovin Ramona",
+      "aliases": [
+        "Lovin Ramona"
+      ],
+      "birth_date": "1980-02-01",
+      "county": "- Circumscriptia Electorala Pentru Cetatenii Români Cu Domiciliul În Afara Tarii",
+      "external_ids": {
+        "cdep": [
+          "173"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=174&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:16.270442Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:cdb653a8db4a6d3d",
+      "full_name": "Lungu Romeo-Daniel",
+      "aliases": [
+        "Lungu Romeo-Daniel"
+      ],
+      "birth_date": "1979-04-21",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "174"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:16.575807Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8d6b4f0a63e3d87d",
+      "full_name": "Macovei Ilie Simona-Elena",
+      "aliases": [
+        "Macovei Ilie Simona-Elena"
+      ],
+      "birth_date": "1979-05-15",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "175"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=176&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:18.496400Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:93227f3aa630c33f",
+      "full_name": "Magyar Lorand-Balint",
+      "aliases": [
+        "Magyar Lorand-Balint"
+      ],
+      "birth_date": "1980-02-17",
+      "county": "Satu-Mare",
+      "external_ids": {
+        "cdep": [
+          "176"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=177&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:18.819898Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8172f9ce3dd30fcc",
+      "full_name": "Manole Petre-Florin",
+      "aliases": [
+        "Manole Petre-Florin"
+      ],
+      "birth_date": "1983-10-06",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "177"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=178&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:20.796310Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ed4f0d8a26834716",
+      "full_name": "Manta Claudiu",
+      "aliases": [
+        "Manta Claudiu"
+      ],
+      "birth_date": "1981-05-12",
+      "county": "Gorj",
+      "external_ids": {
+        "cdep": [
+          "178"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=179&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:22.504976Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:36e41a158486eeec",
+      "full_name": "Marinescu Radu",
+      "aliases": [
+        "Marinescu Radu"
+      ],
+      "birth_date": "1973-05-25",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "179"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=180&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:24.041077Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:09da82a8519a7439",
+      "full_name": "Marko Attila-Gabor",
+      "aliases": [
+        "Marko Attila-Gabor"
+      ],
+      "birth_date": "1968-09-27",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "180"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=181&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:25.682678Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:98b5c51acfc8cffa",
+      "full_name": "Marussi George-Nicolae",
+      "aliases": [
+        "Marussi George-Nicolae"
+      ],
+      "birth_date": "1969-03-16",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "181"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=334&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:26.997290Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:820b91746a42ec57",
+      "full_name": "Matache Oana",
+      "aliases": [
+        "Matache Oana"
+      ],
+      "birth_date": "1988-03-17",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "334"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=182&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:28.569819Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:71517a79d01735fd",
+      "full_name": "Matei Aneta",
+      "aliases": [
+        "Matei Aneta"
+      ],
+      "birth_date": "1972-03-19",
+      "county": "Giurgiu",
+      "external_ids": {
+        "cdep": [
+          "182"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:30.066395Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d4dfc5650dc144b7",
+      "full_name": "Matei Sergiu-Lucian",
+      "aliases": [
+        "Matei Sergiu-Lucian"
+      ],
+      "birth_date": "1988-04-25",
+      "county": "Ilfov",
+      "external_ids": {
+        "cdep": [
+          "183"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=184&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:30.361696Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:eb922e4683a9df7a",
+      "full_name": "Matichescu Mirela-Florenta",
+      "aliases": [
+        "Matichescu Mirela-Florenta"
+      ],
+      "birth_date": "1969-06-25",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "184"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=185&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:32.554578Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d973b222c0a1b05a",
+      "full_name": "Maties Calin-Gheorghe",
+      "aliases": [
+        "Maties Calin-Gheorghe"
+      ],
+      "birth_date": "1971-08-08",
+      "county": "Alba",
+      "external_ids": {
+        "cdep": [
+          "185"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=186&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:33.894576Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:4edff00a916a216d",
+      "full_name": "Margarit Mitica-Marius",
+      "aliases": [
+        "Margarit Mitica-Marius"
+      ],
+      "birth_date": "1985-06-11",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "186"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=187&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:35.332373Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f50b2a72cef6ac07",
+      "full_name": "Merka Adrian-Miroslav",
+      "aliases": [
+        "Merka Adrian-Miroslav"
+      ],
+      "birth_date": "1976-06-06",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "187"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:35.563849Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:26f9ec82b97141c3",
+      "full_name": "Miclau Samuel-Virgil",
+      "aliases": [
+        "Miclau Samuel-Virgil"
+      ],
+      "birth_date": "1994-08-17",
+      "county": "Caraș-Severin",
+      "external_ids": {
+        "cdep": [
+          "188"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=189&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:36.577087Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0c2d2eae2b9e4c4b",
+      "full_name": "Mihaiu Radu-Nicolae",
+      "aliases": [
+        "Mihaiu Radu-Nicolae"
+      ],
+      "birth_date": "1977-09-08",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "189"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=190&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:38.916957Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fafdd16ae87e5b14",
+      "full_name": "Mihalcea Ioan",
+      "aliases": [
+        "Mihalcea Ioan"
+      ],
+      "birth_date": "1952-09-19",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "190"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=191&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:40.115309Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:980cb738a78b1dac",
+      "full_name": "Mihalcea Remus-Gabriel",
+      "aliases": [
+        "Mihalcea Remus-Gabriel"
+      ],
+      "birth_date": "1985-03-06",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "191"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=192&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:40.374020Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6f39191e67af30ce",
+      "full_name": "Mihalcea Silvia-Claudia",
+      "aliases": [
+        "Mihalcea Silvia-Claudia"
+      ],
+      "birth_date": "1979-11-06",
+      "county": "Caraș-Severin",
+      "external_ids": {
+        "cdep": [
+          "192"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=193&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:42.496856Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:08f8567bd07ce552",
+      "full_name": "Mihaescu Mugur",
+      "aliases": [
+        "Mihaescu Mugur"
+      ],
+      "birth_date": "1967-06-02",
+      "county": "Olt",
+      "external_ids": {
+        "cdep": [
+          "193"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=194&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:43.782121Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:914d4eeb323992dc",
+      "full_name": "Mihuti Bogdan-Florian",
+      "aliases": [
+        "Mihuti Bogdan-Florian"
+      ],
+      "birth_date": "1992-06-27",
+      "county": "Olt",
+      "external_ids": {
+        "cdep": [
+          "194"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=195&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:44.060798Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d286fe20e4342666",
+      "full_name": "Miklos Zoltan",
+      "aliases": [
+        "Miklos Zoltan"
+      ],
+      "birth_date": "1975-08-16",
+      "county": "Covasna",
+      "external_ids": {
+        "cdep": [
+          "195"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=196&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:46.225924Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:283c39115b78c856",
+      "full_name": "Mina Marian",
+      "aliases": [
+        "Mina Marian"
+      ],
+      "birth_date": "1977-01-04",
+      "county": "Giurgiu",
+      "external_ids": {
+        "cdep": [
+          "196"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=198&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:46.611487Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f3c49a0afb70ec9a",
+      "full_name": "Miruta Radu-Dinel",
+      "aliases": [
+        "Miruta Radu-Dinel"
+      ],
+      "birth_date": "1985-04-08",
+      "county": "Gorj",
+      "external_ids": {
+        "cdep": [
+          "198"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=199&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:48.725050Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3e44f4d526ce31ee",
+      "full_name": "Mititelu Eduard-Tatian",
+      "aliases": [
+        "Mititelu Eduard-Tatian"
+      ],
+      "birth_date": "1996-07-29",
+      "county": "Botoșani",
+      "external_ids": {
+        "cdep": [
+          "199"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=200&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:50.388799Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a8a98dd9bbbcd36a",
+      "full_name": "Mitrea Dumitrina",
+      "aliases": [
+        "Mitrea Dumitrina"
+      ],
+      "birth_date": "1971-10-12",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "200"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=201&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:52.059302Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bee5b9f39d84d7d2",
+      "full_name": "Mindrescu Nicolae",
+      "aliases": [
+        "Mindrescu Nicolae"
+      ],
+      "birth_date": "1969-02-03",
+      "county": "Vâlcea",
+      "external_ids": {
+        "cdep": [
+          "201"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=202&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:53.353966Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5d0fdcf00d823154",
+      "full_name": "Mindroc Catalin-Viorel",
+      "aliases": [
+        "Mindroc Catalin-Viorel"
+      ],
+      "birth_date": "1986-01-02",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "202"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=203&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:53.650447Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0009dc24d4a005da",
+      "full_name": "Mocanu Adrian",
+      "aliases": [
+        "Mocanu Adrian"
+      ],
+      "birth_date": "1983-05-12",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "203"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=204&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:55.514324Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:64f4ecbad38a1624",
+      "full_name": "Moiseev Alexandrin",
+      "aliases": [
+        "Moiseev Alexandrin"
+      ],
+      "birth_date": "1989-09-12",
+      "county": "Botoșani",
+      "external_ids": {
+        "cdep": [
+          "204"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=205&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:55.805247Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a4a6bf4f65800ab2",
+      "full_name": "Moisin Radu-Marin",
+      "aliases": [
+        "Moisin Radu-Marin"
+      ],
+      "birth_date": "1982-12-10",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "205"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=206&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:49:58.416025Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7b78aaaf3e0ba815",
+      "full_name": "Molnar Andrei",
+      "aliases": [
+        "Molnar Andrei"
+      ],
+      "birth_date": "1985-02-19",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "206"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=207&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:00.082869Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:53bff3f15effd7b5",
+      "full_name": "Morar Lucian-Ioan-Titus",
+      "aliases": [
+        "Morar Lucian-Ioan-Titus"
+      ],
+      "birth_date": "1978-03-26",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "207"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=208&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:01.788204Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7179c952d687c597",
+      "full_name": "Mos Patricia-Simina-Arina",
+      "aliases": [
+        "Mos Patricia-Simina-Arina"
+      ],
+      "birth_date": "1980-01-31",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "208"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=209&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:02.095755Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:bca169e8a55684b6",
+      "full_name": "Mosteanu Liviu-Ionut",
+      "aliases": [
+        "Mosteanu Liviu-Ionut"
+      ],
+      "birth_date": "1973-12-23",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "209"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=210&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:03.113172Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:802e14934e17b54e",
+      "full_name": "Muncaciu Sorin-Titus",
+      "aliases": [
+        "Muncaciu Sorin-Titus"
+      ],
+      "birth_date": "1953-09-12",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "210"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:04.076333Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:dec42034f8a86853",
+      "full_name": "Munteanu Valeriu",
+      "aliases": [
+        "Munteanu Valeriu"
+      ],
+      "birth_date": "1980-12-28",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "211"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=212&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:06.291189Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a335e3e4059f80fe",
+      "full_name": "Murad Mohammad",
+      "aliases": [
+        "Murad Mohammad"
+      ],
+      "birth_date": "1963-09-09",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "212"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=213&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:06.600135Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f83a54ecb09f043f",
+      "full_name": "Murariu Oana",
+      "aliases": [
+        "Murariu Oana"
+      ],
+      "birth_date": "1988-09-11",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "213"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=214&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:07.552756Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:659f7a03cfbc0765",
+      "full_name": "Muraru Iulian-Alexandru",
+      "aliases": [
+        "Muraru Iulian-Alexandru"
+      ],
+      "birth_date": "1982-05-20",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "214"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=215&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:08.583619Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0f8be1a187697461",
+      "full_name": "Musat Doru-Lucian",
+      "aliases": [
+        "Musat Doru-Lucian"
+      ],
+      "birth_date": "1988-08-16",
+      "county": "Sălaj",
+      "external_ids": {
+        "cdep": [
+          "215"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=216&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:09.568234Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6cd09a6e8a1627f7",
+      "full_name": "Nacov Gheorghe",
+      "aliases": [
+        "Nacov Gheorghe"
+      ],
+      "birth_date": "1972-04-11",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "216"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=217&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:10.628060Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5877a0d1acdd0e92",
+      "full_name": "Nagy Szabolcs",
+      "aliases": [
+        "Nagy Szabolcs"
+      ],
+      "birth_date": "1983-07-23",
+      "county": "Satu-Mare",
+      "external_ids": {
+        "cdep": [
+          "217"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:11.642228Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:032f30f2d03ad5db",
+      "full_name": "Nagy Vasile",
+      "aliases": [
+        "Nagy Vasile"
+      ],
+      "birth_date": "1988-10-12",
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "218"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=219&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:13.596180Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e18bf4bdfa4200db",
+      "full_name": "Nassar Rodica",
+      "aliases": [
+        "Nassar Rodica"
+      ],
+      "birth_date": "1957-06-25",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "219"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:15.217000Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:421ccbc20e8055ba",
+      "full_name": "Nacuta Sorin",
+      "aliases": [
+        "Nacuta Sorin"
+      ],
+      "birth_date": "1969-10-23",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "332"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=220&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:16.644052Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:844ab47df285b290",
+      "full_name": "Nasui Claudiu-Iulius-Gavril",
+      "aliases": [
+        "Nasui Claudiu-Iulius-Gavril"
+      ],
+      "birth_date": "1985-05-05",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "220"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=221&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:16.937477Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fbaa3efb06cda27b",
+      "full_name": "Neacsu Andreea-Firuta",
+      "aliases": [
+        "Neacsu Andreea-Firuta"
+      ],
+      "birth_date": "1986-11-18",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "221"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=222&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:18.803603Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ffc99a04333782b7",
+      "full_name": "Neacsu Marian",
+      "aliases": [
+        "Neacsu Marian"
+      ],
+      "birth_date": "1964-05-27",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "222"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=223&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:19.087803Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a3b29346a59459da",
+      "full_name": "Neagu Petre-Emanoil",
+      "aliases": [
+        "Neagu Petre-Emanoil"
+      ],
+      "birth_date": "1959-02-18",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "223"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=224&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:20.012585Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9a44f51d785e43a8",
+      "full_name": "Neamtu George-Mihail",
+      "aliases": [
+        "Neamtu George-Mihail"
+      ],
+      "birth_date": "1978-04-16",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "224"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=225&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:21.135946Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ead152061433a144",
+      "full_name": "Neata Eugen",
+      "aliases": [
+        "Neata Eugen"
+      ],
+      "birth_date": "1967-06-11",
+      "county": "Vâlcea",
+      "external_ids": {
+        "cdep": [
+          "225"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=226&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:22.648698Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:cceb8494cfb80cb7",
+      "full_name": "Neculaescu Laurentiu Adrian",
+      "aliases": [
+        "Neculaescu Laurentiu Adrian"
+      ],
+      "birth_date": "1980-09-14",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "226"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=227&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:23.134594Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3c41153f9771a3fe",
+      "full_name": "Negoescu Mihai-Bogdan",
+      "aliases": [
+        "Negoescu Mihai-Bogdan"
+      ],
+      "birth_date": "1977-04-09",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "227"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=228&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:23.996585Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b5c13abe7f855cf4",
+      "full_name": "Negrea Petru-Gabriel",
+      "aliases": [
+        "Negrea Petru-Gabriel"
+      ],
+      "birth_date": "1974-06-25",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "228"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=229&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:25.068941Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0313aa1ca4f229a5",
+      "full_name": "Nicolae Dan-Mihai",
+      "aliases": [
+        "Nicolae Dan-Mihai"
+      ],
+      "birth_date": "1979-12-23",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "229"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=230&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:27.117503Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:054854840df78dbb",
+      "full_name": "Oancea Silviu-Florin",
+      "aliases": [
+        "Oancea Silviu-Florin"
+      ],
+      "birth_date": "1989-01-21",
+      "county": "Ialomița",
+      "external_ids": {
+        "cdep": [
+          "230"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=231&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:28.340833Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:dbcedb60ab36e69c",
+      "full_name": "Oltenasu Sorin-George",
+      "aliases": [
+        "Oltenasu Sorin-George"
+      ],
+      "birth_date": "1979-10-20",
+      "county": "Ialomița",
+      "external_ids": {
+        "cdep": [
+          "231"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=232&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:28.625622Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:616045d7af0943f3",
+      "full_name": "Oprea Octavian",
+      "aliases": [
+        "Oprea Octavian"
+      ],
+      "birth_date": "1991-07-11",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "232"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=233&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:29.644163Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:e6abfebdea200bb5",
+      "full_name": "Pambuccian Varujan",
+      "aliases": [
+        "Pambuccian Varujan"
+      ],
+      "birth_date": "1959-04-25",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "233"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=234&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:32.043337Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8757c41420bb421f",
+      "full_name": "Pandea Ciprian",
+      "aliases": [
+        "Pandea Ciprian"
+      ],
+      "birth_date": "1986-12-10",
+      "county": "Călărași",
+      "external_ids": {
+        "cdep": [
+          "234"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=235&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:32.410725Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:df1646a06b290d64",
+      "full_name": "Paraschiv Ciprian-Constantin",
+      "aliases": [
+        "Paraschiv Ciprian-Constantin"
+      ],
+      "birth_date": "1974-11-14",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "235"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=236&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:33.298650Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b3cae585d00ce684",
+      "full_name": "Paraschivescu Ovidiu-Romulus",
+      "aliases": [
+        "Paraschivescu Ovidiu-Romulus"
+      ],
+      "birth_date": "1981-12-25",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "236"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=237&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:34.261773Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:70f9744569f447d7",
+      "full_name": "Pascalini Nini-Alexandru",
+      "aliases": [
+        "Pascalini Nini-Alexandru"
+      ],
+      "birth_date": "1986-06-23",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "237"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=238&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:36.326160Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9d3778198a0f926a",
+      "full_name": "Pascariu Mihai-Cosmin",
+      "aliases": [
+        "Pascariu Mihai-Cosmin"
+      ],
+      "birth_date": "1983-02-23",
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "238"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=239&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:36.563109Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b48f62b1a2eb0954",
+      "full_name": "Paun Nicolae",
+      "aliases": [
+        "Paun Nicolae"
+      ],
+      "birth_date": "1964-11-09",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "239"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=240&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:38.664792Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3bcc31e6a5254c9d",
+      "full_name": "Paunescu Silviu-Titus",
+      "aliases": [
+        "Paunescu Silviu-Titus"
+      ],
+      "birth_date": "1979-06-22",
+      "county": "Constanța",
+      "external_ids": {
+        "cdep": [
+          "240"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:38.915797Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3db502e5ad3cdd88",
+      "full_name": "Petretchi Nicolae-Miroslav",
+      "aliases": [
+        "Petretchi Nicolae-Miroslav"
+      ],
+      "birth_date": "1985-09-16",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "241"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=242&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:41.461577Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ddf5b37fd1693a1d",
+      "full_name": "Peta-Stefanescu Eliza-Madalina",
+      "aliases": [
+        "Peta-Stefanescu Eliza-Madalina"
+      ],
+      "birth_date": "1984-09-18",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "242"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=243&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:42.977823Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:36dae52aca11e449",
+      "full_name": "Pirtea Marilen - Gabriel",
+      "aliases": [
+        "Pirtea Marilen - Gabriel"
+      ],
+      "birth_date": "1973-11-28",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "243"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=244&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:44.178385Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:37d3bd224e47994a",
+      "full_name": "Pistru-Popa Simona-Geanina",
+      "aliases": [
+        "Pistru-Popa Simona-Geanina"
+      ],
+      "birth_date": "1974-09-27",
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "244"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=245&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:45.220962Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2400a0c281370058",
+      "full_name": "Piclisan Gheorghe-Petru",
+      "aliases": [
+        "Piclisan Gheorghe-Petru"
+      ],
+      "birth_date": "1993-03-01",
+      "county": "Botoșani",
+      "external_ids": {
+        "cdep": [
+          "245"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=246&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:46.299368Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0fc389d906a5b5f4",
+      "full_name": "Plopeanu Rodica",
+      "aliases": [
+        "Plopeanu Rodica"
+      ],
+      "birth_date": "1968-07-29",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "246"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=247&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:47.691530Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:73a713ffcaf37e8f",
+      "full_name": "Plujar Andrei George",
+      "aliases": [
+        "Plujar Andrei George"
+      ],
+      "birth_date": "1986-10-16",
+      "county": "Caraș-Severin",
+      "external_ids": {
+        "cdep": [
+          "247"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=248&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:48.803678Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:d9839aa476c5017f",
+      "full_name": "Ponta Victor-Viorel",
+      "aliases": [
+        "Ponta Victor-Viorel"
+      ],
+      "birth_date": "1972-09-20",
+      "county": "Dâmbovița",
+      "external_ids": {
+        "cdep": [
+          "248"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=249&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:49.059532Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c48281895105d022",
+      "full_name": "Popa Alexandru",
+      "aliases": [
+        "Popa Alexandru"
+      ],
+      "birth_date": "1990-08-06",
+      "county": "Brăila",
+      "external_ids": {
+        "cdep": [
+          "249"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=250&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:50.064501Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:94795d358d81d928",
+      "full_name": "Popa Cristian-Alexandru",
+      "aliases": [
+        "Popa Cristian-Alexandru"
+      ],
+      "birth_date": "1983-07-08",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "250"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=251&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:52.017238Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c34d4e921e02bf48",
+      "full_name": "Popa Dorin",
+      "aliases": [
+        "Popa Dorin"
+      ],
+      "birth_date": "1960-04-19",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "251"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=252&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:53.643340Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:36284ecbc01adbec",
+      "full_name": "Popa George-Adrian",
+      "aliases": [
+        "Popa George-Adrian"
+      ],
+      "birth_date": "1978-01-30",
+      "county": "Bacău",
+      "external_ids": {
+        "cdep": [
+          "252"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=253&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:54.911516Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:53eb9a6671e10b58",
+      "full_name": "Popa Maricel",
+      "aliases": [
+        "Popa Maricel"
+      ],
+      "birth_date": "1961-06-10",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "253"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=254&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:55.223162Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ba67e7de1c21a487",
+      "full_name": "Popa Stefan-Ovidiu",
+      "aliases": [
+        "Popa Stefan-Ovidiu"
+      ],
+      "birth_date": "1985-06-25",
+      "county": "Vâlcea",
+      "external_ids": {
+        "cdep": [
+          "254"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=255&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:57.235355Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ff56f12bec705014",
+      "full_name": "Popescu Antonio-Gabi",
+      "aliases": [
+        "Popescu Antonio-Gabi"
+      ],
+      "birth_date": "1985-05-27",
+      "county": "Vâlcea",
+      "external_ids": {
+        "cdep": [
+          "255"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:57.496163Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1755c373cb711f01",
+      "full_name": "Popovici Florin-Cornel",
+      "aliases": [
+        "Popovici Florin-Cornel"
+      ],
+      "birth_date": "1971-09-13",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "256"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=257&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:58.486216Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:dfb2a75b114ed6c8",
+      "full_name": "Porumboiu Gabriela",
+      "aliases": [
+        "Porumboiu Gabriela"
+      ],
+      "birth_date": "1981-08-30",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "257"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=333&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:50:59.478847Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:813c4f9aced63a28",
+      "full_name": "Priceputu Vasilica",
+      "aliases": [
+        "Priceputu Vasilica"
+      ],
+      "birth_date": "1977-05-17",
+      "county": "Brăila",
+      "external_ids": {
+        "cdep": [
+          "333"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=258&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:00.537145Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9f31f3dcf99d047d",
+      "full_name": "Priescu Ionelia-Florenta",
+      "aliases": [
+        "Priescu Ionelia-Florenta"
+      ],
+      "birth_date": "1979-11-16",
+      "county": "Gorj",
+      "external_ids": {
+        "cdep": [
+          "258"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=259&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:02.986314Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:77a18aa23899c24a",
+      "full_name": "Prisca Razvan Sorin",
+      "aliases": [
+        "Prisca Razvan Sorin"
+      ],
+      "birth_date": "1987-06-15",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "259"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=260&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:04.415867Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c5ebe61bddb6de80",
+      "full_name": "Pruna Cristina-Madalina",
+      "aliases": [
+        "Pruna Cristina-Madalina"
+      ],
+      "birth_date": "1984-12-11",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "260"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=261&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:04.661791Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:4238022ef0853b03",
+      "full_name": "Puscasu Lucian-Florin",
+      "aliases": [
+        "Puscasu Lucian-Florin"
+      ],
+      "birth_date": "1969-03-12",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "261"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=262&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:06.656992Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:abafb8f19f9be7a4",
+      "full_name": "Puscasu Petre",
+      "aliases": [
+        "Puscasu Petre"
+      ],
+      "birth_date": "1971-03-06",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "262"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=263&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:06.929547Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:76fb62c9d660530a",
+      "full_name": "Radu Fabian-Cristian",
+      "aliases": [
+        "Radu Fabian-Cristian"
+      ],
+      "birth_date": "1989-08-10",
+      "county": "Sibiu",
+      "external_ids": {
+        "cdep": [
+          "263"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=264&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:09.102006Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:6f11cc17c7f4746c",
+      "full_name": "Rafila Alexandru",
+      "aliases": [
+        "Rafila Alexandru"
+      ],
+      "birth_date": "1961-12-27",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "264"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=265&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:10.939303Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:852501609619f2a7",
+      "full_name": "Raducanu Sebastian",
+      "aliases": [
+        "Raducanu Sebastian"
+      ],
+      "birth_date": "1981-06-19",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "265"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=266&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:11.255492Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c4172958cf266c3e",
+      "full_name": "Raducea Gheorghe-Valentin",
+      "aliases": [
+        "Raducea Gheorghe-Valentin"
+      ],
+      "birth_date": "1984-02-10",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "266"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=267&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:12.283942Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2de56be6d1624477",
+      "full_name": "Rigman Ciprian-Doru",
+      "aliases": [
+        "Rigman Ciprian-Doru"
+      ],
+      "birth_date": "1976-05-02",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "267"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=268&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:13.454986Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:c2e338c6fbe3c1d7",
+      "full_name": "Rinder Ana-Smaranda",
+      "aliases": [
+        "Rinder Ana-Smaranda"
+      ],
+      "birth_date": "1976-09-10",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "268"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=269&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:14.246143Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:81e19d8bb38f6c1d",
+      "full_name": "Rodeanu Bogdan-Ionel",
+      "aliases": [
+        "Rodeanu Bogdan-Ionel"
+      ],
+      "birth_date": "1980-07-18",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "269"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=270&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:16.454786Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8f8251412d93d61b",
+      "full_name": "Rogobete Alexandru-Florin",
+      "aliases": [
+        "Rogobete Alexandru-Florin"
+      ],
+      "birth_date": "1991-04-21",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "270"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=271&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:16.742498Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9c577197344fba77",
+      "full_name": "Roman Florin-Claudiu",
+      "aliases": [
+        "Roman Florin-Claudiu"
+      ],
+      "birth_date": "1974-04-22",
+      "county": "Alba",
+      "external_ids": {
+        "cdep": [
+          "271"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=272&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:17.753034Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:883d67b8027c4c2a",
+      "full_name": "Rosca Mircea",
+      "aliases": [
+        "Rosca Mircea"
+      ],
+      "birth_date": "1974-02-25",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "272"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=273&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:18.682129Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0d7a730367371184",
+      "full_name": "Rusu Sebastian-Mihai",
+      "aliases": [
+        "Rusu Sebastian-Mihai"
+      ],
+      "birth_date": "1978-11-10",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "273"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=274&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:20.579944Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fed219c45a7a885b",
+      "full_name": "Samoila Ion",
+      "aliases": [
+        "Samoila Ion"
+      ],
+      "birth_date": "1959-11-26",
+      "county": "Călărași",
+      "external_ids": {
+        "cdep": [
+          "274"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=275&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:20.833372Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2b4dbbf76edf173e",
+      "full_name": "Sandu Viorica",
+      "aliases": [
+        "Sandu Viorica"
+      ],
+      "birth_date": "1962-04-24",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "275"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=276&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:23.030987Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2ea1828973cd5500",
+      "full_name": "Scarlat George",
+      "aliases": [
+        "Scarlat George"
+      ],
+      "birth_date": "1979-05-05",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "276"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=277&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:23.284147Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b7a7c49ed968f1f5",
+      "full_name": "Seres Denes",
+      "aliases": [
+        "Seres Denes"
+      ],
+      "birth_date": "1953-07-21",
+      "county": "Sălaj",
+      "external_ids": {
+        "cdep": [
+          "277"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=278&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:24.319454Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b3b8797768b1d904",
+      "full_name": "Sighiartau Robert-Ionatan",
+      "aliases": [
+        "Sighiartau Robert-Ionatan"
+      ],
+      "birth_date": "1989-03-15",
+      "county": "Bistrița-Năsăud",
+      "external_ids": {
+        "cdep": [
+          "278"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=279&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:26.279624Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5e3bf4333f6eb125",
+      "full_name": "Simion George-Nicolae",
+      "aliases": [
+        "Simion George-Nicolae"
+      ],
+      "birth_date": "1986-09-21",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "279"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=280&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:26.508110Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7839d84a678f3b45",
+      "full_name": "Simu Aurora-Tasica",
+      "aliases": [
+        "Simu Aurora-Tasica"
+      ],
+      "birth_date": "1987-01-30",
+      "county": "Cluj",
+      "external_ids": {
+        "cdep": [
+          "280"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=281&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:27.493250Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:7b02e2a0b725e473",
+      "full_name": "Solomon Adrian",
+      "aliases": [
+        "Solomon Adrian"
+      ],
+      "birth_date": "1977-09-20",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "281"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=282&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:28.486373Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b5533843dd23c032",
+      "full_name": "Stancu Ionel",
+      "aliases": [
+        "Stancu Ionel"
+      ],
+      "birth_date": "1978-10-15",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "282"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=283&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:30.288525Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:9e3d12159e717533",
+      "full_name": "Stanescu Vetuta",
+      "aliases": [
+        "Stanescu Vetuta"
+      ],
+      "birth_date": "1969-09-29",
+      "county": "Hunedoara",
+      "external_ids": {
+        "cdep": [
+          "283"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=284&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:30.542697Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ab8d27d830faee52",
+      "full_name": "Stoenica Irina-Florentina",
+      "aliases": [
+        "Stoenica Irina-Florentina"
+      ],
+      "birth_date": "1983-04-09",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "284"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=285&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:31.622363Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:31b84b7c9c1938c2",
+      "full_name": "Stoica Alin-Bogdan",
+      "aliases": [
+        "Stoica Alin-Bogdan"
+      ],
+      "birth_date": "1974-06-26",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "285"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=286&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:32.555514Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:48dfc24d4005b656",
+      "full_name": "Stoica Bogdan-Alin",
+      "aliases": [
+        "Stoica Bogdan-Alin"
+      ],
+      "birth_date": "1987-04-10",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "286"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=287&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:33.566122Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2ff803e1fb381cae",
+      "full_name": "Stoica Diana",
+      "aliases": [
+        "Stoica Diana"
+      ],
+      "birth_date": "1991-02-23",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "287"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=288&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:35.947091Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:0ddaa0e4ea06c350",
+      "full_name": "Stoica Stefan-Bucur",
+      "aliases": [
+        "Stoica Stefan-Bucur"
+      ],
+      "birth_date": "1977-07-29",
+      "county": "Dolj",
+      "external_ids": {
+        "cdep": [
+          "288"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:37.582107Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fb9baa1c2649aff4",
+      "full_name": "Stroe Ionut-Marian",
+      "aliases": [
+        "Stroe Ionut-Marian"
+      ],
+      "birth_date": "1979-09-23",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "289"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=290&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:39.312901Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f5a8506abd0dad14",
+      "full_name": "Suciu Vasile-Daniel",
+      "aliases": [
+        "Suciu Vasile-Daniel"
+      ],
+      "birth_date": "1980-11-07",
+      "county": "Bistrița-Năsăud",
+      "external_ids": {
+        "cdep": [
+          "290"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=291&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:39.635624Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:939503d3c77dcbf3",
+      "full_name": "Szabo Odon",
+      "aliases": [
+        "Szabo Odon"
+      ],
+      "birth_date": "1975-07-04",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "291"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=292&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:41.462476Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:caf32cf1eae2d9cc",
+      "full_name": "Szoke Ecaterina-Mariana",
+      "aliases": [
+        "Szoke Ecaterina-Mariana"
+      ],
+      "birth_date": "1971-07-03",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "292"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=293&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:41.815501Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:33c4d2a85f337b8c",
+      "full_name": "Sendroiu Vlad-Ioan",
+      "aliases": [
+        "Sendroiu Vlad-Ioan"
+      ],
+      "birth_date": "1996-04-25",
+      "county": "Timiș",
+      "external_ids": {
+        "cdep": [
+          "293"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=294&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:43.899228Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:45c674beb36bc2c0",
+      "full_name": "Serban Ciprian-Constantin",
+      "aliases": [
+        "Serban Ciprian-Constantin"
+      ],
+      "birth_date": "1985-12-22",
+      "county": "Neamț",
+      "external_ids": {
+        "cdep": [
+          "294"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=295&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:44.162494Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:af8eb1407d1cca75",
+      "full_name": "Serban George Catalin",
+      "aliases": [
+        "Serban George Catalin"
+      ],
+      "birth_date": "1972-08-18",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "295"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=296&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:46.101818Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a2f99de33f69621b",
+      "full_name": "Serban Gianina",
+      "aliases": [
+        "Serban Gianina"
+      ],
+      "birth_date": "1983-07-15",
+      "county": "Ilfov",
+      "external_ids": {
+        "cdep": [
+          "296"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=297&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:47.783783Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2143039a3372f1d2",
+      "full_name": "Stirbu Gigel-Sorinel",
+      "aliases": [
+        "Stirbu Gigel-Sorinel"
+      ],
+      "birth_date": "1971-09-12",
+      "county": "Olt",
+      "external_ids": {
+        "cdep": [
+          "297"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=298&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:48.108333Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:2320976ff936e606",
+      "full_name": "Tanasa Dan",
+      "aliases": [
+        "Tanasa Dan"
+      ],
+      "birth_date": "1981-03-10",
+      "county": "Brașov",
+      "external_ids": {
+        "cdep": [
+          "298"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=299&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:49.142364Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1fc935518f8342d7",
+      "full_name": "Tanasa Stefan",
+      "aliases": [
+        "Tanasa Stefan"
+      ],
+      "birth_date": "1990-12-02",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "299"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=300&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:50.757224Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ddc4007fbe82ad20",
+      "full_name": "Teslariu Andrei-Ionut",
+      "aliases": [
+        "Teslariu Andrei-Ionut"
+      ],
+      "birth_date": "1985-04-17",
+      "county": "Vaslui",
+      "external_ids": {
+        "cdep": [
+          "300"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=301&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:52.624322Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:77e41da816541035",
+      "full_name": "Tilea Dumitru",
+      "aliases": [
+        "Tilea Dumitru"
+      ],
+      "birth_date": "1958-10-27",
+      "county": "Teleorman",
+      "external_ids": {
+        "cdep": [
+          "301"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=302&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:54.200019Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1f00505d0b24fe29",
+      "full_name": "Tilvar Angel",
+      "aliases": [
+        "Tilvar Angel"
+      ],
+      "birth_date": "1962-02-11",
+      "county": "Vrancea",
+      "external_ids": {
+        "cdep": [
+          "302"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=303&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:55.506478Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fb03f6b7e66a1d41",
+      "full_name": "Toader Bogdan-Andrei",
+      "aliases": [
+        "Toader Bogdan-Andrei"
+      ],
+      "birth_date": "1983-06-07",
+      "county": "Prahova",
+      "external_ids": {
+        "cdep": [
+          "303"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:56.946590Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:ea1ee2c321e99ded",
+      "full_name": "Toader Elena-Laura",
+      "aliases": [
+        "Toader Elena-Laura"
+      ],
+      "birth_date": "1981-10-29",
+      "county": "Tulcea",
+      "external_ids": {
+        "cdep": [
+          "304"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=305&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:57.811798Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5bc827ac7f88fc3f",
+      "full_name": "Toma Ilie",
+      "aliases": [
+        "Toma Ilie"
+      ],
+      "birth_date": "1969-07-30",
+      "county": "Hunedoara",
+      "external_ids": {
+        "cdep": [
+          "305"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=306&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:58.213390Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1890bc8f5655b5ed",
+      "full_name": "Tomoescu Ion-Alin",
+      "aliases": [
+        "Tomoescu Ion-Alin"
+      ],
+      "birth_date": "1972-01-03",
+      "county": "Mehedinți",
+      "external_ids": {
+        "cdep": [
+          "306"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=307&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:51:59.225422Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:520e0b649e77beea",
+      "full_name": "Trif Bogdan Gheorghe",
+      "aliases": [
+        "Trif Bogdan Gheorghe"
+      ],
+      "birth_date": "1977-04-28",
+      "county": "Sibiu",
+      "external_ids": {
+        "cdep": [
+          "307"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:00.249273Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:178edbf44a91599e",
+      "full_name": "Turcan Raluca",
+      "aliases": [
+        "Turcan Raluca"
+      ],
+      "birth_date": "1976-04-02",
+      "county": "Sibiu",
+      "external_ids": {
+        "cdep": [
+          "308"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=309&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:01.324952Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:43450c3f9c0b37ef",
+      "full_name": "Tusa Adriana Diana",
+      "aliases": [
+        "Tusa Adriana Diana"
+      ],
+      "birth_date": "1978-06-22",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "309"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:03.326385Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:36f4a9ee3d4d9c98",
+      "full_name": "Tinta Stefan",
+      "aliases": [
+        "Tinta Stefan"
+      ],
+      "birth_date": "1986-09-06",
+      "county": "Ialomița",
+      "external_ids": {
+        "cdep": [
+          "310"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=311&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:03.633087Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:b9b1ee37e647e3e8",
+      "full_name": "Tiplea Dumitru",
+      "aliases": [
+        "Tiplea Dumitru"
+      ],
+      "birth_date": "1974-10-14",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "311"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:04.661090Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:75cbffc15add443b",
+      "full_name": "Tiu Mihai-Adrian",
+      "aliases": [
+        "Tiu Mihai-Adrian"
+      ],
+      "birth_date": "1978-09-22",
+      "county": "Olt",
+      "external_ids": {
+        "cdep": [
+          "312"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=313&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:05.605329Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:4f39c18af43ed90d",
+      "full_name": "Toiu Oana-Silvia",
+      "aliases": [
+        "Toiu Oana-Silvia"
+      ],
+      "birth_date": "1985-07-09",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "313"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=314&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:07.738875Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:558640a18695dd03",
+      "full_name": "Ungureanu Emanuel-Dumitru",
+      "aliases": [
+        "Ungureanu Emanuel-Dumitru"
+      ],
+      "birth_date": "1978-03-12",
+      "county": "Suceava",
+      "external_ids": {
+        "cdep": [
+          "314"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=315&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:08.016284Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1421c9444f496c5c",
+      "full_name": "Vadim-Tudor Lidia",
+      "aliases": [
+        "Vadim-Tudor Lidia"
+      ],
+      "birth_date": "1990-08-03",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "315"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=316&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:10.159662Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:369dddcd1027f536",
+      "full_name": "Vass Levente",
+      "aliases": [
+        "Vass Levente"
+      ],
+      "birth_date": "1975-04-26",
+      "county": "Mureș",
+      "external_ids": {
+        "cdep": [
+          "316"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=317&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:10.584704Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1e6ab4db28d408e1",
+      "full_name": "Vaduva Dumitru",
+      "aliases": [
+        "Vaduva Dumitru"
+      ],
+      "birth_date": "1975-08-31",
+      "county": "Ilfov",
+      "external_ids": {
+        "cdep": [
+          "317"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=335&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:12.983783Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:cc5b43b36f0cf926",
+      "full_name": "Varsan Ciprian-Nicolae",
+      "aliases": [
+        "Varsan Ciprian-Nicolae"
+      ],
+      "birth_date": null,
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "335"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=318&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:13.262789Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:941c670ef23fbff4",
+      "full_name": "Varga Mariana",
+      "aliases": [
+        "Varga Mariana"
+      ],
+      "birth_date": "1968-06-15",
+      "county": "București",
+      "external_ids": {
+        "cdep": [
+          "318"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=319&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:14.253431Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:47c34e316c6e02cf",
+      "full_name": "Vedinas Verginia",
+      "aliases": [
+        "Vedinas Verginia"
+      ],
+      "birth_date": "1960-02-17",
+      "county": "Vrancea",
+      "external_ids": {
+        "cdep": [
+          "319"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=320&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:15.201150Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fe26adcf521a783d",
+      "full_name": "Vela Ion-Marcel",
+      "aliases": [
+        "Vela Ion-Marcel"
+      ],
+      "birth_date": "1963-06-02",
+      "county": "Caraș-Severin",
+      "external_ids": {
+        "cdep": [
+          "320"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=321&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:16.266090Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:fed71d77335144c4",
+      "full_name": "Velcescu Florin-Bogdan",
+      "aliases": [
+        "Velcescu Florin-Bogdan"
+      ],
+      "birth_date": "1990-06-04",
+      "county": "Argeș",
+      "external_ids": {
+        "cdep": [
+          "321"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=322&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:17.355320Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:65560cd3faf4436f",
+      "full_name": "Vexler Silviu",
+      "aliases": [
+        "Vexler Silviu"
+      ],
+      "birth_date": "1988-12-08",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "322"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=323&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:19.208932Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:aea9a2c0d15198cd",
+      "full_name": "Vidra Vlad-Andrei",
+      "aliases": [
+        "Vidra Vlad-Andrei"
+      ],
+      "birth_date": "1982-03-04",
+      "county": "Bihor",
+      "external_ids": {
+        "cdep": [
+          "323"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=324&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:19.511511Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:f032954ba8ed24ac",
+      "full_name": "Vulpescu Ioan",
+      "aliases": [
+        "Vulpescu Ioan"
+      ],
+      "birth_date": "1976-06-17",
+      "county": "Ilfov",
+      "external_ids": {
+        "cdep": [
+          "324"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=325&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:20.487117Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8155614a5fc7219c",
+      "full_name": "Vulpoiu Dorel",
+      "aliases": [
+        "Vulpoiu Dorel"
+      ],
+      "birth_date": "1972-11-05",
+      "county": "Galați",
+      "external_ids": {
+        "cdep": [
+          "325"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=326&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:22.508683Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:64bd6e99f4518cf1",
+      "full_name": "Vuscan Voicu",
+      "aliases": [
+        "Vuscan Voicu"
+      ],
+      "birth_date": "1979-04-21",
+      "county": "Alba",
+      "external_ids": {
+        "cdep": [
+          "326"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=327&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:23.084726Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:4efd4cedd3de2d36",
+      "full_name": "Weber Mihai",
+      "aliases": [
+        "Weber Mihai"
+      ],
+      "birth_date": "1964-11-18",
+      "county": "Gorj",
+      "external_ids": {
+        "cdep": [
+          "327"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=328&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:24.308425Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:da355e93576939ab",
+      "full_name": "Wiener Adrian",
+      "aliases": [
+        "Wiener Adrian"
+      ],
+      "birth_date": "1973-06-23",
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "328"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=329&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:26.195242Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:96ce9e63d77c5abe",
+      "full_name": "Zahoranszki Brigitta-Eva",
+      "aliases": [
+        "Zahoranszki Brigitta-Eva"
+      ],
+      "birth_date": "1982-08-31",
+      "county": "Maramureș",
+      "external_ids": {
+        "cdep": [
+          "329"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=330&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:26.551624Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:8349eef94e237e6d",
+      "full_name": "Zakarias Zoltan",
+      "aliases": [
+        "Zakarias Zoltan"
+      ],
+      "birth_date": "1968-04-11",
+      "county": "Harghita",
+      "external_ids": {
+        "cdep": [
+          "330"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=331&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:27.509920Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:1560bd66aab68f57",
+      "full_name": "Zisopol Dragos Gabriel",
+      "aliases": [
+        "Zisopol Dragos Gabriel"
+      ],
+      "birth_date": "1967-11-12",
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "331"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=2&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:29.784611Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:5eaf0eb9d22949e8",
+      "full_name": "Afloarei Sorin-Alexandru",
+      "aliases": [
+        "Afloarei Sorin-Alexandru"
+      ],
+      "birth_date": "1990-12-17",
+      "county": "Iași",
+      "external_ids": {
+        "cdep": [
+          "2"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=146&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:31.585331Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:cd025b10e393bdfe",
+      "full_name": "Ibram Iusein",
+      "aliases": [
+        "Ibram Iusein"
+      ],
+      "birth_date": null,
+      "county": null,
+      "external_ids": {
+        "cdep": [
+          "146"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=197&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:33.321137Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:eaa9280bf5a3aced",
+      "full_name": "Mircea Florin",
+      "aliases": [
+        "Mircea Florin"
+      ],
+      "birth_date": "1980-04-01",
+      "county": "Brăila",
+      "external_ids": {
+        "cdep": [
+          "197"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=59&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:34.893020Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:3a51ee47817d5bf7",
+      "full_name": "Ciolacu Ion-Marcel",
+      "aliases": [
+        "Ciolacu Ion-Marcel"
+      ],
+      "birth_date": "1967-11-28",
+      "county": "Buzău",
+      "external_ids": {
+        "cdep": [
+          "59"
+        ]
+      }
+    },
+    {
+      "sources": [
+        {
+          "source_id": "cdep",
+          "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=11&cam=2&leg=2024",
+          "fetched_at": "2026-06-03T14:52:35.264483Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "p:a5ee01faf5e63e75",
+      "full_name": "Artimon Dan-Catalin",
+      "aliases": [
+        "Artimon Dan-Catalin"
+      ],
+      "birth_date": null,
+      "county": "Arad",
+      "external_ids": {
+        "cdep": [
+          "11"
+        ]
+      }
+    }
+  ]
+}

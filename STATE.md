@@ -9,15 +9,21 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
 
 ## Poziția curentă
 
-> **SUMAR (2026-06-01, sesiune autonomă):** Faze 0–6 implementate · **95 teste verzi** ·
-> **13 commit-uri** pe `Endimion2k/romega` (privat) · **API static publicat** în `data/v1/`
-> (1.429 instituții + 7 SOE reale + graf 23 muchii) · client web · validat LIVE (cdep.ro,
-> ANAF v9, data.gov.ro, BNR, INS, SICAP). Bucla completă: scrape/API → resolve → graf →
-> publish JSON → query (ex. `control_chain(Min. Energiei)` → cele 7 SOE).
+> **SUMAR (2026-06-03, sesiuni autonome):** Faze 0–6 + coverage · **98 teste verzi** · ~19
+> commit-uri pe `Endimion2k/romega` (privat) · **API static publicat** în `data/v1/`.
+> Validat LIVE de pe mașina din RO: cdep.ro, ANAF v9, data.gov.ro, BNR, INS, SICAP, Curtea de Conturi.
 >
-> **Backlog rămas:** parsare bugete/salarii (heterogen) · scrapere coverage (Curtea de Conturi,
-> AEP, DNA) · rezoluție reprezentanți ONRC → Person · board-uri Art.51 (runner) · **acționariat %
-> plătit (DEFERIT, D7)** · deploy GitHub Pages + runner self-hosted.
+> **RULARE LIVE REALĂ (Item 2):** scrape complet cdep → **335 deputați, 335 persoane unice,
+> 0 erori** publicate în `data/v1/parlament/` (cu birth_date din profile → omonimii separați corect).
+>
+> **Item 1 (deploy):** BLOCAT — GitHub Pages necesită repo public (free) sau GitHub Pro; ai ales
+> *privat*, nu schimb vizibilitatea autonom. Tot restul e deploy-ready (`.nojekyll`, `data/v1`, `web/`).
+>
+> **Item 3 (coverage):** ✅ Curtea de Conturi (rapoarte audit, validat live) + ✅ DNA (comunicate,
+> validat pe URL-uri reale via firecrawl). ❌ AEP = reCAPTCHA (chiar și stealth) → necesită Camoufox/manual.
+>
+> **Backlog rămas:** AEP (reCAPTCHA) · bugete/salarii (heterogen) · board-uri Art.51 + declarații ANI
+> live (runner/headless) · **acționariat % plătit (DEFERIT, D7)** · deploy (decizia ta: public/Pro).
 
 ---
 
