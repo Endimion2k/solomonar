@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-06-03T20:52:44.941489+00:00",
+  "sursa": "site-uri ministere (Legea 176/2010, fara CAPTCHA)",
+  "total": 3,
+  "declaratii": [
+    {
+      "institutie": "Ministerul Afacerilor Externe",
+      "domain": "mae.ro",
+      "pdf_url": "https://mae.ro/sites/default/files/file/anul_2021/2021_pdf/da_ba.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 402133,
+      "datorii_ron": 0,
+      "auto": 0
+    },
+    {
+      "institutie": "Ministerul Culturii",
+      "domain": "cultura.ro",
+      "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 275981,
+      "datorii_ron": 27490,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Culturii",
+      "domain": "cultura.ro",
+      "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2025.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 275981,
+      "datorii_ron": 27490,
+      "auto": 6
+    }
+  ]
+}
