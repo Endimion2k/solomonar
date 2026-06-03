@@ -1,0 +1,4610 @@
+{
+  "judete": [
+    {
+      "id": 4,
+      "numeJudet": "Alba"
+    },
+    {
+      "id": 36,
+      "numeJudet": "Arad"
+    },
+    {
+      "id": 8,
+      "numeJudet": "Arges"
+    },
+    {
+      "id": 18,
+      "numeJudet": "Bacau"
+    },
+    {
+      "id": 14,
+      "numeJudet": "Bihor"
+    },
+    {
+      "id": 5,
+      "numeJudet": "Bistrita-Nasaud"
+    },
+    {
+      "id": 41,
+      "numeJudet": "Botosani"
+    },
+    {
+      "id": 28,
+      "numeJudet": "Braila"
+    },
+    {
+      "id": 19,
+      "numeJudet": "Brasov"
+    },
+    {
+      "id": 2,
+      "numeJudet": "Bucuresti"
+    },
+    {
+      "id": 17,
+      "numeJudet": "Buzau"
+    },
+    {
+      "id": 34,
+      "numeJudet": "Calarasi"
+    },
+    {
+      "id": 29,
+      "numeJudet": "Caras-Severin"
+    },
+    {
+      "id": 30,
+      "numeJudet": "Cluj"
+    },
+    {
+      "id": 9,
+      "numeJudet": "Constanta"
+    },
+    {
+      "id": 42,
+      "numeJudet": "Covasna"
+    },
+    {
+      "id": 31,
+      "numeJudet": "Dambovita"
+    },
+    {
+      "id": 3,
+      "numeJudet": "Dolj"
+    },
+    {
+      "id": 22,
+      "numeJudet": "Galati"
+    },
+    {
+      "id": 15,
+      "numeJudet": "Giurgiu"
+    },
+    {
+      "id": 27,
+      "numeJudet": "Gorj"
+    },
+    {
+      "id": 13,
+      "numeJudet": "Harghita"
+    },
+    {
+      "id": 35,
+      "numeJudet": "Hunedoara"
+    },
+    {
+      "id": 6,
+      "numeJudet": "Ialomita"
+    },
+    {
+      "id": 25,
+      "numeJudet": "Iasi"
+    },
+    {
+      "id": 10,
+      "numeJudet": "Ilfov"
+    },
+    {
+      "id": 12,
+      "numeJudet": "Maramures"
+    },
+    {
+      "id": 26,
+      "numeJudet": "Mehedinti"
+    },
+    {
+      "id": 20,
+      "numeJudet": "Mures"
+    },
+    {
+      "id": 32,
+      "numeJudet": "Neamt"
+    },
+    {
+      "id": 7,
+      "numeJudet": "Olt"
+    },
+    {
+      "id": 16,
+      "numeJudet": "Prahova"
+    },
+    {
+      "id": 23,
+      "numeJudet": "Sălaj"
+    },
+    {
+      "id": 11,
+      "numeJudet": "Satu Mare"
+    },
+    {
+      "id": 24,
+      "numeJudet": "Sibiu"
+    },
+    {
+      "id": 40,
+      "numeJudet": "Suceava"
+    },
+    {
+      "id": 1,
+      "numeJudet": "Teleorman"
+    },
+    {
+      "id": 33,
+      "numeJudet": "Timis"
+    },
+    {
+      "id": 39,
+      "numeJudet": "Tulcea"
+    },
+    {
+      "id": 37,
+      "numeJudet": "Valcea"
+    },
+    {
+      "id": 38,
+      "numeJudet": "Vaslui"
+    },
+    {
+      "id": 21,
+      "numeJudet": "Vrancea"
+    }
+  ],
+  "functii": [
+    {
+      "id": 804,
+      "numeFunctie": ""
+    },
+    {
+      "id": 716,
+      "numeFunctie": "-\tPersonal cu funcții de control din cadrul companiilor naționale"
+    },
+    {
+      "id": 793,
+      "numeFunctie": "Actuar"
+    },
+    {
+      "id": 550,
+      "numeFunctie": "Adjunct al Avocatului Poporului"
+    },
+    {
+      "id": 264,
+      "numeFunctie": "Adjunct al Directorului Serviciului Român de Informații"
+    },
+    {
+      "id": 201,
+      "numeFunctie": "Adjunct al inspectorului general"
+    },
+    {
+      "id": 410,
+      "numeFunctie": "Adjunct al inspectorului şef"
+    },
+    {
+      "id": 225,
+      "numeFunctie": "Adjunct al Procurorului General"
+    },
+    {
+      "id": 435,
+      "numeFunctie": "Adjunct al procurorului șef"
+    },
+    {
+      "id": 422,
+      "numeFunctie": "Adjunct Comandant sectie"
+    },
+    {
+      "id": 955,
+      "numeFunctie": "Adjunct economic al Directorului STS"
+    },
+    {
+      "id": 181,
+      "numeFunctie": "Adjunct Inspector sef"
+    },
+    {
+      "id": 1060,
+      "numeFunctie": "Adjunct sef atelier"
+    },
+    {
+      "id": 1031,
+      "numeFunctie": "Adjunct șef brigadă"
+    },
+    {
+      "id": 381,
+      "numeFunctie": "Adjunct sef centru"
+    },
+    {
+      "id": 355,
+      "numeFunctie": "Adjunct sef centru exploatare"
+    },
+    {
+      "id": 434,
+      "numeFunctie": "Adjunct sef centru oprational"
+    },
+    {
+      "id": 439,
+      "numeFunctie": "Adjunct sef inspectie de prevenire"
+    },
+    {
+      "id": 111,
+      "numeFunctie": "Adjunct sef politie municipala"
+    },
+    {
+      "id": 1094,
+      "numeFunctie": "adjunct șef poliție oraș"
+    },
+    {
+      "id": 211,
+      "numeFunctie": "Adjunct Sef Sectie"
+    },
+    {
+      "id": 139,
+      "numeFunctie": "Adjunct sef sector"
+    },
+    {
+      "id": 954,
+      "numeFunctie": "Adjunct tehnic al Directorului STS"
+    },
+    {
+      "id": 593,
+      "numeFunctie": "Adjuncții Directorului Serviciului de Informații Externe"
+    },
+    {
+      "id": 858,
+      "numeFunctie": "Adjuncții Directorului Serviciului de Telecomunicații Speciale"
+    },
+    {
+      "id": 551,
+      "numeFunctie": "Adjunctul Comandantului"
+    },
+    {
+      "id": 531,
+      "numeFunctie": "Adjunctul conducătorului instituției (vicepreședinte, director general adjunct etc.)"
+    },
+    {
+      "id": 910,
+      "numeFunctie": "Adjunctul Directorului Serviciului de Protecție și Pază"
+    },
+    {
+      "id": 1029,
+      "numeFunctie": "Administrator"
+    },
+    {
+      "id": 705,
+      "numeFunctie": "Administrator baze de date"
+    },
+    {
+      "id": 231,
+      "numeFunctie": "Administrator CA"
+    },
+    {
+      "id": 189,
+      "numeFunctie": "Administrator financiar"
+    },
+    {
+      "id": 1024,
+      "numeFunctie": "Administrator IT"
+    },
+    {
+      "id": 232,
+      "numeFunctie": "Administrator patrimoniu"
+    },
+    {
+      "id": 37,
+      "numeFunctie": "Administrator Public"
+    },
+    {
+      "id": 210,
+      "numeFunctie": "Administrator sef"
+    },
+    {
+      "id": 140,
+      "numeFunctie": "Administrator special"
+    },
+    {
+      "id": 1014,
+      "numeFunctie": "Administrator unic"
+    },
+    {
+      "id": 3,
+      "numeFunctie": "Agent"
+    },
+    {
+      "id": 614,
+      "numeFunctie": "Agent Administrativ"
+    },
+    {
+      "id": 588,
+      "numeFunctie": "Agent Administrativ PR. I"
+    },
+    {
+      "id": 635,
+      "numeFunctie": "Agent Administrativ PR. II"
+    },
+    {
+      "id": 561,
+      "numeFunctie": "Agent Administrativ PR. III"
+    },
+    {
+      "id": 664,
+      "numeFunctie": "Agent Caserie PR. II"
+    },
+    {
+      "id": 634,
+      "numeFunctie": "Agent consular"
+    },
+    {
+      "id": 681,
+      "numeFunctie": "Agent de conformitate"
+    },
+    {
+      "id": 65,
+      "numeFunctie": "Agent debutant"
+    },
+    {
+      "id": 11,
+      "numeFunctie": "Agent I"
+    },
+    {
+      "id": 643,
+      "numeFunctie": "Agent I (conducător autospeciale)"
+    },
+    {
+      "id": 24,
+      "numeFunctie": "Agent II"
+    },
+    {
+      "id": 47,
+      "numeFunctie": "Agent III"
+    },
+    {
+      "id": 88,
+      "numeFunctie": "Agent IV"
+    },
+    {
+      "id": 697,
+      "numeFunctie": "Agent Magazioner PR. I"
+    },
+    {
+      "id": 852,
+      "numeFunctie": "Agent Magazioner PR. II"
+    },
+    {
+      "id": 518,
+      "numeFunctie": "Agent Operativ PR. I"
+    },
+    {
+      "id": 583,
+      "numeFunctie": "Agent Operativ PR. III"
+    },
+    {
+      "id": 560,
+      "numeFunctie": "Agent Operativ PR. IV"
+    },
+    {
+      "id": 23,
+      "numeFunctie": "Agent principal"
+    },
+    {
+      "id": 442,
+      "numeFunctie": "Agent procedural"
+    },
+    {
+      "id": 800,
+      "numeFunctie": "Agent Secretariat PR.I"
+    },
+    {
+      "id": 7,
+      "numeFunctie": "Agent Sef"
+    },
+    {
+      "id": 63,
+      "numeFunctie": "Agent Sef Adjunct"
+    },
+    {
+      "id": 73,
+      "numeFunctie": "Agent Sef Principal"
+    },
+    {
+      "id": 590,
+      "numeFunctie": "Agent Tehnic PR. I"
+    },
+    {
+      "id": 629,
+      "numeFunctie": "Agent Tehnic PR. III"
+    },
+    {
+      "id": 503,
+      "numeFunctie": "Agent Vamal"
+    },
+    {
+      "id": 303,
+      "numeFunctie": "Ajutor comandant grup"
+    },
+    {
+      "id": 401,
+      "numeFunctie": "Ajutor comandant serviciu de lupta"
+    },
+    {
+      "id": 70,
+      "numeFunctie": "Ajutor sef post"
+    },
+    {
+      "id": 258,
+      "numeFunctie": "Alesi locali - Consilieri generali"
+    },
+    {
+      "id": 85,
+      "numeFunctie": "Aleși locali - Consilieri județeni"
+    },
+    {
+      "id": 156,
+      "numeFunctie": "Aleși locali - Consilieri locali"
+    },
+    {
+      "id": 534,
+      "numeFunctie": "Ambasador"
+    },
+    {
+      "id": 962,
+      "numeFunctie": "Ambasador-sef misiune"
+    },
+    {
+      "id": 202,
+      "numeFunctie": "Analist"
+    },
+    {
+      "id": 535,
+      "numeFunctie": "Analist financiar"
+    },
+    {
+      "id": 1039,
+      "numeFunctie": "analist investitii"
+    },
+    {
+      "id": 443,
+      "numeFunctie": "Aprod"
+    },
+    {
+      "id": 582,
+      "numeFunctie": "Arhitect"
+    },
+    {
+      "id": 229,
+      "numeFunctie": "Arhitect sef"
+    },
+    {
+      "id": 441,
+      "numeFunctie": "Arhivar"
+    },
+    {
+      "id": 618,
+      "numeFunctie": "Arhivist"
+    },
+    {
+      "id": 281,
+      "numeFunctie": "Asimilați"
+    },
+    {
+      "id": 203,
+      "numeFunctie": "Asistent  de cercetare stiintifica"
+    },
+    {
+      "id": 1099,
+      "numeFunctie": "Asistent Administrativ"
+    },
+    {
+      "id": 1080,
+      "numeFunctie": "Asistent al judecătorului"
+    },
+    {
+      "id": 719,
+      "numeFunctie": "Asistent cercetare"
+    },
+    {
+      "id": 659,
+      "numeFunctie": "Asistent comunitar"
+    },
+    {
+      "id": 261,
+      "numeFunctie": "Asistent coordonator"
+    },
+    {
+      "id": 239,
+      "numeFunctie": "Asistent I"
+    },
+    {
+      "id": 437,
+      "numeFunctie": "Asistent judiciar"
+    },
+    {
+      "id": 345,
+      "numeFunctie": "Asistent manager"
+    },
+    {
+      "id": 123,
+      "numeFunctie": "Asistent medical"
+    },
+    {
+      "id": 96,
+      "numeFunctie": "Asistent medical coordonator"
+    },
+    {
+      "id": 626,
+      "numeFunctie": "Asistent medical I"
+    },
+    {
+      "id": 613,
+      "numeFunctie": "Asistent Medical PR. I"
+    },
+    {
+      "id": 623,
+      "numeFunctie": "Asistent Medical PR. IV"
+    },
+    {
+      "id": 625,
+      "numeFunctie": "Asistent medical principal"
+    },
+    {
+      "id": 1091,
+      "numeFunctie": "Asistent Medical Sef"
+    },
+    {
+      "id": 87,
+      "numeFunctie": "Asistent medical sef sectie"
+    },
+    {
+      "id": 447,
+      "numeFunctie": "Asistent proiect"
+    },
+    {
+      "id": 58,
+      "numeFunctie": "Asistent sef"
+    },
+    {
+      "id": 257,
+      "numeFunctie": "Asistent sef coordonator"
+    },
+    {
+      "id": 236,
+      "numeFunctie": "Asistent Social"
+    },
+    {
+      "id": 559,
+      "numeFunctie": "Asistent universitar"
+    },
+    {
+      "id": 1068,
+      "numeFunctie": "Asistent veterinar"
+    },
+    {
+      "id": 477,
+      "numeFunctie": "Asistent veterinar principal"
+    },
+    {
+      "id": 599,
+      "numeFunctie": "Atașat"
+    },
+    {
+      "id": 52,
+      "numeFunctie": "Auditor"
+    },
+    {
+      "id": 1093,
+      "numeFunctie": "Auditor (ofițer/ofițer de poliție)"
+    },
+    {
+      "id": 255,
+      "numeFunctie": "Auditor intern"
+    },
+    {
+      "id": 787,
+      "numeFunctie": "Auditor IT consultant in informatica"
+    },
+    {
+      "id": 297,
+      "numeFunctie": "Auditor public intern"
+    },
+    {
+      "id": 832,
+      "numeFunctie": "Avocatul Poporului"
+    },
+    {
+      "id": 159,
+      "numeFunctie": "Bibliograf"
+    },
+    {
+      "id": 393,
+      "numeFunctie": "Bibliotecar"
+    },
+    {
+      "id": 1097,
+      "numeFunctie": "biochimist"
+    },
+    {
+      "id": 458,
+      "numeFunctie": "Biolog"
+    },
+    {
+      "id": 1100,
+      "numeFunctie": "BIOTEHNOLOG"
+    },
+    {
+      "id": 334,
+      "numeFunctie": "Candidat - consilier județean"
+    },
+    {
+      "id": 522,
+      "numeFunctie": "Candidat - consilier local"
+    },
+    {
+      "id": 791,
+      "numeFunctie": "Candidat - deputat"
+    },
+    {
+      "id": 1057,
+      "numeFunctie": "Candidat - primar"
+    },
+    {
+      "id": 1028,
+      "numeFunctie": "Candidați - consilieri locali"
+    },
+    {
+      "id": 502,
+      "numeFunctie": "Capitan de Port"
+    },
+    {
+      "id": 305,
+      "numeFunctie": "Căpitan de Port Specialist"
+    },
+    {
+      "id": 701,
+      "numeFunctie": "Căpitan Port debutant"
+    },
+    {
+      "id": 675,
+      "numeFunctie": "Căpitan Port gr. I"
+    },
+    {
+      "id": 702,
+      "numeFunctie": "Căpitan Port tr. II"
+    },
+    {
+      "id": 508,
+      "numeFunctie": "Capitan Sef de Port"
+    },
+    {
+      "id": 980,
+      "numeFunctie": "Casier"
+    },
+    {
+      "id": 335,
+      "numeFunctie": "CENZOR"
+    },
+    {
+      "id": 737,
+      "numeFunctie": "Cercetator"
+    },
+    {
+      "id": 254,
+      "numeFunctie": "Cercetator științific"
+    },
+    {
+      "id": 678,
+      "numeFunctie": "Cercetator stiintific gradul I"
+    },
+    {
+      "id": 822,
+      "numeFunctie": "Cercetator stiintific gradul I in economie"
+    },
+    {
+      "id": 493,
+      "numeFunctie": "Cercetător științific gradul I în ingineria materialelor"
+    },
+    {
+      "id": 816,
+      "numeFunctie": "Cercetător științific gradul I în tehnologia compușilor macromoleculari"
+    },
+    {
+      "id": 343,
+      "numeFunctie": "Cercetator stiintific gradul II"
+    },
+    {
+      "id": 840,
+      "numeFunctie": "Cercetător științific gradul II în biologie chimie"
+    },
+    {
+      "id": 650,
+      "numeFunctie": "Cercetator stiintific gradul II in economie"
+    },
+    {
+      "id": 825,
+      "numeFunctie": "Cercetător științific gradul II în ingineria resurselor vegetale"
+    },
+    {
+      "id": 830,
+      "numeFunctie": "Cercetător științific gradul II în inginerie chimică"
+    },
+    {
+      "id": 226,
+      "numeFunctie": "Cercetator stiintific gradul III"
+    },
+    {
+      "id": 860,
+      "numeFunctie": "Cercetator stiintific gradul III in economie"
+    },
+    {
+      "id": 390,
+      "numeFunctie": "Cercetător științific gradul III în tehnologia substanțelor organice"
+    },
+    {
+      "id": 741,
+      "numeFunctie": "Chestor"
+    },
+    {
+      "id": 365,
+      "numeFunctie": "Chimist"
+    },
+    {
+      "id": 1102,
+      "numeFunctie": "CHIMIST ANALIST"
+    },
+    {
+      "id": 1045,
+      "numeFunctie": "Comandant adjunct aviatie inspector sef siguranta"
+    },
+    {
+      "id": 763,
+      "numeFunctie": "Comandant Adjunct aviatie Inspector Siguranta"
+    },
+    {
+      "id": 967,
+      "numeFunctie": "Comandant al comenduirii de garnizoana"
+    },
+    {
+      "id": 828,
+      "numeFunctie": "Comandant al punctului de operare aeromedical"
+    },
+    {
+      "id": 492,
+      "numeFunctie": "Comandant batalion"
+    },
+    {
+      "id": 425,
+      "numeFunctie": "Comandant baterie"
+    },
+    {
+      "id": 665,
+      "numeFunctie": "Comandant centru de pregatire"
+    },
+    {
+      "id": 268,
+      "numeFunctie": "Comandant companie (instructor)"
+    },
+    {
+      "id": 114,
+      "numeFunctie": "Comandant detasament"
+    },
+    {
+      "id": 472,
+      "numeFunctie": "Comandant detasament I"
+    },
+    {
+      "id": 295,
+      "numeFunctie": "Comandant echipa"
+    },
+    {
+      "id": 826,
+      "numeFunctie": "Comandant echipaj"
+    },
+    {
+      "id": 849,
+      "numeFunctie": "Comandant echipaj de zbor"
+    },
+    {
+      "id": 251,
+      "numeFunctie": "Comandant grup"
+    },
+    {
+      "id": 539,
+      "numeFunctie": "Comandant grup de interventie"
+    },
+    {
+      "id": 667,
+      "numeFunctie": "Comandant grup special de salvator"
+    },
+    {
+      "id": 41,
+      "numeFunctie": "Comandant grupă"
+    },
+    {
+      "id": 302,
+      "numeFunctie": "Comandant grupă I"
+    },
+    {
+      "id": 120,
+      "numeFunctie": "Comandant nava"
+    },
+    {
+      "id": 752,
+      "numeFunctie": "Comandant Pichet"
+    },
+    {
+      "id": 220,
+      "numeFunctie": "Comandant pluton"
+    },
+    {
+      "id": 402,
+      "numeFunctie": "Comandant pluton I"
+    },
+    {
+      "id": 164,
+      "numeFunctie": "Comandant sectie"
+    },
+    {
+      "id": 282,
+      "numeFunctie": "Comandant secund"
+    },
+    {
+      "id": 448,
+      "numeFunctie": "Comandant serviciu de lupta"
+    },
+    {
+      "id": 976,
+      "numeFunctie": "Comandant statie"
+    },
+    {
+      "id": 135,
+      "numeFunctie": "Comandant unitate"
+    },
+    {
+      "id": 621,
+      "numeFunctie": "Comandat grup de interventie"
+    },
+    {
+      "id": 112,
+      "numeFunctie": "Comisar"
+    },
+    {
+      "id": 966,
+      "numeFunctie": "Comisar European"
+    },
+    {
+      "id": 517,
+      "numeFunctie": "Comisar General"
+    },
+    {
+      "id": 572,
+      "numeFunctie": "Comisar General Adjunct"
+    },
+    {
+      "id": 48,
+      "numeFunctie": "Comisar sef"
+    },
+    {
+      "id": 591,
+      "numeFunctie": "Comisar sef adjunct"
+    },
+    {
+      "id": 194,
+      "numeFunctie": "Conducator auto"
+    },
+    {
+      "id": 580,
+      "numeFunctie": "Conducator Auto I"
+    },
+    {
+      "id": 877,
+      "numeFunctie": "Conducator Auto III"
+    },
+    {
+      "id": 644,
+      "numeFunctie": "Conducator Auto IV"
+    },
+    {
+      "id": 360,
+      "numeFunctie": "Conducătorul instituției (președinte, director general, șef oficiu etc.)"
+    },
+    {
+      "id": 310,
+      "numeFunctie": "Conferentiar Universitar"
+    },
+    {
+      "id": 400,
+      "numeFunctie": "Conservator"
+    },
+    {
+      "id": 15,
+      "numeFunctie": "Consilier"
+    },
+    {
+      "id": 126,
+      "numeFunctie": "Consilier Achizitii Publice"
+    },
+    {
+      "id": 288,
+      "numeFunctie": "Consilier Achizitii Publice Asistent"
+    },
+    {
+      "id": 172,
+      "numeFunctie": "Consilier Achizitii Publice Principal"
+    },
+    {
+      "id": 188,
+      "numeFunctie": "Consilier Achizitii Publice Superior"
+    },
+    {
+      "id": 543,
+      "numeFunctie": "Consilier Agent Agricol"
+    },
+    {
+      "id": 723,
+      "numeFunctie": "Consilier Agent Fiscal"
+    },
+    {
+      "id": 1064,
+      "numeFunctie": "Consilier al ministrului"
+    },
+    {
+      "id": 939,
+      "numeFunctie": "Consilier al Procurorului General"
+    },
+    {
+      "id": 77,
+      "numeFunctie": "Consilier Asistent"
+    },
+    {
+      "id": 684,
+      "numeFunctie": "Consilier Cabinet Ministru"
+    },
+    {
+      "id": 13,
+      "numeFunctie": "Consilier Cabinet Secretar de Stat"
+    },
+    {
+      "id": 498,
+      "numeFunctie": "Consilier Cabinet Vicepresedinte"
+    },
+    {
+      "id": 504,
+      "numeFunctie": "Consilier Casier"
+    },
+    {
+      "id": 624,
+      "numeFunctie": "Consilier conturi"
+    },
+    {
+      "id": 690,
+      "numeFunctie": "Consilier de concurență"
+    },
+    {
+      "id": 549,
+      "numeFunctie": "Consilier de solutionare a contestatiilor in domeniul achizitiilor publice"
+    },
+    {
+      "id": 547,
+      "numeFunctie": "Consilier de stat"
+    },
+    {
+      "id": 259,
+      "numeFunctie": "Consilier debutant"
+    },
+    {
+      "id": 569,
+      "numeFunctie": "Consilier diplomatic"
+    },
+    {
+      "id": 31,
+      "numeFunctie": "Consilier economic"
+    },
+    {
+      "id": 115,
+      "numeFunctie": "Consilier județean"
+    },
+    {
+      "id": 138,
+      "numeFunctie": "Consilier juridic"
+    },
+    {
+      "id": 998,
+      "numeFunctie": "Consilier juridic (ofițer/ofițer de\n            poliție)"
+    },
+    {
+      "id": 154,
+      "numeFunctie": "Consilier juridic asistent"
+    },
+    {
+      "id": 221,
+      "numeFunctie": "Consilier juridic principal"
+    },
+    {
+      "id": 612,
+      "numeFunctie": "Consilier juridic șef"
+    },
+    {
+      "id": 32,
+      "numeFunctie": "Consilier juridic superior"
+    },
+    {
+      "id": 57,
+      "numeFunctie": "Consilier local"
+    },
+    {
+      "id": 661,
+      "numeFunctie": "Consilier manager de proiect"
+    },
+    {
+      "id": 524,
+      "numeFunctie": "Consilier Ofiter Stare Civila"
+    },
+    {
+      "id": 1092,
+      "numeFunctie": "Consilier onorific"
+    },
+    {
+      "id": 81,
+      "numeFunctie": "Consilier parlamentar"
+    },
+    {
+      "id": 312,
+      "numeFunctie": "Consilier Pentru Afaceri Europene"
+    },
+    {
+      "id": 59,
+      "numeFunctie": "Consilier Personal"
+    },
+    {
+      "id": 444,
+      "numeFunctie": "Consilier Presedinte"
+    },
+    {
+      "id": 867,
+      "numeFunctie": "Consilier prezidențial"
+    },
+    {
+      "id": 579,
+      "numeFunctie": "Consilier Primar"
+    },
+    {
+      "id": 64,
+      "numeFunctie": "Consilier Principal"
+    },
+    {
+      "id": 10,
+      "numeFunctie": "Consilier superior"
+    },
+    {
+      "id": 827,
+      "numeFunctie": "Consilieri județeni"
+    },
+    {
+      "id": 585,
+      "numeFunctie": "Consul"
+    },
+    {
+      "id": 414,
+      "numeFunctie": "Consul general"
+    },
+    {
+      "id": 1058,
+      "numeFunctie": "Consul general-sef misiune"
+    },
+    {
+      "id": 190,
+      "numeFunctie": "Consultant"
+    },
+    {
+      "id": 742,
+      "numeFunctie": "Consultant în informatică"
+    },
+    {
+      "id": 246,
+      "numeFunctie": "Consultant parlamentar"
+    },
+    {
+      "id": 187,
+      "numeFunctie": "Contabil"
+    },
+    {
+      "id": 54,
+      "numeFunctie": "Contabil sef"
+    },
+    {
+      "id": 975,
+      "numeFunctie": "Contabil șef (ofițer/ofițer de poliție)"
+    },
+    {
+      "id": 777,
+      "numeFunctie": "Contabil Șef Depou Exploatare TEM"
+    },
+    {
+      "id": 240,
+      "numeFunctie": "Contabil Sef Sectie"
+    },
+    {
+      "id": 1027,
+      "numeFunctie": "Contabil sef STT"
+    },
+    {
+      "id": 707,
+      "numeFunctie": "Contabil Sef Sucursala"
+    },
+    {
+      "id": 413,
+      "numeFunctie": "Controlor delegat"
+    },
+    {
+      "id": 419,
+      "numeFunctie": "Controlor financiar"
+    },
+    {
+      "id": 845,
+      "numeFunctie": "Controlor financiar sef"
+    },
+    {
+      "id": 744,
+      "numeFunctie": "Controlor financiar sef adjunct"
+    },
+    {
+      "id": 341,
+      "numeFunctie": "Controlor Vamal"
+    },
+    {
+      "id": 808,
+      "numeFunctie": "Coordonator achizitii publice"
+    },
+    {
+      "id": 947,
+      "numeFunctie": "Coordonator alimentare"
+    },
+    {
+      "id": 790,
+      "numeFunctie": "Coordonator atelier tehnic"
+    },
+    {
+      "id": 633,
+      "numeFunctie": "Coordonator cabinet"
+    },
+    {
+      "id": 197,
+      "numeFunctie": "Coordonator compartiment"
+    },
+    {
+      "id": 958,
+      "numeFunctie": "Coordonator Departament ITP"
+    },
+    {
+      "id": 278,
+      "numeFunctie": "Coordonator echipa"
+    },
+    {
+      "id": 821,
+      "numeFunctie": "Coordonator ID-IFR"
+    },
+    {
+      "id": 352,
+      "numeFunctie": "Coordonator local"
+    },
+    {
+      "id": 308,
+      "numeFunctie": "Coordonator personal de specialitate"
+    },
+    {
+      "id": 932,
+      "numeFunctie": "Coordonator planificare circulatie"
+    },
+    {
+      "id": 747,
+      "numeFunctie": "Coordonator proiect"
+    },
+    {
+      "id": 481,
+      "numeFunctie": "Coordonator servicii sociale"
+    },
+    {
+      "id": 574,
+      "numeFunctie": "Coordonator Serviciu"
+    },
+    {
+      "id": 249,
+      "numeFunctie": "Coordonator specialitate"
+    },
+    {
+      "id": 693,
+      "numeFunctie": "Coordonator Tehnic"
+    },
+    {
+      "id": 601,
+      "numeFunctie": "Coordonatori de birou"
+    },
+    {
+      "id": 872,
+      "numeFunctie": "Curier personal"
+    },
+    {
+      "id": 22,
+      "numeFunctie": "Decan"
+    },
+    {
+      "id": 276,
+      "numeFunctie": "Deputat"
+    },
+    {
+      "id": 646,
+      "numeFunctie": "Desemnat sef birou"
+    },
+    {
+      "id": 501,
+      "numeFunctie": "Desemnat sef serviciu"
+    },
+    {
+      "id": 691,
+      "numeFunctie": "Dir. Biblioteca"
+    },
+    {
+      "id": 941,
+      "numeFunctie": "Dir. Departament"
+    },
+    {
+      "id": 27,
+      "numeFunctie": "Director"
+    },
+    {
+      "id": 235,
+      "numeFunctie": "Director Achiziții"
+    },
+    {
+      "id": 869,
+      "numeFunctie": "Director Achiziții Publice"
+    },
+    {
+      "id": 19,
+      "numeFunctie": "Director adjunct"
+    },
+    {
+      "id": 979,
+      "numeFunctie": "Director adjunct (ofițer/ofițer de\n            poliție)"
+    },
+    {
+      "id": 1013,
+      "numeFunctie": "DIRECTOR ADJUNCT DIRECTIE"
+    },
+    {
+      "id": 870,
+      "numeFunctie": "Director Adjunct Divizie"
+    },
+    {
+      "id": 811,
+      "numeFunctie": "Director adjunct II"
+    },
+    {
+      "id": 760,
+      "numeFunctie": "Director Adjunct Institut Cultural Roman in Strainatate"
+    },
+    {
+      "id": 1052,
+      "numeFunctie": "Director adjunct STT"
+    },
+    {
+      "id": 1075,
+      "numeFunctie": "Director Administrativ"
+    },
+    {
+      "id": 729,
+      "numeFunctie": "Director Cabinet Ministru"
+    },
+    {
+      "id": 438,
+      "numeFunctie": "Director Cabinet Secretar de Stat"
+    },
+    {
+      "id": 838,
+      "numeFunctie": "Director calitate"
+    },
+    {
+      "id": 104,
+      "numeFunctie": "Director Cancelarie"
+    },
+    {
+      "id": 262,
+      "numeFunctie": "Director centru Relatii Clienti"
+    },
+    {
+      "id": 216,
+      "numeFunctie": "Director Comercial"
+    },
+    {
+      "id": 982,
+      "numeFunctie": "Director Coordonator"
+    },
+    {
+      "id": 378,
+      "numeFunctie": "Director CSUD"
+    },
+    {
+      "id": 815,
+      "numeFunctie": "Director CZ - Căpitan sef de Port"
+    },
+    {
+      "id": 127,
+      "numeFunctie": "Director de cabinet"
+    },
+    {
+      "id": 1107,
+      "numeFunctie": "Director de cabinet (ofițer/ofițer de\n            poliție)"
+    },
+    {
+      "id": 316,
+      "numeFunctie": "Director de îngrijiri"
+    },
+    {
+      "id": 511,
+      "numeFunctie": "Director de proiect"
+    },
+    {
+      "id": 71,
+      "numeFunctie": "Director Departament"
+    },
+    {
+      "id": 783,
+      "numeFunctie": "Director departament Informatica"
+    },
+    {
+      "id": 521,
+      "numeFunctie": "Director Dezvoltare"
+    },
+    {
+      "id": 773,
+      "numeFunctie": "Director directia Comerciala"
+    },
+    {
+      "id": 899,
+      "numeFunctie": "Director directia Economica"
+    },
+    {
+      "id": 918,
+      "numeFunctie": "Director Directia Exploatare"
+    },
+    {
+      "id": 1066,
+      "numeFunctie": "Director directia Juridic Administrativ"
+    },
+    {
+      "id": 949,
+      "numeFunctie": "Director Directia Tehnica"
+    },
+    {
+      "id": 421,
+      "numeFunctie": "Director Directie"
+    },
+    {
+      "id": 423,
+      "numeFunctie": "Director Divizie"
+    },
+    {
+      "id": 868,
+      "numeFunctie": "Director DRUS"
+    },
+    {
+      "id": 50,
+      "numeFunctie": "Director economic"
+    },
+    {
+      "id": 1069,
+      "numeFunctie": "Director economic provizoriu"
+    },
+    {
+      "id": 133,
+      "numeFunctie": "Director Executiv"
+    },
+    {
+      "id": 160,
+      "numeFunctie": "Director executiv adjunct"
+    },
+    {
+      "id": 699,
+      "numeFunctie": "Director Exploatare"
+    },
+    {
+      "id": 519,
+      "numeFunctie": "Director filială"
+    },
+    {
+      "id": 327,
+      "numeFunctie": "Director financiar"
+    },
+    {
+      "id": 95,
+      "numeFunctie": "Director financiar contabil"
+    },
+    {
+      "id": 67,
+      "numeFunctie": "Director general"
+    },
+    {
+      "id": 167,
+      "numeFunctie": "Director general adjunct"
+    },
+    {
+      "id": 984,
+      "numeFunctie": "Director general adjunct (ofițer/ofițer\n            de poliție)"
+    },
+    {
+      "id": 1042,
+      "numeFunctie": "Director General Adjunct 2"
+    },
+    {
+      "id": 1085,
+      "numeFunctie": "Director General Adjunct 3"
+    },
+    {
+      "id": 185,
+      "numeFunctie": "Director general adjunct economic"
+    },
+    {
+      "id": 548,
+      "numeFunctie": "Director General Administrativ"
+    },
+    {
+      "id": 1082,
+      "numeFunctie": "Director General provizoriu"
+    },
+    {
+      "id": 857,
+      "numeFunctie": "Director hotel"
+    },
+    {
+      "id": 915,
+      "numeFunctie": "Director Infrastructură și Sisteme Informatice"
+    },
+    {
+      "id": 605,
+      "numeFunctie": "Director Institut Cultural Roman in Strainatate"
+    },
+    {
+      "id": 567,
+      "numeFunctie": "Director Juridic"
+    },
+    {
+      "id": 347,
+      "numeFunctie": "Director juridic si contencios"
+    },
+    {
+      "id": 1081,
+      "numeFunctie": "Director Management al Calitătii Serviciilor de Sănătate"
+    },
+    {
+      "id": 69,
+      "numeFunctie": "Director medical"
+    },
+    {
+      "id": 660,
+      "numeFunctie": "Director Operational"
+    },
+    {
+      "id": 994,
+      "numeFunctie": "Director Operatiuni Portuare"
+    },
+    {
+      "id": 326,
+      "numeFunctie": "Director proiect"
+    },
+    {
+      "id": 332,
+      "numeFunctie": "Director regional"
+    },
+    {
+      "id": 475,
+      "numeFunctie": "Director resurse umane"
+    },
+    {
+      "id": 892,
+      "numeFunctie": "Director Resurse Umane si Juridic"
+    },
+    {
+      "id": 904,
+      "numeFunctie": "Director Resurse Umane și Strategie"
+    },
+    {
+      "id": 1073,
+      "numeFunctie": "Director RUNOS"
+    },
+    {
+      "id": 398,
+      "numeFunctie": "Director scoala doctoral"
+    },
+    {
+      "id": 587,
+      "numeFunctie": "Director Scoala Doctorala"
+    },
+    {
+      "id": 903,
+      "numeFunctie": "Director Spectacole, Programe și Proiecte"
+    },
+    {
+      "id": 597,
+      "numeFunctie": "Director stiintific"
+    },
+    {
+      "id": 996,
+      "numeFunctie": "Director Strategie - Dezvoltare"
+    },
+    {
+      "id": 953,
+      "numeFunctie": "Director STS"
+    },
+    {
+      "id": 1025,
+      "numeFunctie": "Director STT"
+    },
+    {
+      "id": 311,
+      "numeFunctie": "Director sucursala"
+    },
+    {
+      "id": 995,
+      "numeFunctie": "Director Sucursale"
+    },
+    {
+      "id": 275,
+      "numeFunctie": "Director tehnic"
+    },
+    {
+      "id": 1051,
+      "numeFunctie": "Director tehnic administrativ"
+    },
+    {
+      "id": 1026,
+      "numeFunctie": "Director tehnic STT"
+    },
+    {
+      "id": 564,
+      "numeFunctie": "Director tehnic sucursala"
+    },
+    {
+      "id": 880,
+      "numeFunctie": "Director Tehnică și Investiții"
+    },
+    {
+      "id": 942,
+      "numeFunctie": "Director UMP"
+    },
+    {
+      "id": 674,
+      "numeFunctie": "Director unitate"
+    },
+    {
+      "id": 923,
+      "numeFunctie": "Directorul General al Agenției Națională de Presă - AGERPRES"
+    },
+    {
+      "id": 935,
+      "numeFunctie": "Directorul General si Membrii Consiliului Director al Agenției Naționale de Presă - AGERPRES"
+    },
+    {
+      "id": 875,
+      "numeFunctie": "Directorul Serviciului de Informații Externe"
+    },
+    {
+      "id": 911,
+      "numeFunctie": "Directorul Serviciului de Protecție și Pază"
+    },
+    {
+      "id": 943,
+      "numeFunctie": "Directorul Serviciului Român de Informații"
+    },
+    {
+      "id": 473,
+      "numeFunctie": "Dispecer coordonator"
+    },
+    {
+      "id": 485,
+      "numeFunctie": "Dispecer sef tura"
+    },
+    {
+      "id": 298,
+      "numeFunctie": "Documentarist"
+    },
+    {
+      "id": 1054,
+      "numeFunctie": "ECOLOG"
+    },
+    {
+      "id": 224,
+      "numeFunctie": "Economist"
+    },
+    {
+      "id": 179,
+      "numeFunctie": "Economist CFPP"
+    },
+    {
+      "id": 611,
+      "numeFunctie": "Economist in economie generala"
+    },
+    {
+      "id": 807,
+      "numeFunctie": "Educator"
+    },
+    {
+      "id": 656,
+      "numeFunctie": "Europarlamentar"
+    },
+    {
+      "id": 1010,
+      "numeFunctie": "Evaluator proiecte"
+    },
+    {
+      "id": 51,
+      "numeFunctie": "Expert"
+    },
+    {
+      "id": 323,
+      "numeFunctie": "Expert achiziții publice"
+    },
+    {
+      "id": 324,
+      "numeFunctie": "Expert administrația publică"
+    },
+    {
+      "id": 1059,
+      "numeFunctie": "Expert Arhivar"
+    },
+    {
+      "id": 1086,
+      "numeFunctie": "Expert Comunicare cu Grupul Tinta"
+    },
+    {
+      "id": 376,
+      "numeFunctie": "Expert financiar"
+    },
+    {
+      "id": 881,
+      "numeFunctie": "Expert gradul II-IA"
+    },
+    {
+      "id": 648,
+      "numeFunctie": "Expert in informatica"
+    },
+    {
+      "id": 704,
+      "numeFunctie": "Expert in management"
+    },
+    {
+      "id": 666,
+      "numeFunctie": "Expert inginer constructii"
+    },
+    {
+      "id": 309,
+      "numeFunctie": "Expert jurist"
+    },
+    {
+      "id": 219,
+      "numeFunctie": "Expert parlamentar"
+    },
+    {
+      "id": 267,
+      "numeFunctie": "Expert Principal"
+    },
+    {
+      "id": 60,
+      "numeFunctie": "Expert Proiect"
+    },
+    {
+      "id": 174,
+      "numeFunctie": "Expert superior"
+    },
+    {
+      "id": 176,
+      "numeFunctie": "Expert tehnic"
+    },
+    {
+      "id": 1038,
+      "numeFunctie": "farmacist primar"
+    },
+    {
+      "id": 286,
+      "numeFunctie": "Farmacist sef"
+    },
+    {
+      "id": 130,
+      "numeFunctie": "Formator"
+    },
+    {
+      "id": 149,
+      "numeFunctie": "Funcție completată necorespunzator"
+    },
+    {
+      "id": 131,
+      "numeFunctie": "Funcții de demnitate publică - Președinte"
+    },
+    {
+      "id": 102,
+      "numeFunctie": "Funcții de demnitate publică - Vicepreședinte"
+    },
+    {
+      "id": 913,
+      "numeFunctie": "Funcții de demnitate publică numite - Președinte"
+    },
+    {
+      "id": 711,
+      "numeFunctie": "Funcții de demnitate publică numite - Vicepreședinte"
+    },
+    {
+      "id": 103,
+      "numeFunctie": "Funcții publice cu statut special"
+    },
+    {
+      "id": 132,
+      "numeFunctie": "Funcții publice generale"
+    },
+    {
+      "id": 525,
+      "numeFunctie": "Functionar Consular"
+    },
+    {
+      "id": 21,
+      "numeFunctie": "Functionar public cu statut special"
+    },
+    {
+      "id": 931,
+      "numeFunctie": "Gerant interimar"
+    },
+    {
+      "id": 93,
+      "numeFunctie": "Grefier"
+    },
+    {
+      "id": 670,
+      "numeFunctie": "Grefier - șef cabinet"
+    },
+    {
+      "id": 244,
+      "numeFunctie": "Grefier - șef serviciu"
+    },
+    {
+      "id": 271,
+      "numeFunctie": "Grefier arhivar"
+    },
+    {
+      "id": 175,
+      "numeFunctie": "Grefier documentarist"
+    },
+    {
+      "id": 453,
+      "numeFunctie": "Grefier Registrator"
+    },
+    {
+      "id": 1,
+      "numeFunctie": "Grefier șef"
+    },
+    {
+      "id": 489,
+      "numeFunctie": "Grefier sef sectie judiciara"
+    },
+    {
+      "id": 491,
+      "numeFunctie": "Grefier Șef-Arhivar"
+    },
+    {
+      "id": 248,
+      "numeFunctie": "Grefier șef-secție"
+    },
+    {
+      "id": 388,
+      "numeFunctie": "Grefier șef-secție UP"
+    },
+    {
+      "id": 424,
+      "numeFunctie": "Grefier statistician"
+    },
+    {
+      "id": 1034,
+      "numeFunctie": "Guvernator"
+    },
+    {
+      "id": 930,
+      "numeFunctie": "Guvernatorul BNR"
+    },
+    {
+      "id": 565,
+      "numeFunctie": "Imputernicit adjunct comandant sectie"
+    },
+    {
+      "id": 1067,
+      "numeFunctie": "Imputernicit adjunct Inspector General"
+    },
+    {
+      "id": 526,
+      "numeFunctie": "Imputernicit Adjunct Inspector Sef"
+    },
+    {
+      "id": 653,
+      "numeFunctie": "Imputernicit adjunct sef centru operational"
+    },
+    {
+      "id": 617,
+      "numeFunctie": "Imputernicit Adjunct Sef Politie Municipiu"
+    },
+    {
+      "id": 1105,
+      "numeFunctie": "împuternicit adjunct șef sector"
+    },
+    {
+      "id": 1055,
+      "numeFunctie": "Imputernicit comandant companie"
+    },
+    {
+      "id": 294,
+      "numeFunctie": "Imputernicit comandant detasament"
+    },
+    {
+      "id": 1003,
+      "numeFunctie": "Imputernicit comandant grup de interventie"
+    },
+    {
+      "id": 373,
+      "numeFunctie": "Imputernicit comandant sectie"
+    },
+    {
+      "id": 993,
+      "numeFunctie": "Împuternicit contabil sef"
+    },
+    {
+      "id": 74,
+      "numeFunctie": "Imputernicit director"
+    },
+    {
+      "id": 971,
+      "numeFunctie": "ÎMPUTERNICIT DIRECTOR ADJUNCT"
+    },
+    {
+      "id": 1078,
+      "numeFunctie": "Imputernicit director general adjunct"
+    },
+    {
+      "id": 797,
+      "numeFunctie": "Imputernicit director II"
+    },
+    {
+      "id": 300,
+      "numeFunctie": "Imputernicit inspector general"
+    },
+    {
+      "id": 843,
+      "numeFunctie": "Imputernicit Inspector Sef"
+    },
+    {
+      "id": 496,
+      "numeFunctie": "Imputernicit loctiitor comandant detasament"
+    },
+    {
+      "id": 606,
+      "numeFunctie": "Imputernicit loctiitor comandant grup de interventie"
+    },
+    {
+      "id": 616,
+      "numeFunctie": "Imputernicit loctiitor comandant grup special de salvatori"
+    },
+    {
+      "id": 893,
+      "numeFunctie": "Imputernicit Medic șef cabinet"
+    },
+    {
+      "id": 986,
+      "numeFunctie": "Împuternicit prim-adjunct al inspectorului sef"
+    },
+    {
+      "id": 30,
+      "numeFunctie": "Imputernicit sef birou"
+    },
+    {
+      "id": 28,
+      "numeFunctie": "Imputernicit sef birou I"
+    },
+    {
+      "id": 1001,
+      "numeFunctie": "Împuternicit Șef Centru Medical I"
+    },
+    {
+      "id": 337,
+      "numeFunctie": "Imputernicit sef centru operational"
+    },
+    {
+      "id": 157,
+      "numeFunctie": "Imputernicit sef directie I"
+    },
+    {
+      "id": 490,
+      "numeFunctie": "Imputernicit sef formatiune (scafandru autonom)"
+    },
+    {
+      "id": 991,
+      "numeFunctie": "Imputernicit sef garda interventie/stingere"
+    },
+    {
+      "id": 1084,
+      "numeFunctie": "Împuternicit șef grupă"
+    },
+    {
+      "id": 1083,
+      "numeFunctie": "Împuternicit Șef Poliție Municipală"
+    },
+    {
+      "id": 1071,
+      "numeFunctie": "Împuternicit Șef Poliție Oraș"
+    },
+    {
+      "id": 679,
+      "numeFunctie": "Imputernicit Sef Politie Statiune"
+    },
+    {
+      "id": 584,
+      "numeFunctie": "Imputernicit Sef Post"
+    },
+    {
+      "id": 451,
+      "numeFunctie": "Imputernicit sef punct trecere de frontiera"
+    },
+    {
+      "id": 520,
+      "numeFunctie": "Imputernicit sef sectie"
+    },
+    {
+      "id": 1079,
+      "numeFunctie": "Împuternicit Șef Secție Rurală"
+    },
+    {
+      "id": 415,
+      "numeFunctie": "Imputernicit sef sector"
+    },
+    {
+      "id": 53,
+      "numeFunctie": "Imputernicit sef serviciu"
+    },
+    {
+      "id": 36,
+      "numeFunctie": "Imputernicit sef serviciu I"
+    },
+    {
+      "id": 342,
+      "numeFunctie": "Imputernicit Sef Serviciu II"
+    },
+    {
+      "id": 462,
+      "numeFunctie": "Informatician"
+    },
+    {
+      "id": 222,
+      "numeFunctie": "Inginer"
+    },
+    {
+      "id": 720,
+      "numeFunctie": "Inginer chimist"
+    },
+    {
+      "id": 798,
+      "numeFunctie": "Inginer Constructii Hidrotehnice"
+    },
+    {
+      "id": 540,
+      "numeFunctie": "Inginer de sistem în informatică"
+    },
+    {
+      "id": 1076,
+      "numeFunctie": "INGINER ECOLOG"
+    },
+    {
+      "id": 1002,
+      "numeFunctie": "Inginer Electroenergetica"
+    },
+    {
+      "id": 362,
+      "numeFunctie": "Inginer industrie alimentară"
+    },
+    {
+      "id": 818,
+      "numeFunctie": "Inginer Instalatii Pentru Constructii"
+    },
+    {
+      "id": 846,
+      "numeFunctie": "Inginer Mecanic"
+    },
+    {
+      "id": 1074,
+      "numeFunctie": "Inginer principal specialist"
+    },
+    {
+      "id": 1077,
+      "numeFunctie": "INGINER PROIECTANT"
+    },
+    {
+      "id": 464,
+      "numeFunctie": "Inginer retele electoenergetice"
+    },
+    {
+      "id": 26,
+      "numeFunctie": "Inginer Sef"
+    },
+    {
+      "id": 682,
+      "numeFunctie": "Inginer silvic"
+    },
+    {
+      "id": 989,
+      "numeFunctie": "Ingrijitor"
+    },
+    {
+      "id": 1053,
+      "numeFunctie": "Insarcinat cu afaceri a.i."
+    },
+    {
+      "id": 8,
+      "numeFunctie": "Inspector"
+    },
+    {
+      "id": 1108,
+      "numeFunctie": "inspector antifraudă"
+    },
+    {
+      "id": 698,
+      "numeFunctie": "Inspector asigurari"
+    },
+    {
+      "id": 166,
+      "numeFunctie": "Inspector asistent"
+    },
+    {
+      "id": 218,
+      "numeFunctie": "Inspector casier"
+    },
+    {
+      "id": 403,
+      "numeFunctie": "Inspector de Concurenta"
+    },
+    {
+      "id": 80,
+      "numeFunctie": "Inspector de integritate"
+    },
+    {
+      "id": 151,
+      "numeFunctie": "Inspector de munca"
+    },
+    {
+      "id": 129,
+      "numeFunctie": "Inspector de specialitate"
+    },
+    {
+      "id": 964,
+      "numeFunctie": "Inspector de Specialitate debutant"
+    },
+    {
+      "id": 630,
+      "numeFunctie": "Inspector de Specialitate Gr.1A"
+    },
+    {
+      "id": 545,
+      "numeFunctie": "Inspector de Specialitate Gr.I"
+    },
+    {
+      "id": 552,
+      "numeFunctie": "Inspector de Specialitate Gr.II"
+    },
+    {
+      "id": 600,
+      "numeFunctie": "Inspector de Specialitate Gr.III"
+    },
+    {
+      "id": 901,
+      "numeFunctie": "Inspector de Stat Șef"
+    },
+    {
+      "id": 321,
+      "numeFunctie": "Inspector de Stat Șef Adjunct"
+    },
+    {
+      "id": 577,
+      "numeFunctie": "Inspector de trafic rutier"
+    },
+    {
+      "id": 42,
+      "numeFunctie": "Inspector debutant"
+    },
+    {
+      "id": 89,
+      "numeFunctie": "Inspector general"
+    },
+    {
+      "id": 394,
+      "numeFunctie": "Inspector General Adjunct ISC"
+    },
+    {
+      "id": 925,
+      "numeFunctie": "Inspector general al Politiei Romane"
+    },
+    {
+      "id": 898,
+      "numeFunctie": "Inspector general de stat"
+    },
+    {
+      "id": 890,
+      "numeFunctie": "Inspector general de stat adjunct"
+    },
+    {
+      "id": 408,
+      "numeFunctie": "Inspector guvernamental"
+    },
+    {
+      "id": 152,
+      "numeFunctie": "Inspector in constructii"
+    },
+    {
+      "id": 965,
+      "numeFunctie": "INSPECTOR MANAGER TRANSPORT MARFĂ ȘI PERSOANE"
+    },
+    {
+      "id": 109,
+      "numeFunctie": "Inspector principal"
+    },
+    {
+      "id": 277,
+      "numeFunctie": "Inspector scolar"
+    },
+    {
+      "id": 344,
+      "numeFunctie": "Inspector scolar general"
+    },
+    {
+      "id": 338,
+      "numeFunctie": "Inspector scolar general adjunct"
+    },
+    {
+      "id": 322,
+      "numeFunctie": "Inspector sef"
+    },
+    {
+      "id": 627,
+      "numeFunctie": "Inspector şef I"
+    },
+    {
+      "id": 330,
+      "numeFunctie": "Inspector sef judetean"
+    },
+    {
+      "id": 603,
+      "numeFunctie": "Inspector sef regional"
+    },
+    {
+      "id": 537,
+      "numeFunctie": "Inspector social asistent"
+    },
+    {
+      "id": 951,
+      "numeFunctie": "Inspector social debutant"
+    },
+    {
+      "id": 515,
+      "numeFunctie": "Inspector social principal"
+    },
+    {
+      "id": 250,
+      "numeFunctie": "Inspector social superior"
+    },
+    {
+      "id": 686,
+      "numeFunctie": "Inspector specialitate gr. IA"
+    },
+    {
+      "id": 734,
+      "numeFunctie": "Inspector specialitate gr. II"
+    },
+    {
+      "id": 78,
+      "numeFunctie": "Inspector superior"
+    },
+    {
+      "id": 192,
+      "numeFunctie": "Inspector Vamal"
+    },
+    {
+      "id": 369,
+      "numeFunctie": "Instructor superior"
+    },
+    {
+      "id": 529,
+      "numeFunctie": "Intendent"
+    },
+    {
+      "id": 533,
+      "numeFunctie": "Investigator"
+    },
+    {
+      "id": 55,
+      "numeFunctie": "Judecător"
+    },
+    {
+      "id": 409,
+      "numeFunctie": "Judecator stagiar"
+    },
+    {
+      "id": 689,
+      "numeFunctie": "Kinetoterapeut"
+    },
+    {
+      "id": 84,
+      "numeFunctie": "La dispozitie"
+    },
+    {
+      "id": 1047,
+      "numeFunctie": "Laborant"
+    },
+    {
+      "id": 397,
+      "numeFunctie": "Lector Universitar"
+    },
+    {
+      "id": 812,
+      "numeFunctie": "Lider de echipă de cercetare-dezvoltare"
+    },
+    {
+      "id": 823,
+      "numeFunctie": "Lider organizatie sindicala"
+    },
+    {
+      "id": 765,
+      "numeFunctie": "Loctiitor al Comandantului de baterie"
+    },
+    {
+      "id": 507,
+      "numeFunctie": "Locțiitor al Șefului de Stat Major pentru Sprijin"
+    },
+    {
+      "id": 213,
+      "numeFunctie": "Locțiitor comandant"
+    },
+    {
+      "id": 155,
+      "numeFunctie": "Loctiitor comandant companie"
+    },
+    {
+      "id": 336,
+      "numeFunctie": "Loctiitor Comandant detasament"
+    },
+    {
+      "id": 301,
+      "numeFunctie": "Loctiitor Comandant detasament I"
+    },
+    {
+      "id": 544,
+      "numeFunctie": "Loctiitor comandant grup de interventie"
+    },
+    {
+      "id": 990,
+      "numeFunctie": "Loctiitor Comandant grup special de salvatori"
+    },
+    {
+      "id": 227,
+      "numeFunctie": "Locțiitor comandant pentru instructie"
+    },
+    {
+      "id": 696,
+      "numeFunctie": "LOCTIITOR SEF DIRECTIE"
+    },
+    {
+      "id": 446,
+      "numeFunctie": "Loctiitor sef directie generala"
+    },
+    {
+      "id": 399,
+      "numeFunctie": "Loctiitor tehnic"
+    },
+    {
+      "id": 509,
+      "numeFunctie": "Logoped"
+    },
+    {
+      "id": 687,
+      "numeFunctie": "Lucrator comunitar"
+    },
+    {
+      "id": 556,
+      "numeFunctie": "Magistrat-asistent șef"
+    },
+    {
+      "id": 573,
+      "numeFunctie": "Magistrat-asistent șef delegat"
+    },
+    {
+      "id": 436,
+      "numeFunctie": "Magistrați - asistenți"
+    },
+    {
+      "id": 116,
+      "numeFunctie": "Maistru principal I"
+    },
+    {
+      "id": 61,
+      "numeFunctie": "Manager"
+    },
+    {
+      "id": 420,
+      "numeFunctie": "Manager Calitate"
+    },
+    {
+      "id": 722,
+      "numeFunctie": "Manager de zona"
+    },
+    {
+      "id": 121,
+      "numeFunctie": "Manager departament"
+    },
+    {
+      "id": 497,
+      "numeFunctie": "Manager departament adjunct"
+    },
+    {
+      "id": 673,
+      "numeFunctie": "Manager departament zonal"
+    },
+    {
+      "id": 476,
+      "numeFunctie": "Manager economic"
+    },
+    {
+      "id": 631,
+      "numeFunctie": "Manager energetic"
+    },
+    {
+      "id": 879,
+      "numeFunctie": "Manager financiar"
+    },
+    {
+      "id": 1088,
+      "numeFunctie": "Manager Interimar"
+    },
+    {
+      "id": 740,
+      "numeFunctie": "Manager IT"
+    },
+    {
+      "id": 775,
+      "numeFunctie": "Manager logistica"
+    },
+    {
+      "id": 1035,
+      "numeFunctie": "Manager logistica STT"
+    },
+    {
+      "id": 514,
+      "numeFunctie": "Manager operatiuni"
+    },
+    {
+      "id": 141,
+      "numeFunctie": "Manager proiect"
+    },
+    {
+      "id": 717,
+      "numeFunctie": "Manager proiect informatic"
+    },
+    {
+      "id": 20,
+      "numeFunctie": "Manager public"
+    },
+    {
+      "id": 1017,
+      "numeFunctie": "Manager regional"
+    },
+    {
+      "id": 304,
+      "numeFunctie": "Manager resurse umane"
+    },
+    {
+      "id": 730,
+      "numeFunctie": "Manager siguranta"
+    },
+    {
+      "id": 1018,
+      "numeFunctie": "Manager sucursala"
+    },
+    {
+      "id": 907,
+      "numeFunctie": "Manager tehnologia informațiilor și comunicații"
+    },
+    {
+      "id": 471,
+      "numeFunctie": "Manager unitate"
+    },
+    {
+      "id": 883,
+      "numeFunctie": "Maseur"
+    },
+    {
+      "id": 713,
+      "numeFunctie": "Mediator social"
+    },
+    {
+      "id": 287,
+      "numeFunctie": "Medic coordonator"
+    },
+    {
+      "id": 655,
+      "numeFunctie": "Medic I"
+    },
+    {
+      "id": 746,
+      "numeFunctie": "Medic II"
+    },
+    {
+      "id": 794,
+      "numeFunctie": "Medic III"
+    },
+    {
+      "id": 780,
+      "numeFunctie": "Medic IV"
+    },
+    {
+      "id": 885,
+      "numeFunctie": "Medic militar veterinar I"
+    },
+    {
+      "id": 558,
+      "numeFunctie": "Medic Primar"
+    },
+    {
+      "id": 620,
+      "numeFunctie": "Medic primar I"
+    },
+    {
+      "id": 889,
+      "numeFunctie": "Medic Primar III"
+    },
+    {
+      "id": 801,
+      "numeFunctie": "Medic primar veterinar"
+    },
+    {
+      "id": 677,
+      "numeFunctie": "Medic rezident an I"
+    },
+    {
+      "id": 792,
+      "numeFunctie": "Medic rezident an II"
+    },
+    {
+      "id": 841,
+      "numeFunctie": "Medic rezident an III"
+    },
+    {
+      "id": 1015,
+      "numeFunctie": "Medic rezident an IV"
+    },
+    {
+      "id": 1012,
+      "numeFunctie": "Medic rezident an V"
+    },
+    {
+      "id": 168,
+      "numeFunctie": "Medic șef alte funcții similare"
+    },
+    {
+      "id": 513,
+      "numeFunctie": "Medic șef ambulatoriu de specialitate și altele similare"
+    },
+    {
+      "id": 118,
+      "numeFunctie": "Medic șef cabinet"
+    },
+    {
+      "id": 586,
+      "numeFunctie": "Medic șef centru"
+    },
+    {
+      "id": 315,
+      "numeFunctie": "Medic șef laborator"
+    },
+    {
+      "id": 35,
+      "numeFunctie": "Medic șef secție"
+    },
+    {
+      "id": 358,
+      "numeFunctie": "Medic șef UPU-SMURD"
+    },
+    {
+      "id": 708,
+      "numeFunctie": "Medic specialist"
+    },
+    {
+      "id": 1011,
+      "numeFunctie": "Medic specialist I"
+    },
+    {
+      "id": 494,
+      "numeFunctie": "Medic Stomatolog"
+    },
+    {
+      "id": 280,
+      "numeFunctie": "Medic veterinar"
+    },
+    {
+      "id": 669,
+      "numeFunctie": "Medic veterinar I"
+    },
+    {
+      "id": 554,
+      "numeFunctie": "Membri"
+    },
+    {
+      "id": 731,
+      "numeFunctie": "Membri CSM"
+    },
+    {
+      "id": 834,
+      "numeFunctie": "Membrii Comitetelor Directoare ale Societății Române de Radiodifuziune"
+    },
+    {
+      "id": 385,
+      "numeFunctie": "Membrii Comitetelor Directoare ale Societății Române de Televiziune"
+    },
+    {
+      "id": 836,
+      "numeFunctie": "Membrii Consiliului de Administrație  a Societății Române de Radiodifuziune"
+    },
+    {
+      "id": 936,
+      "numeFunctie": "Membrii Consiliului de Administrație Societății Române de Televiziune"
+    },
+    {
+      "id": 1044,
+      "numeFunctie": "Membrii Consiliului Național al Audiovizualului"
+    },
+    {
+      "id": 638,
+      "numeFunctie": "Membrii Consiliului Național de Integritate"
+    },
+    {
+      "id": 1005,
+      "numeFunctie": "Membrii Consiliului Național pentru Combaterea Discriminării"
+    },
+    {
+      "id": 207,
+      "numeFunctie": "Membru"
+    },
+    {
+      "id": 622,
+      "numeFunctie": "Membru Adunarea Generala a Actionarilor"
+    },
+    {
+      "id": 1109,
+      "numeFunctie": "membru Adunarea Generala a Asociatilor"
+    },
+    {
+      "id": 753,
+      "numeFunctie": "Membru CNI"
+    },
+    {
+      "id": 985,
+      "numeFunctie": "Membru Consiliu de Adiministratie"
+    },
+    {
+      "id": 366,
+      "numeFunctie": "Membru Consiliu de Adiministratie - statut invitat"
+    },
+    {
+      "id": 1095,
+      "numeFunctie": "membru consiliu de administrație"
+    },
+    {
+      "id": 375,
+      "numeFunctie": "Membru Consiliu de Administratie membru supleant"
+    },
+    {
+      "id": 391,
+      "numeFunctie": "Membru Directorat"
+    },
+    {
+      "id": 1032,
+      "numeFunctie": "Membru in comitetul de directie"
+    },
+    {
+      "id": 785,
+      "numeFunctie": "Membru în comitetul director"
+    },
+    {
+      "id": 6,
+      "numeFunctie": "Membru în consiliul de administrație"
+    },
+    {
+      "id": 289,
+      "numeFunctie": "Membru în consiliul de conducere"
+    },
+    {
+      "id": 389,
+      "numeFunctie": "Membru în consiliul de supraveghere"
+    },
+    {
+      "id": 700,
+      "numeFunctie": "Membru în consiliul director"
+    },
+    {
+      "id": 470,
+      "numeFunctie": "Membru neexecutiv Consiliu"
+    },
+    {
+      "id": 182,
+      "numeFunctie": "Membru Proiect"
+    },
+    {
+      "id": 1070,
+      "numeFunctie": "Membru provizoriu al Consiliului de Administratie"
+    },
+    {
+      "id": 528,
+      "numeFunctie": "Membru provizoriu in CA"
+    },
+    {
+      "id": 776,
+      "numeFunctie": "Membru Titular"
+    },
+    {
+      "id": 784,
+      "numeFunctie": "Ministru"
+    },
+    {
+      "id": 83,
+      "numeFunctie": "Ministru consilier"
+    },
+    {
+      "id": 728,
+      "numeFunctie": "Ministru interimar"
+    },
+    {
+      "id": 595,
+      "numeFunctie": "Ministru plenipotențiar"
+    },
+    {
+      "id": 79,
+      "numeFunctie": "Muncitor"
+    },
+    {
+      "id": 694,
+      "numeFunctie": "MUNCITOR SALUBRIZARE"
+    },
+    {
+      "id": 405,
+      "numeFunctie": "Muzeograf"
+    },
+    {
+      "id": 66,
+      "numeFunctie": "Ofiter 4"
+    },
+    {
+      "id": 1036,
+      "numeFunctie": "OFITER COMUNICARE"
+    },
+    {
+      "id": 727,
+      "numeFunctie": "Ofiter Contabil"
+    },
+    {
+      "id": 99,
+      "numeFunctie": "Ofiter de politie"
+    },
+    {
+      "id": 56,
+      "numeFunctie": "Ofiter debutant"
+    },
+    {
+      "id": 726,
+      "numeFunctie": "Ofiter Financiar"
+    },
+    {
+      "id": 49,
+      "numeFunctie": "Ofiter I"
+    },
+    {
+      "id": 1040,
+      "numeFunctie": "ofițer I (psiholog)"
+    },
+    {
+      "id": 16,
+      "numeFunctie": "Ofiter II"
+    },
+    {
+      "id": 39,
+      "numeFunctie": "Ofiter III"
+    },
+    {
+      "id": 724,
+      "numeFunctie": "Ofiter Iregularitati"
+    },
+    {
+      "id": 82,
+      "numeFunctie": "Ofiter IV"
+    },
+    {
+      "id": 738,
+      "numeFunctie": "Ofițer Port tr II"
+    },
+    {
+      "id": 806,
+      "numeFunctie": "Ofițer Port tr. I"
+    },
+    {
+      "id": 977,
+      "numeFunctie": "Ofițer principal"
+    },
+    {
+      "id": 9,
+      "numeFunctie": "Ofiter principal I"
+    },
+    {
+      "id": 34,
+      "numeFunctie": "Ofiter principal II"
+    },
+    {
+      "id": 90,
+      "numeFunctie": "Ofiter principal III"
+    },
+    {
+      "id": 950,
+      "numeFunctie": "Ofiter responsabil pentru informare si publicitate"
+    },
+    {
+      "id": 968,
+      "numeFunctie": "Ofițer specialist"
+    },
+    {
+      "id": 137,
+      "numeFunctie": "Ofiţer specialist  I"
+    },
+    {
+      "id": 68,
+      "numeFunctie": "Ofiţer specialist  II"
+    },
+    {
+      "id": 455,
+      "numeFunctie": "Ofiţer specialist  II (psiholog)"
+    },
+    {
+      "id": 72,
+      "numeFunctie": "Ofiter specialist 1"
+    },
+    {
+      "id": 33,
+      "numeFunctie": "Ofiter specialist 2"
+    },
+    {
+      "id": 2,
+      "numeFunctie": "Ofiter specialist I"
+    },
+    {
+      "id": 755,
+      "numeFunctie": "Ofițer specialist I (consilier juridic)"
+    },
+    {
+      "id": 865,
+      "numeFunctie": "Ofițer specialist I (psiholog)"
+    },
+    {
+      "id": 992,
+      "numeFunctie": "Ofițer specialist II"
+    },
+    {
+      "id": 46,
+      "numeFunctie": "Ofiter specialist III"
+    },
+    {
+      "id": 142,
+      "numeFunctie": "Ofiter specialist principal"
+    },
+    {
+      "id": 25,
+      "numeFunctie": "Ofiter specialist principal I"
+    },
+    {
+      "id": 40,
+      "numeFunctie": "Ofiter specialist principal II"
+    },
+    {
+      "id": 683,
+      "numeFunctie": "PAZNIC"
+    },
+    {
+      "id": 183,
+      "numeFunctie": "Personal asimilat magistratilor"
+    },
+    {
+      "id": 411,
+      "numeFunctie": "Personal cu funcții de conducere și - sau control din cadrul companiilor și societăților naționale - Membrii consiliilor de administrație"
+    },
+    {
+      "id": 988,
+      "numeFunctie": "Personal cu funcții de conducere și - sau control din cadrul companiilor și societăților naționale - Membrii consiliilor de conducere"
+    },
+    {
+      "id": 945,
+      "numeFunctie": "Personal cu funcții de conducere și - sau control din cadrul companiilor și societăților naționale - Membrii consiliilor de supraveghere"
+    },
+    {
+      "id": 884,
+      "numeFunctie": "Personal cu funcții de conducere și - sau control din cadrul regiilor autonome de interes național - Membrii consiliilor de administrație"
+    },
+    {
+      "id": 233,
+      "numeFunctie": "Personal cu funcții de conducere și - sau control din cadrul tuturor autorităților publice - instituțiilor publice"
+    },
+    {
+      "id": 214,
+      "numeFunctie": "Personal cu funcții de conducere și - sau control din cadrul tuturor autorităților sau instituțiilor publice"
+    },
+    {
+      "id": 530,
+      "numeFunctie": "Personal institutie/autoritate publica care administreaza/implementeaza programe/proiecte din fonduri externe/bugetare"
+    },
+    {
+      "id": 340,
+      "numeFunctie": "Personalul auxiliar de specialitate din cadrul Instanțelor Judecătorești"
+    },
+    {
+      "id": 474,
+      "numeFunctie": "Personalul auxiliar de specialitate din cadrul Parchetelor"
+    },
+    {
+      "id": 238,
+      "numeFunctie": "Personalul care administrează sau implementează programe ori proiecte finanțate din fonduri externe sau din fonduri bugetare"
+    },
+    {
+      "id": 516,
+      "numeFunctie": "Personalul încadrat la cabinetul demnitarului"
+    },
+    {
+      "id": 158,
+      "numeFunctie": "Personalul încadrat la cancelaria prefectului"
+    },
+    {
+      "id": 14,
+      "numeFunctie": "Polițist"
+    },
+    {
+      "id": 4,
+      "numeFunctie": "Politist local"
+    },
+    {
+      "id": 243,
+      "numeFunctie": "Prefect"
+    },
+    {
+      "id": 609,
+      "numeFunctie": "Preot Penitenciar"
+    },
+    {
+      "id": 150,
+      "numeFunctie": "Președinte"
+    },
+    {
+      "id": 809,
+      "numeFunctie": "Presedinte - consilier de solutionare a contestatiilor in domeniul achizitiilor publice"
+    },
+    {
+      "id": 963,
+      "numeFunctie": "Președinte al comisiei permanente"
+    },
+    {
+      "id": 510,
+      "numeFunctie": "PRESEDINTE AL COMITETULUI NATO PENTRU BUGETE"
+    },
+    {
+      "id": 844,
+      "numeFunctie": "Președinte Autoritatea de Audit"
+    },
+    {
+      "id": 987,
+      "numeFunctie": "Președinte comitet director"
+    },
+    {
+      "id": 144,
+      "numeFunctie": "Președinte consiliu de administratie"
+    },
+    {
+      "id": 364,
+      "numeFunctie": "Presedinte consiliu de conducere"
+    },
+    {
+      "id": 768,
+      "numeFunctie": "Presedinte consiliu de supraveghere"
+    },
+    {
+      "id": 445,
+      "numeFunctie": "Președinte Consiliu județean"
+    },
+    {
+      "id": 292,
+      "numeFunctie": "Președinte de secție"
+    },
+    {
+      "id": 269,
+      "numeFunctie": "Președinte de Senat"
+    },
+    {
+      "id": 610,
+      "numeFunctie": "Presedinte Directorat"
+    },
+    {
+      "id": 926,
+      "numeFunctie": "Presedinte executiv"
+    },
+    {
+      "id": 291,
+      "numeFunctie": "Presedinte sectie"
+    },
+    {
+      "id": 786,
+      "numeFunctie": "Președintele Camerei Deputaților"
+    },
+    {
+      "id": 897,
+      "numeFunctie": "Președintele României"
+    },
+    {
+      "id": 703,
+      "numeFunctie": "Președintele Senatului"
+    },
+    {
+      "id": 117,
+      "numeFunctie": "Prim - grefier"
+    },
+    {
+      "id": 356,
+      "numeFunctie": "Prim - procuror"
+    },
+    {
+      "id": 916,
+      "numeFunctie": "Prim - viceguvernator"
+    },
+    {
+      "id": 1049,
+      "numeFunctie": "Prim adjunct al Procurorului General"
+    },
+    {
+      "id": 418,
+      "numeFunctie": "Prim adjunct inspector sef"
+    },
+    {
+      "id": 1043,
+      "numeFunctie": "Prim procuror militar adjunct"
+    },
+    {
+      "id": 454,
+      "numeFunctie": "Prim Vicepresedinte"
+    },
+    {
+      "id": 917,
+      "numeFunctie": "Prim-adjunct al inspectorului general"
+    },
+    {
+      "id": 934,
+      "numeFunctie": "Prim-adjunct al procurorului general"
+    },
+    {
+      "id": 922,
+      "numeFunctie": "Prim-adjunctul Directorului Serviciului Român de Informații"
+    },
+    {
+      "id": 557,
+      "numeFunctie": "Prim-magistrat-asistent"
+    },
+    {
+      "id": 871,
+      "numeFunctie": "Prim-ministru"
+    },
+    {
+      "id": 1062,
+      "numeFunctie": "Prim-Ministru interimar"
+    },
+    {
+      "id": 426,
+      "numeFunctie": "Prim-Procuror"
+    },
+    {
+      "id": 339,
+      "numeFunctie": "Prim-Procuror Adjunct"
+    },
+    {
+      "id": 749,
+      "numeFunctie": "Prim-procuror militar"
+    },
+    {
+      "id": 1089,
+      "numeFunctie": "prim-vicepreședinte"
+    },
+    {
+      "id": 92,
+      "numeFunctie": "Primar"
+    },
+    {
+      "id": 876,
+      "numeFunctie": "Primar General"
+    },
+    {
+      "id": 1037,
+      "numeFunctie": "primar interimar"
+    },
+    {
+      "id": 177,
+      "numeFunctie": "Procuror"
+    },
+    {
+      "id": 933,
+      "numeFunctie": "Procuror european delegat in Romania pentru Parchetul European"
+    },
+    {
+      "id": 581,
+      "numeFunctie": "Procuror General"
+    },
+    {
+      "id": 367,
+      "numeFunctie": "Procuror General Adjunct"
+    },
+    {
+      "id": 1008,
+      "numeFunctie": "Procuror general militar adjunct"
+    },
+    {
+      "id": 457,
+      "numeFunctie": "Procuror militar"
+    },
+    {
+      "id": 927,
+      "numeFunctie": "Procuror militar şef secţie"
+    },
+    {
+      "id": 895,
+      "numeFunctie": "Procuror militar șef secție judiciară"
+    },
+    {
+      "id": 762,
+      "numeFunctie": "Procuror militar șef secție Judiciară delegat"
+    },
+    {
+      "id": 905,
+      "numeFunctie": "Procuror militar șef secție UP"
+    },
+    {
+      "id": 512,
+      "numeFunctie": "Procuror militar şef serviciu"
+    },
+    {
+      "id": 488,
+      "numeFunctie": "Procuror militar-şef birou"
+    },
+    {
+      "id": 937,
+      "numeFunctie": "Procuror militar-şef secţie"
+    },
+    {
+      "id": 602,
+      "numeFunctie": "Procuror șef"
+    },
+    {
+      "id": 440,
+      "numeFunctie": "Procuror șef birou"
+    },
+    {
+      "id": 284,
+      "numeFunctie": "Procuror șef secție"
+    },
+    {
+      "id": 44,
+      "numeFunctie": "Procuror sef sectie judiciara"
+    },
+    {
+      "id": 781,
+      "numeFunctie": "Procuror şef Secţie U.P."
+    },
+    {
+      "id": 733,
+      "numeFunctie": "Procuror sef sectie UP"
+    },
+    {
+      "id": 317,
+      "numeFunctie": "Procuror șef serviciu"
+    },
+    {
+      "id": 546,
+      "numeFunctie": "Procuror stagiar"
+    },
+    {
+      "id": 859,
+      "numeFunctie": "Procuror-șef adjunct secție"
+    },
+    {
+      "id": 527,
+      "numeFunctie": "Procuror-șef birou"
+    },
+    {
+      "id": 523,
+      "numeFunctie": "Procuror-şef secţie"
+    },
+    {
+      "id": 260,
+      "numeFunctie": "Procurori"
+    },
+    {
+      "id": 237,
+      "numeFunctie": "Prodecan"
+    },
+    {
+      "id": 431,
+      "numeFunctie": "Profesor"
+    },
+    {
+      "id": 349,
+      "numeFunctie": "Profesor Universitar"
+    },
+    {
+      "id": 598,
+      "numeFunctie": "Programator Gr.1A"
+    },
+    {
+      "id": 351,
+      "numeFunctie": "Prorector"
+    },
+    {
+      "id": 200,
+      "numeFunctie": "Psiholog"
+    },
+    {
+      "id": 495,
+      "numeFunctie": "Rector"
+    },
+    {
+      "id": 1041,
+      "numeFunctie": "redactor sef"
+    },
+    {
+      "id": 1046,
+      "numeFunctie": "redactor sef adjunct"
+    },
+    {
+      "id": 429,
+      "numeFunctie": "Redactor sef editură"
+    },
+    {
+      "id": 392,
+      "numeFunctie": "Referend"
+    },
+    {
+      "id": 106,
+      "numeFunctie": "Referent"
+    },
+    {
+      "id": 162,
+      "numeFunctie": "Referent Asistent"
+    },
+    {
+      "id": 199,
+      "numeFunctie": "Referent casier"
+    },
+    {
+      "id": 146,
+      "numeFunctie": "Referent de specialitate"
+    },
+    {
+      "id": 662,
+      "numeFunctie": "Referent de specialitate asistent"
+    },
+    {
+      "id": 608,
+      "numeFunctie": "Referent de Specialitate debutant"
+    },
+    {
+      "id": 725,
+      "numeFunctie": "Referent de Specialitate Gr.1A"
+    },
+    {
+      "id": 695,
+      "numeFunctie": "Referent de Specialitate Gr.I"
+    },
+    {
+      "id": 688,
+      "numeFunctie": "Referent de Specialitate Gr.II"
+    },
+    {
+      "id": 685,
+      "numeFunctie": "Referent de Specialitate Gr.III"
+    },
+    {
+      "id": 459,
+      "numeFunctie": "Referent de specialitate principal"
+    },
+    {
+      "id": 772,
+      "numeFunctie": "Referent Economist in Economie Generala-Responsabil CFP"
+    },
+    {
+      "id": 887,
+      "numeFunctie": "Referent economist in gestiune economica-Responsabil CFG"
+    },
+    {
+      "id": 1022,
+      "numeFunctie": "referent parlamentar"
+    },
+    {
+      "id": 163,
+      "numeFunctie": "Referent Principal"
+    },
+    {
+      "id": 782,
+      "numeFunctie": "Referent principal relatii clasa I"
+    },
+    {
+      "id": 91,
+      "numeFunctie": "Referent Superior"
+    },
+    {
+      "id": 1103,
+      "numeFunctie": "registrator coordonator"
+    },
+    {
+      "id": 999,
+      "numeFunctie": "Registrator de registrul comertului"
+    },
+    {
+      "id": 1096,
+      "numeFunctie": "Registrator Medical"
+    },
+    {
+      "id": 1104,
+      "numeFunctie": "registrator sef"
+    },
+    {
+      "id": 788,
+      "numeFunctie": "Reglementator"
+    },
+    {
+      "id": 363,
+      "numeFunctie": "Reprezentant cu statut de invitat"
+    },
+    {
+      "id": 946,
+      "numeFunctie": "Reprezentant in Adunarea Generala a Actionarilor"
+    },
+    {
+      "id": 866,
+      "numeFunctie": "REPREZENTANT MILITAR"
+    },
+    {
+      "id": 914,
+      "numeFunctie": "REPREZENTANT MILITAR SEF"
+    },
+    {
+      "id": 368,
+      "numeFunctie": "Reprezentant zonal"
+    },
+    {
+      "id": 379,
+      "numeFunctie": "Responsabil achizitii publice"
+    },
+    {
+      "id": 736,
+      "numeFunctie": "Responsabil audit intern"
+    },
+    {
+      "id": 886,
+      "numeFunctie": "Responsabil Avize Sarcina Arheologica"
+    },
+    {
+      "id": 553,
+      "numeFunctie": "Responsabil control"
+    },
+    {
+      "id": 981,
+      "numeFunctie": "Responsabil control - consilier juridic"
+    },
+    {
+      "id": 532,
+      "numeFunctie": "Responsabil control financiar de gestiune"
+    },
+    {
+      "id": 555,
+      "numeFunctie": "Responsabil control financiar preventiv"
+    },
+    {
+      "id": 1006,
+      "numeFunctie": "Responsabil convergență instituțională"
+    },
+    {
+      "id": 1021,
+      "numeFunctie": "Responsabil coordonare implementare activitate partener"
+    },
+    {
+      "id": 929,
+      "numeFunctie": "Responsabil de caz"
+    },
+    {
+      "id": 1101,
+      "numeFunctie": "Responsabil dotari/echipamente medicale"
+    },
+    {
+      "id": 412,
+      "numeFunctie": "Responsabil financiar"
+    },
+    {
+      "id": 1098,
+      "numeFunctie": "Responsabil implementare"
+    },
+    {
+      "id": 1072,
+      "numeFunctie": "Responsabil integritate"
+    },
+    {
+      "id": 1023,
+      "numeFunctie": "Responsabil IT"
+    },
+    {
+      "id": 983,
+      "numeFunctie": "Responsabil Logistica"
+    },
+    {
+      "id": 500,
+      "numeFunctie": "Responsabil pentru urmarirea contractelor"
+    },
+    {
+      "id": 854,
+      "numeFunctie": "Responsabil Petitii"
+    },
+    {
+      "id": 642,
+      "numeFunctie": "Responsabil piete reglementate (control)"
+    },
+    {
+      "id": 732,
+      "numeFunctie": "Responsabil proces"
+    },
+    {
+      "id": 487,
+      "numeFunctie": "Responsabil proiect"
+    },
+    {
+      "id": 1000,
+      "numeFunctie": "Responsabil raportare partener"
+    },
+    {
+      "id": 900,
+      "numeFunctie": "Responsabil RCA"
+    },
+    {
+      "id": 855,
+      "numeFunctie": "Responsabil resurse umane"
+    },
+    {
+      "id": 333,
+      "numeFunctie": "Responsabil supraveghere"
+    },
+    {
+      "id": 847,
+      "numeFunctie": "Responsabil supraveghere integrata"
+    },
+    {
+      "id": 676,
+      "numeFunctie": "Responsabil tehnic"
+    },
+    {
+      "id": 789,
+      "numeFunctie": "Restaurator"
+    },
+    {
+      "id": 566,
+      "numeFunctie": "Revizor general control financiar de gestiune"
+    },
+    {
+      "id": 632,
+      "numeFunctie": "REVIZOR GENERAL SC"
+    },
+    {
+      "id": 148,
+      "numeFunctie": "Secretar"
+    },
+    {
+      "id": 894,
+      "numeFunctie": "Secretar al comisiei permanente"
+    },
+    {
+      "id": 647,
+      "numeFunctie": "Secretar al Consiliului"
+    },
+    {
+      "id": 253,
+      "numeFunctie": "Secretar cabinet"
+    },
+    {
+      "id": 450,
+      "numeFunctie": "Secretar dactilograf"
+    },
+    {
+      "id": 209,
+      "numeFunctie": "Secretar de stat"
+    },
+    {
+      "id": 1065,
+      "numeFunctie": "Secretar de stat (ofițer/ ofițer de\n            poliție)"
+    },
+    {
+      "id": 147,
+      "numeFunctie": "Secretar General"
+    },
+    {
+      "id": 205,
+      "numeFunctie": "Secretar general adjunct"
+    },
+    {
+      "id": 654,
+      "numeFunctie": "Secretar general adjunct al Guvernului"
+    },
+    {
+      "id": 944,
+      "numeFunctie": "Secretar general adjunct la Camera Deputaților"
+    },
+    {
+      "id": 359,
+      "numeFunctie": "Secretar general adjunct la Senat"
+    },
+    {
+      "id": 928,
+      "numeFunctie": "Secretar general al Guvernului"
+    },
+    {
+      "id": 592,
+      "numeFunctie": "Secretar general al Judetului"
+    },
+    {
+      "id": 961,
+      "numeFunctie": "Secretar general la Camera Deputaților"
+    },
+    {
+      "id": 357,
+      "numeFunctie": "Secretar general la Senat"
+    },
+    {
+      "id": 241,
+      "numeFunctie": "Secretar General UAT"
+    },
+    {
+      "id": 285,
+      "numeFunctie": "Secretar I"
+    },
+    {
+      "id": 377,
+      "numeFunctie": "Secretar II"
+    },
+    {
+      "id": 575,
+      "numeFunctie": "Secretar III"
+    },
+    {
+      "id": 813,
+      "numeFunctie": "Secretar organizatie sindicala"
+    },
+    {
+      "id": 1016,
+      "numeFunctie": "Secretar personal"
+    },
+    {
+      "id": 195,
+      "numeFunctie": "Secretar Sef"
+    },
+    {
+      "id": 329,
+      "numeFunctie": "Secretar sef facultate"
+    },
+    {
+      "id": 908,
+      "numeFunctie": "Secretar sef Scoala Doctorala"
+    },
+    {
+      "id": 279,
+      "numeFunctie": "Secretar sef universitate"
+    },
+    {
+      "id": 712,
+      "numeFunctie": "SECRETAR STIINTIFIC"
+    },
+    {
+      "id": 920,
+      "numeFunctie": "Secretar-sef ISD"
+    },
+    {
+      "id": 796,
+      "numeFunctie": "Secretari"
+    },
+    {
+      "id": 972,
+      "numeFunctie": "Secretari de stat"
+    },
+    {
+      "id": 417,
+      "numeFunctie": "Sef adapost"
+    },
+    {
+      "id": 468,
+      "numeFunctie": "Sef adjunct birou vamal"
+    },
+    {
+      "id": 380,
+      "numeFunctie": "Sef administratie"
+    },
+    {
+      "id": 234,
+      "numeFunctie": "Sef administratie adjunct"
+    },
+    {
+      "id": 370,
+      "numeFunctie": "SEF AGENTIE"
+    },
+    {
+      "id": 153,
+      "numeFunctie": "SEF AGENTIE VOIAJ"
+    },
+    {
+      "id": 383,
+      "numeFunctie": "Sef al informatiilor"
+    },
+    {
+      "id": 361,
+      "numeFunctie": "Sef al logisticii"
+    },
+    {
+      "id": 386,
+      "numeFunctie": "Sef al operatiilor si instructiei"
+    },
+    {
+      "id": 404,
+      "numeFunctie": "Sef al personalului"
+    },
+    {
+      "id": 672,
+      "numeFunctie": "Sef al statului major"
+    },
+    {
+      "id": 873,
+      "numeFunctie": "Sef al structurii de securitate"
+    },
+    {
+      "id": 831,
+      "numeFunctie": "Sef ansamblu"
+    },
+    {
+      "id": 145,
+      "numeFunctie": "Sef atelier"
+    },
+    {
+      "id": 919,
+      "numeFunctie": "Sef Atelier Comunicatii"
+    },
+    {
+      "id": 969,
+      "numeFunctie": "Sef Atelier Electroenergetic"
+    },
+    {
+      "id": 842,
+      "numeFunctie": "Șef Atelier Informatică"
+    },
+    {
+      "id": 306,
+      "numeFunctie": "Sef Atelier revizii-reparatii"
+    },
+    {
+      "id": 767,
+      "numeFunctie": "Șef Autobază"
+    },
+    {
+      "id": 29,
+      "numeFunctie": "Șef birou"
+    },
+    {
+      "id": 973,
+      "numeFunctie": "Șef birou (ofițer/ofițer de poliție)"
+    },
+    {
+      "id": 829,
+      "numeFunctie": "Sef birou administrativ"
+    },
+    {
+      "id": 769,
+      "numeFunctie": "Sef Birou Administrativ-Igienizare"
+    },
+    {
+      "id": 759,
+      "numeFunctie": "Sef Birou Asigurarea Calitatii"
+    },
+    {
+      "id": 957,
+      "numeFunctie": "Sef Birou Audit Academic"
+    },
+    {
+      "id": 839,
+      "numeFunctie": "Sef Birou Dispecerat si Dispecerat Coordonare"
+    },
+    {
+      "id": 921,
+      "numeFunctie": "Sef birou exploatare aeronave"
+    },
+    {
+      "id": 186,
+      "numeFunctie": "Sef birou grad I"
+    },
+    {
+      "id": 615,
+      "numeFunctie": "Sef birou grad II"
+    },
+    {
+      "id": 902,
+      "numeFunctie": "Sef Birou Handling"
+    },
+    {
+      "id": 124,
+      "numeFunctie": "Sef Birou I"
+    },
+    {
+      "id": 668,
+      "numeFunctie": "Sef Birou IT si Securitate Cibernetica"
+    },
+    {
+      "id": 486,
+      "numeFunctie": "Sef birou logistica"
+    },
+    {
+      "id": 924,
+      "numeFunctie": "Sef Birou Proceduri de Securitate"
+    },
+    {
+      "id": 680,
+      "numeFunctie": "Sef Birou Securitate Aeroportuara"
+    },
+    {
+      "id": 658,
+      "numeFunctie": "Sef birou sucursala"
+    },
+    {
+      "id": 505,
+      "numeFunctie": "Sef birou vamal"
+    },
+    {
+      "id": 541,
+      "numeFunctie": "Sef brigada"
+    },
+    {
+      "id": 1004,
+      "numeFunctie": "Sef cariera"
+    },
+    {
+      "id": 433,
+      "numeFunctie": "Sef catedra"
+    },
+    {
+      "id": 105,
+      "numeFunctie": "Sef centru"
+    },
+    {
+      "id": 718,
+      "numeFunctie": "Sef centru de perfectionare"
+    },
+    {
+      "id": 428,
+      "numeFunctie": "Sef centru exploatare"
+    },
+    {
+      "id": 640,
+      "numeFunctie": "SEF CENTRU INTRETINERE SI COORDONARE"
+    },
+    {
+      "id": 657,
+      "numeFunctie": "Sef centru medical județean"
+    },
+    {
+      "id": 799,
+      "numeFunctie": "Sef centru medical județean I"
+    },
+    {
+      "id": 714,
+      "numeFunctie": "Șef centru medical județean I (medic de unitate)"
+    },
+    {
+      "id": 384,
+      "numeFunctie": "Sef centru operational"
+    },
+    {
+      "id": 1050,
+      "numeFunctie": "Șef centru zonal"
+    },
+    {
+      "id": 853,
+      "numeFunctie": "Sef CIMIC"
+    },
+    {
+      "id": 1087,
+      "numeFunctie": "Șef Colectiv"
+    },
+    {
+      "id": 350,
+      "numeFunctie": "Sef coloana auto"
+    },
+    {
+      "id": 45,
+      "numeFunctie": "Sef Compartiment"
+    },
+    {
+      "id": 452,
+      "numeFunctie": "Sef complex"
+    },
+    {
+      "id": 538,
+      "numeFunctie": "Sef Complex Hotelier"
+    },
+    {
+      "id": 960,
+      "numeFunctie": "Șef complex sportiv"
+    },
+    {
+      "id": 810,
+      "numeFunctie": "Sef Cresa"
+    },
+    {
+      "id": 296,
+      "numeFunctie": "Șef de cabinet"
+    },
+    {
+      "id": 1020,
+      "numeFunctie": "Șef de schimb"
+    },
+    {
+      "id": 12,
+      "numeFunctie": "Sef de stat major"
+    },
+    {
+      "id": 204,
+      "numeFunctie": "Sef Departament"
+    },
+    {
+      "id": 568,
+      "numeFunctie": "Sef departament tehnic"
+    },
+    {
+      "id": 293,
+      "numeFunctie": "SEF DEPOU"
+    },
+    {
+      "id": 266,
+      "numeFunctie": "SEF DEPOU ADJUNCT"
+    },
+    {
+      "id": 938,
+      "numeFunctie": "Şef Depou Exploatare TEM"
+    },
+    {
+      "id": 814,
+      "numeFunctie": "Şef Depou Exploatare TEM Adjunct"
+    },
+    {
+      "id": 272,
+      "numeFunctie": "Sef depozit"
+    },
+    {
+      "id": 974,
+      "numeFunctie": "Șef detașament"
+    },
+    {
+      "id": 771,
+      "numeFunctie": "Sef directie generala"
+    },
+    {
+      "id": 38,
+      "numeFunctie": "Sef directie I"
+    },
+    {
+      "id": 848,
+      "numeFunctie": "Șef dispecer central"
+    },
+    {
+      "id": 850,
+      "numeFunctie": "Sef dispecer energetic central"
+    },
+    {
+      "id": 263,
+      "numeFunctie": "Sef dispecer energetic teritorial"
+    },
+    {
+      "id": 748,
+      "numeFunctie": "Sef dispecerat IT"
+    },
+    {
+      "id": 692,
+      "numeFunctie": "Sef dispecerat MT/JT"
+    },
+    {
+      "id": 17,
+      "numeFunctie": "SEF DISTRICT"
+    },
+    {
+      "id": 136,
+      "numeFunctie": "Sef district rezervă"
+    },
+    {
+      "id": 191,
+      "numeFunctie": "SEF DIVIZIE"
+    },
+    {
+      "id": 184,
+      "numeFunctie": "Sef echipa muncitori"
+    },
+    {
+      "id": 542,
+      "numeFunctie": "Sef Ecluza"
+    },
+    {
+      "id": 536,
+      "numeFunctie": "Sef Ecluza Adjunct"
+    },
+    {
+      "id": 161,
+      "numeFunctie": "Sef editura"
+    },
+    {
+      "id": 594,
+      "numeFunctie": "Sef Escorta I"
+    },
+    {
+      "id": 570,
+      "numeFunctie": "Sef Escorta III"
+    },
+    {
+      "id": 604,
+      "numeFunctie": "Sef executiv audit intern"
+    },
+    {
+      "id": 86,
+      "numeFunctie": "SEF FORMATIE"
+    },
+    {
+      "id": 779,
+      "numeFunctie": "Sef Formatie Interventie, Salvare si Prim ajutor"
+    },
+    {
+      "id": 208,
+      "numeFunctie": "Sef formatie muncitori"
+    },
+    {
+      "id": 193,
+      "numeFunctie": "Sef formatie specializata"
+    },
+    {
+      "id": 387,
+      "numeFunctie": "Sef formatiune"
+    },
+    {
+      "id": 864,
+      "numeFunctie": "Sef formatiune asigurare"
+    },
+    {
+      "id": 770,
+      "numeFunctie": "Sef formatiune paza"
+    },
+    {
+      "id": 101,
+      "numeFunctie": "Sef garda interventie - stingere"
+    },
+    {
+      "id": 113,
+      "numeFunctie": "Sef grupa"
+    },
+    {
+      "id": 465,
+      "numeFunctie": "Sef inspectie de prevenire"
+    },
+    {
+      "id": 217,
+      "numeFunctie": "Sef laborator"
+    },
+    {
+      "id": 837,
+      "numeFunctie": "Șef laborator examinari complementare medicina legala"
+    },
+    {
+      "id": 463,
+      "numeFunctie": "Șef laborator medicina legală"
+    },
+    {
+      "id": 802,
+      "numeFunctie": "Șef laborator prosectura medicina legala"
+    },
+    {
+      "id": 328,
+      "numeFunctie": "Sef Laborator Radiologie si Imagistica Medicala"
+    },
+    {
+      "id": 290,
+      "numeFunctie": "Sef Modul"
+    },
+    {
+      "id": 721,
+      "numeFunctie": "Sef muzica"
+    },
+    {
+      "id": 563,
+      "numeFunctie": "Sef obiectiv"
+    },
+    {
+      "id": 242,
+      "numeFunctie": "Sef ocol"
+    },
+    {
+      "id": 134,
+      "numeFunctie": "SEF OFICIU"
+    },
+    {
+      "id": 499,
+      "numeFunctie": "Sef Oficiu Capitanie"
+    },
+    {
+      "id": 122,
+      "numeFunctie": "Sef Oficiu Comercial"
+    },
+    {
+      "id": 180,
+      "numeFunctie": "SEF OFICIU JURIDIC"
+    },
+    {
+      "id": 449,
+      "numeFunctie": "Sef patrula"
+    },
+    {
+      "id": 571,
+      "numeFunctie": "Sef pepiniera"
+    },
+    {
+      "id": 395,
+      "numeFunctie": "Sef politie municipala"
+    },
+    {
+      "id": 265,
+      "numeFunctie": "Sef politie oraseneasca"
+    },
+    {
+      "id": 997,
+      "numeFunctie": "Sef Politie Statiune"
+    },
+    {
+      "id": 98,
+      "numeFunctie": "Sef post"
+    },
+    {
+      "id": 562,
+      "numeFunctie": "Sef Post Control I"
+    },
+    {
+      "id": 578,
+      "numeFunctie": "Sef Post Control II"
+    },
+    {
+      "id": 97,
+      "numeFunctie": "Sef Post I"
+    },
+    {
+      "id": 178,
+      "numeFunctie": "SEF POST REVIZIE VAGOANE"
+    },
+    {
+      "id": 739,
+      "numeFunctie": "Sef profile"
+    },
+    {
+      "id": 173,
+      "numeFunctie": "Sef proiect"
+    },
+    {
+      "id": 483,
+      "numeFunctie": "Sef punct"
+    },
+    {
+      "id": 274,
+      "numeFunctie": "SEF PUNCT COMANDA PERSONAL"
+    },
+    {
+      "id": 307,
+      "numeFunctie": "Sef punct de lucru"
+    },
+    {
+      "id": 710,
+      "numeFunctie": "Sef punct de lucru adjunct"
+    },
+    {
+      "id": 645,
+      "numeFunctie": "Sef Punct Lucru"
+    },
+    {
+      "id": 882,
+      "numeFunctie": "Sef Punct Lucru IV"
+    },
+    {
+      "id": 469,
+      "numeFunctie": "SEF PUNCT LUCRU TRACTIUNE"
+    },
+    {
+      "id": 466,
+      "numeFunctie": "Sef punct trecere de frontiera"
+    },
+    {
+      "id": 252,
+      "numeFunctie": "Sef punct trecere frontiera"
+    },
+    {
+      "id": 851,
+      "numeFunctie": "Șef RCM"
+    },
+    {
+      "id": 482,
+      "numeFunctie": "Sef Regionala"
+    },
+    {
+      "id": 313,
+      "numeFunctie": "Sef regulator circulatie"
+    },
+    {
+      "id": 319,
+      "numeFunctie": "Sef regulator circulatie adjunct"
+    },
+    {
+      "id": 863,
+      "numeFunctie": "Sef retea"
+    },
+    {
+      "id": 256,
+      "numeFunctie": "SEF REVIZIE VAGOANE"
+    },
+    {
+      "id": 143,
+      "numeFunctie": "SEF REVIZIE VAGOANE ADJUNCT"
+    },
+    {
+      "id": 215,
+      "numeFunctie": "Sef schimb"
+    },
+    {
+      "id": 817,
+      "numeFunctie": "Sef Schimb II"
+    },
+    {
+      "id": 110,
+      "numeFunctie": "Șef secție"
+    },
+    {
+      "id": 170,
+      "numeFunctie": "Sef sectie adjunct"
+    },
+    {
+      "id": 247,
+      "numeFunctie": "SEF SECTIE EXPLOARE"
+    },
+    {
+      "id": 230,
+      "numeFunctie": "SEF SECTIE EXPLOATARE ADJUNCT"
+    },
+    {
+      "id": 331,
+      "numeFunctie": "Sef Sectie I"
+    },
+    {
+      "id": 479,
+      "numeFunctie": "Sef Sectie II"
+    },
+    {
+      "id": 76,
+      "numeFunctie": "Șef Sector"
+    },
+    {
+      "id": 1090,
+      "numeFunctie": "Șef sector (ofițer/ofițer de poliție)"
+    },
+    {
+      "id": 1019,
+      "numeFunctie": "Șef sector I (ofițer/ofițer de poliție)"
+    },
+    {
+      "id": 18,
+      "numeFunctie": "Șef serviciu"
+    },
+    {
+      "id": 212,
+      "numeFunctie": "Sef Serviciu Achizitii Publice"
+    },
+    {
+      "id": 198,
+      "numeFunctie": "Sef Serviciu Administrativ"
+    },
+    {
+      "id": 506,
+      "numeFunctie": "Sef Serviciu Anatomie Patologica"
+    },
+    {
+      "id": 805,
+      "numeFunctie": "Sef Serviciu Aprovizionare"
+    },
+    {
+      "id": 652,
+      "numeFunctie": "Sef Serviciu Aprovizionare Contractare"
+    },
+    {
+      "id": 480,
+      "numeFunctie": "Sef Serviciu Buget/Financiar-Contabilitate"
+    },
+    {
+      "id": 314,
+      "numeFunctie": "Sef Serviciu Contabilitate"
+    },
+    {
+      "id": 576,
+      "numeFunctie": "Sef Serviciu Contracte, Tarife"
+    },
+    {
+      "id": 948,
+      "numeFunctie": "Sef Serviciu Dezvoltare Infrastructura Aeroportuara"
+    },
+    {
+      "id": 456,
+      "numeFunctie": "Sef Serviciu Financiar"
+    },
+    {
+      "id": 751,
+      "numeFunctie": "Sef Serviciu Financiar Contabilitate Administrativ"
+    },
+    {
+      "id": 758,
+      "numeFunctie": "Sef serviciu grad I"
+    },
+    {
+      "id": 628,
+      "numeFunctie": "Sef serviciu grad II"
+    },
+    {
+      "id": 1061,
+      "numeFunctie": "Sef Serviciu Handling la sol"
+    },
+    {
+      "id": 62,
+      "numeFunctie": "Sef serviciu I"
+    },
+    {
+      "id": 353,
+      "numeFunctie": "Sef Serviciu II"
+    },
+    {
+      "id": 354,
+      "numeFunctie": "Sef Serviciu Informatica"
+    },
+    {
+      "id": 909,
+      "numeFunctie": "Sef Serviciu Intern de Prevenire si Protectie"
+    },
+    {
+      "id": 427,
+      "numeFunctie": "Sef Serviciu Managementul Calitatii"
+    },
+    {
+      "id": 778,
+      "numeFunctie": "Sef Serviciu Marketing, Relatii International, Relatii Publice"
+    },
+    {
+      "id": 460,
+      "numeFunctie": "Sef Serviciu Medicina Legala"
+    },
+    {
+      "id": 715,
+      "numeFunctie": "Sef Serviciu Programare Investitii, Fonduri Europene, Licitatii, Achizitii"
+    },
+    {
+      "id": 299,
+      "numeFunctie": "Sef Serviciu R.U.N.O.S"
+    },
+    {
+      "id": 663,
+      "numeFunctie": "Sef Serviciu Reglementari Aeronautice, Asigurarea Calitatii, Relatii Publice"
+    },
+    {
+      "id": 100,
+      "numeFunctie": "SEF SERVICIU RESURSE UMANE"
+    },
+    {
+      "id": 637,
+      "numeFunctie": "Sef serviciu SC"
+    },
+    {
+      "id": 912,
+      "numeFunctie": "Sef Serviciu Securitate Aeroportuare si Informatii Clasificate"
+    },
+    {
+      "id": 745,
+      "numeFunctie": "Șef serviciu Siguranța Navigației"
+    },
+    {
+      "id": 467,
+      "numeFunctie": "Sef Serviciu Statistica si Evaluare Medicala"
+    },
+    {
+      "id": 206,
+      "numeFunctie": "Sef serviciu sucursala"
+    },
+    {
+      "id": 374,
+      "numeFunctie": "Sef Serviciu Tehnic"
+    },
+    {
+      "id": 372,
+      "numeFunctie": "Sef serviciu teritorial"
+    },
+    {
+      "id": 766,
+      "numeFunctie": "Sef Serviciu Transport"
+    },
+    {
+      "id": 396,
+      "numeFunctie": "Sef sistem hidrotehnic"
+    },
+    {
+      "id": 171,
+      "numeFunctie": "SEF STATIE"
+    },
+    {
+      "id": 273,
+      "numeFunctie": "SEF STATIE ADJUNCT"
+    },
+    {
+      "id": 484,
+      "numeFunctie": "Sef statie electrica"
+    },
+    {
+      "id": 169,
+      "numeFunctie": "SEF STATIE REZERVA"
+    },
+    {
+      "id": 706,
+      "numeFunctie": "Șef Stație Salvatori"
+    },
+    {
+      "id": 607,
+      "numeFunctie": "Sef Statii de Pompare Adjunct"
+    },
+    {
+      "id": 639,
+      "numeFunctie": "Sef Statii Pompare"
+    },
+    {
+      "id": 283,
+      "numeFunctie": "Sef structura de securitate"
+    },
+    {
+      "id": 589,
+      "numeFunctie": "Sef Sucursala"
+    },
+    {
+      "id": 223,
+      "numeFunctie": "Sef SVSU"
+    },
+    {
+      "id": 75,
+      "numeFunctie": "SEF TURA"
+    },
+    {
+      "id": 803,
+      "numeFunctie": "Sef Tura II"
+    },
+    {
+      "id": 382,
+      "numeFunctie": "Sef UMP"
+    },
+    {
+      "id": 1106,
+      "numeFunctie": "Șef unitate fiscală"
+    },
+    {
+      "id": 774,
+      "numeFunctie": "Sef unitate miniera"
+    },
+    {
+      "id": 649,
+      "numeFunctie": "Sef zona"
+    },
+    {
+      "id": 461,
+      "numeFunctie": "Senator"
+    },
+    {
+      "id": 346,
+      "numeFunctie": "Sofer"
+    },
+    {
+      "id": 1009,
+      "numeFunctie": "soldat profesionist (servant)"
+    },
+    {
+      "id": 835,
+      "numeFunctie": "Spalatoreasa cu gestiune"
+    },
+    {
+      "id": 125,
+      "numeFunctie": "Specialist"
+    },
+    {
+      "id": 861,
+      "numeFunctie": "Specialist achiziții"
+    },
+    {
+      "id": 761,
+      "numeFunctie": "Specialist cadastru"
+    },
+    {
+      "id": 757,
+      "numeFunctie": "Specialist carte funciara"
+    },
+    {
+      "id": 750,
+      "numeFunctie": "Specialist contabilitate"
+    },
+    {
+      "id": 819,
+      "numeFunctie": "Specialist control risc"
+    },
+    {
+      "id": 952,
+      "numeFunctie": "Specialist documentatie studii"
+    },
+    {
+      "id": 165,
+      "numeFunctie": "Specialist IT"
+    },
+    {
+      "id": 636,
+      "numeFunctie": "Specialist IT Sef"
+    },
+    {
+      "id": 641,
+      "numeFunctie": "Specialist piete reglementate"
+    },
+    {
+      "id": 891,
+      "numeFunctie": "Specialist piete reglementate (control)"
+    },
+    {
+      "id": 743,
+      "numeFunctie": "Specialist plan progres"
+    },
+    {
+      "id": 896,
+      "numeFunctie": "Specialist politici asiguratorii"
+    },
+    {
+      "id": 371,
+      "numeFunctie": "Specialist resurse umane"
+    },
+    {
+      "id": 406,
+      "numeFunctie": "Specialist sef birou"
+    },
+    {
+      "id": 756,
+      "numeFunctie": "Specialist sef serviciu"
+    },
+    {
+      "id": 671,
+      "numeFunctie": "Specialist sistem asigurari"
+    },
+    {
+      "id": 432,
+      "numeFunctie": "Specialist Tehnic"
+    },
+    {
+      "id": 940,
+      "numeFunctie": "Specialist Tehnic Agricultură și Împăduriri"
+    },
+    {
+      "id": 430,
+      "numeFunctie": "Specialist Tehnic Senior Monitorizare"
+    },
+    {
+      "id": 735,
+      "numeFunctie": "Sub-Ofiter casier principal"
+    },
+    {
+      "id": 820,
+      "numeFunctie": "Sub-Ofiter operativ principal"
+    },
+    {
+      "id": 416,
+      "numeFunctie": "Sub-Ofiter secretariat principal"
+    },
+    {
+      "id": 764,
+      "numeFunctie": "Sub-Ofiter tehnic principal"
+    },
+    {
+      "id": 108,
+      "numeFunctie": "Subcomisar"
+    },
+    {
+      "id": 245,
+      "numeFunctie": "Subinginer"
+    },
+    {
+      "id": 824,
+      "numeFunctie": "Subinginer Constructii"
+    },
+    {
+      "id": 107,
+      "numeFunctie": "Subinspector"
+    },
+    {
+      "id": 119,
+      "numeFunctie": "Subofiter administrativ principal"
+    },
+    {
+      "id": 754,
+      "numeFunctie": "Subofiţer magaziner principal"
+    },
+    {
+      "id": 5,
+      "numeFunctie": "Subofiter operativ principal"
+    },
+    {
+      "id": 128,
+      "numeFunctie": "Subofiter paza principal"
+    },
+    {
+      "id": 407,
+      "numeFunctie": "Subofiţer secretariat principal"
+    },
+    {
+      "id": 228,
+      "numeFunctie": "Subofiter tehnic principal"
+    },
+    {
+      "id": 94,
+      "numeFunctie": "Subprefect"
+    },
+    {
+      "id": 196,
+      "numeFunctie": "Subsecretar de stat"
+    },
+    {
+      "id": 970,
+      "numeFunctie": "Subsecretar de stat (ofițer/ofițer de\n            poliție)"
+    },
+    {
+      "id": 978,
+      "numeFunctie": "Supervizor echipa"
+    },
+    {
+      "id": 320,
+      "numeFunctie": "Supervizor sala"
+    },
+    {
+      "id": 596,
+      "numeFunctie": "Supraveghetor Sef I"
+    },
+    {
+      "id": 956,
+      "numeFunctie": "Tehnician"
+    },
+    {
+      "id": 833,
+      "numeFunctie": "Tehnician Cadastrist"
+    },
+    {
+      "id": 1056,
+      "numeFunctie": "TEHNICIAN CHIMIST"
+    },
+    {
+      "id": 478,
+      "numeFunctie": "Tehnician Criminalist"
+    },
+    {
+      "id": 270,
+      "numeFunctie": "Tehnician IA"
+    },
+    {
+      "id": 862,
+      "numeFunctie": "Tehnician proiect"
+    },
+    {
+      "id": 1030,
+      "numeFunctie": "TEHNICIAN PROTECTIA MEDIULUI"
+    },
+    {
+      "id": 888,
+      "numeFunctie": "Tehnician-economist gradul II-IA"
+    },
+    {
+      "id": 1063,
+      "numeFunctie": "Terapeut ocupational"
+    },
+    {
+      "id": 709,
+      "numeFunctie": "Traducator I"
+    },
+    {
+      "id": 856,
+      "numeFunctie": "Trezorier"
+    },
+    {
+      "id": 325,
+      "numeFunctie": "Trezorier sef"
+    },
+    {
+      "id": 874,
+      "numeFunctie": "Tutore"
+    },
+    {
+      "id": 1033,
+      "numeFunctie": "urbanist"
+    },
+    {
+      "id": 619,
+      "numeFunctie": "Viceconsul"
+    },
+    {
+      "id": 959,
+      "numeFunctie": "Viceguvernator"
+    },
+    {
+      "id": 795,
+      "numeFunctie": "Vicelider organizatie sindicala"
+    },
+    {
+      "id": 318,
+      "numeFunctie": "Vicepreședinte"
+    },
+    {
+      "id": 1007,
+      "numeFunctie": "Vicepresedinte al Agentiei Nationale de Integritate"
+    },
+    {
+      "id": 878,
+      "numeFunctie": "Vicepreședinte Autoritatea de Audit"
+    },
+    {
+      "id": 348,
+      "numeFunctie": "Vicepreședinte Consiliu județean"
+    },
+    {
+      "id": 651,
+      "numeFunctie": "Vicepreședinții Senatului"
+    },
+    {
+      "id": 906,
+      "numeFunctie": "Viceprim-ministru"
+    },
+    {
+      "id": 43,
+      "numeFunctie": "Viceprimar"
+    },
+    {
+      "id": 1048,
+      "numeFunctie": "viceprimar interimar"
+    }
+  ]
+}

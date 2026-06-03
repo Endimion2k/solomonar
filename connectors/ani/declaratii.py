@@ -187,6 +187,33 @@ def extract_pdf_text(pdf_bytes: bytes) -> str:
         return "\n".join(page.extract_text() or "" for page in pdf.pages)
 
 
+FIELDS_BASE = "https://declaratii.integritate.eu/api/fields"
+
+
+def normalize_ani_organizations(raw: list[dict]) -> list[dict]:
+    """Normalizează lista de organizații ANI (entități care depun declarații)."""
+    return [
+        {"ani_id": o.get("id"), "name": (o.get("numeOrganizatie") or "").strip()}
+        for o in raw
+        if (o.get("numeOrganizatie") or "").strip()
+    ]
+
+
+def fetch_ani_fields(client: Client | None = None) -> dict:
+    """Harvest API-ul DESCHIS de fields ANI (judete, functii, organizations).
+
+    Acesta NU e Turnstile-gated (spre deosebire de căutarea de declarații). 11.700 organizații,
+    1.109 funcții, 42 județe — registrul entităților care depun declarații la ANI.
+    """
+    client = client or Client()
+    out: dict = {}
+    for field in ("judete", "functii", "organizations"):
+        r = client.get(f"{FIELDS_BASE}/{field}")
+        r.raise_for_status()
+        out[field] = r.json()
+    return out
+
+
 class AniConnector:
     """Arhetip `headless`. declaratii.integritate.eu — confirmat DRIVABLE cu Playwright (iunie 2026).
 
