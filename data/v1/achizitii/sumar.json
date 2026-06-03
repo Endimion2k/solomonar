@@ -1,0 +1,264 @@
+{
+  "generated_at": "2026-06-03T20:24:00.952646+00:00",
+  "perioada": "T1 2025",
+  "total_contracte": 29921,
+  "valoare_totala_ron": 118487259387,
+  "furnizori_distincti": 2423,
+  "top_furnizori": [
+    {
+      "cui": 14052360,
+      "nume": "Concelex Engineering S.R.L",
+      "total_ron": 16439835629
+    },
+    {
+      "cui": 32125703,
+      "nume": "BEST ACHIZITII",
+      "total_ron": 8251697068
+    },
+    {
+      "cui": 43154690,
+      "nume": "THEDA MAR DESIGN",
+      "total_ron": 8065765367
+    },
+    {
+      "cui": 9378655,
+      "nume": "DR.MAX",
+      "total_ron": 8051747905
+    },
+    {
+      "cui": 35381064,
+      "nume": "X-TRA BEST CONSTRUCT",
+      "total_ron": 8038324532
+    },
+    {
+      "cui": 26625208,
+      "nume": "OVI ARCHITECTURE & ENGINEERING SRL",
+      "total_ron": 5003138042
+    },
+    {
+      "cui": 39350753,
+      "nume": "NEMAR EDIL GENERAL",
+      "total_ron": 3172192506
+    },
+    {
+      "cui": 12704530,
+      "nume": "STRYKER ROMANIA S.R.L.",
+      "total_ron": 3043103289
+    },
+    {
+      "cui": 94149722,
+      "nume": "Asocierea RailWorks formata din Aktor S.A.(Lider), Alstom Transport S.A. si Arcada Company S.A",
+      "total_ron": 2977682300
+    },
+    {
+      "cui": 15148952,
+      "nume": "GARDEN CENTER GRUP S.R.L.",
+      "total_ron": 1594614880
+    },
+    {
+      "cui": 801880293,
+      "nume": "AMERESCO SUNEL ENERGY AE",
+      "total_ron": 1505774200
+    },
+    {
+      "cui": 6320042239,
+      "nume": "Nurol Insaat ve Ticaret A.S.",
+      "total_ron": 1411300975
+    },
+    {
+      "cui": 1860712,
+      "nume": "ROMPETROL RAFINARE S.A.",
+      "total_ron": 1259573047
+    },
+    {
+      "cui": 6130854061,
+      "nume": "CCN ALTYAPI YATIRIMLARI VE İNŞAAT ANONIM ŞIKRETI",
+      "total_ron": 1240571360
+    },
+    {
+      "cui": 2030342068,
+      "nume": "CCN HASTANE HIZMETLERI VE ISLETME ANONIM SIRKETI",
+      "total_ron": 1240571360
+    },
+    {
+      "cui": 3572074,
+      "nume": "FARMACEUTICA REMEDIA DISTRIBUTION & LOGISTICS S.R.L.",
+      "total_ron": 970787916
+    },
+    {
+      "cui": 18165761,
+      "nume": "UTI CONSTRUCTION AND FACILITY MANAGEMENT",
+      "total_ron": 951603668
+    },
+    {
+      "cui": 26846942,
+      "nume": "Wagramer termo 2000",
+      "total_ron": 879626843
+    },
+    {
+      "cui": 31293130,
+      "nume": "STYH A&A",
+      "total_ron": 842769716
+    },
+    {
+      "cui": 8188318,
+      "nume": "COMCEREAL SA",
+      "total_ron": 809528865
+    },
+    {
+      "cui": 1583360,
+      "nume": "SICOR",
+      "total_ron": 788373653
+    },
+    {
+      "cui": 35182347,
+      "nume": "MEDTRONIC ROMANIA SRL",
+      "total_ron": 731772970
+    },
+    {
+      "cui": 12706949,
+      "nume": "TRILENIUM",
+      "total_ron": 729121331
+    },
+    {
+      "cui": 3596251,
+      "nume": "S.C. DONA.LOGISTICA S.R.L.",
+      "total_ron": 663972163
+    },
+    {
+      "cui": 33358111,
+      "nume": "DONA. LOGISTICA",
+      "total_ron": 649387622
+    },
+    {
+      "cui": 45402067,
+      "nume": "MEDICA CONSULTING & DEVICES S.R.L.",
+      "total_ron": 590236980
+    },
+    {
+      "cui": 17485075,
+      "nume": "STRIZO SINTETIC",
+      "total_ron": 584255006
+    },
+    {
+      "cui": 14041515,
+      "nume": "S.C. CONTEC FOODS S.R.L. S.R.L.",
+      "total_ron": 544380453
+    },
+    {
+      "cui": 16310296,
+      "nume": "FLUID DEVELOPMENT",
+      "total_ron": 540165952
+    },
+    {
+      "cui": 41685610,
+      "nume": "SIEMENS ENERGY",
+      "total_ron": 455847456
+    },
+    {
+      "cui": 22082443,
+      "nume": "ND PHARMA S.R.L.",
+      "total_ron": 438976012
+    },
+    {
+      "cui": 25426886,
+      "nume": "PRION POCT",
+      "total_ron": 411590670
+    },
+    {
+      "cui": 8844358,
+      "nume": "GEIGER TRANSILVANIA S.R.L.",
+      "total_ron": 400755614
+    },
+    {
+      "cui": 2020333216,
+      "nume": "VÁHOSTAV – SK, a. s.",
+      "total_ron": 399887516
+    },
+    {
+      "cui": 2213161,
+      "nume": "ADETRANS S.R.L.",
+      "total_ron": 386677786
+    },
+    {
+      "cui": 40626268,
+      "nume": "ELECTRO ALFA SERVICII INGINERIE",
+      "total_ron": 382841143
+    },
+    {
+      "cui": 35752863,
+      "nume": "URBAN SCOPE",
+      "total_ron": 364934260
+    },
+    {
+      "cui": 4650521473,
+      "nume": "ILGAZ INSAAT TICARET ANONIM SIRKETI",
+      "total_ron": 362043514
+    },
+    {
+      "cui": 42825119,
+      "nume": "BAICULESCU CONSTRUCT",
+      "total_ron": 335327530
+    },
+    {
+      "cui": 23100700,
+      "nume": "VALDOMEDICA TRADING",
+      "total_ron": 319189476
+    },
+    {
+      "cui": 1555026,
+      "nume": "ATELIERELE CFR GRIVITA",
+      "total_ron": 305428467
+    },
+    {
+      "cui": 34060708,
+      "nume": "MAVGO HOLDING",
+      "total_ron": 304463307
+    },
+    {
+      "cui": 1771593,
+      "nume": "ELIS PAVAJE",
+      "total_ron": 287335123
+    },
+    {
+      "cui": 39908567,
+      "nume": "SIMION TEHNOCONSTRUCT",
+      "total_ron": 277302615
+    },
+    {
+      "cui": 520035874,
+      "nume": "ELBIT SYSTEMS EW and SIGINT - ELISRA LTD.",
+      "total_ron": 274944000
+    },
+    {
+      "cui": 32941736,
+      "nume": "BIO SUPPLY DEVELOPMENT SRL",
+      "total_ron": 261671054
+    },
+    {
+      "cui": 40564700,
+      "nume": "MEDROMTEHNOLOGY",
+      "total_ron": 261349454
+    },
+    {
+      "cui": 29136540,
+      "nume": "ALMED INVESTMENTS",
+      "total_ron": 260374865
+    },
+    {
+      "cui": 16356935,
+      "nume": "SYLC CON TRANS",
+      "total_ron": 258127749
+    },
+    {
+      "cui": 16360111,
+      "nume": "DANLIN XXL",
+      "total_ron": 257436637
+    }
+  ],
+  "soe_castigatoare": {
+    "nr_contracte": 60,
+    "nr_soe": 6,
+    "valoare_ron": 15640317
+  }
+}

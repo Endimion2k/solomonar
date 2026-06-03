@@ -1,0 +1,1150 @@
+{
+  "meta": {
+    "generated_at": "2026-06-03T20:24:00.953562Z",
+    "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+    "scraper_version": "0.1.0",
+    "count": 60
+  },
+  "data": [
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:66a00ceb1a55782c",
+      "contracting_authority_id": "o:113d5971c3e6edee",
+      "supplier_id": "c:25c7f95f6a5717bc",
+      "amount": 4006186.0,
+      "currency": "RON",
+      "award_date": "2024-12-11",
+      "cpv": "90917000-8",
+      "procedure_type": null,
+      "title": "Servicii de curatare a echipamentului de transport (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:6734b28e80aca844",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 296580.0,
+      "currency": "RON",
+      "award_date": "2022-12-22",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:dec4fc491c873597",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 12293.0,
+      "currency": "RON",
+      "award_date": "2023-03-14",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:c5e7c8950bfb270d",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 17860.0,
+      "currency": "RON",
+      "award_date": "2023-05-29",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:ba7c6601b1d065f9",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 7464.0,
+      "currency": "RON",
+      "award_date": "2023-11-14",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:20584f9eaaabd5c1",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 3340.0,
+      "currency": "RON",
+      "award_date": "2024-04-17",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:2cf273370bd867d3",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 8187.0,
+      "currency": "RON",
+      "award_date": "2024-08-23",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:efae7da7daebfb83",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 5193.0,
+      "currency": "RON",
+      "award_date": "2024-12-04",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:a892c47dc8e85b18",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 715000.0,
+      "currency": "RON",
+      "award_date": "2022-12-22",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:990d72ba90b0a711",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 11245.0,
+      "currency": "RON",
+      "award_date": "2023-01-13",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:73908557820441f4",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 11245.0,
+      "currency": "RON",
+      "award_date": "2023-04-24",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:337817d6e99f1c6a",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 11245.0,
+      "currency": "RON",
+      "award_date": "2023-12-22",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:3311a2e7ab1e899c",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 16064.0,
+      "currency": "RON",
+      "award_date": "2024-04-15",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:9e2e3789f19aa36a",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 12937.0,
+      "currency": "RON",
+      "award_date": "2024-07-08",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:7bce7e3ae1cdf50e",
+      "contracting_authority_id": "o:5a202a66b0e4a6ef",
+      "supplier_id": "c:f9c457e703a193c4",
+      "amount": 19404.0,
+      "currency": "RON",
+      "award_date": "2024-11-28",
+      "cpv": "60420000-8",
+      "procedure_type": null,
+      "title": "Servicii de transport aerian ocazional (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:a537b28d5f42e241",
+      "contracting_authority_id": "o:9480006d1001d279",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 1137588.0,
+      "currency": "RON",
+      "award_date": "2024-12-30",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:817f91ec30ccabcb",
+      "contracting_authority_id": "o:9480006d1001d279",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 81638.0,
+      "currency": "RON",
+      "award_date": "2025-01-10",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:f3bbce29dfc5908a",
+      "contracting_authority_id": "o:9480006d1001d279",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 961625.0,
+      "currency": "RON",
+      "award_date": "2024-12-30",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:63583177cd50d55b",
+      "contracting_authority_id": "o:9480006d1001d279",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 78293.0,
+      "currency": "RON",
+      "award_date": "2025-01-10",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:197324286a6d28a1",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 121600.0,
+      "currency": "RON",
+      "award_date": "2022-04-29",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:086fd7a30c9bb1a7",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 500.0,
+      "currency": "RON",
+      "award_date": "2022-05-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:d7d6f241b2dbc46a",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 1000.0,
+      "currency": "RON",
+      "award_date": "2022-10-31",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:cb984f668e62ad37",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 1000.0,
+      "currency": "RON",
+      "award_date": "2023-01-18",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:de52c4f571b30241",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 2000.0,
+      "currency": "RON",
+      "award_date": "2023-03-09",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:a4c0523b8a521060",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 6000.0,
+      "currency": "RON",
+      "award_date": "2023-04-06",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:8c029ec3ed963009",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 1500.0,
+      "currency": "RON",
+      "award_date": "2023-12-06",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:f58d4456cf1a6e74",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 7500.0,
+      "currency": "RON",
+      "award_date": "2024-01-15",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:ff45f37e78f295c2",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 10000.0,
+      "currency": "RON",
+      "award_date": "2024-03-21",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:25ef07c992500ae4",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 2000.0,
+      "currency": "RON",
+      "award_date": "2024-10-21",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:2fdda62b9479db31",
+      "contracting_authority_id": "o:68def17cf4a1a742",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 10000.0,
+      "currency": "RON",
+      "award_date": "2025-01-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:8ee20ed3b12adef1",
+      "contracting_authority_id": "o:113d5971c3e6edee",
+      "supplier_id": "c:8d7001a470244648",
+      "amount": 2637706.0,
+      "currency": "RON",
+      "award_date": "2025-01-29",
+      "cpv": "66515200-5",
+      "procedure_type": null,
+      "title": "Servicii de asigurare a bunurilor (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:499679aea8843c2b",
+      "contracting_authority_id": "o:3eec570f4e95a1f0",
+      "supplier_id": "c:4c346c846fbec080",
+      "amount": 361600.0,
+      "currency": "RON",
+      "award_date": "2024-10-17",
+      "cpv": "22450000-9",
+      "procedure_type": null,
+      "title": "Imprimate nefalsificabile (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:20444dc6b95fb02a",
+      "contracting_authority_id": "o:3eec570f4e95a1f0",
+      "supplier_id": "c:4c346c846fbec080",
+      "amount": 29870.0,
+      "currency": "RON",
+      "award_date": "2024-10-17",
+      "cpv": "22450000-9",
+      "procedure_type": null,
+      "title": "Imprimate nefalsificabile (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:56bcab59dcd21ae0",
+      "contracting_authority_id": "o:3eec570f4e95a1f0",
+      "supplier_id": "c:4c346c846fbec080",
+      "amount": 22790.0,
+      "currency": "RON",
+      "award_date": "2025-01-22",
+      "cpv": "22450000-9",
+      "procedure_type": null,
+      "title": "Imprimate nefalsificabile (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:f3a91fe1d3632df5",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 924000.0,
+      "currency": "RON",
+      "award_date": "2023-01-26",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:32db59178ff9d981",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 300000.0,
+      "currency": "RON",
+      "award_date": "2023-02-01",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:2c39a45b8dfc37a1",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 30000.0,
+      "currency": "RON",
+      "award_date": "2023-12-29",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:a924d17d35047821",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 12759.0,
+      "currency": "RON",
+      "award_date": "2024-01-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:116014249f18b89d",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 250000.0,
+      "currency": "RON",
+      "award_date": "2024-01-23",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:afb744dbe0222059",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 275000.0,
+      "currency": "RON",
+      "award_date": "2024-06-25",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:36b22e63ed60a0ee",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 56000.0,
+      "currency": "RON",
+      "award_date": "2024-12-23",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:1b1ef1e5c35d53c0",
+      "contracting_authority_id": "o:6f3481db1e0be35c",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 28000.0,
+      "currency": "RON",
+      "award_date": "2025-01-31",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:bb9cdbda8c7ac4cb",
+      "contracting_authority_id": "o:0109a2bddaf3d35b",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 149998.0,
+      "currency": "RON",
+      "award_date": "2023-02-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:2df7fad0055bc90c",
+      "contracting_authority_id": "o:0109a2bddaf3d35b",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 30612.0,
+      "currency": "RON",
+      "award_date": "2023-02-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:b5f93655d9c8c1d6",
+      "contracting_authority_id": "o:0109a2bddaf3d35b",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 50000.0,
+      "currency": "RON",
+      "award_date": "2023-12-29",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:c31a7a9ca2d3979f",
+      "contracting_authority_id": "o:0109a2bddaf3d35b",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 8060.0,
+      "currency": "RON",
+      "award_date": "2024-12-30",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:27a34f5413cdb284",
+      "contracting_authority_id": "o:d7f4754c509c2813",
+      "supplier_id": "c:240b4b3267da1b71",
+      "amount": 663489.0,
+      "currency": "RON",
+      "award_date": "2025-02-28",
+      "cpv": "77231300-1",
+      "procedure_type": null,
+      "title": "Servicii de administrare a padurilor (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:aeb25df01030cbc3",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 663157.0,
+      "currency": "RON",
+      "award_date": "2023-10-02",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:8b34e78a14f8c1fa",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 69000.0,
+      "currency": "RON",
+      "award_date": "2023-10-02",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:5155f8b8af3cc194",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 165789.0,
+      "currency": "RON",
+      "award_date": "2023-12-14",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:34082ecdb45a3f25",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 85000.0,
+      "currency": "RON",
+      "award_date": "2024-06-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:a03243195a7f7a42",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 85000.0,
+      "currency": "RON",
+      "award_date": "2024-10-01",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:c32b328dce54d888",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 56000.0,
+      "currency": "RON",
+      "award_date": "2024-12-17",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:bfff72d27aab1c68",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 60000.0,
+      "currency": "RON",
+      "award_date": "2025-02-14",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:d076f833cf3a7bc5",
+      "contracting_authority_id": "o:10994eeff405d7e9",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 100000.0,
+      "currency": "RON",
+      "award_date": "2025-02-25",
+      "cpv": "66110000-4",
+      "procedure_type": null,
+      "title": "Servicii bancare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:175ffa4a09e43a7a",
+      "contracting_authority_id": "o:8357131241cb6c75",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 100000.0,
+      "currency": "RON",
+      "award_date": "2021-10-19",
+      "cpv": "66172000-6",
+      "procedure_type": null,
+      "title": "Servicii de gestionare a tranzactiilor financiare si servicii de case de compensare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:c9dd24efe0426551",
+      "contracting_authority_id": "o:8357131241cb6c75",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 250000.0,
+      "currency": "RON",
+      "award_date": "2021-12-31",
+      "cpv": "66172000-6",
+      "procedure_type": null,
+      "title": "Servicii de gestionare a tranzactiilor financiare si servicii de case de compensare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:f099db79c30ab741",
+      "contracting_authority_id": "o:8357131241cb6c75",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 200000.0,
+      "currency": "RON",
+      "award_date": "2022-12-30",
+      "cpv": "66172000-6",
+      "procedure_type": null,
+      "title": "Servicii de gestionare a tranzactiilor financiare si servicii de case de compensare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:77ddbe91f88f3e90",
+      "contracting_authority_id": "o:8357131241cb6c75",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 200000.0,
+      "currency": "RON",
+      "award_date": "2023-12-29",
+      "cpv": "66172000-6",
+      "procedure_type": null,
+      "title": "Servicii de gestionare a tranzactiilor financiare si servicii de case de compensare (Rev.2)"
+    },
+    {
+      "sources": [
+        {
+          "source_id": "sicap_bulk",
+          "source_url": "data.gov.ro/achizitii-publice-2025/Contracte T1 2025",
+          "fetched_at": "2026-06-03T20:23:59.572488Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "ct:5374eaabb537b726",
+      "contracting_authority_id": "o:8357131241cb6c75",
+      "supplier_id": "c:82d9643dfe7e2aa6",
+      "amount": 200000.0,
+      "currency": "RON",
+      "award_date": "2024-12-31",
+      "cpv": "66172000-6",
+      "procedure_type": null,
+      "title": "Servicii de gestionare a tranzactiilor financiare si servicii de case de compensare (Rev.2)"
+    }
+  ]
+}

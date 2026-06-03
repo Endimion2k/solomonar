@@ -68,14 +68,27 @@ def parse_contracts_rows(rows: list[dict], source: SourceRef | None = None) -> l
     out: list[Contract] = []
     for row in rows:
         r = {(k or "").strip().lower(): v for k, v in row.items()}
-        cui = _to_int(r.get("cui_castigator") or r.get("castigator_cui") or r.get("cui"))
-        amount = _to_float(r.get("valoare_ron") or r.get("valoare") or r.get("amount"))
+        # acceptă atât denumirile mele cât și pe cele REALE din XLSX-ul SICAP data.gov.ro
+        cui = _to_int(
+            r.get("cui_castigator") or r.get("castigator_cui")
+            or r.get("cui ofertant castigator") or r.get("cui")
+        )
+        amount = _to_float(
+            r.get("valoare_ron") or r.get("valoare contract (ron)")
+            or r.get("valoare") or r.get("amount")
+        )
         if not cui or amount is None:
             continue
-        authority = str(r.get("autoritate_contractanta") or r.get("autoritate") or "").strip()
-        title = str(r.get("obiect_contract") or r.get("obiect") or r.get("titlu") or "").strip()
-        cpv = str(r.get("cod_cpv") or r.get("cpv") or "").strip() or None
-        award = _to_date(r.get("data_atribuire") or r.get("data"))
+        authority = str(
+            r.get("autoritate_contractanta") or r.get("autoritate contractanta")
+            or r.get("autoritate") or ""
+        ).strip()
+        title = str(
+            r.get("obiect_contract") or r.get("denumire cpv")
+            or r.get("obiect") or r.get("titlu") or ""
+        ).strip()
+        cpv = str(r.get("cod cpv") or r.get("cod_cpv") or r.get("cpv") or "").strip() or None
+        award = _to_date(r.get("data contract") or r.get("data_atribuire") or r.get("data"))
         out.append(
             Contract(
                 romega_id=make_id("ct", authority, cui, amount, str(award or "")),
