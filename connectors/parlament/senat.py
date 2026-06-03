@@ -31,7 +31,15 @@ BASE = "https://www.senat.ro"
 LIST_URL = BASE + "/FisaSenatori.aspx"
 PROFILE_URL = BASE + "/FisaSenator.aspx?ParlamentarID={guid}"
 
-RE_PARTY = re.compile(r"Grup(?:ul)?\s+parlamentar[:\s]+(.+?)(?:\s{2,}|$)", re.IGNORECASE)
+# Grupul POLITIC: "Grupul parlamentar al [partid]" (real) sau "Grupul parlamentar: X" (fixture).
+# Exclude grupurile "de prietenie" (cerând `al`/`:` imediat după "parlamentar").
+RE_PARTY = re.compile(
+    r"Grupul\s+parlamentar\s*(?:al\s+|:\s*)(.+?)"
+    r"(?:\s+Biroul|\s+Comisii|\s+Istoric|\s+Delega|\s+Grupuri|\s{2,}|$)",
+    re.IGNORECASE,
+)
+# senat.ro pune în <title> prefixul "Senatul României - Prenume NUME".
+RE_TITLE_PREFIX = re.compile(r"^.*?Senatul\s+Rom[âa]niei\s*-\s*", re.IGNORECASE)
 
 
 class SenatSenator(BaseModel):
@@ -76,7 +84,8 @@ def parse_senator_profile(
     html: bytes | str, guid: str, leg: int = 2024, url: str | None = None
 ) -> SenatSenator:
     sel = selector(html)
-    name = fix_ro_diacritics((sel.css("title::text").get() or "").strip())
+    raw_title = (sel.css("title::text").get() or "").strip()
+    name = fix_ro_diacritics(RE_TITLE_PREFIX.sub("", raw_title).strip() or raw_title)
     text = re.sub(r"\s+", " ", " ".join(sel.css("body *::text").getall())).strip()
 
     birth_date = None
@@ -85,7 +94,7 @@ def parse_senator_profile(
 
     party = None
     if (m := RE_PARTY.search(text)) is not None:
-        party = m.group(1).strip()
+        party = fix_ro_diacritics(m.group(1).strip())
 
     return SenatSenator(
         senat_guid=guid,

@@ -79,5 +79,70 @@ def build_parlament_live(
     return summary
 
 
+def build_senat_live(
+    output_dir: str | Path = DEFAULT_OUT, leg: int = 2024, limit: int | None = None, version: str = "0.1.0"
+) -> dict:
+    """Scrape LIVE senat.ro (listă + profile) → senatori + Person + HOLDS_POSITION.
+
+    NOTĂ: senat.ro nu expune data nașterii → senatorii NU se unifică cross-cameră pe nume-only
+    (risc de fals merge omonimi). Sunt entități proprii (external_ids 'senat').
+    """
+    from connectors.parlament.senat import PROFILE_URL as SEN_URL
+    from connectors.parlament.senat import SenatConnector, parse_senator_profile
+    from connectors.parlament.senat import to_person as senat_to_person
+
+    out = Path(output_dir)
+    (out / "parlament").mkdir(parents=True, exist_ok=True)
+    conn = SenatConnector(leg=leg)
+    sens = conn.list_senators()
+    if limit:
+        sens = sens[:limit]
+
+    reg = PersonRegistry()
+    persons, senatori, edges = [], [], []
+    errors = 0
+    for s in sens:
+        url = SEN_URL.format(guid=s["guid"])
+        try:
+            content, _ = conn.client.fetch(url, "senat", ext=".html")
+            sen = parse_senator_profile(content, s["guid"], leg=leg, url=url)
+        except Exception:
+            errors += 1
+            continue
+        ref = SourceRef(source_id="senat", source_url=url, fetched_at=datetime.now(timezone.utc))
+        p = senat_to_person(sen, reg, source=ref)
+        persons.append(p)
+        senatori.append(sen)
+        edges.append(
+            Edge(
+                src=p.romega_id,
+                dst=org_id("senat"),
+                type=EdgeType.HOLDS_POSITION,
+                props={"role": "senator", "legislatura": leg},
+                sources=[ref],
+            )
+        )
+
+    export_collection(out / "parlament" / "senatori.json", senatori, source_url="senat.ro", version=version)
+    export_collection(out / "parlament" / "persoane_senat.json", persons, source_url="senat.ro", version=version)
+    (out / "parlament" / "edges_senat.json").write_text(
+        json.dumps([e.model_dump(mode="json") for e in edges], ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
+    summary = {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "senatori": len(senatori),
+        "persoane_unice": len(reg),
+        "edges": len(edges),
+        "errors": errors,
+    }
+    (out / "parlament" / "_status_senat.json").write_text(
+        json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    return summary
+
+
 if __name__ == "__main__":
-    print(build_parlament_live())
+    import sys
+
+    print(build_senat_live() if "--senat" in sys.argv else build_parlament_live())
