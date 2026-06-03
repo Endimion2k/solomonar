@@ -46,6 +46,10 @@ def _build_connector(source_id: str):
         from connectors.opendata.ins import InsConnector
 
         return InsConnector()
+    if source_id == "ccr":
+        from connectors.audit.curteadeconturi import CurteaDeConturiConnector
+
+        return CurteaDeConturiConnector()
     return None
 
 
