@@ -17,8 +17,27 @@ def test_dedup_same_content(tmp_path):
     store = BronzeStore(tmp_path)
     a = store.put("cdep", "https://cdep.ro/x", b"same", ext=".html")
     b = store.put("cdep", "https://cdep.ro/y", b"same", ext=".html")  # alt URL, același conținut
-    assert a.sha256 == b.sha256
-    assert store.count() == 1  # un singur fișier/o singură linie de manifest
+    assert a.sha256 == b.sha256          # un singur fișier fizic (dedup pe conținut)
+    assert store.count() == 2            # dar 2 URL-uri cache-uite (index pe URL)
+
+
+def test_url_cache_and_reload(tmp_path):
+    store = BronzeStore(tmp_path)
+    store.put("ani", "https://x/d.pdf", b"%PDF-1.4 data", ext=".pdf")
+    assert store.get_by_url("https://x/d.pdf") == b"%PDF-1.4 data"
+    assert store.has_url("https://x/d.pdf")
+    assert store.get_by_url("https://x/lipsa.pdf") is None
+    # altă instanță pe același root -> indexul pe URL se reconstruiește din manifest (cache persistent)
+    store2 = BronzeStore(tmp_path)
+    assert store2.get_by_url("https://x/d.pdf") == b"%PDF-1.4 data"
+    assert store2.artifact_for_url("https://x/d.pdf").source_id == "ani"
+
+
+def test_put_same_url_twice_one_entry(tmp_path):
+    store = BronzeStore(tmp_path)
+    store.put("cdep", "https://cdep.ro/x", b"v1", ext=".html")
+    store.put("cdep", "https://cdep.ro/x", b"v1", ext=".html")
+    assert store.count() == 1  # același URL -> o singură intrare
 
 
 def test_distinct_content(tmp_path):

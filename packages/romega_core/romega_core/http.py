@@ -105,13 +105,43 @@ class Client:
         kwargs.setdefault("timeout", self.timeout)
         return self.session.post(url, **kwargs)
 
-    def fetch(self, url: str, source_id: str, ext: str = "") -> tuple[bytes, BronzeArtifact | None]:
-        """GET + salvare în bronze. Întoarce (content, artefact)."""
+    def fetch(
+        self, url: str, source_id: str, ext: str = "", use_cache: bool = True
+    ) -> tuple[bytes, BronzeArtifact | None]:
+        """GET + salvare în bronze. Dacă URL-ul e deja în cache, întoarce instant (fără rețea)."""
+        if use_cache and self.bronze is not None:
+            cached = self.bronze.get_by_url(url)
+            if cached is not None:
+                return cached, self.bronze.artifact_for_url(url)
         resp = self.get(url)
         resp.raise_for_status()
         content = resp.content
         art = self.bronze.put(source_id, url, content, ext) if self.bronze else None
         return content, art
+
+    def fetch_many(
+        self, items: list[tuple], workers: int = 8, use_cache: bool = True
+    ) -> dict[str, bytes | None]:
+        """Descarcă în PARALEL [(url, source_id, ext), ...].
+
+        Throttle-ul per-host păstrează politețea pe același site; host-uri diferite rulează
+        concurent (până la `workers`). Cache-ul bronze sare peste cele deja descărcate.
+        """
+        from concurrent.futures import ThreadPoolExecutor
+
+        def _task(item: tuple) -> tuple[str, bytes | None]:
+            url, source_id, ext = (list(item) + ["", ""])[:3]
+            try:
+                content, _ = self.fetch(url, source_id, ext, use_cache=use_cache)
+                return url, content
+            except Exception:
+                return url, None
+
+        results: dict[str, bytes | None] = {}
+        with ThreadPoolExecutor(max_workers=workers) as ex:
+            for url, content in ex.map(_task, items):
+                results[url] = content
+        return results
 
 
 # Client default de modul (convenabil pentru scripturi simple).
