@@ -9,6 +9,19 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
 
 ## Poziția curentă
 
+> **🟢 DATE REALE DESCĂRCATE (2026-06-03):** după auditul "ai descărcat ce trebuia?", am trecut
+> de la noduri-config la **date reale**, pe rând:
+> 1. **AMEPIP** — 146 companii de stat centrale (PDF real parsat) + îmbogățite live ANAF (120 active)
+> 2. **SICAP** — 29.921 contracte reale (XLSX live, 118,49 mld RON T1 2025); 6 SOE câștigătoare
+> 3. **ONRC dump** — 2.482 firme (din 4.036.882 scanate streaming din OD_FIRME 650MB) cu reg_com/județ
+> 4. **Ministere** — 15/16 scrapuite live (conducere + secțiuni declarații + 19 linkuri PDF)
+> 5. **Declarații** — 3 declarații reale parsate de pe site-uri de minister (FĂRĂ CAPTCHA, Legea 176/2010)
+> + plus anterior: 335 deputați, 134 senatori, 11.700 organizații ANI.
+> + **Eficiență:** descărcare paralelă (fetch_many) + cache bronze pe URL (verificat 1082× pe cache hit).
+>
+> **Rămâne pe CAPTCHA-solver:** portalul central ANI (Turnstile) + AEP (reCAPTCHA) — declarațiile
+> se pot lua deja per-instituție (fără CAPTCHA); acționariat % = plătit (D7). 102 teste verzi.
+
 > **SUMAR (2026-06-03, sesiuni autonome):** Faze 0–6 + coverage · **98 teste verzi** · 22
 > commit-uri pe `Endimion2k/romega` (PUBLIC) · **API STATIC LIVE** pe GitHub Pages.
 > Validat LIVE din RO: cdep.ro, senat.ro, ANAF v9, data.gov.ro, BNR, INS, SICAP, Curtea de Conturi, DNA, ANI portal.
