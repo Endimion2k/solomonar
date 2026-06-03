@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from connectors.companii.amepip import parse_master_list
+from connectors.companii.amepip import parse_amepip_rows, parse_master_list
 from romega_core.models import Company
 
 CSV = (
@@ -20,3 +20,18 @@ def test_parse_master_list():
     romgaz = next(c for c in companies if c.cui == 14056826)
     assert romgaz.tutelary_authority == "Ministerul Energiei"
     assert romgaz.romega_id == Company.id_for_cui(14056826)
+
+
+def test_parse_amepip_rows():
+    rows = [
+        ["Nr. Crt.", "CUI IP", "DENUMIRE ÎNTREPRINDERE PUBLICĂ", "DENUMIRE APT"],
+        ["1", "14056826", "SOCIETATEA NATIONALA DE GAZE NATURALE ROMGAZ SA", "MINISTERUL ENERGIEI"],
+        ["2", "10874881", "NUCLEARELECTRICA SA", "MINISTERUL ENERGIEI"],
+        ["3", "", "rand invalid", ""],            # fără CUI — ignorat
+        ["Nr. Crt.", "CUI IP", "DENUMIRE", "DENUMIRE APT"],  # header repetat (alt pagină) — ignorat
+    ]
+    cs = parse_amepip_rows(rows)
+    assert len(cs) == 2
+    assert all(c.is_soe for c in cs)
+    romgaz = next(c for c in cs if c.cui == 14056826)
+    assert romgaz.tutelary_authority == "MINISTERUL ENERGIEI"

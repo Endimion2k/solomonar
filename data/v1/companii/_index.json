@@ -1,112 +1,3219 @@
 {
   "meta": {
-    "generated_at": "2026-06-01T15:26:21.865429Z",
-    "source_url": "AMEPIP seed + ANAF",
+    "generated_at": "2026-06-03T20:20:25.280679Z",
+    "source_url": "AMEPIP Anexa 1 + ANAF (live)",
     "scraper_version": "0.1.0",
-    "count": 7
+    "count": 146
   },
   "data": [
     {
-      "sources": [],
-      "romega_id": "c:44fe0d721200c5d2",
-      "cui": 14056826,
-      "name": "S.N.G.N. Romgaz S.A.",
-      "reg_com": "J2001000392326",
-      "caen": "620",
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:7dbd8b374c595586",
+      "cui": 18856244,
+      "name": "EXPLOATARE SISTEM ZONAL PRAHOVA SA",
+      "reg_com": "J2006001547290",
+      "caen": "3600",
       "status": "active",
       "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "ADMINISTRATIA NATIONALA APELE ROMANE",
       "legal_reps": [],
       "shareholders": [],
       "financials": []
     },
     {
-      "sources": [],
-      "romega_id": "c:1ab9fb21a6e8c014",
-      "cui": 13267213,
-      "name": "S.P.E.E.H. Hidroelectrica S.A.",
-      "reg_com": "J2000007426409",
-      "caen": "3512",
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:5cc613c1dbb41a44",
+      "cui": 496401,
+      "name": "AGROPRODCOM LAZAREA SA",
+      "reg_com": "J19/540/1991",
+      "caen": "141",
       "status": "active",
       "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "AGENTIA DOMENIILOR STATULUI",
       "legal_reps": [],
       "shareholders": [],
       "financials": []
     },
     {
-      "sources": [],
-      "romega_id": "c:f74a061c67d56d5f",
-      "cui": 10874881,
-      "name": "S.N. Nuclearelectrica S.A.",
-      "reg_com": "J1998007403409",
-      "caen": "3511",
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:de265df8b4c5dfdf",
+      "cui": 524277,
+      "name": "AGROPRODCOM ODORHEIU SECUIESC SA",
+      "reg_com": "J19/312/1991",
+      "caen": "162",
       "status": "active",
       "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "AGENTIA DOMENIILOR STATULUI",
       "legal_reps": [],
       "shareholders": [],
       "financials": []
     },
     {
-      "sources": [],
-      "romega_id": "c:a7a5bf2c1e97805d",
-      "cui": 13068733,
-      "name": "S.N.T.G.N. Transgaz S.A.",
-      "reg_com": "J32/301/2000",
-      "caen": "4950",
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:f2e74641e8ace730",
+      "cui": 360557,
+      "name": "EUROTEST SA",
+      "reg_com": "J1992020978405",
+      "caen": "7210",
       "status": "active",
       "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
       "legal_reps": [],
       "shareholders": [],
       "financials": []
     },
     {
-      "sources": [],
-      "romega_id": "c:21d9c900fe33da2c",
-      "cui": 13328043,
-      "name": "C.N.T.E.E. Transelectrica S.A.",
-      "reg_com": "J2000008060404",
-      "caen": "3513",
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:10d970a0047a8214",
+      "cui": 16695222,
+      "name": "RADIOACTIV MINERAL MAGURELE SA",
+      "reg_com": "J23/1258/2004",
+      "caen": "990",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:5d54171fbde3a662",
+      "cui": 1074251,
+      "name": "AGROMEC MOLDOVA NOUA SA",
+      "reg_com": "J11/253/1991",
+      "caen": "161",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:7d0c963a119a3cf9",
+      "cui": 1384767,
+      "name": "COMALEX SA",
+      "reg_com": "J1991000017349",
+      "caen": "6820",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:d6233a7e9bc232db",
+      "cui": 1973568,
+      "name": "RECONS SA",
+      "reg_com": "J1991000378226",
+      "caen": "4334",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:5b71e6f07f092adc",
+      "cui": 8359779,
+      "name": "SOCIETATEA DE STRATEGIE PENTRU PIATA DE GROS SRL",
+      "reg_com": "J1996002749405",
+      "caen": "7320",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:52e77a0211d0cb35",
+      "cui": 11369861,
+      "name": "ARCADIA 2000 SA",
+      "reg_com": "J1999000143404",
+      "caen": "4761",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:434439ba78c25b6f",
+      "cui": 31029694,
+      "name": "ACTIVE CONEXE S.A.",
+      "reg_com": "J2013010843400",
+      "caen": "6812",
       "status": "unknown",
       "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
       "legal_reps": [],
       "shareholders": [],
       "financials": []
     },
     {
-      "sources": [],
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:164266096171759e",
+      "cui": 361358,
+      "name": "SC CRIZANTEMA COM SA",
+      "reg_com": "J40/10078/1991",
+      "caen": "6820",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:4b42d17ef89e0f90",
+      "cui": 42790517,
+      "name": "BLUE AIR TECHNIC SRL",
+      "reg_com": "J2020008215408",
+      "caen": "3316",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:109562848574e231",
+      "cui": 7638244,
+      "name": "SC AGROMEC ICLOD SA",
+      "reg_com": "J12/1591/1995",
+      "caen": "161",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:d2599bb59c274baa",
+      "cui": 1960487,
+      "name": "TRIMEC SA",
+      "reg_com": "J22/300/1991",
+      "caen": "4120",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:463f0a061d7f6efe",
+      "cui": 1558430,
+      "name": "COMPANIA DE EXPLOATARE A VAGOANELOR RESTAURANT BAR DE DORMIT SI CUSETA VARORED SA",
+      "reg_com": "J40/16273/1991",
+      "caen": "7020",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:43d0fd72d4ddad04",
+      "cui": 427282,
+      "name": "MONITORUL OFICIAL RA",
+      "reg_com": "J1991003862407",
+      "caen": "5812",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "CAMERA DEPUTATILOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:1db8015cb6b35fd2",
+      "cui": 1923799,
+      "name": "PISCICOLA SA",
+      "reg_com": "J1991000055510",
+      "caen": "322",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:32e31016942c0494",
+      "cui": 40379770,
+      "name": "SOCIETATEA NAŢIONALĂ CASA ROMÂNĂ DE COMERŢ AGROALIMENTAR UNIREA S.A.",
+      "reg_com": "J2019000123406",
+      "caen": "4617",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:34e4a97ade90bf53",
+      "cui": 28980435,
+      "name": "RO-ARMYCATERING SA",
+      "reg_com": "J40/9764/2011",
+      "caen": "5610",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL APARARII NATIONALE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:a045676410cb4480",
+      "cui": 29136150,
+      "name": "RO-ARMYSECURITY SA",
+      "reg_com": "J2011011387402",
+      "caen": "8001",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL APARARII NATIONALE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:4129839980c18ca9",
+      "cui": 472771,
+      "name": "COMPANIA NATIONALA ROMTEHNICA SA",
+      "reg_com": "J2001007550408",
+      "caen": "4614",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL APARARII NATIONALE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ff4818854e141363",
+      "cui": 427410,
+      "name": "COMPANIA NATIONALA POSTA ROMANA SA",
+      "reg_com": "J40/8636/1998",
+      "caen": "5310",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:767785ff98297dcf",
+      "cui": 4282451,
+      "name": "INSTITUTUL DE CERCETARI IN TRANSPORTURI INCERTRANS SA",
+      "reg_com": "J1993017093400",
+      "caen": "7210",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:bc544889e99c2474",
+      "cui": 10881986,
+      "name": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+      "reg_com": "J1998007677402",
+      "caen": "6110",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:3d46ef298f532f05",
+      "cui": 16184414,
+      "name": "ROMFILATELIA SA",
+      "reg_com": "J2004003048409",
+      "caen": "5819",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:c2f24d695424a88c",
+      "cui": 338819,
+      "name": "SOCIETATEA COMERCIALA STUDIOUL CINEMATOGRAFIC ANIMAFILM SA",
+      "reg_com": "J40/12353/1991",
+      "caen": "5911",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL CULTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b64ce34dfd3871d7",
+      "cui": 14273221,
+      "name": "COMPANIA NATIONALA DE INVESTITII \"C.N.I.\" SA",
+      "reg_com": "J2001009235400",
+      "caen": "6812",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:30aa3b8d8bdbf7cd",
+      "cui": 15619634,
+      "name": "SOCIETATEA DE TRATAMENT BALNEAR SI RECUPERARE A CAPACITATII DE MUNCA T.B.R.C.M. SA",
+      "reg_com": "J2003010090403",
+      "caen": "5510",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b3c57e18c5deec0b",
+      "cui": 340312,
+      "name": "IOR SA",
+      "reg_com": "J1991002827407",
+      "caen": "2670",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:91eb98017aae2a64",
+      "cui": 457747,
+      "name": "IPROCHIM SA",
+      "reg_com": "J1991006485401",
+      "caen": "7112",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:c18f6a9b66545592",
+      "cui": 459853,
+      "name": "INSTITUTUL DE CERCETARI METALURGICE SA",
+      "reg_com": "J40/583/1991",
+      "caen": "7219",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:0eb0a57ba3559640",
+      "cui": 938970,
+      "name": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
+      "reg_com": "J2001000022157",
+      "caen": "3040",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:efc8ab0f6f1fa334",
+      "cui": 1132930,
+      "name": "IAR SA",
+      "reg_com": "J1991000004086",
+      "caen": "3032",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:3683c769c5308775",
+      "cui": 1590040,
+      "name": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
+      "reg_com": "J1998002182408",
+      "caen": "899",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:c2a2116feaed42ca",
+      "cui": 1590430,
+      "name": "SOCIETATEA NATIONALA A SARII SA",
+      "reg_com": "J2010004607408",
+      "caen": "893",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:343e7f5aa50b7603",
+      "cui": 1769224,
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
+      "reg_com": "J1999000040017",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ed8da7d85f8673db",
+      "cui": 1890659,
+      "name": "MAMAIA SA",
+      "reg_com": "J13/672/1991",
+      "caen": "5520",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:9b41f90d0091a28b",
+      "cui": 2117946,
+      "name": "COMPANIA NATIONALA A CUPRULUI AURULUI SI FIERULUI 'MINVEST' SA",
+      "reg_com": "J1999000333203",
+      "caen": "729",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:d44c39bde87e1830",
+      "cui": 2326144,
+      "name": "AVIOANE CRAIOVA SA",
+      "reg_com": "J1991001214169",
+      "caen": "3032",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:68ac5092a93a8089",
+      "cui": 2413593,
+      "name": "SANTIERUL NAVAL 2 MAI SA",
+      "reg_com": "J1991000759139",
+      "caen": "8299",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:a501a935a150efdf",
+      "cui": 2423562,
+      "name": "NEPTUN-OLIMP SA",
+      "reg_com": "J13/517/1991",
+      "caen": "5510",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ba1ce229a2e15982",
+      "cui": 2978636,
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A. FILIALA SOCIETATEA UZINA MECANICĂ MIJA S.A.",
+      "reg_com": "J2001000330159",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:d5a7bf73a00798da",
+      "cui": 3180070,
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A.-FILIALA SOCIETATEA UZINA DE PRODUSE SPECIALE DRAGOMIREŞTI S.A.",
+      "reg_com": "J2001000344154",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:dd34940f6b5beb3a",
+      "cui": 4330648,
+      "name": "COMPANIA NATIONALA A CUPRULUI,AURULUI SI FIERULUI \"MINVEST\" DEVA FILIALA \"ROSIAMIN\" ROSIA MONTANA SA",
+      "reg_com": "J2001000468016",
+      "caen": "729",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:6e63327e725c83ee",
+      "cui": 11551757,
+      "name": "CUPRU MIN SA ABRUD",
+      "reg_com": "J1999000064013",
+      "caen": "729",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:aad7acd071f6294e",
+      "cui": 11945506,
+      "name": "SOCIETATEA NATIONALA PLAFAR SA",
+      "reg_com": "J1999005889406",
+      "caen": "1083",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:72817acfbe09208e",
+      "cui": 12397185,
+      "name": "COMPANIA NATIONALA \"LOTERIA ROMANA\" SA",
+      "reg_com": "J1999009689408",
+      "caen": "9200",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:cc9aa28d448f0ddc",
+      "cui": 13554423,
+      "name": "COMPANIA NATIONALA ROMARM SA",
+      "reg_com": "J2000010841404",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:54213411fb419816",
+      "cui": 13652413,
+      "name": "SOCIETATEA ”TOHAN” S.A. FILIALĂ A COMPANIEI NAŢIONALE ”ROMARM” S.A.",
+      "reg_com": "J2001000049088",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:2cba7311544dac1d",
+      "cui": 13741804,
+      "name": "UZINA MECANICA PLOPENI SA",
+      "reg_com": "J2001000162297",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:65313d6a89e94dec",
+      "cui": 13945863,
+      "name": "COMPANIA NATIONALA ROMARM SA BUCURESTI FILIALA SOCIETATEA CARFIL S.A.",
+      "reg_com": "J2001000596085",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:e6e241439d1d5bdd",
+      "cui": 14271549,
+      "name": "COMPANIA NATIONALA A CUPRULUI AURULUI SI FIERULUI MINVEST SA DEVA FILIALA CERTEJ SA",
+      "reg_com": "J2001000763205",
+      "caen": "729",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:e9c556791960a792",
+      "cui": 14322197,
+      "name": "SOCIETATEA BĂIŢA S.A.",
+      "reg_com": "J05/893/2001",
+      "caen": "729",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:9a48be4ca89e2b66",
+      "cui": 14325290,
+      "name": "ŞANTIERUL NAVAL MANGALIA SA",
+      "reg_com": "J2001002056134",
+      "caen": "3315",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:992ab7cd24c0de33",
+      "cui": 14361269,
+      "name": "ELECTROMECANICA PLOIESTI SA",
+      "reg_com": "J2001001154299",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:70b1d410494a9828",
+      "cui": 14366231,
+      "name": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
+      "reg_com": "J2001000377116",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:49d19ac8db3f485f",
+      "cui": 14373832,
+      "name": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
+      "reg_com": "J2001000330182",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:484e74d894bd6e7e",
+      "cui": 14423850,
+      "name": "COMPANIA NATIONALA \"ROMARM\" FILIALA UZINA MECANICA BUCURESTI SA",
+      "reg_com": "J2002000591407",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:acb672a9e2b43d36",
+      "cui": 14469423,
+      "name": "PIROCHIM VICTORIA SA",
+      "reg_com": "J2002000183088",
+      "caen": "2059",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:056da5002e8e14c2",
+      "cui": 14531223,
+      "name": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+      "reg_com": "J2002000334086",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:67c7f3b7af88e438",
+      "cui": 14923006,
+      "name": "CONVERSMIN SA",
+      "reg_com": "J40/9811/2002",
+      "caen": "990",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:a16525bffa9124b6",
+      "cui": 15551423,
+      "name": "TELEGONDOLA-MAMAIA SRL",
+      "reg_com": "J13/2028/2003",
+      "caen": "5110",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:bd657fca66579be0",
+      "cui": 15657042,
+      "name": "UZINA MECANICA ORASTIE SA",
+      "reg_com": "J2003000918209",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:6c432cca0be5d813",
+      "cui": 16368506,
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA FABRICA DE ARME CUGIR S.A.",
+      "reg_com": "J2004000435013",
+      "caen": "2530",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:4465094f178afe65",
+      "cui": 21727401,
+      "name": "FABRICA DE PULBERI SA",
+      "reg_com": "J08/1304/2007",
+      "caen": "2051",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ac719f8491316a8e",
+      "cui": 24979799,
+      "name": "CENTRUL NAȚIONAL DE ÎNVĂȚĂMÂNT TURISTIC S.A.",
+      "reg_com": "J40/696/2009",
+      "caen": "8559",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:5529297e4ded5afb",
+      "cui": 32387844,
+      "name": "MINVEST ROŞIA MONTANĂ S.A.",
+      "reg_com": "J20/974/2013",
+      "caen": "990",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b39e077f6e84203b",
+      "cui": 1589983,
+      "name": "EDITURA DIDACTICĂ ŞI PEDAGOGICĂ S.A.",
+      "reg_com": "J2018011655407",
+      "caen": "5811",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL EDUCATIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
       "romega_id": "c:ff73ad20ef77a009",
       "cui": 1350020,
-      "name": "Conpet S.A.",
+      "name": "CONPET SA",
       "reg_com": "J1991000006291",
       "caen": "4950",
       "status": "active",
       "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "MINISTERUL ENERGIEI",
       "legal_reps": [],
       "shareholders": [],
       "financials": []
     },
     {
-      "sources": [],
-      "romega_id": "c:d85e447320de6b77",
-      "cui": 1914163,
-      "name": "Oil Terminal S.A.",
-      "reg_com": null,
-      "caen": null,
-      "status": "unknown",
-      "vat_payer": null,
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b3e4b092c511e76f",
+      "cui": 2410163,
+      "name": "OIL TERMINAL SA",
+      "reg_com": "J1991000512136",
+      "caen": "5224",
+      "status": "active",
+      "vat_payer": true,
       "is_soe": true,
-      "tutelary_authority": "Ministerul Energiei",
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b05782975a05a7c8",
+      "cui": 3730549,
+      "name": "INSTITUTUL DE CERCETARE STIINTIFICA, INGINERIE TEHNOLOGICA SI PROIECTARE MINE PE LIGNIT SA",
+      "reg_com": "J16/3261/1992",
+      "caen": "7112",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:f74a061c67d56d5f",
+      "cui": 10874881,
+      "name": "SOCIETATEA NATIONALA \"NUCLEARELECTRICA\" SA",
+      "reg_com": "J1998007403409",
+      "caen": "3511",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:1ab9fb21a6e8c014",
+      "cui": 13267213,
+      "name": "SOCIETATEA DE PRODUCERE A ENERGIEI ELECTRICE IN HIDROCENTRALE \" HIDROELECTRICA\" S.A.",
+      "reg_com": "J2000007426409",
+      "caen": "3512",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:44fe0d721200c5d2",
+      "cui": 14056826,
+      "name": "SOCIETATEA NATIONALA DE GAZE NATURALE \" ROMGAZ \" SA",
+      "reg_com": "J2001000392326",
+      "caen": "620",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:2c220f8883ba443f",
+      "cui": 14325363,
+      "name": "MIDIA GREEN ENERGY SA",
+      "reg_com": "J13/2072/2001",
+      "caen": "3512",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:4805311e44f6a389",
+      "cui": 14814475,
+      "name": "MEDSERV MIN SA",
+      "reg_com": "J2002000299187",
+      "caen": "8696",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:25c7f95f6a5717bc",
+      "cui": 14814483,
+      "name": "MINPREST SERV SA",
+      "reg_com": "J2002000298186",
+      "caen": "8425",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:4ab63ce1dd2cfd75",
+      "cui": 15189596,
+      "name": "ELECTROCENTRALE BUCURESTI SA",
+      "reg_com": "J40/1696/2003",
+      "caen": "3511",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:6263f6118a185db0",
+      "cui": 25344972,
+      "name": "ENERGONUCLEAR SA",
+      "reg_com": "J2009003999409",
+      "caen": "7112",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:774baba8ae5920cf",
+      "cui": 27787860,
+      "name": "COMPANIA NAŢIONALĂ PENTRU CONTROLUL CAZANELOR, INSTALAŢIILOR DE RIDICAT ŞI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
+      "reg_com": "J2010011976405",
+      "caen": "7120",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:159b47bbe701de83",
+      "cui": 30267310,
+      "name": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+      "reg_com": "J2012000311183",
+      "caen": "3511",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:aa17f03e22527e90",
+      "cui": 30859649,
+      "name": "SOCIETATEA COMPLEXUL ENERGETIC VALEA JIULUI S.A.",
+      "reg_com": "J2012000999208",
+      "caen": "3511",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:7b42b806581b5ec8",
+      "cui": 31028788,
+      "name": "ELECTROCENTRALE GRUP S.A.",
+      "reg_com": "J2012014937407",
+      "caen": "3512",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:6e8181e8800befab",
+      "cui": 32306920,
+      "name": "REGIA AUTONOMĂ TEHNOLOGII PENTRU ENERGIA NUCLEARĂ - RATEN",
+      "reg_com": "J2013001315033",
+      "caen": "7210",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:d1f844fb386d2990",
+      "cui": 33134190,
+      "name": "SOCIETATEA DE ADMINISTRARE A PARTICIPAŢIILOR ÎN ENERGIE S.A.",
+      "reg_com": "J2014005394406",
+      "caen": "3512",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:6c179803b6749beb",
+      "cui": 34915261,
+      "name": "SNGN \"ROMGAZ\" SA-FILIALA DE ÎNMAGAZINARE GAZE NATURALE DEPOGAZ PLOIEŞTI SRL",
+      "reg_com": "J2015001181294",
+      "caen": "910",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:dc5b436c7cdc74f4",
+      "cui": 40817209,
+      "name": "TITAN POWER S.A.",
+      "reg_com": "J2019003730403",
+      "caen": "3511",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:9934e8a2e0041788",
+      "cui": 44958790,
+      "name": "FABRICA DE PRELUCRARE A CONCENTRATELOR DE URANIU – FELDIOARA S.R.L.",
+      "reg_com": "J2021002729087",
+      "caen": "2446",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:960b908571297a00",
+      "cui": 45374854,
+      "name": "NUCLEARELECTRICA SERV S.R.L.",
+      "reg_com": "J2021004108136",
+      "caen": "3312",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:72b99793e9e5e12a",
+      "cui": 46943133,
+      "name": "SOCIETATEA ELECTROCENTRALE CRAIOVA SA",
+      "reg_com": "J2022002750161",
+      "caen": "3511",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:7c477203ef974516",
+      "cui": 48790613,
+      "name": "CCGT POWER ISALNITA SA",
+      "reg_com": "J2023001930161",
+      "caen": "3511",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ad41036f30ac4960",
+      "cui": 50346389,
+      "name": "TRANSPORT ROMANIA HIDROGEN S.R.L.",
+      "reg_com": "J40/13502/2024",
+      "caen": "4950",
+      "status": "unknown",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:caff7b9eb955bd8f",
+      "cui": 49594720,
+      "name": "UZINA DE CONSTRUCTII MASINI HIDROENERGETICE S.R.L.",
+      "reg_com": "J11/97/2024",
+      "caen": "2811",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:69367ae8d30c5046",
+      "cui": 32097794,
+      "name": "SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
+      "reg_com": "J2013009762408",
+      "caen": "3312",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL ENERGIEI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:c0b6f6e1bee1e813",
+      "cui": 1573170,
+      "name": "BIROUL DE TURISM PENTRU TINERET (B.T.T.) SA",
+      "reg_com": "J1991002008408",
+      "caen": "5510",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:0d14e4af251c2cdb",
+      "cui": 4475150,
+      "name": "B.T.T.PERLA COSTINESTIULUI SA",
+      "reg_com": "J1993003570135",
+      "caen": "6820",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:4c346c846fbec080",
+      "cui": 2779625,
+      "name": "COMPANIA NATIONALA \"IMPRIMERIA NATIONALA\" SA",
+      "reg_com": "J2000011925408",
+      "caen": "1812",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ade6909b891651b2",
+      "cui": 14367083,
+      "name": "FONDUL NATIONAL DE GARANTARE A CREDITELOR PENTRU INTREPRINDERILE MICI SI MIJLOCII SA - IFN",
+      "reg_com": "J2001010581406",
+      "caen": "6492",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:c07cbf8ccfc94a73",
+      "cui": 18265884,
+      "name": "FONDUL LOCAL DE GARANTARE FOCŞANI IFN SA-FILIALA FNGCIMM",
+      "reg_com": "J2006000004398",
+      "caen": "6492",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:8d7001a470244648",
+      "cui": 25252500,
+      "name": "COMPANIA DE ASIGURARI-REASIGURARI EXIM ROMANIA (CARE-ROMANIA) SA",
+      "reg_com": "J2009003151409",
+      "caen": "6512",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:34112f97a6016177",
+      "cui": 361560,
+      "name": "EXIM BANCA ROMÂNEASCĂ S.A",
+      "reg_com": "J1992008799402",
+      "caen": "6419",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:31dba76dd8d0825e",
+      "cui": 26308846,
+      "name": "FONDUL ROMÂN DE CONTRAGARANTARE SA",
+      "reg_com": "J2010000703401",
+      "caen": "6499",
+      "status": "unknown",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:cc92ccc368a28363",
+      "cui": 5439903,
+      "name": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+      "reg_com": "J1994003050409",
+      "caen": "6492",
+      "status": "active",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:67312d7f52e6fc07",
+      "cui": 49176892,
+      "name": "BANCA DE INVESTITII SI DEZVOLTARE SA",
+      "reg_com": "J2023022379408",
+      "caen": "6419",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:82d9643dfe7e2aa6",
+      "cui": 361897,
+      "name": "CEC BANK SA",
+      "reg_com": "J1997000155405",
+      "caen": "6419",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL FINANTELOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:240b4b3267da1b71",
+      "cui": 1590120,
+      "name": "REGIA NATIONALA A PADURILOR ROMSILVA RA",
+      "reg_com": "J1991000450407",
+      "caen": "210",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL MEDIULUI, APELOR SI PADURILOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:02d42309964ed140",
+      "cui": 11672708,
+      "name": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
+      "reg_com": "J1999003661402",
+      "caen": "7499",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL MEDIULUI, APELOR SI PADURILOR",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:77b5c152dfda9c20",
+      "cui": 1973096,
+      "name": "ANTIBIOTICE SA",
+      "reg_com": "J1991000285223",
+      "caen": "2110",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL SANATATII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:cdf63969c0b48921",
+      "cui": 11653560,
+      "name": "COMPANIA NATIONALA UNIFARM SA",
+      "reg_com": "J1999002908405",
+      "caen": "4646",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL SANATATII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:f9c457e703a193c4",
+      "cui": 477647,
+      "name": "COMPANIA NATIONALA DE TRANSPORTURI AERIENE ROMANE TAROM SA",
+      "reg_com": "J2003001298234",
+      "caen": "5110",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:8d99f0ad1e440443",
+      "cui": 1284717,
+      "name": "COMPANIA NATIONALA ADMINISTRATIA PORTURILOR DUNARII FLUVIALE SA",
+      "reg_com": "J1998000252527",
+      "caen": "5222",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b546633f09e4383e",
+      "cui": 1589932,
+      "name": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA",
+      "reg_com": "J1991001012402",
+      "caen": "5223",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:5ca90a4ffebd1bac",
+      "cui": 1590236,
+      "name": "REGISTRUL AUTO ROMAN RA",
+      "reg_com": "J1992005191405",
+      "caen": "7120",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:bc40d401f2a9e01d",
+      "cui": 1644670,
+      "name": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
+      "reg_com": "J1991010031177",
+      "caen": "5222",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:9d264262b23b8cb9",
+      "cui": 5205651,
+      "name": "AUTORITATEA AERONAUTICA CIVILA ROMANA RA",
+      "reg_com": "J2003009079408",
+      "caen": "5223",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:0210dfa2169b75e2",
+      "cui": 9825567,
+      "name": "ROFERSPED SA",
+      "reg_com": "J1997007568400",
+      "caen": "5231",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:75e0a7ea1d5fbe44",
+      "cui": 11054529,
+      "name": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
+      "reg_com": "J1998009774402",
+      "caen": "5221",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:29a67f9cbbf0a1e8",
+      "cui": 11054537,
+      "name": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
+      "reg_com": "J1998009775403",
+      "caen": "4920",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:0d3b77731455d5e6",
+      "cui": 11054545,
+      "name": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE CALATORI - CFR - CALATORI SA",
+      "reg_com": "J1998009764401",
+      "caen": "4911",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:71a97c631d432f20",
+      "cui": 11059950,
+      "name": "SOCIETATEA DE ADMINISTRARE ACTIVE FEROVIARE \"S.A.A.F.\" SA",
+      "reg_com": "J40/9846/1998",
+      "caen": "5221",
+      "status": "inactive",
+      "vat_payer": false,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ba1df5c6d05d3b67",
+      "cui": 11062831,
+      "name": "COMPANIA NAŢIONALĂ \"ADMINISTRAŢIA PORTURILOR MARITIME\" - S.A.CONSTANŢA",
+      "reg_com": "J1998002308138",
+      "caen": "5222",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:eccb7289ca89a3fd",
+      "cui": 11087755,
+      "name": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA CANALELOR NAVIGABILE SA",
+      "reg_com": "J1998002361137",
+      "caen": "5222",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:ecdd329d003b0f12",
+      "cui": 11178217,
+      "name": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
+      "reg_com": "J35/1183/1998",
+      "caen": "5223",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:b168dbe88a0430c9",
+      "cui": 11212645,
+      "name": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL MIHAIL KOGĂLNICEANU-CONSTANŢA\" SA",
+      "reg_com": "J13/2498/1998",
+      "caen": "5223",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:faee3f330a86cf0b",
+      "cui": 11776466,
+      "name": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA PORTURILOR DUNĂRII MARITIME SA",
+      "reg_com": "J17/905/1998",
+      "caen": "5222",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:a04ac135ff005bfa",
+      "cui": 13863739,
+      "name": "METROREX SA",
+      "reg_com": "J1999006880408",
+      "caen": "4912",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:25618ff7a519fa77",
+      "cui": 14257595,
+      "name": "SOCIETATEA DE REPARATII LOCOMOTIVE C.F.R.- S.C.R.L. BRASOV S.A.",
+      "reg_com": "J2001001079082",
+      "caen": "3317",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:391a00cd9a77b770",
+      "cui": 14547106,
+      "name": "SOCIETATEA TIPOGRAFICĂ FILARET S.A.",
+      "reg_com": "J40/2564/2002",
+      "caen": "1812",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:6c5c45480b72d1b1",
+      "cui": 14893410,
+      "name": "Grup Exploatare si Intretinere Palat C.F.R. SA",
+      "reg_com": "J2002009333400",
+      "caen": "6832",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:f67f3460eb17b482",
+      "cui": 14966210,
+      "name": "INFORMATICA FEROVIARA SA",
+      "reg_com": "J2002010636408",
+      "caen": "6210",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:fed44e1d51a42002",
+      "cui": 15034095,
+      "name": "Telecomunicatii C.F.R. SA",
+      "reg_com": "J2002011983404",
+      "caen": "6110",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:cb0357bd2f33fbaa",
+      "cui": 16054368,
+      "name": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+      "reg_com": "J2004000552406",
+      "caen": "8413",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:9d1f17a76e25d6fa",
+      "cui": 16828396,
+      "name": "Electrificare C.F.R. SA",
+      "reg_com": "J2004016205408",
+      "caen": "3515",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:0124655efc50c55b",
+      "cui": 26490194,
+      "name": "COMPANIA NATIONALA \"AEROPORTURI BUCURESTI\" SA",
+      "reg_com": "J2010000401237",
+      "caen": "5223",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:f5b51bf6a846a605",
+      "cui": 36727850,
+      "name": "COMPANIA NAŢIONALĂ DE INVESTIŢII RUTIERE S.A.",
+      "reg_com": "J2016014842406",
+      "caen": "8413",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:130e1c63e16d6d2b",
+      "cui": 39669478,
+      "name": "REGIA AUTONOMĂ ADMINISTRAȚIA CANALULUI NAVIGABIL BEGA TIMIȘ R.A.",
+      "reg_com": "J35/2553/2018",
+      "caen": "5222",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:7a0821995114b08f",
+      "cui": 14300920,
+      "name": "SOCIETATEA INTRETINERE SI REPARATII LOCOMOTIVE SI UTILAJE - C.F.R. IRLU S.A.",
+      "reg_com": "J40/9679/2001",
+      "caen": "3317",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:a7a5bf2c1e97805d",
+      "cui": 13068733,
+      "name": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+      "reg_com": "J32/301/2000",
+      "caen": "4950",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:643830683d0c1823",
+      "cui": 13278352,
+      "name": "OPERATORUL PIEŢEI DE ENERGIE ELECTRICĂ ŞI DE GAZE NATURALE \"OPCOM\" S.A.",
+      "reg_com": "J2000007542408",
+      "caen": "6611",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:21d9c900fe33da2c",
+      "cui": 13328043,
+      "name": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "reg_com": "J2000008060404",
+      "caen": "3513",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:3922174a4c9cfab6",
+      "cui": 14232728,
+      "name": "SOCIETATEA PENTRU SERVICII DE MENTENANTA A RETELEI ELECTRICE DE TRANSPORT \"SMART\" S.A.",
+      "reg_com": "J2001008613409",
+      "caen": "3314",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:dca3ac885a0ecfa4",
+      "cui": 14529126,
+      "name": "FORMENERG - S.A.",
+      "reg_com": "J40/2265/2002",
+      "caen": "8559",
+      "status": "unknown",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:612b77b5ef267bc7",
+      "cui": 15061510,
+      "name": "SOCIETATEA PENTRU SERVICII DE TELECOMUNICAŢII ŞI TEHNOLOGIA INFORMAŢIEI ÎN REŢELE ELECTRICE DE TRANSPORT\"TELETRANS\" S.A.",
+      "reg_com": "J2002012511402",
+      "caen": "6290",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:e486730d6f6fa392",
+      "cui": 2351555,
+      "name": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+      "reg_com": "J1991000234407",
+      "caen": "1812",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SECRETARIATUL GENERAL AL GUVERNULUI",
+      "legal_reps": [],
+      "shareholders": [],
+      "financials": []
+    },
+    {
+      "sources": [
+        {
+          "source_id": "amepip",
+          "source_url": "https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf",
+          "fetched_at": "2026-06-03T20:20:13.050588Z",
+          "bronze_sha256": null
+        }
+      ],
+      "romega_id": "c:03891d60e0616a80",
+      "cui": 7061781,
+      "name": "RASIROM RA",
+      "reg_com": "J1995001011405",
+      "caen": "6220",
+      "status": "active",
+      "vat_payer": true,
+      "is_soe": true,
+      "tutelary_authority": "SERVICIUL ROMAN DE INFORMATII",
       "legal_reps": [],
       "shareholders": [],
       "financials": []

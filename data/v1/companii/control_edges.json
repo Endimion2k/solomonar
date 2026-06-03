@@ -1,0 +1,1316 @@
+[
+  {
+    "src": "o:8e1b3429c6e2d5b9",
+    "dst": "c:7dbd8b374c595586",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "ADMINISTRATIA NATIONALA APELE ROMANE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:7a3ca8cbe8fdee2f",
+    "dst": "c:5cc613c1dbb41a44",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AGENTIA DOMENIILOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:7a3ca8cbe8fdee2f",
+    "dst": "c:de265df8b4c5dfdf",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AGENTIA DOMENIILOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:f2e74641e8ace730",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:10d970a0047a8214",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:5d54171fbde3a662",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:7d0c963a119a3cf9",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:d6233a7e9bc232db",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:5b71e6f07f092adc",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:52e77a0211d0cb35",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:434439ba78c25b6f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:164266096171759e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:4b42d17ef89e0f90",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:109562848574e231",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:d2599bb59c274baa",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:de4137f702c1a748",
+    "dst": "c:463f0a061d7f6efe",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:c07621d908e10354",
+    "dst": "c:43d0fd72d4ddad04",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "CAMERA DEPUTATILOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:6d16f2732de6d18d",
+    "dst": "c:1db8015cb6b35fd2",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:6d16f2732de6d18d",
+    "dst": "c:32e31016942c0494",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:172f8ab291a7a78d",
+    "dst": "c:34e4a97ade90bf53",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL APARARII NATIONALE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:172f8ab291a7a78d",
+    "dst": "c:a045676410cb4480",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL APARARII NATIONALE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:172f8ab291a7a78d",
+    "dst": "c:4129839980c18ca9",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL APARARII NATIONALE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:6e5659daa99dcd6f",
+    "dst": "c:ff4818854e141363",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:6e5659daa99dcd6f",
+    "dst": "c:767785ff98297dcf",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:6e5659daa99dcd6f",
+    "dst": "c:bc544889e99c2474",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:6e5659daa99dcd6f",
+    "dst": "c:3d46ef298f532f05",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:f9445fe1f84c7368",
+    "dst": "c:c2f24d695424a88c",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL CULTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:43a23964eaae135f",
+    "dst": "c:b64ce34dfd3871d7",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:43a23964eaae135f",
+    "dst": "c:30aa3b8d8bdbf7cd",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:b3c57e18c5deec0b",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:91eb98017aae2a64",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:c18f6a9b66545592",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:0eb0a57ba3559640",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:efc8ab0f6f1fa334",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:3683c769c5308775",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:c2a2116feaed42ca",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:343e7f5aa50b7603",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:ed8da7d85f8673db",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:9b41f90d0091a28b",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:d44c39bde87e1830",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:68ac5092a93a8089",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:a501a935a150efdf",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:ba1ce229a2e15982",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:d5a7bf73a00798da",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:dd34940f6b5beb3a",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:6e63327e725c83ee",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:aad7acd071f6294e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:72817acfbe09208e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:cc9aa28d448f0ddc",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:54213411fb419816",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:2cba7311544dac1d",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:65313d6a89e94dec",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:e6e241439d1d5bdd",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:e9c556791960a792",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:9a48be4ca89e2b66",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:992ab7cd24c0de33",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:70b1d410494a9828",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:49d19ac8db3f485f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:484e74d894bd6e7e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:acb672a9e2b43d36",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:056da5002e8e14c2",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:67c7f3b7af88e438",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:a16525bffa9124b6",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:bd657fca66579be0",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:6c432cca0be5d813",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:4465094f178afe65",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:ac719f8491316a8e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:1f709f7ca9313417",
+    "dst": "c:5529297e4ded5afb",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:e613bb442bf089c0",
+    "dst": "c:b39e077f6e84203b",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL EDUCATIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:ff73ad20ef77a009",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:b3e4b092c511e76f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:b05782975a05a7c8",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:f74a061c67d56d5f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:1ab9fb21a6e8c014",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:44fe0d721200c5d2",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:2c220f8883ba443f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:4805311e44f6a389",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:25c7f95f6a5717bc",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:4ab63ce1dd2cfd75",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:6263f6118a185db0",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:774baba8ae5920cf",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:159b47bbe701de83",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:aa17f03e22527e90",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:7b42b806581b5ec8",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:6e8181e8800befab",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:d1f844fb386d2990",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:6c179803b6749beb",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:dc5b436c7cdc74f4",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:9934e8a2e0041788",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:960b908571297a00",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:72b99793e9e5e12a",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:7c477203ef974516",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:ad41036f30ac4960",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:caff7b9eb955bd8f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:660365acd08c0bc9",
+    "dst": "c:69367ae8d30c5046",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL ENERGIEI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9c9586538cd96cb5",
+    "dst": "c:c0b6f6e1bee1e813",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9c9586538cd96cb5",
+    "dst": "c:0d14e4af251c2cdb",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:4c346c846fbec080",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:ade6909b891651b2",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:c07cbf8ccfc94a73",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:8d7001a470244648",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:34112f97a6016177",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:31dba76dd8d0825e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:cc92ccc368a28363",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:67312d7f52e6fc07",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:9a7955ea45b1c71f",
+    "dst": "c:82d9643dfe7e2aa6",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL FINANTELOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:05c28ba78d29bd21",
+    "dst": "c:240b4b3267da1b71",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL MEDIULUI, APELOR SI PADURILOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:05c28ba78d29bd21",
+    "dst": "c:02d42309964ed140",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL MEDIULUI, APELOR SI PADURILOR"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:f785c3ce1d580c8f",
+    "dst": "c:77b5c152dfda9c20",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL SANATATII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:f785c3ce1d580c8f",
+    "dst": "c:cdf63969c0b48921",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL SANATATII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:f9c457e703a193c4",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:8d99f0ad1e440443",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:b546633f09e4383e",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:5ca90a4ffebd1bac",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:bc40d401f2a9e01d",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:9d264262b23b8cb9",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:0210dfa2169b75e2",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:75e0a7ea1d5fbe44",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:29a67f9cbbf0a1e8",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:0d3b77731455d5e6",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:71a97c631d432f20",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:ba1df5c6d05d3b67",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:eccb7289ca89a3fd",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:ecdd329d003b0f12",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:b168dbe88a0430c9",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:faee3f330a86cf0b",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:a04ac135ff005bfa",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:25618ff7a519fa77",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:391a00cd9a77b770",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:6c5c45480b72d1b1",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:f67f3460eb17b482",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:fed44e1d51a42002",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:cb0357bd2f33fbaa",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:9d1f17a76e25d6fa",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:0124655efc50c55b",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:f5b51bf6a846a605",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:130e1c63e16d6d2b",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:fe7f7ccc3fc17be1",
+    "dst": "c:7a0821995114b08f",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:a7a5bf2c1e97805d",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:643830683d0c1823",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:21d9c900fe33da2c",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:3922174a4c9cfab6",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:dca3ac885a0ecfa4",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:612b77b5ef267bc7",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:2af0abed05a8a1c2",
+    "dst": "c:e486730d6f6fa392",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SECRETARIATUL GENERAL AL GUVERNULUI"
+    },
+    "sources": []
+  },
+  {
+    "src": "o:d77ff471f166c23e",
+    "dst": "c:03891d60e0616a80",
+    "type": "CONTROLS",
+    "props": {
+      "apt": "SERVICIUL ROMAN DE INFORMATII"
+    },
+    "sources": []
+  }
+]
