@@ -1,0 +1,1216 @@
+{
+  "meta": {
+    "generated_at": "2026-06-03T15:06:22.783696Z",
+    "source_url": "senat.ro",
+    "scraper_version": "0.1.0",
+    "count": 134
+  },
+  "data": [
+    {
+      "senat_guid": "7ff0cd22-7bbb-4ca8-ada1-0473697459bd",
+      "name": "Mircea ABRUDEAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=7ff0cd22-7bbb-4ca8-ada1-0473697459bd"
+    },
+    {
+      "senat_guid": "aaa971e5-5110-4c5f-98f5-07c6ee365a1e",
+      "name": "Valentina-Mariana ALDEA",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=aaa971e5-5110-4c5f-98f5-07c6ee365a1e"
+    },
+    {
+      "senat_guid": "4d812c2c-fa19-4834-b1f1-08fedc72161d",
+      "name": "Victoria-Violeta ALEXANDRU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=4d812c2c-fa19-4834-b1f1-08fedc72161d"
+    },
+    {
+      "senat_guid": "e4673fd9-34fd-4b0d-8019-092771f2537e",
+      "name": "Razvan-Paul ANGHEL",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România (Secretar)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e4673fd9-34fd-4b0d-8019-092771f2537e"
+    },
+    {
+      "senat_guid": "dad3c5ee-3157-410a-85ff-094a63524104",
+      "name": "Monica-Cristina ANISIE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Secretar)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=dad3c5ee-3157-410a-85ff-094a63524104"
+    },
+    {
+      "senat_guid": "de52f6df-260b-4042-9a60-095a0dbfe661",
+      "name": "István-Loránt ANTAL",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=de52f6df-260b-4042-9a60-095a0dbfe661"
+    },
+    {
+      "senat_guid": "edf20da3-a851-4622-b534-0b3d833a51b9",
+      "name": "Dorina BARCARI",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=edf20da3-a851-4622-b534-0b3d833a51b9"
+    },
+    {
+      "senat_guid": "00aee4d2-ea00-4484-9a67-0c2f8a0459f8",
+      "name": "Cristian BEM",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=00aee4d2-ea00-4484-9a67-0c2f8a0459f8"
+    },
+    {
+      "senat_guid": "b9c904e7-969f-4126-b0e1-0ebd3a003cc5",
+      "name": "Andra BICĂ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=b9c904e7-969f-4126-b0e1-0ebd3a003cc5"
+    },
+    {
+      "senat_guid": "33d88102-6e65-4934-9ecf-10102445c2c4",
+      "name": "Vasile BLAGA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=33d88102-6e65-4934-9ecf-10102445c2c4"
+    },
+    {
+      "senat_guid": "bff3c30a-425f-4b6d-8d4f-1285c1bde059",
+      "name": "George-Cătălin BOCHILEANU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=bff3c30a-425f-4b6d-8d4f-1285c1bde059"
+    },
+    {
+      "senat_guid": "dc8f43fb-e036-477b-b895-12f56a2464c1",
+      "name": "Marius BODEA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=dc8f43fb-e036-477b-b895-12f56a2464c1"
+    },
+    {
+      "senat_guid": "813d6a81-cea1-4ac6-9717-143a859d4bde",
+      "name": "Ilie BOLOJAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=813d6a81-cea1-4ac6-9717-143a859d4bde"
+    },
+    {
+      "senat_guid": "29201640-de4e-47ff-89b2-18126d2790ae",
+      "name": "Ștefan BORȚUN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Membru afiliat)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=29201640-de4e-47ff-89b2-18126d2790ae"
+    },
+    {
+      "senat_guid": "86228ca2-986a-40ba-9ed8-1a975ed32f9c",
+      "name": "Gheorghe-Ioan BOTA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=86228ca2-986a-40ba-9ed8-1a975ed32f9c"
+    },
+    {
+      "senat_guid": "6a194230-e597-4335-8ce2-1da0b0aae9c4",
+      "name": "Oana-Constantina BUZATU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=6a194230-e597-4335-8ce2-1da0b0aae9c4"
+    },
+    {
+      "senat_guid": "65699efd-f7e5-4128-b80f-1ef173563d66",
+      "name": "Ionel CARP",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Membru afiliat)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=65699efd-f7e5-4128-b80f-1ef173563d66"
+    },
+    {
+      "senat_guid": "d7829eb2-a908-43c2-8f3f-1f1ad550b9e6",
+      "name": "Dan CAȘCAVAL",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=d7829eb2-a908-43c2-8f3f-1f1ad550b9e6"
+    },
+    {
+      "senat_guid": "94afc16b-0d0b-45be-a844-2110c5c3bc0a",
+      "name": "Claudiu-Daniel CATANA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=94afc16b-0d0b-45be-a844-2110c5c3bc0a"
+    },
+    {
+      "senat_guid": "33c6752d-c2b6-42af-a6b4-233b9f6e9994",
+      "name": "Robert-Marius CAZANCIUC",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=33c6752d-c2b6-42af-a6b4-233b9f6e9994"
+    },
+    {
+      "senat_guid": "ce14b3e6-9e25-4840-a0b0-23f33c6db73c",
+      "name": "Sebastian CERNIC",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=ce14b3e6-9e25-4840-a0b0-23f33c6db73c"
+    },
+    {
+      "senat_guid": "31c2cf8c-ba75-4086-9359-6cfed5bb857d",
+      "name": "Nadia-Cosmina CERVA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=31c2cf8c-ba75-4086-9359-6cfed5bb857d"
+    },
+    {
+      "senat_guid": "9cd64c47-2be4-43ed-8b32-249577fe8c97",
+      "name": "Mircia CHELARU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=9cd64c47-2be4-43ed-8b32-249577fe8c97"
+    },
+    {
+      "senat_guid": "9d98d226-76aa-4dec-9d8d-24a83d344dfb",
+      "name": "Costache CHERTIF",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=9d98d226-76aa-4dec-9d8d-24a83d344dfb"
+    },
+    {
+      "senat_guid": "0a8b45a7-e661-4c59-9169-281f79ff12eb",
+      "name": "Ruxandra CIBU DEACONU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=0a8b45a7-e661-4c59-9169-281f79ff12eb"
+    },
+    {
+      "senat_guid": "801216b9-b47e-419b-bd9f-2da44629e975",
+      "name": "Ionuț-Ciprian CIUPERCEANU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=801216b9-b47e-419b-bd9f-2da44629e975"
+    },
+    {
+      "senat_guid": "e358037e-262e-4bc0-b1d8-30016595005f",
+      "name": "Sorin-Mihai CÎMPEANU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e358037e-262e-4bc0-b1d8-30016595005f"
+    },
+    {
+      "senat_guid": "fa667a85-17d1-4cb5-a5db-322d48fcd38d",
+      "name": "Rodica CONSTANTINESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=fa667a85-17d1-4cb5-a5db-322d48fcd38d"
+    },
+    {
+      "senat_guid": "7aebffad-47e6-4c7e-bdfb-34360e888703",
+      "name": "Titus CORLĂȚEAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=7aebffad-47e6-4c7e-bdfb-34360e888703"
+    },
+    {
+      "senat_guid": "c4a7837d-5479-4aad-82bc-34c696b71339",
+      "name": "Silviu-Iulian COȘA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=c4a7837d-5479-4aad-82bc-34c696b71339"
+    },
+    {
+      "senat_guid": "5dfb5f9b-9d25-40a4-9145-366ae2b2c04d",
+      "name": "Mihai COTEȚ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=5dfb5f9b-9d25-40a4-9145-366ae2b2c04d"
+    },
+    {
+      "senat_guid": "827844f4-ed1e-4293-bbe5-3dd527a0d65b",
+      "name": "Károly Zsolt CSÁSZÁR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=827844f4-ed1e-4293-bbe5-3dd527a0d65b"
+    },
+    {
+      "senat_guid": "2af30f2a-5ad3-45db-a322-4073884fed8f",
+      "name": "Attila-Zoltan CSEKE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=2af30f2a-5ad3-45db-a322-4073884fed8f"
+    },
+    {
+      "senat_guid": "dd953b01-e89c-481c-88b9-40cbd8e43fec",
+      "name": "Rodica CUȘNIR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Secretar)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=dd953b01-e89c-481c-88b9-40cbd8e43fec"
+    },
+    {
+      "senat_guid": "37b6de1d-2d61-4475-bb9b-443d4ad9d181",
+      "name": "Ambrozie-Irineu DARĂU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=37b6de1d-2d61-4475-bb9b-443d4ad9d181"
+    },
+    {
+      "senat_guid": "a98c83aa-d99d-464b-a5a1-44566f751a51",
+      "name": "Andrei-Emil DÎRLĂU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=a98c83aa-d99d-464b-a5a1-44566f751a51"
+    },
+    {
+      "senat_guid": "5cb3f164-6f0c-449b-bc2e-457c5e9bf73c",
+      "name": "Elena-Adelina DOBRA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=5cb3f164-6f0c-449b-bc2e-457c5e9bf73c"
+    },
+    {
+      "senat_guid": "094ef6d8-2e32-4cbd-81ff-46b54ec604f1",
+      "name": "Eugen DOGARIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=094ef6d8-2e32-4cbd-81ff-46b54ec604f1"
+    },
+    {
+      "senat_guid": "55c19f8c-80f4-4bd1-b112-e363c2b283f1",
+      "name": "Cristina-Gabriella DUMITRESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=55c19f8c-80f4-4bd1-b112-e363c2b283f1"
+    },
+    {
+      "senat_guid": "5582ee24-5017-4462-ad12-49d4bde5d5bb",
+      "name": "Marius-Alexandru DUNCA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=5582ee24-5017-4462-ad12-49d4bde5d5bb"
+    },
+    {
+      "senat_guid": "e695c911-b82f-4af1-a537-4ae1baa991bf",
+      "name": "Doina-Elena FEDEROVICI",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e695c911-b82f-4af1-a537-4ae1baa991bf"
+    },
+    {
+      "senat_guid": "b443bd5d-6ba0-4192-832c-4b502d6ec1a8",
+      "name": "László-Ődőn FEJÉR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=b443bd5d-6ba0-4192-832c-4b502d6ec1a8"
+    },
+    {
+      "senat_guid": "87c4a776-8e64-4e70-a862-4f087aea03e5",
+      "name": "Cătălin-Daniel FENECHIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Lider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=87c4a776-8e64-4e70-a862-4f087aea03e5"
+    },
+    {
+      "senat_guid": "fcdbfb0c-93ca-4aa5-85ba-4f53b21865bd",
+      "name": "Ionel FLOROIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=fcdbfb0c-93ca-4aa5-85ba-4f53b21865bd"
+    },
+    {
+      "senat_guid": "58dd0f59-a7e9-44f4-9860-5316735921e1",
+      "name": "Gheorghe FLUTUR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=58dd0f59-a7e9-44f4-9860-5316735921e1"
+    },
+    {
+      "senat_guid": "4ecef3dd-1f70-4433-82ba-54975207c4a1",
+      "name": "Liviu-Iulian FODOCA",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=4ecef3dd-1f70-4433-82ba-54975207c4a1"
+    },
+    {
+      "senat_guid": "0a82391d-2ecd-4b88-ac27-57b69d159720",
+      "name": "Ștefan GEAMĂNU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=0a82391d-2ecd-4b88-ac27-57b69d159720"
+    },
+    {
+      "senat_guid": "d2f51e91-d18a-431c-bc9d-6061101ce1d4",
+      "name": "Daniel-Paul-Romeo GHEORGHE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=d2f51e91-d18a-431c-bc9d-6061101ce1d4"
+    },
+    {
+      "senat_guid": "008fd8cb-c069-4f74-b02b-612d1db6a19d",
+      "name": "Cristian GHINEA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=008fd8cb-c069-4f74-b02b-612d1db6a19d"
+    },
+    {
+      "senat_guid": "ac8c9401-1a0d-478b-b367-62212ecab1c5",
+      "name": "Robert-Daniel GHIȚĂ",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=ac8c9401-1a0d-478b-b367-62212ecab1c5"
+    },
+    {
+      "senat_guid": "a8ff8991-97dd-4a5b-92a9-63c61a612f75",
+      "name": "Cătălin GRAUR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Secretar)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=a8ff8991-97dd-4a5b-92a9-63c61a612f75"
+    },
+    {
+      "senat_guid": "91a4d099-7162-417b-8f93-645dc31accf0",
+      "name": "Maria-Gabriela HORGA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=91a4d099-7162-417b-8f93-645dc31accf0"
+    },
+    {
+      "senat_guid": "d172fe4e-c155-4f46-8859-6665840065a9",
+      "name": "Marius HUMELNICU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=d172fe4e-c155-4f46-8859-6665840065a9"
+    },
+    {
+      "senat_guid": "e4de63cf-394d-49da-844a-6b060a232b35",
+      "name": "Constantin-Ciprian IACOB",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor (Secretar)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e4de63cf-394d-49da-844a-6b060a232b35"
+    },
+    {
+      "senat_guid": "7193aafe-9862-45bf-b876-6f90dfa96616",
+      "name": "Ovidiu JITARU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=7193aafe-9862-45bf-b876-6f90dfa96616"
+    },
+    {
+      "senat_guid": "dcb76afd-06d2-4795-9ce4-705231994268",
+      "name": "Ágota KONDOR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=dcb76afd-06d2-4795-9ce4-705231994268"
+    },
+    {
+      "senat_guid": "3b1c3e18-cc5d-46d4-8be7-70ca0566d41f",
+      "name": "Maté KOVÁCS",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=3b1c3e18-cc5d-46d4-8be7-70ca0566d41f"
+    },
+    {
+      "senat_guid": "781af753-0e1a-4820-9926-7191e4eb16df",
+      "name": "Sorin LAVRIC",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=781af753-0e1a-4820-9926-7191e4eb16df"
+    },
+    {
+      "senat_guid": "e23f34ee-f4f8-4e72-8302-7453373e0cec",
+      "name": "Dumitru MANEA",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e23f34ee-f4f8-4e72-8302-7453373e0cec"
+    },
+    {
+      "senat_guid": "509068b6-ecf9-4365-a022-74b77483ce14",
+      "name": "Călin-Petru MARIAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=509068b6-ecf9-4365-a022-74b77483ce14"
+    },
+    {
+      "senat_guid": "3abf38c7-fffe-4f34-b90a-77b5c3219da5",
+      "name": "Liviu-Lucian MAZILU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=3abf38c7-fffe-4f34-b90a-77b5c3219da5"
+    },
+    {
+      "senat_guid": "b9350519-299b-4572-8d08-7aea22489f39",
+      "name": "Luca MĂLĂIESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=b9350519-299b-4572-8d08-7aea22489f39"
+    },
+    {
+      "senat_guid": "fee99943-2379-4151-8e9a-7b15d1f04a4f",
+      "name": "Lucian MĂRGINEAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=fee99943-2379-4151-8e9a-7b15d1f04a4f"
+    },
+    {
+      "senat_guid": "f640457c-0362-4c02-96d1-7c38b9957bdd",
+      "name": "Daniela MIHAI",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=f640457c-0362-4c02-96d1-7c38b9957bdd"
+    },
+    {
+      "senat_guid": "7a6ec680-9075-4fff-97d2-7d556f4d57bc",
+      "name": "Ion-Narcis MIRCESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=7a6ec680-9075-4fff-97d2-7d556f4d57bc"
+    },
+    {
+      "senat_guid": "b70cfd7f-7726-4531-99d0-83ff6f6f05b3",
+      "name": "Cătălin-Emil MÎNDRU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=b70cfd7f-7726-4531-99d0-83ff6f6f05b3"
+    },
+    {
+      "senat_guid": "0692f467-f93f-4a21-a06a-8431696053a8",
+      "name": "Aurel-George MOHAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=0692f467-f93f-4a21-a06a-8431696053a8"
+    },
+    {
+      "senat_guid": "ad29025b-adcf-4c9d-8f02-851ab171ff91",
+      "name": "Sorin MOISE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=ad29025b-adcf-4c9d-8f02-851ab171ff91"
+    },
+    {
+      "senat_guid": "bdd75da8-fc58-45c3-8765-87d17ea22c8d",
+      "name": "Nicolae NEAGU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=bdd75da8-fc58-45c3-8765-87d17ea22c8d"
+    },
+    {
+      "senat_guid": "18f2771e-382a-4809-b1ab-8c8750fc5bf8",
+      "name": "Eugen-Remus NEGOI",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=18f2771e-382a-4809-b1ab-8c8750fc5bf8"
+    },
+    {
+      "senat_guid": "c6be0951-8179-4ab1-8166-8cac4c1bf4d4",
+      "name": "Corneliu NEGRU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=c6be0951-8179-4ab1-8166-8cac4c1bf4d4"
+    },
+    {
+      "senat_guid": "cb2ca5b6-ffeb-4fe8-a10c-87c4d61cacb0",
+      "name": "Mircea-Cristian NICULA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=cb2ca5b6-ffeb-4fe8-a10c-87c4d61cacb0"
+    },
+    {
+      "senat_guid": "8e9b590e-eb5b-49a9-a908-8cbe4e43b9fc",
+      "name": "Cristian-Augustin NICULESCU-ȚÂGÂRLAȘ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=8e9b590e-eb5b-49a9-a908-8cbe4e43b9fc"
+    },
+    {
+      "senat_guid": "2baeeba9-a861-4355-9c8e-8cebeba4f0d4",
+      "name": "Levente NOVAK",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=2baeeba9-a861-4355-9c8e-8cebeba4f0d4"
+    },
+    {
+      "senat_guid": "7f782376-a244-4258-b5a5-911192e5566d",
+      "name": "Olga ONEA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Membru afiliat)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=7f782376-a244-4258-b5a5-911192e5566d"
+    },
+    {
+      "senat_guid": "bb84802b-1dff-4568-b5e7-91f5647073c5",
+      "name": "Ștefan-Radu OPREA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=bb84802b-1dff-4568-b5e7-91f5647073c5"
+    },
+    {
+      "senat_guid": "5954ccc9-0af9-409f-9b30-91c8b292d60d",
+      "name": "Aurel OPRINOIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=5954ccc9-0af9-409f-9b30-91c8b292d60d"
+    },
+    {
+      "senat_guid": "86155ce0-9997-464a-ad63-93236f32f972",
+      "name": "Carmen ORBAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=86155ce0-9997-464a-ad63-93236f32f972"
+    },
+    {
+      "senat_guid": "3953018d-3e06-4028-bc4b-953fb20f88e9",
+      "name": "Teofil PARASCA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=3953018d-3e06-4028-bc4b-953fb20f88e9"
+    },
+    {
+      "senat_guid": "737c18e7-c031-4d78-8808-9588b964e893",
+      "name": "Nicoleta PAULIUC",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=737c18e7-c031-4d78-8808-9588b964e893"
+    },
+    {
+      "senat_guid": "57a5f4d6-ec10-4020-8424-958ed09fbf37",
+      "name": "Răducu-Adrian PĂDURARU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=57a5f4d6-ec10-4020-8424-958ed09fbf37"
+    },
+    {
+      "senat_guid": "2a3a96e0-f5d4-4a21-8c10-9606276f5311",
+      "name": "Ștefan PĂLĂRIE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=2a3a96e0-f5d4-4a21-8c10-9606276f5311"
+    },
+    {
+      "senat_guid": "b236fa71-a4fe-4ee8-b18e-bed743df11d5",
+      "name": "Veta PĂSCULESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=b236fa71-a4fe-4ee8-b18e-bed743df11d5"
+    },
+    {
+      "senat_guid": "2b2ea3f2-756e-46d5-acfe-9a41350b7f34",
+      "name": "Luminița PĂUCEAN-FERNANDES",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=2b2ea3f2-756e-46d5-acfe-9a41350b7f34"
+    },
+    {
+      "senat_guid": "a5b8a0d4-4710-4730-a171-9b78349041f6",
+      "name": "Ana-Cynthia-Ioana PĂUN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=a5b8a0d4-4710-4730-a171-9b78349041f6"
+    },
+    {
+      "senat_guid": "007fdd23-b531-407e-a067-9c3796420c8c",
+      "name": "Ninel PEIA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=007fdd23-b531-407e-a067-9c3796420c8c"
+    },
+    {
+      "senat_guid": "8c196354-6157-46a5-8b04-9d394c7b294d",
+      "name": "Grigore-Adrian PEIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Lider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=8c196354-6157-46a5-8b04-9d394c7b294d"
+    },
+    {
+      "senat_guid": "05495ace-0730-44d7-b735-9d97285dccf0",
+      "name": "Petrișor-Gabriel PEIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor (Lider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=05495ace-0730-44d7-b735-9d97285dccf0"
+    },
+    {
+      "senat_guid": "14e542f2-ee04-444e-b539-9e85135da202",
+      "name": "George-Cezar PETRE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=14e542f2-ee04-444e-b539-9e85135da202"
+    },
+    {
+      "senat_guid": "e49ef80d-fc0b-4ca7-93ef-9ed3840e012a",
+      "name": "Dorin-Silviu PETREA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e49ef80d-fc0b-4ca7-93ef-9ed3840e012a"
+    },
+    {
+      "senat_guid": "6491a652-0d83-455c-b9a9-a04c0f5194c0",
+      "name": "Paul-Ciprian PINTEA",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=6491a652-0d83-455c-b9a9-a04c0f5194c0"
+    },
+    {
+      "senat_guid": "4ea5e2f9-cd07-4eb4-912e-a1181cc460b1",
+      "name": "Laurențiu PLĂEȘU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=4ea5e2f9-cd07-4eb4-912e-a1181cc460b1"
+    },
+    {
+      "senat_guid": "a5a25b95-3452-4d9d-983b-a1c7a033cfcd",
+      "name": "Vasilică POTECĂ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=a5a25b95-3452-4d9d-983b-a1c7a033cfcd"
+    },
+    {
+      "senat_guid": "979f6165-caa2-4568-abe4-a663a37147fd",
+      "name": "Marian-Cătălin PREDOIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=979f6165-caa2-4568-abe4-a663a37147fd"
+    },
+    {
+      "senat_guid": "95133353-e40c-4398-bbac-a6d14fcdad54",
+      "name": "Alexandra PRESURĂ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=95133353-e40c-4398-bbac-a6d14fcdad54"
+    },
+    {
+      "senat_guid": "c4af4b08-ccb8-4323-8fb2-a7272aff2123",
+      "name": "Ovidiu PUIU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=c4af4b08-ccb8-4323-8fb2-a7272aff2123"
+    },
+    {
+      "senat_guid": "082c21cd-dcdb-42bb-9bfd-a871139cb9c5",
+      "name": "Claudiu-Vasile RĂCUCI",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=082c21cd-dcdb-42bb-9bfd-a871139cb9c5"
+    },
+    {
+      "senat_guid": "e7647515-e32c-4e2d-96ff-ab83e8a93512",
+      "name": "Cornel-Cristian RESMERIȚĂ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e7647515-e32c-4e2d-96ff-ab83e8a93512"
+    },
+    {
+      "senat_guid": "6e681419-5f69-41cd-85ca-acef5eed2a63",
+      "name": "Liviu Sorin ROBE",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=6e681419-5f69-41cd-85ca-acef5eed2a63"
+    },
+    {
+      "senat_guid": "3090f662-69b9-4088-94ea-ad1847401b50",
+      "name": "Marius-Valentin ROMAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=3090f662-69b9-4088-94ea-ad1847401b50"
+    },
+    {
+      "senat_guid": "400f5737-4844-4c7d-98da-aee69c2428d0",
+      "name": "Ion-Cristinel RUJAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=400f5737-4844-4c7d-98da-aee69c2428d0"
+    },
+    {
+      "senat_guid": "e5da6de6-88cd-468a-b161-b32caac784f3",
+      "name": "Vasile-Ciprian RUS",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e5da6de6-88cd-468a-b161-b32caac784f3"
+    },
+    {
+      "senat_guid": "d9cf2a62-6109-4d68-9452-b54d6b4e786f",
+      "name": "Ioan-Cristian RUSU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=d9cf2a62-6109-4d68-9452-b54d6b4e786f"
+    },
+    {
+      "senat_guid": "3f7d19d2-b8d0-4309-894c-b71561f01985",
+      "name": "Petrică Lucian RUSU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=3f7d19d2-b8d0-4309-894c-b71561f01985"
+    },
+    {
+      "senat_guid": "74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766",
+      "name": "Mircea-Ionuț SANDU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=74a1ca6f-7e3c-49ea-b9d7-b8df00bf7766"
+    },
+    {
+      "senat_guid": "988c7a7c-2a4e-476d-bcc0-bcc1d6e5b97b",
+      "name": "Clement SAVA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar PACE – Întâi România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=988c7a7c-2a4e-476d-bcc0-bcc1d6e5b97b"
+    },
+    {
+      "senat_guid": "c7757f24-2d04-42a2-833e-c0a9a821ad71",
+      "name": "Cătălin SILEGEANU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=c7757f24-2d04-42a2-833e-c0a9a821ad71"
+    },
+    {
+      "senat_guid": "f34848d5-327a-4e34-80dd-c28eb44c8d98",
+      "name": "Dumitru SPAU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=f34848d5-327a-4e34-80dd-c28eb44c8d98"
+    },
+    {
+      "senat_guid": "60bce7c1-fb2b-4f29-9c74-0b37c64a7611",
+      "name": "Elena-Simona SPĂTARU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=60bce7c1-fb2b-4f29-9c74-0b37c64a7611"
+    },
+    {
+      "senat_guid": "259a81f5-9971-4b56-b1b5-c4230980bcd3",
+      "name": "Ioan STAN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=259a81f5-9971-4b56-b1b5-c4230980bcd3"
+    },
+    {
+      "senat_guid": "cd69820b-804d-42bf-be94-c567a0efd41b",
+      "name": "Paul STĂNESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=cd69820b-804d-42bf-be94-c567a0efd41b"
+    },
+    {
+      "senat_guid": "5aa76a32-f2f8-42c0-a868-c5afa29fc744",
+      "name": "Niculina STELEA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=5aa76a32-f2f8-42c0-a868-c5afa29fc744"
+    },
+    {
+      "senat_guid": "1969fbc4-5c74-4b09-afd6-cb64347549de",
+      "name": "Ciprian-Titi STOICA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=1969fbc4-5c74-4b09-afd6-cb64347549de"
+    },
+    {
+      "senat_guid": "0317f068-49ad-4541-87d4-cc589aef437f",
+      "name": "Victoria STOICIU",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=0317f068-49ad-4541-87d4-cc589aef437f"
+    },
+    {
+      "senat_guid": "075d383a-42a1-44d5-989f-cc686356d066",
+      "name": "Adrian STREINU CERCEL",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=075d383a-42a1-44d5-989f-cc686356d066"
+    },
+    {
+      "senat_guid": "e945e210-e8a5-4e58-8c9f-d144f4a062b5",
+      "name": "Felix STROE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e945e210-e8a5-4e58-8c9f-d144f4a062b5"
+    },
+    {
+      "senat_guid": "aa6ba21b-d06f-4f62-8659-d4e74add85cb",
+      "name": "Eugen-Cristian ȘIPOȘ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=aa6ba21b-d06f-4f62-8659-d4e74add85cb"
+    },
+    {
+      "senat_guid": "a2987b08-f230-43f8-ab52-d9073851a524",
+      "name": "Sorin-Gheorghe ȘIPOȘ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România (Lider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=a2987b08-f230-43f8-ab52-d9073851a524"
+    },
+    {
+      "senat_guid": "9a773414-4c8d-41af-bd97-d9834eb23395",
+      "name": "Gheorghe ȘTEFĂNACHE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=9a773414-4c8d-41af-bd97-d9834eb23395"
+    },
+    {
+      "senat_guid": "bd44b5a4-e8ab-43c1-8b0e-dc539f57f668",
+      "name": "Daniela ȘTEFĂNESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=bd44b5a4-e8ab-43c1-8b0e-dc539f57f668"
+    },
+    {
+      "senat_guid": "ad82d70d-0286-45a0-a3cc-e1df3fa38144",
+      "name": "Barna TÁNCZOS",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=ad82d70d-0286-45a0-a3cc-e1df3fa38144"
+    },
+    {
+      "senat_guid": "d7e43180-8a7d-47ce-94dd-e2e6ffb390d1",
+      "name": "Istvan-Szilard TASNADI",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România (Secretar)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=d7e43180-8a7d-47ce-94dd-e2e6ffb390d1"
+    },
+    {
+      "senat_guid": "be0ed528-f7e8-43f5-a47e-e2f52e95a17c",
+      "name": "Alina-Elena TĂNĂSESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=be0ed528-f7e8-43f5-a47e-e2f52e95a17c"
+    },
+    {
+      "senat_guid": "3354f56c-a3e7-4cea-9dde-e3bd730d7b7f",
+      "name": "Lóránd TUROS",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Uniunii Democrate Maghiare din România (Lider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=3354f56c-a3e7-4cea-9dde-e3bd730d7b7f"
+    },
+    {
+      "senat_guid": "abde2f69-fbbc-418b-bc27-d979fefd6644",
+      "name": "Laurențiu-Cristinel ȚEPELUȘ",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=abde2f69-fbbc-418b-bc27-d979fefd6644"
+    },
+    {
+      "senat_guid": "dac88f11-d51d-43e7-b5c0-e5692e92c4e1",
+      "name": "Glad-Aurel VARGA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=dac88f11-d51d-43e7-b5c0-e5692e92c4e1"
+    },
+    {
+      "senat_guid": "0460dbeb-6caa-41f0-aead-ea380a592fde",
+      "name": "Marian VASILE",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=0460dbeb-6caa-41f0-aead-ea380a592fde"
+    },
+    {
+      "senat_guid": "27b719e9-fa14-4f74-a01c-eb955ce9f0ec",
+      "name": "Cristian VÂNTU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=27b719e9-fa14-4f74-a01c-eb955ce9f0ec"
+    },
+    {
+      "senat_guid": "f1658cfa-9aea-415d-8ef2-ec0e6e4046fc",
+      "name": "Gheorghe VELA",
+      "birth_date": null,
+      "judet": null,
+      "party": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=f1658cfa-9aea-415d-8ef2-ec0e6e4046fc"
+    },
+    {
+      "senat_guid": "70753dde-d7a5-47b2-859d-eee551ce150f",
+      "name": "Mihail VEȘTEA",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=70753dde-d7a5-47b2-859d-eee551ce150f"
+    },
+    {
+      "senat_guid": "f6b7345b-82ca-43bf-9b7e-efe5c038b2a0",
+      "name": "Nicolae VLAHU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor (Vicelider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=f6b7345b-82ca-43bf-9b7e-efe5c038b2a0"
+    },
+    {
+      "senat_guid": "e681a8ad-b809-40ae-9075-f0879f10a986",
+      "name": "Sorin VLAȘIN",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=e681a8ad-b809-40ae-9075-f0879f10a986"
+    },
+    {
+      "senat_guid": "aec2401e-7bfd-4c9f-9f67-f418bcdc5be5",
+      "name": "Virgiliu-George VLĂESCU",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar Alianța pentru Unirea Românilor",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=aec2401e-7bfd-4c9f-9f67-f418bcdc5be5"
+    },
+    {
+      "senat_guid": "94bb9130-2698-4509-9bea-ffcedf3dac7f",
+      "name": "Daniel-Cătălin ZAMFIR",
+      "birth_date": null,
+      "judet": null,
+      "party": "Grupul parlamentar al Partidului Social Democrat (Lider)",
+      "legislatura": 2024,
+      "profile_url": "https://www.senat.ro/FisaSenator.aspx?ParlamentarID=94bb9130-2698-4509-9bea-ffcedf3dac7f"
+    }
+  ]
+}
