@@ -1,0 +1,166 @@
+{
+  "generated_at": "2026-06-04T04:49:05.120386+00:00",
+  "tip": "DSP (Directii de Sanatate Publica)",
+  "gasite": 17,
+  "din": 42,
+  "institutii": [
+    {
+      "county": "Alba",
+      "url": "https://www.dspalba.ro",
+      "title": "DSP ALBA",
+      "sections": {
+        "conducere": "https://dspalba.ro/conducerea/",
+        "declaratii": "https://dspalba.ro/declaratii-avere-si-interese/",
+        "transparenta": "https://dspalba.ro/transparenta-decizionala/",
+        "integritate": "https://dspalba.ro/avertizor-integritate/"
+      }
+    },
+    {
+      "county": "Arad",
+      "url": "https://www.dsparad.ro",
+      "title": "Acasă - DSP Arad",
+      "sections": {
+        "conducere": "https://dsparad.ro/conducere/",
+        "integritate": "https://dsparad.ro/integritate/",
+        "transparenta": "https://dsparad.ro/transparenta/"
+      }
+    },
+    {
+      "county": "Argeș",
+      "url": "https://dsparges.ro",
+      "title": "Homepage-DSP Arges",
+      "sections": {}
+    },
+    {
+      "county": "Bihor",
+      "url": "https://www.dspbihor.ro",
+      "title": "dspbihor.ro",
+      "sections": {}
+    },
+    {
+      "county": "Botoșani",
+      "url": "https://www.dspbotosani.ro",
+      "title": "Acasa - DIRECTIA DE SANATATE PUBLICA",
+      "sections": {
+        "conducere": "https://dspbotosani.ro/conducerea/",
+        "declaratii": "https://dspbotosani.ro/declaratii-avere-si-interese/",
+        "transparenta": "https://dspbotosani.ro/transparenta-decizionala/",
+        "integritate": "https://dspbotosani.ro/avertizor-integritate/"
+      }
+    },
+    {
+      "county": "Călărași",
+      "url": "https://www.dspcalarasi.ro",
+      "title": "Acasă - Direcția de Sănătate Publică a județului C",
+      "sections": {
+        "conducere": "https://dspcalarasi.ro/conducere/",
+        "integritate": "https://dspcalarasi.ro/integritate/"
+      }
+    },
+    {
+      "county": "Cluj",
+      "url": "https://www.dspcluj.ro",
+      "title": "Direcţia de Sănătate Publică a Judeţului Cluj",
+      "sections": {
+        "conducere": "javascript:void(0);",
+        "integritate": "https://www.dspcluj.ro/page/declaratia-privind-asumarea-unei-agende-de-integritate-organizationala",
+        "declaratii": "https://www.dspcluj.ro/page/declaratii-de-avere-si-de-interese"
+      }
+    },
+    {
+      "county": "Covasna",
+      "url": "https://www.dspcovasna.ro",
+      "title": "Direcția de Sănătate Publică Covasna |",
+      "sections": {}
+    },
+    {
+      "county": "Galați",
+      "url": "https://www.dsp-galati.ro",
+      "title": "Acasă - DSP Galati",
+      "sections": {
+        "conducere": "https://dsp-galati.ro/conducere/",
+        "integritate": "https://dsp-galati.ro/avertizor-de-integritate/",
+        "transparenta": "https://dsp-galati.ro/transparenta-decizionala/"
+      }
+    },
+    {
+      "county": "Giurgiu",
+      "url": "https://www.dspgiurgiu.ro",
+      "title": "Acasă - DSP Giurgiu",
+      "sections": {
+        "conducere": "https://dspgiurgiu.ro/conducere/",
+        "declaratii": "https://dspgiurgiu.ro/declaratii-de-avere/",
+        "integritate": "https://dspgiurgiu.ro/integritate/"
+      }
+    },
+    {
+      "county": "Harghita",
+      "url": "https://www.dspharghita.ro",
+      "title": "Home - DSP Harghita",
+      "sections": {
+        "conducere": "https://www.dspharghita.ro/ro/despre-noi/conducere/",
+        "integritate": "https://www.dspharghita.ro/ro/informatii-de-interes-public/integritate-institutionala/",
+        "declaratii": "https://www.dspharghita.ro/ro/informatii-de-interes-public/declaratii-de-avere-si-interese/",
+        "transparenta": "https://www.dspharghita.ro/ro/transparenta-decizionala/"
+      }
+    },
+    {
+      "county": "Iași",
+      "url": "https://www.dspiasi.ro",
+      "title": "DSP Iasi | Direcția de Sănătate Publică Iași",
+      "sections": {
+        "conducere": "https://dspiasi.ro/despredsp/conducere/",
+        "declaratii": "https://dspiasi.ro/despredsp/declaratii-de-avere/",
+        "integritate": "https://dspiasi.ro/informatii-utile/legislatie/"
+      }
+    },
+    {
+      "county": "Ilfov",
+      "url": "https://www.dspilfov.ro",
+      "title": "DSP ILFOV",
+      "sections": {
+        "integritate": "https://www.dspilfov.ro/EVALUARE ANUALA PLAN INTEGRITATE DSP ILFOV 23.05.02.pdf",
+        "conducere": "https://www.dspilfov.ro/conducere dsp.pdf#zoom=175"
+      }
+    },
+    {
+      "county": "Olt",
+      "url": "https://www.dspolt.ro",
+      "title": "DSP Olt – Directia de Sanatate Publica Olt",
+      "sections": {
+        "conducere": "https://dspolt.ro/conducerea/",
+        "integritate": "https://dspolt.ro/integritatea-institutionala/"
+      }
+    },
+    {
+      "county": "Sibiu",
+      "url": "https://www.dspsibiu.ro",
+      "title": "Direcția de Sănătate Publică Județeană Sibiu",
+      "sections": {
+        "conducere": "https://www.dspsibiu.ro/despre-noi/conducere.php",
+        "integritate": "https://www.dspsibiu.ro/informatii-publice/plan-integritate.php",
+        "declaratii": "https://www.dspsibiu.ro/informatii-publice/declaratii-avere-interese.php"
+      }
+    },
+    {
+      "county": "Timiș",
+      "url": "https://www.dsptimis.ro",
+      "title": "Direcţia de Sănătate Publică Timiş",
+      "sections": {
+        "conducere": "https://www.dsptimis.ro/conducere",
+        "transparenta": "https://www.dsptimis.ro/transparenta-decizionala",
+        "integritate": "https://www.dsptimis.ro/avertizor-integritate"
+      }
+    },
+    {
+      "county": "Vâlcea",
+      "url": "https://www.dspvalcea.ro",
+      "title": "Direcția de Sănătate Publică Vâlcea",
+      "sections": {
+        "conducere": "https://www.dspvalcea.ro/despre/conducere.php",
+        "declaratii": "https://www.dspvalcea.ro/interes/declaratii-avere-interes.php",
+        "integritate": "https://www.dspvalcea.ro/integritate-institutionala/cod.php"
+      }
+    }
+  ]
+}
