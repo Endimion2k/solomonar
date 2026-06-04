@@ -1,0 +1,3789 @@
+{
+  "generated_at": "2026-06-04T04:32:48.505923+00:00",
+  "sursa": "ministere + agentii (Legea 176/2010), crawl depth 3, fara CAPTCHA",
+  "total": 378,
+  "pdf_descarcate": 1484,
+  "pii_blocate": 0,
+  "declaratii": [
+    {
+      "institutie": "Ministerul Afacerilor Externe",
+      "pdf_url": "https://mae.ro/sites/default/files/file/anul_2021/2021_pdf/da_ba.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 402133,
+      "datorii_ron": 0,
+      "auto": 0
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2023/06/ADAM-RODICA-BIANCA-AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 143116,
+      "datorii_ron": 302102,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-ADAM-A.-BIANCA-RODICA-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 196468,
+      "datorii_ron": 218938,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-ADAM-A.-BIANCA-RODICA-anual-pana-la-15-iunie.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 196468,
+      "datorii_ron": 218938,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-ADAM-A.-RODICA-BIANCA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 143116,
+      "datorii_ron": 302102,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-OGLAKCI-G.-MIHAELA-CARMEN-30-de-zile-de-la-numire.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 81638,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/01/DA-OGLAKCI-G.-MIHAELA-CARMEN-anual-pana-la-15-iunie.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 93214,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/07/DA-OGLAKCI-G.-MIHAELA-CARMEN-anual-pana-la-15-iunie.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 89422,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2024/08/DA-ADAM-A.-BIANCA-RODICA-anual-pana-la-15-iunie.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 156359,
+      "datorii_ron": 218938,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Antonescu-I.-Anca-Stefania-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 1079912,
+      "venituri_ron": 103424,
+      "datorii_ron": 287850,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Buliga-G.-Toader-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 267336,
+      "datorii_ron": 299200,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-CIURTIN-P.-Mihaela-Elena-30-de-zile-de-la-numire.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 114093,
+      "datorii_ron": 328050,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-CIURTIN-P.-Mihaela-Elena-anual-pana-la-15-iunie.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 114093,
+      "datorii_ron": 294101,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-DUMITRESCU-G.-Gheorghe-Daniel-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 716517,
+      "venituri_ron": 123321,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-DUTA-S.-ANDRA-MARILENA-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 100849,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Duminecianu-G.-Raluca-Gabriela-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 611078,
+      "datorii_ron": 390000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Duminecianu-G.-Raluca-Gabriela-30-de-zile-de-la-numire.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 611078,
+      "datorii_ron": 390000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-FLAVIUS-F.-Vasile-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 47293,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-FLAVIUS-F.-Vasile-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 47293,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-MANOLACHE-M.-MADALINA-LACRAMIOARA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 198798,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Marasescu-F.-Mihaela-anual-pana-la-15-iunie.pdf",
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 128685,
+      "datorii_ron": 239952,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-OPREA-G.-MICA-30-de-zile-de-la-incetare.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 93168,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Otulescu-A.-Tudor-Alexandru-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 50000,
+      "venituri_ron": 129569,
+      "datorii_ron": 133241,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-PANA-G.-Gheorghe-anual-pana-la-15-iunie.pdf",
+      "terenuri": 4,
+      "cladiri": 10,
+      "conturi_ron": 0,
+      "venituri_ron": 253767,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-POCORA-V.-MIHAIL-SILVIU-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 341260,
+      "datorii_ron": 630000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-STAN-A.-Anca-Maria-anual-pana-la-15-iunie.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 122645,
+      "datorii_ron": 47470,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Stirbu-G.R.-Sergiu-Marius-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 75305,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-TODECI-C.-ANDRA-MARIA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 77628,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-TOZA-F.-CLAUDINA-LIVIA-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 92729,
+      "datorii_ron": 75750,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-Vida-S.-Maria-Roxana-anual-pana-la-15-iunie.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 96000,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "pdf_url": "https://economie.gov.ro/wp-content/uploads/2025/07/DA-ZAMFIR-G.-Elena-Roxana-30-de-zile-de-la-numire.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 132000,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+      "pdf_url": "https://mdlpa.ro/uploads/articole/attachments/6490519e76eed259085361.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 82809,
+      "datorii_ron": 82809,
+      "auto": 0
+    },
+    {
+      "institutie": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
+      "pdf_url": "https://mdlpa.ro/uploads/articole/attachments/64905347df7d9716153804.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 242008,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/312aa845fb6c5e808fa30fb03f32be78.pdf",
+      "terenuri": 8,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 4452340,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/614d4c629a6c8c2ede5cc3e9fb326bdb.pdf",
+      "terenuri": 4,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 190701,
+      "datorii_ron": 350000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/d3eae620820efa5ec416f6b6f170de5e.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 466148,
+      "venituri_ron": 224976,
+      "datorii_ron": 388683,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/01/ec749970051e460e8a704504af4ead23.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 121176,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/%C8%98erban_N._Lucia_Amalia_LENpFXo.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 227864,
+      "datorii_ron": 230000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/%C8%98uicu_G._George-Ionu%C8%9B_U9N5ZgK.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 30304,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Abala%C8%99i_S._R%C4%83zvan-Bogdan.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 203543,
+      "datorii_ron": 275048,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Achimescu_A._Ion.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 163210,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Achimescu_Ion.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 124111,
+      "datorii_ron": 460757,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Al_Hasoon_Bugaru_Ana_Maria.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 98810,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Al_Hasoon_Bugaru_M._Ana-Maria.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 79518,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Albu_C._Constantina.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 288121,
+      "datorii_ron": 36000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Albu_C._Constantina_2.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 288121,
+      "datorii_ron": 36000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_A._leana_Andreea.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 42910,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_Ileana_Andreea.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 64750,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_Ileana_Andreea_2.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 64750,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alecu_S._Silviana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 69640,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_Florentina_Daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 90954,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_G._Sorin_Tiberiu.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 205000,
+      "venituri_ron": 320764,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_I._Florentina_Daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 81064,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Alexandrescu_Sorin_Tiberiu.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 25000,
+      "venituri_ron": 320764,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Amza_Monica_Ileana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 69520,
+      "datorii_ron": 275000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Amza_S._Monica-Ileana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 65291,
+      "datorii_ron": 275000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andra_Marius_Daniel.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 241114,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andra_R._Marius-Daniel.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 137308,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andreescu_D._Drago%C8%99-Valentin.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 43031,
+      "datorii_ron": 50000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Andreescu_Dragos_Valentin.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 50835,
+      "datorii_ron": 50000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angelescu_Mirela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 132965,
+      "datorii_ron": 463231,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angelescu_N._Mirela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 122992,
+      "datorii_ron": 463231,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Anghelache_F._Victori%C8%9Ba.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 109728,
+      "datorii_ron": 110000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Anghelache_Victorita.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 137194,
+      "datorii_ron": 110000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angheloiu_Gabriela.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 229009,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Angheloiu_T._Gabriela.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 152327,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Anghelu%C8%9B%C4%83_C._Carmen-Mihaela.pdf",
+      "terenuri": 5,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 348512,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Apostol_Gabriela.pdf",
+      "terenuri": 8,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 125634,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Apostol_I._Gabriela.pdf",
+      "terenuri": 8,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 134971,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Apostol_Livia_Mihaela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 295292,
+      "datorii_ron": 84103,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Aram%C4%83_V._Silvia.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 64601,
+      "datorii_ron": 329641,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Ardelean_A._Adrian_Cristian-Rectificativ%C4%83.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 101000,
+      "venituri_ron": 275647,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Ardelean_A._Adrian_Cristian.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 101000,
+      "venituri_ron": 272747,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Ardelean_A._Adrian_Cristian_2.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 101000,
+      "venituri_ron": 272747,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/B%C4%83dicu_B._Cornel.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 179903,
+      "datorii_ron": 481875,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/B%C4%83dil%C4%83_N._D%C4%83nu%C8%9B.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 225275,
+      "datorii_ron": 202000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/B%C4%83lan_A._Angela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 55025,
+      "datorii_ron": 86022,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/B%C4%83lan_A._Angela_2.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 55025,
+      "datorii_ron": 86022,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/B%C4%83lcescu_P._Constantina-Dora.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 135391,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/B%C4%83tr%C3%A2nu_I._Aura-Petrica.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 88889,
+      "datorii_ron": 47000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Badea_I._Ionela-Ramona.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 115650,
+      "datorii_ron": 17000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Badea_Ionela_Ramona.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 130297,
+      "datorii_ron": 17000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Badicu_Cornel.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 188520,
+      "datorii_ron": 481875,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Badicu_Cornel_rectificativa.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 188520,
+      "datorii_ron": 481875,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Badila_Danut.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 191588,
+      "datorii_ron": 202000,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Balan_Angela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 70078,
+      "datorii_ron": 86022,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Balcescu_Constantina_Dora.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 128554,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Barbu_Gabriela_Valentina.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78313,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Barbu_Georgiana_Laura.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 62272,
+      "datorii_ron": 277750,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Barbu_M._Georgiana_Laura.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 45957,
+      "datorii_ron": 277750,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Barbu_M._Georgiana_Laura_2.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 45957,
+      "datorii_ron": 277750,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Barbu_M._Georgiana_Laura_3.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 45957,
+      "datorii_ron": 277750,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Barbu_S._Gabriela-Valentina.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 71245,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bardo%C8%99_N._Carmen-Mihaela.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 127350,
+      "datorii_ron": 90000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bardo%C8%99_N._Carmen-Mihaela_2.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 127350,
+      "datorii_ron": 90000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bardo%C8%99_N._Carmen-Mihaela_3.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 127350,
+      "datorii_ron": 90000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bardors_Carmen_Mihaela_incetare.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 137130,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bardos_Carmen_Mihaela.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 137130,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Baron_Andreea_Elena.pdf",
+      "terenuri": 3,
+      "cladiri": 4,
+      "conturi_ron": 1493126,
+      "venituri_ron": 148372,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Baron_R._Andreea_Elena.pdf",
+      "terenuri": 3,
+      "cladiri": 4,
+      "conturi_ron": 1391895,
+      "venituri_ron": 130622,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Batranu_Aura_Petrica.pdf",
+      "terenuri": 2,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 94174,
+      "datorii_ron": 47000,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bibu_I._R%C4%83zvan-Ion.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 74891,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bibu_Razvan_Ion.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 89071,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bic%C4%83_M._Gabriela.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 74112,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bica_Gabriela.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 86437,
+      "datorii_ron": 87256,
+      "auto": 4
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Birchi_Adreea_Camelia.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 105425,
+      "datorii_ron": 264600,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Birchi_I._Andreea_Camelia.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 130567,
+      "datorii_ron": 264600,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Blidaru_G._Teodor-Cristian.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 279887,
+      "datorii_ron": 743601,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bobe_Gratiela_Fabiela.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 202000,
+      "venituri_ron": 154794,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Bobe_T._Gra%C8%9Biela-Fabiela.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 202000,
+      "venituri_ron": 144957,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Ministerul Culturii",
+      "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Cajal-S-DA-DI-2025.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10310,
+      "venituri_ron": 766954,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Ministerul Culturii",
+      "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 275981,
+      "datorii_ron": 27490,
+      "auto": 6
+    },
+    {
+      "institutie": "Ministerul Culturii",
+      "pdf_url": "https://www.cultura.ro/wp-content/uploads/2025/08/Demeter-A-DA-2025.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 275981,
+      "datorii_ron": 27490,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/1DA- PRICOPE C. ELENA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 166434,
+      "datorii_ron": 102049,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/2DA-PRICOPE C. ELENA INCETARE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 166434,
+      "datorii_ron": 102049,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4568234_a.pdf",
+      "terenuri": 5,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 292215,
+      "datorii_ron": 439107,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4579857_a.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 107845,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4579884_a.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 107845,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4583761_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 196188,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4583791_a.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 100287,
+      "datorii_ron": 313500,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4587520_a.pdf",
+      "terenuri": 1,
+      "cladiri": 7,
+      "conturi_ron": 0,
+      "venituri_ron": 140566,
+      "datorii_ron": 441127,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4610839_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 99574,
+      "datorii_ron": 234110,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4612579_a.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 140001,
+      "datorii_ron": 100734,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4635237_a.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 54251,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4638883_a.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 60135,
+      "datorii_ron": 68522,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4642039_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 155781,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4653071_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 72435,
+      "datorii_ron": 30300,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4658043_a.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 190334,
+      "datorii_ron": 238921,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4663613_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 125800,
+      "datorii_ron": 70200,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4669355_a.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 148640,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4676731_a.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 164880,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4678735_a.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 294668,
+      "datorii_ron": 652500,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4692733_a (1).pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 49762,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4710461_a.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 294668,
+      "datorii_ron": 652500,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4719928_a.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 102933,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/4724762_a.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 294132,
+      "datorii_ron": 595900,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/ABIBULA MEMET VIDAL-SEF SERVICIU-CT-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 162137,
+      "datorii_ron": 247154,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/ANDRAS ANGELICA VOICHITA - REGISTRATOR - HD - DA.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 167363,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/ANDRONACHE V. GABRIELA ELENA - REGISTRATOR - IS - DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 72605,
+      "datorii_ron": 30300,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/ANTON ANCA LAURA-REGISTRATOR-BH-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 104279,
+      "datorii_ron": 29000,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/ARION DIANA ADRIANA-REGISTRATOR-AB-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 156516,
+      "datorii_ron": 142620,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/AVRAMUTI AURELIA SIMONA-DIRECTOR-AR-DA.pdf",
+      "terenuri": 10,
+      "cladiri": 4,
+      "conturi_ron": 755577,
+      "venituri_ron": 147129,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BABAN MONA GEORGETA DIRECTOR - BUCURESTI DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 98823,
+      "datorii_ron": 27000,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BADEA ADRIANA MIHAELA - SEF SERVICIU - BUCURESTI - DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 175209,
+      "datorii_ron": 50000,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BAIU CAMELIA-DIRECTOR-TL-DA.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 139188,
+      "datorii_ron": 130000,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BALACIU ALEXANDRU IOAN-REGISTRATOR-BV-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 130871,
+      "datorii_ron": 20000,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BALAN CATALIN ALIN-REGISTRATOR-BC-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 762967,
+      "datorii_ron": 40200,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BALAN CATALINA IOANA-REGISTRATOR-IS-DA.pdf",
+      "terenuri": 2,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 220235,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BALAN NICOLETA-AUDITOR DE REGISTRU-ONRC-DA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 199940,
+      "datorii_ron": 388850,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BALICA COSMINA-DIRECTOR-GJ-DA.pdf",
+      "terenuri": 4,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 495927,
+      "datorii_ron": 70000,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BALINT DANIELA - REGISTRATOR - BH - DA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 104352,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BANCULEA DUMITRU-DANIEL-SEF SERVICIU-GJ-DA.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 162448,
+      "datorii_ron": 448200,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BARANIUC GEORGIANA-DIRECTOR-PH-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 207590,
+      "datorii_ron": 317600,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BARBIERU MARIANA IRINA-FONDURI-ONRC0DA-LA INCETARE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 64364,
+      "datorii_ron": 212100,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BARBU CLAUDIA-REGISTRATOR-DJ-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 92446,
+      "datorii_ron": 190000,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BEBESELEA ANA CARMEN-REGISTRATOR -SB-LA INCETARE.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 151080,
+      "datorii_ron": 131300,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BEJENARIU MIHAELA-REGISTRATOR-IS-DA.pdf",
+      "terenuri": 25,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 132767,
+      "datorii_ron": 190674,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BENTA NICOLETA-REGISTRATOR-IS-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 110581,
+      "datorii_ron": 166150,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BERCI I. IRINA GEORGETA - REGISTRATOR - TM -DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 181561,
+      "datorii_ron": 108616,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BITA ADRIAN-CEZAR-ONRC-DA-LA INCETARE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 388382,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BOGA CARMEN DANIELA - REGISTRATOR - BV-DA .pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 177601,
+      "datorii_ron": 26300,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BOLINTIRU G.H.E. MIHAELA - REGISTRATOR - BUCURESTI - DA.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 176489,
+      "datorii_ron": 236843,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BORSA MONICA-SEF SERVICIU-BN-DA-ANUALA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 274765,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BORSA MONICA-SEF SERVICIU-BN-DA-LA NUMIRE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 288765,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BRANESCU ELENA CERASELA-SEF SERVICIU-ONRC-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 125961,
+      "datorii_ron": 220458,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BREBEANU SMARANDA-DIRECTOR-DB-DA.pdf",
+      "terenuri": 2,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 110751,
+      "datorii_ron": 64135,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BUBATU NICOLETA CERASELA-DIRECTOR-OT-DA.pdf",
+      "terenuri": 3,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 240458,
+      "datorii_ron": 110000,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BUGEAG OVIDIU-REGISTRATOR-IF-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 190939,
+      "datorii_ron": 450000,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BUGEAG OVIDIU-REGISTRATOR-RECTIFICATIVA-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 190939,
+      "datorii_ron": 1042054,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BUJOREANU ALINA ELENA-REGISTRATOR-BC-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 191176,
+      "datorii_ron": 606000,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BUNDA MARIANA-REGISTRATOR-CJ-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 228330,
+      "datorii_ron": 204840,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BUNEA ALEXANDRU - REGISTRATOR-TM -DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 184667,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BURA UGLEAN IRINA-SEF SERVICIU-B-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 338572,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BURDESCU BOGDAN-MIHAIL - DIRECTOR - ONRC - DA.pdf",
+      "terenuri": 6,
+      "cladiri": 7,
+      "conturi_ron": 0,
+      "venituri_ron": 237421,
+      "datorii_ron": 329304,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/BURDESCU VALENTINA- DIRECTOR - ONRC - DA.pdf",
+      "terenuri": 6,
+      "cladiri": 7,
+      "conturi_ron": 0,
+      "venituri_ron": 237421,
+      "datorii_ron": 329304,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CAFORIO CRISTINA-VIORICA-SEF SERVICIU-HD-DA.pdf",
+      "terenuri": 6,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 286819,
+      "datorii_ron": 349422,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CANDALE ANCA MARIA-REGISTRATOR-SB-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 94846,
+      "datorii_ron": 293961,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CARASEL ADRIAN GABRIEL SEF SERVICIU - BUCURESTI - DA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 177026,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CATRINA ELENA SIMONA-REGISTRATOR-OT-DA.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 132025,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CERNAIANU SILVANA - SEF SERVICIU - TM- DA.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 193840,
+      "datorii_ron": 82618,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CERNAT ELENA-DIRECTOR-NȚ-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 194196,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CETEAN RALUCA ANA-REGISTRATOR-CJ-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 180877,
+      "datorii_ron": 383400,
+      "auto": 5
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CHITU STEFANIA CARMEN-DIRECTOR-B-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 176478,
+      "datorii_ron": 49600,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CIMPU G.R. AMALIA - REGISTRATOR - MH - DA.pdf",
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 161218,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CIOBANU MARIANA AGNES-REGISTRATOR-OT-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 208631,
+      "datorii_ron": 441975,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CIOCEA EMILIA-REGISTRATOR-B-DA.pdf",
+      "terenuri": 9,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 226857,
+      "datorii_ron": 58810,
+      "auto": 7
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CIOTLOS VIOLETA GABRIELA-REGISTRATOR-HR-DA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 200499,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2025/CIUREA ANCA-SEF SERVICIU-NT-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 168618,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/17190_avere_2021_ADAMESCU_F._GHEORGHE_A_.pdf",
+      "terenuri": 7,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/17242_avere_2018_AGAPI_VERGINIA_.pdf",
+      "terenuri": 4,
+      "cladiri": 3,
+      "conturi_ron": 95000,
+      "venituri_ron": 65028,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/38258_avere_2023_AFANASE_C.EMANUELA_RODICA_A_.pdf",
+      "terenuri": 4,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 123886,
+      "datorii_ron": 30000,
+      "auto": 5
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/42054_avere_2024_ABALASEI_C._LAURENTIU_CONSTANTIN_A_.pdf",
+      "terenuri": 5,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 161610,
+      "datorii_ron": 25000,
+      "auto": 5
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/44267_avere_2024_ABRUDEAN_S._ADINA_A_.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 645020,
+      "venituri_ron": 715084,
+      "datorii_ron": 999289,
+      "auto": 4
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/44387_avere_2024_ABALASEI_C._LAURENTIU_CONSTANTIN_A_INCETAREpdf_.pdf",
+      "terenuri": 5,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 161610,
+      "datorii_ron": 25000,
+      "auto": 5
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/44634_avere_2025_ADAM_G.H._DIANA_IOANA_A_.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 215865,
+      "datorii_ron": 151500,
+      "auto": 5
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/44961_avere_2025_ACATINCA_G.H.E._CORINA_ELENA_A_.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 158265,
+      "datorii_ron": 200084,
+      "auto": 6
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/45776_avere_2025_ABALARU_G.H._DANIEL_A_.pdf",
+      "terenuri": 4,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 212168,
+      "datorii_ron": 44200,
+      "auto": 6
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/46965_avere_2025_ABRAHAM_D._AUGUSTIN_STEFAN_D.A_.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 209334,
+      "datorii_ron": 221960,
+      "auto": 6
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/8180_avere_2011_Aflorei_Radu_.pdf",
+      "terenuri": 6,
+      "cladiri": 8,
+      "conturi_ron": 0,
+      "venituri_ron": 59757,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Curtea de Conturi",
+      "pdf_url": "https://www.curteadeconturi.ro/wp-content/uploads/2025/12/9838_avere_2012_Abrudan_Gabriela_.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 61562,
+      "datorii_ron": 353500,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/2022/09/Filip-I.-Raluca-DA-2.pdf",
+      "terenuri": 1,
+      "cladiri": 6,
+      "conturi_ron": 0,
+      "venituri_ron": 212547,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/2022/10/Oprea-V.-Ileana-–-Roxana-DA-3.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 104592,
+      "datorii_ron": 191800,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/2023/11/Diaconescu-Ct.-Daniel-DA-2.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 132284,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/2023/11/Ţigău-Fl.-Cristina-DA-2-27.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 139198,
+      "datorii_ron": 592750,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/2024/03/ALEXANDROIU-D.-Elena-Simona-DA_a.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 87429,
+      "datorii_ron": 334165,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/2024/04/ALEXANDROIU-D.-Elena-Simona-DA_aa.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 87429,
+      "datorii_ron": 334165,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ALBERT-V.-LIZUCA-DA_a.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 71801,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ANDREI-A.-FLORIN-DA_a.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 284546,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ANGHEL-M.-DANIEL-LIVIU-DA_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 178271,
+      "datorii_ron": 50000,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ANGLITOIU-G.-GEORGE-CLAUDIU-DA_a-1.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 294732,
+      "venituri_ron": 271351,
+      "datorii_ron": 880183,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ANGLITOIU-G.-GEORGE-CLAUDIU-DA_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 294732,
+      "venituri_ron": 271351,
+      "datorii_ron": 880183,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ARICIU-A.-MARIA-IULIA-DA_a-1.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 95026,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ARICIU-A.-MARIA-IULIA-DA_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 95026,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ARVA-D.-Alina-DA_a-1.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 131914,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/ARVA-D.-Alina-DA_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 131914,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/08/Andrei-P.-Maria-DA_a.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 284546,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2024/12/4502692_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76395,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4580099_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 95197,
+      "datorii_ron": 84000,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4618791_a.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 124591,
+      "datorii_ron": 262600,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4619539_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 112775,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4626881_a.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 40000,
+      "venituri_ron": 357146,
+      "datorii_ron": 281839,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4633117_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 89805,
+      "datorii_ron": 100000,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4637873_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 177872,
+      "datorii_ron": 70200,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4646499_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 121940,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4646559_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 141442,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4677263_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 264830,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4678335_a.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 269483,
+      "datorii_ron": 438932,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4678827_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 264830,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4679243_a.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 351850,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4684765_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 148658,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4691107_a.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 194956,
+      "datorii_ron": 110780,
+      "auto": 5
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4693497_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 76986,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Consiliul Concurenței",
+      "pdf_url": "https://www.consiliulconcurentei.ro/wp-content/uploads/declaratii/2025/03/4694511_a.pdf",
+      "terenuri": 5,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 207916,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/ALBU-DRINA.pdf",
+      "terenuri": 2,
+      "cladiri": 4,
+      "conturi_ron": 40000,
+      "venituri_ron": 113497,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/GASCA-NICOLETA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 78244,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/IORDAN-MIHAELA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 171364,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/NAN-GHE.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 88044,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/PANA-MARIN.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 167456,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/diaconescu.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 132626,
+      "datorii_ron": 31000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/dumitru-adrian.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 54717,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/feraru-bianca.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 154742,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/04/luca-mihaela.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 78160,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Anca-Costel.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 129442,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Bica-Laura.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 75609,
+      "datorii_ron": 228110,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/CJ.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 122742,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/DULAU-RECTIFICATIVA-DA.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 156451,
+      "datorii_ron": 125185,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/GARJOABA-RECTIFICATIVA-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 78290,
+      "datorii_ron": 212100,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/GR.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 272299,
+      "datorii_ron": 88000,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Grajdeanu-sanda-Cristina.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 90484,
+      "datorii_ron": 86435,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Iancu-Mihaela.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 103179,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Irimie-Cristina.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 78301,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Lapte-Florin.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 78654,
+      "datorii_ron": 68000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Lepar-Zoe.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 84519,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Margarit-Adina.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 99702,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/PDG-BV-Daisa-Ancuta.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 139573,
+      "datorii_ron": 189375,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/PDG-BZ-Oncel-Eliza.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 107298,
+      "datorii_ron": 428400,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/PDG-CS-Zeman-Mirela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 125559,
+      "datorii_ron": 106753,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/PDG-IS-Tibichi-Radu.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 164622,
+      "datorii_ron": 265075,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/PDG-TR-Tita-Nicusor.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 154881,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Padureanu-Delia.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 44000,
+      "venituri_ron": 104144,
+      "datorii_ron": 72371,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/PetcuSafta-Andreea.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 109649,
+      "datorii_ron": 513484,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Popa-Ioana.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 104357,
+      "datorii_ron": 207500,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Siclovan-Cristina.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78061,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Velea-Valeriu.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 114131,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Vlaicu-Angelica.pdf",
+      "terenuri": 2,
+      "cladiri": 8,
+      "conturi_ron": 0,
+      "venituri_ron": 105857,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Zabulic-Laura.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 72453,
+      "datorii_ron": 176750,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/Zamfirescu-Loredana.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 151669,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/alecu-rectificativa-DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78671,
+      "datorii_ron": 328250,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/andriescu-valerica.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 77801,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/birau-elisabeta.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 113484,
+      "datorii_ron": 171482,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/blidaru-annemarie.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76192,
+      "datorii_ron": 205336,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/bogdan-mihai-adrian.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 76197,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/bratianu.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78408,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/bratu-cristina.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 80423,
+      "datorii_ron": 317000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/bruma.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 252500,
+      "venituri_ron": 205077,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/brusten-daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 82398,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/bucataru-daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 152948,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/buga-florentina.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 137958,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/burcea-florina.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78151,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/burghiu-violeta.pdf",
+      "terenuri": 7,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 157523,
+      "datorii_ron": 297700,
+      "auto": 7
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/buzaianu-victor-dan.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78074,
+      "datorii_ron": 64640,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/carstea-catalin.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 173191,
+      "datorii_ron": 544705,
+      "auto": 8
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/chitariu-mihaela-gabriela.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 97108,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/cioca-florentina.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 90388,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/cirstea.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 173191,
+      "datorii_ron": 544705,
+      "auto": 8
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/cojocariu-ioana.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 44040,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/conceatu-raluca.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 119195,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/cosacenco-vlad-stefan.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 79235,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/cozma-elena.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 75698,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/craciun-elena.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 223854,
+      "datorii_ron": 100000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/culda-gabriela.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 77952,
+      "datorii_ron": 197700,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/curcan-mihaela.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 78218,
+      "datorii_ron": 233000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/dulea.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 80055,
+      "datorii_ron": 441370,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/dumitrascu.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 136111,
+      "datorii_ron": 60000,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/dumitrescu-alexandra-raluca.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 48275,
+      "datorii_ron": 65000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/dumitru-florenta.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 58702,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/dumitru.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 80422,
+      "datorii_ron": 85000,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/duta-sorin.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 213474,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/dutu-mihaela.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 118762,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/eremia.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 189150,
+      "datorii_ron": 140989,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/florescu-berendei-elia-monica.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 110281,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/georgian-iuliana.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 131426,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/ghintuiala-georgeta.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78260,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/herascu.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 127278,
+      "datorii_ron": 266900,
+      "auto": 7
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/iavorschi-gabriel.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 78222,
+      "datorii_ron": 287850,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/ilie.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 127507,
+      "datorii_ron": 90000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/ionescu-cornelia-teodora.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 144431,
+      "datorii_ron": 80000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/iorga-alexandru.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 135817,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/iosif.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 176796,
+      "datorii_ron": 409250,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/jitea-daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 189990,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/lozer-dona.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 79401,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/maguleanu-catalin.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 131885,
+      "datorii_ron": 338532,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/mandache-nadia.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 148384,
+      "datorii_ron": 272000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/manescu-barney.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 127953,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/mihaila.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76180,
+      "datorii_ron": 284738,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/morar-cecilia-anisoara.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 68896,
+      "datorii_ron": 201000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/nedelcu-camelia-tamara-BR.pdf",
+      "terenuri": 1,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 248581,
+      "datorii_ron": 100000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/niculae-cristina.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 129780,
+      "datorii_ron": 66500,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/niculae-mihai.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 127683,
+      "datorii_ron": 66500,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/niculescu-anca-luana.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 274561,
+      "datorii_ron": 858500,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/nicuta-geanina.pdf",
+      "terenuri": 6,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 74841,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/ochiana-maricica.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 86144,
+      "datorii_ron": 90900,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/patrana.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 172215,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/pdg-ct.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 150911,
+      "datorii_ron": 680808,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/pdg-dj.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 225170,
+      "datorii_ron": 300000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/penelea-isabelle.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 104590,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/poenaru-mihaela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 77523,
+      "datorii_ron": 255025,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/popa-cristian-lorin.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 110300,
+      "venituri_ron": 205360,
+      "datorii_ron": 421582,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/popescu.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 134028,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/popovici.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76496,
+      "datorii_ron": 222200,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/radulescu-elena.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 198530,
+      "datorii_ron": 519200,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/rusescu-georgeta.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 467671,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/sesovici.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 77707,
+      "datorii_ron": 30000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/staicu-bogdan-stefan.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 122335,
+      "datorii_ron": 283052,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/stoea-iulia.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 344236,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/stoica.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 130002,
+      "datorii_ron": 52000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/tanase-iulica.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76241,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/tanga.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 118267,
+      "datorii_ron": 50500,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/taroiu.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 178194,
+      "datorii_ron": 207445,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/toma-mihaela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 42604,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/05/virlan-luminita.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 158734,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/AG.pdf",
+      "terenuri": 3,
+      "cladiri": 6,
+      "conturi_ron": 0,
+      "venituri_ron": 132156,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/AR.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 35337,
+      "venituri_ron": 104391,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/BC.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 30000,
+      "venituri_ron": 213636,
+      "datorii_ron": 63948,
+      "auto": 7
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/BN.pdf",
+      "terenuri": 10,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 108485,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/BT.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 161011,
+      "datorii_ron": 90000,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/CA-Ancu.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76786,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/CA-manolache.pdf",
+      "terenuri": 4,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 90434,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/CA-nedelcu.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 111523,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/CL.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 75000,
+      "venituri_ron": 596784,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/CV.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 120572,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/DA-rectificativa-Ionescu-Mariana.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 146161,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2022/06/DB.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 99636,
+      "datorii_ron": 98300,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/%C8%98ontropa.Magda/2022/DA_Sontropa_Magda_Simona.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 46785,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANGHEL.IONELA%20CLAUDIA/2023/DA_ANGHEL_IONELA_CLAUDIA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 45000,
+      "venituri_ron": 72356,
+      "datorii_ron": 313717,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANGHEL.IONELA%20CLAUDIA/2023/DA_ANGHEL_IONELA_r.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 72356,
+      "datorii_ron": 313717,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANGHEL.IONELA%20CLAUDIA/2024/DA_ANGHEL_IONELA_CLAUDIA_a.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 165303,
+      "datorii_ron": 948565,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANGHELUTA.IONEL_ALEXANDRU/2024/DA_ANGHELUTA_IONEL_ALEXANDRU.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 72773,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANTAL.BACSO%20ATILA/2023/DA_ANTAL_BACSO_ATILA.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 96370,
+      "datorii_ron": 8700,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANTAL.BACSO%20ATILA/2024/DA_ANTAL_BACSO_ATILA_i.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 50500,
+      "venituri_ron": 142084,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ANTONACHE.ANA_MARIA/2024/DA__ANTONACHE_ANA_MARIA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 218021,
+      "datorii_ron": 158300,
+      "auto": 5
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ARDELEANU.VALENTINA%20OLGA/2023/DA_ARDELEANU_VALENTINA_OLGA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 206750,
+      "datorii_ron": 90000,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ARDELEANU.VALENTINA%20OLGA/2024/DA_ARDELEANU_VALENTINA_OLGA_a.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 226889,
+      "datorii_ron": 90000,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/AVRAM.FLORINA-ANDREEA/2022/DA_AVRAM_FLORINA_DIR_EX_AJOFM_BACAU.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 150150,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Anghel.Ionela/2022/DA_Anghel_Ionela.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 151769,
+      "datorii_ron": 307305,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Angheluta.Alexandru/2022/DA_Angheluta_Alexandru.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 48734,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Angheluta.Ionel_Alexandru_Viorel/2023/Angheluta_Ionel_Alexandru__Viorel_DA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 62500,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Angheluta.Stefan/2022/Anghelut_Stefan__DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 97200,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Angheluta.Stefan/2022/DA__ANGHELUTA__STEFAN.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 98137,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Antal.Atila/2022/DA_Antal_Atila.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 104757,
+      "datorii_ron": 8700,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Antonache.Ana%20Maria/2020/Antonache_Ana_Maria_AV20200520_DAPMPOFPFM.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 111529,
+      "datorii_ron": 158300,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Antonache.Ana%20Maria/2022/Antonache_Ana_Maria_DA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 189970,
+      "datorii_ron": 158300,
+      "auto": 5
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Apostol.Ionela/2022/DA_Apostol_Ionela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 86556,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Apostol.Ionela/2022/DI_Apostol_Ionela.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 86556,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Apostol.Ionela/2023/Apostol_Ionela_DA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 86845,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Ardeleanu.Valentina_Olga/2022/DA_Ardeleanu_Valentina_Olga.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 204648,
+      "datorii_ron": 90000,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/B%C4%83cil%C4%83.Mariana/2023/Bacila_Mariana_DA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 174817,
+      "venituri_ron": 381344,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/BADEA%20.MIHAELA%20GABRIELA/2023/DA_BADEA_MIHAELA_GABRIELA_.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 174712,
+      "datorii_ron": 303637,
+      "auto": 4
+    }
+  ]
+}
