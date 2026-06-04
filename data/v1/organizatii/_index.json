@@ -703,12 +703,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspalba.ro",
       "county": "Alba",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -719,12 +719,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dsparad.ro",
       "county": "Arad",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -735,12 +735,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "dsparges.ro",
       "county": "Argeș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -767,12 +767,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspbihor.ro",
       "county": "Bihor",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -799,12 +799,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspbotosani.ro",
       "county": "Botoșani",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -879,12 +879,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspcalarasi.ro",
       "county": "Călărași",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -895,12 +895,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspcluj.ro",
       "county": "Cluj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -927,12 +927,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspcovasna.ro",
       "county": "Covasna",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -975,12 +975,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dsp-galati.ro",
       "county": "Galați",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -991,12 +991,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspgiurgiu.ro",
       "county": "Giurgiu",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1023,12 +1023,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspharghita.ro",
       "county": "Harghita",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1055,12 +1055,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspialomita.ro",
       "county": "Ialomița",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1071,12 +1071,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspiasi.ro",
       "county": "Iași",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1087,12 +1087,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspilfov.ro",
       "county": "Ilfov",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1167,12 +1167,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspolt.ro",
       "county": "Olt",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1231,12 +1231,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspsibiu.ro",
       "county": "Sibiu",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1279,12 +1279,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dsptimis.ro",
       "county": "Timiș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1295,12 +1295,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dsptulcea.ro",
       "county": "Tulcea",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -1327,12 +1327,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dspvalcea.ro",
       "county": "Vâlcea",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -3759,12 +3759,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.ajofmiasi.ro",
       "county": "Iași",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4063,12 +4063,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmalba.ro",
       "county": "Alba",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4079,12 +4079,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmarad.ro",
       "county": "Arad",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4095,12 +4095,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmarges.ro",
       "county": "Argeș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4111,12 +4111,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmbacau.ro",
       "county": "Bacău",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4127,12 +4127,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmbihor.ro",
       "county": "Bihor",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4159,12 +4159,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmbotosani.ro",
       "county": "Botoșani",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4175,12 +4175,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmbrasov.ro",
       "county": "Brașov",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4191,12 +4191,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmbraila.ro",
       "county": "Brăila",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4207,12 +4207,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmbuzau.ro",
       "county": "Buzău",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4239,12 +4239,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmcalarasi.ro",
       "county": "Călărași",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4255,12 +4255,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmcluj.ro",
       "county": "Cluj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4271,12 +4271,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmconstanta.ro",
       "county": "Constanța",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4287,12 +4287,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmcovasna.ro",
       "county": "Covasna",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4303,12 +4303,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmdambovita.ro",
       "county": "Dâmbovița",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4335,12 +4335,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmgalati.ro",
       "county": "Galați",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4351,12 +4351,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmgiurgiu.ro",
       "county": "Giurgiu",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4367,12 +4367,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmgorj.ro",
       "county": "Gorj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4399,12 +4399,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmhunedoara.ro",
       "county": "Hunedoara",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4415,12 +4415,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmialomita.ro",
       "county": "Ialomița",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4431,12 +4431,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmiasi.ro",
       "county": "Iași",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4447,12 +4447,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmilfov.ro",
       "county": "Ilfov",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4463,12 +4463,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmmaramures.ro",
       "county": "Maramureș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4479,12 +4479,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmmehedinti.ro",
       "county": "Mehedinți",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4495,12 +4495,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmmures.ro",
       "county": "Mureș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4511,12 +4511,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmneamt.ro",
       "county": "Neamț",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4559,12 +4559,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmsatumare.ro",
       "county": "Satu Mare",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4575,12 +4575,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmsalaj.ro",
       "county": "Sălaj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4607,12 +4607,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmsuceava.ro",
       "county": "Suceava",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4623,12 +4623,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmteleorman.ro",
       "county": "Teleorman",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4639,12 +4639,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmtimis.ro",
       "county": "Timiș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4655,12 +4655,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "itmtulcea.ro",
       "county": "Tulcea",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4671,12 +4671,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.itmvaslui.ro",
       "county": "Vaslui",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4735,12 +4735,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjalba.ro",
       "county": "Alba",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4767,12 +4767,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjarges.ro",
       "county": "Argeș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4799,12 +4799,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjbihor.ro",
       "county": "Bihor",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4831,12 +4831,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjbotosani.ro",
       "county": "Botoșani",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4847,12 +4847,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjbrasov.ro",
       "county": "Brașov",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4863,12 +4863,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjbraila.ro",
       "county": "Brăila",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4879,12 +4879,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjbuzau.ro",
       "county": "Buzău",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4927,12 +4927,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjcluj.ro",
       "county": "Cluj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -4991,12 +4991,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjdolj.ro",
       "county": "Dolj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5023,12 +5023,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjgiurgiu.ro",
       "county": "Giurgiu",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5039,12 +5039,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjgorj.ro",
       "county": "Gorj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5087,12 +5087,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjialomita.ro",
       "county": "Ialomița",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5119,12 +5119,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "isjilfov.ro",
       "county": "Ilfov",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5151,12 +5151,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjmehedinti.ro",
       "county": "Mehedinți",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5183,12 +5183,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjneamt.ro",
       "county": "Neamț",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5199,12 +5199,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjolt.ro",
       "county": "Olt",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5327,12 +5327,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjtulcea.ro",
       "county": "Tulcea",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5359,12 +5359,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjvalcea.ro",
       "county": "Vâlcea",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -5375,12 +5375,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.isjvrancea.ro",
       "county": "Vrancea",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -15007,12 +15007,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.ocpicluj.ro",
       "county": "Cluj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -15071,12 +15071,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.ocpidolj.ro",
       "county": "Dolj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -15199,12 +15199,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.ocpiilfov.ro",
       "county": "Ilfov",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -15391,12 +15391,12 @@
       "tier": "deconcentrated",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.ocpitimis.ro",
       "county": "Timiș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20207,12 +20207,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspc-arad.ro",
       "county": "Arad",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20239,12 +20239,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcbacau.ro",
       "county": "Bacău",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20255,12 +20255,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcbihor.ro",
       "county": "Bihor",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20319,12 +20319,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcbraila.ro",
       "county": "Brăila",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20335,12 +20335,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspc-buzau.ro",
       "county": "Buzău",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20383,12 +20383,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspc-cluj.ro",
       "county": "Cluj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20447,12 +20447,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcdolj.ro",
       "county": "Dolj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20463,12 +20463,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcgalati.ro",
       "county": "Galați",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20495,12 +20495,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcgorj.ro",
       "county": "Gorj",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20623,12 +20623,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcmures.ro",
       "county": "Mureș",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20639,12 +20639,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspcneamt.ro",
       "county": "Neamț",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],
@@ -20655,12 +20655,12 @@
       "tier": "local_autonomy",
       "parent": null,
       "tutelary_authority": null,
-      "domain": null,
+      "domain": "www.dgaspc-olt.ro",
       "county": "Olt",
       "cif": null,
       "valid_from": null,
       "valid_to": null,
-      "placeholder": true
+      "placeholder": false
     },
     {
       "sources": [],

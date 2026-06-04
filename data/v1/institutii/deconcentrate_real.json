@@ -1,0 +1,906 @@
+{
+  "generated_at": "2026-06-04T20:48:51.841991+00:00",
+  "gasite": 87,
+  "pe_tip": {
+    "DSP": 19,
+    "ITM": 32,
+    "OCPI": 4,
+    "AJOFM": 1,
+    "ISJ": 19,
+    "DGASPC": 12
+  },
+  "institutii": [
+    {
+      "service": "DSP",
+      "county": "Alba",
+      "url": "https://www.dspalba.ro",
+      "title": "DSP ALBA",
+      "sections": {
+        "conducere": "https://dspalba.ro/conducerea/",
+        "declaratii": "https://dspalba.ro/declaratii-avere-si-interese/",
+        "transparenta": "https://dspalba.ro/transparenta-decizionala/",
+        "integritate": "https://dspalba.ro/avertizor-integritate/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Arad",
+      "url": "https://www.dsparad.ro",
+      "title": "Acasă - DSP Arad",
+      "sections": {
+        "conducere": "https://dsparad.ro/conducere/",
+        "integritate": "https://dsparad.ro/integritate/",
+        "transparenta": "https://dsparad.ro/transparenta/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Argeș",
+      "url": "https://dsparges.ro",
+      "title": "Homepage-DSP Arges",
+      "sections": {}
+    },
+    {
+      "service": "DSP",
+      "county": "Bihor",
+      "url": "https://www.dspbihor.ro",
+      "title": "dspbihor.ro",
+      "sections": {}
+    },
+    {
+      "service": "DSP",
+      "county": "Botoșani",
+      "url": "https://www.dspbotosani.ro",
+      "title": "Acasa - DIRECTIA DE SANATATE PUBLICA",
+      "sections": {
+        "conducere": "https://dspbotosani.ro/conducerea/",
+        "declaratii": "https://dspbotosani.ro/declaratii-avere-si-interese/",
+        "transparenta": "https://dspbotosani.ro/transparenta-decizionala/",
+        "integritate": "https://dspbotosani.ro/avertizor-integritate/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Călărași",
+      "url": "https://www.dspcalarasi.ro",
+      "title": "Acasă - Direcția de Sănătate Publică a județului Călăra",
+      "sections": {
+        "conducere": "https://dspcalarasi.ro/conducere/",
+        "integritate": "https://dspcalarasi.ro/integritate/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Cluj",
+      "url": "https://www.dspcluj.ro",
+      "title": "Direcţia de Sănătate Publică a Judeţului Cluj",
+      "sections": {
+        "conducere": "javascript:void(0);",
+        "integritate": "https://www.dspcluj.ro/page/declaratia-privind-asumarea-unei-agende-de-integritate-organizationala",
+        "declaratii": "https://www.dspcluj.ro/page/declaratii-de-avere-si-de-interese"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Covasna",
+      "url": "https://www.dspcovasna.ro",
+      "title": "Direcția de Sănătate Publică Covasna |",
+      "sections": {}
+    },
+    {
+      "service": "DSP",
+      "county": "Galați",
+      "url": "https://www.dsp-galati.ro",
+      "title": "Acasă - DSP Galati",
+      "sections": {
+        "conducere": "https://dsp-galati.ro/conducere/",
+        "integritate": "https://dsp-galati.ro/avertizor-de-integritate/",
+        "transparenta": "https://dsp-galati.ro/transparenta-decizionala/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Giurgiu",
+      "url": "https://www.dspgiurgiu.ro",
+      "title": "Acasă - DSP Giurgiu",
+      "sections": {
+        "conducere": "https://dspgiurgiu.ro/conducere/",
+        "declaratii": "https://dspgiurgiu.ro/declaratii-de-avere/",
+        "integritate": "https://dspgiurgiu.ro/integritate/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Harghita",
+      "url": "https://www.dspharghita.ro",
+      "title": "Home - DSP Harghita",
+      "sections": {
+        "conducere": "https://www.dspharghita.ro/ro/despre-noi/conducere/",
+        "integritate": "https://www.dspharghita.ro/ro/informatii-de-interes-public/integritate-institutionala/",
+        "declaratii": "https://www.dspharghita.ro/ro/informatii-de-interes-public/declaratii-de-avere-si-interese/",
+        "transparenta": "https://www.dspharghita.ro/ro/transparenta-decizionala/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Ialomița",
+      "url": "https://www.dspialomita.ro",
+      "title": "D.S.P.Ialomita",
+      "sections": {
+        "conducere": "https://www.dspialomita.ro/conducere.html",
+        "integritate": "https://www.dspialomita.ro/declaratie_integritate.html",
+        "declaratii": "https://www.dspialomita.ro/avertizare_integritate.html",
+        "transparenta": "https://www.dspialomita.ro/transparenta_decizionala.html"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Iași",
+      "url": "https://www.dspiasi.ro",
+      "title": "DSP Iasi | Direcția de Sănătate Publică Iași",
+      "sections": {
+        "conducere": "https://dspiasi.ro/despredsp/conducere/",
+        "declaratii": "https://dspiasi.ro/despredsp/declaratii-de-avere/",
+        "integritate": "https://dspiasi.ro/informatii-utile/legislatie/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Ilfov",
+      "url": "https://www.dspilfov.ro",
+      "title": "DSP ILFOV",
+      "sections": {
+        "integritate": "https://www.dspilfov.ro/EVALUARE ANUALA PLAN INTEGRITATE DSP ILFOV 23.05.02.pdf",
+        "conducere": "https://www.dspilfov.ro/conducere dsp.pdf#zoom=175"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Olt",
+      "url": "https://www.dspolt.ro",
+      "title": "DSP Olt – Directia de Sanatate Publica Olt",
+      "sections": {
+        "conducere": "https://dspolt.ro/conducerea/",
+        "integritate": "https://dspolt.ro/integritatea-institutionala/"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Sibiu",
+      "url": "https://www.dspsibiu.ro",
+      "title": "Direcția de Sănătate Publică Județeană Sibiu",
+      "sections": {
+        "conducere": "https://www.dspsibiu.ro/despre-noi/conducere.php",
+        "integritate": "https://www.dspsibiu.ro/informatii-publice/plan-integritate.php",
+        "declaratii": "https://www.dspsibiu.ro/informatii-publice/declaratii-avere-interese.php"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Timiș",
+      "url": "https://www.dsptimis.ro",
+      "title": "Direcţia de Sănătate Publică Timiş",
+      "sections": {
+        "conducere": "https://www.dsptimis.ro/conducere",
+        "transparenta": "https://www.dsptimis.ro/transparenta-decizionala",
+        "integritate": "https://www.dsptimis.ro/avertizor-integritate"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Tulcea",
+      "url": "https://www.dsptulcea.ro",
+      "title": "Direcția de Sănătate Publică Tulcea",
+      "sections": {
+        "integritate": "https://www.dsptulcea.ro/info-interes-public/integritate-institutionala.php",
+        "declaratii": "https://www.dsptulcea.ro/info-interes-public/declaratii.php"
+      }
+    },
+    {
+      "service": "DSP",
+      "county": "Vâlcea",
+      "url": "https://www.dspvalcea.ro",
+      "title": "Direcția de Sănătate Publică Vâlcea",
+      "sections": {
+        "conducere": "https://www.dspvalcea.ro/despre/conducere.php",
+        "declaratii": "https://www.dspvalcea.ro/interes/declaratii-avere-interes.php",
+        "integritate": "https://www.dspvalcea.ro/integritate-institutionala/cod.php"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Alba",
+      "url": "https://itmalba.ro",
+      "title": "I.T.M. Alba",
+      "sections": {
+        "conducere": "https://itmalba.ro/ro/21conducere-itm-alba/",
+        "transparenta": "https://itmalba.ro/ro/6interes-public/informatii-generale/raport-privind-transparenta-decizionala/",
+        "declaratii": "https://itmalba.ro/ro/6interes-public/alte-informatii-de-interes-public/9declaratii-de-avere-si-interese/",
+        "integritate": "https://itmalba.ro/ro/8integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Arad",
+      "url": "https://itmarad.ro",
+      "title": "I.T.M. Arad",
+      "sections": {
+        "conducere": "https://itmarad.ro/ro/conducere-itm/",
+        "declaratii": "https://itmarad.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmarad.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmarad.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Argeș",
+      "url": "https://itmarges.ro",
+      "title": "I.T.M. ARGES",
+      "sections": {
+        "conducere": "https://itmarges.ro/ro/conducere-itm/",
+        "integritate": "https://itmarges.ro/ro/integritate-institutionala/",
+        "declaratii": "https://itmarges.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmarges.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Bacău",
+      "url": "https://itmbacau.ro",
+      "title": "ITM - Bacău",
+      "sections": {
+        "conducere": "https://www.inspectiamuncii.ro/web/itm-bacau/conducerea-itmbacau",
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-bacau/integritate-institutionala"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Bihor",
+      "url": "https://itmbihor.ro",
+      "title": "I.T.M. Bihor",
+      "sections": {
+        "conducere": "https://itmbihor.ro/ro/conducere-itmbihor/",
+        "declaratii": "https://itmbihor.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmbihor.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmbihor.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Botoșani",
+      "url": "https://itmbotosani.ro",
+      "title": "I.T.M. BOTOȘANI",
+      "sections": {
+        "conducere": "https://itmbotosani.ro/ro/conducere-itm/",
+        "declaratii": "https://itmbotosani.ro/ro/interes-public/alte-informatii-de-interese-public/declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmbotosani.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmbotosani.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Brașov",
+      "url": "https://www.itmbrasov.ro",
+      "title": "I.T.M. BRASOV",
+      "sections": {
+        "conducere": "https://www.itmbrasov.ro/ro/conducere-itm/",
+        "declaratii": "https://www.itmbrasov.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://www.itmbrasov.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://www.itmbrasov.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Brăila",
+      "url": "https://www.itmbraila.ro",
+      "title": "ITM - Brăila",
+      "sections": {
+        "conducere": "https://www.inspectiamuncii.ro/web/itm-braila/conducere",
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-braila/integritate-institutionala",
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-braila/declaratii-de-avere-si-interese"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Buzău",
+      "url": "https://itmbuzau.ro",
+      "title": "I.T.M. BUZĂU",
+      "sections": {
+        "conducere": "https://itmbuzau.ro/ro/conducere-itm/",
+        "integritate": "https://itmbuzau.ro/ro/interes-public/informatii/avertizor-integritate/",
+        "declaratii": "https://itmbuzau.ro/ro/interes-public/alte-informatii-de-interes-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmbuzau.ro/ro/interes-public/alte-informatii-de-interes-public/raport-privind-transparenta-decizionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Călărași",
+      "url": "https://itmcalarasi.ro",
+      "title": "I.T.M. Călăraşi",
+      "sections": {
+        "conducere": "https://itmcalarasi.ro/ro/conducere-itm/",
+        "declaratii": "https://itmcalarasi.ro/ro/interes-public/informatii/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmcalarasi.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmcalarasi.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Cluj",
+      "url": "https://www.itmcluj.ro",
+      "title": "",
+      "sections": {}
+    },
+    {
+      "service": "ITM",
+      "county": "Constanța",
+      "url": "https://www.itmconstanta.ro",
+      "title": "ITM - Constanţa",
+      "sections": {
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-constanta/declaratii-avere",
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-constanta/integritate-institutionala"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Covasna",
+      "url": "https://www.itmcovasna.ro",
+      "title": "Home",
+      "sections": {
+        "declaratii": "https://www.itmcovasna.ro/index.php/declarati-de-avere",
+        "integritate": "https://www.itmcovasna.ro/index.php/integritate-institutionala"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Dâmbovița",
+      "url": "https://itmdambovita.ro",
+      "title": "ITM - Dâmboviţa",
+      "sections": {
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-dambovita/integritate-institutionala",
+        "conducere": "https://itmdambovita.ro/documents/632396/632712/Informare+pe+sitee.pdf/8e82f9eb-f0f1-4446-903c-8cc17a2fe173"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Galați",
+      "url": "https://www.itmgalati.ro",
+      "title": "ITM - Galaţi",
+      "sections": {
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-galati/integritate-institutionala",
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-galati/avertizari-in-interes-public"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Giurgiu",
+      "url": "https://www.itmgiurgiu.ro",
+      "title": ".::ITM Giurgiu::. Autorizatii si avize",
+      "sections": {
+        "integritate": "https://www.itmgiurgiu.ro/integritate%20institutionala.html",
+        "transparenta": "https://www.itmgiurgiu.ro/transparenta%20decizionala.html",
+        "conducere": "https://www.itmgiurgiu.ro/Masuri%20OUG41-2016.html",
+        "declaratii": "http://www.itmgiurgiu.ro/declaratii.html"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Gorj",
+      "url": "https://itmgorj.ro",
+      "title": "I.T.M. GORJ",
+      "sections": {
+        "conducere": "https://itmgorj.ro/ro/conducere-itm/",
+        "transparenta": "https://itmgorj.ro/ro/interes-public/alte-informatii-de-interes-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmgorj.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Hunedoara",
+      "url": "https://itmhunedoara.ro",
+      "title": "I.T.M. Hunedoara",
+      "sections": {
+        "conducere": "https://itmhunedoara.ro/ro/conducere-itm/",
+        "transparenta": "https://itmhunedoara.ro/ro/interes-public/informatii-de-interes-public/raport-privind-transparenta-decizionala-legea-nr522003/",
+        "declaratii": "https://itmhunedoara.ro/ro/interes-public/alte-informatii-de-interes-public/avertizori-in-interes-public/",
+        "integritate": "https://itmhunedoara.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Ialomița",
+      "url": "https://www.itmialomita.ro",
+      "title": "ITM Ialomița",
+      "sections": {
+        "conducere": "https://www.itmialomita.ro/conducere.html",
+        "declaratii": "https://www.itmialomita.ro/avertizor.html",
+        "integritate": "https://www.itmialomita.ro/",
+        "transparenta": "https://www.itmialomita.ro/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Iași",
+      "url": "https://www.itmiasi.ro",
+      "title": "I.T.M. Iași",
+      "sections": {
+        "conducere": "https://www.itmiasi.ro/ro/conducere-itm/",
+        "declaratii": "https://www.itmiasi.ro/ro/interes-public/alte-informatii-de-interese-public/da-si-di/",
+        "integritate": "https://www.itmiasi.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Ilfov",
+      "url": "https://www.itmilfov.ro",
+      "title": "ITM - Ilfov",
+      "sections": {
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-ilfov/declaratii-de-avere-si-interese",
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-ilfov/documente-interes-public"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Maramureș",
+      "url": "https://itmmaramures.ro",
+      "title": "ITM - Maramureş",
+      "sections": {
+        "conducere": "https://www.inspectiamuncii.ro/web/itm-maramures/conducerea-itm-maramures",
+        "transparenta": "https://www.inspectiamuncii.ro/web/itm-maramures/legislatie5",
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-maramures/declaratii-de-avere-si-interese",
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-maramures/integritate-institutionala"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Mehedinți",
+      "url": "https://itmmehedinti.ro",
+      "title": "I.T.M. MEHEDINTI",
+      "sections": {
+        "conducere": "https://itmmehedinti.ro/ro/conducere-itm/",
+        "declaratii": "https://itmmehedinti.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmmehedinti.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmmehedinti.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Mureș",
+      "url": "https://www.itmmures.ro",
+      "title": "Inspectoratul Teritorial de Muncă Mureş",
+      "sections": {
+        "declaratii": "https://www.itmmures.ro/Declaratii.html"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Neamț",
+      "url": "https://itmneamt.ro",
+      "title": "I.T.M. Neamt",
+      "sections": {
+        "conducere": "https://itmneamt.ro/ro/conducere-itm/",
+        "declaratii": "https://itmneamt.ro/ro/interes-public/informatii/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://itmneamt.ro/ro/interes-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://itmneamt.ro/ro/integritate_institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Satu Mare",
+      "url": "https://itmsatumare.ro",
+      "title": "I.T.M. SATU MARE",
+      "sections": {
+        "conducere": "https://itmsatumare.ro/ro/conducere-itm/",
+        "declaratii": "https://itmsatumare.ro/ro/interes-public/alte-informatii-de-interes-public/9declaratii-de-avere-si-interese/",
+        "integritate": "https://itmsatumare.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Sălaj",
+      "url": "https://www.itmsalaj.ro",
+      "title": "I.T.M. Salaj",
+      "sections": {
+        "conducere": "https://www.itmsalaj.ro/ro/conducere-itm/",
+        "declaratii": "https://www.itmsalaj.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "integritate": "https://www.itmsalaj.ro/ro/integritate-institutionala/",
+        "transparenta": "https://www.itmsalaj.ro/ro/integritate-institutionala/transparenta-decizionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Suceava",
+      "url": "https://www.itmsuceava.ro",
+      "title": "I.T.M. SUCEAVA",
+      "sections": {
+        "conducere": "https://www.itmsuceava.ro/ro/conducere-itm/",
+        "declaratii": "https://www.itmsuceava.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "transparenta": "https://www.itmsuceava.ro/ro/interes-public/alte-informatii-de-interese-public/raport-privind-transparenta-decizionala/",
+        "integritate": "https://www.itmsuceava.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Teleorman",
+      "url": "https://itmteleorman.ro",
+      "title": "ITM - Teleorman",
+      "sections": {
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-teleorman/declaratii-de-avere",
+        "integritate": "https://www.inspectiamuncii.ro/documents/874114/44598481/Integritate+institutionala+ITM+Teleorman/bf05b02a-a388-477e-a5a7-2c84f44c5330",
+        "conducere": "https://itmteleorman.ro/documents/874114/875857/Ordinul+1095/37f6a6b4-6721-4e45-8d4c-92fe027ae0bb"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Timiș",
+      "url": "https://www.itmtimis.ro",
+      "title": "ITM - Timiș",
+      "sections": {
+        "conducere": "https://www.inspectiamuncii.ro/web/itm-timis/conducere",
+        "integritate": "https://www.inspectiamuncii.ro/web/itm-timis/integritate-institutionala",
+        "declaratii": "https://www.inspectiamuncii.ro/web/itm-timis/declaratii-de-avere-si-interese"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Tulcea",
+      "url": "https://itmtulcea.ro",
+      "title": "I.T.M. Tulcea",
+      "sections": {
+        "transparenta": "https://itmtulcea.ro/ro/transparenta-decizionala/",
+        "conducere": "https://itmtulcea.ro/ro/interes-public/informatii-generale/formular-reclamatie-administrativa/",
+        "declaratii": "https://itmtulcea.ro/ro/interes-public/alte-informatii-de-interese-public/9declaratii-de-avere-si-interese/",
+        "integritate": "https://itmtulcea.ro/ro/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "ITM",
+      "county": "Vaslui",
+      "url": "https://www.itmvaslui.ro",
+      "title": "ITM Vaslui",
+      "sections": {
+        "integritate": "https://www.itmvaslui.ro/integrit_inst.html"
+      }
+    },
+    {
+      "service": "OCPI",
+      "county": "Cluj",
+      "url": "https://www.ocpicluj.ro",
+      "title": "OCPI Cluj – Oficiul de Cadastru și Publicitate Imobilia",
+      "sections": {
+        "conducere": "https://cj.ancpi.ro/conducere/",
+        "declaratii": "https://cj.ancpi.ro/declaratii-de-avere-si-interese/",
+        "integritate": "https://cj.ancpi.ro/informatii-publice/integritate-institutionala/"
+      }
+    },
+    {
+      "service": "OCPI",
+      "county": "Dolj",
+      "url": "https://www.ocpidolj.ro",
+      "title": "ocpidolj.ro",
+      "sections": {}
+    },
+    {
+      "service": "OCPI",
+      "county": "Ilfov",
+      "url": "https://www.ocpiilfov.ro",
+      "title": "OCPI - Oficiul de cadastru si publicitate imobiliara il",
+      "sections": {}
+    },
+    {
+      "service": "OCPI",
+      "county": "Timiș",
+      "url": "https://www.ocpitimis.ro",
+      "title": "OCPI Timis",
+      "sections": {
+        "conducere": "https://ocpitimis.ro/conducere",
+        "declaratii": "https://ocpitimis.ro/declaratii",
+        "integritate": "https://ocpitimis.ro/integritate-institutionala"
+      }
+    },
+    {
+      "service": "AJOFM",
+      "county": "Iași",
+      "url": "https://www.ajofmiasi.ro",
+      "title": "ajofmiasi.ro",
+      "sections": {}
+    },
+    {
+      "service": "ISJ",
+      "county": "Alba",
+      "url": "https://www.isjalba.ro",
+      "title": "Acasă - Inspectoratul Școlar Județean Alba",
+      "sections": {
+        "conducere": "https://isjalba.ro/despre-noi-2/conducere-isjalba/",
+        "declaratii": "https://isjalba.ro/category/despre-institutie/declaratii-de-avere-si-de-interese/"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Argeș",
+      "url": "https://www.isjarges.ro",
+      "title": "I.S.J Arges – Inspectoratul Școlar Județean Argeș",
+      "sections": {
+        "conducere": "https://www.isjarges.ro/conducere/",
+        "declaratii": "https://www.isjarges.ro/category/declaratii-de-avere/"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Bihor",
+      "url": "https://www.isjbihor.ro",
+      "title": "Prima pagina | Inspectoratul Școlar Județean BIHOR",
+      "sections": {
+        "conducere": "https://www.isjbihor.ro/organigrama/conducerea",
+        "declaratii": "https://www.isjbihor.ro/contact-isjbihor/avertizori-interes-public"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Botoșani",
+      "url": "https://www.isjbotosani.ro",
+      "title": "Inspectoratul Școlar Județean Botoșani | ISJ Botoșani",
+      "sections": {
+        "conducere": "https://isjbotosani.ro/prezentare/conducere/conducerea-inspectoratului-scolar-judetean-botosani-in-anul-scolar.html",
+        "declaratii": "https://isjbotosani.ro/categorie/informatii-publice/declaratii-de-avere-si-interese"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Brașov",
+      "url": "https://www.isjbrasov.ro",
+      "title": "Inspectoratul Scolar al Judetului Brasov",
+      "sections": {
+        "conducere": "https://www.isjbrasov.ro/index.php/homepage/echipa-isj/conducerea-isj",
+        "integritate": "https://www.isjbrasov.ro/index.php/legislatie-documente/documente-generale/integritate-institutionala"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Brăila",
+      "url": "https://www.isjbraila.ro",
+      "title": "Inspectoratul Școlar Județean Brăila | Prima pagină",
+      "sections": {
+        "conducere": "https://www.isjbraila.ro/insp_scolari_cond.php",
+        "declaratii": "https://www.isjbraila.ro/declaratii_avin.php"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Buzău",
+      "url": "https://www.isjbuzau.ro",
+      "title": "Noutăți",
+      "sections": {
+        "conducere": "https://www.isjbuzau.ro/index.php/home/conducere",
+        "declaratii": "https://www.isjbuzau.ro/index.php/informatii-de-interes-public/declaratii-de-avere-si-de-interese"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Cluj",
+      "url": "https://www.isjcluj.ro",
+      "title": "Resurse umane ISJ Cluj",
+      "sections": {}
+    },
+    {
+      "service": "ISJ",
+      "county": "Dolj",
+      "url": "https://www.isjdolj.ro",
+      "title": "Inspectoratul Școlar Județean Dolj",
+      "sections": {
+        "integritate": "https://isjdolj.ro/content/integritate-institu%C8%9Bional%C4%83",
+        "conducere": "https://www.isjdolj.ro/dictionar/administrativ"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Giurgiu",
+      "url": "https://www.isjgiurgiu.ro",
+      "title": "Toate categoriile",
+      "sections": {}
+    },
+    {
+      "service": "ISJ",
+      "county": "Gorj",
+      "url": "https://www.isjgorj.ro",
+      "title": "I.S.J. Gorj - Inspectoratul Județean Gorj | I.S.J. Gorj",
+      "sections": {
+        "conducere": "https://www.edu.ro/legislatie-ordine-ministru"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Ialomița",
+      "url": "https://www.isjialomita.ro",
+      "title": "Inspectoratul Scolar Judetean Ialomita",
+      "sections": {
+        "conducere": "https://www.isjialomita.ro/organigrama/departament-administrativ"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Ilfov",
+      "url": "https://isjilfov.ro",
+      "title": "Inspectoratul Scolar Judetean Ilfov",
+      "sections": {
+        "conducere": "https://isjilfov.ro/management/compartimente/servicii/compartimentul-tehnic-administrativ"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Mehedinți",
+      "url": "https://www.isjmehedinti.ro",
+      "title": "Inspectoratul Scolar Judetean Mehedinti",
+      "sections": {}
+    },
+    {
+      "service": "ISJ",
+      "county": "Neamț",
+      "url": "https://www.isjneamt.ro",
+      "title": "Inspectoratul Școlar Județean Neamț – Ministerul Educaț",
+      "sections": {
+        "conducere": "https://www.isjneamt.ro/site/despre-noi/conducere/",
+        "declaratii": "https://www.isjneamt.ro/site/informatii-de-interes-public/declaratii-de-avere-si-interese-ale-personalului-isj-neamt/"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Olt",
+      "url": "https://www.isjolt.ro",
+      "title": "ISJ OLT – Inspectoratul Scolar Judetean Olt",
+      "sections": {
+        "transparenta": "https://isjolt.ro/transparenta-decizionala/",
+        "conducere": "https://isjolt.ro/2024/05/10/planificarea-cercurilor-pedagogice-ale-personalului-de-conducere-15-mai-2024/"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Tulcea",
+      "url": "https://www.isjtulcea.ro",
+      "title": "Front Page - Inspectoratul Școlar Județean Tulcea",
+      "sections": {
+        "conducere": "https://isjtulcea.ro/conducere-isj/",
+        "declaratii": "https://isjtulcea.ro/declaratii-de-avere-si-interese/"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Vâlcea",
+      "url": "https://www.isjvalcea.ro",
+      "title": "ISJ VÂLCEA",
+      "sections": {
+        "conducere": "https://www.isjvalcea.ro/instituție/economic-administrativ"
+      }
+    },
+    {
+      "service": "ISJ",
+      "county": "Vrancea",
+      "url": "https://www.isjvrancea.ro",
+      "title": "Inspectoratul Școlar Județean Vrancea",
+      "sections": {
+        "declaratii": "https://isjvrancea.ro/declaratii-de-avere-si-interese/",
+        "transparenta": "http://www.edu.ro/cons_pub_programe_scolare_liceu",
+        "conducere": "https://edu.ro/mesaj_ministru_Daniel_David_conspub_planuri_cadru_liceu"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Arad",
+      "url": "https://www.dgaspc-arad.ro",
+      "title": "Directia Generala de Asistenta Sociala si Protectia Cop",
+      "sections": {
+        "conducere": "https://www.dgaspc-arad.ro/prezentare/conducere/",
+        "declaratii": "https://www.dgaspc-arad.ro/prezentare/declaratii-avere-2/",
+        "integritate": "https://www.dgaspc-arad.ro/",
+        "transparenta": "https://www.dgaspc-arad.ro/transparenta-decizionala/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Bacău",
+      "url": "https://www.dgaspcbacau.ro",
+      "title": "DGASPC Bacau | Asistenta Sociala si Protectia Copilului",
+      "sections": {
+        "conducere": "https://www.dgaspcbacau.ro/prezentare-institutie/conducere/",
+        "declaratii": "https://www.dgaspcbacau.ro/informatii-publice/legea-544-2001/declaratii-avere/",
+        "transparenta": "https://www.dgaspcbacau.ro/transparenta-decizionala/",
+        "integritate": "https://www.dgaspcbacau.ro/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Bihor",
+      "url": "https://www.dgaspcbihor.ro",
+      "title": "Directia Generala de Asistenta Sociala si Protectia Cop",
+      "sections": {}
+    },
+    {
+      "service": "DGASPC",
+      "county": "Brăila",
+      "url": "https://www.dgaspcbraila.ro",
+      "title": "D.G.A.S.P.C. Braila – D.G.A.S.P.C. Braila",
+      "sections": {
+        "conducere": "https://dgaspcbraila.ro/v1/conducere/",
+        "integritate": "https://dgaspcbraila.ro/v1/integritatea-institutionala/",
+        "declaratii": "https://www.dgaspcbraila.ro/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Buzău",
+      "url": "https://www.dgaspc-buzau.ro",
+      "title": "D.G.A.S.P.C. Buzau",
+      "sections": {
+        "conducere": "https://www.dgaspc-buzau.ro/conducere/",
+        "integritate": "https://www.dgaspc-buzau.ro/integritate/",
+        "declaratii": "https://www.dgaspc-buzau.ro/declaratii-de-avere-si-interese/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Cluj",
+      "url": "https://www.dgaspc-cluj.ro",
+      "title": "Direcția Generală de Asistență Socială și Protecția Cop",
+      "sections": {}
+    },
+    {
+      "service": "DGASPC",
+      "county": "Dolj",
+      "url": "https://www.dgaspcdolj.ro",
+      "title": "DGASPC Dolj",
+      "sections": {
+        "conducere": "https://www.dgaspcdolj.ro/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Galați",
+      "url": "https://www.dgaspcgalati.ro",
+      "title": "Home - D.G.A.S.P.C. Galati",
+      "sections": {
+        "conducere": "https://dgaspcgalati.ro/conducere/",
+        "integritate": "https://dgaspcgalati.ro/integritateanticoruptie/",
+        "declaratii": "https://dgaspcgalati.ro/avertizori-interes-public/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Gorj",
+      "url": "https://www.dgaspcgorj.ro",
+      "title": "DIRECTIA GENERALA DE ASISTENTA SOCIALA SI PROTECTIA COP",
+      "sections": {
+        "conducere": "https://www.dgaspcgorj.ro/despre-noi/conducere/",
+        "declaratii": "https://www.dgaspcgorj.ro/declaratii-de-avere-si-interese-2023/"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Mureș",
+      "url": "https://www.dgaspcmures.ro",
+      "title": "DGASPC Mures",
+      "sections": {}
+    },
+    {
+      "service": "DGASPC",
+      "county": "Neamț",
+      "url": "https://www.dgaspcneamt.ro",
+      "title": "Acasa DGASPC - Direcţia Generală de Asistenţă Socială ş",
+      "sections": {
+        "conducere": "https://dgaspcneamt.ro/conducere",
+        "integritate": "https://dgaspcneamt.ro/etica-si-integritate",
+        "declaratii": "https://dgaspcneamt.ro/documente-formulare-informari/declaratii-de-avere"
+      }
+    },
+    {
+      "service": "DGASPC",
+      "county": "Olt",
+      "url": "https://www.dgaspc-olt.ro",
+      "title": "DGASPC-OLT",
+      "sections": {
+        "conducere": "https://dgaspc-olt.ro/conducere/",
+        "declaratii": "https://dgaspc-olt.ro/informatii-de-interes-public/declaratii-de-avere/",
+        "integritate": "https://dgaspc-olt.ro/informatii-de-interes-public/integritate-institutionala/"
+      }
+    }
+  ]
+}
