@@ -1,0 +1,1367 @@
+{
+  "generated_at": "2026-06-04T14:15:03.230316+00:00",
+  "sursa": "DSP judetene (Tier 3)",
+  "total": 151,
+  "pii_blocate": 8,
+  "declaratii": [
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/06/SINEA-D.-DUMITRU-ALEXANDRU.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 110295,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/AVRAM-C.-CIUBOTEA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 82501,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/AVRAM-C.-LILIANA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 58627,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/AVRAM-S.-ANDREEA-IULIA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 124115,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/BOBARIU-I.-ALEXANDRU-IOAN.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 55564,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/BOTA-M.-MARIA.pdf",
+      "terenuri": 4,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 85104,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/CHETRES-N.-CLAUDIA-ELENA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 58440,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/CHINCISAN-C.-CORNELIA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 98682,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/DUMITREAN-F.-FLORIN.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 97700,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/FATASAN-P.-MARIANA-CRISTINA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 16789,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/HIRCIAGA-V.-OLTEAN-MARIANA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 143286,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/MANEA-O.H.-OLIVIA-GABRIELA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 86169,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/MANOLESCU-DAN-G.-TUDOR-EMANUEL.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 132498,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/MARCU-N.-ANA-ELENA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 91030,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/MEDRIS-C.-CORNEL.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 62765,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/PASCA-N.-MIRCEA-LAURENTIU.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 86632,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/PRESECAN-M.I.-MIHAELA.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 365343,
+      "auto": 9
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/PRESECAN-P.-IOANA.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 50339,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/SAVA-A.-ELENA-EMILIA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 122000,
+      "venituri_ron": 354304,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/SEREDEAN-D.-BIANCA.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 43000,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/SINGALIEVICI-P.-PAUL-STEFAN.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 84805,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/STEF-M.-IOANA.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 115479,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/TODEA-I.-GABRIELA-DANA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 101900,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/TURUS-I.-RAMONA.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 340392,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/VACARU-I.-ILEANA.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 148434,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2022/07/ZDRANC-P.N.-POMPILIA-ANCA.pdf",
+      "terenuri": 8,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 107446,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2023/10/2787236_a.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 100909,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2023/10/AVRAM-ANDREEA.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 195764,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Alba",
+      "pdf_url": "https://dspalba.ro/wp-content/uploads/2023/10/AVRAM-CIUBOTEA.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 82501,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Boboc-Oana-Irina.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 65481,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Bucur-Eduard-Eugen.pdf",
+      "terenuri": 1,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 97657,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Cretu-Iuliana.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 274858,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Dindareanu-Aurel.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 89342,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Dragne-Razvan-Alin.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 133723,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Gussatu-Diana-Iuliana.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 114815,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Jinaru-Magdalena-Mihaela.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 117240,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Loloiu-Petronela.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 113954,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Lungu-Mirela-Cristiana.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 111983,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Marcut-Magdalena-Nicoleta.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 151126,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Marin-Daniela-Zenovia-rectificativa.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 60155,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Micu-Claudia.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 246932,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Oancea-Emilia-Elisabeta.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 132798,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Raducanu-Georgeta.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 88980,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Rosca-Adriana.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 72314,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Rosca-Marilena.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 66886,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Rosu-Maria.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 120467,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Spirici-Gabriela-Marilena-rectificativa.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 131916,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Stanciu-Florentina.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 57028,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Stoica-Aurelia-Cristina.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 98542,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/02/Vilcan-Luminta.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 100360,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/BOBOC-R-OANA-IRINA-AVERE-.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 72708,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/BUCUR-GHE-EDUARD-EUGEN-AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 92584,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Boboc-Oana.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 106069,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Bucur-Eduard.pdf",
+      "terenuri": 1,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 74945,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/CRETU-I-IULIANA-AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 354078,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Cretu-Iuliana-1.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 101965,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/DINDAREANU-I-AUREL-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 102058,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/DRADNE-C-RAZVAN-ALIN-AVERE-.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 150322,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Declaratie-de-avere-_si_int-Stanculescu-Florentina.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 268174,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Dindareanu-Aurel-.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 88856,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Dragne-Razvan.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 126452,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/GUSATU-I-DIANA-IULIANA-AVERE-.pdf",
+      "terenuri": 4,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 179442,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Gusatu-Diana.pdf",
+      "terenuri": 4,
+      "cladiri": 6,
+      "conturi_ron": 0,
+      "venituri_ron": 136609,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/JINARU-I-MAGDALENA-MIHAELA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 146057,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Jinaru-Magdalena.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 128413,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/LOLOIU-S-PETRONELA.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 141995,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/LUNGU-I-MIRELA-CRISTIANA-AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 137297,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Loloiu-Petronela-1.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 126224,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Lungu-Mirela.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 120633,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/MARCUT-T-MAGDALENA-NICOLETA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 168431,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/MARIN-M-DANIELA-ZENOVIA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 62166,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/MICU-A-CLAUDIA-AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 276242,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Marcut-Magdalena.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 152659,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Marin-Daniela.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 57894,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Micu-Claudia-.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 234956,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/OANCEA-I-EMILIA-ELISABETA-AVERE-INCETARE.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 148569,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Oancea-Emilia-.pdf",
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 132966,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/RADUCANU-I-GEORGETA-AVERE.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 117351,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/ROSCA-I-ADRIANA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 87200,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/ROSCA-I-MARILENA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 91277,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/ROSU-C-MARIA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 183377,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Raducanu-Georgeta-1.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 97887,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Rosca-Adriana-1.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 70490,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Rosca-Marilena-1.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 76244,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/Rosu-Maria-1.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 119583,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/SPIRICI-C-MARILENA-GABRIELA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 103796,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/STANCIU-I-FLORENTINA-AVERE-INCETARE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 72575,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/STAVARAICHE-M-MARIANA-IONELA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 158298,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Giurgiu",
+      "pdf_url": "https://dspgiurgiu.ro/wp-content/uploads/2026/03/STOICA-E-AURELIA-CRISTINA-AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 117952,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/00/d8/00d8c361-ab1f-4810-82f3-e191030b29c4/vass_a_elod.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 121498,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/01/27/0127354f-5823-49e7-b852-1fe142b70c8e/sarig_ibolya.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 108932,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/05/8b/058b6473-9c21-4078-ae3f-a4f1c7f605f6/andras_attila.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 91060,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/06/c0/06c05e06-452b-44df-914f-85d186d8aa7f/miron_cornelia.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 25250,
+      "venituri_ron": 0,
+      "auto": 3
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/08/da/08da2310-775e-465c-ae8c-1b4dbe917ff3/dr_lazar_cecilia_erzsebet.pdf",
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 297147,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/0a/1c/0a1c7882-506e-459b-8dba-2bf17e4f062a/lukacs_c_erika.pdf",
+      "terenuri": 17,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 98027,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/0b/a0/0ba06518-3866-488e-8afe-3fe3d65fa405/szombati_mihaly.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 42600,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/10/c3/10c3a12b-ca1f-4ee7-9c6c-a52b4c0714c3/antal_d_zsofia.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 87100,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/12/3d/123df83d-cd78-4b4f-a9d6-0ce5b80abc6a/ferenczy_zsuzsa.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 137592,
+      "auto": 0
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/14/27/14275fd5-0ac4-4a8b-bfa5-b4662a6cefd3/finta_hajnal.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 128887,
+      "auto": 0
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/15/bb/15bb111b-2a9e-4776-b933-edb1f6a8b90a/miklos_eliza_eva.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 60212,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/17/2c/172c2cb3-5289-4d0d-a3c5-8e0b739382e5/cserei_a_maria.pdf",
+      "terenuri": 1,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 101328,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/18/f9/18f94bcb-34cc-414f-88fc-235da09687c7/dr_tar_gyongyi.pdf",
+      "terenuri": 1,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 208514,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/1e/1b/1e1b227b-610f-4bdb-9e58-efe645acd57e/csiki_j_irma.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 83916,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/1e/3b/1e3b3c7e-f92e-4597-b007-486237164b61/fuleki_i_ildiko.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 162896,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/1e/98/1e9803db-f92c-4a5a-95bc-2fc8f13de78a/lukacs_erika.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 42973,
+      "auto": 0
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/22/7d/227ddd64-da93-4401-9856-f378b7f4b134/darvas_i_david.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 102043,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Harghita",
+      "pdf_url": "https://www.dspharghita.ro/media/filer_public/23/63/23633ff3-2716-42d9-b7ed-5b85abc01c36/salamon_ildiko.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 160691,
+      "auto": 0
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/AGARBICEANU SIMONA MARCELA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 112118,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/ALDEA GABRIELA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 110124,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/BACILA MIRELA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 177101,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/BAILA IRINA AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 88742,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/BALTEANU DANA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 122720,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/BARB BIANCA-MARIA AVERE.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 222530,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/BARBU ANDREEA IOANA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 336523,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/BRANGA CARMENCITA AVERE.pdf",
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 96073,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CALIN TEODORA DAMARIA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 417853,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CAPANA IONEL AVERE.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 85749,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CARAIMAN DELIA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 89586,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CEPLINSCHI DIANA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 78125,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CHETRONI FLORIN AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 151281,
+      "auto": 7
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CHIORAN MARIANA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 99351,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/CINDEA TATIANA MARIA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 92018,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/COJOCARU NICOLAE HORATIU - AVERE 1.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 225596,
+      "venituri_ron": 189404,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/COSAR VIOREL PETRU AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 176599,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/DAMIANOVSCHI ALEXANDRU-DAN AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 225460,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/DRAGOTA DORINA MARIA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 178178,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/DUMITRAS MARIA-MONICA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 74544,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/GHILIMAN GABRIELA AVERE.pdf",
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 206069,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/IGNAT LIANA ALEXANDRINA AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 84051,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/IONITA LENUTA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 163267,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/LAZAR LOREDANA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 120629,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/LUPU LENUTA ALINA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 83307,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/MARCU MIHAELA AVERE - iesire UIP.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 162814,
+      "venituri_ron": 196789,
+      "auto": 8
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/MARCU MIHAELA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 4,
+      "conturi_ron": 77544,
+      "venituri_ron": 196789,
+      "auto": 8
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/MEZDREA VIOLINA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 89355,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/MIRCEA SILVIA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 79602,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/MORAR ADELA MONICA AVERE.pdf",
+      "terenuri": 5,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 603022,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/NARTEA REMUS AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 177670,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/NITA CARMEN FLORENTINA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 301833,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/OANCEA CRISTINA ELENA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 204498,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/PARASCHIV ALEXANDRA DENISA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 329782,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/ROMASCAN MAGDA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 174145,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/SOSA MARIANA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 250991,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/SPETCU DRAGOS MARIAN AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 62525,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/TEREA GABRIELA AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 533156,
+      "auto": 5
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/TILVAN GABRIELA CRISTINA AVERE.pdf",
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 160425,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/TIRHAS MADALINA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 53744,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/UNGUREANU DENISA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 29712,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/VANCEA MIHAELA AVERE.pdf",
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 225407,
+      "auto": 6
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/VOICU CRISTINA LAVINIA AVERE.pdf",
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 72718,
+      "auto": 4
+    },
+    {
+      "institutie": "DSP Sibiu",
+      "pdf_url": "https://www.dspsibiu.ro/pdf/declaratii-avere/2024/ZAGAN DIANA AVERE.pdf",
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 89347,
+      "auto": 7
+    }
+  ]
+}
