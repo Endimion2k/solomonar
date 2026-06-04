@@ -22,11 +22,14 @@ class CompanyRegistry:
             self._by_cui[c.cui] = c.model_copy(deep=True)
             return self._by_cui[c.cui]
         m = existing
-        for field in ("name", "reg_com", "caen", "tutelary_authority"):
+        for field in ("name", "reg_com", "caen", "tutelary_authority",
+                      "county", "sector", "financial_status"):
             if not getattr(m, field) and getattr(c, field):
                 setattr(m, field, getattr(c, field))
         if m.vat_payer is None and c.vat_payer is not None:
             m.vat_payer = c.vat_payer
+        if m.bvb_listed is None and c.bvb_listed is not None:
+            m.bvb_listed = c.bvb_listed
         if c.is_soe:
             m.is_soe = True
         if c.status and c.status != "unknown":

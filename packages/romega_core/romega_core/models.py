@@ -113,6 +113,7 @@ class Organization(_Base):
     cif: str | None = None
     valid_from: date | None = None  # instituțiile se versionează în timp
     valid_to: date | None = None
+    placeholder: bool = False  # True = nod generat din config/șablon (NU scrapuit individual)
 
 
 class FinancialYear(BaseModel):
@@ -139,6 +140,10 @@ class Company(_Base):
     vat_payer: bool | None = None
     is_soe: bool = False
     tutelary_authority: str | None = None  # pentru SOE
+    county: str | None = None             # județ (din companiidestat)
+    sector: str | None = None             # sector economic (din companiidestat)
+    bvb_listed: bool | None = None        # listată la BVB
+    financial_status: str | None = None   # PROFIT/PIERDERE/... (companiidestat)
     legal_reps: list[str] = Field(default_factory=list)  # romega_id Person
     shareholders: list[OwnershipStake] = Field(default_factory=list)
     financials: list[FinancialYear] = Field(default_factory=list)

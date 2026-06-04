@@ -148,6 +148,7 @@ def generate_deconcentrated(
                         type=OrgType.DECONCENTRATED,
                         tier=Tier.DECONCENTRATED,
                         county=county,
+                        placeholder=True,
                         sources=[source] if source else [],
                     )
                 )
@@ -190,6 +191,7 @@ def build_local_from_config(
                         type=OrgType.LOCAL_COUNCIL_BODY,
                         tier=Tier.LOCAL_AUTONOMY,
                         county=county,
+                        placeholder=True,
                     )
                 )
     return out

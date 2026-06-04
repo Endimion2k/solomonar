@@ -53,6 +53,10 @@ def to_companies(records: list[dict], source: SourceRef | None = None) -> list[C
             cui=r["cui"],
             name=r["nume"],
             is_soe=True,
+            county=r.get("judet"),
+            sector=r.get("sector"),
+            bvb_listed=r.get("listat_bvb"),
+            financial_status=r.get("status"),
             sources=[source] if source else [],
         )
         for r in records
