@@ -1,0 +1,210 @@
+{
+  "generated_at": "2026-06-04T03:44:40.342913+00:00",
+  "agentii": [
+    {
+      "id": "ani",
+      "name": "ANI — Declarații de avere și interese",
+      "domain": "declaratii.integritate.eu",
+      "status": "ok",
+      "sections": {}
+    },
+    {
+      "id": "onrc",
+      "name": "ONRC — Registrul Comerțului",
+      "domain": "www.onrc.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://www.onrc.ro/index.php/ro/despre-onrc/conducere",
+        "transparenta": "https://www.onrc.ro/index.php/ro/informatii-publice/transparenta-decizionala",
+        "declaratii": "https://www.onrc.ro/index.php/ro/informatii-publice/declaratii-de-avere",
+        "integritate": "https://www.onrc.ro/index.php/ro/contact"
+      }
+    },
+    {
+      "id": "avr",
+      "name": "Autoritatea Vamală Română",
+      "domain": "customs.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://customs.ro/agenti-economici/instruirea-operatorilor-economici/vamuirea-marfurilor/articole-de-bucatarie-din-material-plastic-pe-baza-de-poliamida-si-melamina-originare-sau-expediate-din-republica-populara-chineza-si-din-regiunea-administrativa-speciala-hong-kong-a-re",
+        "integritate": "https://customs.ro/info-publice/integritate-institutionala",
+        "declaratii": "https://customs.ro/info-publice/integritate-institutionala/avertizori-in-interes-public",
+        "transparenta": "https://customs.ro/info-publice/transparenta-decizionala"
+      }
+    },
+    {
+      "id": "anap",
+      "name": "Agenția Națională pentru Achiziții Publice",
+      "domain": "anap.gov.ro",
+      "status": "ok",
+      "sections": {}
+    },
+    {
+      "id": "dna",
+      "name": "Direcția Națională Anticorupție",
+      "domain": "pna.ro",
+      "status": "err",
+      "sections": {}
+    },
+    {
+      "id": "dga",
+      "name": "Direcția Generală Anticorupție",
+      "domain": "mai-dga.ro",
+      "status": "err",
+      "sections": {}
+    },
+    {
+      "id": "anabi",
+      "name": "ANABI",
+      "domain": "anabi.just.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://anabi.just.ro/despre-noi/conducerea",
+        "declaratii": "https://anabi.just.ro/info/raportari-in-sensul-legii-nr-361-din-2022-privind-protectia-avertizorilor-in-interes-public"
+      }
+    },
+    {
+      "id": "ancpi",
+      "name": "ANCPI — Cadastru",
+      "domain": "ancpi.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://ancpi.ro/",
+        "transparenta": "https://www.ancpi.ro/transparenta/",
+        "integritate": "https://www.ancpi.ro/integritate-institutionala/"
+      }
+    },
+    {
+      "id": "ccr",
+      "name": "Curtea de Conturi",
+      "domain": "curteadeconturi.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://www.curteadeconturi.ro/cine-suntem/plenul-curtii-de-conturi/",
+        "integritate": "https://www.curteadeconturi.ro/cine-suntem/integritate/",
+        "declaratii": "https://www.curteadeconturi.ro/comunicare/integritate-institutionala/"
+      }
+    },
+    {
+      "id": "anrp",
+      "name": "ANRP — Restituirea Proprietăților",
+      "domain": "mfinante.gov.ro/anrp",
+      "status": "ok",
+      "sections": {}
+    },
+    {
+      "id": "asf",
+      "name": "Autoritatea de Supraveghere Financiară",
+      "domain": "asfromania.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://asfromania.ro/ro/c/24/conducere-si-organizare",
+        "transparenta": "https://asfromania.ro/ro/c/219/transparenta-decizionala",
+        "integritate": "https://asfromania.ro/ro/c/374/integritate-institutionala"
+      }
+    },
+    {
+      "id": "anre",
+      "name": "ANRE — Reglementare Energie",
+      "domain": "anre.ro",
+      "status": "ok",
+      "sections": {}
+    },
+    {
+      "id": "ancom",
+      "name": "ANCOM — Comunicații",
+      "domain": "ancom.ro",
+      "status": "ok",
+      "sections": {}
+    },
+    {
+      "id": "cc",
+      "name": "Consiliul Concurenței",
+      "domain": "consiliulconcurentei.ro",
+      "status": "ok",
+      "sections": {
+        "declaratii": "https://www.consiliulconcurentei.ro/despre-noi/declaratii-de-avere-si-interese/",
+        "transparenta": "https://www.consiliulconcurentei.ro/despre-noi/transparenta-decizionala/",
+        "integritate": "https://www.consiliulconcurentei.ro/despre-noi/planul-de-integritate/codul-de-conduita-etica-si-integritate/"
+      }
+    },
+    {
+      "id": "anspdcp",
+      "name": "ANSPDCP — Protecția Datelor (GDPR)",
+      "domain": "dataprotection.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://dataprotection.ro/?page=administration&lang=ro"
+      }
+    },
+    {
+      "id": "aep",
+      "name": "Autoritatea Electorală Permanentă",
+      "domain": "roaep.ro",
+      "status": "ok",
+      "sections": {}
+    },
+    {
+      "id": "cnsc",
+      "name": "CNSC — Soluționarea Contestațiilor",
+      "domain": "cnsc.ro",
+      "status": "err",
+      "sections": {}
+    },
+    {
+      "id": "cnas",
+      "name": "Casa Națională de Asigurări de Sănătate",
+      "domain": "cnas.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://cnas.ro/conducere/",
+        "transparenta": "https://cnas.ro/transparenta-decizionala/",
+        "declaratii": "https://cnas.ro/declaratii-avere-interese/"
+      }
+    },
+    {
+      "id": "cnpp",
+      "name": "Casa Națională de Pensii Publice",
+      "domain": "cnpp.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://www.cnpp.ro/ro/conducere;jsessionid=D7-QlgauXlBhNrVGLtqh1g2QtdTr0_yWVtyyK2Vm43lvJg5B2ov7!1671749144!1780542211758",
+        "transparenta": "https://www.cnpp.ro/ro/transparenta-decizionala;jsessionid=D7-QlgauXlBhNrVGLtqh1g2QtdTr0_yWVtyyK2Vm43lvJg5B2ov7!1671749144!1780542211758"
+      }
+    },
+    {
+      "id": "anofm",
+      "name": "ANOFM — Ocuparea Forței de Muncă",
+      "domain": "anofm.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://www.anofm.ro/conducere/",
+        "declaratii": "https://www.anofm.ro/declaratie-de-avere-si-interese/",
+        "integritate": "https://www.anofm.ro/integritate-institutionala/",
+        "transparenta": "https://www.anofm.ro/categorie/transparenta-decizionala/"
+      }
+    },
+    {
+      "id": "anpis",
+      "name": "ANPIS — Plăți și Inspecție Socială",
+      "domain": "mmanpis.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://www.mmanpis.ro/despre-anpis/conducerea-institutiei/",
+        "declaratii": "https://www.mmanpis.ro/declaratii-avere/",
+        "integritate": "https://www.mmanpis.ro/etica-si-integritate/"
+      }
+    },
+    {
+      "id": "anpc",
+      "name": "ANPC — Protecția Consumatorilor",
+      "domain": "anpc.ro",
+      "status": "ok",
+      "sections": {
+        "conducere": "https://anpc.ro/conducere/",
+        "transparenta": "https://anpc.ro/category/transparenta/",
+        "integritate": "https://anpc.ro/"
+      }
+    }
+  ]
+}
