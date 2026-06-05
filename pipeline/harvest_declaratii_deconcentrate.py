@@ -42,7 +42,9 @@ def _institutions() -> list[dict]:
     return out
 
 
-def main(max_depth: int = 2, max_pdfs: int = 80) -> dict:
+def main(max_depth: int = 3, max_pdfs: int = 5000) -> dict:
+    # FĂRĂ cap practic: max_pdfs=5000 e doar backstop anti-runaway; luăm toate declarațiile
+    # găsite. max_depth=3 prinde paginarea/arhivele (an → listă persoane → PDF).
     bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))
     client = Client(bronze=bronze, throttle_seconds=0.4, timeout=20)
     insts = _institutions()
@@ -59,7 +61,8 @@ def main(max_depth: int = 2, max_pdfs: int = 80) -> dict:
         for u in urls:
             pdf_to_inst.setdefault(u, it["name"])
         if urls:
-            print(f"   {it['name']:18} {len(urls)} PDF", flush=True)
+            flag = "  <-- ATINS BACKSTOP, posibil trunchiat" if len(urls) >= max_pdfs else ""
+            print(f"   {it['name']:18} {len(urls)} PDF{flag}", flush=True)
     print(f"PDF-uri declaratii (deconcentrate): {len(pdf_to_inst)}", flush=True)
 
     pdfs = client.fetch_many([(u, "decd_pdf", ".pdf") for u in pdf_to_inst], workers=12)
