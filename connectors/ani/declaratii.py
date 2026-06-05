@@ -376,8 +376,12 @@ def _ocr_engine():
                 if so is not None:
                     so.intra_op_num_threads = 1
                     so.inter_op_num_threads = 1
-                if _OCR_CUDA:  # forțează GPU (cade înapoi pe CPU dacă DLL-urile lipsesc)
-                    k["providers"] = ["CUDAExecutionProvider", "CPUExecutionProvider"]
+                if _OCR_CUDA:  # GPU cu PLAFON pe arenă (gpu_mem_limit): cache rapid SUB plafon,
+                    _mem = int(os.environ.get("ROMEGA_GPU_MEM_MB", "3300")) * 1024 * 1024
+                    k["providers"] = [   # fără kSameAsRequested (ăla dezactiva cache-ul → lent)
+                        ("CUDAExecutionProvider", {"gpu_mem_limit": _mem}),
+                        "CPUExecutionProvider",
+                    ]
                 _orig(self, *a, **k)
 
             _patched._romega_patch = True
