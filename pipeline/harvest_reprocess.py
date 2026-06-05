@@ -15,6 +15,7 @@ from __future__ import annotations
 import json
 import os
 import sys
+import time
 from concurrent.futures import ProcessPoolExecutor
 from datetime import datetime, timezone
 
@@ -34,7 +35,7 @@ CKPT = os.path.join(V, "declaratii/_decon_pdfs.json")     # listă PDF (din harv
 JSONL = os.path.join(V, "declaratii/_reproc.jsonl")        # progres incremental (resume)
 OUT_AV = os.path.join(V, "declaratii/avere_deconcentrate.json")
 OUT_IT = os.path.join(V, "declaratii/interese_deconcentrate.json")
-BATCH = 400
+BATCH = int(os.environ.get("ROMEGA_BATCH", "400"))
 
 
 def _detect_workers() -> int:
@@ -135,6 +136,8 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
 
     n_done = len(done)
     deferred = 0
+    t0 = time.time()
+    proc_this_run = 0
     with ProcessPoolExecutor(max_workers=workers) as pool, open(JSONL, "a", encoding="utf-8") as jf:
         for bi, batch in enumerate(_chunks(remaining, BATCH), 1):
             tasks, miss = [], []
@@ -151,11 +154,17 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
             jf.flush()
             deferred += sum(1 for r in recs if r.get("defer"))
             n_done += len(written)
+            proc_this_run += len(batch)
             nav = sum(1 for r in recs if r.get("av"))
             nit = sum(1 for r in recs if r.get("it"))
             nocr = sum(1 for r in recs if r.get("ocr"))
+            el = time.time() - t0
+            rate = proc_this_run / el if el > 0 else 0
+            left = len(remaining) - proc_this_run
+            eta_h = (left / rate / 3600) if rate > 0 else 0
             print(f"   batch {bi}: scrise={len(written)} amanate={sum(1 for r in recs if r.get('defer'))} "
-                  f"(av={nav} it={nit} ocr={nocr}) | done={n_done} defer_total={deferred}", flush=True)
+                  f"(av={nav} it={nit} ocr={nocr}) | done={n_done} | {rate*60:.0f}/min "
+                  f"ramase={left} ETA={eta_h:.1f}h", flush=True)
 
     _finalize()
     return {"done": n_done, "deferred": deferred}
