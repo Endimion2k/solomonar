@@ -23,6 +23,10 @@ build/
 tmp_discovery/
 *.tmp
 
+# Intermediari harvest la scară (checkpoint crawl + progres JSONL resume) — NU se comit
+data/v1/declaratii/_*.json
+data/v1/declaratii/_*.jsonl
+
 # Pagefind index generat
 web/pagefind/
 
