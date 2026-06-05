@@ -34,7 +34,8 @@ def _institutions() -> list[dict]:
     return out
 
 
-def main(max_depth: int = 3, max_pdfs: int = 150) -> dict:
+def main(max_depth: int = 3, max_pdfs: int = 5000) -> dict:
+    # fără cap practic (backstop 5000); luăm toate declarațiile, nu doar primele 150
     bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))
     client = Client(bronze=bronze, throttle_seconds=0.5, timeout=22)
     insts = _institutions()
