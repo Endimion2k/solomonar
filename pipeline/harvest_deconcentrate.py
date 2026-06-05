@@ -37,10 +37,11 @@ COUNTY_CODE = {
 }
 COUNTIES = list(COUNTY_CODE)
 
-# tip serviciu -> (tipare domeniu {s}=slug judet / {c}=cod auto, cuvinte-cheie conținut pagină)
+# tip serviciu -> (tipare domeniu {s}=slug compact / {c}=cod auto / {h}=slug cu cratime, cuvinte-cheie)
+# Tiparele DSVSA/APM provin din registrele OFICIALE (ansvsa.ro/structuri-teritoriale + anpm.ro), nu ghicite.
 SERVICES = {
     "DSP": (["dsp{s}.ro", "dsp-{s}.ro"], ["directia de sanatate publica", "sanatate publica"]),
-    "DSVSA": (["dsvsa{s}.ro", "dsvsa-{s}.ro", "dsvsa{c}.ro"],
+    "DSVSA": (["{h}.dsvsa.ro", "{s}.dsvsa.ro"],  # registru oficial ANSVSA: http://{judet}.dsvsa.ro
               ["sanitar veterinar", "sanitara veterinara", "sanitar-veterinar"]),
     "ITM": (["itm{s}.ro", "itm{s}.inspectiamuncii.ro"],
             ["inspectoratul teritorial de munca", "inspectia muncii"]),
@@ -49,12 +50,17 @@ SERVICES = {
     "ISJ": (["isj{s}.ro"], ["inspectoratul scolar", "inspectorat scolar"]),
     "DGASPC": (["dgaspc{s}.ro", "dgaspc-{s}.ro"],
                ["asistenta sociala si protectia copilului", "protectia copilului", "asistenta sociala"]),
-    "APM": (["apm{c}.anpm.ro", "apm{s}.anpm.ro"], ["protectia mediului", "agentia pentru protectia mediului"]),
+    "APM": (["apm{c}.anpm.ro"], ["protectia mediului", "agentia pentru protectia mediului"]),  # http://apm{cod}.anpm.ro
 }
 
 
 def slug(county: str) -> str:
     return strip_diacritics(county).lower().replace(" ", "").replace("-", "")
+
+
+def hslug(county: str) -> str:
+    """Slug cu cratime păstrate: 'Bistrița-Năsăud'→'bistrita-nasaud', 'Satu Mare'→'satu-mare'."""
+    return strip_diacritics(county).lower().replace(" ", "-")
 
 
 def main() -> dict:
@@ -64,11 +70,13 @@ def main() -> dict:
     cand = {}  # url -> (service, county)
     for svc, (patterns, _) in SERVICES.items():
         for county in COUNTIES:
-            s, c = slug(county), COUNTY_CODE[county]
+            s, c, h = slug(county), COUNTY_CODE[county], hslug(county)
             for pat in patterns:
-                host = pat.format(s=s, c=c)
-                cand[f"https://www.{host}"] = (svc, county)
-                cand[f"https://{host}"] = (svc, county)
+                host = pat.format(s=s, c=c, h=h)
+                # probează AMBELE scheme: multe subdomenii gov (DSVSA, APM) servesc doar pe http
+                for scheme in ("https", "http"):
+                    cand[f"{scheme}://{host}"] = (svc, county)
+                    cand[f"{scheme}://www.{host}"] = (svc, county)
     print(f"Candidati de probat: {len(cand)}", flush=True)
 
     fetched = client.fetch_many([(u, "decon", ".html") for u in cand], workers=16)
