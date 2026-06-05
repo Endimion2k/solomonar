@@ -26,6 +26,8 @@ tmp_discovery/
 # Intermediari harvest la scară (checkpoint crawl + progres JSONL resume) — NU se comit
 data/v1/declaratii/_*.json
 data/v1/declaratii/_*.jsonl
+# EXCEPȚIE: boilerplate-ul de interese e asset de referință (mic) necesar parserului — SE comite
+!data/v1/declaratii/_interese_boilerplate.json
 
 # Pagefind index generat
 web/pagefind/

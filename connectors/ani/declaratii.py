@@ -16,6 +16,7 @@ redactare (CNP/telefon) în connectors/ani/redaction.py.
 
 from __future__ import annotations
 
+import os
 import re
 
 from pydantic import BaseModel
@@ -160,6 +161,143 @@ def parse_interese(text: str) -> list[str]:
     return [ln for ln in lines if len(ln) > 3]
 
 
+class InteresParsed(BaseModel):
+    """Declarație de INTERESE structurată (cele 5 secțiuni standard). Best-effort, tolerant OCR."""
+    text_extracted: bool = False
+    actionariat_count: int = 0      # 1. asociat/acționar la societăți
+    conducere_firme_count: int = 0  # 2. membru organe conducere/administrare/control
+    prof_sindicat_count: int = 0    # 3. asociații profesionale / sindicale
+    partid_count: int = 0           # 4. organe de conducere ale partidelor politice
+    contracte_count: int = 0        # 5. contracte din fonduri publice / cu firme de stat
+    valoare_actiuni_ron: float = 0.0
+    valoare_contracte_ron: float = 0.0
+    entitati: list[str] = []        # nume entități extrase (firme/ONG/partide) — pt. graf
+    has_any: bool = False
+
+
+# secțiune interese -> fraze distinctive (pe text normalizat fără spații, robust la OCR)
+_INT_SECTIONS = [
+    ("actionariat", ["asociatsauactionar", "asociatsiactionar"]),
+    ("conducere", ["organeledeconducere", "calitateademembruinorganele"]),
+    ("prof_sindicat", ["asociatiilorprofesionale", "profesionalesi", "sindicale"]),
+    ("partid", ["partidelorpolitice", "partiduluipolitic"]),
+    ("contracte", ["contracteinclusiv", "contracte,inclusiv", "asistentajuridica", "finantatedela"]),
+]
+_INT_BOILER = (
+    "unitatea", "denumireasiadresa", "calitateadetinuta", "nrdepartisociale", "valoareatotala",
+    "tipulcontractului", "dataincheierii", "duratacontractului", "persoanelecucare", "sevordeclara",
+    "beneficiaruldecontract", "institutiacontractanta", "proceduraprin", "nota", "prinrude",
+    "numelepersoanei", "denumireasiadresa", "valoareabeneficiului",
+)
+_RE_ENTITY = re.compile(
+    r"(S\.?\s?C\.?\s|\bS\.?\s?R\.?\s?L\.?\b|\bS\.?\s?A\.?\b|\bP\.?\s?F\.?\s?A\.?\b|"
+    r"asocia[tţț]i|funda[tţț]i|\bpartidul\b|\bP\.?N\.?L\b|\bP\.?S\.?D\b|\bU\.?S\.?R\b|"
+    r"sindicat|federa[tţț]i|uniune|cooperativ|regia\b|compania\b|\bONG\b)",
+    re.IGNORECASE,
+)
+
+
+def _norm_ns(s: str) -> str:
+    """Normalizare agresivă pt. detecție markeri: fără diacritice, lower, fără spații."""
+    from romega_core.names import strip_diacritics
+    return strip_diacritics(s).lower().replace(" ", "")
+
+
+def _norm_sp(s: str) -> str:
+    """Normalizare pt. potrivire linii boilerplate: fără diacritice, lower, spații colapsate."""
+    from romega_core.names import strip_diacritics
+    return " ".join(strip_diacritics(s).lower().split())
+
+
+_RE_SUBROW = re.compile(r"^\s*\d{1,2}\.\d{1,2}\b")  # rând real numerotat: 1.1, 3.1, 5.1...
+_SENT_CONNECTORS = ("precum si", "sau alte", "ori ale", "in cadrul exercitarii", "denumirea si adresa",
+                    "se vor declara", "obtinute ori aflate")
+_INT_BOILER_SET = None
+
+
+def _boiler_set() -> set:
+    """Liniile-șablon ale formularului (învățate din corpus) — de scăzut la numărarea intrărilor."""
+    global _INT_BOILER_SET
+    if _INT_BOILER_SET is None:
+        import json
+        import os
+        root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+        p = os.path.join(root, "data", "v1", "declaratii", "_interese_boilerplate.json")
+        try:
+            _INT_BOILER_SET = set(json.load(open(p, encoding="utf-8")))
+        except Exception:
+            _INT_BOILER_SET = set()
+    return _INT_BOILER_SET
+
+
+def classify_declaration(text: str) -> set[str]:
+    """Ce tipuri conține documentul: {'avere'}, {'interese'} sau ambele (doc combinat)."""
+    ns = _norm_ns(text)
+    kinds = set()
+    if "declaratiedeavere" in ns or "bunuriimobile" in ns or "activefinanciare" in ns:
+        kinds.add("avere")
+    if ("declaratiedeinterese" in ns or "asociatsauactionar" in ns
+            or "organeledeconducere" in ns):
+        kinds.add("interese")
+    return kinds
+
+
+def parse_interese_text(text: str) -> InteresParsed:
+    """Parsează declarația de interese → cele 5 secțiuni (counts + entități). Tolerant la OCR."""
+    if len(text.strip()) < 80:
+        return InteresParsed(text_extracted=False)
+    res = InteresParsed(text_extracted=True)
+    lines = [ln.strip(" -•\t|") for ln in text.splitlines()]
+
+    # localizează începutul fiecărei secțiuni (în ordinea documentului)
+    starts: dict[str, int] = {}
+    for i, ln in enumerate(lines):
+        ns = _norm_ns(ln)
+        if not ns:
+            continue
+        for key, phrases in _INT_SECTIONS:
+            if key not in starts and any(p in ns for p in phrases):
+                starts[key] = i
+    order = sorted(starts.items(), key=lambda kv: kv[1])
+
+    boiler = _boiler_set()
+    entities: list[str] = []
+    for idx, (key, s) in enumerate(order):
+        end = order[idx + 1][1] if idx + 1 < len(order) else len(lines)
+        body = lines[s + 1:end]
+        n = 0
+        for ln in body:
+            sp = _norm_sp(ln)
+            if len(sp) < 4 or sp in boiler:            # scade liniile-șablon ale formularului
+                continue
+            if any(b in sp.replace(" ", "") for b in _INT_BOILER):
+                continue
+            long_sentence = len(sp.split()) > 12 or any(c in sp for c in _SENT_CONNECTORS)
+            numbered = bool(_RE_SUBROW.match(ln))      # rând real 1.1/3.1...
+            has_entity = bool(_RE_ENTITY.search(ln))
+            if numbered or (has_entity and not long_sentence):
+                n += 1
+                if has_entity and not long_sentence and len(entities) < 60:
+                    entities.append(ln.strip()[:80])
+        section_amt = _sum_amounts(" ".join(body))
+        if key == "actionariat":
+            res.actionariat_count = n
+            res.valoare_actiuni_ron = section_amt
+        elif key == "conducere":
+            res.conducere_firme_count = n
+        elif key == "prof_sindicat":
+            res.prof_sindicat_count = n
+        elif key == "partid":
+            res.partid_count = n
+        elif key == "contracte":
+            res.contracte_count = n
+            res.valoare_contracte_ron = section_amt
+    res.entitati = sorted(set(entities))
+    res.has_any = bool(res.actionariat_count or res.conducere_firme_count or res.prof_sindicat_count
+                       or res.partid_count or res.contracte_count)
+    return res
+
+
 def compute_avere_delta(declaratii: list[AvereParsed]) -> AvereDelta:
     """Variația averii între prima și ultima declarație (declaratii sortate cronologic)."""
     valid = [d for d in declaratii if d.text_extracted]
@@ -185,6 +323,94 @@ def extract_pdf_text(pdf_bytes: bytes) -> str:
         raise RuntimeError("pdfplumber necesar: pip install pdfplumber") from e
     with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
         return "\n".join(page.extract_text() or "" for page in pdf.pages)
+
+
+_OCR_ENGINE = None
+
+
+_OCR_CUDA = None  # True dacă sesiunea OCR rulează efectiv pe GPU
+
+
+def _add_cuda_dlls() -> None:
+    """Pune DLL-urile CUDA din wheel-urile nvidia-*-cu12 (fără admin) în calea de căutare.
+
+    Atât add_dll_directory CÂT ȘI PATH: onnxruntime rezolvă dependențele tranzitive (cublasLt,
+    cudnn) prin search-ul clasic, care onorează PATH; add_dll_directory singur nu e suficient.
+    """
+    try:
+        import nvidia
+        base = os.path.dirname(nvidia.__file__)
+        dirs = []
+        for sub in os.listdir(base):
+            bindir = os.path.join(base, sub, "bin")
+            if os.path.isdir(bindir):
+                dirs.append(bindir)
+                try:
+                    os.add_dll_directory(bindir)
+                except Exception:
+                    pass
+        if dirs:
+            os.environ["PATH"] = os.pathsep.join(dirs) + os.pathsep + os.environ.get("PATH", "")
+    except Exception:
+        pass
+
+
+def _ocr_engine():
+    """Singleton RapidOCR per proces. Folosește GPU (CUDA) dacă e disponibil, altfel CPU 1-thread.
+
+    Pe GPU (RTX) OCR-ul e ~10-30× mai rapid → fezabil pe zeci de mii de scanate. Pe CPU forțăm
+    1 thread/proces ca paralelismul pe procese să fie real (altfel suprasubscriere pe 16 core-uri).
+    """
+    global _OCR_ENGINE, _OCR_CUDA
+    if _OCR_ENGINE is None:
+        for _v in ("OMP_NUM_THREADS", "OPENBLAS_NUM_THREADS", "MKL_NUM_THREADS"):
+            os.environ.setdefault(_v, "1")
+        _add_cuda_dlls()
+        import onnxruntime as _ort
+        _OCR_CUDA = "CUDAExecutionProvider" in _ort.get_available_providers()
+        if not getattr(_ort.InferenceSession, "_romega_patch", False):
+            _orig = _ort.InferenceSession.__init__
+
+            def _patched(self, *a, **k):
+                so = k.get("sess_options")
+                if so is not None:
+                    so.intra_op_num_threads = 1
+                    so.inter_op_num_threads = 1
+                if _OCR_CUDA:  # forțează GPU (cade înapoi pe CPU dacă DLL-urile lipsesc)
+                    k["providers"] = ["CUDAExecutionProvider", "CPUExecutionProvider"]
+                _orig(self, *a, **k)
+
+            _patched._romega_patch = True
+            _ort.InferenceSession.__init__ = _patched
+            _ort.InferenceSession._romega_patch = True
+        from rapidocr_onnxruntime import RapidOCR
+        _OCR_ENGINE = RapidOCR()
+    return _OCR_ENGINE
+
+
+def extract_pdf_text_ocr(pdf_bytes: bytes, dpi: int = 200, max_pages: int = 14) -> str:
+    """OCR pentru PDF-uri SCANATE (fără strat de text). PyMuPDF randează → RapidOCR (română+latină).
+
+    Lazy import (pip install pymupdf rapidocr-onnxruntime). max_pages limitează scanele uriașe
+    (avere ~8 pag, interese ~3, combinat ~11). Folosit ca fallback când extract_pdf_text e gol.
+    """
+    import fitz  # PyMuPDF
+    import numpy as np
+
+    eng = _ocr_engine()
+    out: list[str] = []
+    with fitz.open(stream=pdf_bytes, filetype="pdf") as doc:
+        for i, page in enumerate(doc):
+            if i >= max_pages:
+                break
+            pix = page.get_pixmap(dpi=dpi)
+            img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width, pix.n)
+            if pix.n == 4:
+                img = img[:, :, :3]
+            res, _ = eng(img, use_cls=False)  # formularele-s drepte → sar clasificarea unghiului
+            if res:
+                out.append("\n".join(r[1] for r in res))
+    return "\n".join(out)
 
 
 FIELDS_BASE = "https://declaratii.integritate.eu/api/fields"
