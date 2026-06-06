@@ -3,7 +3,7 @@
 > Memorie de proiect: decizii, blocaje, tensiuni, poziția curentă.
 > Actualizează ÎNAINTE de orice `/compact` sau la final de sesiune.
 
-Owner: Cătălin Popa · Ultima actualizare: 2026-06-01
+Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ---
 
@@ -125,6 +125,38 @@ omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declar
 - ⬜ Legislație (legislatie.just.ro SOAP) ↔ proiecte de lege
 - ⬜ **Acționariat % (plătit) — DEFERIT la final** (D7)
 
+**Faza 7 — Activitatea comisiilor parlamentare (BACKLOG — cerut de owner 2026-06-06):**
+
+Integrare COMPLETĂ a activității comisiilor: **ședințe → ordini de zi → PLx-uri → documente**,
+domeniu **2024 → prezent**. Întâi Camera Deputaților, apoi Senatul (dacă are structură similară).
+
+Structura cdep.ro (URL-uri confirmate de owner):
+1. **Lista comisiilor:** `https://www.cdep.ro/ords/co/sedinte2015.comisii`
+2. **Ședințe per comisie/an:** `https://www.cdep.ro/ords/co/sedinte2015.lista?tip={ID_COMISIE}&an={AN}`
+   (ex. comisia IT: `tip=19&an=2026`)
+3. **Ordinea de zi (PDF) per ședință:** ex.
+   `https://www.cdep.ro/ords/co/docs?F1606199231/Ordinea%20de%20zi%202%20iunie%202026.pdf`
+   — în acest PDF sunt listate **PLx-urile** dezbătute, fiecare cu link
+4. **Pagina proiectului (PLx):** `https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp={IDP}`
+   (ex. PLx 372/2026 → `idp=23259`)
+5. **Documentele PLx** (pe pagina proiectului — pot fi MAI MULTE avize/rapoarte per PLx):
+   - expunere de motive: `…/proiecte/2026/300/70/2/em423.pdf`
+   - forma inițiatorului: `…/pl423.pdf`
+   - aviz CSM: `…/csm423.pdf`
+   - + alte avize / rapoarte (număr variabil)
+
+De făcut:
+- ⬜ Connector `parlament/comisii` (cdep-api-poc are deja scrapere de referință: comisii, ordine
+  de zi, doc-comisii, proiecte — de portat pe noul core)
+- ⬜ Model nou: `Committee` · `CommitteeSession` (dată, PDF ordine de zi) · `LegislativeProject`
+  (PLx: nr/an, idp, titlu, cameră) · `LegislativeDocument` (tip: em/pl/csm/aviz/raport, URL PDF)
+  + muchii: comisie→ședință→PLx→documente
+- ⬜ Crawl 2024→prezent: pt. fiecare comisie × an → ședințe → parsează ordinea de zi (PDF → PLx-uri)
+  → pt. fiecare PLx ia pagina proiectului + TOATE documentele
+- ⬜ Descarcă + cache (bronze) documentele; parsare text (fără PII — proiecte publice)
+- ⬜ Apoi **Senatul** (verifică dacă are echivalent ședințe/comisii + pattern URL)
+- ⬜ Leagă PLx ↔ inițiatori (deputați/senatori din ROMEGA) → graf „cine a inițiat / avizat ce"
+
 **Mediu de validare:** ești în RO → scraping/API live funcționează de pe mașina ta (cdep.ro, ANAF, data.gov.ro confirmate). Runner self-hosted = pentru rulări programate/volum.
 
 ## Decizii luate (cu rațiune)
@@ -151,6 +183,9 @@ omonimi → connectoarele TREBUIE să rezolve cu `birth_date` din profile/declar
 
 ## Următorii pași
 
+0. **Faza 7 — Activitatea comisiilor (PRIORITAR, cerut 2026-06-06)** — vezi secțiunea dedicată:
+   connector `parlament/comisii`, crawl 2024→prezent (comisii → ședințe → ordini de zi PDF → PLx
+   → documente), deputați apoi senat. Rulează după ce se eliberează GPU/CPU (OCR + ministere în curs).
 1. **Faza 0 continuare:** `romega_core/http.py` — port `_http.py` din cdep + rate-limit
    per-host + `BronzeStore` (cache content-addressed) + teste offline (throttle/cache).
 2. **Faza 0:** `pipeline/` pe DuckDB (bronze→silver→gold) + `io.py` (export JSON/Pagefind/feeds).
