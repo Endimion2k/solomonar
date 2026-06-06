@@ -392,11 +392,13 @@ def _ocr_engine():
     return _OCR_ENGINE
 
 
-def extract_pdf_text_ocr(pdf_bytes: bytes, dpi: int = 200, max_pages: int = 14) -> str:
+def extract_pdf_text_ocr(pdf_bytes: bytes, dpi: int = 200, max_pages: int = 14,
+                         max_px: int = 2400) -> str:
     """OCR pentru PDF-uri SCANATE (fără strat de text). PyMuPDF randează → RapidOCR (română+latină).
 
-    Lazy import (pip install pymupdf rapidocr-onnxruntime). max_pages limitează scanele uriașe
-    (avere ~8 pag, interese ~3, combinat ~11). Folosit ca fallback când extract_pdf_text e gol.
+    Lazy import (pip install pymupdf rapidocr-onnxruntime). max_pages limitează scanele uriașe.
+    max_px PLAFONEAZĂ latura lungă: scanele la rezoluție enormă (ex. DSVSA Constanța 2016 =
+    5167×7307 = 37.8MP) ar depăși memoria GPU → OOM. Le reducem la ~max_px (suficient pt. OCR).
     """
     import fitz  # PyMuPDF
     import numpy as np
@@ -407,7 +409,9 @@ def extract_pdf_text_ocr(pdf_bytes: bytes, dpi: int = 200, max_pages: int = 14) 
         for i, page in enumerate(doc):
             if i >= max_pages:
                 break
-            pix = page.get_pixmap(dpi=dpi)
+            long_pts = max(page.rect.width, page.rect.height) or 1.0
+            zoom = min(dpi / 72.0, max_px / long_pts)  # 200dpi normal, dar plafon pe pagini uriașe
+            pix = page.get_pixmap(matrix=fitz.Matrix(zoom, zoom))
             img = np.frombuffer(pix.samples, dtype=np.uint8).reshape(pix.height, pix.width, pix.n)
             if pix.n == 4:
                 img = img[:, :, :3]
