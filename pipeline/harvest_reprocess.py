@@ -135,7 +135,8 @@ def _chunks(seq, n):
 def main(mode: str = "auto", workers: int | None = None, limit: int | None = None) -> dict:
     workers = workers or WORKERS
     bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))
-    dl_client = Client(bronze=bronze, throttle_seconds=0.2, timeout=25)
+    dl_client = Client(bronze=bronze, throttle_seconds=0.2,
+                       timeout=int(os.environ.get("ROMEGA_DL_TIMEOUT", "12")))
     pdf_to_inst = json.load(open(CKPT, encoding="utf-8"))
     done = _load_done()
     remaining = [u for u in pdf_to_inst if u not in done]
