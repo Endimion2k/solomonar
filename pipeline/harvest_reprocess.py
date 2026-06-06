@@ -16,7 +16,7 @@ import json
 import os
 import sys
 import time
-from concurrent.futures import ProcessPoolExecutor
+from concurrent.futures import ProcessPoolExecutor, wait
 from datetime import datetime, timezone
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -149,7 +149,10 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
     deferred = 0
     t0 = time.time()
     proc_this_run = 0
-    with ProcessPoolExecutor(max_workers=workers) as pool, open(JSONL, "a", encoding="utf-8") as jf:
+    timeouts = 0
+    batch_timeout = int(os.environ.get("ROMEGA_BATCH_TIMEOUT", "1800"))  # un PDF agățat > atât → skip
+    pool = ProcessPoolExecutor(max_workers=workers)
+    with open(JSONL, "a", encoding="utf-8") as jf:
         for bi, batch in enumerate(_chunks(remaining, BATCH), 1):
             # descarcă PDF-urile încă necache-uite (surse fără crawl prealabil, ex. parlament)
             missing = [u for u in batch if not bronze.has_url(u)]
@@ -162,27 +165,47 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
                     tasks.append((u, str(bronze.root / art.path), pdf_to_inst[u], mode))
                 else:
                     miss.append({"pdf_url": u, "status": "fail"})
-            recs = list(pool.map(_process, tasks, chunksize=2)) + miss
+            # submit + așteaptă cu timeout; un task agățat NU mai blochează tot runul
+            futs = {pool.submit(_process, t): t for t in tasks}
+            done_f, not_done = wait(futs, timeout=batch_timeout)
+            recs = list(miss)
+            for f in done_f:
+                try:
+                    recs.append(f.result())
+                except Exception:
+                    recs.append({"pdf_url": futs[f][0], "status": "fail"})
+            hung = [f for f in not_done if f.running()]   # chiar agățate (vs nepornite)
+            for f in hung:
+                recs.append({"pdf_url": futs[f][0], "status": "timeout"})  # skip permanent (1 PDF stricat)
+            if not_done:  # ucide workerii (inclusiv agățați) + pool nou; nepornitele se reiau la resume
+                timeouts += len(hung)
+                for p in list(getattr(pool, "_processes", {}).values()):
+                    try:
+                        p.terminate()
+                    except Exception:
+                        pass
+                pool.shutdown(wait=False, cancel_futures=True)
+                pool = ProcessPoolExecutor(max_workers=workers)
             written = [r for r in recs if not r.get("defer")]   # amânatele NU se scriu (rămân pt. OCR)
             for r in written:
                 jf.write(json.dumps(r, ensure_ascii=False) + "\n")
             jf.flush()
             deferred += sum(1 for r in recs if r.get("defer"))
             n_done += len(written)
-            proc_this_run += len(batch)
+            proc_this_run += len(done_f) + len(miss) + len(hung)
             nav = sum(1 for r in recs if r.get("av"))
             nit = sum(1 for r in recs if r.get("it"))
             nocr = sum(1 for r in recs if r.get("ocr"))
             el = time.time() - t0
             rate = proc_this_run / el if el > 0 else 0
-            left = len(remaining) - proc_this_run
-            eta_h = (left / rate / 3600) if rate > 0 else 0
+            eta_h = (max(0, len(remaining) - proc_this_run) / rate / 3600) if rate > 0 else 0
+            tflag = f" TIMEOUT={len(hung)}" if hung else ""
             print(f"   batch {bi}: scrise={len(written)} amanate={sum(1 for r in recs if r.get('defer'))} "
-                  f"(av={nav} it={nit} ocr={nocr}) | done={n_done} | {rate*60:.0f}/min "
-                  f"ramase={left} ETA={eta_h:.1f}h", flush=True)
-
+                  f"(av={nav} it={nit} ocr={nocr}){tflag} | done={n_done} | {rate*60:.0f}/min "
+                  f"ETA={eta_h:.1f}h", flush=True)
+    pool.shutdown(wait=False)
     _finalize()
-    return {"done": n_done, "deferred": deferred}
+    return {"done": n_done, "deferred": deferred, "timeouts": timeouts}
 
 
 def _finalize() -> None:
