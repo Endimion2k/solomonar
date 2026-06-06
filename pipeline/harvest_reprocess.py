@@ -135,6 +135,7 @@ def _chunks(seq, n):
 def main(mode: str = "auto", workers: int | None = None, limit: int | None = None) -> dict:
     workers = workers or WORKERS
     bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))
+    dl_client = Client(bronze=bronze, throttle_seconds=0.2, timeout=25)
     pdf_to_inst = json.load(open(CKPT, encoding="utf-8"))
     done = _load_done()
     remaining = [u for u in pdf_to_inst if u not in done]
@@ -149,6 +150,10 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
     proc_this_run = 0
     with ProcessPoolExecutor(max_workers=workers) as pool, open(JSONL, "a", encoding="utf-8") as jf:
         for bi, batch in enumerate(_chunks(remaining, BATCH), 1):
+            # descarcă PDF-urile încă necache-uite (surse fără crawl prealabil, ex. parlament)
+            missing = [u for u in batch if not bronze.has_url(u)]
+            if missing:
+                dl_client.fetch_many([(u, "src_pdf", ".pdf") for u in missing], workers=8)
             tasks, miss = [], []
             for u in batch:
                 art = bronze.artifact_for_url(u)
