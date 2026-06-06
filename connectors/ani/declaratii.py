@@ -377,7 +377,9 @@ def _ocr_engine():
                     so.intra_op_num_threads = 1
                     so.inter_op_num_threads = 1
                 if _OCR_CUDA:  # GPU cu PLAFON pe arenă (gpu_mem_limit): cache rapid SUB plafon,
-                    _mem = int(os.environ.get("ROMEGA_GPU_MEM_MB", "3300")) * 1024 * 1024
+                    # 6000MB: suficient ca detectorul să NU se înfometeze (3300 era prea mic → 0 boxe
+                    # = empty). 1 worker la 6000 = sigur (6.5GB<8); 2 workeri ar depăși 8GB → thrash.
+                    _mem = int(os.environ.get("ROMEGA_GPU_MEM_MB", "6000")) * 1024 * 1024
                     k["providers"] = [   # fără kSameAsRequested (ăla dezactiva cache-ul → lent)
                         ("CUDAExecutionProvider", {"gpu_mem_limit": _mem}),
                         "CPUExecutionProvider",
