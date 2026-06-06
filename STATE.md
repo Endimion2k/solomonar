@@ -146,16 +146,18 @@ Structura cdep.ro (URL-uri confirmate de owner):
    - + alte avize / rapoarte (număr variabil)
 
 De făcut:
-- ⬜ Connector `parlament/comisii` (cdep-api-poc are deja scrapere de referință: comisii, ordine
-  de zi, doc-comisii, proiecte — de portat pe noul core)
-- ⬜ Model nou: `Committee` · `CommitteeSession` (dată, PDF ordine de zi) · `LegislativeProject`
-  (PLx: nr/an, idp, titlu, cameră) · `LegislativeDocument` (tip: em/pl/csm/aviz/raport, URL PDF)
-  + muchii: comisie→ședință→PLx→documente
-- ⬜ Crawl 2024→prezent: pt. fiecare comisie × an → ședințe → parsează ordinea de zi (PDF → PLx-uri)
-  → pt. fiecare PLx ia pagina proiectului + TOATE documentele
-- ⬜ Descarcă + cache (bronze) documentele; parsare text (fără PII — proiecte publice)
-- ⬜ Apoi **Senatul** (verifică dacă are echivalent ședințe/comisii + pattern URL)
+- ✅ Connector `parlament/comisii` (cdep) — `connectors/parlament/comisii.py` + `pipeline/harvest_comisii.py`
+- ✅ Crawl CDep 2024-2026: **33 comisii → 2.971 ședințe → 1.852 PLx → 20.574 documente** indexate
+  (`data/v1/comisii/comisii.json` + `sedinte.json` + `plx.json`) — LIVE
+- ✅ Descărcat + arhivat în bronze: **19.408/20.574 documente** (94%; 1.166 = 404/linkuri moarte)
+- ⬜ **Senatul (browser automation)** — 23 comisii la `senat.ro/comisii.aspx`, fiecare cu
+  `ProgramLucruZi.aspx?ComisieID={GUID}`. DAR e **ASP.NET gated** (ordinea de zi prin postback pe
+  dată, fără PDF/PLx accesibile direct) — ca declarațiile senatorilor → **necesită Playwright/Chrome**
+  (vezi task-ul spawnat pt. senat.ro). De extins acolo: comisii senat → ședințe → PLx.
+- ⬜ Model canonic în graf: `Committee`/`CommitteeSession`/`LegislativeProject`/`LegislativeDocument`
+  + muchii comisie→ședință→PLx→documente (acum sunt JSON-index; de promovat în DuckDB/graf)
 - ⬜ Leagă PLx ↔ inițiatori (deputați/senatori din ROMEGA) → graf „cine a inițiat / avizat ce"
+- ⬜ Opțional: parsare conținut documente (expunere de motive etc.) + reducere „alt" (7.178 neclasif.)
 
 **Mediu de validare:** ești în RO → scraping/API live funcționează de pe mașina ta (cdep.ro, ANAF, data.gov.ro confirmate). Runner self-hosted = pentru rulări programate/volum.
 
