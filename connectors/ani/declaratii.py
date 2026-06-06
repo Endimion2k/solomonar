@@ -298,6 +298,51 @@ def parse_interese_text(text: str) -> InteresParsed:
     return res
 
 
+# --- Parsere OCR-tolerante (text zgomotos: currency/m² distruse, dar numere-mii + secțiuni supraviețuiesc) ---
+_RE_NUM_OCR = re.compile(r"\d{1,3}(?:[.\s]\d{3})+(?:,\d{1,2})?")  # 150.000 / 1.500.000 / 75 500
+_RE_AREA_OCR = re.compile(r"\d{2,5}(?:[.,]\d+)?\s*(?:m\s*2|m2|mp|rn2|m²|ha)\b", re.I)
+
+
+def _ocr_section(n: str, start_kw: str, end_kws: list[str]) -> str:
+    i = n.find(start_kw)
+    if i < 0:
+        return ""
+    j = len(n)
+    for e in end_kws:
+        k = n.find(e, i + len(start_kw))
+        if 0 < k < j:
+            j = k
+    return n[i:j]
+
+
+def _ocr_sum(section: str, threshold: float = 1000.0) -> float:
+    """Sumă numere în format mii (currency-optional) — pt. OCR unde 'lei'/'RON' se distrug."""
+    total = 0.0
+    for m in _RE_NUM_OCR.finditer(section):
+        v = _parse_amount(m.group(0).replace(" ", "."))
+        if v and v > threshold:
+            total += v
+    return total
+
+
+def parse_avere_ocr(text: str) -> AvereParsed:
+    """Avere din text OCR zgomotos: secțiuni normalizate + sume în format mii (fără currency)."""
+    if len(text.strip()) < 80:
+        return AvereParsed(text_extracted=False, needs_ocr=True)
+    res = AvereParsed(text_extracted=True, needs_ocr=True)
+    from romega_core.names import strip_diacritics
+    n = strip_diacritics(text).lower()
+    imob = _ocr_section(n, "bunuri imobile", ["bunuri mobile", "active financiare", "datorii"])
+    fin = _ocr_section(n, "active financiare", ["datorii", "venituri", "bunuri", "cadouri"])
+    ven = _ocr_section(n, "venituri", ["prezenta", "raspundere", "intocmit", "semnatura"])
+    mob = _ocr_section(n, "bunuri mobile", ["active financiare", "bunuri imobile"])
+    res.terenuri_count = len(_RE_AREA_OCR.findall(imob))
+    res.conturi_total_ron = _ocr_sum(fin)
+    res.venituri_anuale_ron = _ocr_sum(ven)
+    res.auto_count = len(re.findall(r"autoturism|autovehic|motociclet|tractor|remorc", mob))
+    return res
+
+
 def compute_avere_delta(declaratii: list[AvereParsed]) -> AvereDelta:
     """Variația averii între prima și ultima declarație (declaratii sortate cronologic)."""
     valid = [d for d in declaratii if d.text_extracted]

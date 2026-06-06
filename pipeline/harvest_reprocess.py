@@ -24,7 +24,7 @@ sys.path.insert(0, ROOT)
 
 from connectors.ani.declaratii import (  # noqa: E402
     classify_declaration, extract_pdf_text, extract_pdf_text_ocr,
-    parse_avere_text, parse_interese_text,
+    parse_avere_ocr, parse_avere_text, parse_interese_text,
 )
 from connectors.ani.redaction import find_pii  # noqa: E402
 from romega_core.bronze import BronzeStore  # noqa: E402
@@ -92,7 +92,7 @@ def _process(task: tuple) -> dict:
     kinds = classify_declaration(txt)
     rec = {"pdf_url": url, "status": "empty", "ocr": ocr}
     if "avere" in kinds:
-        av = parse_avere_text(txt)
+        av = parse_avere_ocr(txt) if ocr else parse_avere_text(txt)  # OCR-tolerant pe scanate
         if av.text_extracted and (av.terenuri_count + av.cladiri_count
                                   + av.conturi_total_ron + av.venituri_anuale_ron) > 0:
             rec["av"] = {"institutie": inst, "pdf_url": url, "ocr": ocr,
