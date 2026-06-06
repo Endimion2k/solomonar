@@ -31,10 +31,19 @@ from romega_core.bronze import BronzeStore  # noqa: E402
 from romega_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
-CKPT = os.path.join(V, "declaratii/_decon_pdfs.json")     # listă PDF (din harvest_declaratii_deconcentrate)
-JSONL = os.path.join(V, "declaratii/_reproc.jsonl")        # progres incremental (resume)
-OUT_AV = os.path.join(V, "declaratii/avere_deconcentrate.json")
-OUT_IT = os.path.join(V, "declaratii/interese_deconcentrate.json")
+# ROMEGA_SRC selectează sursa (deconcentrate=implicit, sau ministere/anpm/parlament...) →
+# refolosim ACELAȘI pipeline (uncapped + OCR + avere&interese) pe orice listă de PDF-uri.
+SRC = os.environ.get("ROMEGA_SRC", "")
+if SRC:
+    CKPT = os.environ.get("ROMEGA_CKPT", os.path.join(V, f"declaratii/_{SRC}_pdfs.json"))
+    JSONL = os.path.join(V, f"declaratii/_{SRC}_reproc.jsonl")
+    OUT_AV = os.path.join(V, f"declaratii/avere_{SRC}.json")
+    OUT_IT = os.path.join(V, f"declaratii/interese_{SRC}.json")
+else:  # implicit = deconcentrate (păstrează căile rulării curente pentru resume)
+    CKPT = os.path.join(V, "declaratii/_decon_pdfs.json")
+    JSONL = os.path.join(V, "declaratii/_reproc.jsonl")
+    OUT_AV = os.path.join(V, "declaratii/avere_deconcentrate.json")
+    OUT_IT = os.path.join(V, "declaratii/interese_deconcentrate.json")
 BATCH = int(os.environ.get("ROMEGA_BATCH", "400"))
 
 
