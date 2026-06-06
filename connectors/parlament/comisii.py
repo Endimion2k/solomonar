@@ -46,14 +46,16 @@ def parse_committee_tips(html: str | bytes) -> list[int]:
 
 
 def parse_committee_name(html: str | bytes) -> str:
-    """Numele comisiei de pe pagina-listă de ședințe (h1/h2/title)."""
+    """Numele SPECIFIC al comisiei (h1/h2 ce conține 'comisi', excluzând genericele)."""
     t = html.decode("utf-8", "ignore") if isinstance(html, bytes) else html
     sel = selector(t)
-    for css in ("h1::text", "h2::text", "title::text"):
-        v = _txt(sel.css(css).get() or "")
-        if v and "cdep" not in v.lower() and len(v) > 8:
-            return v[:120]
-    return ""
+    generic = {"comisia parlamentara", "comisia parlamentară"}
+    cands = []
+    for e in sel.css("h1, h2, h3"):
+        v = _txt(" ".join(e.css("::text").getall()))
+        if v.lower().startswith("comisia ") and v.lower() not in generic and len(v) > 12:
+            cands.append(v)
+    return max(cands, key=len)[:130] if cands else ""
 
 
 def parse_session_agendas(html: str | bytes) -> list[dict]:

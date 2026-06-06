@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-06-06T19:18:50.711999+00:00",
+  "total": 33,
+  "comisii": [
+    {
+      "tip": 1,
+      "nume": "Comisia pentru politică economică, reformă şi privatizare"
+    },
+    {
+      "tip": 2,
+      "nume": "Comisia pentru buget, finanţe şi bănci"
+    },
+    {
+      "tip": 3,
+      "nume": "Comisia pentru industrii şi servicii"
+    },
+    {
+      "tip": 4,
+      "nume": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+    },
+    {
+      "tip": 5,
+      "nume": "Comisia pentru drepturile omului, culte şi problemele minorităţilor naţionale"
+    },
+    {
+      "tip": 6,
+      "nume": "Comisia pentru administraţie publică şi amenajarea teritoriului"
+    },
+    {
+      "tip": 7,
+      "nume": "Comisia pentru muncă şi protecţie socială"
+    },
+    {
+      "tip": 8,
+      "nume": "Comisia pentru sănătate şi familie"
+    },
+    {
+      "tip": 9,
+      "nume": "Comisia pentru învăţământ"
+    },
+    {
+      "tip": 10,
+      "nume": "Comisia pentru cultură, arte şi mijloace de informare în masă"
+    },
+    {
+      "tip": 11,
+      "nume": "Comisia juridică, de disciplină şi imunităţi"
+    },
+    {
+      "tip": 12,
+      "nume": "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+    },
+    {
+      "tip": 13,
+      "nume": "Comisia pentru politică externă"
+    },
+    {
+      "tip": 14,
+      "nume": "Comisia pentru cercetarea abuzurilor, corupţiei şi pentru petiţii"
+    },
+    {
+      "tip": 15,
+      "nume": "Comisia comună permanentă a Camerei Deputaţilor şi Senatului pentru exercitarea controlului parlamentar asupra activităţii SRI"
+    },
+    {
+      "tip": 17,
+      "nume": "Comisia parlamentară a revoluţionarilor din Decembrie 1989"
+    },
+    {
+      "tip": 19,
+      "nume": "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+    },
+    {
+      "tip": 20,
+      "nume": "Comisia pentru egalitatea de şanse pentru femei şi bărbaţi"
+    },
+    {
+      "tip": 21,
+      "nume": "Comisia parlamentară specială pentru controlul activităţii Serviciului de Informaţii Externe"
+    },
+    {
+      "tip": 23,
+      "nume": "Comisia pentru regulament"
+    },
+    {
+      "tip": 25,
+      "nume": "Comisia permanentă a Camerei Deputaţilor şi Senatului privind Statutul deputaţilor şi al senatorilor, organizarea şi funcţionarea "
+    },
+    {
+      "tip": 32,
+      "nume": "Comisia pentru comunităţile de români din afara graniţelor ţării"
+    },
+    {
+      "tip": 33,
+      "nume": "Comisia pentru afaceri europene"
+    },
+    {
+      "tip": 34,
+      "nume": "Comisia pentru transporturi şi infrastructură"
+    },
+    {
+      "tip": 46,
+      "nume": "Comisia pentru mediu şi echilibru ecologic"
+    },
+    {
+      "tip": 71,
+      "nume": "Comisia pentru constituționalitate"
+    },
+    {
+      "tip": 72,
+      "nume": "Comisia pentru știință și tehnologie"
+    },
+    {
+      "tip": 78,
+      "nume": "Comisia pentru tineret și sport"
+    },
+    {
+      "tip": 97,
+      "nume": "Comisia permanentă comună a Camerei Deputaţilor şi Senatului pentru relaţia cu UNESCO"
+    },
+    {
+      "tip": 240,
+      "nume": "Comisia pentru antreprenoriat şi turism"
+    },
+    {
+      "tip": 246,
+      "nume": "Comisia specială comună a Camerei Deputaţilor şi Senatului pentru sprijinirea procesului de aderare a României la Organizația pent"
+    },
+    {
+      "tip": 247,
+      "nume": "Comisia specială comună a Camerei Deputaţilor şi Senatului pentru combaterea traficului de persoane"
+    },
+    {
+      "tip": 252,
+      "nume": "Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea "
+    }
+  ]
+}
