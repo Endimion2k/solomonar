@@ -9,6 +9,30 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
+> **🟢 MILESTONE (2026-06-07) — ~81 commit-uri, API LIVE.** De la noduri-config la o bază reală mare:
+> - **Declarații avere+interese: ~62.000** (deconcentrate text+OCR · ministere · ANPM · ambele camere
+>   parlament · DSP) — guard PII a blocat sutele cu CNP. OCR scanate la **81%** (12.8k extrase din scane).
+> - **Comisii CDep**: 33 comisii → 2.971 ședințe → 1.852 PLx → **20.574 documente** (19.408 arhivate).
+> - **Moțiuni**: 175 (43 cenzură + 132 simple, 2000-2024).
+> - **Companii de stat**: 1.256 + **reprezentanți legali ONRC pe 1.250** (4.053 admini — CFR/Tarom/Romgaz).
+> - Parlament: 335 deputați + 134 senatori (+ declarații ambele camere).
+>
+> **ÎN CURS:** OCR scanate deconcentrate (GPU, ~28h, reluabil — `_finalize` manual publică progresul).
+>
+> **BATCH DUPĂ OCR (decis B, 2026-06-07):**
+> 1. **#2 servicii deconcentrate cu registru național** (refolosind harvest_deconcentrate +
+>    harvest_declaratii_deconcentrate + OCR):
+>    - **APIA** — 49 județe la `apia.org.ro/centru-judetean/{judet}`; publică DA/DI native (confirmat) ✅
+>    - **CAS** — directory `cnas.ro/cjas/` (case județene) ✅
+>    - **ANAF/Finanțe** — declarații central-ish (`anaf.ro/.../structura_organizatorica`); de verificat pattern ANMAP
+>    - **CNPP/CJP** — mai greu (case-judetene 404; de găsit altă cale)
+>    - restul tipuri (AJPIS, DJC, GNM, OPC, DRV, ORC...) — discovery per registru/tipar
+> 2. **Ministere/agenții SCANATE** → OCR (deferite în pass-ul text; coada GPU)
+> 3. **Senat** (comisii + moțiuni simple + declarații) — scraper Playwright STATEFUL dedicat (ASP.NET)
+> 4. **Companii**: bilanțuri MF (cifre) · declarații conducere SOE (ANI central) · acționariat % (plătit, ULTIMUL)
+> 5. Rezolvare reprezentanți→Person + muchii LEGAL_REP + link PLx↔inițiatori (graf)
+> 6. Curățenie: șterge `avere_toate.json` (378) + `avere_dsp.json` (151) — superseded.
+
 > **🟢 INVENTAR DATE REALE (2026-06-04)** — de la noduri-config la date reale descărcate:
 > - **335 deputați** + **134 senatori** (profile live)
 > - **1.256 companii de stat** (146 AMEPIP centrale+ANAF · **1.114 LOCALE** via companiidestat.ro API)
