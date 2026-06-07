@@ -150,10 +150,17 @@ De făcut:
 - ✅ Crawl CDep 2024-2026: **33 comisii → 2.971 ședințe → 1.852 PLx → 20.574 documente** indexate
   (`data/v1/comisii/comisii.json` + `sedinte.json` + `plx.json`) — LIVE
 - ✅ Descărcat + arhivat în bronze: **19.408/20.574 documente** (94%; 1.166 = 404/linkuri moarte)
-- ⬜ **Senatul (browser automation)** — 23 comisii la `senat.ro/comisii.aspx`, fiecare cu
-  `ProgramLucruZi.aspx?ComisieID={GUID}`. DAR e **ASP.NET gated** (ordinea de zi prin postback pe
-  dată, fără PDF/PLx accesibile direct) — ca declarațiile senatorilor → **necesită Playwright/Chrome**
-  (vezi task-ul spawnat pt. senat.ro). De extins acolo: comisii senat → ședințe → PLx.
+- ⬜ **Senatul — COMPLET ASP.NET-gated, necesită browser automation dedicat** (investigat 2026-06-07):
+  - 23 comisii la `senat.ro/comisii.aspx`; agenda = `ProgramLucruZi.aspx?ComisieID={GUID}` cu câmp
+    de dată `txtData` → postback per zi; **NU există listă de ședințe** (crawl exhaustiv = ~14k
+    postback-uri oarbe pe dată × 23 comisii = impractic).
+  - Proiecte = `LegiProiect.aspx`: grid paginat prin postback (Page$2..Page$Last) + search-driven,
+    **zero linkuri fișă** la încărcare. Parametri URL de dată NU schimbă conținutul (postback pur).
+  - Încercat 5 unghiuri (param dată, render Playwright, listă proiecte, LegiProiect, fișe) — toate gated.
+  - Concluzie: necesită un scraper Playwright STATEFUL dedicat (navigare __VIEWSTATE/__EVENTVALIDATION
+    pas-cu-pas) — fragil + greu, NU se rulează robust în paralel cu OCR. De făcut într-o sesiune
+    dedicată (Chromium liber, după ce termină OCR) SAU în task-ul senat.ro deja spawnat (declarații).
+  - cdep e bicameral-dominant + multe PLx partajate au deja avizele Senatului în documentele indexate.
 - ⬜ Model canonic în graf: `Committee`/`CommitteeSession`/`LegislativeProject`/`LegislativeDocument`
   + muchii comisie→ședință→PLx→documente (acum sunt JSON-index; de promovat în DuckDB/graf)
 - ⬜ Leagă PLx ↔ inițiatori (deputați/senatori din ROMEGA) → graf „cine a inițiat / avizat ce"
