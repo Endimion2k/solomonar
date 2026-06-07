@@ -14,7 +14,9 @@
       "conturi_ron": 0,
       "venituri_ron": 283031,
       "datorii_ron": 192350,
-      "auto": 6
+      "auto": 6,
+      "nume": "ADOMNICAI MIRELA ELENA",
+      "nume_norm": "ADOMNICAI ELENA MIRELA"
     },
     {
       "institutie": "Deputat Albu Dumitrita",
@@ -25,7 +27,9 @@
       "conturi_ron": 0,
       "venituri_ron": 900178,
       "datorii_ron": 925530,
-      "auto": 5
+      "auto": 5,
+      "nume": "ALBU DUMITRITA",
+      "nume_norm": "ALBU DUMITRITA"
     },
     {
       "institutie": "Deputat Alecsandru Marius-Nicolae",
@@ -36,7 +40,9 @@
       "conturi_ron": 0,
       "venituri_ron": 119520,
       "datorii_ron": 146450,
-      "auto": 4
+      "auto": 4,
+      "nume": "ALECSANDRU MARIUS-NICOLAE",
+      "nume_norm": "ALECSANDRU MARIUS NICOLAE"
     },
     {
       "institutie": "Deputat Alecu Robert",
@@ -47,7 +53,9 @@
       "conturi_ron": 49000,
       "venituri_ron": 86649,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ALECU ROBERT",
+      "nume_norm": "ALECU ROBERT"
     },
     {
       "institutie": "Deputat Amet Varol",
@@ -58,7 +66,9 @@
       "conturi_ron": 0,
       "venituri_ron": 187516,
       "datorii_ron": 76319,
-      "auto": 7
+      "auto": 7,
+      "nume": "AMET VAROL",
+      "nume_norm": "AMET VAROL"
     },
     {
       "institutie": "Deputat Andrei Alexandru-Ioan",
@@ -69,7 +79,9 @@
       "conturi_ron": 304400,
       "venituri_ron": 364851,
       "datorii_ron": 268104,
-      "auto": 4
+      "auto": 4,
+      "nume": "ANDREI ALEXANDRU-IOAN",
+      "nume_norm": "ALEXANDRU ANDREI IOAN"
     },
     {
       "institutie": "Deputat Andrei Cosmin",
@@ -80,7 +92,9 @@
       "conturi_ron": 0,
       "venituri_ron": 314588,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANDREI COSMIN",
+      "nume_norm": "ANDREI COSMIN"
     },
     {
       "institutie": "Deputat Andronache Gabriel",
@@ -91,7 +105,9 @@
       "conturi_ron": 0,
       "venituri_ron": 145712,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANDRONACHE GABRIEL",
+      "nume_norm": "ANDRONACHE GABRIEL"
     },
     {
       "institutie": "Deputat Andrusca Lucian-Nicolae",
@@ -102,7 +118,9 @@
       "conturi_ron": 0,
       "venituri_ron": 183504,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ANDRUSCA LUCIAN-NICOLAE",
+      "nume_norm": "ANDRUSCA LUCIAN NICOLAE"
     },
     {
       "institutie": "Deputat Atanasiu Corina",
@@ -113,7 +131,9 @@
       "conturi_ron": 31399,
       "venituri_ron": 477388,
       "datorii_ron": 105789,
-      "auto": 5
+      "auto": 5,
+      "nume": "ATANASIU CORINA",
+      "nume_norm": "ATANASIU CORINA"
     },
     {
       "institutie": "Deputat Avramescu Stefanita-Alin",
@@ -124,7 +144,9 @@
       "conturi_ron": 0,
       "venituri_ron": 92905,
       "datorii_ron": 225000,
-      "auto": 5
+      "auto": 5,
+      "nume": "AVRAMESCU STEFANITA-ALIN",
+      "nume_norm": "ALIN AVRAMESCU STEFANITA"
     },
     {
       "institutie": "Deputat Baciu Romica-Andrei",
@@ -135,7 +157,9 @@
       "conturi_ron": 2382352,
       "venituri_ron": 257575,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BACIU ROMICA-ANDREI",
+      "nume_norm": "ANDREI BACIU ROMICA"
     },
     {
       "institutie": "Deputat Badea Nelu-Valentin",
@@ -146,7 +170,9 @@
       "conturi_ron": 0,
       "venituri_ron": 319362,
       "datorii_ron": 0,
-      "auto": 14
+      "auto": 14,
+      "nume": "BADEA NELU-VALENTIN",
+      "nume_norm": "BADEA NELU VALENTIN"
     },
     {
       "institutie": "Deputat Badiu Georgel",
@@ -157,7 +183,9 @@
       "conturi_ron": 0,
       "venituri_ron": 362084,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "BADIU GEORGEL",
+      "nume_norm": "BADIU GEORGEL"
     },
     {
       "institutie": "Deputat Balan Ioan",
@@ -168,7 +196,9 @@
       "conturi_ron": 8100,
       "venituri_ron": 447818,
       "datorii_ron": 555000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BALAN IOAN",
+      "nume_norm": "BALAN IOAN"
     },
     {
       "institutie": "Deputat Bara Nicolae-Adrian",
@@ -179,7 +209,9 @@
       "conturi_ron": 0,
       "venituri_ron": 363232,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BARA NICOLAE-ADRIAN",
+      "nume_norm": "ADRIAN BARA NICOLAE"
     },
     {
       "institutie": "Deputat Barbu Florin-Ionut",
@@ -190,7 +222,9 @@
       "conturi_ron": 0,
       "venituri_ron": 333898,
       "datorii_ron": 238200,
-      "auto": 5
+      "auto": 5,
+      "nume": "BARBU FLORIN-IONUT",
+      "nume_norm": "BARBU FLORIN IONUT"
     },
     {
       "institutie": "Deputat Barstan Tiberiu-Claudiu",
@@ -201,7 +235,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 176540,
       "datorii_ron": 100000,
-      "auto": 11
+      "auto": 11,
+      "nume": "BARSTAN TIBERIU-CLAUDIU",
+      "nume_norm": "BARSTAN CLAUDIU TIBERIU"
     },
     {
       "institutie": "Deputat Bas Ana-Marcela",
@@ -212,7 +248,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73373,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BAS ANA-MARCELA",
+      "nume_norm": "ANA BAS MARCELA"
     },
     {
       "institutie": "Deputat Baisanu Stefan-Alexandru",
@@ -223,7 +261,9 @@
       "conturi_ron": 308050,
       "venituri_ron": 184704,
       "datorii_ron": 290674,
-      "auto": 6
+      "auto": 6,
+      "nume": "BAISANU STEFAN-ALEXANDRU",
+      "nume_norm": "ALEXANDRU BAISANU STEFAN"
     },
     {
       "institutie": "Deputat Becali George",
@@ -234,7 +274,9 @@
       "conturi_ron": 384525679,
       "venituri_ron": 80666,
       "datorii_ron": 0,
-      "auto": 11
+      "auto": 11,
+      "nume": "BECALI GEORGE",
+      "nume_norm": "BECALI GEORGE"
     },
     {
       "institutie": "Deputat Bejinariu Eugen",
@@ -245,7 +287,9 @@
       "conturi_ron": 1980898,
       "venituri_ron": 404464,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BEJINARIU EUGEN",
+      "nume_norm": "BEJINARIU EUGEN"
     },
     {
       "institutie": "Deputat Bende Sandor",
@@ -256,7 +300,9 @@
       "conturi_ron": 0,
       "venituri_ron": 331423,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BENDE SANDOR",
+      "nume_norm": "BENDE SANDOR"
     },
     {
       "institutie": "Deputat Berescu Monica-Elena",
@@ -267,7 +313,9 @@
       "conturi_ron": 2663088,
       "venituri_ron": 1720926,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BERESCU MONICA-ELENA",
+      "nume_norm": "BERESCU ELENA MONICA"
     },
     {
       "institutie": "Deputat Biro Daniel-Razvan",
@@ -278,7 +326,9 @@
       "conturi_ron": 50000,
       "venituri_ron": 130891,
       "datorii_ron": 2770350,
-      "auto": 4
+      "auto": 4,
+      "nume": "BIRO DANIEL-RAZVAN",
+      "nume_norm": "BIRO DANIEL RAZVAN"
     },
     {
       "institutie": "Deputat Biro Rozalia-Ibolya",
@@ -289,7 +339,9 @@
       "conturi_ron": 161847,
       "venituri_ron": 933295,
       "datorii_ron": 149274,
-      "auto": 6
+      "auto": 6,
+      "nume": "BIRO ROZALIA-IBOLYA",
+      "nume_norm": "BIRO IBOLYA ROZALIA"
     },
     {
       "institutie": "Deputat Blaga Daniel-Codrut",
@@ -300,7 +352,9 @@
       "conturi_ron": 528330,
       "venituri_ron": 169351,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "BLAGA DANIEL-CODRUT",
+      "nume_norm": "BLAGA CODRUT DANIEL"
     },
     {
       "institutie": "Deputat Bode Lucian Nicolae",
@@ -311,7 +365,9 @@
       "conturi_ron": 150000,
       "venituri_ron": 441996,
       "datorii_ron": 443788,
-      "auto": 5
+      "auto": 5,
+      "nume": "BODE LUCIAN NICOLAE",
+      "nume_norm": "BODE LUCIAN NICOLAE"
     },
     {
       "institutie": "Deputat Bogdan Ionel-Ovidiu",
@@ -322,7 +378,9 @@
       "conturi_ron": 138000,
       "venituri_ron": 338899,
       "datorii_ron": 648500,
-      "auto": 5
+      "auto": 5,
+      "nume": "BOGDAN IONEL-OVIDIU",
+      "nume_norm": "BOGDAN IONEL OVIDIU"
     },
     {
       "institutie": "Deputat Bogdanel Lucian-Gabriel",
@@ -333,7 +391,9 @@
       "conturi_ron": 0,
       "venituri_ron": 201248,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BOGDANEL LUCIAN-GABRIEL",
+      "nume_norm": "BOGDANEL GABRIEL LUCIAN"
     },
     {
       "institutie": "Deputat Bordian Alexandru",
@@ -344,7 +404,9 @@
       "conturi_ron": 0,
       "venituri_ron": 88315,
       "datorii_ron": 100000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BORDIAN ALEXANDRU",
+      "nume_norm": "ALEXANDRU BORDIAN"
     },
     {
       "institutie": "Deputat Bors George-Madalin",
@@ -355,7 +417,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 58180,
       "datorii_ron": 200000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BORS GEORGE-MADALIN",
+      "nume_norm": "BORS GEORGE MADALIN"
     },
     {
       "institutie": "Deputat Bosutar Tiberiu-Nicolae",
@@ -366,7 +430,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 3042,
       "datorii_ron": 200000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BOSUTAR TIBERIU-NICOLAE",
+      "nume_norm": "BOSUTAR NICOLAE TIBERIU"
     },
     {
       "institutie": "Deputat Botez Mihai-Catalin",
@@ -377,7 +443,9 @@
       "conturi_ron": 60000,
       "venituri_ron": 131412,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BOTEZ MIHAI-CATALIN",
+      "nume_norm": "BOTEZ CATALIN MIHAI"
     },
     {
       "institutie": "Deputat Bouda Stefan",
@@ -388,7 +456,9 @@
       "conturi_ron": 0,
       "venituri_ron": 19439,
       "datorii_ron": 93854,
-      "auto": 4
+      "auto": 4,
+      "nume": "BOUDA STEFAN",
+      "nume_norm": "BOUDA STEFAN"
     },
     {
       "institutie": "Deputat Bruynseels Ramona-Ioana",
@@ -399,7 +469,9 @@
       "conturi_ron": 25565629,
       "venituri_ron": 1848761,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BRUYNSEELS RAMONA-IOANA",
+      "nume_norm": "BRUYNSEELS IOANA RAMONA"
     },
     {
       "institutie": "Deputat Bucur Ariana-Oana",
@@ -410,7 +482,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 143537,
       "datorii_ron": 198000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BUCUR ARIANA-OANA",
+      "nume_norm": "ARIANA BUCUR OANA"
     },
     {
       "institutie": "Deputat Bucura-Oprescu Simona",
@@ -421,7 +495,9 @@
       "conturi_ron": 248000,
       "venituri_ron": 330903,
       "datorii_ron": 44001,
-      "auto": 5
+      "auto": 5,
+      "nume": "BUCURA-OPRESCU SIMONA",
+      "nume_norm": "BUCURA OPRESCU SIMONA"
     },
     {
       "institutie": "Deputat Budaca Vasile",
@@ -432,7 +508,9 @@
       "conturi_ron": 0,
       "venituri_ron": 229944,
       "datorii_ron": 343000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BUDACA VASILE",
+      "nume_norm": "BUDACA VASILE"
     },
     {
       "institutie": "Deputat Budai Marius-Constantin",
@@ -443,7 +521,9 @@
       "conturi_ron": 67374,
       "venituri_ron": 422291,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "BUDAI MARIUS-CONSTANTIN",
+      "nume_norm": "BUDAI CONSTANTIN MARIUS"
     },
     {
       "institutie": "Deputat Buican Cristian",
@@ -454,7 +534,9 @@
       "conturi_ron": 223755,
       "venituri_ron": 153312,
       "datorii_ron": 452500,
-      "auto": 6
+      "auto": 6,
+      "nume": "BUICAN CRISTIAN",
+      "nume_norm": "BUICAN CRISTIAN"
     },
     {
       "institutie": "Deputat Bulai Iulian",
@@ -465,7 +547,9 @@
       "conturi_ron": 0,
       "venituri_ron": 153156,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BULAI IULIAN",
+      "nume_norm": "BULAI IULIAN"
     },
     {
       "institutie": "Deputat Bulearca Marius-Felix",
@@ -476,7 +560,9 @@
       "conturi_ron": 0,
       "venituri_ron": 401858,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "BULEARCA MARIUS-FELIX",
+      "nume_norm": "BULEARCA FELIX MARIUS"
     },
     {
       "institutie": "Deputat Burduja Sebastian-Ioan",
@@ -487,7 +573,9 @@
       "conturi_ron": 0,
       "venituri_ron": 884953,
       "datorii_ron": 2021990,
-      "auto": 6
+      "auto": 6,
+      "nume": "BURDUJA SEBASTIAN-IOAN",
+      "nume_norm": "BURDUJA IOAN SEBASTIAN"
     },
     {
       "institutie": "Deputat Butura Cristina-Irina",
@@ -498,7 +586,9 @@
       "conturi_ron": 0,
       "venituri_ron": 98802,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BUTURA CRISTINA-IRINA",
+      "nume_norm": "BUTURA CRISTINA IRINA"
     },
     {
       "institutie": "Deputat Buzoianu Diana-Anda",
@@ -509,7 +599,9 @@
       "conturi_ron": 120000,
       "venituri_ron": 137256,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BUZOIANU DIANA-ANDA",
+      "nume_norm": "ANDA BUZOIANU DIANA"
     },
     {
       "institutie": "Deputat Cadar Razvan-Olimpiu",
@@ -520,7 +612,9 @@
       "conturi_ron": 0,
       "venituri_ron": 232459,
       "datorii_ron": 627007,
-      "auto": 4
+      "auto": 4,
+      "nume": "CADAR RAZVAN-OLIMPIU",
+      "nume_norm": "CADAR OLIMPIU RAZVAN"
     },
     {
       "institutie": "Deputat Caragata Florin",
@@ -531,7 +625,9 @@
       "conturi_ron": 0,
       "venituri_ron": 205917,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CARAGATA FLORIN",
+      "nume_norm": "CARAGATA FLORIN"
     },
     {
       "institutie": "Deputat Caciu Adrian",
@@ -542,7 +638,9 @@
       "conturi_ron": 0,
       "venituri_ron": 176455,
       "datorii_ron": 210000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CACIU ADRIAN",
+      "nume_norm": "ADRIAN CACIU"
     },
     {
       "institutie": "Deputat Cernit Maria",
@@ -553,7 +651,9 @@
       "conturi_ron": 0,
       "venituri_ron": 326700,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CERNIT MARIA",
+      "nume_norm": "CERNIT MARIA"
     },
     {
       "institutie": "Deputat Chilat Crina-Fiorela",
@@ -564,7 +664,9 @@
       "conturi_ron": 850,
       "venituri_ron": 601326,
       "datorii_ron": 17540,
-      "auto": 7
+      "auto": 7,
+      "nume": "CHILAT CRINA-FIORELA",
+      "nume_norm": "CHILAT CRINA FIORELA"
     },
     {
       "institutie": "Deputat Chirila Virgil Alin",
@@ -575,7 +677,9 @@
       "conturi_ron": 248000,
       "venituri_ron": 155712,
       "datorii_ron": 300728,
-      "auto": 5
+      "auto": 5,
+      "nume": "CHIRILA VIRGIL ALIN",
+      "nume_norm": "ALIN CHIRILA VIRGIL"
     },
     {
       "institutie": "Deputat Chirita Razvan-Mirel",
@@ -586,7 +690,9 @@
       "conturi_ron": 100000,
       "venituri_ron": 36150,
       "datorii_ron": 429122,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHIRITA RAZVAN-MIREL",
+      "nume_norm": "CHIRITA MIREL RAZVAN"
     },
     {
       "institutie": "Deputat Ciobanu Adrian-Virgil",
@@ -597,7 +703,9 @@
       "conturi_ron": 0,
       "venituri_ron": 207924,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "CIOBANU ADRIAN-VIRGIL",
+      "nume_norm": "ADRIAN CIOBANU VIRGIL"
     },
     {
       "institutie": "Deputat Ciobotaru Dragos-Fanica",
@@ -608,7 +716,9 @@
       "conturi_ron": 0,
       "venituri_ron": 223979,
       "datorii_ron": 75750,
-      "auto": 6
+      "auto": 6,
+      "nume": "CIOBOTARU DRAGOS-FANICA",
+      "nume_norm": "CIOBOTARU DRAGOS FANICA"
     },
     {
       "institutie": "Deputat Ciocan Doinita",
@@ -619,7 +729,9 @@
       "conturi_ron": 567604,
       "venituri_ron": 342749,
       "datorii_ron": 234350,
-      "auto": 8
+      "auto": 8,
+      "nume": "CIOCAN DOINITA",
+      "nume_norm": "CIOCAN DOINITA"
     },
     {
       "institutie": "Deputat Ciornei Daniel-Catalin",
@@ -630,7 +742,9 @@
       "conturi_ron": 60000,
       "venituri_ron": 148259,
       "datorii_ron": 949400,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIORNEI DANIEL-CATALIN",
+      "nume_norm": "CATALIN CIORNEI DANIEL"
     },
     {
       "institutie": "Deputat Ciortea Razvan-Iulian",
@@ -641,7 +755,9 @@
       "conturi_ron": 231000,
       "venituri_ron": 231927,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIORTEA RAZVAN-IULIAN",
+      "nume_norm": "CIORTEA IULIAN RAZVAN"
     },
     {
       "institutie": "Deputat Ciubuc Ciprian",
@@ -652,7 +768,9 @@
       "conturi_ron": 0,
       "venituri_ron": 252217,
       "datorii_ron": 125000,
-      "auto": 6
+      "auto": 6,
+      "nume": "CIUBUC CIPRIAN",
+      "nume_norm": "CIPRIAN CIUBUC"
     },
     {
       "institutie": "Deputat Ciuca Liviu-Bogdan",
@@ -663,7 +781,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1214258,
       "datorii_ron": 467080,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIUCA LIVIU-BOGDAN",
+      "nume_norm": "BOGDAN CIUCA LIVIU"
     },
     {
       "institutie": "Deputat Ciunt Ionel",
@@ -674,7 +794,9 @@
       "conturi_ron": 0,
       "venituri_ron": 383305,
       "datorii_ron": 250000,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIUNT IONEL",
+      "nume_norm": "CIUNT IONEL"
     },
     {
       "institutie": "Deputat Cimpan Cristian-Emanuel",
@@ -685,7 +807,9 @@
       "conturi_ron": 0,
       "venituri_ron": 35836,
       "datorii_ron": 40000,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIMPAN CRISTIAN-EMANUEL",
+      "nume_norm": "CIMPAN CRISTIAN EMANUEL"
     },
     {
       "institutie": "Deputat Cimpean Ovidiu-Vasile",
@@ -696,7 +820,9 @@
       "conturi_ron": 669420,
       "venituri_ron": 562570,
       "datorii_ron": 382701,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIMPEAN OVIDIU-VASILE",
+      "nume_norm": "CIMPEAN OVIDIU VASILE"
     },
     {
       "institutie": "Deputat Cimpianu Andreea-Petronela",
@@ -707,7 +833,9 @@
       "conturi_ron": 0,
       "venituri_ron": 25250,
       "datorii_ron": 85850,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIMPIANU ANDREEA-PETRONELA",
+      "nume_norm": "ANDREEA CIMPIANU PETRONELA"
     },
     {
       "institutie": "Deputat Cirligea Florin-Eugen",
@@ -718,7 +846,9 @@
       "conturi_ron": 33415200,
       "venituri_ron": 1910925,
       "datorii_ron": 500000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIRLIGEA FLORIN-EUGEN",
+      "nume_norm": "CIRLIGEA EUGEN FLORIN"
     },
     {
       "institutie": "Deputat Cirligeanu Ariadna-Elena",
@@ -729,7 +859,9 @@
       "conturi_ron": 0,
       "venituri_ron": 56100,
       "datorii_ron": 200000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIRLIGEANU ARIADNA-ELENA",
+      "nume_norm": "ARIADNA CIRLIGEANU ELENA"
     },
     {
       "institutie": "Deputat Coarna Dumitru",
@@ -740,7 +872,9 @@
       "conturi_ron": 0,
       "venituri_ron": 389299,
       "datorii_ron": 168900,
-      "auto": 6
+      "auto": 6,
+      "nume": "COARNA DUMITRU",
+      "nume_norm": "COARNA DUMITRU"
     },
     {
       "institutie": "Deputat Cojocaru Petru-Bogdan",
@@ -751,7 +885,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1267397,
       "datorii_ron": 100000,
-      "auto": 6
+      "auto": 6,
+      "nume": "COJOCARU PETRU-BOGDAN",
+      "nume_norm": "BOGDAN COJOCARU PETRU"
     },
     {
       "institutie": "Deputat Colesa Ilie-Alin",
@@ -762,7 +898,9 @@
       "conturi_ron": 0,
       "venituri_ron": 234000,
       "datorii_ron": 165000,
-      "auto": 6
+      "auto": 6,
+      "nume": "COLESA ILIE-ALIN",
+      "nume_norm": "ALIN COLESA ILIE"
     },
     {
       "institutie": "Deputat Coliban Allen",
@@ -773,7 +911,9 @@
       "conturi_ron": 130000,
       "venituri_ron": 229036,
       "datorii_ron": 50250,
-      "auto": 6
+      "auto": 6,
+      "nume": "COLIBAN ALLEN",
+      "nume_norm": "ALLEN COLIBAN"
     },
     {
       "institutie": "Deputat Coman Dragos-Florin",
@@ -784,7 +924,9 @@
       "conturi_ron": 0,
       "venituri_ron": 950157,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "COMAN DRAGOS-FLORIN",
+      "nume_norm": "COMAN DRAGOS FLORIN"
     },
     {
       "institutie": "Deputat Constantinescu Andra-Claudia",
@@ -795,7 +937,9 @@
       "conturi_ron": 34500,
       "venituri_ron": 90147,
       "datorii_ron": 207050,
-      "auto": 4
+      "auto": 4,
+      "nume": "CONSTANTINESCU ANDRA-CLAUDIA",
+      "nume_norm": "ANDRA CLAUDIA CONSTANTINESCU"
     },
     {
       "institutie": "Deputat Constantinescu Sergiu-Mircea",
@@ -806,7 +950,9 @@
       "conturi_ron": 655500,
       "venituri_ron": 204121,
       "datorii_ron": 291407,
-      "auto": 6
+      "auto": 6,
+      "nume": "CONSTANTINESCU SERGIU-MIRCEA",
+      "nume_norm": "CONSTANTINESCU MIRCEA SERGIU"
     },
     {
       "institutie": "Deputat Corches Codruta-Maria",
@@ -817,7 +963,9 @@
       "conturi_ron": 0,
       "venituri_ron": 28681,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CORCHES CODRUTA-MARIA",
+      "nume_norm": "CODRUTA CORCHES MARIA"
     },
     {
       "institutie": "Deputat Cotinescu Ilie-Aurelian",
@@ -828,7 +976,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118914,
       "datorii_ron": 757500,
-      "auto": 4
+      "auto": 4,
+      "nume": "COTINESCU ILIE-AURELIAN",
+      "nume_norm": "AURELIAN COTINESCU ILIE"
     },
     {
       "institutie": "Deputat Cotirlet Paul-Claudiu",
@@ -839,7 +989,9 @@
       "conturi_ron": 348000,
       "venituri_ron": 186999,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "COTIRLET PAUL-CLAUDIU",
+      "nume_norm": "CLAUDIU COTIRLET PAUL"
     },
     {
       "institutie": "Deputat Cozma Adrian-Felician",
@@ -850,7 +1002,9 @@
       "conturi_ron": 0,
       "venituri_ron": 438852,
       "datorii_ron": 514250,
-      "auto": 8
+      "auto": 8,
+      "nume": "COZMA ADRIAN-FELICIAN",
+      "nume_norm": "ADRIAN COZMA FELICIAN"
     },
     {
       "institutie": "Deputat Cristian Brian",
@@ -861,7 +1015,9 @@
       "conturi_ron": 205853,
       "venituri_ron": 138913,
       "datorii_ron": 130000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CRISTIAN BRIAN",
+      "nume_norm": "BRIAN CRISTIAN"
     },
     {
       "institutie": "Deputat Cristici Ognean",
@@ -872,7 +1028,9 @@
       "conturi_ron": 0,
       "venituri_ron": 234063,
       "datorii_ron": 187979,
-      "auto": 5
+      "auto": 5,
+      "nume": "CRISTICI OGNEAN",
+      "nume_norm": "CRISTICI OGNEAN"
     },
     {
       "institutie": "Deputat Crusoveanu Marian",
@@ -883,7 +1041,9 @@
       "conturi_ron": 17940946,
       "venituri_ron": 12149641,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CRUSOVEANU MARIAN",
+      "nume_norm": "CRUSOVEANU MARIAN"
     },
     {
       "institutie": "Deputat Csep Eva-Andrea",
@@ -894,7 +1054,9 @@
       "conturi_ron": 0,
       "venituri_ron": 335135,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "CSEP EVA-ANDREA",
+      "nume_norm": "ANDREA CSEP EVA"
     },
     {
       "institutie": "Deputat Csillag Andrei",
@@ -905,7 +1067,9 @@
       "conturi_ron": 0,
       "venituri_ron": 454917,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CSILLAG ANDREI",
+      "nume_norm": "ANDREI CSILLAG"
     },
     {
       "institutie": "Deputat Csoma Botond",
@@ -916,7 +1080,9 @@
       "conturi_ron": 75000,
       "venituri_ron": 170256,
       "datorii_ron": 326500,
-      "auto": 5
+      "auto": 5,
+      "nume": "CSOMA BOTOND",
+      "nume_norm": "BOTOND CSOMA"
     },
     {
       "institutie": "Deputat Culeafa Mihai",
@@ -927,7 +1093,9 @@
       "conturi_ron": 1640000,
       "venituri_ron": 1013954,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CULEAFA MIHAI",
+      "nume_norm": "CULEAFA MIHAI"
     },
     {
       "institutie": "Deputat Dascalu Cristina-Emanuela",
@@ -938,7 +1106,9 @@
       "conturi_ron": 0,
       "venituri_ron": 155424,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DASCALU CRISTINA-EMANUELA",
+      "nume_norm": "CRISTINA DASCALU EMANUELA"
     },
     {
       "institutie": "Deputat Dimitriu Alexandru-Paul",
@@ -949,7 +1119,9 @@
       "conturi_ron": 309000,
       "venituri_ron": 802330,
       "datorii_ron": 202000,
-      "auto": 5
+      "auto": 5,
+      "nume": "DIMITRIU ALEXANDRU-PAUL",
+      "nume_norm": "ALEXANDRU DIMITRIU PAUL"
     },
     {
       "institutie": "Deputat Dobos Elena",
@@ -960,7 +1132,9 @@
       "conturi_ron": 0,
       "venituri_ron": 36000,
       "datorii_ron": 52000,
-      "auto": 4
+      "auto": 4,
+      "nume": "DOBOS ELENA",
+      "nume_norm": "DOBOS ELENA"
     },
     {
       "institutie": "Deputat Dolineaschi Andrei",
@@ -971,7 +1145,9 @@
       "conturi_ron": 0,
       "venituri_ron": 363216,
       "datorii_ron": 35350,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOLINEASCHI ANDREI",
+      "nume_norm": "ANDREI DOLINEASCHI"
     },
     {
       "institutie": "Deputat Dragoescu Cezar-Mihail",
@@ -982,7 +1158,9 @@
       "conturi_ron": 0,
       "venituri_ron": 145936,
       "datorii_ron": 885520,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGOESCU CEZAR-MIHAIL",
+      "nume_norm": "CEZAR DRAGOESCU MIHAIL"
     },
     {
       "institutie": "Deputat Drinceanu Vlad-Florentin",
@@ -993,7 +1171,9 @@
       "conturi_ron": 0,
       "venituri_ron": 211067,
       "datorii_ron": 387500,
-      "auto": 5
+      "auto": 5,
+      "nume": "DRINCEANU VLAD-FLORENTIN",
+      "nume_norm": "DRINCEANU FLORENTIN VLAD"
     },
     {
       "institutie": "Deputat Drula Catalin",
@@ -1004,7 +1184,9 @@
       "conturi_ron": 11542022,
       "venituri_ron": 203880,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DRULA CATALIN",
+      "nume_norm": "CATALIN DRULA"
     },
     {
       "institutie": "Deputat Dunava Costel Neculai",
@@ -1015,7 +1197,9 @@
       "conturi_ron": 732481,
       "venituri_ron": 249375,
       "datorii_ron": 1344466,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUNAVA COSTEL NECULAI",
+      "nume_norm": "COSTEL DUNAVA NECULAI"
     },
     {
       "institutie": "Deputat Echert Adrian",
@@ -1026,7 +1210,9 @@
       "conturi_ron": 0,
       "venituri_ron": 376383,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ECHERT ADRIAN",
+      "nume_norm": "ADRIAN ECHERT"
     },
     {
       "institutie": "Deputat Enache Diana",
@@ -1037,7 +1223,9 @@
       "conturi_ron": 131600,
       "venituri_ron": 231174,
       "datorii_ron": 844026,
-      "auto": 5
+      "auto": 5,
+      "nume": "ENACHE DIANA",
+      "nume_norm": "DIANA ENACHE"
     },
     {
       "institutie": "Deputat Enache Mihai-Adrian",
@@ -1048,7 +1236,9 @@
       "conturi_ron": 131600,
       "venituri_ron": 231174,
       "datorii_ron": 844026,
-      "auto": 5
+      "auto": 5,
+      "nume": "ENACHE MIHAI-ADRIAN",
+      "nume_norm": "ADRIAN ENACHE MIHAI"
     },
     {
       "institutie": "Deputat Enachi Raisa",
@@ -1059,7 +1249,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136222,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ENACHI RAISA",
+      "nume_norm": "ENACHI RAISA"
     },
     {
       "institutie": "Deputat Ene Gabriela-Corina",
@@ -1070,7 +1262,9 @@
       "conturi_ron": 0,
       "venituri_ron": 448038,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "ENE GABRIELA-CORINA",
+      "nume_norm": "CORINA ENE GABRIELA"
     },
     {
       "institutie": "Deputat Faget Madalin-Laurentiu",
@@ -1081,7 +1275,9 @@
       "conturi_ron": 1267000,
       "venituri_ron": 103164,
       "datorii_ron": 78100,
-      "auto": 6
+      "auto": 6,
+      "nume": "FAGET MADALIN-LAURENTIU",
+      "nume_norm": "FAGET LAURENTIU MADALIN"
     },
     {
       "institutie": "Deputat Fechet Mircea",
@@ -1092,7 +1288,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 182051,
       "datorii_ron": 198000,
-      "auto": 5
+      "auto": 5,
+      "nume": "FECHET MIRCEA",
+      "nume_norm": "FECHET MIRCEA"
     },
     {
       "institutie": "Deputat Feodor Silviu",
@@ -1103,7 +1301,9 @@
       "conturi_ron": 0,
       "venituri_ron": 131412,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "FEODOR SILVIU",
+      "nume_norm": "FEODOR SILVIU"
     },
     {
       "institutie": "Deputat Fifor Mihai-Viorel",
@@ -1114,7 +1314,9 @@
       "conturi_ron": 0,
       "venituri_ron": 452370,
       "datorii_ron": 357932,
-      "auto": 6
+      "auto": 6,
+      "nume": "FIFOR MIHAI-VIOREL",
+      "nume_norm": "FIFOR MIHAI VIOREL"
     },
     {
       "institutie": "Deputat Firczak Iulius Marian",
@@ -1125,7 +1327,9 @@
       "conturi_ron": 2229,
       "venituri_ron": 163019,
       "datorii_ron": 358550,
-      "auto": 4
+      "auto": 4,
+      "nume": "FIRCZAK IULIUS MARIAN",
+      "nume_norm": "FIRCZAK IULIUS MARIAN"
     },
     {
       "institutie": "Deputat Florea Gabriel-Florinel",
@@ -1136,7 +1340,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 61461,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "FLOREA GABRIEL-FLORINEL",
+      "nume_norm": "FLOREA FLORINEL GABRIEL"
     },
     {
       "institutie": "Deputat Furtuna Mirela",
@@ -1147,7 +1353,9 @@
       "conturi_ron": 198200,
       "venituri_ron": 536264,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FURTUNA MIRELA",
+      "nume_norm": "FURTUNA MIRELA"
     },
     {
       "institutie": "Deputat Gal Calin-Gratian",
@@ -1158,7 +1366,9 @@
       "conturi_ron": 106500,
       "venituri_ron": 308832,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GAL CALIN-GRATIAN",
+      "nume_norm": "CALIN GAL GRATIAN"
     },
     {
       "institutie": "Deputat Gal Karoly",
@@ -1169,7 +1379,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 210071,
       "datorii_ron": 174500,
-      "auto": 6
+      "auto": 6,
+      "nume": "GAL KAROLY",
+      "nume_norm": "GAL KAROLY"
     },
     {
       "institutie": "Deputat Gant Ovidiu Victor",
@@ -1180,7 +1392,9 @@
       "conturi_ron": 0,
       "venituri_ron": 224298,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GANT OVIDIU VICTOR",
+      "nume_norm": "GANT OVIDIU VICTOR"
     },
     {
       "institutie": "Deputat Gavrila Anamaria",
@@ -1191,7 +1405,9 @@
       "conturi_ron": 53025,
       "venituri_ron": 139318,
       "datorii_ron": 91935,
-      "auto": 5
+      "auto": 5,
+      "nume": "GAVRILA ANAMARIA",
+      "nume_norm": "ANAMARIA GAVRILA"
     },
     {
       "institutie": "Deputat Gavrila Bianca-Eugenia",
@@ -1202,7 +1418,9 @@
       "conturi_ron": 0,
       "venituri_ron": 314176,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GAVRILA BIANCA-EUGENIA",
+      "nume_norm": "BIANCA EUGENIA GAVRILA"
     },
     {
       "institutie": "Deputat Gavrilescu Gratiela Leocadia",
@@ -1213,7 +1431,9 @@
       "conturi_ron": 27060,
       "venituri_ron": 468470,
       "datorii_ron": 137495,
-      "auto": 7
+      "auto": 7,
+      "nume": "GAVRILESCU GRATIELA LEOCADIA",
+      "nume_norm": "GAVRILESCU GRATIELA LEOCADIA"
     },
     {
       "institutie": "Deputat Geamanu Aurora-Adela",
@@ -1224,7 +1444,9 @@
       "conturi_ron": 0,
       "venituri_ron": 105660,
       "datorii_ron": 298000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GEAMANU AURORA-ADELA",
+      "nume_norm": "ADELA AURORA GEAMANU"
     },
     {
       "institutie": "Deputat Georgescu Gheorghe-Daniel",
@@ -1235,7 +1457,9 @@
       "conturi_ron": 2200600,
       "venituri_ron": 390324,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GEORGESCU GHEORGHE-DANIEL",
+      "nume_norm": "DANIEL GEORGESCU GHEORGHE"
     },
     {
       "institutie": "Deputat Gheorghe Andrei Daniel",
@@ -1246,7 +1470,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 215839,
       "datorii_ron": 344868,
-      "auto": 6
+      "auto": 6,
+      "nume": "GHEORGHE ANDREI DANIEL",
+      "nume_norm": "ANDREI DANIEL GHEORGHE"
     },
     {
       "institutie": "Deputat Gheorghe Ionel",
@@ -1257,7 +1483,9 @@
       "conturi_ron": 190000,
       "venituri_ron": 427996,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHEORGHE IONEL",
+      "nume_norm": "GHEORGHE IONEL"
     },
     {
       "institutie": "Deputat Gheorghe Mihai-Claudiu",
@@ -1268,7 +1496,9 @@
       "conturi_ron": 0,
       "venituri_ron": 101545,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHEORGHE MIHAI-CLAUDIU",
+      "nume_norm": "CLAUDIU GHEORGHE MIHAI"
     },
     {
       "institutie": "Deputat Gheorghiu Andrei-Florin",
@@ -1279,7 +1509,9 @@
       "conturi_ron": 0,
       "venituri_ron": 204890,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHEORGHIU ANDREI-FLORIN",
+      "nume_norm": "ANDREI FLORIN GHEORGHIU"
     },
     {
       "institutie": "Deputat Ghera Giureci-Slobodan",
@@ -1290,7 +1522,9 @@
       "conturi_ron": 0,
       "venituri_ron": 144071,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHERA GIURECI-SLOBODAN",
+      "nume_norm": "GHERA GIURECI SLOBODAN"
     },
     {
       "institutie": "Deputat Gherasim Laura",
@@ -1301,7 +1535,9 @@
       "conturi_ron": 840000,
       "venituri_ron": 3520375,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHERASIM LAURA",
+      "nume_norm": "GHERASIM LAURA"
     },
     {
       "institutie": "Deputat Ghigiu Alexandru-Mihai",
@@ -1312,7 +1548,9 @@
       "conturi_ron": 0,
       "venituri_ron": 695088,
       "datorii_ron": 169519,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHIGIU ALEXANDRU-MIHAI",
+      "nume_norm": "ALEXANDRU GHIGIU MIHAI"
     },
     {
       "institutie": "Deputat Gima George",
@@ -1323,7 +1561,9 @@
       "conturi_ron": 0,
       "venituri_ron": 172604,
       "datorii_ron": 208206,
-      "auto": 4
+      "auto": 4,
+      "nume": "GIMA GEORGE",
+      "nume_norm": "GEORGE GIMA"
     },
     {
       "institutie": "Deputat Giurgiu Adrian",
@@ -1334,7 +1574,9 @@
       "conturi_ron": 100000,
       "venituri_ron": 146016,
       "datorii_ron": 150000,
-      "auto": 6
+      "auto": 6,
+      "nume": "GIURGIU ADRIAN",
+      "nume_norm": "ADRIAN GIURGIU"
     },
     {
       "institutie": "Deputat Gliga Dumitrita",
@@ -1345,7 +1587,9 @@
       "conturi_ron": 2077126,
       "venituri_ron": 1594208,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GLIGA DUMITRITA",
+      "nume_norm": "DUMITRITA GLIGA"
     },
     {
       "institutie": "Deputat Goidescu Ionel",
@@ -1356,7 +1600,9 @@
       "conturi_ron": 1071771,
       "venituri_ron": 25422,
       "datorii_ron": 108000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GOIDESCU IONEL",
+      "nume_norm": "GOIDESCU IONEL"
     },
     {
       "institutie": "Deputat Gorghiu Alina-Stefania",
@@ -1367,7 +1613,9 @@
       "conturi_ron": 5656490,
       "venituri_ron": 1974797,
       "datorii_ron": 164125,
-      "auto": 4
+      "auto": 4,
+      "nume": "GORGHIU ALINA-STEFANIA",
+      "nume_norm": "ALINA GORGHIU STEFANIA"
     },
     {
       "institutie": "Deputat Govor Mircea-Vasile",
@@ -1378,7 +1626,9 @@
       "conturi_ron": 0,
       "venituri_ron": 400091,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GOVOR MIRCEA-VASILE",
+      "nume_norm": "GOVOR MIRCEA VASILE"
     },
     {
       "institutie": "Deputat Grindeanu Sorin-Mihai",
@@ -1389,7 +1639,9 @@
       "conturi_ron": 0,
       "venituri_ron": 299065,
       "datorii_ron": 374620,
-      "auto": 4
+      "auto": 4,
+      "nume": "GRINDEANU SORIN-MIHAI",
+      "nume_norm": "GRINDEANU MIHAI SORIN"
     },
     {
       "institutie": "Deputat Grofu Daniel",
@@ -1400,7 +1652,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114036,
       "datorii_ron": 50500,
-      "auto": 6
+      "auto": 6,
+      "nume": "GROFU DANIEL",
+      "nume_norm": "DANIEL GROFU"
     },
     {
       "institutie": "Deputat Grosaru Ioana",
@@ -1411,7 +1665,9 @@
       "conturi_ron": 0,
       "venituri_ron": 195816,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GROSARU IOANA",
+      "nume_norm": "GROSARU IOANA"
     },
     {
       "institutie": "Deputat Grosu Veronica",
@@ -1422,7 +1678,9 @@
       "conturi_ron": 202000,
       "venituri_ron": 265854,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GROSU VERONICA",
+      "nume_norm": "GROSU VERONICA"
     },
     {
       "institutie": "Deputat Groza Calin-Florin",
@@ -1433,7 +1691,9 @@
       "conturi_ron": 0,
       "venituri_ron": 55800,
       "datorii_ron": 100000,
-      "auto": 5
+      "auto": 5,
+      "nume": "GROZA CALIN-FLORIN",
+      "nume_norm": "CALIN FLORIN GROZA"
     },
     {
       "institutie": "Deputat Gurlui Silviu-Octavian",
@@ -1444,7 +1704,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 219069,
       "datorii_ron": 835360,
-      "auto": 5
+      "auto": 5,
+      "nume": "GURLUI SILVIU-OCTAVIAN",
+      "nume_norm": "GURLUI OCTAVIAN SILVIU"
     },
     {
       "institutie": "Deputat Gusa Andrei-Cosmin",
@@ -1455,7 +1717,9 @@
       "conturi_ron": 350,
       "venituri_ron": 78003,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GUSA ANDREI-COSMIN",
+      "nume_norm": "ANDREI COSMIN GUSA"
     },
     {
       "institutie": "Deputat Hagiu Augustin-Florin",
@@ -1466,7 +1730,9 @@
       "conturi_ron": 0,
       "venituri_ron": 246929,
       "datorii_ron": 128407,
-      "auto": 5
+      "auto": 5,
+      "nume": "HAGIU AUGUSTIN-FLORIN",
+      "nume_norm": "AUGUSTIN FLORIN HAGIU"
     },
     {
       "institutie": "Deputat Hajdu Gabor",
@@ -1477,7 +1743,9 @@
       "conturi_ron": 620306,
       "venituri_ron": 131412,
       "datorii_ron": 1542909,
-      "auto": 8
+      "auto": 8,
+      "nume": "HAJDU GABOR",
+      "nume_norm": "GABOR HAJDU"
     },
     {
       "institutie": "Deputat Hangan Pollyanna-Hanellore",
@@ -1488,7 +1756,9 @@
       "conturi_ron": 101871,
       "venituri_ron": 162859,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "HANGAN POLLYANNA-HANELLORE",
+      "nume_norm": "HANELLORE HANGAN POLLYANNA"
     },
     {
       "institutie": "Deputat Holban Georgeta-Carmen",
@@ -1499,7 +1769,9 @@
       "conturi_ron": 35880,
       "venituri_ron": 531099,
       "datorii_ron": 315935,
-      "auto": 5
+      "auto": 5,
+      "nume": "HOLBAN GEORGETA-CARMEN",
+      "nume_norm": "CARMEN GEORGETA HOLBAN"
     },
     {
       "institutie": "Deputat Hristu Cosmin",
@@ -1510,7 +1782,9 @@
       "conturi_ron": 0,
       "venituri_ron": 117989,
       "datorii_ron": 555500,
-      "auto": 4
+      "auto": 4,
+      "nume": "HRISTU COSMIN",
+      "nume_norm": "COSMIN HRISTU"
     },
     {
       "institutie": "Deputat Hutuca Bogdan-Iulian",
@@ -1521,7 +1795,9 @@
       "conturi_ron": 310130,
       "venituri_ron": 255765,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "HUTUCA BOGDAN-IULIAN",
+      "nume_norm": "BOGDAN HUTUCA IULIAN"
     },
     {
       "institutie": "Deputat Iagar Monica",
@@ -1532,7 +1808,9 @@
       "conturi_ron": 0,
       "venituri_ron": 224296,
       "datorii_ron": 176750,
-      "auto": 4
+      "auto": 4,
+      "nume": "IAGAR MONICA",
+      "nume_norm": "IAGAR MONICA"
     },
     {
       "institutie": "Deputat Iancu Marius-Ionel",
@@ -1543,7 +1821,9 @@
       "conturi_ron": 150000,
       "venituri_ron": 222794,
       "datorii_ron": 143000,
-      "auto": 6
+      "auto": 6,
+      "nume": "IANCU MARIUS-IONEL",
+      "nume_norm": "IANCU IONEL MARIUS"
     },
     {
       "institutie": "Deputat Intotero Natalia-Elena",
@@ -1554,7 +1834,9 @@
       "conturi_ron": 302750,
       "venituri_ron": 449326,
       "datorii_ron": 160058,
-      "auto": 8
+      "auto": 8,
+      "nume": "INTOTERO NATALIA-ELENA",
+      "nume_norm": "ELENA INTOTERO NATALIA"
     },
     {
       "institutie": "Deputat Ion Nicolae-Mirel",
@@ -1565,7 +1847,9 @@
       "conturi_ron": 0,
       "venituri_ron": 203849,
       "datorii_ron": 85850,
-      "auto": 6
+      "auto": 6,
+      "nume": "ION NICOLAE-MIREL",
+      "nume_norm": "ION MIREL NICOLAE"
     },
     {
       "institutie": "Deputat Ion Stelian-Cristian",
@@ -1576,7 +1860,9 @@
       "conturi_ron": 165000,
       "venituri_ron": 142169,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "ION STELIAN-CRISTIAN",
+      "nume_norm": "CRISTIAN ION STELIAN"
     },
     {
       "institutie": "Deputat Ionescu Monica",
@@ -1587,7 +1873,9 @@
       "conturi_ron": 0,
       "venituri_ron": 521770,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "IONESCU MONICA",
+      "nume_norm": "IONESCU MONICA"
     },
     {
       "institutie": "Deputat Ionescu Radu-Mihail",
@@ -1598,7 +1886,9 @@
       "conturi_ron": 0,
       "venituri_ron": 524870,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "IONESCU RADU-MIHAIL",
+      "nume_norm": "IONESCU MIHAIL RADU"
     },
     {
       "institutie": "Deputat Ionescu Tudor",
@@ -1609,7 +1899,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118600,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "IONESCU TUDOR",
+      "nume_norm": "IONESCU TUDOR"
     },
     {
       "institutie": "Deputat Iordache Ion",
@@ -1620,7 +1912,9 @@
       "conturi_ron": 594000,
       "venituri_ron": 2022830,
       "datorii_ron": 0,
-      "auto": 11
+      "auto": 11,
+      "nume": "IORDACHE ION",
+      "nume_norm": "ION IORDACHE"
     },
     {
       "institutie": "Deputat Iosub Cosmin-Teodor",
@@ -1631,7 +1925,9 @@
       "conturi_ron": 0,
       "venituri_ron": 30589,
       "datorii_ron": 2550000,
-      "auto": 4
+      "auto": 4,
+      "nume": "IOSUB COSMIN-TEODOR",
+      "nume_norm": "COSMIN IOSUB TEODOR"
     },
     {
       "institutie": "Deputat Irimia Ancuta-Florina",
@@ -1642,7 +1938,9 @@
       "conturi_ron": 0,
       "venituri_ron": 66788,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IRIMIA ANCUTA-FLORINA",
+      "nume_norm": "ANCUTA FLORINA IRIMIA"
     },
     {
       "institutie": "Deputat Isac Marius-Adrian",
@@ -1653,7 +1951,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1138346,
       "datorii_ron": 743815,
-      "auto": 5
+      "auto": 5,
+      "nume": "ISAC MARIUS-ADRIAN",
+      "nume_norm": "ADRIAN ISAC MARIUS"
     },
     {
       "institutie": "Deputat Ivan Bogdan-Gruia",
@@ -1664,7 +1964,9 @@
       "conturi_ron": 282440,
       "venituri_ron": 227616,
       "datorii_ron": 548000,
-      "auto": 6
+      "auto": 6,
+      "nume": "IVAN BOGDAN-GRUIA",
+      "nume_norm": "BOGDAN GRUIA IVAN"
     },
     {
       "institutie": "Deputat Jianu Iosif-Florin",
@@ -1675,7 +1977,9 @@
       "conturi_ron": 0,
       "venituri_ron": 168937,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "JIANU IOSIF-FLORIN",
+      "nume_norm": "FLORIN IOSIF JIANU"
     },
     {
       "institutie": "Deputat Kantor Boglarka",
@@ -1686,7 +1990,9 @@
       "conturi_ron": 0,
       "venituri_ron": 193604,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "KANTOR BOGLARKA",
+      "nume_norm": "BOGLARKA KANTOR"
     },
     {
       "institutie": "Deputat Kelemen Hunor",
@@ -1697,7 +2003,9 @@
       "conturi_ron": 140000,
       "venituri_ron": 555244,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "KELEMEN HUNOR",
+      "nume_norm": "HUNOR KELEMEN"
     },
     {
       "institutie": "Deputat Kolcsar Anquetil-Karoly",
@@ -1708,7 +2016,9 @@
       "conturi_ron": 1325364,
       "venituri_ron": 1058498,
       "datorii_ron": 663000,
-      "auto": 10
+      "auto": 10,
+      "nume": "KOLCSAR ANQUETIL-KAROLY",
+      "nume_norm": "ANQUETIL KAROLY KOLCSAR"
     },
     {
       "institutie": "Deputat Koler Eduard-Virgil",
@@ -1719,7 +2029,9 @@
       "conturi_ron": 3709918,
       "venituri_ron": 516660,
       "datorii_ron": 2666000,
-      "auto": 4
+      "auto": 4,
+      "nume": "KOLER EDUARD-VIRGIL",
+      "nume_norm": "EDUARD KOLER VIRGIL"
     },
     {
       "institutie": "Deputat Konczei Csaba",
@@ -1730,7 +2042,9 @@
       "conturi_ron": 0,
       "venituri_ron": 227525,
       "datorii_ron": 89114,
-      "auto": 7
+      "auto": 7,
+      "nume": "KONCZEI CSABA",
+      "nume_norm": "CSABA KONCZEI"
     },
     {
       "institutie": "Deputat Kroncsis Sebastian-Andrei",
@@ -1741,7 +2055,9 @@
       "conturi_ron": 0,
       "venituri_ron": 167860,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "KRONCSIS SEBASTIAN-ANDREI",
+      "nume_norm": "ANDREI KRONCSIS SEBASTIAN"
     },
     {
       "institutie": "Deputat Kulcsar-Terza Jozsef-Gyorgy",
@@ -1752,7 +2068,9 @@
       "conturi_ron": 0,
       "venituri_ron": 367763,
       "datorii_ron": 50100,
-      "auto": 5
+      "auto": 5,
+      "nume": "KULCSAR-TERZA JOZSEF-GYORGY",
+      "nume_norm": "GYORGY JOZSEF KULCSAR TERZA"
     },
     {
       "institutie": "Deputat Ladanyi Laszlo-Zsolt",
@@ -1763,7 +2081,9 @@
       "conturi_ron": 0,
       "venituri_ron": 134328,
       "datorii_ron": 130000,
-      "auto": 6
+      "auto": 6,
+      "nume": "LADANYI LASZLO-ZSOLT",
+      "nume_norm": "LADANYI LASZLO ZSOLT"
     },
     {
       "institutie": "Deputat Lazar Teodor",
@@ -1774,7 +2094,9 @@
       "conturi_ron": 100000,
       "venituri_ron": 194459,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LAZAR TEODOR",
+      "nume_norm": "LAZAR TEODOR"
     },
     {
       "institutie": "Deputat Lapusan Remus-Gabriel",
@@ -1785,7 +2107,9 @@
       "conturi_ron": 2831857,
       "venituri_ron": 947384,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "LAPUSAN REMUS-GABRIEL",
+      "nume_norm": "GABRIEL LAPUSAN REMUS"
     },
     {
       "institutie": "Deputat Lazaroi Ioan",
@@ -1796,7 +2120,9 @@
       "conturi_ron": 0,
       "venituri_ron": 82232,
       "datorii_ron": 0,
-      "auto": 10
+      "auto": 10,
+      "nume": "LAZAROI IOAN",
+      "nume_norm": "IOAN LAZAROI"
     },
     {
       "institutie": "Deputat Lipa Elisabeta",
@@ -1807,7 +2133,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 597335,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "LIPA ELISABETA",
+      "nume_norm": "ELISABETA LIPA"
     },
     {
       "institutie": "Deputat Longher Ghervazen",
@@ -1818,7 +2146,9 @@
       "conturi_ron": 0,
       "venituri_ron": 221045,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LONGHER GHERVAZEN",
+      "nume_norm": "GHERVAZEN LONGHER"
     },
     {
       "institutie": "Deputat Lorincz Stefan-Iulian",
@@ -1829,7 +2159,9 @@
       "conturi_ron": 0,
       "venituri_ron": 134230,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "LORINCZ STEFAN-IULIAN",
+      "nume_norm": "IULIAN LORINCZ STEFAN"
     },
     {
       "institutie": "Deputat Lovin Ramona",
@@ -1840,7 +2172,9 @@
       "conturi_ron": 0,
       "venituri_ron": 172363,
       "datorii_ron": 2866476,
-      "auto": 5
+      "auto": 5,
+      "nume": "LOVIN RAMONA",
+      "nume_norm": "LOVIN RAMONA"
     },
     {
       "institutie": "Deputat Lungu Romeo-Daniel",
@@ -1851,7 +2185,9 @@
       "conturi_ron": 0,
       "venituri_ron": 421779,
       "datorii_ron": 304456,
-      "auto": 5
+      "auto": 5,
+      "nume": "LUNGU ROMEO-DANIEL",
+      "nume_norm": "DANIEL LUNGU ROMEO"
     },
     {
       "institutie": "Deputat Macovei Ilie Simona-Elena",
@@ -1862,7 +2198,9 @@
       "conturi_ron": 0,
       "venituri_ron": 48504,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MACOVEI ILIE SIMONA-ELENA",
+      "nume_norm": "ELENA ILIE MACOVEI SIMONA"
     },
     {
       "institutie": "Deputat Magyar Lorand-Balint",
@@ -1873,7 +2211,9 @@
       "conturi_ron": 177200,
       "venituri_ron": 530627,
       "datorii_ron": 361889,
-      "auto": 4
+      "auto": 4,
+      "nume": "MAGYAR LORAND-BALINT",
+      "nume_norm": "BALINT LORAND MAGYAR"
     },
     {
       "institutie": "Deputat Manole Petre-Florin",
@@ -1884,7 +2224,9 @@
       "conturi_ron": 1340500,
       "venituri_ron": 259210,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MANOLE PETRE-FLORIN",
+      "nume_norm": "FLORIN MANOLE PETRE"
     },
     {
       "institutie": "Deputat Manta Claudiu",
@@ -1895,7 +2237,9 @@
       "conturi_ron": 655364,
       "venituri_ron": 641289,
       "datorii_ron": 329800,
-      "auto": 5
+      "auto": 5,
+      "nume": "MANTA CLAUDIU",
+      "nume_norm": "CLAUDIU MANTA"
     },
     {
       "institutie": "Deputat Marinescu Radu",
@@ -1906,7 +2250,9 @@
       "conturi_ron": 0,
       "venituri_ron": 698042,
       "datorii_ron": 278588,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARINESCU RADU",
+      "nume_norm": "MARINESCU RADU"
     },
     {
       "institutie": "Deputat Marko Attila-Gabor",
@@ -1917,7 +2263,9 @@
       "conturi_ron": 0,
       "venituri_ron": 42338,
       "datorii_ron": 505000,
-      "auto": 7
+      "auto": 7,
+      "nume": "MARKO ATTILA-GABOR",
+      "nume_norm": "ATTILA GABOR MARKO"
     },
     {
       "institutie": "Deputat Marussi George-Nicolae",
@@ -1928,7 +2276,9 @@
       "conturi_ron": 480609,
       "venituri_ron": 525718,
       "datorii_ron": 252500,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARUSSI GEORGE-NICOLAE",
+      "nume_norm": "GEORGE MARUSSI NICOLAE"
     },
     {
       "institutie": "Deputat Matei Aneta",
@@ -1939,7 +2289,9 @@
       "conturi_ron": 40000,
       "venituri_ron": 556053,
       "datorii_ron": 125000,
-      "auto": 6
+      "auto": 6,
+      "nume": "MATEI ANETA",
+      "nume_norm": "ANETA MATEI"
     },
     {
       "institutie": "Deputat Matei Sergiu-Lucian",
@@ -1950,7 +2302,9 @@
       "conturi_ron": 0,
       "venituri_ron": 240480,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MATEI SERGIU-LUCIAN",
+      "nume_norm": "LUCIAN MATEI SERGIU"
     },
     {
       "institutie": "Deputat Matei Sergiu-Lucian",
@@ -1961,7 +2315,9 @@
       "conturi_ron": 0,
       "venituri_ron": 240480,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MATEI SERGIU-LUCIAN",
+      "nume_norm": "LUCIAN MATEI SERGIU"
     },
     {
       "institutie": "Deputat Matichescu Mirela-Florenta",
@@ -1972,7 +2328,9 @@
       "conturi_ron": 703670,
       "venituri_ron": 616155,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MATICHESCU MIRELA-FLORENTA",
+      "nume_norm": "FLORENTA MATICHESCU MIRELA"
     },
     {
       "institutie": "Deputat Maties Calin-Gheorghe",
@@ -1983,7 +2341,9 @@
       "conturi_ron": 268730,
       "venituri_ron": 196827,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MATIES CALIN-GHEORGHE",
+      "nume_norm": "CALIN GHEORGHE MATIES"
     },
     {
       "institutie": "Deputat Margarit Mitica-Marius",
@@ -1994,7 +2354,9 @@
       "conturi_ron": 696000,
       "venituri_ron": 1287331,
       "datorii_ron": 1250000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MARGARIT MITICA-MARIUS",
+      "nume_norm": "MARGARIT MARIUS MITICA"
     },
     {
       "institutie": "Deputat Merka Adrian-Miroslav",
@@ -2005,7 +2367,9 @@
       "conturi_ron": 95950,
       "venituri_ron": 396852,
       "datorii_ron": 2009860,
-      "auto": 4
+      "auto": 4,
+      "nume": "MERKA ADRIAN-MIROSLAV",
+      "nume_norm": "ADRIAN MERKA MIROSLAV"
     },
     {
       "institutie": "Deputat Miclau Samuel-Virgil",
@@ -2016,7 +2380,9 @@
       "conturi_ron": 0,
       "venituri_ron": 50650,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MICLAU SAMUEL-VIRGIL",
+      "nume_norm": "MICLAU SAMUEL VIRGIL"
     },
     {
       "institutie": "Deputat Mihaiu Radu-Nicolae",
@@ -2027,7 +2393,9 @@
       "conturi_ron": 106420,
       "venituri_ron": 365357,
       "datorii_ron": 75750,
-      "auto": 4
+      "auto": 4,
+      "nume": "MIHAIU RADU-NICOLAE",
+      "nume_norm": "MIHAIU NICOLAE RADU"
     },
     {
       "institutie": "Deputat Mihalcea Ioan",
@@ -2038,7 +2406,9 @@
       "conturi_ron": 2400668,
       "venituri_ron": 774859,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "MIHALCEA IOAN",
+      "nume_norm": "IOAN MIHALCEA"
     },
     {
       "institutie": "Deputat Mihalcea Remus-Gabriel",
@@ -2049,7 +2419,9 @@
       "conturi_ron": 351600,
       "venituri_ron": 6616188,
       "datorii_ron": 16048414,
-      "auto": 6
+      "auto": 6,
+      "nume": "MIHALCEA REMUS-GABRIEL",
+      "nume_norm": "GABRIEL MIHALCEA REMUS"
     },
     {
       "institutie": "Deputat Mihalcea Silvia-Claudia",
@@ -2060,7 +2432,9 @@
       "conturi_ron": 0,
       "venituri_ron": 141482,
       "datorii_ron": 884400,
-      "auto": 4
+      "auto": 4,
+      "nume": "MIHALCEA SILVIA-CLAUDIA",
+      "nume_norm": "CLAUDIA MIHALCEA SILVIA"
     },
     {
       "institutie": "Deputat Mihaescu Mugur",
@@ -2071,7 +2445,9 @@
       "conturi_ron": 1313000,
       "venituri_ron": 67000,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MIHAESCU MUGUR",
+      "nume_norm": "MIHAESCU MUGUR"
     },
     {
       "institutie": "Deputat Mihuti Bogdan-Florian",
@@ -2082,7 +2458,9 @@
       "conturi_ron": 0,
       "venituri_ron": 68130,
       "datorii_ron": 198000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MIHUTI BOGDAN-FLORIAN",
+      "nume_norm": "BOGDAN FLORIAN MIHUTI"
     },
     {
       "institutie": "Deputat Mina Marian",
@@ -2093,7 +2471,9 @@
       "conturi_ron": 0,
       "venituri_ron": 152508,
       "datorii_ron": 128000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MINA MARIAN",
+      "nume_norm": "MARIAN MINA"
     },
     {
       "institutie": "Deputat Miruta Radu-Dinel",
@@ -2104,7 +2484,9 @@
       "conturi_ron": 249097,
       "venituri_ron": 484554,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MIRUTA RADU-DINEL",
+      "nume_norm": "DINEL MIRUTA RADU"
     },
     {
       "institutie": "Deputat Mititelu Eduard-Tatian",
@@ -2115,7 +2497,9 @@
       "conturi_ron": 326204,
       "venituri_ron": 340132,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MITITELU EDUARD-TATIAN",
+      "nume_norm": "EDUARD MITITELU TATIAN"
     },
     {
       "institutie": "Deputat Mitrea Dumitrina",
@@ -2126,7 +2510,9 @@
       "conturi_ron": 120000,
       "venituri_ron": 178631,
       "datorii_ron": 100000,
-      "auto": 5
+      "auto": 5,
+      "nume": "MITREA DUMITRINA",
+      "nume_norm": "DUMITRINA MITREA"
     },
     {
       "institutie": "Deputat Mindrescu Nicolae",
@@ -2137,7 +2523,9 @@
       "conturi_ron": 8498348,
       "venituri_ron": 298376,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MINDRESCU NICOLAE",
+      "nume_norm": "MINDRESCU NICOLAE"
     },
     {
       "institutie": "Deputat Mindroc Catalin-Viorel",
@@ -2148,7 +2536,9 @@
       "conturi_ron": 0,
       "venituri_ron": 199668,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MINDROC CATALIN-VIOREL",
+      "nume_norm": "CATALIN MINDROC VIOREL"
     },
     {
       "institutie": "Deputat Mocanu Adrian",
@@ -2159,7 +2549,9 @@
       "conturi_ron": 1593000,
       "venituri_ron": 1332652,
       "datorii_ron": 198000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MOCANU ADRIAN",
+      "nume_norm": "ADRIAN MOCANU"
     },
     {
       "institutie": "Deputat Moiseev Alexandrin",
@@ -2170,7 +2562,9 @@
       "conturi_ron": 0,
       "venituri_ron": 210915,
       "datorii_ron": 243675,
-      "auto": 5
+      "auto": 5,
+      "nume": "MOISEEV ALEXANDRIN",
+      "nume_norm": "ALEXANDRIN MOISEEV"
     },
     {
       "institutie": "Deputat Moisin Radu-Marin",
@@ -2181,7 +2575,9 @@
       "conturi_ron": 775520,
       "venituri_ron": 966031,
       "datorii_ron": 150000,
-      "auto": 6
+      "auto": 6,
+      "nume": "MOISIN RADU-MARIN",
+      "nume_norm": "MARIN MOISIN RADU"
     },
     {
       "institutie": "Deputat Molnar Andrei",
@@ -2192,7 +2588,9 @@
       "conturi_ron": 0,
       "venituri_ron": 406536,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MOLNAR ANDREI",
+      "nume_norm": "ANDREI MOLNAR"
     },
     {
       "institutie": "Deputat Morar Lucian-Ioan-Titus",
@@ -2203,7 +2601,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 209685,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MORAR LUCIAN-IOAN-TITUS",
+      "nume_norm": "IOAN LUCIAN MORAR TITUS"
     },
     {
       "institutie": "Deputat Mos Patricia-Simina-Arina",
@@ -2214,7 +2614,9 @@
       "conturi_ron": 129000,
       "venituri_ron": 213975,
       "datorii_ron": 151500,
-      "auto": 5
+      "auto": 5,
+      "nume": "MOS PATRICIA-SIMINA-ARINA",
+      "nume_norm": "ARINA MOS PATRICIA SIMINA"
     },
     {
       "institutie": "Deputat Mosteanu Liviu-Ionut",
@@ -2225,7 +2627,9 @@
       "conturi_ron": 454836,
       "venituri_ron": 311393,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MOSTEANU LIVIU-IONUT",
+      "nume_norm": "IONUT LIVIU MOSTEANU"
     },
     {
       "institutie": "Deputat Muncaciu Sorin-Titus",
@@ -2236,7 +2640,9 @@
       "conturi_ron": 380000,
       "venituri_ron": 316521,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MUNCACIU SORIN-TITUS",
+      "nume_norm": "MUNCACIU SORIN TITUS"
     },
     {
       "institutie": "Deputat Munteanu Valeriu",
@@ -2247,7 +2653,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 23320,
       "datorii_ron": 198000,
-      "auto": 6
+      "auto": 6,
+      "nume": "MUNTEANU VALERIU",
+      "nume_norm": "MUNTEANU VALERIU"
     },
     {
       "institutie": "Deputat Murad Mohammad",
@@ -2258,7 +2666,9 @@
       "conturi_ron": 7415105,
       "venituri_ron": 3281065,
       "datorii_ron": 164329887,
-      "auto": 5
+      "auto": 5,
+      "nume": "MURAD MOHAMMAD",
+      "nume_norm": "MOHAMMAD MURAD"
     },
     {
       "institutie": "Deputat Murariu Oana",
@@ -2269,7 +2679,9 @@
       "conturi_ron": 0,
       "venituri_ron": 174246,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "MURARIU OANA",
+      "nume_norm": "MURARIU OANA"
     },
     {
       "institutie": "Deputat Muraru Iulian-Alexandru",
@@ -2280,7 +2692,9 @@
       "conturi_ron": 4797624,
       "venituri_ron": 200335,
       "datorii_ron": 1526616,
-      "auto": 5
+      "auto": 5,
+      "nume": "MURARU IULIAN-ALEXANDRU",
+      "nume_norm": "ALEXANDRU IULIAN MURARU"
     },
     {
       "institutie": "Deputat Musat Doru-Lucian",
@@ -2291,7 +2705,9 @@
       "conturi_ron": 100500,
       "venituri_ron": 7416,
       "datorii_ron": 150000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MUSAT DORU-LUCIAN",
+      "nume_norm": "DORU LUCIAN MUSAT"
     },
     {
       "institutie": "Deputat Nacov Gheorghe",
@@ -2302,7 +2718,9 @@
       "conturi_ron": 0,
       "venituri_ron": 134916,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "NACOV GHEORGHE",
+      "nume_norm": "GHEORGHE NACOV"
     },
     {
       "institutie": "Deputat Nagy Szabolcs",
@@ -2313,7 +2731,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 248900,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "NAGY SZABOLCS",
+      "nume_norm": "NAGY SZABOLCS"
     },
     {
       "institutie": "Deputat Nagy Vasile",
@@ -2324,7 +2744,9 @@
       "conturi_ron": 1038000,
       "venituri_ron": 131412,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "NAGY VASILE",
+      "nume_norm": "NAGY VASILE"
     },
     {
       "institutie": "Deputat Nassar Rodica",
@@ -2335,7 +2757,9 @@
       "conturi_ron": 28500,
       "venituri_ron": 869840,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "NASSAR RODICA",
+      "nume_norm": "NASSAR RODICA"
     },
     {
       "institutie": "Deputat Nacuta Sorin",
@@ -2346,7 +2770,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 216056,
       "datorii_ron": 368000,
-      "auto": 6
+      "auto": 6,
+      "nume": "NACUTA SORIN",
+      "nume_norm": "NACUTA SORIN"
     },
     {
       "institutie": "Deputat Nasui Claudiu-Iulius-Gavril",
@@ -2357,7 +2783,9 @@
       "conturi_ron": 408119,
       "venituri_ron": 211463,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "NASUI CLAUDIU-IULIUS-GAVRIL",
+      "nume_norm": "CLAUDIU GAVRIL IULIUS NASUI"
     },
     {
       "institutie": "Deputat Neacsu Andreea-Firuta",
@@ -2368,7 +2796,9 @@
       "conturi_ron": 0,
       "venituri_ron": 66919,
       "datorii_ron": 75926,
-      "auto": 5
+      "auto": 5,
+      "nume": "NEACSU ANDREEA-FIRUTA",
+      "nume_norm": "ANDREEA FIRUTA NEACSU"
     },
     {
       "institutie": "Deputat Neacsu Marian",
@@ -2379,7 +2809,9 @@
       "conturi_ron": 1006723,
       "venituri_ron": 477225,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "NEACSU MARIAN",
+      "nume_norm": "MARIAN NEACSU"
     },
     {
       "institutie": "Deputat Neagu Petre-Emanoil",
@@ -2390,7 +2822,9 @@
       "conturi_ron": 0,
       "venituri_ron": 338239,
       "datorii_ron": 466954,
-      "auto": 6
+      "auto": 6,
+      "nume": "NEAGU PETRE-EMANOIL",
+      "nume_norm": "EMANOIL NEAGU PETRE"
     },
     {
       "institutie": "Deputat Neamtu George-Mihail",
@@ -2401,7 +2835,9 @@
       "conturi_ron": 160821,
       "venituri_ron": 26725,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "NEAMTU GEORGE-MIHAIL",
+      "nume_norm": "GEORGE MIHAIL NEAMTU"
     },
     {
       "institutie": "Deputat Neata Eugen",
@@ -2412,7 +2848,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 392337,
       "datorii_ron": 62800,
-      "auto": 5
+      "auto": 5,
+      "nume": "NEATA EUGEN",
+      "nume_norm": "EUGEN NEATA"
     },
     {
       "institutie": "Deputat Neculaescu Laurentiu Adrian",
@@ -2423,7 +2861,9 @@
       "conturi_ron": 0,
       "venituri_ron": 255706,
       "datorii_ron": 200000,
-      "auto": 4
+      "auto": 4,
+      "nume": "NECULAESCU LAURENTIU ADRIAN",
+      "nume_norm": "ADRIAN LAURENTIU NECULAESCU"
     },
     {
       "institutie": "Deputat Negoescu Mihai-Bogdan",
@@ -2434,7 +2874,9 @@
       "conturi_ron": 906070,
       "venituri_ron": 62084,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "NEGOESCU MIHAI-BOGDAN",
+      "nume_norm": "BOGDAN MIHAI NEGOESCU"
     },
     {
       "institutie": "Deputat Negrea Petru-Gabriel",
@@ -2445,7 +2887,9 @@
       "conturi_ron": 0,
       "venituri_ron": 107328,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "NEGREA PETRU-GABRIEL",
+      "nume_norm": "GABRIEL NEGREA PETRU"
     },
     {
       "institutie": "Deputat Nicolae Dan-Mihai",
@@ -2456,7 +2900,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136100,
       "datorii_ron": 101000,
-      "auto": 4
+      "auto": 4,
+      "nume": "NICOLAE DAN-MIHAI",
+      "nume_norm": "DAN MIHAI NICOLAE"
     },
     {
       "institutie": "Deputat Oancea Silviu-Florin",
@@ -2467,7 +2913,9 @@
       "conturi_ron": 1120200,
       "venituri_ron": 1496159,
       "datorii_ron": 831622,
-      "auto": 11
+      "auto": 11,
+      "nume": "OANCEA SILVIU-FLORIN",
+      "nume_norm": "FLORIN OANCEA SILVIU"
     },
     {
       "institutie": "Deputat Oltenasu Sorin-George",
@@ -2478,7 +2926,9 @@
       "conturi_ron": 0,
       "venituri_ron": 269198,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "OLTENASU SORIN-GEORGE",
+      "nume_norm": "GEORGE OLTENASU SORIN"
     },
     {
       "institutie": "Deputat Oprea Octavian",
@@ -2489,7 +2939,9 @@
       "conturi_ron": 100000,
       "venituri_ron": 128846,
       "datorii_ron": 1979500,
-      "auto": 4
+      "auto": 4,
+      "nume": "OPREA OCTAVIAN",
+      "nume_norm": "OCTAVIAN OPREA"
     },
     {
       "institutie": "Deputat Pambuccian Varujan",
@@ -2500,7 +2952,9 @@
       "conturi_ron": 0,
       "venituri_ron": 219568,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PAMBUCCIAN VARUJAN",
+      "nume_norm": "PAMBUCCIAN VARUJAN"
     },
     {
       "institutie": "Deputat Pandea Ciprian",
@@ -2511,7 +2965,9 @@
       "conturi_ron": 933690,
       "venituri_ron": 1265205,
       "datorii_ron": 403644,
-      "auto": 4
+      "auto": 4,
+      "nume": "PANDEA CIPRIAN",
+      "nume_norm": "CIPRIAN PANDEA"
     },
     {
       "institutie": "Deputat Paraschiv Ciprian-Constantin",
@@ -2522,7 +2978,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1229044,
       "datorii_ron": 427400,
-      "auto": 7
+      "auto": 7,
+      "nume": "PARASCHIV CIPRIAN-CONSTANTIN",
+      "nume_norm": "CIPRIAN CONSTANTIN PARASCHIV"
     },
     {
       "institutie": "Deputat Paraschivescu Ovidiu-Romulus",
@@ -2533,7 +2991,9 @@
       "conturi_ron": 200,
       "venituri_ron": 578760,
       "datorii_ron": 738365,
-      "auto": 6
+      "auto": 6,
+      "nume": "PARASCHIVESCU OVIDIU-ROMULUS",
+      "nume_norm": "OVIDIU PARASCHIVESCU ROMULUS"
     },
     {
       "institutie": "Deputat Pascalini Nini-Alexandru",
@@ -2544,7 +3004,9 @@
       "conturi_ron": 0,
       "venituri_ron": 478056,
       "datorii_ron": 30000,
-      "auto": 8
+      "auto": 8,
+      "nume": "PASCALINI NINI-ALEXANDRU",
+      "nume_norm": "ALEXANDRU NINI PASCALINI"
     },
     {
       "institutie": "Deputat Pascariu Mihai-Cosmin",
@@ -2555,7 +3017,9 @@
       "conturi_ron": 0,
       "venituri_ron": 83240,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PASCARIU MIHAI-COSMIN",
+      "nume_norm": "COSMIN MIHAI PASCARIU"
     },
     {
       "institutie": "Deputat Paun Nicolae",
@@ -2566,7 +3030,9 @@
       "conturi_ron": 0,
       "venituri_ron": 176537,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PAUN NICOLAE",
+      "nume_norm": "NICOLAE PAUN"
     },
     {
       "institutie": "Deputat Paunescu Silviu-Titus",
@@ -2577,7 +3043,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 134330,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PAUNESCU SILVIU-TITUS",
+      "nume_norm": "PAUNESCU SILVIU TITUS"
     },
     {
       "institutie": "Deputat Petretchi Nicolae-Miroslav",
@@ -2588,7 +3056,9 @@
       "conturi_ron": 0,
       "venituri_ron": 215419,
       "datorii_ron": 308150,
-      "auto": 5
+      "auto": 5,
+      "nume": "PETRETCHI NICOLAE-MIROSLAV",
+      "nume_norm": "MIROSLAV NICOLAE PETRETCHI"
     },
     {
       "institutie": "Deputat Peta-Stefanescu Eliza-Madalina",
@@ -2599,7 +3069,9 @@
       "conturi_ron": 0,
       "venituri_ron": 138256,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PETA-STEFANESCU ELIZA-MADALINA",
+      "nume_norm": "ELIZA MADALINA PETA STEFANESCU"
     },
     {
       "institutie": "Deputat Pirtea Marilen - Gabriel",
@@ -2610,7 +3082,9 @@
       "conturi_ron": 1208000,
       "venituri_ron": 761735,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PIRTEA MARILEN GABRIEL",
+      "nume_norm": "GABRIEL MARILEN PIRTEA"
     },
     {
       "institutie": "Deputat Pistru-Popa Simona-Geanina",
@@ -2621,7 +3095,9 @@
       "conturi_ron": 0,
       "venituri_ron": 938989,
       "datorii_ron": 985000,
-      "auto": 4
+      "auto": 4,
+      "nume": "PISTRU-POPA SIMONA-GEANINA",
+      "nume_norm": "GEANINA PISTRU POPA SIMONA"
     },
     {
       "institutie": "Deputat Piclisan Gheorghe-Petru",
@@ -2632,7 +3108,9 @@
       "conturi_ron": 0,
       "venituri_ron": 138055,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PICLISAN GHEORGHE-PETRU",
+      "nume_norm": "GHEORGHE PETRU PICLISAN"
     },
     {
       "institutie": "Deputat Plopeanu Rodica",
@@ -2643,7 +3121,9 @@
       "conturi_ron": 418312,
       "venituri_ron": 35950,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PLOPEANU RODICA",
+      "nume_norm": "PLOPEANU RODICA"
     },
     {
       "institutie": "Deputat Plujar Andrei George",
@@ -2654,7 +3134,9 @@
       "conturi_ron": 0,
       "venituri_ron": 85128,
       "datorii_ron": 201800,
-      "auto": 5
+      "auto": 5,
+      "nume": "PLUJAR ANDREI GEORGE",
+      "nume_norm": "ANDREI GEORGE PLUJAR"
     },
     {
       "institutie": "Deputat Ponta Victor-Viorel",
@@ -2665,7 +3147,9 @@
       "conturi_ron": 190000,
       "venituri_ron": 259295,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PONTA VICTOR-VIOREL",
+      "nume_norm": "PONTA VICTOR VIOREL"
     },
     {
       "institutie": "Deputat Popa Alexandru",
@@ -2676,7 +3160,9 @@
       "conturi_ron": 250000,
       "venituri_ron": 1022189,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "POPA ALEXANDRU",
+      "nume_norm": "ALEXANDRU POPA"
     },
     {
       "institutie": "Deputat Popa Dorin",
@@ -2687,7 +3173,9 @@
       "conturi_ron": 0,
       "venituri_ron": 23420,
       "datorii_ron": 0,
-      "auto": 11
+      "auto": 11,
+      "nume": "POPA DORIN",
+      "nume_norm": "DORIN POPA"
     },
     {
       "institutie": "Deputat Popa George-Adrian",
@@ -2698,7 +3186,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 206479,
       "datorii_ron": 439381,
-      "auto": 4
+      "auto": 4,
+      "nume": "POPA GEORGE-ADRIAN",
+      "nume_norm": "ADRIAN GEORGE POPA"
     },
     {
       "institutie": "Deputat Popa Maricel",
@@ -2709,7 +3199,9 @@
       "conturi_ron": 308510,
       "venituri_ron": 650168,
       "datorii_ron": 17136,
-      "auto": 5
+      "auto": 5,
+      "nume": "POPA MARICEL",
+      "nume_norm": "MARICEL POPA"
     },
     {
       "institutie": "Deputat Popa Stefan-Ovidiu",
@@ -2720,7 +3212,9 @@
       "conturi_ron": 0,
       "venituri_ron": 398130,
       "datorii_ron": 100000,
-      "auto": 6
+      "auto": 6,
+      "nume": "POPA STEFAN-OVIDIU",
+      "nume_norm": "OVIDIU POPA STEFAN"
     },
     {
       "institutie": "Deputat Popescu Antonio-Gabi",
@@ -2731,7 +3225,9 @@
       "conturi_ron": 0,
       "venituri_ron": 37800,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "POPESCU ANTONIO-GABI",
+      "nume_norm": "ANTONIO GABI POPESCU"
     },
     {
       "institutie": "Deputat Popovici Florin-Cornel",
@@ -2742,7 +3238,9 @@
       "conturi_ron": 513135,
       "venituri_ron": 226968,
       "datorii_ron": 378277,
-      "auto": 4
+      "auto": 4,
+      "nume": "POPOVICI FLORIN-CORNEL",
+      "nume_norm": "CORNEL FLORIN POPOVICI"
     },
     {
       "institutie": "Deputat Porumboiu Gabriela",
@@ -2753,7 +3251,9 @@
       "conturi_ron": 0,
       "venituri_ron": 152925,
       "datorii_ron": 81559,
-      "auto": 5
+      "auto": 5,
+      "nume": "PORUMBOIU GABRIELA",
+      "nume_norm": "GABRIELA PORUMBOIU"
     },
     {
       "institutie": "Deputat Priescu Ionelia-Florenta",
@@ -2764,7 +3264,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114081,
       "datorii_ron": 40000,
-      "auto": 6
+      "auto": 6,
+      "nume": "PRIESCU IONELIA-FLORENTA",
+      "nume_norm": "FLORENTA IONELIA PRIESCU"
     },
     {
       "institutie": "Deputat Prisca Razvan Sorin",
@@ -2775,7 +3277,9 @@
       "conturi_ron": 50500,
       "venituri_ron": 311374,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PRISCA RAZVAN SORIN",
+      "nume_norm": "PRISCA RAZVAN SORIN"
     },
     {
       "institutie": "Deputat Pruna Cristina-Madalina",
@@ -2786,7 +3290,9 @@
       "conturi_ron": 30921,
       "venituri_ron": 141073,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PRUNA CRISTINA-MADALINA",
+      "nume_norm": "CRISTINA MADALINA PRUNA"
     },
     {
       "institutie": "Deputat Puscasu Lucian-Florin",
@@ -2797,7 +3303,9 @@
       "conturi_ron": 0,
       "venituri_ron": 269539,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PUSCASU LUCIAN-FLORIN",
+      "nume_norm": "FLORIN LUCIAN PUSCASU"
     },
     {
       "institutie": "Deputat Puscasu Petre",
@@ -2808,7 +3316,9 @@
       "conturi_ron": 25000,
       "venituri_ron": 185443,
       "datorii_ron": 732250,
-      "auto": 8
+      "auto": 8,
+      "nume": "PUSCASU PETRE",
+      "nume_norm": "PETRE PUSCASU"
     },
     {
       "institutie": "Deputat Radu Fabian-Cristian",
@@ -2819,7 +3329,9 @@
       "conturi_ron": 0,
       "venituri_ron": 140824,
       "datorii_ron": 2450000,
-      "auto": 5
+      "auto": 5,
+      "nume": "RADU FABIAN-CRISTIAN",
+      "nume_norm": "CRISTIAN FABIAN RADU"
     },
     {
       "institutie": "Deputat Rafila Alexandru",
@@ -2830,7 +3342,9 @@
       "conturi_ron": 3575016,
       "venituri_ron": 443395,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "RAFILA ALEXANDRU",
+      "nume_norm": "ALEXANDRU RAFILA"
     },
     {
       "institutie": "Deputat Raducanu Sebastian",
@@ -2841,7 +3355,9 @@
       "conturi_ron": 130150,
       "venituri_ron": 518360,
       "datorii_ron": 1870664,
-      "auto": 5
+      "auto": 5,
+      "nume": "RADUCANU SEBASTIAN",
+      "nume_norm": "RADUCANU SEBASTIAN"
     },
     {
       "institutie": "Deputat Raducea Gheorghe-Valentin",
@@ -2852,7 +3368,9 @@
       "conturi_ron": 0,
       "venituri_ron": 307173,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "RADUCEA GHEORGHE-VALENTIN",
+      "nume_norm": "GHEORGHE RADUCEA VALENTIN"
     },
     {
       "institutie": "Deputat Rigman Ciprian-Doru",
@@ -2863,7 +3381,9 @@
       "conturi_ron": 0,
       "venituri_ron": 324319,
       "datorii_ron": 126250,
-      "auto": 5
+      "auto": 5,
+      "nume": "RIGMAN CIPRIAN-DORU",
+      "nume_norm": "CIPRIAN DORU RIGMAN"
     },
     {
       "institutie": "Deputat Rinder Ana-Smaranda",
@@ -2874,7 +3394,9 @@
       "conturi_ron": 0,
       "venituri_ron": 227797,
       "datorii_ron": 359434,
-      "auto": 6
+      "auto": 6,
+      "nume": "RINDER ANA-SMARANDA",
+      "nume_norm": "ANA RINDER SMARANDA"
     },
     {
       "institutie": "Deputat Rodeanu Bogdan-Ionel",
@@ -2885,7 +3407,9 @@
       "conturi_ron": 0,
       "venituri_ron": 164256,
       "datorii_ron": 250697,
-      "auto": 5
+      "auto": 5,
+      "nume": "RODEANU BOGDAN-IONEL",
+      "nume_norm": "BOGDAN IONEL RODEANU"
     },
     {
       "institutie": "Deputat Rogobete Alexandru-Florin",
@@ -2896,7 +3420,9 @@
       "conturi_ron": 206000,
       "venituri_ron": 231532,
       "datorii_ron": 720810,
-      "auto": 4
+      "auto": 4,
+      "nume": "ROGOBETE ALEXANDRU-FLORIN",
+      "nume_norm": "ALEXANDRU FLORIN ROGOBETE"
     },
     {
       "institutie": "Deputat Roman Florin-Claudiu",
@@ -2907,7 +3433,9 @@
       "conturi_ron": 0,
       "venituri_ron": 566061,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ROMAN FLORIN-CLAUDIU",
+      "nume_norm": "CLAUDIU FLORIN ROMAN"
     },
     {
       "institutie": "Deputat Rosca Mircea",
@@ -2918,7 +3446,9 @@
       "conturi_ron": 0,
       "venituri_ron": 239793,
       "datorii_ron": 287850,
-      "auto": 6
+      "auto": 6,
+      "nume": "ROSCA MIRCEA",
+      "nume_norm": "MIRCEA ROSCA"
     },
     {
       "institutie": "Deputat Rusu Sebastian-Mihai",
@@ -2929,7 +3459,9 @@
       "conturi_ron": 75000,
       "venituri_ron": 1029318,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "RUSU SEBASTIAN-MIHAI",
+      "nume_norm": "MIHAI RUSU SEBASTIAN"
     },
     {
       "institutie": "Deputat Samoila Ion",
@@ -2940,7 +3472,9 @@
       "conturi_ron": 90000,
       "venituri_ron": 420743,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "SAMOILA ION",
+      "nume_norm": "ION SAMOILA"
     },
     {
       "institutie": "Deputat Sandu Viorica",
@@ -2951,7 +3485,9 @@
       "conturi_ron": 66280,
       "venituri_ron": 265668,
       "datorii_ron": 277200,
-      "auto": 5
+      "auto": 5,
+      "nume": "SANDU VIORICA",
+      "nume_norm": "SANDU VIORICA"
     },
     {
       "institutie": "Deputat Scarlat George",
@@ -2962,7 +3498,9 @@
       "conturi_ron": 1152887,
       "venituri_ron": 1197147,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "SCARLAT GEORGE",
+      "nume_norm": "GEORGE SCARLAT"
     },
     {
       "institutie": "Deputat Seres Denes",
@@ -2973,7 +3511,9 @@
       "conturi_ron": 5900,
       "venituri_ron": 382358,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "SERES DENES",
+      "nume_norm": "DENES SERES"
     },
     {
       "institutie": "Deputat Sighiartau Robert-Ionatan",
@@ -2984,7 +3524,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 1061225,
       "datorii_ron": 584872,
-      "auto": 4
+      "auto": 4,
+      "nume": "SIGHIARTAU ROBERT-IONATAN",
+      "nume_norm": "IONATAN ROBERT SIGHIARTAU"
     },
     {
       "institutie": "Deputat Simion George-Nicolae",
@@ -2995,7 +3537,9 @@
       "conturi_ron": 0,
       "venituri_ron": 166004,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "SIMION GEORGE-NICOLAE",
+      "nume_norm": "GEORGE NICOLAE SIMION"
     },
     {
       "institutie": "Deputat Simu Aurora-Tasica",
@@ -3006,7 +3550,9 @@
       "conturi_ron": 0,
       "venituri_ron": 365304,
       "datorii_ron": 522000,
-      "auto": 4
+      "auto": 4,
+      "nume": "SIMU AURORA-TASICA",
+      "nume_norm": "AURORA SIMU TASICA"
     },
     {
       "institutie": "Deputat Solomon Adrian",
@@ -3017,7 +3563,9 @@
       "conturi_ron": 50000,
       "venituri_ron": 148584,
       "datorii_ron": 437234,
-      "auto": 8
+      "auto": 8,
+      "nume": "SOLOMON ADRIAN",
+      "nume_norm": "ADRIAN SOLOMON"
     },
     {
       "institutie": "Deputat Stancu Ionel",
@@ -3028,7 +3576,9 @@
       "conturi_ron": 0,
       "venituri_ron": 238420,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "STANCU IONEL",
+      "nume_norm": "IONEL STANCU"
     },
     {
       "institutie": "Deputat Stanescu Vetuta",
@@ -3039,7 +3589,9 @@
       "conturi_ron": 250000,
       "venituri_ron": 500349,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "STANESCU VETUTA",
+      "nume_norm": "STANESCU VETUTA"
     },
     {
       "institutie": "Deputat Stoenica Irina-Florentina",
@@ -3050,7 +3602,9 @@
       "conturi_ron": 0,
       "venituri_ron": 126886,
       "datorii_ron": 873595,
-      "auto": 5
+      "auto": 5,
+      "nume": "STOENICA IRINA-FLORENTINA",
+      "nume_norm": "FLORENTINA IRINA STOENICA"
     },
     {
       "institutie": "Deputat Stoica Alin-Bogdan",
@@ -3061,7 +3615,9 @@
       "conturi_ron": 0,
       "venituri_ron": 331711,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "STOICA ALIN-BOGDAN",
+      "nume_norm": "ALIN BOGDAN STOICA"
     },
     {
       "institutie": "Deputat Stoica Bogdan-Alin",
@@ -3072,7 +3628,9 @@
       "conturi_ron": 319074,
       "venituri_ron": 187183,
       "datorii_ron": 322800,
-      "auto": 4
+      "auto": 4,
+      "nume": "STOICA BOGDAN-ALIN",
+      "nume_norm": "ALIN BOGDAN STOICA"
     },
     {
       "institutie": "Deputat Stoica Diana",
@@ -3083,7 +3641,9 @@
       "conturi_ron": 75000,
       "venituri_ron": 137330,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "STOICA DIANA",
+      "nume_norm": "DIANA STOICA"
     },
     {
       "institutie": "Deputat Stoica Stefan-Bucur",
@@ -3094,7 +3654,9 @@
       "conturi_ron": 1607000,
       "venituri_ron": 181934,
       "datorii_ron": 402850,
-      "auto": 4
+      "auto": 4,
+      "nume": "STOICA STEFAN-BUCUR",
+      "nume_norm": "BUCUR STEFAN STOICA"
     },
     {
       "institutie": "Deputat Stroe Ionut-Marian",
@@ -3105,7 +3667,9 @@
       "conturi_ron": 250000,
       "venituri_ron": 490580,
       "datorii_ron": 458800,
-      "auto": 5
+      "auto": 5,
+      "nume": "STROE IONUT-MARIAN",
+      "nume_norm": "IONUT MARIAN STROE"
     },
     {
       "institutie": "Deputat Suciu Vasile-Daniel",
@@ -3116,7 +3680,9 @@
       "conturi_ron": 273000,
       "venituri_ron": 501751,
       "datorii_ron": 377863,
-      "auto": 6
+      "auto": 6,
+      "nume": "SUCIU VASILE-DANIEL",
+      "nume_norm": "DANIEL SUCIU VASILE"
     },
     {
       "institutie": "Deputat Szabo Odon",
@@ -3127,7 +3693,9 @@
       "conturi_ron": 300000,
       "venituri_ron": 233861,
       "datorii_ron": 75000,
-      "auto": 7
+      "auto": 7,
+      "nume": "SZABO ODON",
+      "nume_norm": "ODON SZABO"
     },
     {
       "institutie": "Deputat Szoke Ecaterina-Mariana",
@@ -3138,7 +3706,9 @@
       "conturi_ron": 0,
       "venituri_ron": 96708,
       "datorii_ron": 909000,
-      "auto": 6
+      "auto": 6,
+      "nume": "SZOKE ECATERINA-MARIANA",
+      "nume_norm": "ECATERINA MARIANA SZOKE"
     },
     {
       "institutie": "Deputat Sendroiu Vlad-Ioan",
@@ -3149,7 +3719,9 @@
       "conturi_ron": 50000,
       "venituri_ron": 208253,
       "datorii_ron": 411981,
-      "auto": 5
+      "auto": 5,
+      "nume": "SENDROIU VLAD-IOAN",
+      "nume_norm": "IOAN SENDROIU VLAD"
     },
     {
       "institutie": "Deputat Serban Ciprian-Constantin",
@@ -3160,7 +3732,9 @@
       "conturi_ron": 0,
       "venituri_ron": 153580,
       "datorii_ron": 126250,
-      "auto": 4
+      "auto": 4,
+      "nume": "SERBAN CIPRIAN-CONSTANTIN",
+      "nume_norm": "CIPRIAN CONSTANTIN SERBAN"
     },
     {
       "institutie": "Deputat Serban George Catalin",
@@ -3171,7 +3745,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 2215056,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "SERBAN GEORGE CATALIN",
+      "nume_norm": "CATALIN GEORGE SERBAN"
     },
     {
       "institutie": "Deputat Serban Gianina",
@@ -3182,7 +3758,9 @@
       "conturi_ron": 197000,
       "venituri_ron": 383823,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "SERBAN GIANINA",
+      "nume_norm": "GIANINA SERBAN"
     },
     {
       "institutie": "Deputat Stirbu Gigel-Sorinel",
@@ -3193,7 +3771,9 @@
       "conturi_ron": 0,
       "venituri_ron": 740686,
       "datorii_ron": 202000,
-      "auto": 4
+      "auto": 4,
+      "nume": "STIRBU GIGEL-SORINEL",
+      "nume_norm": "GIGEL SORINEL STIRBU"
     },
     {
       "institutie": "Deputat Tanasa Dan",
@@ -3204,7 +3784,9 @@
       "conturi_ron": 38425,
       "venituri_ron": 200730,
       "datorii_ron": 1304692,
-      "auto": 5
+      "auto": 5,
+      "nume": "TANASA DAN",
+      "nume_norm": "DAN TANASA"
     },
     {
       "institutie": "Deputat Tanasa Stefan",
@@ -3215,7 +3797,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "TANASA STEFAN",
+      "nume_norm": "STEFAN TANASA"
     },
     {
       "institutie": "Deputat Teslariu Andrei-Ionut",
@@ -3226,7 +3810,9 @@
       "conturi_ron": 0,
       "venituri_ron": 170901,
       "datorii_ron": 150000,
-      "auto": 4
+      "auto": 4,
+      "nume": "TESLARIU ANDREI-IONUT",
+      "nume_norm": "ANDREI IONUT TESLARIU"
     },
     {
       "institutie": "Deputat Tilea Dumitru",
@@ -3237,7 +3823,9 @@
       "conturi_ron": 250000,
       "venituri_ron": 71900,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TILEA DUMITRU",
+      "nume_norm": "DUMITRU TILEA"
     },
     {
       "institutie": "Deputat Tilvar Angel",
@@ -3248,7 +3836,9 @@
       "conturi_ron": 0,
       "venituri_ron": 254782,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "TILVAR ANGEL",
+      "nume_norm": "ANGEL TILVAR"
     },
     {
       "institutie": "Deputat Toader Bogdan-Andrei",
@@ -3259,7 +3849,9 @@
       "conturi_ron": 0,
       "venituri_ron": 227520,
       "datorii_ron": 120000,
-      "auto": 6
+      "auto": 6,
+      "nume": "TOADER BOGDAN-ANDREI",
+      "nume_norm": "ANDREI BOGDAN TOADER"
     },
     {
       "institutie": "Deputat Toader Elena-Laura",
@@ -3270,7 +3862,9 @@
       "conturi_ron": 0,
       "venituri_ron": 102015,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "TOADER ELENA-LAURA",
+      "nume_norm": "ELENA LAURA TOADER"
     },
     {
       "institutie": "Deputat Toma Ilie",
@@ -3281,7 +3875,9 @@
       "conturi_ron": 223000,
       "venituri_ron": 215970,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TOMA ILIE",
+      "nume_norm": "ILIE TOMA"
     },
     {
       "institutie": "Deputat Tomoescu Ion-Alin",
@@ -3292,7 +3888,9 @@
       "conturi_ron": 0,
       "venituri_ron": 462226,
       "datorii_ron": 265550,
-      "auto": 6
+      "auto": 6,
+      "nume": "TOMOESCU ION-ALIN",
+      "nume_norm": "ALIN ION TOMOESCU"
     },
     {
       "institutie": "Deputat Trif Bogdan Gheorghe",
@@ -3303,7 +3901,9 @@
       "conturi_ron": 0,
       "venituri_ron": 242018,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TRIF BOGDAN GHEORGHE",
+      "nume_norm": "BOGDAN GHEORGHE TRIF"
     },
     {
       "institutie": "Deputat Turcan Raluca",
@@ -3314,7 +3914,9 @@
       "conturi_ron": 259930,
       "venituri_ron": 766202,
       "datorii_ron": 20700,
-      "auto": 4
+      "auto": 4,
+      "nume": "TURCAN RALUCA",
+      "nume_norm": "RALUCA TURCAN"
     },
     {
       "institutie": "Deputat Tusa Adriana Diana",
@@ -3325,7 +3927,9 @@
       "conturi_ron": 31477361,
       "venituri_ron": 5278316,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "TUSA ADRIANA DIANA",
+      "nume_norm": "ADRIANA DIANA TUSA"
     },
     {
       "institutie": "Deputat Tinta Stefan",
@@ -3336,7 +3940,9 @@
       "conturi_ron": 1278420,
       "venituri_ron": 1003214,
       "datorii_ron": 13450,
-      "auto": 4
+      "auto": 4,
+      "nume": "TINTA STEFAN",
+      "nume_norm": "STEFAN TINTA"
     },
     {
       "institutie": "Deputat Tiplea Dumitru",
@@ -3347,7 +3953,9 @@
       "conturi_ron": 800000,
       "venituri_ron": 440442,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TIPLEA DUMITRU",
+      "nume_norm": "DUMITRU TIPLEA"
     },
     {
       "institutie": "Deputat Tiu Mihai-Adrian",
@@ -3358,7 +3966,9 @@
       "conturi_ron": 215390,
       "venituri_ron": 288483,
       "datorii_ron": 565200,
-      "auto": 5
+      "auto": 5,
+      "nume": "TIU MIHAI-ADRIAN",
+      "nume_norm": "ADRIAN MIHAI TIU"
     },
     {
       "institutie": "Deputat Toiu Oana-Silvia",
@@ -3369,7 +3979,9 @@
       "conturi_ron": 50000,
       "venituri_ron": 650249,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "TOIU OANA-SILVIA",
+      "nume_norm": "OANA SILVIA TOIU"
     },
     {
       "institutie": "Deputat Ungureanu Emanuel-Dumitru",
@@ -3380,7 +3992,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 636756,
       "datorii_ron": 538374,
-      "auto": 6
+      "auto": 6,
+      "nume": "UNGUREANU EMANUEL-DUMITRU",
+      "nume_norm": "DUMITRU EMANUEL UNGUREANU"
     },
     {
       "institutie": "Deputat Vass Levente",
@@ -3391,7 +4005,9 @@
       "conturi_ron": 761075,
       "venituri_ron": 224036,
       "datorii_ron": 530804,
-      "auto": 4
+      "auto": 4,
+      "nume": "VASS LEVENTE",
+      "nume_norm": "LEVENTE VASS"
     },
     {
       "institutie": "Deputat Vaduva Dumitru",
@@ -3402,7 +4018,9 @@
       "conturi_ron": 379000,
       "venituri_ron": 440672,
       "datorii_ron": 143000,
-      "auto": 5
+      "auto": 5,
+      "nume": "VADUVA DUMITRU",
+      "nume_norm": "DUMITRU VADUVA"
     },
     {
       "institutie": "Deputat Varga Mariana",
@@ -3413,7 +4031,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1189132,
       "datorii_ron": 133000,
-      "auto": 5
+      "auto": 5,
+      "nume": "VARGA MARIANA",
+      "nume_norm": "MARIANA VARGA"
     },
     {
       "institutie": "Deputat Vedinas Verginia",
@@ -3424,7 +4044,9 @@
       "conturi_ron": 0,
       "venituri_ron": 784330,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "VEDINAS VERGINIA",
+      "nume_norm": "VEDINAS VERGINIA"
     },
     {
       "institutie": "Deputat Vela Ion-Marcel",
@@ -3435,7 +4057,9 @@
       "conturi_ron": 327632,
       "venituri_ron": 339423,
       "datorii_ron": 38000,
-      "auto": 4
+      "auto": 4,
+      "nume": "VELA ION-MARCEL",
+      "nume_norm": "ION MARCEL VELA"
     },
     {
       "institutie": "Deputat Velcescu Florin-Bogdan",
@@ -3446,7 +4070,9 @@
       "conturi_ron": 0,
       "venituri_ron": 90853,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "VELCESCU FLORIN-BOGDAN",
+      "nume_norm": "BOGDAN FLORIN VELCESCU"
     },
     {
       "institutie": "Deputat Vexler Silviu",
@@ -3457,7 +4083,9 @@
       "conturi_ron": 0,
       "venituri_ron": 562595,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "VEXLER SILVIU",
+      "nume_norm": "SILVIU VEXLER"
     },
     {
       "institutie": "Deputat Vidra Vlad-Andrei",
@@ -3468,7 +4096,9 @@
       "conturi_ron": 1954658,
       "venituri_ron": 36686,
       "datorii_ron": 1150000,
-      "auto": 6
+      "auto": 6,
+      "nume": "VIDRA VLAD-ANDREI",
+      "nume_norm": "ANDREI VIDRA VLAD"
     },
     {
       "institutie": "Deputat Vulpescu Ioan",
@@ -3479,7 +4109,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 153597,
       "datorii_ron": 400000,
-      "auto": 4
+      "auto": 4,
+      "nume": "VULPESCU IOAN",
+      "nume_norm": "IOAN VULPESCU"
     },
     {
       "institutie": "Deputat Vulpoiu Dorel",
@@ -3490,7 +4122,9 @@
       "conturi_ron": 0,
       "venituri_ron": 24000,
       "datorii_ron": 262600,
-      "auto": 6
+      "auto": 6,
+      "nume": "VULPOIU DOREL",
+      "nume_norm": "DOREL VULPOIU"
     },
     {
       "institutie": "Deputat Vuscan Voicu",
@@ -3501,7 +4135,9 @@
       "conturi_ron": 6432247,
       "venituri_ron": 1427820,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "VUSCAN VOICU",
+      "nume_norm": "VOICU VUSCAN"
     },
     {
       "institutie": "Deputat Weber Mihai",
@@ -3512,7 +4148,9 @@
       "conturi_ron": 193576,
       "venituri_ron": 1657280,
       "datorii_ron": 171800,
-      "auto": 6
+      "auto": 6,
+      "nume": "WEBER MIHAI",
+      "nume_norm": "MIHAI WEBER"
     },
     {
       "institutie": "Deputat Wiener Adrian",
@@ -3523,7 +4161,9 @@
       "conturi_ron": 85000,
       "venituri_ron": 219628,
       "datorii_ron": 302500,
-      "auto": 5
+      "auto": 5,
+      "nume": "WIENER ADRIAN",
+      "nume_norm": "ADRIAN WIENER"
     },
     {
       "institutie": "Deputat Zahoranszki Brigitta-Eva",
@@ -3534,7 +4174,9 @@
       "conturi_ron": 0,
       "venituri_ron": 281452,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ZAHORANSZKI BRIGITTA-EVA",
+      "nume_norm": "BRIGITTA EVA ZAHORANSZKI"
     },
     {
       "institutie": "Deputat Zakarias Zoltan",
@@ -3545,7 +4187,9 @@
       "conturi_ron": 0,
       "venituri_ron": 131265,
       "datorii_ron": 92393,
-      "auto": 4
+      "auto": 4,
+      "nume": "ZAKARIAS ZOLTAN",
+      "nume_norm": "ZAKARIAS ZOLTAN"
     },
     {
       "institutie": "Deputat Zisopol Dragos Gabriel",
@@ -3556,7 +4200,9 @@
       "conturi_ron": 0,
       "venituri_ron": 260412,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "ZISOPOL DRAGOS GABRIEL",
+      "nume_norm": "DRAGOS GABRIEL ZISOPOL"
     },
     {
       "institutie": "Deputat Afloarei Sorin-Alexandru",
@@ -3567,7 +4213,9 @@
       "conturi_ron": 198000,
       "venituri_ron": 295997,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "AFLOAREI SORIN-ALEXANDRU",
+      "nume_norm": "AFLOAREI ALEXANDRU SORIN"
     },
     {
       "institutie": "Deputat Ibram Iusein",
@@ -3578,7 +4226,9 @@
       "conturi_ron": 0,
       "venituri_ron": 244836,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IBRAM IUSEIN",
+      "nume_norm": "IBRAM IUSEIN"
     },
     {
       "institutie": "Deputat Mircea Florin",
@@ -3589,7 +4239,9 @@
       "conturi_ron": 0,
       "venituri_ron": 299719,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MIRCEA FLORIN",
+      "nume_norm": "FLORIN MIRCEA"
     },
     {
       "institutie": "Deputat Ciolacu Ion-Marcel",
@@ -3600,7 +4252,9 @@
       "conturi_ron": 3010,
       "venituri_ron": 344376,
       "datorii_ron": 35000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIOLACU ION-MARCEL",
+      "nume_norm": "CIOLACU ION MARCEL"
     },
     {
       "institutie": "Deputat Artimon Dan-Catalin",
@@ -3611,7 +4265,9 @@
       "conturi_ron": 0,
       "venituri_ron": 27446,
       "datorii_ron": 77300,
-      "auto": 4
+      "auto": 4,
+      "nume": "ARTIMON DAN-CATALIN",
+      "nume_norm": "ARTIMON CATALIN DAN"
     }
   ]
 }

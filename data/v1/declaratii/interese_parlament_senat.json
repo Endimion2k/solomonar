@@ -22,7 +22,9 @@
         "1.7 S.N.G.N. ROMGAZ SA - Medias",
         "4.1 PNL CLUJ - PRIM VICEPRESEDINTE",
         "SA - Sectorul 2 Bucuresti str. Gara Acţionar 70000 Acţiuni 50000 RON"
-      ]
+      ],
+      "nume": "ABRUDEAN MIRCEA",
+      "nume_norm": "ABRUDEAN MIRCEA"
     },
     {
       "institutie": "Senator Abrudean Mircea",
@@ -42,7 +44,9 @@
         "1.4 SC PREBET SA - Aiud Alba",
         "1.5 SC ELECTRICA SA - Sectorul",
         "4.1 PNL CLUJ - PRIM VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "ABRUDEAN MIRCEA",
+      "nume_norm": "ABRUDEAN MIRCEA"
     },
     {
       "institutie": "Senator Aldea Valentina-Mariana",
@@ -58,7 +62,9 @@
       "entitati": [
         "1.1 SC AEDLA WAW SRL",
         "SRL - Sectorul 2 Bucuresti Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "ALDEA MARIANA VALI",
+      "nume_norm": "ALDEA MARIANA VALI"
     },
     {
       "institutie": "Senator Alexandru Victoria-Violeta",
@@ -74,7 +80,9 @@
       "entitati": [
         "1.1 Asociatia Institutul pentru Politici",
         "4.1 Partidul Uniunea Salvati Romania - Membru"
-      ]
+      ],
+      "nume": "ALEXANDRU VICTORIA VIOLETA",
+      "nume_norm": "ALEXANDRU VICTORIA VIOLETA"
     },
     {
       "institutie": "Senator Anghel Razvan-Paul",
@@ -95,7 +103,9 @@
         "1.4 ANGHEL CONTRACTORS SRL",
         "4.1 PARTIDUL UNIUNEA SALVAȚI ROMANIA FILIALA JUDETEANA ARAD - PRESEDINTE",
         "SRL - Timisoara Timis Str. Turda Asociat 10 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "ANGHEL RĂZVAN PAUL",
+      "nume_norm": "ANGHEL PAUL RAZVAN"
     },
     {
       "institutie": "Senator Anisie Monica-Cristina",
@@ -113,7 +123,9 @@
         "3.2 Asociatia Educatie la puterea 2 - Membru",
         "4.1 PNL Sector 2 - Presedinte",
         "4.2 PNL - Vicepresedinte"
-      ]
+      ],
+      "nume": "ANISIE MONICA CRISTINA",
+      "nume_norm": "ANISIE CRISTINA MONICA"
     },
     {
       "institutie": "Senator Anisie Monica-Cristina",
@@ -131,7 +143,9 @@
         "3.2 Asociatia Educatie la puterea 2 - Membru",
         "4.1 PNL Sector 2 - Presedinte",
         "4.2 PNL - Vicepresedinte"
-      ]
+      ],
+      "nume": "ANISIE MONICA CRISTINA",
+      "nume_norm": "ANISIE CRISTINA MONICA"
     },
     {
       "institutie": "Senator Anisie Monica-Cristina",
@@ -149,7 +163,9 @@
         "3.2 Asociatia Educatie la puterea 2 - Membru",
         "4.1 PNL Sector 2 - Presedinte",
         "4.2 PNL - Vicepresedinte"
-      ]
+      ],
+      "nume": "ANISIE MONICA CRISTINA",
+      "nume_norm": "ANISIE CRISTINA MONICA"
     },
     {
       "institutie": "Senator Antal István-Loránt",
@@ -188,7 +204,9 @@
         "Trans SRL",
         "Trans SRL ROMANEASC",
         "Trans SRL str. Decebal nerambursabil"
-      ]
+      ],
+      "nume": "ANTAL ISTVAN LORANT",
+      "nume_norm": "ANTAL ISTVAN LORANT"
     },
     {
       "institutie": "Senator Antal István-Loránt",
@@ -227,7 +245,9 @@
         "Trans SRL",
         "Trans SRL ROMANEASC",
         "Trans SRL str. Decebal nerambursabil"
-      ]
+      ],
+      "nume": "ANTAL ISTVAN LORANT",
+      "nume_norm": "ANTAL ISTVAN LORANT"
     },
     {
       "institutie": "Senator Antal István-Loránt",
@@ -266,7 +286,9 @@
         "TYRE SRL",
         "Trans SRL",
         "Trans SRL ROMANEASC"
-      ]
+      ],
+      "nume": "ANTAL ISTVAN LORANT",
+      "nume_norm": "ANTAL ISTVAN LORANT"
     },
     {
       "institutie": "Senator Antal István-Loránt",
@@ -305,7 +327,9 @@
         "TYRE SRL",
         "Trans SRL",
         "Trans SRL ROMANEASC"
-      ]
+      ],
+      "nume": "ANTAL ISTVAN LORANT",
+      "nume_norm": "ANTAL ISTVAN LORANT"
     },
     {
       "institutie": "Senator Barcari Dorina",
@@ -321,7 +345,9 @@
       "entitati": [
         "1.1 Asociatia Inginerilor Feroviari",
         "1.3 Asociatia Pensionarilor din"
-      ]
+      ],
+      "nume": "BARCARI DORINA",
+      "nume_norm": "BARCARI DORINA"
     },
     {
       "institutie": "Senator Bem Cristian",
@@ -334,7 +360,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "BEM CRISTIAN RECTIFICATIVA",
+      "nume_norm": "BEM CRISTIAN RECTIFICATIVA"
     },
     {
       "institutie": "Senator Bem Cristian",
@@ -347,7 +375,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "BEM CRISTIAN",
+      "nume_norm": "BEM CRISTIAN"
     },
     {
       "institutie": "Senator Bică Andra",
@@ -364,7 +394,9 @@
         "1.1 Asociatia pentru educatie si",
         "3.1 Sindicatul Personalului din Invatamantul Preuniversitar - membru",
         "4.1 Partidul Social Democrat Organizatia Judeteana Valcea - vicepresedinte"
-      ]
+      ],
+      "nume": "BICĂ ANDRA",
+      "nume_norm": "ANDRA BICA"
     },
     {
       "institutie": "Senator Bică Andra",
@@ -381,7 +413,9 @@
         "1.1 Asociatia pentru educatie si",
         "3.1 Sindicatul Personalului din Invatamantul Preuniversitar - membru",
         "4.1 Partidul Social Democrat Organizatia Judeteana Valcea - vicepresedinte"
-      ]
+      ],
+      "nume": "BICA ANDRA",
+      "nume_norm": "ANDRA BICA"
     },
     {
       "institutie": "Senator Blaga Vasile",
@@ -396,7 +430,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Romexterra S.A. - Sectorul 2"
-      ]
+      ],
+      "nume": "BLAGA VASILE",
+      "nume_norm": "BLAGA VASILE"
     },
     {
       "institutie": "Senator Blaga Vasile",
@@ -411,7 +447,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Romexterra S.A. - Sectorul 2"
-      ]
+      ],
+      "nume": "BLAGA VASILE",
+      "nume_norm": "BLAGA VASILE"
     },
     {
       "institutie": "Senator Bochileanu George-Cătălin",
@@ -424,7 +462,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "BOCHILEANU GEORGE CĂTĂLIN",
+      "nume_norm": "BOCHILEANU CATALIN GEORGE"
     },
     {
       "institutie": "Senator Bolojan Ilie",
@@ -440,7 +480,9 @@
       "entitati": [
         "4.1 PARTIDUL NATIONAL LIBERAL FILIALA JUDETEANA BIHOR - PRESEDINTE",
         "4.2 PARTIDUL NATIONAL LIBERAL - PRESEDINTE INTERIMAR"
-      ]
+      ],
+      "nume": "BOLOJAN ILIE GAVRIL",
+      "nume_norm": "BOLOJAN GAVRIL ILIE"
     },
     {
       "institutie": "Senator Borțun Ștefan",
@@ -455,7 +497,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul E-Distributie - membru"
-      ]
+      ],
+      "nume": "BORTUN STEFAN",
+      "nume_norm": "BORTUN STEFAN"
     },
     {
       "institutie": "Senator Borțun Ștefan",
@@ -470,7 +514,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul E-Distributie - membru"
-      ]
+      ],
+      "nume": "BORTUN STEFAN",
+      "nume_norm": "BORTUN STEFAN"
     },
     {
       "institutie": "Senator Bota Gheorghe-Ioan",
@@ -486,7 +532,9 @@
       "entitati": [
         "4.1 Organizatia locala Comuna Rieni - Presedinte P.N.L",
         "4.2 Organizatia Judeteana P.N.L. Bihor - Vicepresedinte"
-      ]
+      ],
+      "nume": "BOTA GHEORGHE IOAN",
+      "nume_norm": "BOTA GHEORGHE IOAN"
     },
     {
       "institutie": "Senator Buzatu Oana-Constantina",
@@ -501,7 +549,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD Mehedinti - Membru Consiliul Politic Judetean"
-      ]
+      ],
+      "nume": "BUZATU OANA CONSTANTINA",
+      "nume_norm": "BUZATU CONSTANTINA OANA"
     },
     {
       "institutie": "Senator Buzatu Oana-Constantina",
@@ -516,7 +566,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD Mehedinti - Membru Consiliul Politic Judetean"
-      ]
+      ],
+      "nume": "BUZATU OANA CONSTANTINA",
+      "nume_norm": "BUZATU CONSTANTINA OANA"
     },
     {
       "institutie": "Senator Carp Ionel",
@@ -532,7 +584,9 @@
       "entitati": [
         "1.1 KRPENUTA SRL - Constanta",
         "1.2 EFREMINA SRL - Constanta"
-      ]
+      ],
+      "nume": "CARP IONEL",
+      "nume_norm": "CARP IONEL"
     },
     {
       "institutie": "Senator Cașcaval Dan",
@@ -545,7 +599,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CAȘCAVAL DAN",
+      "nume_norm": "CASCAVAL DAN"
     },
     {
       "institutie": "Senator Cașcaval Dan",
@@ -558,7 +614,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CASCAVAL DAN",
+      "nume_norm": "CASCAVAL DAN"
     },
     {
       "institutie": "Senator Catana Claudiu-Daniel",
@@ -573,7 +631,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 CLAROM CAPITAL SRL"
-      ]
+      ],
+      "nume": "CATANA CLAUDIU DANIEL",
+      "nume_norm": "CATANA CLAUDIU DANIEL"
     },
     {
       "institutie": "Senator Catana Claudiu-Daniel",
@@ -588,7 +648,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 CLAROM CAPITAL SRL"
-      ]
+      ],
+      "nume": "CATANA CLAUDIU DANIEL",
+      "nume_norm": "CATANA CLAUDIU DANIEL"
     },
     {
       "institutie": "Senator Cazanciuc Robert-Marius",
@@ -605,7 +667,9 @@
         "1.1 Fundatia Institutul",
         "3.1 Asociatia Procurorilor din Romania - membru",
         "4.2 Organizatia PSD Giurgiu - Prim-vicepresedinte"
-      ]
+      ],
+      "nume": "CAZANCIUC ROBERT MARIUS",
+      "nume_norm": "CAZANCIUC MARIUS ROBERT"
     },
     {
       "institutie": "Senator Cazanciuc Robert-Marius",
@@ -622,7 +686,9 @@
         "1.1 Fundatia Institutul",
         "3.1 Asociatia Procurorilor din Romania - membru",
         "4.2 Organizatia PSD Giurgiu - Prim-vicepresedinte"
-      ]
+      ],
+      "nume": "CAZANCIUC ROBERT MARIUS",
+      "nume_norm": "CAZANCIUC MARIUS ROBERT"
     },
     {
       "institutie": "Senator Cazanciuc Robert-Marius",
@@ -639,7 +705,9 @@
         "1.1 Fundatia Institutul",
         "3.1 Asociatia Procurorilor din Romania - membru",
         "4.2 Organizatia PSD Giurgiu - Prim-vicepresedinte"
-      ]
+      ],
+      "nume": "CAZANCIUC ROBERT MARIUS",
+      "nume_norm": "CAZANCIUC MARIUS ROBERT"
     },
     {
       "institutie": "Senator Cazanciuc Robert-Marius",
@@ -656,7 +724,9 @@
         "1.1 Fundatia Institutul",
         "3.1 Asociatia Procurorilor din Romania - membru",
         "4.2 Organizatia PSD Giurgiu - Prim-vicepresedinte"
-      ]
+      ],
+      "nume": "CAZANCIUC ROBERT MARIUS",
+      "nume_norm": "CAZANCIUC MARIUS ROBERT"
     },
     {
       "institutie": "Senator Cernic Sebastian",
@@ -674,7 +744,9 @@
         "4.2 Uniunea Salvati Romania Bacau - Vicepresedinte filiala judeteana Bacau",
         "4.3 Uniunea Salvati Romania Bacau - Presedinte interimar filiala locala Darmanes",
         "4.4 Uniunea Salvati Romania Bacau - Presedinte interimar filiala locala Oituz"
-      ]
+      ],
+      "nume": "CERNIC SEBASTIAN",
+      "nume_norm": "CERNIC SEBASTIAN"
     },
     {
       "institutie": "Senator Cernic Sebastian",
@@ -692,7 +764,9 @@
         "4.2 Uniunea Salvati Romania Bacau - Vicepresedinte filiala judeteana Bacau",
         "4.3 Uniunea Salvati Romania Bacau - Presedinte interimar filiala locala Darmanes",
         "4.4 Uniunea Salvati Romania Bacau - Presedinte interimar filiala locala Oituz"
-      ]
+      ],
+      "nume": "CERNIC SEBASTIAN",
+      "nume_norm": "CERNIC SEBASTIAN"
     },
     {
       "institutie": "Senator Cernic Sebastian",
@@ -710,7 +784,9 @@
         "4.2 Uniunea Salvati Romania Bacau - Vicepresedinte filiala judeteana Bacau",
         "4.3 Uniunea Salvati Romania Bacau - Presedinte interimar filiala locala Darmanes",
         "4.4 Uniunea Salvati Romania Bacau - Presedinte interimar filiala locala Oituz"
-      ]
+      ],
+      "nume": "CERNIC SEBASTIAN",
+      "nume_norm": "CERNIC SEBASTIAN"
     },
     {
       "institutie": "Senator Cerva Nadia-Cosmina",
@@ -723,7 +799,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CERVA NADIA COSMINA",
+      "nume_norm": "CERVA COSMINA NADIA"
     },
     {
       "institutie": "Senator Cibu Deaconu Ruxandra",
@@ -738,7 +816,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Uniunea Salvați România - Presedinte Filiala Judeteana Sibiu"
-      ]
+      ],
+      "nume": "CIBU DEACONU RUXANDRA",
+      "nume_norm": "CIBU DEACONU RUXANDRA"
     },
     {
       "institutie": "Senator Ciucă Nicolae-Ionel",
@@ -753,7 +833,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Național Liberal - Membru"
-      ]
+      ],
+      "nume": "CIUCA NICOLAE IONEL",
+      "nume_norm": "CIUCA IONEL NICOLAE"
     },
     {
       "institutie": "Senator Ciucă Nicolae-Ionel",
@@ -768,7 +850,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Național Liberal - Membru"
-      ]
+      ],
+      "nume": "CIUCA NICOLAE IONEL",
+      "nume_norm": "CIUCA IONEL NICOLAE"
     },
     {
       "institutie": "Senator Ciucă Nicolae-Ionel",
@@ -783,7 +867,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Național Liberal - Membru"
-      ]
+      ],
+      "nume": "CIUCA NICOLAE IONEL",
+      "nume_norm": "CIUCA IONEL NICOLAE"
     },
     {
       "institutie": "Senator Cîmpeanu Sorin-Mihai",
@@ -802,7 +888,9 @@
         "1.3 Fundația pentru Debirocratizarea",
         "3.5 Asociația MLNR - Membru",
         "4.1 Partidul Național Liberal - Vicepreședinte Educație și Cercetare"
-      ]
+      ],
+      "nume": "CIMPEANU SORIN MIHAI",
+      "nume_norm": "CIMPEANU MIHAI SORIN"
     },
     {
       "institutie": "Senator Cîmpeanu Sorin-Mihai",
@@ -821,7 +909,9 @@
         "1.3 Fundația pentru Debirocratizarea",
         "3.5 Asociația MLNR - Membru",
         "4.1 Partidul Național Liberal - Vicepreședinte Educație și Cercetare"
-      ]
+      ],
+      "nume": "CIMPEANU SORIN MIHAI",
+      "nume_norm": "CIMPEANU MIHAI SORIN"
     },
     {
       "institutie": "Senator Constantinescu Rodica",
@@ -836,7 +926,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Alianta pentru Unirea Romanilor - presedinte organizatia locala Tec"
-      ]
+      ],
+      "nume": "CONSTANTINESCU RODICA",
+      "nume_norm": "CONSTANTINESCU RODICA"
     },
     {
       "institutie": "Senator Corlăţean Titus",
@@ -855,7 +947,9 @@
         "1.2 Asociatia Romana de Drept",
         "1.4 Asociatia Romana de Filosofie a",
         "4.1 PSD Dambovita - Prim-vicepresedinte executiv neretribuit"
-      ]
+      ],
+      "nume": "CORLATEAN TITUS",
+      "nume_norm": "CORLATEAN TITUS"
     },
     {
       "institutie": "Senator Corlăţean Titus",
@@ -874,7 +968,9 @@
         "1.2 Asociatia Romana de Drept",
         "1.4 Asociatia Romana de Filosofie a",
         "4.1 PSD Dambovita - Prim-vicepresedinte executiv neretribuit"
-      ]
+      ],
+      "nume": "CORLATEAN TITUS",
+      "nume_norm": "CORLATEAN TITUS"
     },
     {
       "institutie": "Senator Corlăţean Titus",
@@ -893,7 +989,9 @@
         "1.2 Asociatia Romana de Drept",
         "1.4 Asociatia Romana de Filosofie a",
         "4.1 PSD Dambovita - Prim-vicepresedinte executiv neretribuit"
-      ]
+      ],
+      "nume": "CORLATEAN TITUS",
+      "nume_norm": "CORLATEAN TITUS"
     },
     {
       "institutie": "Senator Coșa Silviu-Iulian",
@@ -909,7 +1007,9 @@
       "entitati": [
         "4.1 Partidul National Liberal - Vicepresedinte regional",
         "4.2 Partidul National Liberal - Prim-vicepresedinte judetean"
-      ]
+      ],
+      "nume": "COSA SILVIU IULIAN",
+      "nume_norm": "COSA IULIAN SILVIU"
     },
     {
       "institutie": "Senator Coteț Mihai",
@@ -929,7 +1029,9 @@
         "1.3 LUBRICANTS TRADE AG SRL",
         "4.1 PARTIDUL NATIONAL LIBERAL ORGANIZATIA PITESTI - PRESEDINTE",
         "SRL - Maracineni Arges SAT Asociat 2500 Părţi sociale 25000 RON"
-      ]
+      ],
+      "nume": "COTET MIHAI",
+      "nume_norm": "COTET MIHAI"
     },
     {
       "institutie": "Senator Császár Károly Zsolt",
@@ -942,7 +1044,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CSASZAR KAROLY ZSOLT",
+      "nume_norm": "CSASZAR KAROLY ZSOLT"
     },
     {
       "institutie": "Senator Császár Károly Zsolt",
@@ -955,7 +1059,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CSASZAR KAROLY ZSOLT",
+      "nume_norm": "CSASZAR KAROLY ZSOLT"
     },
     {
       "institutie": "Senator Cseke Attila-Zoltan",
@@ -971,7 +1077,9 @@
       "entitati": [
         "1.1 Fundatia Culturala Varadinum",
         "1.2 Fundatia PARTIUM - Oradea"
-      ]
+      ],
+      "nume": "CSEKE ATTILA ZOLTAN",
+      "nume_norm": "ATTILA CSEKE ZOLTAN"
     },
     {
       "institutie": "Senator Cseke Attila-Zoltan",
@@ -987,7 +1095,9 @@
       "entitati": [
         "1.1 Fundatia Culturala Varadinum",
         "1.2 Fundatia PARTIUM - Oradea"
-      ]
+      ],
+      "nume": "CSEKE ATTILA ZOLTAN",
+      "nume_norm": "ATTILA CSEKE ZOLTAN"
     },
     {
       "institutie": "Senator Cseke Attila-Zoltan",
@@ -1003,7 +1113,9 @@
       "entitati": [
         "1.1 Fundatia Culturala Varadinum",
         "1.2 Fundatia PARTIUM - Oradea"
-      ]
+      ],
+      "nume": "CSEKE ATTILA ZOLTAN",
+      "nume_norm": "ATTILA CSEKE ZOLTAN"
     },
     {
       "institutie": "Senator Cușnir Rodica",
@@ -1018,7 +1130,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul S.O.S. Romania - presedinte organizatia judeteana Suceava"
-      ]
+      ],
+      "nume": "CUSNIR RODICA",
+      "nume_norm": "CUSNIR RODICA"
     },
     {
       "institutie": "Senator Cușnir Rodica",
@@ -1031,7 +1145,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 4500,
-      "entitati": []
+      "entitati": [],
+      "nume": "RODICA CUSNIR",
+      "nume_norm": "CUSNIR RODICA"
     },
     {
       "institutie": "Senator Darău Ambrozie-Irineu",
@@ -1046,7 +1162,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PARTIDUL UNIUNEA SALVAȚI ROMÂNIA - PREȘEDINTE FILIALĂ JUDEȚEANĂ BRAȘOV"
-      ]
+      ],
+      "nume": "DARAU AMBROZIE IRINEU",
+      "nume_norm": "AMBROZIE DARAU IRINEU"
     },
     {
       "institutie": "Senator Dîrlău Andrei-Emil",
@@ -1062,7 +1180,9 @@
       "entitati": [
         "1.1 Asociația Părintele Galeriu",
         "1.1 Asociația Părintele Galeriu organizație"
-      ]
+      ],
+      "nume": "DIRLAU ANDREI EMIL",
+      "nume_norm": "ANDREI DIRLAU EMIL"
     },
     {
       "institutie": "Senator Dîrlău Andrei-Emil",
@@ -1078,7 +1198,9 @@
       "entitati": [
         "1.1 Asociația Părintele Galeriu",
         "1.1 Asociația Părintele Galeriu organizație"
-      ]
+      ],
+      "nume": "DIRLAU ANDREI EMIL",
+      "nume_norm": "ANDREI DIRLAU EMIL"
     },
     {
       "institutie": "Senator Dîrlău Andrei-Emil",
@@ -1094,7 +1216,9 @@
       "entitati": [
         "1.1 Asociația Părintele Galeriu",
         "1.1 Asociația Părintele Galeriu organizație"
-      ]
+      ],
+      "nume": "DIRLAU ANDREI EMIL",
+      "nume_norm": "ANDREI DIRLAU EMIL"
     },
     {
       "institutie": "Senator Dobra Elena-Adelina",
@@ -1109,7 +1233,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 UNIUNEA SALVAȚI ROMÂNIA SECTOR 4 - MEMBRU BIROU LOCAL"
-      ]
+      ],
+      "nume": "DOBRA ELENA ADELINA",
+      "nume_norm": "ADELINA DOBRA ELENA"
     },
     {
       "institutie": "Senator Dogariu Eugen",
@@ -1124,7 +1250,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD Organizația Timiș - Prim vicepreședinte"
-      ]
+      ],
+      "nume": "DOGARIU EUGEN",
+      "nume_norm": "DOGARIU EUGEN"
     },
     {
       "institutie": "Senator Dogariu Eugen",
@@ -1139,7 +1267,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD Organizația Timiș - Prim vicepreședinte"
-      ]
+      ],
+      "nume": "DOGARIU EUGEN",
+      "nume_norm": "DOGARIU EUGEN"
     },
     {
       "institutie": "Senator Dumitrescu Cristina-Gabriella",
@@ -1152,7 +1282,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "DUMITRESCU CRISTINA GABRIELLA",
+      "nume_norm": "CRISTINA DUMITRESCU GABRIELLA"
     },
     {
       "institutie": "Senator Dunca Marius-Alexandru",
@@ -1167,7 +1299,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PARTIDUL SOCIAL DEMOCRAT-FILIALA BRASOV - PRESEDINTE"
-      ]
+      ],
+      "nume": "DUNCA MARIUS ALEXANDRU",
+      "nume_norm": "ALEXANDRU DUNCA MARIUS"
     },
     {
       "institutie": "Senator Dunca Marius-Alexandru",
@@ -1182,7 +1316,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PARTIDUL SOCIAL DEMOCRAT-FILIALA BRASOV - PRESEDINTE"
-      ]
+      ],
+      "nume": "DUNCA MARIUS ALEXANDRU",
+      "nume_norm": "ALEXANDRU DUNCA MARIUS"
     },
     {
       "institutie": "Senator Dunca Marius-Alexandru",
@@ -1197,7 +1333,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PARTIDUL SOCIAL DEMOCRAT-FILIALA BRASOV - PRESEDINTE"
-      ]
+      ],
+      "nume": "DUNCA MARIUS ALEXANDRU",
+      "nume_norm": "ALEXANDRU DUNCA MARIUS"
     },
     {
       "institutie": "Senator Federovici Doina-Elena",
@@ -1212,7 +1350,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat Organizatia Judeteana Botosani - Presedinte"
-      ]
+      ],
+      "nume": "FEDEROVICI DOINA ELENA",
+      "nume_norm": "DOINA ELENA FEDEROVICI"
     },
     {
       "institutie": "Senator Federovici Doina-Elena",
@@ -1227,7 +1367,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat Organizatia Judeteana Botosani - Presedinte"
-      ]
+      ],
+      "nume": "FEDEROVICI DOINA ELENA",
+      "nume_norm": "DOINA ELENA FEDEROVICI"
     },
     {
       "institutie": "Senator Fejér László-Ődőn",
@@ -1247,7 +1389,9 @@
         "CEC Bank SA",
         "Carpatgraf SRL CEC Bank SA",
         "Laser dt SRL Targu"
-      ]
+      ],
+      "nume": "FEJER LASZLO ODON",
+      "nume_norm": "FEJER LASZLO ODON"
     },
     {
       "institutie": "Senator Fejér László-Ődőn",
@@ -1267,7 +1411,9 @@
         "CEC Bank SA",
         "Carpatgraf SRL CEC Bank SA",
         "Laser dt SRL Targu"
-      ]
+      ],
+      "nume": "FEJER LASZLO ODON",
+      "nume_norm": "FEJER LASZLO ODON"
     },
     {
       "institutie": "Senator Fejér László-Ődőn",
@@ -1287,7 +1433,9 @@
         "CEC Bank SA",
         "Carpatgraf SRL CEC Bank SA",
         "Laser dt SRL Targu"
-      ]
+      ],
+      "nume": "FEJER LASZLO ODON",
+      "nume_norm": "FEJER LASZLO ODON"
     },
     {
       "institutie": "Senator Fenechiu Cătălin-Daniel",
@@ -1319,7 +1467,9 @@
         "Asociații Voievod Directa 10.10.2023 serviciilor 2500 RON",
         "Asociații Voievod Directa 21.03.2024 serviciilor 1000 RON",
         "Societatea Federatia"
-      ]
+      ],
+      "nume": "FENECHIU CATALIN DANIEL",
+      "nume_norm": "CATALIN DANIEL FENECHIU"
     },
     {
       "institutie": "Senator Fenechiu Cătălin-Daniel",
@@ -1351,7 +1501,9 @@
         "Asociații Voievod Directă 10.10.2023 serviciilor 2500 RON",
         "Asociații Voievod Directă 21.03.2024 serviciilor 1000 RON",
         "Societatea Federatia"
-      ]
+      ],
+      "nume": "FENECHIU CATALIN DANIEL",
+      "nume_norm": "CATALIN DANIEL FENECHIU"
     },
     {
       "institutie": "Senator Floroiu Ionel",
@@ -1366,7 +1518,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD Bacau - Prim vice-presedinte"
-      ]
+      ],
+      "nume": "FLOROIU IONEL",
+      "nume_norm": "FLOROIU IONEL"
     },
     {
       "institutie": "Senator Flutur Gheorghe",
@@ -1381,7 +1535,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PNL SUCEAVA - PRESEDINTE"
-      ]
+      ],
+      "nume": "FLUTUR GHEORGHE",
+      "nume_norm": "FLUTUR GHEORGHE"
     },
     {
       "institutie": "Senator Geamănu Ștefan",
@@ -1394,7 +1550,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "GEAMANU STEFAN",
+      "nume_norm": "GEAMANU STEFAN"
     },
     {
       "institutie": "Senator Gheorghe Daniel-Paul-Romeo",
@@ -1409,7 +1567,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul S.O.S Romania - Presedinte filiala sector 3"
-      ]
+      ],
+      "nume": "GHEORGHE DANIEL PAUL ROMEO",
+      "nume_norm": "DANIEL GHEORGHE PAUL ROMEO"
     },
     {
       "institutie": "Senator Ghinea Cristian",
@@ -1428,7 +1588,9 @@
         "4.1 UNIUNEA SALVAȚI ROMÂNIA - MEMBRU COMITET POLITIC",
         "CONSULTANCY S.R.L - Sectorul 1",
         "CONSULTANCY S.R.L - Sectorul 1 Bucuresti Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "GHINEA CRISTIAN",
+      "nume_norm": "CRISTIAN GHINEA"
     },
     {
       "institutie": "Senator Ghinea Cristian",
@@ -1446,7 +1608,9 @@
         "1.2 ASOCIATIA O TARA CA AFARA - Sectorul 1",
         "CONSULTANCY S.R.L - Sectorul 1",
         "CONSULTANCY S.R.L - Sectorul 1 Bucuresti Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "GHINEA CRISTIAN",
+      "nume_norm": "CRISTIAN GHINEA"
     },
     {
       "institutie": "Senator Graur Cătălin",
@@ -1461,7 +1625,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Sc Art Dent SRL - Focsani"
-      ]
+      ],
+      "nume": "GRAUR CATALIN",
+      "nume_norm": "CATALIN GRAUR"
     },
     {
       "institutie": "Senator Graur Cătălin",
@@ -1476,7 +1642,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Sc Art Dent SRL - Focsani"
-      ]
+      ],
+      "nume": "GRAUR CATALIN",
+      "nume_norm": "CATALIN GRAUR"
     },
     {
       "institutie": "Senator Horga Maria-Gabriela",
@@ -1508,7 +1676,9 @@
         "SRL cu simplificata",
         "acociat Decizie CNSC iluminat RON",
         "ruda gradul CNSC nr. si valoarea 3799056.11"
-      ]
+      ],
+      "nume": "HORGA MARIA GABRIELA",
+      "nume_norm": "GABRIELA HORGA MARIA"
     },
     {
       "institutie": "Senator Humelnicu Marius",
@@ -1524,7 +1694,9 @@
       "entitati": [
         "4.1 Partidul Social Democrat - PRIM-VICEPRESEDINTE ORGANIZATIA MUNICIPALA PSD GA",
         "4.2 Partidul Social Democrat - VICEPRESEDINTE ORGANIZATIA JUDETEANA PSD GALATI"
-      ]
+      ],
+      "nume": "HUMELNICU MARIUS",
+      "nume_norm": "HUMELNICU MARIUS"
     },
     {
       "institutie": "Senator Humelnicu Marius",
@@ -1539,7 +1711,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - PRIM-VICEPRESEDINTE ORGANIZATIA MUNICIPALA PSD GA"
-      ]
+      ],
+      "nume": "HUMELNICU MARIUS",
+      "nume_norm": "HUMELNICU MARIUS"
     },
     {
       "institutie": "Senator Humelnicu Marius",
@@ -1554,7 +1728,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - PRIM-VICEPRESEDINTE ORGANIZATIA MUNICIPALA PSD GA"
-      ]
+      ],
+      "nume": "HUMELNICU MARIUS",
+      "nume_norm": "HUMELNICU MARIUS"
     },
     {
       "institutie": "Senator Humelnicu Marius",
@@ -1569,7 +1745,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - PRIM-VICEPRESEDINTE ORGANIZATIA MUNICIPALA PSD GA"
-      ]
+      ],
+      "nume": "HUMELNICU MARIUS",
+      "nume_norm": "HUMELNICU MARIUS"
     },
     {
       "institutie": "Senator Jianu Florin-Nicolae",
@@ -1586,7 +1764,9 @@
         "1.2 GREEN GAMMA VOLT SRL",
         "4.1 PSD - Vicepresedinte",
         "RESEARCH UNIT SRL - Sectorul 2 Acţionar 50 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "JIANU FLORIN NICOLAE",
+      "nume_norm": "FLORIN JIANU NICOLAE"
     },
     {
       "institutie": "Senator Jitaru Ovidiu",
@@ -1636,7 +1816,9 @@
         "srl Sectorul 2 - primaria",
         "termoficare sa",
         "termoficare sa prestari"
-      ]
+      ],
+      "nume": "JITARU OVIDIU",
+      "nume_norm": "JITARU OVIDIU"
     },
     {
       "institutie": "Senator Kondor Ágota",
@@ -1656,7 +1838,9 @@
         "1.3 Asociatia PRO CIVITATE",
         "1.4 Asociatia KIWANIS - Sfantu",
         "3.3 Asociatia Supervizorilor din Ungaria - membru"
-      ]
+      ],
+      "nume": "KONDOR AGOTA",
+      "nume_norm": "AGOTA KONDOR"
     },
     {
       "institutie": "Senator Kovács Maté",
@@ -1674,7 +1858,9 @@
         "1.2 Kekec Satu Mare Cooperativa",
         "1.3 SC Porcinvest SRL - Moftinu Mic",
         "1.4 Cooperativa Agricola"
-      ]
+      ],
+      "nume": "KOVACS MATE",
+      "nume_norm": "KOVACS MATE"
     },
     {
       "institutie": "Senator Lavric Sorin",
@@ -1692,7 +1878,9 @@
         "1.2 Asociația Rost - Sectorul 6",
         "Fundația",
         "Z14, sc. 1, ap. 28"
-      ]
+      ],
+      "nume": "LAVRIC SORIN",
+      "nume_norm": "LAVRIC SORIN"
     },
     {
       "institutie": "Senator Lavric Sorin",
@@ -1710,7 +1898,9 @@
         "1.2 Asociația Rost - Sectorul 6",
         "Fundația",
         "Z14, sc. 1, ap. 28"
-      ]
+      ],
+      "nume": "LAVRIC SORIN",
+      "nume_norm": "LAVRIC SORIN"
     },
     {
       "institutie": "Senator Manea Dumitru",
@@ -1726,7 +1916,9 @@
       "entitati": [
         "3.1 Uniunea Ziariștilor Profesioniști din România - membru",
         "3.2 Uniunea Autorilor și Realizatorilor de Film - membru"
-      ]
+      ],
+      "nume": "MANEA DUMITRU",
+      "nume_norm": "DUMITRU MANEA"
     },
     {
       "institutie": "Senator Marian Călin-Petru",
@@ -1742,7 +1934,9 @@
       "entitati": [
         "1.1 Alcaal SRL - Criscior",
         "1.2 VICTOR MARIO CARWASH SRL"
-      ]
+      ],
+      "nume": "MARIAN CALIN PETRU",
+      "nume_norm": "CALIN MARIAN PETRU"
     },
     {
       "institutie": "Senator Marian Călin-Petru",
@@ -1758,7 +1952,9 @@
       "entitati": [
         "1.1 Alcaal SRL - Criscior",
         "1.2 VICTOR MARIO CARWASH SRL"
-      ]
+      ],
+      "nume": "MARIAN CALIN PETRU",
+      "nume_norm": "CALIN MARIAN PETRU"
     },
     {
       "institutie": "Senator Mazilu Liviu-Lucian",
@@ -1771,7 +1967,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MAZILU LIVIU LUCIAN",
+      "nume_norm": "LIVIU LUCIAN MAZILU"
     },
     {
       "institutie": "Senator Mazilu Liviu-Lucian",
@@ -1784,7 +1982,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MAZILU LIVIU LUCIAN",
+      "nume_norm": "LIVIU LUCIAN MAZILU"
     },
     {
       "institutie": "Senator Mazilu Liviu-Lucian",
@@ -1797,7 +1997,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MAZILU LIVIU LUCIAN",
+      "nume_norm": "LIVIU LUCIAN MAZILU"
     },
     {
       "institutie": "Senator Mălăiescu Luca",
@@ -1814,7 +2016,9 @@
         "1.1 SC MBC RAPID OPTIVAL",
         "1.2 SC OBELAND SARBU SRL",
         "CONSTRUCT SRL - Resita Caras- Asociat 25 Părţi sociale 50 RON"
-      ]
+      ],
+      "nume": "MALAIESCU LUCA",
+      "nume_norm": "LUCA MALAIESCU"
     },
     {
       "institutie": "Senator Mărginean Lucian",
@@ -1827,7 +2031,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MĂRGINEAN LUCIAN",
+      "nume_norm": "LUCIAN MARGINEAN"
     },
     {
       "institutie": "Senator Mircescu Ion-Narcis",
@@ -1842,7 +2048,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Uniunea Salvati Romania Filiala Arges - Presedinte"
-      ]
+      ],
+      "nume": "MIRCESCU ION NARCIS",
+      "nume_norm": "ION MIRCESCU NARCIS"
     },
     {
       "institutie": "Senator Mircescu Ion-Narcis",
@@ -1857,7 +2065,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Uniunea Salvati Romania Filiala Arges - Presedinte"
-      ]
+      ],
+      "nume": "MIRCESCU ION NARCIS",
+      "nume_norm": "ION MIRCESCU NARCIS"
     },
     {
       "institutie": "Senator Mircescu Ion-Narcis",
@@ -1872,7 +2082,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Uniunea Salvati Romania Filiala Arges - Presedinte"
-      ]
+      ],
+      "nume": "MIRCESCU ION NARCIS",
+      "nume_norm": "ION MIRCESCU NARCIS"
     },
     {
       "institutie": "Senator Mîndru Cătălin-Emil",
@@ -1888,7 +2100,9 @@
       "entitati": [
         "1.1 Asociatia Club Sportiv Activ",
         "4.1 Partidul Uniunea Salvati Romania - Membru al Biroului Județean Vaslui"
-      ]
+      ],
+      "nume": "MINDRU CATALIN EMIL",
+      "nume_norm": "CATALIN EMIL MINDRU"
     },
     {
       "institutie": "Senator Mîndru Cătălin-Emil",
@@ -1904,7 +2118,9 @@
       "entitati": [
         "1.1 Asociatia Club Sportiv Activ",
         "4.1 Partidul Uniunea Salvati Romania - Presedinte filiala municipiul Vaslui"
-      ]
+      ],
+      "nume": "MINDRU CATALIN EMIL",
+      "nume_norm": "CATALIN EMIL MINDRU"
     },
     {
       "institutie": "Senator Mohan Aurel-George",
@@ -1921,7 +2137,9 @@
         "1.1 ASOCIATIA",
         "4.1 PSD ORADEA BIHOR - PRESEDINTE",
         "NEUROCHIRURGIE SRL - Oradea Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "MOHAN AUREL GEORGE",
+      "nume_norm": "AUREL GEORGE MOHAN"
     },
     {
       "institutie": "Senator Mohan Aurel-George",
@@ -1938,7 +2156,9 @@
         "1.1 ASOCIATIA",
         "4.1 PSD ORADEA BIHOR - PRESEDINTE",
         "NEUROCHIRURGIE SRL - Oradea Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "MOHAN AUREL GEORGE",
+      "nume_norm": "AUREL GEORGE MOHAN"
     },
     {
       "institutie": "Senator Moise Sorin",
@@ -1957,7 +2177,9 @@
         "4.1 PSD Braila - Vicepresedinte",
         "ENERGY SRL - Braila Braila Asociat 14 Părţi sociale 140 RON",
         "SRL - Braila Braila STR Asociat 14 Părţi sociale 140 RON"
-      ]
+      ],
+      "nume": "MOISE SORIN",
+      "nume_norm": "MOISE SORIN"
     },
     {
       "institutie": "Senator Neagu Nicolae",
@@ -1972,7 +2194,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Birou Politic Judetean PNL Sibiu - Secretar General"
-      ]
+      ],
+      "nume": "NEAGU NICOLAE",
+      "nume_norm": "NEAGU NICOLAE"
     },
     {
       "institutie": "Senator Neagu Nicolae",
@@ -1987,7 +2211,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Birou Politic Judetean PNL Sibiu - Secretar General"
-      ]
+      ],
+      "nume": "NEAGU NICOLAE",
+      "nume_norm": "NEAGU NICOLAE"
     },
     {
       "institutie": "Senator Negoi Eugen-Remus",
@@ -2000,7 +2226,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "NEGOI EUGEN REMUS",
+      "nume_norm": "EUGEN NEGOI REMUS"
     },
     {
       "institutie": "Senator Negoi Eugen-Remus",
@@ -2013,7 +2241,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "NEGOI EUGEN REMUS",
+      "nume_norm": "EUGEN NEGOI REMUS"
     },
     {
       "institutie": "Senator Negru Corneliu",
@@ -2032,7 +2262,9 @@
         "ROMANIA SRL PRIN SEAP CADRU",
         "SC TRUST SC URBIS",
         "SRL - Tulnici Vrancea Asociat 100 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "NEGRU CORNELIU",
+      "nume_norm": "CORNELIU NEGRU"
     },
     {
       "institutie": "Senator Nicula Mircea-Cristian",
@@ -2047,7 +2279,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Esentza Robotics SRL"
-      ]
+      ],
+      "nume": "NICULA MIRCEA CRISTIAN",
+      "nume_norm": "CRISTIAN MIRCEA NICULA"
     },
     {
       "institutie": "Senator Niculescu-Ţâgârlaş Cristian-Augustin",
@@ -2060,7 +2294,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "NICULESCU TAGARLAS CRISTIAN AUGUSTIN",
+      "nume_norm": "AUGUSTIN CRISTIAN NICULESCU TAGARLAS"
     },
     {
       "institutie": "Senator Novak Levente",
@@ -2076,7 +2312,9 @@
       "entitati": [
         "1.1 Fundatia Pro Economica",
         "1.1 Fundația Pro Economica"
-      ]
+      ],
+      "nume": "NOVAK LEVENTE",
+      "nume_norm": "LEVENTE NOVAK"
     },
     {
       "institutie": "Senator Novak Levente",
@@ -2092,7 +2330,9 @@
       "entitati": [
         "1.1 Fundatia Pro Economica",
         "1.1 Fundația Pro Economica"
-      ]
+      ],
+      "nume": "NOVAK LEVENTE",
+      "nume_norm": "LEVENTE NOVAK"
     },
     {
       "institutie": "Senator Onea Olga",
@@ -2109,7 +2349,9 @@
         "1.1 SC EURO STARCLEAN SRL - Galati",
         "1.2 Asociatia culturala si pentru",
         "4.1 Partidul S.O.S. Romania - Presedinte Organizatia Judeteana Galati"
-      ]
+      ],
+      "nume": "ONEA OLGA",
+      "nume_norm": "OLGA ONEA"
     },
     {
       "institutie": "Senator Oprea Ştefan-Radu",
@@ -2125,7 +2367,9 @@
       "entitati": [
         "1.1 City Imobiliar SRL",
         "4.1 PSD Prahova - Membru CPN"
-      ]
+      ],
+      "nume": "OPREA STEFAN RADU",
+      "nume_norm": "OPREA RADU STEFAN"
     },
     {
       "institutie": "Senator Oprinoiu Aurel",
@@ -2141,7 +2385,9 @@
       "entitati": [
         "1.2 SC Profitech Smart",
         "Integration SRL - Strejnicu Acţionar 100 Acţiuni 200 RON"
-      ]
+      ],
+      "nume": "OPRINOIU AUREL",
+      "nume_norm": "AUREL OPRINOIU"
     },
     {
       "institutie": "Senator Oprinoiu Aurel",
@@ -2157,7 +2403,9 @@
       "entitati": [
         "1.2 SC Profitech Smart",
         "Integration SRL - Strejnicu Acţionar 100 Acţiuni 200 RON"
-      ]
+      ],
+      "nume": "OPRINOIU AUREL",
+      "nume_norm": "AUREL OPRINOIU"
     },
     {
       "institutie": "Senator Orban Carmen",
@@ -2179,7 +2427,9 @@
         "1.6 SIF4 Longshield Investments Alliance SA",
         "1.7 INFINITY Infinity Capital Investments SA",
         "SA - Brasov Brasov Str Nicolae Iorga nr 2"
-      ]
+      ],
+      "nume": "ORBAN CARMEN",
+      "nume_norm": "CARMEN ORBAN"
     },
     {
       "institutie": "Senator Parasca Teofil",
@@ -2192,7 +2442,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "PARASCA TEOFIL",
+      "nume_norm": "PARASCA TEOFIL"
     },
     {
       "institutie": "Senator Parasca Teofil",
@@ -2205,7 +2457,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "PARASCA TEOFIL",
+      "nume_norm": "PARASCA TEOFIL"
     },
     {
       "institutie": "Senator Pauliuc Nicoleta",
@@ -2226,7 +2480,9 @@
         "4.1 PARTIDUL NATIONAL LIBERAL - MEMBRU BEX",
         "4.2 ORGANIZATIA FEMEILOR LIBERALE PNL - PRESEDINTE",
         "4.4 BIROU POLITIC NATIONAL PNL - MEMBRU"
-      ]
+      ],
+      "nume": "PAULIUC NICOLETA",
+      "nume_norm": "NICOLETA PAULIUC"
     },
     {
       "institutie": "Senator Pauliuc Nicoleta",
@@ -2247,7 +2503,9 @@
         "4.1 PARTIDUL NATIONAL LIBERAL - MEMBRU BEX",
         "4.2 ORGANIZATIA FEMEILOR LIBERALE PNL - PRESEDINTE",
         "4.4 BIROU POLITIC NATIONAL PNL - MEMBRU"
-      ]
+      ],
+      "nume": "PAULIUC NICOLETA",
+      "nume_norm": "NICOLETA PAULIUC"
     },
     {
       "institutie": "Senator Păduraru Răducu-Adrian",
@@ -2262,7 +2520,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Organizația Județeană P.S.D. Neamț - Vicepreședinte"
-      ]
+      ],
+      "nume": "PĂDURARU RĂDUCU ADRIAN",
+      "nume_norm": "ADRIAN PADURARU RADUCU"
     },
     {
       "institutie": "Senator Pălărie Ștefan",
@@ -2278,7 +2538,9 @@
       "entitati": [
         "1.1 SC ENLARGED HORIZON SRL",
         "4.1 PARTIDUL UNIUNEA SALVATI ROMANIA - Vicepresedinte Birou Municipal București"
-      ]
+      ],
+      "nume": "PALARIE ȘTEFAN",
+      "nume_norm": "PALARIE STEFAN"
     },
     {
       "institutie": "Senator Pălărie Ștefan",
@@ -2294,7 +2556,9 @@
       "entitati": [
         "1.1 SC ENLARGED HORIZON SRL",
         "4.1 PARTIDUL UNIUNEA SALVATI ROMANIA - Vicepresedinte Birou Municipal București"
-      ]
+      ],
+      "nume": "PĂLĂRIE ȘTEFAN",
+      "nume_norm": "PALARIE STEFAN"
     },
     {
       "institutie": "Senator Păsculescu Veta",
@@ -2310,7 +2574,9 @@
       "entitati": [
         "4.1 PNL DABULENI - PRESEDINTE",
         "4.2 PNL DOLJ - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "PĂSCULESCU VETA",
+      "nume_norm": "PASCULESCU VETA"
     },
     {
       "institutie": "Senator Păsculescu Veta",
@@ -2326,7 +2592,9 @@
       "entitati": [
         "4.1 PNL DABULENI - PRESEDINTE",
         "4.2 PNL DOLJ - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "PASCULESCU VETA",
+      "nume_norm": "PASCULESCU VETA"
     },
     {
       "institutie": "Senator Păucean-Fernandes Luminița",
@@ -2341,7 +2609,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Vilum S.R.L - Feisa"
-      ]
+      ],
+      "nume": "PAUCEAN FERNANDES LUMINITA",
+      "nume_norm": "FERNANDES LUMINITA PAUCEAN"
     },
     {
       "institutie": "Senator Păun Ana-Cynthia-Ioana",
@@ -2354,7 +2624,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 2232,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "PAUN ANA CYNTHIA IOANA",
+      "nume_norm": "ANA CYNTHIA IOANA PAUN"
     },
     {
       "institutie": "Senator Păun Ana-Cynthia-Ioana",
@@ -2369,7 +2641,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Uniunea Salvati Romania Filiala Popesti-Leordeni - Presedinte filiala"
-      ]
+      ],
+      "nume": "PAUN ANA CYNTHIA IOANA",
+      "nume_norm": "ANA CYNTHIA IOANA PAUN"
     },
     {
       "institutie": "Senator Peia Ninel",
@@ -2387,7 +2661,9 @@
         "1.2 SC Bestpress SRL",
         "3.1 Fundatia Colegiul National de Afaceri Interne - Membru Fondator",
         "3.2 Asociatia Junior Star - Membru Fondator"
-      ]
+      ],
+      "nume": "PEIA NINEL",
+      "nume_norm": "NINEL PEIA"
     },
     {
       "institutie": "Senator Peiu Grigore-Adrian",
@@ -2403,7 +2679,9 @@
       "entitati": [
         "1.1 PFA Peiu Grigore Adrian",
         "4.1 Partidul S.O.S. Romania - Președinte filiala Ialomița"
-      ]
+      ],
+      "nume": "PEIU GRIGORE ADRIAN",
+      "nume_norm": "ADRIAN GRIGORE PEIU"
     },
     {
       "institutie": "Senator Peiu Petrișor-Gabriel",
@@ -2440,7 +2718,9 @@
         "1.7 ELECTRICA S.A. - Sectorul 1",
         "1.8 Fondul Proprietatea S.A.",
         "1.9 SPEEH Hidroelectrica S.A."
-      ]
+      ],
+      "nume": "PEIU PETRIȘOR GABRIEL",
+      "nume_norm": "GABRIEL PEIU PETRISOR"
     },
     {
       "institutie": "Senator Petre George-Cezar",
@@ -2459,7 +2739,9 @@
         "1.3 Vinci Construct AC SRL",
         "Corporation SA - Tunari Ilfov Acţionar 211110 Acţiuni 21111 RON",
         "SRL Sectorul 3"
-      ]
+      ],
+      "nume": "PETRE GEORGE CEZAR",
+      "nume_norm": "CEZAR GEORGE PETRE"
     },
     {
       "institutie": "Senator Petre George-Cezar",
@@ -2478,7 +2760,9 @@
         "1.3 Vinci Construct AC SRL",
         "Corporation SA - Tunari Ilfov Acţionar 211110 Acţiuni 21111 RON",
         "SRL Sectorul 3"
-      ]
+      ],
+      "nume": "PETRE GEORGE CEZAR",
+      "nume_norm": "CEZAR GEORGE PETRE"
     },
     {
       "institutie": "Senator Petre George-Cezar",
@@ -2497,7 +2781,9 @@
         "1.3 Vinci Construct AC SRL",
         "Concept SRL",
         "Corporation SA - Tunari Ilfov Acţionar 295010 Acţiuni 29501 RON"
-      ]
+      ],
+      "nume": "PETRE GEORGE CEZAR",
+      "nume_norm": "CEZAR GEORGE PETRE"
     },
     {
       "institutie": "Senator Plăeșu Laurențiu",
@@ -2512,7 +2798,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Fundația Națională pentru"
-      ]
+      ],
+      "nume": "PLAESU LAURENȚIU",
+      "nume_norm": "LAURENTIU PLAESU"
     },
     {
       "institutie": "Senator Potecă Vasilică",
@@ -2528,7 +2816,9 @@
       "entitati": [
         "1.1 ARDEN TEXTIL SRL",
         "4.1 Biroul Politic Județean Partidul Alianta pentru Unirea Românilor - Secretar "
-      ]
+      ],
+      "nume": "POTECĂ VASILICĂ",
+      "nume_norm": "POTECA VASILICA"
     },
     {
       "institutie": "Senator Potecă Vasilică",
@@ -2544,7 +2834,9 @@
       "entitati": [
         "1.1 ARDEN TEXTIL SRL",
         "4.1 Biroul Politic Județean Partidul Alianta pentru Unirea Românilor - Secretar "
-      ]
+      ],
+      "nume": "POTECA VASILICA",
+      "nume_norm": "POTECA VASILICA"
     },
     {
       "institutie": "Senator Potecă Vasilică",
@@ -2560,7 +2852,9 @@
       "entitati": [
         "1.1 ARDEN TEXTIL SRL",
         "4.1 Biroul Politic Județean Partidul Alianta pentru Unirea Românilor - Secretar "
-      ]
+      ],
+      "nume": "POTECA VASILICA",
+      "nume_norm": "POTECA VASILICA"
     },
     {
       "institutie": "Senator Predoiu Marian-Cătălin",
@@ -2576,7 +2870,9 @@
       "entitati": [
         "1.1 QIIZE.COM SRL",
         "3.3 Uniunea Nationala a Barourilor din Romania - suspendat"
-      ]
+      ],
+      "nume": "PREDOIU MARIAN CĂTĂLIN",
+      "nume_norm": "CATALIN MARIAN PREDOIU"
     },
     {
       "institutie": "Senator Presură Alexandra",
@@ -2592,7 +2888,9 @@
       "entitati": [
         "4.1 Partidul Social Democrat Dolj - Vicepreședinte",
         "4.2 Partidul Social Democrat Dolj Organizatia femeilor social democrate - Președ"
-      ]
+      ],
+      "nume": "PRESURA ALEXANDRA",
+      "nume_norm": "ALEXANDRA PRESURA"
     },
     {
       "institutie": "Senator Puiu Ovidiu",
@@ -2610,7 +2908,9 @@
         "4.1 PSD - Vicepresedinte PSD Municipiul Pitesti",
         "4.2 PSD - Vicepresedinte PSD Judetul Arges",
         "4.3 PSD - Coordonator al Departamentului pentru Buget Finante al PSD Arges"
-      ]
+      ],
+      "nume": "PUIU OVIDIU",
+      "nume_norm": "OVIDIU PUIU"
     },
     {
       "institutie": "Senator Puiu Ovidiu",
@@ -2628,7 +2928,9 @@
         "4.1 PSD - Vicepresedinte PSD Municipiul Pitesti",
         "4.2 PSD - Vicepresedinte PSD Judetul Arges",
         "4.3 PSD - Coordonator al Departamentului pentru Buget Finante al PSD Arges"
-      ]
+      ],
+      "nume": "PUIU OVIDIU",
+      "nume_norm": "OVIDIU PUIU"
     },
     {
       "institutie": "Senator Puiu Ovidiu",
@@ -2646,7 +2948,9 @@
         "4.1 PSD - Vicepresedinte PSD Municipiul Pitesti",
         "4.2 PSD - Vicepresedinte PSD Judetul Arges",
         "4.3 PSD - Coordonator al Departamentului pentru Buget Finante al PSD Arges"
-      ]
+      ],
+      "nume": "PUIU OVIDIU",
+      "nume_norm": "OVIDIU PUIU"
     },
     {
       "institutie": "Senator Răcuci Claudiu-Vasile",
@@ -2662,7 +2966,9 @@
       "entitati": [
         "1.1 ASOCIATIA",
         "4.1 PNL ALBA - MEMBRU BIROU PERMANENT JUDETEAN"
-      ]
+      ],
+      "nume": "RACUCI CLAUDIU VASILE",
+      "nume_norm": "CLAUDIU RACUCI VASILE"
     },
     {
       "institutie": "Senator Răcuci Claudiu-Vasile",
@@ -2678,7 +2984,9 @@
       "entitati": [
         "1.1 ASOCIATIA",
         "4.1 PNL ALBA - MEMBRU BIROU PERMANENT JUDETEAN"
-      ]
+      ],
+      "nume": "RACUCI CLAUDIU VASILE",
+      "nume_norm": "CLAUDIU RACUCI VASILE"
     },
     {
       "institutie": "Senator Resmeriţă Cornel-Cristian",
@@ -2696,7 +3004,9 @@
         "4.1 PARTIDUL SOCIAL DEMOCRAT ORGANIZATIA JUDETEANA HUNEDOARA - PREȘEDINTE EXECUT",
         "4.2 PARTIDUL SOCIAL DEMOCRAT ORGANIZATIA LUPENI - PREȘEDINTE",
         "SRL - Lupeni Hunedoara BLD. Asociat 10 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "RESMERIȚĂ CORNEL CRISTIAN",
+      "nume_norm": "CORNEL CRISTIAN RESMERITA"
     },
     {
       "institutie": "Senator Resmeriţă Cornel-Cristian",
@@ -2714,7 +3024,9 @@
         "4.1 PARTIDUL SOCIAL DEMOCRAT ORGANIZATIA JUDETEANA - PREȘEDINTE EXECUTIV",
         "4.2 PARTIDUL SOCIAL DEMOCRAT ORGANIZATIA LUPENI - PREȘEDINTE",
         "SRL - Lupeni Hunedoara BLD. Asociat 10 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "RESMERIȚĂ CORNEL CRISTIAN",
+      "nume_norm": "CORNEL CRISTIAN RESMERITA"
     },
     {
       "institutie": "Senator Resmeriţă Cornel-Cristian",
@@ -2732,7 +3044,9 @@
         "4.1 PARTIDUL SOCIAL DEMOCRAT ORGANIZATIA JUDETEANA - PREȘEDINTE EXECUTIV",
         "4.2 PARTIDUL SOCIAL DEMOCRAT ORGANIZATIA LUPENI - PREȘEDINTE",
         "SRL - Lupeni Hunedoara BLD. Asociat 10 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "RESMERIȚĂ CORNEL CRISTIAN",
+      "nume_norm": "CORNEL CRISTIAN RESMERITA"
     },
     {
       "institutie": "Senator Roman Marius-Valentin",
@@ -2748,7 +3062,9 @@
       "entitati": [
         "1.1 Asociatia Vatra Daciei",
         "4.1 Partidul Alianta Pentru Unirea Romanilor - Coordonator filiala judeteana Buz"
-      ]
+      ],
+      "nume": "ROMAN MARIUS VALENTIN",
+      "nume_norm": "MARIUS ROMAN VALENTIN"
     },
     {
       "institutie": "Senator Rujan Ion-Cristinel",
@@ -2764,7 +3080,9 @@
       "entitati": [
         "3.2 Uniunea Juristilor din Romania-Filiala Gorj - Membru",
         "4.1 PSD Gorj - Vicepresedinte"
-      ]
+      ],
+      "nume": "RUJAN ION CRISTINEL",
+      "nume_norm": "CRISTINEL ION RUJAN"
     },
     {
       "institutie": "Senator Rujan Ion-Cristinel",
@@ -2780,7 +3098,9 @@
       "entitati": [
         "3.2 Uniunea Juristilor din Romania-Filiala Gorj - Membru",
         "4.1 PSD Gorj - Vicepresedinte"
-      ]
+      ],
+      "nume": "RUJAN ION CRISTINEL",
+      "nume_norm": "CRISTINEL ION RUJAN"
     },
     {
       "institutie": "Senator Rujan Ion-Cristinel",
@@ -2796,7 +3116,9 @@
       "entitati": [
         "3.2 Uniunea Juristilor din Romania-Filiala Gorj - Membru",
         "4.1 PSD Gorj - Vicepresedinte"
-      ]
+      ],
+      "nume": "RUJAN ION CRISTINEL",
+      "nume_norm": "CRISTINEL ION RUJAN"
     },
     {
       "institutie": "Senator Rus Vasile-Ciprian",
@@ -2811,7 +3133,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Uniunea Salvați România Filiala Cluj - vicepreședinte"
-      ]
+      ],
+      "nume": "RUS VASILE CIPRIAN",
+      "nume_norm": "CIPRIAN RUS VASILE"
     },
     {
       "institutie": "Senator Rusu Ioan-Cristian",
@@ -2827,7 +3151,9 @@
       "entitati": [
         "1.2 MT LABORATORIES SRL",
         "SRL - Popesti Leordeni Ilfov STR. Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "RUSU IOAN CRISTIAN",
+      "nume_norm": "CRISTIAN IOAN RUSU"
     },
     {
       "institutie": "Senator Rusu Petrică Lucian",
@@ -2846,7 +3172,9 @@
         "4.2 Partidul National Liberal - Secretar Executiv",
         "Conexe S.A. - Sectorul 1 Bucuresti 28572 RON",
         "Navigabile S.A. - Agigea Administratie"
-      ]
+      ],
+      "nume": "RUSU PETRICA LUCIAN",
+      "nume_norm": "LUCIAN PETRICA RUSU"
     },
     {
       "institutie": "Senator Sandu Mircea-Ionuț",
@@ -2863,7 +3191,9 @@
         "1.1 SC PHOENIX SAM SRL - Tunari",
         "1.2 SC DESIGN AND BUILD",
         "CORPORATION S.A. - Tunari Ilfov Acţionar 211110 Acţiuni 21111 RON"
-      ]
+      ],
+      "nume": "SANDU MIRCEA IONUȚ",
+      "nume_norm": "IONUT MIRCEA SANDU"
     },
     {
       "institutie": "Senator Sandu Mircea-Ionuț",
@@ -2880,7 +3210,9 @@
         "1.1 SC PHOENIX SAM SRL - Tunari",
         "1.2 SC DESIGN AND BUILD",
         "CORPORATION S.A. - Tunari Ilfov Acţionar 211110 Acţiuni 21111 RON"
-      ]
+      ],
+      "nume": "SANDU MIRCEA IONUT",
+      "nume_norm": "IONUT MIRCEA SANDU"
     },
     {
       "institutie": "Senator Sava Clement",
@@ -2900,7 +3232,9 @@
         "1.2 Deep Sight Consulting SRL - Constanta",
         "Consulting SRL",
         "P2, sc. A, ap. 1,"
-      ]
+      ],
+      "nume": "SAVA CLEMENT",
+      "nume_norm": "CLEMENT SAVA"
     },
     {
       "institutie": "Senator Sava Clement",
@@ -2913,7 +3247,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "SAVA CLEMENT",
+      "nume_norm": "CLEMENT SAVA"
     },
     {
       "institutie": "Senator Silegeanu Cătălin",
@@ -2930,7 +3266,9 @@
         "1.1 HIDROPLASTO SRL - Mihai Eminescu",
         "1.2 Roplasto Window Center Srl - Mihai",
         "1.3 Besaconstruction Company Srl"
-      ]
+      ],
+      "nume": "SILEGEANU CĂTĂLIN",
+      "nume_norm": "CATALIN SILEGEANU"
     },
     {
       "institutie": "Senator Spau Dumitru",
@@ -2943,7 +3281,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "SPAU DUMITRU",
+      "nume_norm": "DUMITRU SPAU"
     },
     {
       "institutie": "Senator Spau Dumitru",
@@ -2956,7 +3296,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "SPAU DUMITRU",
+      "nume_norm": "DUMITRU SPAU"
     },
     {
       "institutie": "Senator Spătaru Elena-Simona",
@@ -2972,7 +3314,9 @@
       "entitati": [
         "4.1 Biroul Municipal Bucuresti USR - membru",
         "4.2 Biroul Local Sector 4 USR - membru și presedinte"
-      ]
+      ],
+      "nume": "SPATARU ELENA SIMONA",
+      "nume_norm": "ELENA SIMONA SPATARU"
     },
     {
       "institutie": "Senator Spătaru Elena-Simona",
@@ -2988,7 +3332,9 @@
       "entitati": [
         "4.1 Biroul Municipal Bucuresti USR - membru",
         "4.2 Biroul Local Sector 4 USR - membru și presedinte"
-      ]
+      ],
+      "nume": "SPATARU ELENA SIMONA",
+      "nume_norm": "ELENA SIMONA SPATARU"
     },
     {
       "institutie": "Senator Stan Ioan",
@@ -3004,7 +3350,9 @@
       "entitati": [
         "1.1 Fundatia Armonia - Suceava",
         "4.1 Consiliul National al PSD - Membru"
-      ]
+      ],
+      "nume": "STAN IOAN",
+      "nume_norm": "IOAN STAN"
     },
     {
       "institutie": "Senator Stan Ioan",
@@ -3020,7 +3368,9 @@
       "entitati": [
         "1.1 Fundatia Armonia - Suceava",
         "4.1 Consiliul National al PSD - Membru"
-      ]
+      ],
+      "nume": "STAN IOAN",
+      "nume_norm": "IOAN STAN"
     },
     {
       "institutie": "Senator Stan Ioan",
@@ -3036,7 +3386,9 @@
       "entitati": [
         "1.1 Fundatia Armonia - Suceava",
         "4.1 Consiliul National al PSD - Membru"
-      ]
+      ],
+      "nume": "STAN IOAN",
+      "nume_norm": "IOAN STAN"
     },
     {
       "institutie": "Senator Stănescu Paul",
@@ -3051,7 +3403,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - Secretar General"
-      ]
+      ],
+      "nume": "STĂNESCU PAUL",
+      "nume_norm": "PAUL STANESCU"
     },
     {
       "institutie": "Senator Stănescu Paul",
@@ -3066,7 +3420,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - Secretar General"
-      ]
+      ],
+      "nume": "STĂNESCU PAUL",
+      "nume_norm": "PAUL STANESCU"
     },
     {
       "institutie": "Senator Stănescu Paul",
@@ -3081,7 +3437,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - Secretar General"
-      ]
+      ],
+      "nume": "STĂNESCU PAUL",
+      "nume_norm": "PAUL STANESCU"
     },
     {
       "institutie": "Senator Stelea Niculina",
@@ -3097,7 +3455,9 @@
       "entitati": [
         "1.1 NN CONSULT 2001 SRL",
         "1.2 ND GRUP SRL - Sectorul 6"
-      ]
+      ],
+      "nume": "STELEA NICULINA",
+      "nume_norm": "NICULINA STELEA"
     },
     {
       "institutie": "Senator Stelea Niculina",
@@ -3113,7 +3473,9 @@
       "entitati": [
         "1.1 NN CONSULT 2001 SRL",
         "1.2 ND GRUP SRL - Sectorul 6"
-      ]
+      ],
+      "nume": "STELEA NICULINA",
+      "nume_norm": "NICULINA STELEA"
     },
     {
       "institutie": "Senator Stoica Ciprian-Titi",
@@ -3129,7 +3491,9 @@
       "entitati": [
         "1.1 SC NISTO CONSULT SRL-asociat",
         "4.1 Partidul Alianța pentru Unirea Românilor - Membru CNC"
-      ]
+      ],
+      "nume": "STOICA CIPRIAN TITI",
+      "nume_norm": "CIPRIAN STOICA TITI"
     },
     {
       "institutie": "Senator Stoica Ciprian-Titi",
@@ -3145,7 +3509,9 @@
       "entitati": [
         "1.1 SC NISTO CONSULT SRL-asociat",
         "4.1 Partidul Alianța pentru Unirea Românilor - Membru CNC"
-      ]
+      ],
+      "nume": "STOICA CIPRIAN TITI",
+      "nume_norm": "CIPRIAN STOICA TITI"
     },
     {
       "institutie": "Senator Stoiciu Victoria",
@@ -3160,7 +3526,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - Vicepresedinte"
-      ]
+      ],
+      "nume": "STOICIU VICTORIA",
+      "nume_norm": "STOICIU VICTORIA"
     },
     {
       "institutie": "Senator Stoiciu Victoria",
@@ -3175,7 +3543,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat - Vice Presedinte"
-      ]
+      ],
+      "nume": "STOICIU VICTORIA",
+      "nume_norm": "STOICIU VICTORIA"
     },
     {
       "institutie": "Senator Streinu Cercel Adrian",
@@ -3192,7 +3562,9 @@
         "1.1 HIDROELECTRICA SA",
         "3.1 Fundatia Prof. Dr. Matei Bals - membru",
         "4.1 PSD - membru"
-      ]
+      ],
+      "nume": "STREINU CERCEL ADRIAN",
+      "nume_norm": "ADRIAN CERCEL STREINU"
     },
     {
       "institutie": "Senator Streinu Cercel Adrian",
@@ -3208,7 +3580,9 @@
       "entitati": [
         "3.1 Fundatia Prof. Dr. Matei Bals - membru",
         "4.1 PSD - membru"
-      ]
+      ],
+      "nume": "STREINU CERCEL ADRIAN",
+      "nume_norm": "ADRIAN CERCEL STREINU"
     },
     {
       "institutie": "Senator Streinu Cercel Adrian",
@@ -3224,7 +3598,9 @@
       "entitati": [
         "3.1 Fundatia Prof. Dr. Matei Bals - membru",
         "4.1 PSD - membru"
-      ]
+      ],
+      "nume": "STREINU CERCEL ADRIAN",
+      "nume_norm": "ADRIAN CERCEL STREINU"
     },
     {
       "institutie": "Senator Stroe Felix",
@@ -3244,7 +3620,9 @@
         "1.3 DACIA TOUR SRL",
         "1.4 LIT ROMANIA SRL",
         "4.1 PARTIDUL SOCIAL DEMOCRAT - PRESEDINTE ORGANIZATIA JUDETEANA CONSTANTA"
-      ]
+      ],
+      "nume": "STROE FELIX",
+      "nume_norm": "FELIX STROE"
     },
     {
       "institutie": "Senator Stroe Felix",
@@ -3264,7 +3642,9 @@
         "1.3 DACIA TOUR SRL",
         "1.4 LIT ROMANIA SRL",
         "4.1 PARTIDUL SOCIAL DEMOCRAT - PRESEDINTE ORGANIZATIA JUDETEANA CONSTANTA"
-      ]
+      ],
+      "nume": "STROE FELIX",
+      "nume_norm": "FELIX STROE"
     },
     {
       "institutie": "Senator Șipoș Sorin-Gheorghe",
@@ -3289,7 +3669,9 @@
         "4.1 UNIUNEA SALVATI ROMANIA - VICEPRESEDINTE FILIALA TIMIS",
         "S.R.L. - Bozovici Caras-Severin Str. Asociat 10 Părţi sociale 100 RON",
         "S.R.L. - Timisoara Timis Str. Asociat 10 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "SIPOS SORIN GHEORGHE",
+      "nume_norm": "GHEORGHE SIPOS SORIN"
     },
     {
       "institutie": "Senator Ștefănache Gheorghe",
@@ -3306,7 +3688,9 @@
         "1.1 SC CASA DE MENAJ",
         "4.1 USR GALAȚI - Președinte",
         "ANDRUNA SRL - Sendreni Galati Asociat 1 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "ȘTEFANACHE GHEORGHE",
+      "nume_norm": "GHEORGHE STEFANACHE"
     },
     {
       "institutie": "Senator Ștefănache Gheorghe",
@@ -3324,7 +3708,9 @@
         "4.1 USR ȘENDRENI - Președinte",
         "4.2 USR GALAȚI - Președinte",
         "ANDRUNA SRL - Sendreni Galati Asociat 1 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "ȘTEFĂNACHE GHEORGHE",
+      "nume_norm": "GHEORGHE STEFANACHE"
     },
     {
       "institutie": "Senator Ștefănescu Daniela",
@@ -3337,7 +3723,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "STEFANESCU DANIELA",
+      "nume_norm": "DANIELA STEFANESCU"
     },
     {
       "institutie": "Senator Tánczos Barna",
@@ -3359,7 +3747,9 @@
         "1.5 Asociatia Crescatorilor de Vaci",
         "Odorheiu Secuiesc Harghita Membru 25 Părţi sociale 1250 RON",
         "Tinutul Secuiesc - Carta Harghita director"
-      ]
+      ],
+      "nume": "TANCZOS BARNA",
+      "nume_norm": "BARNA TANCZOS"
     },
     {
       "institutie": "Senator Tánczos Barna",
@@ -3381,7 +3771,9 @@
         "1.5 Asociatia Crescatorilor de Vaci",
         "Odorheiu Secuiesc Harghita Membru 25 Părţi sociale 1250 RON",
         "Tinutul Secuiesc - Carta Harghita director"
-      ]
+      ],
+      "nume": "TANCZOS BARNA",
+      "nume_norm": "BARNA TANCZOS"
     },
     {
       "institutie": "Senator Tasnadi Istvan-Szilard",
@@ -3394,7 +3786,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TASNADI ISTVAN SZILARD",
+      "nume_norm": "ISTVAN SZILARD TASNADI"
     },
     {
       "institutie": "Senator Tasnadi Istvan-Szilard",
@@ -3407,7 +3801,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TASNADI ISTVAN SZILARD",
+      "nume_norm": "ISTVAN SZILARD TASNADI"
     },
     {
       "institutie": "Senator Tănăsescu Alina-Elena",
@@ -3422,7 +3818,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat Dolj - Vicepresedinte"
-      ]
+      ],
+      "nume": "TĂNĂSESCU ALINA ELENA",
+      "nume_norm": "ALINA ELENA TANASESCU"
     },
     {
       "institutie": "Senator Turos Lóránd",
@@ -3445,7 +3843,9 @@
         "4.3 Uniunea Democrata Maghiara din Romania - membru in Prezidiul Uniunii",
         "4.4 Uniunea Democrata Maghiara din Romania - membru in Consiliul Permanent",
         "Full Security SRL"
-      ]
+      ],
+      "nume": "TUROS LORAND",
+      "nume_norm": "LORAND TUROS"
     },
     {
       "institutie": "Senator Turos Lóránd",
@@ -3468,7 +3868,9 @@
         "4.3 Uniunea Democrata Maghiara din Romania - membru in Prezidiul Uniunii",
         "4.4 Uniunea Democrata Maghiara din Romania - membru in Consiliul Permanent",
         "Full Security SRL"
-      ]
+      ],
+      "nume": "TUROS LORAND",
+      "nume_norm": "LORAND TUROS"
     },
     {
       "institutie": "Senator Turos Lóránd",
@@ -3491,7 +3893,9 @@
         "4.3 Uniunea Democrata Maghiara din Romania - membru in Prezidiul Uniunii",
         "4.4 Uniunea Democrata Maghiara din Romania - membru in Consiliul Permanent",
         "Full Security SRL"
-      ]
+      ],
+      "nume": "TUROS LORAND",
+      "nume_norm": "LORAND TUROS"
     },
     {
       "institutie": "Senator Ţepeluş Laurenţiu-Cristinel",
@@ -3508,7 +3912,9 @@
         "3.1 Sindicatul Învățământului Preuniversitar Ion Neacșu Buzău - Membru",
         "4.1 Partidul Social Democrat Organizația Municipală Buzău - Vicepreședinte",
         "4.2 Partidul Social Democrat Organizația Județeană Buzău - Trezorier"
-      ]
+      ],
+      "nume": "ȚEPELUȘ LAURENȚIU CRISTINEL",
+      "nume_norm": "CRISTINEL LAURENTIU TEPELUS"
     },
     {
       "institutie": "Senator Ţepeluş Laurenţiu-Cristinel",
@@ -3525,7 +3931,9 @@
         "3.1 Sindicatul Învățământului Preuniversitar Ion Neacșu Buzău - Membru",
         "4.1 Partidul Social Democrat Organizația Municipală Buzău - Vicepreședinte",
         "4.2 Partidul Social Democrat Organizația Județeană Buzău - Trezorier"
-      ]
+      ],
+      "nume": "TEPELUS LAURENTIU CRISTINEL",
+      "nume_norm": "CRISTINEL LAURENTIU TEPELUS"
     },
     {
       "institutie": "Senator Varga Glad-Aurel",
@@ -3550,7 +3958,9 @@
         "4.1 Biroul Politic Judetean PNL Arad - Vicepresedinte",
         "SRL - Arad Arad ARAD",
         "SRL - Arad Arad Arad"
-      ]
+      ],
+      "nume": "VARGA GLAD AUREL",
+      "nume_norm": "AUREL GLAD VARGA"
     },
     {
       "institutie": "Senator Vasile Marian",
@@ -3569,7 +3979,9 @@
         "1.3 SC Omnia Medical SRL",
         "SC Oltenia Invest Scaești directa din Contract de",
         "SRL Craiova - Strada catalogul achizitie"
-      ]
+      ],
+      "nume": "VASILE MARIAN",
+      "nume_norm": "MARIAN VASILE"
     },
     {
       "institutie": "Senator Vântu Cristian",
@@ -3588,7 +4000,9 @@
         "1.3 ASOCIATIA CHINOLOGICA A",
         "3.3 ASOCIATIA MEDICILOR DE FAMILIE MURES - MEMBRU",
         "4.1 PARTIDUL ALIANTA PENTRU UNIREA ROMANILOR ORGANIZATIA JUDETEANA MURES"
-      ]
+      ],
+      "nume": "VANTU CRISTIAN",
+      "nume_norm": "CRISTIAN VANTU"
     },
     {
       "institutie": "Senator Veştea Mihail",
@@ -3606,7 +4020,9 @@
         "1.2 ASOCIATIA PATRONALA",
         "1.3 ASOCIATIA",
         "4.1 ORGANIZATIA JUDETEANA PNL BRASOV - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "VEȘTEA MIHAIL",
+      "nume_norm": "MIHAIL VESTEA"
     },
     {
       "institutie": "Senator Veştea Mihail",
@@ -3624,7 +4040,9 @@
         "1.2 ASOCIATIA PATRONALA",
         "1.3 ASOCIATIA",
         "4.1 ORGANIZATIA JUDETEANA PNL BRASOV - PRIM-VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "VESTEA MIHAIL",
+      "nume_norm": "MIHAIL VESTEA"
     },
     {
       "institutie": "Senator Veştea Mihail",
@@ -3642,7 +4060,9 @@
         "1.2 ASOCIATIA PATRONALA",
         "1.3 ASOCIATIA",
         "4.1 ORGANIZATIA JUDETEANA PNL BRASOV - PRIM-VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "VESTEA MIHAIL",
+      "nume_norm": "MIHAIL VESTEA"
     },
     {
       "institutie": "Senator Vlahu Nicolae",
@@ -3658,7 +4078,9 @@
       "entitati": [
         "1.1 VLAHU SI ASOCIATII",
         "1.1 VLAHU SI ASOCIATII SOCIETATE"
-      ]
+      ],
+      "nume": "VLAHU NICOLAE",
+      "nume_norm": "NICOLAE VLAHU"
     },
     {
       "institutie": "Senator Vlahu Nicolae",
@@ -3674,7 +4096,9 @@
       "entitati": [
         "1.1 VLAHU SI ASOCIATII",
         "1.1 VLAHU SI ASOCIATII SOCIETATE"
-      ]
+      ],
+      "nume": "VLAHU NICOLAE",
+      "nume_norm": "NICOLAE VLAHU"
     },
     {
       "institutie": "Senator Vlaşin Sorin",
@@ -3698,7 +4122,9 @@
         "SRL - Sighetu Marmatiei Maramures str. Asociat 245000 Părţi sociale 2450000 RON",
         "SRL Sighetu EDUCATIEI",
         "SRL Sighetu Frontiera"
-      ]
+      ],
+      "nume": "VLASIN SORIN",
+      "nume_norm": "SORIN VLASIN"
     },
     {
       "institutie": "Senator Vlaşin Sorin",
@@ -3722,7 +4148,9 @@
         "SRL - Sighetu Marmatiei Maramures str. Asociat 245000 Părţi sociale 2450000 RON",
         "SRL Sighetu EDUCATIEI",
         "SRL Sighetu Frontiera"
-      ]
+      ],
+      "nume": "VLASIN SORIN",
+      "nume_norm": "SORIN VLASIN"
     },
     {
       "institutie": "Senator Vlăescu Virgiliu-George",
@@ -3737,7 +4165,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Sectorul 1 Bucuresti Asociat 1 Părţi sociale 1000 RON"
-      ]
+      ],
+      "nume": "VLAESCU VIRGILIU GEORGE",
+      "nume_norm": "GEORGE VIRGILIU VLAESCU"
     }
   ]
 }
