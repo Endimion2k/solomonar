@@ -1,0 +1,1517 @@
+{
+  "gasite": 167,
+  "mecanisme": {
+    "sub-pagini": 60,
+    "pdf_direct": 104,
+    "filebird": 3
+  },
+  "pe_tip": {
+    "companie": 91,
+    "institutie": 76
+  },
+  "surse": [
+    {
+      "nume": "ACET SA",
+      "cui": 713519,
+      "tip": "companie",
+      "url": "https://acet.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "ACMVOL DESIGN S.A.",
+      "cui": 33137064,
+      "tip": "companie",
+      "url": "https://www.acmvol.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 49,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "ACVATERM SA",
+      "cui": 10152880,
+      "tip": "companie",
+      "url": "https://www.acvaterm.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 16
+    },
+    {
+      "nume": "ADCOP GRUP SRL",
+      "cui": 29315554,
+      "tip": "companie",
+      "url": "https://www.adcop.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 8,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "ADMINISTRAREA PARCULUI INDUSTRIAL MANGALIA SRL",
+      "cui": 15989092,
+      "tip": "companie",
+      "url": "https://www.mangalia.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 43
+    },
+    {
+      "nume": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
+      "cui": 24734055,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "AIR ORADEA S.A.",
+      "cui": 45091220,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "APA SERV TOP STÂLPENI S.R.L.",
+      "cui": 38636359,
+      "tip": "companie",
+      "url": "https://www.stalpeni.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 723,
+      "linkuri_avere": 17
+    },
+    {
+      "nume": "APAVITAL SA",
+      "cui": 1959768,
+      "tip": "companie",
+      "url": "https://www.apavital.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "APĂ CANAL BOBICEŞTI SRL",
+      "cui": 35978101,
+      "tip": "companie",
+      "url": "https://www.bobicesti.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "APĂ CANAL SERV BALDOVINEŞTI SRL",
+      "cui": 36364711,
+      "tip": "companie",
+      "url": "https://www.baldovinesti.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "cui": 27237026,
+      "tip": "companie",
+      "url": "https://www.priboieni.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 22
+    },
+    {
+      "nume": "APĂ-CANAL TĂLMACIU SRL",
+      "cui": 28396127,
+      "tip": "companie",
+      "url": "https://www.talmaciu.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "AQUATERA ADUNAŢII COPĂCENI SRL",
+      "cui": 31178661,
+      "tip": "companie",
+      "url": "https://www.aquatera.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 12,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "CALORGAL S.R.L.",
+      "cui": 30925017,
+      "tip": "companie",
+      "url": "https://www.calorgal.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 75,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "CARFIL INDUSTRIAL PARC SA",
+      "cui": 15786039,
+      "tip": "companie",
+      "url": "https://www.carfil.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "CARPATMONTANA SERV SA",
+      "cui": 26832874,
+      "tip": "companie",
+      "url": "https://www.carpatmontana-serv.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 229,
+      "linkuri_avere": 3
+    },
+    {
+      "nume": "CCGT POWER ISALNITA SA",
+      "cui": 48790613,
+      "tip": "companie",
+      "url": "https://www.isalnita.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 193,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "COMPANIA DE APA ORADEA SA",
+      "cui": 54760,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
+      "cui": 11054529,
+      "tip": "companie",
+      "url": "https://www.cfr.ro/declaratii-de-avere/",
+      "mecanism": "filebird",
+      "pdf": 0,
+      "linkuri_avere": 31
+    },
+    {
+      "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "cui": 13328043,
+      "tip": "companie",
+      "url": "https://www.transelectrica.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 115
+    },
+    {
+      "nume": "COMPANIA NATIONALA DE TRANSPORTURI AERIENE ROMANE TAROM SA",
+      "cui": 477647,
+      "tip": "companie",
+      "url": "https://www.tarom.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "pdf_direct",
+      "pdf": 14,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+      "cui": 14531223,
+      "tip": "companie",
+      "url": "https://www.metrom.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 16
+    },
+    {
+      "nume": "COMPANIA NATIONALA ROMARM SA BUCURESTI FILIALA SOCIETATEA CARFIL S.A.",
+      "cui": 13945863,
+      "tip": "companie",
+      "url": "https://www.carfil.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "COMPANIA NATIONALA UNIFARM SA",
+      "cui": 11653560,
+      "tip": "companie",
+      "url": "https://www.unifarm.ro/integritate/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "COMPANIA NAŢIONALĂ ROMARM S.A.-FILIALA SOCIETATEA UZINA DE PRODUSE SPECIALE DRAGOMIREŞTI S.A.",
+      "cui": 3180070,
+      "tip": "companie",
+      "url": "https://www.dragomiresti.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 53
+    },
+    {
+      "nume": "CONVERSMIN SA",
+      "cui": 14923006,
+      "tip": "companie",
+      "url": "https://www.conversmin.ro/integritate/",
+      "mecanism": "pdf_direct",
+      "pdf": 2,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "DISTRIGAZ ŞIMIAN S.R.L.",
+      "cui": 42512022,
+      "tip": "companie",
+      "url": "https://www.simian.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 18
+    },
+    {
+      "nume": "ECO - SAL SA",
+      "cui": 24898139,
+      "tip": "companie",
+      "url": "https://www.eco-sal.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 27,
+      "linkuri_avere": 13
+    },
+    {
+      "nume": "ECO-SAL 2005 SA",
+      "cui": 17870232,
+      "tip": "companie",
+      "url": "https://www.eco-sal.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 27,
+      "linkuri_avere": 13
+    },
+    {
+      "nume": "ECOVOL ILFOV S.A.",
+      "cui": 21551614,
+      "tip": "companie",
+      "url": "https://www.ecovol.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 57,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "EURO APAVOL S.A.",
+      "cui": 27778056,
+      "tip": "companie",
+      "url": "https://www.apavol.ro/integritate/",
+      "mecanism": "pdf_direct",
+      "pdf": 3,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "GOLDTERM MANGALIA S.A.",
+      "cui": 30750004,
+      "tip": "companie",
+      "url": "https://www.mangalia.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 43
+    },
+    {
+      "nume": "GOSPODARUL BRETEAN SERV SRL",
+      "cui": 37365308,
+      "tip": "companie",
+      "url": "https://www.gospodarul-bretean.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 2,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "GOSPODĂRIE COMUNALĂ LENAUHEIM SRL",
+      "cui": 27645548,
+      "tip": "companie",
+      "url": "https://www.lenauheim.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 44,
+      "linkuri_avere": 3
+    },
+    {
+      "nume": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
+      "cui": 33599993,
+      "tip": "companie",
+      "url": "https://www.cisnadie.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 388,
+      "linkuri_avere": 355
+    },
+    {
+      "nume": "GUGULANIA LAND SRL",
+      "cui": 27873180,
+      "tip": "companie",
+      "url": "https://www.gugulania-land.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 4,
+      "linkuri_avere": 3
+    },
+    {
+      "nume": "HIDRO PRAHOVA SA",
+      "cui": 16826034,
+      "tip": "companie",
+      "url": "https://www.hidro.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "HIDRO-SAL COM SRL",
+      "cui": 15464254,
+      "tip": "companie",
+      "url": "https://www.hidro.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "HORTICULTURA SA",
+      "cui": 1816890,
+      "tip": "companie",
+      "url": "https://www.horticultura.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 13,
+      "linkuri_avere": 23
+    },
+    {
+      "nume": "IAR SA",
+      "cui": 1132930,
+      "tip": "companie",
+      "url": "https://www.iar.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "INDUSTRIAL PARK IȘALNIȚA SRL",
+      "cui": 26065984,
+      "tip": "companie",
+      "url": "https://www.isalnita.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 193,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "INSTAL GAZ ȘIMIAN S.R.L.",
+      "cui": 49602963,
+      "tip": "companie",
+      "url": "https://www.simian.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 18
+    },
+    {
+      "nume": "INSTITUTUL DE CERCETARI IN TRANSPORTURI INCERTRANS SA",
+      "cui": 4282451,
+      "tip": "companie",
+      "url": "https://www.incertrans.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "IOR SA",
+      "cui": 340312,
+      "tip": "companie",
+      "url": "https://www.ior.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 638,
+      "linkuri_avere": 11
+    },
+    {
+      "nume": "JUDSERV 2020 S.R.L.",
+      "cui": 43491742,
+      "tip": "companie",
+      "url": "https://www.judserv.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "JUPSAL SALUBRIS SRL",
+      "cui": 29205888,
+      "tip": "companie",
+      "url": "https://www.salubris.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 78,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "METROM INDUSTRIAL PARC SA",
+      "cui": 15786047,
+      "tip": "companie",
+      "url": "https://www.metrom.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 16
+    },
+    {
+      "nume": "MINPREST SERV SA",
+      "cui": 14814483,
+      "tip": "companie",
+      "url": "https://www.minprest.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 254,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "NUŞFALĂU SERV SRL",
+      "cui": 27840794,
+      "tip": "companie",
+      "url": "https://www.nusfalau.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 24
+    },
+    {
+      "nume": "ORADEA EXPRES HOTEL SRL",
+      "cui": 11121504,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "ORADEA TRANSPORT LOCAL SA",
+      "cui": 63483,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "OVI-PROTECT SRL",
+      "cui": 36809569,
+      "tip": "companie",
+      "url": "https://www.ovi-protect.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 11
+    },
+    {
+      "nume": "PIROCHIM VICTORIA SA",
+      "cui": 14469423,
+      "tip": "companie",
+      "url": "https://www.pirochim.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "PRESTĂRI SERVICII SILIŞTEA SRL",
+      "cui": 31726268,
+      "tip": "companie",
+      "url": "https://www.silistea.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 55
+    },
+    {
+      "nume": "PUBLIVOL CREATIV S.A.",
+      "cui": 41629998,
+      "tip": "companie",
+      "url": "https://www.publivol.ro/integritate/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "REGIA AUTONOMA AEROPORTUL ORADEA",
+      "cui": 73452,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "REGIA PUBLICĂ LOCALĂ OCOLUL SILVIC TĂLMACIU RA",
+      "cui": 22140498,
+      "tip": "companie",
+      "url": "https://www.talmaciu.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "RIBIŢA 2010 SERVCOM SRL",
+      "cui": 27809411,
+      "tip": "companie",
+      "url": "https://www.ribita.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 3,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "ROMFILATELIA SA",
+      "cui": 16184414,
+      "tip": "companie",
+      "url": "https://www.romfilatelia.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 8,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "ROUA ARDEALULUI LUNCA MUREȘULUI S.R.L.",
+      "cui": 43411026,
+      "tip": "companie",
+      "url": "https://lunca-muresului.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SALUBRIS CURCANI S.R.L.",
+      "cui": 39313186,
+      "tip": "companie",
+      "url": "https://www.salubris.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 78,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SALUBRIS GILORT SRL",
+      "cui": 27301897,
+      "tip": "companie",
+      "url": "https://www.salubris.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 78,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SALUBRIS OLT SRL",
+      "cui": 35521745,
+      "tip": "companie",
+      "url": "https://www.salubris.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 78,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SALUBRIS SA",
+      "cui": 14816433,
+      "tip": "companie",
+      "url": "https://www.salubris.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 78,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SALUBRITAS SA",
+      "cui": 9966140,
+      "tip": "companie",
+      "url": "https://www.salubritas.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "SALUBRITATE 2000 SA",
+      "cui": 13031718,
+      "tip": "companie",
+      "url": "https://www.salubritate-2000.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 297,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "SALUBRITATE CRAIOVA SRL",
+      "cui": 27969145,
+      "tip": "companie",
+      "url": "https://salubritate-craiova.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 17
+    },
+    {
+      "nume": "SALUBRITERM SERV S.R.L.",
+      "cui": 43156365,
+      "tip": "companie",
+      "url": "https://www.salubriterm.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 3,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "SALUBRIZARE ŞI GOSPODĂRIE CAZASU SRL",
+      "cui": 37372887,
+      "tip": "companie",
+      "url": "https://www.cazasu.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 27
+    },
+    {
+      "nume": "SCĂRIŞOARA PRICONSERV SRL",
+      "cui": 30834296,
+      "tip": "companie",
+      "url": "https://www.scarisoara.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 28,
+      "linkuri_avere": 40
+    },
+    {
+      "nume": "SECURITY VOL S.A.",
+      "cui": 35635448,
+      "tip": "companie",
+      "url": "https://security-vol.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 89,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SERVICII DE UTILITATE PUBLICĂ JIRLĂU SRL",
+      "cui": 32106264,
+      "tip": "companie",
+      "url": "https://www.jirlau.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "SERVICII GOSPODARIRE APATEU SRL",
+      "cui": 27360656,
+      "tip": "companie",
+      "url": "https://www.apateu.ro/declaratii-de-avere/",
+      "mecanism": "filebird",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "SERVICII PUBLICE ALEXANDRIA S.R.L.",
+      "cui": 27259202,
+      "tip": "companie",
+      "url": "https://www.alexandria.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 17
+    },
+    {
+      "nume": "SERVICIU DE PAZĂ PODARI S.R.L.",
+      "cui": 43828113,
+      "tip": "companie",
+      "url": "https://www.podari.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "SNGN \"ROMGAZ\" SA-FILIALA DE ÎNMAGAZINARE GAZE NATURALE DEPOGAZ PLOIEŞTI SRL",
+      "cui": 34915261,
+      "tip": "companie",
+      "url": "https://www.romgaz.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 21
+    },
+    {
+      "nume": "SOCIETATE DE ADMINISTRARE A DOMENIULUI PUBLIC AL COMUNEI FLORESTI - STOENESTI S.R.L.",
+      "cui": 43502930,
+      "tip": "companie",
+      "url": "https://www.floresti-stoenesti.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 32,
+      "linkuri_avere": 1
+    },
+    {
+      "nume": "SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
+      "cui": 32097794,
+      "tip": "companie",
+      "url": "https://www.hidroserv.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "SOCIETATEA NATIONALA DE GAZE NATURALE \" ROMGAZ \" SA",
+      "cui": 14056826,
+      "tip": "companie",
+      "url": "https://www.romgaz.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 21
+    },
+    {
+      "nume": "STV SANNICOLAU MARE SRL",
+      "cui": 28888987,
+      "tip": "companie",
+      "url": "https://www.sannicolau-mare.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 9
+    },
+    {
+      "nume": "TERMOFICARE CONSTANTA S.R.L.",
+      "cui": 43709449,
+      "tip": "companie",
+      "url": "https://www.termoficare-constanta.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 10,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "TERMOFICARE ORADEA S.A.",
+      "cui": 31952982,
+      "tip": "companie",
+      "url": "https://www.oradea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "TETAROM SA",
+      "cui": 14343629,
+      "tip": "companie",
+      "url": "https://www.tetarom.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "TRANSURB SA",
+      "cui": 201357,
+      "tip": "companie",
+      "url": "https://www.transurb.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 71,
+      "linkuri_avere": 4
+    },
+    {
+      "nume": "UAT CONSTRUCT ADJUD S.R.L.",
+      "cui": 44041401,
+      "tip": "companie",
+      "url": "https://www.adjud.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 5,
+      "linkuri_avere": 179
+    },
+    {
+      "nume": "URBI-SERV PECICA S.A.",
+      "cui": 43115420,
+      "tip": "companie",
+      "url": "https://www.pecica.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 696,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "UTILITĂŢI PUBLICE MUNICIPALE ADJUD SRL",
+      "cui": 27962317,
+      "tip": "companie",
+      "url": "https://www.adjud.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 5,
+      "linkuri_avere": 179
+    },
+    {
+      "nume": "UTILPUB PREST ECO SERV PPL S.R.L.",
+      "cui": 39597606,
+      "tip": "companie",
+      "url": "https://www.utilpub.ro/integritate/",
+      "mecanism": "pdf_direct",
+      "pdf": 2,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "VOINŢA CÂNDEŞTI SRL",
+      "cui": 28210860,
+      "tip": "companie",
+      "url": "https://www.candesti.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 27
+    },
+    {
+      "nume": "ŞANTIERUL NAVAL MANGALIA SA",
+      "cui": 14325290,
+      "tip": "companie",
+      "url": "https://www.mangalia.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 43
+    },
+    {
+      "nume": "ANCOM — Comunicații",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.ancom.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 8,
+      "linkuri_avere": 45
+    },
+    {
+      "nume": "ANCPI — Cadastru",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.ancpi.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 12
+    },
+    {
+      "nume": "ANPC — Protecția Consumatorilor",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.anpc.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 16,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "ANPIS — Plăți și Inspecție Socială",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.mmanpis.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 204,
+      "linkuri_avere": 9
+    },
+    {
+      "nume": "ANRE — Reglementare Energie",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.anre.ro/integritate/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "Casa Națională de Asigurări de Sănătate",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.cnas.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 19,
+      "linkuri_avere": 3
+    },
+    {
+      "nume": "Consiliul Concurenței",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.consiliulconcurentei.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 42,
+      "linkuri_avere": 18
+    },
+    {
+      "nume": "Curtea de Conturi",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.curteadeconturi.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 32,
+      "linkuri_avere": 17
+    },
+    {
+      "nume": "DGASPC Arad",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dgaspc-arad.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "DGASPC Buzău",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dgaspc-buzau.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 432,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "DGASPC Dolj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dgaspcdolj.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 2,
+      "linkuri_avere": 1
+    },
+    {
+      "nume": "DGASPC Galați",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dgaspcgalati.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "DGASPC Gorj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dgaspcgorj.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1150,
+      "linkuri_avere": 5
+    },
+    {
+      "nume": "DGASPC Olt",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dgaspc-olt.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "DSP Alba",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dspalba.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 25,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "DSP Arad",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dsparad.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 37,
+      "linkuri_avere": 2
+    },
+    {
+      "nume": "DSP Botoșani",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dspbotosani.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "DSP Călărași",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dspcalarasi.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 89
+    },
+    {
+      "nume": "DSP Galați",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dsp-galati.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 41
+    },
+    {
+      "nume": "DSP Giurgiu",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dspgiurgiu.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 28
+    },
+    {
+      "nume": "DSP Iași",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dspiasi.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 667,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSP Olt",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.dspolt.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 10,
+      "linkuri_avere": 9
+    },
+    {
+      "nume": "DSVSA Alba",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://alba.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 559,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Arad",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://arad.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 977,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Argeș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://arges.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 777,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Bacău",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://bacau.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1173,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Bihor",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://bihor.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 932,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Bistrița-Năsăud",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://bistrita-nasaud.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1363,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Botoșani",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://botosani.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1114,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Brașov",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://brasov.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1686,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Brăila",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.braila.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 813,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA București",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://bucuresti.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 2284,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Buzău",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://buzau.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 680,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Caraș-Severin",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://caras-severin.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1340,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Cluj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://cluj.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 784,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Constanța",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://constanta.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1768,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Covasna",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://covasna.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1615,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Călărași",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://calarasi.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 419,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Dolj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://dolj.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1543,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Dâmbovița",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://dambovita.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1009,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Galați",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://galati.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 682,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Giurgiu",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://giurgiu.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 934,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "DSVSA Gorj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://gorj.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1141,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Harghita",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://harghita.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1392,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Hunedoara",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://hunedoara.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1341,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Ialomița",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://ialomita.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1158,
+      "linkuri_avere": 76
+    },
+    {
+      "nume": "DSVSA Iași",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://iasi.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Maramureș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://maramures.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "DSVSA Mehedinți",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.mehedinti.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 964,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Mureș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://mures.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 932,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Neamț",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://neamt.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1150,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Olt",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://olt.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1161,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Prahova",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://prahova.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1031,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Satu Mare",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://satu-mare.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1195,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Sibiu",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://sibiu.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1090,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Sălaj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://salaj.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 900,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Teleorman",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://teleorman.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 932,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Timiș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://timis.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 1650,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Tulcea",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://tulcea.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 952,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Vaslui",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://vaslui.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 718,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "DSVSA Vrancea",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://vrancea.dsvsa.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 878,
+      "linkuri_avere": 7
+    },
+    {
+      "nume": "Direcția Generală Anticorupție",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.mai-dga.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 8,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "ISJ Alba",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjalba.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 22
+    },
+    {
+      "nume": "ISJ Argeș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjarges.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 8
+    },
+    {
+      "nume": "ISJ Botoșani",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjbotosani.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "filebird",
+      "pdf": 0,
+      "linkuri_avere": 22
+    },
+    {
+      "nume": "ISJ Gorj",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjgorj.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 9,
+      "linkuri_avere": 0
+    },
+    {
+      "nume": "ISJ Olt",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjolt.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 194,
+      "linkuri_avere": 3
+    },
+    {
+      "nume": "ISJ Tulcea",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjtulcea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 26
+    },
+    {
+      "nume": "ISJ Vrancea",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.isjvrancea.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "ITM Maramureș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://itmmaramures.ro/declaratii-de-avere-si-interese/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 18
+    },
+    {
+      "nume": "Ministerul Culturii",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.cultura.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 9,
+      "linkuri_avere": 10
+    },
+    {
+      "nume": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://economie.gov.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 16
+    },
+    {
+      "nume": "Ministerul Energiei",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.energie.gov.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 14
+    },
+    {
+      "nume": "Ministerul Investițiilor și Proiectelor Europene",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://mfe.gov.ro/declaratii-de-avere/",
+      "mecanism": "sub-pagini",
+      "pdf": 0,
+      "linkuri_avere": 13
+    },
+    {
+      "nume": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.mmuncii.gov.ro/declaratii-de-avere/",
+      "mecanism": "pdf_direct",
+      "pdf": 2,
+      "linkuri_avere": 6
+    },
+    {
+      "nume": "OCPI Timiș",
+      "cui": null,
+      "tip": "institutie",
+      "url": "https://www.ocpitimis.ro/declaratii/",
+      "mecanism": "pdf_direct",
+      "pdf": 113,
+      "linkuri_avere": 3
+    }
+  ]
+}

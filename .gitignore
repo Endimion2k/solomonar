@@ -40,3 +40,5 @@ Thumbs.db
 
 # Memorie locală (per CLAUDE.md — nu se comite)
 .claude/memory/
+
+data/v1/companii/_inventar_*
