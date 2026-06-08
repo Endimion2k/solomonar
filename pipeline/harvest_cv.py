@@ -99,48 +99,70 @@ def _crawl(dom, name):
     return name, cv_pdfs, bio_pages
 
 
+CKPT = os.path.join(V, "companii/_cv_checked.txt")
+PDF_JL = os.path.join(V, "companii/_cv_pdfs.jsonl")
+INL_JL = os.path.join(V, "companii/_cv_inline.jsonl")
+import threading  # noqa: E402
+_L = threading.Lock()
+
+
 def main(limit: int = 0) -> dict:
-    inv = json.load(open(os.path.join(V, "companii/inventar_declaratii.json"), encoding="utf-8"))
     dom_name = {}
+    # 1. toate instituțiile reale (organizatii) cu domeniu
+    org = json.load(open(os.path.join(V, "organizatii/_index.json"), encoding="utf-8"))["data"]
+    for o in org:
+        d = o.get("domain")
+        if d and not o.get("placeholder"):
+            dom_name.setdefault(re.sub(r"^https?://(www\.)?", "", d).rstrip("/").split("/")[0],
+                                o.get("name", ""))
+    # 2. inventar declarații (companii + instituții)
+    inv = json.load(open(os.path.join(V, "companii/inventar_declaratii.json"), encoding="utf-8"))
     for s in inv["surse"]:
         dom_name.setdefault(_dom(s["url"]), s["nume"])
+    # 3. SOE mari cunoscute
     for d, n in KNOWN_SOE.items():
         dom_name.setdefault(d, n)
-    items = list(dom_name.items())
+
+    checked = set(open(CKPT, encoding="utf-8").read().splitlines()) if os.path.exists(CKPT) else set()
+    items = [(d, n) for d, n in dom_name.items() if d not in checked]
     if limit:
         items = items[:limit]
-    print(f"crawl CV deep pe {len(items)} domenii...", flush=True)
+    print(f"crawl CV deep: {len(items)}/{len(dom_name)} domenii (deja={len(checked)})", flush=True)
 
-    cv_pdfs, cv_inline, done = {}, {}, 0
-    surse = []
+    fh_p = open(PDF_JL, "a", encoding="utf-8")
+    fh_i = open(INL_JL, "a", encoding="utf-8")
+    fh_c = open(CKPT, "a", encoding="utf-8")
+    done, tot_pdf = 0, 0
+
     with ThreadPoolExecutor(max_workers=10) as ex:
         futs = {ex.submit(_crawl, d, n): (d, n) for d, n in items}
         for f in as_completed(futs):
             done += 1
+            d, n = futs[f]
             try:
                 name, pdfs, bios = f.result()
             except Exception:
-                continue
-            for u in pdfs:
-                cv_pdfs[u] = name
-            for u in bios:
-                cv_inline[u] = name
-            if pdfs or bios:
-                surse.append({"nume": name, "cv_pdf": len(pdfs), "bio_inline": len(bios)})
-                print(f"   ✔ {name[:38]}: {len(pdfs)} CV-pdf, {len(bios)} bio-inline "
-                      f"(total pdf={len(cv_pdfs)})", flush=True)
+                pdfs, bios, name = set(), set(), n
+            with _L:
+                fh_c.write(d + "\n"); fh_c.flush()
+                for u in pdfs:
+                    fh_p.write(json.dumps({"url": u, "nume": name}, ensure_ascii=False) + "\n")
+                for u in bios:
+                    fh_i.write(json.dumps({"url": u, "nume": name}, ensure_ascii=False) + "\n")
+                fh_p.flush(); fh_i.flush()
+                tot_pdf += len(pdfs)
+                if pdfs or bios:
+                    print(f"   ✔ {name[:38]}: {len(pdfs)} CV-pdf, {len(bios)} bio (cumul pdf={tot_pdf})", flush=True)
             if done % 50 == 0:
                 print(f"   ...{done}/{len(items)}", flush=True)
+    fh_p.close(); fh_i.close(); fh_c.close()
 
-    json.dump(cv_pdfs, open(os.path.join(V, "declaratii/_cv_pdfs.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=2)
-    json.dump(cv_inline, open(os.path.join(V, "declaratii/_cv_inline.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=2)
-    json.dump({"surse": sorted(surse, key=lambda x: -x["cv_pdf"]), "total_cv_pdf": len(cv_pdfs),
-               "total_bio_inline": len(cv_inline)},
-              open(os.path.join(V, "companii/cv_surse.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=2)
-    print(f"\nGATA: {len(cv_pdfs)} CV-PDF + {len(cv_inline)} pagini bio-inline din {len(surse)} surse", flush=True)
+    # compilează JSONL → JSON
+    cv_pdfs = {r["url"]: r["nume"] for r in (json.loads(l) for l in open(PDF_JL, encoding="utf-8") if l.strip())}
+    cv_inline = {r["url"]: r["nume"] for r in (json.loads(l) for l in open(INL_JL, encoding="utf-8") if l.strip())}
+    json.dump(cv_pdfs, open(os.path.join(V, "declaratii/_cv_pdfs.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    json.dump(cv_inline, open(os.path.join(V, "declaratii/_cv_inline.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    print(f"\nGATA: {len(cv_pdfs)} CV-PDF + {len(cv_inline)} pagini bio-inline", flush=True)
     return {"cv_pdf": len(cv_pdfs), "bio_inline": len(cv_inline)}
 
 

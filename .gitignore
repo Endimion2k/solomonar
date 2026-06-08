@@ -42,3 +42,5 @@ Thumbs.db
 .claude/memory/
 
 data/v1/companii/_inventar_*
+
+data/v1/companii/_cv_*
