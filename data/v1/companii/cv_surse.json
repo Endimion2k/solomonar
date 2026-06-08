@@ -1,726 +1,471 @@
 {
   "surse": [
     {
-      "nume": "APAVITAL SA",
-      "conducere_url": "https://www.apavital.ro/conducere/",
-      "domeniu": "apavital.ro",
-      "cv_pdfs": [
-        "https://www.apavital.ro//uploads/pages/135993/CV_Ec._Gabriela_Masalagiu.pdf",
-        "https://www.apavital.ro//uploads/pages/983566/CV_ing_Ion_Mihailescu.pdf",
-        "https://www.apavital.ro//uploads/pages/111189/CV_ing._Romeo_Casian.pdf",
-        "https://www.apavital.ro//uploads/pages/551407/CV ANDI Dumitras Romana_2020.pdf",
-        "https://www.apavital.ro//uploads/pages/601655/CV_dr._ing._Mihail_Dorus_acualizat.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "ACMVOL DESIGN S.A.",
-      "conducere_url": "https://www.acmvol.ro/echipa/",
-      "domeniu": "acmvol.ro",
-      "cv_pdfs": [
-        "https://acmvol.ro/wp-content/uploads/CV-Mihai-Gelu-Marian.pdf",
-        "https://acmvol.ro/wp-content/uploads/CV-Mariana-Oprea.pdf",
-        "https://acmvol.ro/wp-content/uploads/CV-Ghincea-Adriana.pdf",
-        "https://acmvol.ro/wp-content/uploads/CV-Ilie-Mihai.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "CALORGAL S.R.L.",
-      "conducere_url": "https://www.calorgal.ro/conducere/",
-      "domeniu": "calorgal.ro",
-      "cv_pdfs": [
-        "https://www.calorgal.ro/wp-content/uploads/2022/06/CV-Duminica-Danuta.pdf",
-        "https://www.calorgal.ro/wp-content/uploads/2022/06/CV-Gavan-Eugen.pdf",
-        "https://www.calorgal.ro/wp-content/uploads/2022/06/CV-Alexandru-Igor-Bejan.pdf",
-        "https://www.calorgal.ro/wp-content/uploads/2022/06/CV-Andreea-Popa.pdf",
-        "https://www.calorgal.ro/wp-content/uploads/2022/06/CV-Relu-Marin.pdf",
-        "https://www.calorgal.ro/wp-content/uploads/2022/06/CV-CADINOIU-MIHAI.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
-      "conducere_url": "https://www.oradea.ro/conducere/",
-      "domeniu": "oradea.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 401233
-    },
-    {
-      "nume": "CARFIL INDUSTRIAL PARC SA",
-      "conducere_url": "https://www.carfil.ro/conducere/",
-      "domeniu": "carfil.ro",
-      "cv_pdfs": [
-        "https://www.carfil.ro/download/cv-mircea-petru-tantau-2021.pdf",
-        "https://www.carfil.ro/download/cv-mircea-petru-tantau-2021.pdf",
-        "https://www.carfil.ro/download/cv-mircea-petru-tantau-2021.pdf",
-        "https://www.carfil.ro/download/cv-mircea-petru-tantau-2021.pdf",
-        "https://www.carfil.ro/download/cv-borcea-gigi-2021.pdf",
-        "https://www.carfil.ro/download/cv-borcea-gigi-2021.pdf",
-        "https://www.carfil.ro/download/cv-borcea-gigi-2021.pdf",
-        "https://www.carfil.ro/download/cv-borcea-gigi-2021.pdf",
-        "https://www.carfil.ro/download/cv-liliana-ioana-bolba-mateescu-2021.pdf",
-        "https://www.carfil.ro/download/cv-liliana-ioana-bolba-mateescu-2021.pdf",
-        "https://www.carfil.ro/download/cv-liliana-ioana-bolba-mateescu-2021.pdf",
-        "https://www.carfil.ro/download/cv-liliana-ioana-bolba-mateescu-2021.pdf",
-        "https://www.carfil.ro/download/cv-aurel-veltan-2025.pdf",
-        "https://www.carfil.ro/download/cv-aurel-veltan-2025.pdf",
-        "https://www.carfil.ro/download/cv-aurel-veltan-2025.pdf",
-        "https://www.carfil.ro/download/cv-aurel-veltan-2025.pdf",
-        "https://www.carfil.ro/download/cv-ramona-budu-2025.pdf",
-        "https://www.carfil.ro/download/cv-ramona-budu-2025.pdf",
-        "https://www.carfil.ro/download/cv-ramona-budu-2025.pdf",
-        "https://www.carfil.ro/download/cv-ramona-budu-2025.pdf",
-        "https://www.carfil.ro/download/cv-pop-sandu-tibi-2025.pdf",
-        "https://www.carfil.ro/download/cv-pop-sandu-tibi-2025.pdf",
-        "https://www.carfil.ro/download/cv-pop-sandu-tibi-2025.pdf",
-        "https://www.carfil.ro/download/cv-pop-sandu-tibi-2025.pdf",
-        "https://www.carfil.ro/wp-content/uploads/CV-Claudia-Florea_RO.pdf",
-        "https://www.carfil.ro/wp-content/uploads/CV-Claudia-Florea_RO.pdf",
-        "https://www.carfil.ro/wp-content/uploads/CV-Claudia-Florea_RO.pdf",
-        "https://www.carfil.ro/wp-content/uploads/CV-Claudia-Florea_RO.pdf",
-        "https://www.carfil.ro/download/cv-marin-dumitru-2025.pdf",
-        "https://www.carfil.ro/download/cv-marin-dumitru-2025.pdf",
-        "https://www.carfil.ro/download/cv-marin-dumitru-2025.pdf",
-        "https://www.carfil.ro/download/cv-marin-dumitru-2025.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-nedelcea-flavius-2022.pdf",
-        "https://www.carfil.ro/download/cv-nedelcea-flavius-2022.pdf",
-        "https://www.carfil.ro/download/cv-nedelcea-flavius-2022.pdf",
-        "https://www.carfil.ro/download/cv-nedelcea-flavius-2022.pdf",
-        "https://www.carfil.ro/download/cv-chiriac-viorel-2022.pdf",
-        "https://www.carfil.ro/download/cv-chiriac-viorel-2022.pdf",
-        "https://www.carfil.ro/download/cv-chiriac-viorel-2022.pdf",
-        "https://www.carfil.ro/download/cv-chiriac-viorel-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-luminita%20popescu-2022.pdf",
-        "https://www.carfil.ro/download/cv-manduc-constantin-sorin-2022.pdf",
-        "https://www.carfil.ro/download/cv-manduc-constantin-sorin-2022.pdf",
-        "https://www.carfil.ro/download/cv-manduc-constantin-sorin-2022.pdf",
-        "https://www.carfil.ro/download/cv-manduc-constantin-sorin-2022.pdf",
-        "https://www.carfil.ro/download/cv-blejdea-elvis-liviu-2022.pdf",
-        "https://www.carfil.ro/download/cv-blejdea-elvis-liviu-2022.pdf",
-        "https://www.carfil.ro/download/cv-blejdea-elvis-liviu-2022.pdf",
-        "https://www.carfil.ro/download/cv-blejdea-elvis-liviu-2022.pdf",
-        "https://www.carfil.ro/download/cv-pirnac-razvan-inout-2021.pdf",
-        "https://www.carfil.ro/download/cv-pirnac-razvan-inout-2021.pdf",
-        "https://www.carfil.ro/download/cv-pirnac-razvan-inout-2021.pdf",
-        "https://www.carfil.ro/download/cv-pirnac-razvan-inout-2021.pdf",
-        "https://www.carfil.ro/download/cv-bogdan-florin-mihai-2021.pdf",
-        "https://www.carfil.ro/download/cv-bogdan-florin-mihai-2021.pdf",
-        "https://www.carfil.ro/download/cv-bogdan-florin-mihai-2021.pdf",
-        "https://www.carfil.ro/download/cv-bogdan-florin-mihai-2021.pdf",
-        "https://www.carfil.ro/download/cv-balan-alexandru-2021.pdf",
-        "https://www.carfil.ro/download/cv-balan-alexandru-2021.pdf",
-        "https://www.carfil.ro/download/cv-balan-alexandru-2021.pdf",
-        "https://www.carfil.ro/download/cv-balan-alexandru-2021.pdf",
-        "https://www.carfil.ro/download/cv-celina-ruxandra-rusu-2021.pdf",
-        "https://www.carfil.ro/download/cv-celina-ruxandra-rusu-2021.pdf",
-        "https://www.carfil.ro/download/cv-celina-ruxandra-rusu-2021.pdf",
-        "https://www.carfil.ro/download/cv-celina-ruxandra-rusu-2021.pdf",
-        "https://www.carfil.ro/download/cv-anca-ruxandra-neacsu-2021.pdf",
-        "https://www.carfil.ro/download/cv-anca-ruxandra-neacsu-2021.pdf",
-        "https://www.carfil.ro/download/cv-anca-ruxandra-neacsu-2021.pdf",
-        "https://www.carfil.ro/download/cv-anca-ruxandra-neacsu-2021.pdf",
-        "https://www.carfil.ro/download/cv-badiu-ana-luisa-2021.pdf",
-        "https://www.carfil.ro/download/cv-badiu-ana-luisa-2021.pdf",
-        "https://www.carfil.ro/download/cv-badiu-ana-luisa-2021.pdf",
-        "https://www.carfil.ro/download/cv-badiu-ana-luisa-2021.pdf",
-        "https://www.carfil.ro/download/cv-badanoiu-petre-2021.pdf",
-        "https://www.carfil.ro/download/cv-badanoiu-petre-2021.pdf",
-        "https://www.carfil.ro/download/cv-badanoiu-petre-2021.pdf",
-        "https://www.carfil.ro/download/cv-badanoiu-petre-2021.pdf",
-        "https://www.carfil.ro/download/cv-gabriel-lungu-2021.pdf",
-        "https://www.carfil.ro/download/cv-gabriel-lungu-2021.pdf",
-        "https://www.carfil.ro/download/cv-gabriel-lungu-2021.pdf",
-        "https://www.carfil.ro/download/cv-gabriel-lungu-2021.pdf",
-        "https://www.carfil.ro/download/cv-nedelcu-dumitru-2021.pdf",
-        "https://www.carfil.ro/download/cv-nedelcu-dumitru-2021.pdf",
-        "https://www.carfil.ro/download/cv-nedelcu-dumitru-2021.pdf",
-        "https://www.carfil.ro/download/cv-nedelcu-dumitru-2021.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "COMPANIA NAŢIONALĂ ROMARM S.A.-FILIALA SOCIETATEA UZINA DE PRODUSE SPECIALE DRAGOMIREŞTI S.A.",
-      "conducere_url": "https://www.dragomiresti.ro/conducere/",
-      "domeniu": "dragomiresti.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 123093
-    },
-    {
-      "nume": "CONVERSMIN SA",
-      "conducere_url": "https://www.conversmin.ro/consiliul-de-administratie/",
-      "domeniu": "conversmin.ro",
-      "cv_pdfs": [
-        "https://conversmin.ro/wp-content/uploads/2022/11/CV_GEANTA-FLORIAN-DANIEL.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "ECO - SAL SA",
-      "conducere_url": "https://www.eco-sal.ro/conducere/",
-      "domeniu": "eco-sal.ro",
-      "cv_pdfs": [
-        "https://eco-sal.ro/wp-content/uploads/2025/08/CV_Ioan-Munteanu.pdf",
-        "https://eco-sal.ro/wp-content/uploads/2025/08/CV-Calin-Alin.pdf",
-        "https://eco-sal.ro/wp-content/uploads/2022/05/CV-Popescu-Simona-Olimpia.pdf",
-        "https://eco-sal.ro/wp-content/uploads/2024/12/CV-Balazs.pdf",
-        "https://eco-sal.ro/wp-content/uploads/2021/05/cv-dan-vassi.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "DISTRIGAZ ŞIMIAN S.R.L.",
-      "conducere_url": "https://www.simian.ro/conducere/",
-      "domeniu": "simian.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 85733
-    },
-    {
-      "nume": "ECOVOL ILFOV S.A.",
-      "conducere_url": "https://www.ecovol.ro/conducere/",
-      "domeniu": "ecovol.ro",
-      "cv_pdfs": [
-        "https://ecovol.ro/wp-content/uploads/2026/01/CV-Frunza-Robert-George.pdf",
-        "https://ecovol.ro/wp-content/uploads/2026/01/CV-Diacu-Codruta-Iren.pdf",
-        "https://ecovol.ro/wp-content/uploads/2026/01/CV-Ranete-Eugenia.pdf",
-        "https://ecovol.ro/wp-content/uploads/2026/01/CV-Ilie-Florentin.pdf",
-        "https://ecovol.ro/wp-content/uploads/2026/01/CV-Vasile-Magdalena.pdf",
-        "https://ecovol.ro/wp-content/uploads/2026/01/CV-Mocanu-Ana.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
-      "conducere_url": "https://www.metrom.ro/cv/",
-      "domeniu": "metrom.ro",
-      "cv_pdfs": [
-        "https://metrom.ro/wp-content/uploads/2026/03/CV-Chifelea-Marin.pdf",
-        "https://metrom.ro/wp-content/uploads/2022/05/CV-STAN-AURICA.pdf",
-        "https://metrom.ro/wp-content/uploads/2025/02/cv-mircea-petru-tantau-2021.pdf",
-        "https://metrom.ro/wp-content/uploads/2025/05/CV-Carmen-Teodorescu.pdf",
-        "https://metrom.ro/wp-content/uploads/2025/05/CV-Tudose-Mariana.pdf",
-        "https://metrom.ro/wp-content/uploads/2025/05/CV-BRIE-OLIMPIU.pdf",
-        "https://metrom.ro/wp-content/uploads/2024/04/CV-Radu-Cristian-Albu-.pdf",
-        "https://metrom.ro/wp-content/uploads/2024/09/CV-Alexie-Cotan.pdf",
-        "https://metrom.ro/wp-content/uploads/2024/09/CV-Costa%C8%99-Bogdan.pdf",
-        "https://metrom.ro/wp-content/uploads/2024/09/CV-Vasile-Alexandra.pdf",
-        "https://metrom.ro/wp-content/uploads/2023/06/CV-Daniela-B%C4%82DI%C8%9A%C4%82.pdf",
-        "https://metrom.ro/wp-content/uploads/2022/11/CV-Florin-VASILACHE.pdf",
-        "https://metrom.ro/wp-content/uploads/2022/02/CV-Viorel-BELEUZU-2.pdf",
-        "https://metrom.ro/wp-content/uploads/2021/07/BALEA-ANISOARA-CV-1.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "EURO APAVOL S.A.",
-      "conducere_url": "https://www.apavol.ro/conducere/",
-      "domeniu": "apavol.ro",
-      "cv_pdfs": [
-        "https://apavol.ro/wp-content/uploads/2025/03/CV-STEFAN-VASII-2025.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "ACVATERM SA",
-      "conducere_url": "https://www.acvaterm.ro/conducere/",
-      "domeniu": "acvaterm.ro",
-      "cv_pdfs": [
-        "https://acvaterm.ro/wp-content/uploads/2024/05/CV-SIMION-MARILENA.pdf",
-        "https://acvaterm.ro/wp-content/uploads/2024/05/CV-PREDA-FRANCISC-DECEBAL.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "HIDRO PRAHOVA SA",
-      "conducere_url": "https://www.hidro.ro/conducere/",
-      "domeniu": "hidro.ro",
-      "cv_pdfs": [
-        "https://www.hidro.ro/wp-content/uploads/2023/05/CV-Stoian-Constantin-Cristian-30.05.2023.pdf",
-        "https://www.hidro.ro/wp-content/uploads/2022/08/CV_Chendes_2021.pdf",
-        "https://www.hidro.ro/wp-content/uploads/2023/05/CV-Dana-Petcu.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "GUGULANIA LAND SRL",
-      "conducere_url": "https://www.gugulania-land.ro/conducere/",
-      "domeniu": "gugulania-land.ro",
-      "cv_pdfs": [
-        "https://gugulania-land.ro/wp-content/uploads/2025/02/CV-DRAGOMIR-ION-FLORIN.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
       "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
-      "conducere_url": "https://www.cfr.ro/echipa/",
-      "domeniu": "cfr.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 131450
+      "cv_pdf": 46,
+      "bio_inline": 3
     },
     {
       "nume": "IOR SA",
-      "conducere_url": "https://www.ior.ro/conducere/",
-      "domeniu": "ior.ro",
-      "cv_pdfs": [
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV OANCEA D.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV OANCEA D.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV NENIU C S.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV NENIU C S.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV BARBU N S.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV BARBU N S.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV RADU F.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV RADU F.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV VOICU A.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV VOICU A.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV DOBRIN C O.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV DOBRIN C O.pdf",
-        "https://www.ior.ro/wp-content/uploads/2022/10/CV-Flavius-Constantin-NEDELCEA.pdf",
-        "https://www.ior.ro/wp-content/uploads/2023/02/CV-TERENTE-CIUI.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV IAMANDI.pdf",
-        "https://www.ior.ro/wp-content/uploads/2022/10/CV-Bogdan-CRETOIU.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV VARSENDAN.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV MANAFU A S.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV CIONGA V.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV STOICESCU D L.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV GROZAVU M.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV PANTEA N.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV ENUICA M.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV FLORESCU A.pdf",
-        "https://www.ior.ro/wp-content/uploads/doc/despre noi/conducere/CV DUNOSE M V.pdf",
-        "https://www.ior.ro/wp-content/uploads/2022/11/CV-Ciprian-Mitu.pdf",
-        "https://www.ior.ro/wp-content/uploads/2022/11/CV-Maria-Magdalena-Canescu.pdf",
-        "https://www.ior.ro/wp-content/uploads/2022/11/CV-niculai-tanase.pdf",
-        "https://www.ior.ro/wp-content/uploads/2022/11/CV-Valicu-Caliu-Felicia-Marcela.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "cv_pdf": 38,
+      "bio_inline": 3
     },
     {
-      "nume": "MINPREST SERV SA",
-      "conducere_url": "https://www.minprest.ro/conducere/",
-      "domeniu": "minprest.ro",
-      "cv_pdfs": [
-        "https://minprest.ro/wp-content/uploads/2024/07/Cv-dl-Oprea.pdf",
-        "https://minprest.ro/wp-content/uploads/2020/07/CV-Ana-Maria-Nicolescu.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "NUŞFALĂU SERV SRL",
-      "conducere_url": "https://www.nusfalau.ro/conducere/",
-      "domeniu": "nusfalau.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 135359
-    },
-    {
-      "nume": "PUBLIVOL CREATIV S.A.",
-      "conducere_url": "https://www.publivol.ro/conducere/",
-      "domeniu": "publivol.ro",
-      "cv_pdfs": [
-        "https://publivol.ro/wp-content/uploads/2026/02/CV-POPESCU-DAN-CRISTIAN.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "nume": "CARFIL INDUSTRIAL PARC SA",
+      "cv_pdf": 22,
+      "bio_inline": 0
     },
     {
       "nume": "JUPSAL SALUBRIS SRL",
-      "conducere_url": "https://www.salubris.ro/echipa/",
-      "domeniu": "salubris.ro",
-      "cv_pdfs": [
-        "https://salubris.ro/wp-content/uploads/2023/07/cv-neculau.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/07/cv-sauciuc.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/07/cv-tiron.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/06/cv-balan.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/07/cv-cristina.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/07/cv-iorga.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/07/cv-profire.pdf",
-        "https://salubris.ro/wp-content/uploads/2023/08/cv-gheorghiu.pdf",
-        "https://salubris.ro/wp-content/uploads/2020/07/CV-VORNICU.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "cv_pdf": 12,
+      "bio_inline": 0
     },
     {
       "nume": "SALUBRITATE 2000 SA",
-      "conducere_url": "https://www.salubritate-2000.ro/conducere/",
-      "domeniu": "salubritate-2000.ro",
-      "cv_pdfs": [
-        "https://www.salubritate-2000.ro/wp-content/uploads/2025/05/CV-Diaconescu-Adrian-Dorin.pdf",
-        "https://www.salubritate-2000.ro/wp-content/uploads/2025/05/CV-Becheanu-Romi.pdf",
-        "https://www.salubritate-2000.ro/wp-content/uploads/2025/05/CV-Marinescu-Mihail.pdf",
-        "https://www.salubritate-2000.ro/wp-content/uploads/2025/05/CV-Coman-Marinela-Sorina.pdf",
-        "https://www.salubritate-2000.ro/wp-content/uploads/2025/05/CV-Olteanu-Elena-Zanica.pdf",
-        "https://www.salubritate-2000.ro/wp-content/uploads/2025/06/CV-Becheanu-Romi.pdf",
-        "http://www.salubritate-2000.ro/wp-content/uploads/2015/06/CV-Diaconescu-Adrian-Dorin.pdf",
-        "http://www.salubritate-2000.ro/wp-content/uploads/2015/06/CV-Becheanu-Romi-Ilie.pdf",
-        "http://www.salubritate-2000.ro/wp-content/uploads/2015/06/CV-Olteanu-Elena-Zinica.pdf",
-        "http://www.salubritate-2000.ro/wp-content/uploads/2015/06/CV-Becheanu-Romi-Ilie.pdf",
-        "http://www.salubritate-2000.ro/wp-content/uploads/2025/02/Curriculum-Vitae-Diaconescu-Adrian-Dorin_def.pdf",
-        "http://www.salubritate-2000.ro/wp-content/uploads/2025/02/Curriculum-Vitae-Diaconescu-Adrian-Dorin_def.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "cv_pdf": 10,
+      "bio_inline": 0
     },
     {
-      "nume": "INSTITUTUL DE CERCETARI IN TRANSPORTURI INCERTRANS SA",
-      "conducere_url": "https://www.incertrans.ro/consiliul-de-administratie/",
-      "domeniu": "incertrans.ro",
-      "cv_pdfs": [
-        "https://incertrans.ro/wp-content/uploads/2026/03/CV-Cladoveanu.pdf",
-        "https://incertrans.ro/wp-content/uploads/2026/03/CV-Zapciu.pdf",
-        "https://incertrans.ro/wp-content/uploads/2026/03/CV-Buica.pdf",
-        "https://incertrans.ro/wp-content/uploads/2026/03/CV-Nica.pdf",
-        "https://incertrans.ro/wp-content/uploads/2026/03/CV-Chirtes.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "SALUBRITERM SERV S.R.L.",
-      "conducere_url": "https://www.salubriterm.ro/cv/",
-      "domeniu": "salubriterm.ro",
-      "cv_pdfs": [
-        "https://www.salubriterm.ro/wp-content/uploads/2024/12/cv-alina-pasca-.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "SALUBRIZARE ŞI GOSPODĂRIE CAZASU SRL",
-      "conducere_url": "https://www.cazasu.ro/conducere/",
-      "domeniu": "cazasu.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 136308
-    },
-    {
-      "nume": "SCĂRIŞOARA PRICONSERV SRL",
-      "conducere_url": "https://www.scarisoara.ro/conducere/",
-      "domeniu": "scarisoara.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 53018
-    },
-    {
-      "nume": "SALUBRITATE CRAIOVA SRL",
-      "conducere_url": "https://salubritate-craiova.ro/echipa/",
-      "domeniu": "salubritate-craiova.ro",
-      "cv_pdfs": [
-        "https://salubritate-craiova.ro/wp-content/uploads/2023/10/CV-Mihai-Butari.pdf",
-        "https://www.salubritatecraiova.ro/wp-content/uploads/2025/04/CV-Dobre-Dragos_r.pdf",
-        "https://salubritate-craiova.ro/wp-content/uploads/2023/10/CV-Gingioveanu-Doina.pdf",
-        "https://salubritate-craiova.ro/wp-content/uploads/2023/10/CV-Purcarin-Andrei-1.pdf",
-        "https://salubritate-craiova.ro/wp-content/uploads/2023/10/CV-Daladimos-Paris.pdf",
-        "https://salubritate-craiova.ro/wp-content/uploads/2024/09/CV-Truta-Marius.pdf",
-        "https://salubritate-craiova.ro/wp-content/uploads/2023/10/CV-Pirvu-Ionut.pdf",
-        "https://salubritate-craiova.ro/wp-content/uploads/2023/10/cv-DinutiCosmin-1.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 22591
-    },
-    {
-      "nume": "SERVICII PUBLICE ALEXANDRIA S.R.L.",
-      "conducere_url": "https://www.alexandria.ro/conducere/",
-      "domeniu": "alexandria.ro",
-      "cv_pdfs": [
-        "https://alexandria.ro/storage/2022/03/CV-Europass-20181112-Augustin-RO-cu-diacritice.pdf",
-        "https://alexandria.ro/storage/2022/03/CV_ENE.pdf",
-        "https://alexandria.ro/storage/2022/03/Cv-ceciu-alexandru.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 49099
-    },
-    {
-      "nume": "SNGN \"ROMGAZ\" SA-FILIALA DE ÎNMAGAZINARE GAZE NATURALE DEPOGAZ PLOIEŞTI SRL",
-      "conducere_url": "https://www.romgaz.ro/management/",
-      "domeniu": "romgaz.ro",
-      "cv_pdfs": [
-        "https://www.romgaz.ro/sites/default/files/2022-08/CURRICULUM%20VITAE%20-%20Aristotel%20Marius%20JUDE.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 6525
-    },
-    {
-      "nume": "SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
-      "conducere_url": "https://www.hidroserv.ro/consiliul-de-administratie/",
-      "domeniu": "hidroserv.ro",
-      "cv_pdfs": [
-        "http://hidroserv.ro/wp-content/uploads/2026/02/CV-M.-Vintila-1.pdf",
-        "http://hidroserv.ro/wp-content/uploads/2026/02/CV-B.-Medrea.pdf",
-        "http://hidroserv.ro/wp-content/uploads/2026/02/CV-S.-Fartat.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "TERMOFICARE CONSTANTA S.R.L.",
-      "conducere_url": "https://www.termoficare-constanta.ro/conducere/",
-      "domeniu": "termoficare-constanta.ro",
-      "cv_pdfs": [
-        "https://www.termoficare-constanta.ro/DOCUMENTE/CONDUCERE/CV_Liviu_Popa.pdf",
-        "https://www.termoficare-constanta.ro/DOCUMENTE/CONDUCERE/CV_Liviu_Popa.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 38311
-    },
-    {
-      "nume": "TRANSURB SA",
-      "conducere_url": "https://www.transurb.ro/conducere/",
-      "domeniu": "transurb.ro",
-      "cv_pdfs": [
-        "https://transurb.ro/wp-content/uploads/2025/12/CV-Europass-20190115-Vechiu-RO.pdf",
-        "https://transurb.ro/wp-content/uploads/2025/12/CV-Europass-20190107-Moldoveanu-RO.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "URBI-SERV PECICA S.A.",
-      "conducere_url": "https://www.pecica.ro/conducere/",
-      "domeniu": "pecica.ro",
-      "cv_pdfs": [
-        "https://www.pecica.ro/wp-content/uploads/2020/07/CV-Antal-Petru.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "nume": "IAR SA",
+      "cv_pdf": 9,
+      "bio_inline": 0
     },
     {
       "nume": "UTILPUB PREST ECO SERV PPL S.R.L.",
-      "conducere_url": "https://www.utilpub.ro/conducere/",
-      "domeniu": "utilpub.ro",
-      "cv_pdfs": [
-        "https://utilpub.ro/wp-content/uploads/2026/01/CV-DIRECTOR-GENERAL.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV-DIR-GEN-MIHALACHE-1.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV-DIR-GEN-NICOLAE-FLORIN-1.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV_Alionte-Gheorghe.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV_Popescu-Mihaela.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV_Pasculea-Marius.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV_Arhire-Carmen.pdf",
-        "https://utilpub.ro/wp-content/uploads/2023/03/CV_Dragan-Adrian.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "cv_pdf": 9,
+      "bio_inline": 0
     },
     {
-      "nume": "VOINŢA CÂNDEŞTI SRL",
-      "conducere_url": "https://www.candesti.ro/conducere/",
-      "domeniu": "candesti.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 144840
+      "nume": "ECO - SAL SA",
+      "cv_pdf": 8,
+      "bio_inline": 2
+    },
+    {
+      "nume": "SALUBRITATE CRAIOVA SRL",
+      "cv_pdf": 8,
+      "bio_inline": 1
+    },
+    {
+      "nume": "CALORGAL S.R.L.",
+      "cv_pdf": 7,
+      "bio_inline": 2
+    },
+    {
+      "nume": "MINPREST SERV SA",
+      "cv_pdf": 7,
+      "bio_inline": 0
     },
     {
       "nume": "ANPIS — Plăți și Inspecție Socială",
-      "conducere_url": "https://www.mmanpis.ro/conducere/",
-      "domeniu": "mmanpis.ro",
-      "cv_pdfs": [
-        "https://www.mmanpis.ro/wp-content/uploads/2026/01/CV-Morosanu-Daniela-2026.pdf",
-        "https://www.mmanpis.ro/wp-content/uploads/2019/09/CV-Opris-Gabriela.pdf",
-        "https://www.mmanpis.ro/wp-content/uploads/2016/06/CV-Joldoș-Daniela.pdf",
-        "https://www.mmanpis.ro/wp-content/uploads/2026/01/CV-Tudorie-Georgica-2026-gdpr.pdf",
-        "https://www.mmanpis.ro/wp-content/uploads/2024/03/CV-Vintilescu-Belciug-Adrian-2024-.pdf",
-        "https://www.mmanpis.ro/wp-content/uploads/2026/01/CV_Nicolae-Draganescu.pdf",
-        "https://www.mmanpis.ro/wp-content/uploads/2025/05/cv-europass-Gina-Popescu.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 33674
-    },
-    {
-      "nume": "ANRE — Reglementare Energie",
-      "conducere_url": "https://www.anre.ro/conducere/",
-      "domeniu": "anre.ro",
-      "cv_pdfs": [
-        "https://anre.ro/wp-content/uploads/2023/05/CV-George-Sergiu-Niculescu-2023.pdf",
-        "https://anre.ro/wp-content/uploads/2023/05/CV-Gabriel-Andronache-2023.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "Casa Națională de Asigurări de Sănătate",
-      "conducere_url": "https://www.cnas.ro/conducere/",
-      "domeniu": "cnas.ro",
-      "cv_pdfs": [
-        "https://cnas.ro/wp-content/uploads/2025/06/CV_Horatiu_Moldovan.pdf",
-        "https://cnas.ro/wp-content/uploads/2026/03/CV-Larisa-Mezinu-Balan.pdf",
-        "https://cnas.ro/wp-content/uploads/2026/01/CV-2025-1.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 203284
-    },
-    {
-      "nume": "DSP Botoșani",
-      "conducere_url": "https://www.dspbotosani.ro/conducere/",
-      "domeniu": "dspbotosani.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 178019
-    },
-    {
-      "nume": "DSP Călărași",
-      "conducere_url": "https://www.dspcalarasi.ro/conducere/",
-      "domeniu": "dspcalarasi.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 30213
-    },
-    {
-      "nume": "DSP Arad",
-      "conducere_url": "https://www.dsparad.ro/conducere/",
-      "domeniu": "dsparad.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 24046
-    },
-    {
-      "nume": "DSP Iași",
-      "conducere_url": "https://www.dspiasi.ro/conducere/",
-      "domeniu": "dspiasi.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 39735
-    },
-    {
-      "nume": "DSP Giurgiu",
-      "conducere_url": "https://www.dspgiurgiu.ro/conducere/",
-      "domeniu": "dspgiurgiu.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 25792
-    },
-    {
-      "nume": "DSP Galați",
-      "conducere_url": "https://www.dsp-galati.ro/conducere/",
-      "domeniu": "dsp-galati.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 25978
-    },
-    {
-      "nume": "ANCOM — Comunicații",
-      "conducere_url": "https://www.ancom.ro/despre-noi/conducere/",
-      "domeniu": "ancom.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 76398
-    },
-    {
-      "nume": "SECURITY VOL S.A.",
-      "conducere_url": "https://security-vol.ro/echipa/",
-      "domeniu": "security-vol.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 27994
-    },
-    {
-      "nume": "Direcția Generală Anticorupție",
-      "conducere_url": "https://www.mai-dga.ro/conducere/",
-      "domeniu": "mai-dga.ro",
-      "cv_pdfs": [
-        "https://www.mai-dga.ro/wp-content/uploads/2023/04/Manuela_Popescu_CV_Ro.pdf",
-        "https://www.mai-dga.ro/wp-content/uploads/2023/11/CV-director-general-Ciobanu-Bogdan.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
-    },
-    {
-      "nume": "ISJ Alba",
-      "conducere_url": "https://www.isjalba.ro/conducere/",
-      "domeniu": "isjalba.ro",
-      "cv_pdfs": [
-        "https://isjalba.ro/storage/2022/05/CV-Europass-Chereches-Dan_RO-2022.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 38138
-    },
-    {
-      "nume": "ISJ Botoșani",
-      "conducere_url": "https://www.isjbotosani.ro/conducere/",
-      "domeniu": "isjbotosani.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 47097
-    },
-    {
-      "nume": "ISJ Olt",
-      "conducere_url": "https://www.isjolt.ro/management/",
-      "domeniu": "isjolt.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 47931
-    },
-    {
-      "nume": "ISJ Vrancea",
-      "conducere_url": "https://www.isjvrancea.ro/management/",
-      "domeniu": "isjvrancea.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 70741
-    },
-    {
-      "nume": "Ministerul Culturii",
-      "conducere_url": "https://www.cultura.ro/conducere/",
-      "domeniu": "cultura.ro",
-      "cv_pdfs": [],
-      "bio_inline": true,
-      "bio_len": 251690
+      "cv_pdf": 7,
+      "bio_inline": 14
     },
     {
       "nume": "Metrorex",
-      "conducere_url": "https://www.metrorex.ro/conducere/",
-      "domeniu": "metrorex.ro",
-      "cv_pdfs": [
-        "https://www.metrorex.ro/storage/documents/1717053657CV_Mariana_Petre.pdf",
-        "https://www.metrorex.ro/storage/documents/1717053629CV_Iosif_Szentes.pdf",
-        "https://www.metrorex.ro/storage/documents/1717053657CV_Mariana_Petre.pdf",
-        "https://www.metrorex.ro/storage/documents/1717053629CV_Iosif_Szentes.pdf"
-      ],
-      "bio_inline": true,
-      "bio_len": 1114176
+      "cv_pdf": 7,
+      "bio_inline": 27
+    },
+    {
+      "nume": "APAVITAL SA",
+      "cv_pdf": 6,
+      "bio_inline": 0
+    },
+    {
+      "nume": "COMPANIA NATIONALA DE TRANSPORTURI AERIENE ROMANE TAROM SA",
+      "cv_pdf": 6,
+      "bio_inline": 0
+    },
+    {
+      "nume": "EURO APAVOL S.A.",
+      "cv_pdf": 6,
+      "bio_inline": 1
+    },
+    {
+      "nume": "ECOVOL ILFOV S.A.",
+      "cv_pdf": 6,
+      "bio_inline": 0
+    },
+    {
+      "nume": "INSTITUTUL DE CERCETARI IN TRANSPORTURI INCERTRANS SA",
+      "cv_pdf": 6,
+      "bio_inline": 0
+    },
+    {
+      "nume": "ACMVOL DESIGN S.A.",
+      "cv_pdf": 4,
+      "bio_inline": 0
+    },
+    {
+      "nume": "PUBLIVOL CREATIV S.A.",
+      "cv_pdf": 4,
+      "bio_inline": 0
+    },
+    {
+      "nume": "HIDRO PRAHOVA SA",
+      "cv_pdf": 3,
+      "bio_inline": 0
+    },
+    {
+      "nume": "ROMFILATELIA SA",
+      "cv_pdf": 3,
+      "bio_inline": 1
+    },
+    {
+      "nume": "SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
+      "cv_pdf": 3,
+      "bio_inline": 0
+    },
+    {
+      "nume": "SERVICII PUBLICE ALEXANDRIA S.R.L.",
+      "cv_pdf": 3,
+      "bio_inline": 3
+    },
+    {
+      "nume": "ANCPI — Cadastru",
+      "cv_pdf": 3,
+      "bio_inline": 8
+    },
+    {
+      "nume": "Casa Națională de Asigurări de Sănătate",
+      "cv_pdf": 3,
+      "bio_inline": 5
     },
     {
       "nume": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
-      "conducere_url": "https://www.economie.gov.ro/conducere",
-      "domeniu": "economie.gov.ro",
-      "cv_pdfs": [
-        "https://economie.gov.ro/wp-content/uploads/2026/04/Darau-CV-romana.pdf",
-        "https://economie.gov.ro/wp-content/uploads/2026/05/CV-2026-Dan-Adrian-Pop-RO.pdf",
-        "https://economie.gov.ro/wp-content/uploads/2026/02/CV-ANDREI-MIFTODE-2026.pdf"
-      ],
-      "bio_inline": false,
-      "bio_len": 0
+      "cv_pdf": 3,
+      "bio_inline": 3
+    },
+    {
+      "nume": "ACVATERM SA",
+      "cv_pdf": 2,
+      "bio_inline": 0
+    },
+    {
+      "nume": "TRANSURB SA",
+      "cv_pdf": 2,
+      "bio_inline": 0
+    },
+    {
+      "nume": "ANRE — Reglementare Energie",
+      "cv_pdf": 2,
+      "bio_inline": 0
+    },
+    {
+      "nume": "Direcția Generală Anticorupție",
+      "cv_pdf": 2,
+      "bio_inline": 6
+    },
+    {
+      "nume": "AQUATERA ADUNAŢII COPĂCENI SRL",
+      "cv_pdf": 1,
+      "bio_inline": 0
+    },
+    {
+      "nume": "CONVERSMIN SA",
+      "cv_pdf": 1,
+      "bio_inline": 2
+    },
+    {
+      "nume": "GUGULANIA LAND SRL",
+      "cv_pdf": 1,
+      "bio_inline": 0
+    },
+    {
+      "nume": "PIROCHIM VICTORIA SA",
+      "cv_pdf": 1,
+      "bio_inline": 3
+    },
+    {
+      "nume": "SNGN \"ROMGAZ\" SA-FILIALA DE ÎNMAGAZINARE GAZE NATURALE DEPOGAZ PLOIEŞTI SRL",
+      "cv_pdf": 1,
+      "bio_inline": 6
+    },
+    {
+      "nume": "TERMOFICARE CONSTANTA S.R.L.",
+      "cv_pdf": 1,
+      "bio_inline": 3
+    },
+    {
+      "nume": "URBI-SERV PECICA S.A.",
+      "cv_pdf": 1,
+      "bio_inline": 1
+    },
+    {
+      "nume": "ISJ Alba",
+      "cv_pdf": 1,
+      "bio_inline": 2
+    },
+    {
+      "nume": "ADMINISTRAREA PARCULUI INDUSTRIAL MANGALIA SRL",
+      "cv_pdf": 0,
+      "bio_inline": 6
+    },
+    {
+      "nume": "COMPANIA NATIONALA ROMARM S.A. FILIALA SOCIETATEA METROM S.A.",
+      "cv_pdf": 0,
+      "bio_inline": 1
+    },
+    {
+      "nume": "COMPANIA NAŢIONALĂ ROMARM S.A.-FILIALA SOCIETATEA UZINA DE PRODUSE SPECIALE DRAGOMIREŞTI S.A.",
+      "cv_pdf": 0,
+      "bio_inline": 18
+    },
+    {
+      "nume": "APĂ-CANAL TĂLMACIU SRL",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "ACET SA",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "HORTICULTURA SA",
+      "cv_pdf": 0,
+      "bio_inline": 3
+    },
+    {
+      "nume": "DISTRIGAZ ŞIMIAN S.R.L.",
+      "cv_pdf": 0,
+      "bio_inline": 9
+    },
+    {
+      "nume": "AGENŢIA DE DEZVOLTARE LOCALĂ ORADEA S.A.",
+      "cv_pdf": 0,
+      "bio_inline": 20
+    },
+    {
+      "nume": "PRESTĂRI SERVICII SILIŞTEA SRL",
+      "cv_pdf": 0,
+      "bio_inline": 1
+    },
+    {
+      "nume": "SCĂRIŞOARA PRICONSERV SRL",
+      "cv_pdf": 0,
+      "bio_inline": 3
+    },
+    {
+      "nume": "SERVICII DE UTILITATE PUBLICĂ JIRLĂU SRL",
+      "cv_pdf": 0,
+      "bio_inline": 7
+    },
+    {
+      "nume": "SALUBRIZARE ŞI GOSPODĂRIE CAZASU SRL",
+      "cv_pdf": 0,
+      "bio_inline": 61
+    },
+    {
+      "nume": "NUŞFALĂU SERV SRL",
+      "cv_pdf": 0,
+      "bio_inline": 61
+    },
+    {
+      "nume": "Consiliul Concurenței",
+      "cv_pdf": 0,
+      "bio_inline": 19
+    },
+    {
+      "nume": "DGASPC Buzău",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "DGASPC Arad",
+      "cv_pdf": 0,
+      "bio_inline": 32
+    },
+    {
+      "nume": "DGASPC Galați",
+      "cv_pdf": 0,
+      "bio_inline": 3
+    },
+    {
+      "nume": "DSP Alba",
+      "cv_pdf": 0,
+      "bio_inline": 6
+    },
+    {
+      "nume": "VOINŢA CÂNDEŞTI SRL",
+      "cv_pdf": 0,
+      "bio_inline": 61
+    },
+    {
+      "nume": "DSP Arad",
+      "cv_pdf": 0,
+      "bio_inline": 8
+    },
+    {
+      "nume": "DSP Călărași",
+      "cv_pdf": 0,
+      "bio_inline": 6
+    },
+    {
+      "nume": "UAT CONSTRUCT ADJUD S.R.L.",
+      "cv_pdf": 0,
+      "bio_inline": 41
+    },
+    {
+      "nume": "DSP Giurgiu",
+      "cv_pdf": 0,
+      "bio_inline": 7
+    },
+    {
+      "nume": "DSP Galați",
+      "cv_pdf": 0,
+      "bio_inline": 7
+    },
+    {
+      "nume": "DSP Iași",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "DSP Botoșani",
+      "cv_pdf": 0,
+      "bio_inline": 7
+    },
+    {
+      "nume": "DSVSA Bacău",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "ANCOM — Comunicații",
+      "cv_pdf": 0,
+      "bio_inline": 12
+    },
+    {
+      "nume": "DSVSA Bihor",
+      "cv_pdf": 0,
+      "bio_inline": 6
+    },
+    {
+      "nume": "DSVSA Brașov",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "DSVSA Brăila",
+      "cv_pdf": 0,
+      "bio_inline": 4
+    },
+    {
+      "nume": "DSVSA București",
+      "cv_pdf": 0,
+      "bio_inline": 4
+    },
+    {
+      "nume": "DSVSA Buzău",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "DSVSA Covasna",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "DSVSA Dolj",
+      "cv_pdf": 0,
+      "bio_inline": 6
+    },
+    {
+      "nume": "DSVSA Dâmbovița",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "DSVSA Gorj",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "DSVSA Ialomița",
+      "cv_pdf": 0,
+      "bio_inline": 7
+    },
+    {
+      "nume": "DSVSA Maramureș",
+      "cv_pdf": 0,
+      "bio_inline": 1
+    },
+    {
+      "nume": "DSVSA Iași",
+      "cv_pdf": 0,
+      "bio_inline": 4
+    },
+    {
+      "nume": "DSVSA Mehedinți",
+      "cv_pdf": 0,
+      "bio_inline": 4
+    },
+    {
+      "nume": "DSVSA Sălaj",
+      "cv_pdf": 0,
+      "bio_inline": 8
+    },
+    {
+      "nume": "ISJ Gorj",
+      "cv_pdf": 0,
+      "bio_inline": 1
+    },
+    {
+      "nume": "ISJ Olt",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "DSVSA Tulcea",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "DSVSA Timiș",
+      "cv_pdf": 0,
+      "bio_inline": 3
+    },
+    {
+      "nume": "DSVSA Vaslui",
+      "cv_pdf": 0,
+      "bio_inline": 3
+    },
+    {
+      "nume": "ISJ Vrancea",
+      "cv_pdf": 0,
+      "bio_inline": 3
+    },
+    {
+      "nume": "Ministerul Muncii, Familiei, Tineretului și Solidarității Sociale",
+      "cv_pdf": 0,
+      "bio_inline": 7
+    },
+    {
+      "nume": "OCPI Timiș",
+      "cv_pdf": 0,
+      "bio_inline": 2
+    },
+    {
+      "nume": "Ministerul Culturii",
+      "cv_pdf": 0,
+      "bio_inline": 50
+    },
+    {
+      "nume": "ISJ Botoșani",
+      "cv_pdf": 0,
+      "bio_inline": 5
+    },
+    {
+      "nume": "SECURITY VOL S.A.",
+      "cv_pdf": 0,
+      "bio_inline": 1
+    },
+    {
+      "nume": "Ministerul Investițiilor și Proiectelor Europene",
+      "cv_pdf": 0,
+      "bio_inline": 62
     }
   ],
-  "total_surse": 54,
-  "total_cv_pdf": 253,
-  "cu_bio_inline": 28
+  "total_cv_pdf": 265,
+  "total_bio_inline": 718
 }
