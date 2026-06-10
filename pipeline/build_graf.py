@@ -69,20 +69,25 @@ def main() -> dict:
             p["nume"] = p["nume"] or r["nume"]
             p["companii"].append({"cui": c["cui"], "nume": co.get("name", c.get("denumire", "")),
                                   "rol": r["calitate"], "sector": co.get("sector", ""),
-                                  "status_fin": co.get("financial_status", "")})
+                                  "status_fin": co.get("financial_status", ""),
+                                  "financials": co.get("financials")})
             nc += 1
 
-    # 3. CV-uri
+    # 3. CV-uri (conducere SOE/instituții + deputați)
     ncv = 0
-    cv = json.load(open(os.path.join(V, "companii/cv.json"), encoding="utf-8"))["cv"]
-    for r in cv:
-        if not r.get("nume") or not (r.get("studii") or r.get("experienta")):
+    cv_files = [("companii/cv.json", "cv"), ("companii/cv_parlament.json", "cv")]
+    for fn, key in cv_files:
+        p_ = os.path.join(V, fn)
+        if not os.path.exists(p_):
             continue
-        nm = _norm(r["nume"])
-        persoane[nm]["cv"] = {"studii": r.get("studii", ""), "experienta": r.get("experienta", ""),
-                              "entitate": r.get("entitate", "")}
-        persoane[nm]["nume"] = persoane[nm]["nume"] or r["nume"]
-        ncv += 1
+        for r in json.load(open(p_, encoding="utf-8")).get(key, []):
+            if not r.get("nume") or not (r.get("studii") or r.get("experienta")):
+                continue
+            nm = _norm(r["nume"])
+            persoane[nm]["cv"] = {"studii": r.get("studii", ""), "experienta": r.get("experienta", ""),
+                                  "entitate": r.get("entitate", "") or r.get("partid", "")}
+            persoane[nm]["nume"] = persoane[nm]["nume"] or r["nume"]
+            ncv += 1
 
     # finalizează
     out = []

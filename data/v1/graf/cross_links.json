@@ -55,28 +55,56 @@
           "nume": "HYDROKOV S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 55671314,
+            "profit_net": 9477450,
+            "datorii": 22648685,
+            "nr_salariati": 294
+          }
         },
         {
           "cui": 10755074,
           "nume": "COMPANIA AQUASERV SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 173021644,
+            "profit_net": 11344262,
+            "datorii": 106701497,
+            "nr_salariati": 690
+          }
         },
         {
           "cui": 15349689,
           "nume": "PARC INDUSTRIAL MURES SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2357134,
+            "profit_net": 13517,
+            "datorii": 889488,
+            "nr_salariati": 7
+          }
         },
         {
           "cui": 39716308,
           "nume": "SEPSI ÚT-ÉPÍTŐ S.R.L.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4594687,
+            "profit_net": 902612,
+            "datorii": 396713,
+            "nr_salariati": 27
+          }
         }
       ],
       "cv": null
@@ -104,28 +132,56 @@
           "nume": "PIROCHIM VICTORIA SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 370935,
+            "profit_net": 294083,
+            "datorii": 7016472,
+            "nr_salariati": 74
+          }
         },
         {
           "cui": 37804055,
           "nume": "COMPANIA MUNICIPALĂ ECO IGIENIZARE BUCUREȘTI S.A.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 24275193,
+            "profit_net": 1072672,
+            "datorii": 1527068,
+            "nr_salariati": 153
+          }
         },
         {
           "cui": 11573879,
           "nume": "SERVICE CICLOP SA",
           "rol": "administrator",
           "sector": "Comerț",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          }
         },
         {
           "cui": 340312,
           "nume": "IOR SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 17157204,
+            "profit_net": 659271,
+            "datorii": 51793039,
+            "nr_salariati": 279
+          }
         }
       ],
       "cv": null
@@ -273,21 +329,42 @@
           "nume": "COMPANIA DE APA TARGOVISTE-DAMBOVITA SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 115524842,
+            "profit_net": 7873574,
+            "datorii": 27068876,
+            "nr_salariati": 698
+          }
         },
         {
           "cui": 14923006,
           "nume": "CONVERSMIN SA",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4028727,
+            "profit_net": -471716,
+            "datorii": 19368826,
+            "nr_salariati": 34
+          }
         },
         {
           "cui": 938970,
           "nume": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 14883551,
+            "profit_net": -11903992,
+            "datorii": 66309632,
+            "nr_salariati": 302
+          }
         }
       ],
       "cv": null
@@ -399,21 +476,42 @@
           "nume": "TRANSPORT PUBLIC SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 14697870,
+            "profit_net": 116871,
+            "datorii": 3390183,
+            "nr_salariati": 96
+          }
         },
         {
           "cui": 27436894,
           "nume": "SERVICII LOCALE IZVOARELE SRL",
           "rol": "administrator provizoriu",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 414242,
+            "profit_net": 736,
+            "datorii": 56519,
+            "nr_salariati": 4
+          }
         },
         {
           "cui": 27293115,
           "nume": "PRESTĂRI BĂRĂŞTI SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 375157,
+            "profit_net": 8203,
+            "datorii": 51493,
+            "nr_salariati": 5
+          }
         }
       ],
       "cv": null
@@ -514,21 +612,42 @@
           "nume": "UZINA MECANICA PLOPENI SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 28832359,
+            "profit_net": -700731,
+            "datorii": 65880938,
+            "nr_salariati": 254
+          }
         },
         {
           "cui": 13945863,
           "nume": "COMPANIA NATIONALA ROMARM SA BUCURESTI FILIALA SOCIETATEA CARFIL S.A.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 96629929,
+            "profit_net": 513449,
+            "datorii": 127840024,
+            "nr_salariati": 392
+          }
         },
         {
           "cui": 13652413,
           "nume": "SOCIETATEA ”TOHAN” S.A. FILIALĂ A COMPANIEI NAŢIONALE ”ROMARM” S.A.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 43610772,
+            "profit_net": 420965,
+            "datorii": 41353526,
+            "nr_salariati": 359
+          }
         }
       ],
       "cv": null
@@ -600,21 +719,42 @@
           "nume": "ECOVOL ILFOV S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 63190152,
+            "profit_net": 649264,
+            "datorii": 41650027,
+            "nr_salariati": 382
+          }
         },
         {
           "cui": 26761188,
           "nume": "TELEVOL SYSTEMS SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3246034,
+            "profit_net": 20307,
+            "datorii": 861412,
+            "nr_salariati": 15
+          }
         },
         {
           "cui": 33137064,
           "nume": "ACMVOL DESIGN S.A.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10913048,
+            "profit_net": 1499015,
+            "datorii": 4322555,
+            "nr_salariati": 53
+          }
         }
       ],
       "cv": {
@@ -672,21 +812,42 @@
           "nume": "AVIOANE CRAIOVA SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 54039590,
+            "profit_net": 113072,
+            "datorii": 254449338,
+            "nr_salariati": 273
+          }
         },
         {
           "cui": 32267317,
           "nume": "URBAN ACTIV SERV SRL",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1826896,
+            "profit_net": 7112,
+            "datorii": 472985,
+            "nr_salariati": 26
+          }
         },
         {
           "cui": 1355770,
           "nume": "TRANSPORT CĂLĂTORI EXPRESS S.A.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 94041449,
+            "profit_net": -21833297,
+            "datorii": 67538369,
+            "nr_salariati": 884
+          }
         }
       ],
       "cv": null
@@ -832,14 +993,28 @@
           "nume": "THERMOENERGY GROUP S.A.",
           "rol": "administrator",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 153565246,
+            "profit_net": 851185,
+            "datorii": 80171360,
+            "nr_salariati": 338
+          }
         },
         {
           "cui": 37996252,
           "nume": "APĂ-CANAL DESNĂŢUI SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 299937,
+            "profit_net": -2768,
+            "datorii": 271358,
+            "nr_salariati": 3
+          }
         }
       ],
       "cv": null
@@ -981,14 +1156,28 @@
           "nume": "CENTRUL DE RESURSE PENTRU AFACERI VASLUI - CRAV SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1478564,
+            "profit_net": 210517,
+            "datorii": 124725,
+            "nr_salariati": 9
+          }
         },
         {
           "cui": 10946600,
           "nume": "S.C. LUCRĂRI DRUMURI ŞI PODURI SA VASLUI",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 48014969,
+            "profit_net": 4301062,
+            "datorii": 15139208,
+            "nr_salariati": 100
+          }
         }
       ],
       "cv": null
@@ -1120,14 +1309,28 @@
           "nume": "OCOLUL SILVIC TIHUŢA-COLIBIŢA RA",
           "rol": "administrator",
           "sector": "Agricultură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2633618,
+            "profit_net": 109180,
+            "datorii": 930011,
+            "nr_salariati": 23
+          }
         },
         {
           "cui": 14547106,
           "nume": "SOCIETATEA TIPOGRAFICĂ FILARET S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5302235,
+            "profit_net": 29134,
+            "datorii": 744497,
+            "nr_salariati": 37
+          }
         }
       ],
       "cv": null
@@ -1245,14 +1448,28 @@
           "nume": "COMPLEX TURISTIC LUGHET S.R.L.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 351555,
+            "profit_net": -37935,
+            "datorii": 39975,
+            "nr_salariati": 3
+          }
         },
         {
           "cui": 25428615,
           "nume": "SALUBRITATEA IBSV SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2963225,
+            "profit_net": 216077,
+            "datorii": 857378,
+            "nr_salariati": 19
+          }
         }
       ],
       "cv": null
@@ -1349,14 +1566,28 @@
           "nume": "SALUBRIZARE SECTOR 5 S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 162909881,
+            "profit_net": 19160916,
+            "datorii": 76591026,
+            "nr_salariati": 792
+          }
         },
         {
           "cui": 42049115,
           "nume": "INFRASTRUCTURĂ S5 S.A.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 86947753,
+            "profit_net": 5329772,
+            "datorii": 37420762,
+            "nr_salariati": null
+          }
         }
       ],
       "cv": null
@@ -1446,14 +1677,28 @@
           "nume": "UTIL-ADSIC FÂNTÂNELE SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 641499,
+            "profit_net": 889,
+            "datorii": 67227,
+            "nr_salariati": null
+          }
         },
         {
           "cui": 38636359,
           "nume": "APA SERV TOP STÂLPENI S.R.L.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 822943,
+            "profit_net": 56739,
+            "datorii": 184159,
+            "nr_salariati": 6
+          }
         }
       ],
       "cv": null
@@ -1542,14 +1787,16 @@
           "nume": "AQUACEPTURA S.R.L.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 34796560,
           "nume": "GOSPODĂRIRE COMUNALĂ ȘI ÎNTREȚINERE PEISAGISTICĂ GHIMPAȚI SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "OPACĂ"
+          "status_fin": "OPACĂ",
+          "financials": []
         }
       ],
       "cv": null
@@ -1643,14 +1890,28 @@
           "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          }
         },
         {
           "cui": 28133465,
           "nume": "GOSPOCERNA LUNCA CERNII SRL",
           "rol": "administrator provizoriu",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 277673,
+            "profit_net": 131,
+            "datorii": 27583,
+            "nr_salariati": 5
+          }
         }
       ],
       "cv": null
@@ -1733,14 +1994,22 @@
           "nume": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE CALATORI - CFR - CALATORI SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 27272228,
           "nume": "ECOPIAŢA SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 9075489,
+            "profit_net": 464029,
+            "datorii": 1310039,
+            "nr_salariati": 62
+          }
         }
       ],
       "cv": null
@@ -1825,14 +2094,28 @@
           "nume": "CARPATMONTANA SERV SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11919961,
+            "profit_net": 290811,
+            "datorii": 952650,
+            "nr_salariati": 155
+          }
         },
         {
           "cui": 27488656,
           "nume": "MUNICIPAL SECURITY SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3415658,
+            "profit_net": 1084,
+            "datorii": 1703522,
+            "nr_salariati": 80
+          }
         }
       ],
       "cv": null
@@ -1914,14 +2197,22 @@
           "nume": "INFORMATICA FEROVIARA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35104733,
+            "profit_net": 1911286,
+            "datorii": 2129553,
+            "nr_salariati": 205
+          }
         },
         {
           "cui": 11054529,
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -1995,14 +2286,28 @@
           "nume": "ACMVOL DESIGN S.A.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10913048,
+            "profit_net": 1499015,
+            "datorii": 4322555,
+            "nr_salariati": 53
+          }
         },
         {
           "cui": 35635448,
           "nume": "SECURITY VOL S.A.",
           "rol": "administrator provizoriu",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10642223,
+            "profit_net": 162983,
+            "datorii": 3708011,
+            "nr_salariati": 183
+          }
         }
       ],
       "cv": {
@@ -2065,14 +2370,28 @@
           "nume": "SOCIETATEA TRANSPORT URBAN REŞIŢA SOCIETATE CU RĂSPUNDERE LIMITATĂ",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 12017672,
+            "profit_net": 123718,
+            "datorii": 3653485,
+            "nr_salariati": 91
+          }
         },
         {
           "cui": 16868757,
           "nume": "AQUACARAS SA",
           "rol": "administrator provizoriu",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 54326682,
+            "profit_net": 3530733,
+            "datorii": 110420082,
+            "nr_salariati": 458
+          }
         }
       ],
       "cv": null
@@ -2134,14 +2453,28 @@
           "nume": "LUCRARI DRUMURI SI PODURI DAMBOVITA SA",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 32104269,
+            "profit_net": 1907983,
+            "datorii": 4142320,
+            "nr_salariati": 108
+          }
         },
         {
           "cui": 26832874,
           "nume": "CARPATMONTANA SERV SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11919961,
+            "profit_net": 290811,
+            "datorii": 952650,
+            "nr_salariati": 155
+          }
         }
       ],
       "cv": null
@@ -2200,14 +2533,28 @@
           "nume": "EURO APAVOL S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 45815401,
+            "profit_net": 1902051,
+            "datorii": 18169703,
+            "nr_salariati": 234
+          }
         },
         {
           "cui": 41639118,
           "nume": "EVENTCULINAR VOL S.A.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11031854,
+            "profit_net": 43568,
+            "datorii": 3423661,
+            "nr_salariati": 86
+          }
         }
       ],
       "cv": null
@@ -2259,14 +2606,28 @@
           "nume": "GOSPODĂRIRE URBANĂ SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 33110417,
+            "profit_net": 1370330,
+            "datorii": 8163358,
+            "nr_salariati": 346
+          }
         },
         {
           "cui": 5796752,
           "nume": "ADMINISTRATIA ZONEI LIBERE GALATI RA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5914698,
+            "profit_net": 1418677,
+            "datorii": 4709105,
+            "nr_salariati": 23
+          }
         }
       ],
       "cv": {
@@ -2318,14 +2679,16 @@
           "nume": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 11054529,
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -2371,14 +2734,28 @@
           "nume": "FOTBAL CLUB VOLUNTARI SA",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1363072,
+            "profit_net": -1332702,
+            "datorii": 130475632,
+            "nr_salariati": 38
+          }
         },
         {
           "cui": 27778056,
           "nume": "EURO APAVOL S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 45815401,
+            "profit_net": 1902051,
+            "datorii": 18169703,
+            "nr_salariati": 234
+          }
         }
       ],
       "cv": {
@@ -2428,14 +2805,28 @@
           "nume": "APA-CANAL 2000 SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 130783272,
+            "profit_net": 7470425,
+            "datorii": 95316401,
+            "nr_salariati": 602
+          }
         },
         {
           "cui": 13031718,
           "nume": "SALUBRITATE 2000 SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 31323640,
+            "profit_net": 4060218,
+            "datorii": 5944610,
+            "nr_salariati": 146
+          }
         }
       ],
       "cv": {
@@ -2485,14 +2876,28 @@
           "nume": "RO-ARMYSECURITY SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 30100141,
+            "profit_net": 369682,
+            "datorii": 3932313,
+            "nr_salariati": 511
+          }
         },
         {
           "cui": 31055251,
           "nume": "ECOSALUBRIS HÂRLĂU S.R.L.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1847604,
+            "profit_net": 47116,
+            "datorii": 158508,
+            "nr_salariati": 28
+          }
         }
       ],
       "cv": null
@@ -2530,14 +2935,22 @@
           "nume": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE CALATORI - CFR - CALATORI SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 14257595,
           "nume": "SOCIETATEA DE REPARATII LOCOMOTIVE C.F.R.- S.C.R.L. BRASOV S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 149190599,
+            "profit_net": 600174,
+            "datorii": 136035826,
+            "nr_salariati": 1412
+          }
         }
       ],
       "cv": {
@@ -2581,14 +2994,28 @@
           "nume": "UZINA MECANICA PLOPENI SA",
           "rol": "administrator special",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 28832359,
+            "profit_net": -700731,
+            "datorii": 65880938,
+            "nr_salariati": 254
+          }
         },
         {
           "cui": 16184414,
           "nume": "ROMFILATELIA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8718873,
+            "profit_net": 26021,
+            "datorii": 1415444,
+            "nr_salariati": 61
+          }
         }
       ],
       "cv": null
@@ -2626,14 +3053,28 @@
           "nume": "SECURITY VOL S.A.",
           "rol": "administrator provizoriu",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10642223,
+            "profit_net": 162983,
+            "datorii": 3708011,
+            "nr_salariati": 183
+          }
         },
         {
           "cui": 41639118,
           "nume": "EVENTCULINAR VOL S.A.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11031854,
+            "profit_net": 43568,
+            "datorii": 3423661,
+            "nr_salariati": 86
+          }
         }
       ],
       "cv": null
@@ -2665,14 +3106,22 @@
           "nume": "APAVITAL SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 381392045,
+            "profit_net": 33046067,
+            "datorii": 223529635,
+            "nr_salariati": 1470
+          }
         },
         {
           "cui": 15189596,
           "nume": "ELECTROCENTRALE BUCURESTI SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -2704,14 +3153,28 @@
           "nume": "COMPANIA DE UTILITATI PUBLICE SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 72533133,
+            "profit_net": 752784,
+            "datorii": 21654249,
+            "nr_salariati": 460
+          }
         },
         {
           "cui": 10099760,
           "nume": "TRANSPORT PUBLIC SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 22386435,
+            "profit_net": 200338,
+            "datorii": 2225758,
+            "nr_salariati": 144
+          }
         }
       ],
       "cv": null
@@ -2746,14 +3209,22 @@
           "nume": "COMPANIA NATIONALA UNIFARM SA",
           "rol": "administrator",
           "sector": "Comerț",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          }
         },
         {
           "cui": 1973096,
           "nume": "ANTIBIOTICE SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -2789,14 +3260,28 @@
           "nume": "IPROCHIM SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 7493186,
+            "profit_net": 3111809,
+            "datorii": 3032484,
+            "nr_salariati": 40
+          }
         },
         {
           "cui": 2413593,
           "nume": "SANTIERUL NAVAL 2 MAI SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3682610,
+            "profit_net": 705,
+            "datorii": 127671,
+            "nr_salariati": 8
+          }
         }
       ],
       "cv": null
@@ -2830,21 +3315,42 @@
           "nume": "APA TÂRNAVEI MARI SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 38932289,
+            "profit_net": 9528931,
+            "datorii": 42417191,
+            "nr_salariati": 256
+          }
         },
         {
           "cui": 19502679,
           "nume": "APA TÂRNAVEI MARI SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 38932289,
+            "profit_net": 9528931,
+            "datorii": 42417191,
+            "nr_salariati": 256
+          }
         },
         {
           "cui": 24898139,
           "nume": "ECO - SAL SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 25168728,
+            "profit_net": 29788,
+            "datorii": 6038656,
+            "nr_salariati": 203
+          }
         }
       ],
       "cv": {
@@ -2882,14 +3388,28 @@
           "nume": "COMPANIA NATIONALA ROMARM SA BUCURESTI FILIALA SOCIETATEA CARFIL S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 96629929,
+            "profit_net": 513449,
+            "datorii": 127840024,
+            "nr_salariati": 392
+          }
         },
         {
           "cui": 14325290,
           "nume": "ŞANTIERUL NAVAL MANGALIA SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 12296954,
+            "profit_net": 2077811,
+            "datorii": 2727819,
+            "nr_salariati": 34
+          }
         }
       ],
       "cv": null
@@ -2921,14 +3441,22 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 14529126,
           "nume": "FORMENERG - S.A.",
           "rol": "administrator",
           "sector": null,
-          "status_fin": null
+          "status_fin": null,
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2838189,
+            "profit_net": -814857,
+            "datorii": 304404,
+            "nr_salariati": 24
+          }
         }
       ],
       "cv": null
@@ -2961,14 +3489,22 @@
           "nume": "NUCLEARELECTRICA SERV S.R.L.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 33083188,
+            "profit_net": 1196801,
+            "datorii": 4204308,
+            "nr_salariati": 314
+          }
         },
         {
           "cui": 13328043,
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -2996,14 +3532,28 @@
           "nume": "GOSPODĂRIRE URBANĂ SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 33110417,
+            "profit_net": 1370330,
+            "datorii": 8163358,
+            "nr_salariati": 346
+          }
         },
         {
           "cui": 5796752,
           "nume": "ADMINISTRATIA ZONEI LIBERE GALATI RA",
           "rol": "director general unic",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5914698,
+            "profit_net": 1418677,
+            "datorii": 4709105,
+            "nr_salariati": 23
+          }
         }
       ],
       "cv": null
@@ -3029,14 +3579,22 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 25344972,
           "nume": "ENERGONUCLEAR SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PRE-OPERAȚIONAL"
+          "status_fin": "PRE-OPERAȚIONAL",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 0,
+            "profit_net": 781174,
+            "datorii": 2142361,
+            "nr_salariati": 35
+          }
         }
       ],
       "cv": null
@@ -3192,7 +3750,14 @@
           "nume": "CARPATMONTANA SERV SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11919961,
+            "profit_net": 290811,
+            "datorii": 952650,
+            "nr_salariati": 155
+          }
         }
       ],
       "cv": null
@@ -3338,7 +3903,8 @@
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": {
@@ -3490,7 +4056,14 @@
           "nume": "ECOAQUA SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 70790359,
+            "profit_net": 103037,
+            "datorii": 27790761,
+            "nr_salariati": 536
+          }
         }
       ],
       "cv": null
@@ -3657,14 +4230,28 @@
           "nume": "SALUBRITATE 2000 SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 31323640,
+            "profit_net": 4060218,
+            "datorii": 5944610,
+            "nr_salariati": 146
+          }
         },
         {
           "cui": 13031718,
           "nume": "SALUBRITATE 2000 SA",
           "rol": "director general unic",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 31323640,
+            "profit_net": 4060218,
+            "datorii": 5944610,
+            "nr_salariati": 146
+          }
         }
       ],
       "cv": {
@@ -3830,7 +4417,14 @@
           "nume": "SALUBRITATE 2000 SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 31323640,
+            "profit_net": 4060218,
+            "datorii": 5944610,
+            "nr_salariati": 146
+          }
         }
       ],
       "cv": {
@@ -3985,7 +4579,14 @@
           "nume": "SALUBRITATE 2000 SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 31323640,
+            "profit_net": 4060218,
+            "datorii": 5944610,
+            "nr_salariati": 146
+          }
         }
       ],
       "cv": {
@@ -4131,7 +4732,14 @@
           "nume": "FONDUL ROMÂN DE CONTRAGARANTARE SA",
           "rol": "membru în directorat",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2348772,
+            "profit_net": 10462414,
+            "datorii": 2433592,
+            "nr_salariati": 38
+          }
         }
       ],
       "cv": null
@@ -4280,7 +4888,8 @@
           "nume": "SOCIETATEA NATIONALA A SARII SA",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -4415,7 +5024,8 @@
           "nume": "PRIMAS SRL",
           "rol": "administrator",
           "sector": "Comerț",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -4557,7 +5167,8 @@
           "nume": "SELECTIV DEŞEURI 2010 SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "OPACĂ"
+          "status_fin": "OPACĂ",
+          "financials": []
         }
       ],
       "cv": null
@@ -4696,7 +5307,14 @@
           "nume": "ELECTROVOL SA",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3310149,
+            "profit_net": 17667,
+            "datorii": 1377983,
+            "nr_salariati": 50
+          }
         }
       ],
       "cv": null
@@ -4833,7 +5451,14 @@
           "nume": "ADMINISTRAREA PARCULUI INDUSTRIAL MANGALIA SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 420493,
+            "profit_net": 43526,
+            "datorii": 705836,
+            "nr_salariati": 1
+          }
         }
       ],
       "cv": null
@@ -4960,7 +5585,14 @@
           "nume": "CLUJ INNOVATION PARK S.A.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3998374,
+            "profit_net": 288879,
+            "datorii": 2110673,
+            "nr_salariati": 11
+          }
         }
       ],
       "cv": null
@@ -5086,7 +5718,14 @@
           "nume": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 121956513,
+            "profit_net": 2042274,
+            "datorii": 143008064,
+            "nr_salariati": 998
+          }
         }
       ],
       "cv": null
@@ -5218,7 +5857,14 @@
           "nume": "FOTBAL CLUB VOLUNTARI SA",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1363072,
+            "profit_net": -1332702,
+            "datorii": 130475632,
+            "nr_salariati": 38
+          }
         }
       ],
       "cv": null
@@ -5336,7 +5982,8 @@
           "nume": "COMPANIA NATIONALA \"LOTERIA ROMANA\" SA",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -5456,7 +6103,14 @@
           "nume": "TRANSURB SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5772702,
+            "profit_net": 204748,
+            "datorii": 895573,
+            "nr_salariati": 81
+          }
         }
       ],
       "cv": null
@@ -5567,7 +6221,14 @@
           "nume": "AQUASERV SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 41127620,
+            "profit_net": 157189,
+            "datorii": 498269544,
+            "nr_salariati": 346
+          }
         }
       ],
       "cv": null
@@ -5677,7 +6338,14 @@
           "nume": "AQUA VALEA IADULUI SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 97239,
+            "profit_net": -4597,
+            "datorii": 76801,
+            "nr_salariati": 1
+          }
         }
       ],
       "cv": null
@@ -5781,7 +6449,14 @@
           "nume": "APAVITAL SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 381392045,
+            "profit_net": 33046067,
+            "datorii": 223529635,
+            "nr_salariati": 1470
+          }
         }
       ],
       "cv": null
@@ -5884,7 +6559,14 @@
           "nume": "APAVITAL SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 381392045,
+            "profit_net": 33046067,
+            "datorii": 223529635,
+            "nr_salariati": 1470
+          }
         }
       ],
       "cv": null
@@ -5998,7 +6680,14 @@
           "nume": "AEROPORTUL IASI RA",
           "rol": "administrator provizoriu",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 47604650,
+            "profit_net": 12120743,
+            "datorii": 140797732,
+            "nr_salariati": 129
+          }
         }
       ],
       "cv": null
@@ -6104,7 +6793,14 @@
           "nume": "COMPANIA NAŢIONALĂ \"ADMINISTRAŢIA PORTURILOR MARITIME\" - S.A.CONSTANŢA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 545455306,
+            "profit_net": 195356718,
+            "datorii": 148467345,
+            "nr_salariati": 932
+          }
         }
       ],
       "cv": null
@@ -6215,7 +6911,8 @@
           "nume": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE CALATORI - CFR - CALATORI SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": {
@@ -6316,7 +7013,14 @@
           "nume": "GOSPODĂRIRE ORĂȘENEASCĂ AVRIG S.R.L.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 823891,
+            "profit_net": -71031,
+            "datorii": 43374,
+            "nr_salariati": 7
+          }
         }
       ],
       "cv": null
@@ -6415,7 +7119,14 @@
           "nume": "COMPANIA REGIONALĂ DE APĂ BACĂU SA",
           "rol": "director general unic",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 108974391,
+            "profit_net": 5062178,
+            "datorii": 40839793,
+            "nr_salariati": 641
+          }
         }
       ],
       "cv": null
@@ -6511,7 +7222,14 @@
           "nume": "SOCIETATEA DE SERVICII PUBLICE MUNICIPALE BACĂU S.A.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Infrastructură",
-          "status_fin": "OPACĂ"
+          "status_fin": "OPACĂ",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 7022511,
+            "profit_net": -3500218,
+            "datorii": 9299351,
+            "nr_salariati": 117
+          }
         }
       ],
       "cv": null
@@ -6613,7 +7331,14 @@
           "nume": "INFORMATICA FEROVIARA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35104733,
+            "profit_net": 1911286,
+            "datorii": 2129553,
+            "nr_salariati": 205
+          }
         }
       ],
       "cv": null
@@ -6713,7 +7438,14 @@
           "nume": "CENTRUL DE SĂNĂTATE STB S.A.",
           "rol": "administrator",
           "sector": "Sănătate · educație",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 13308824,
+            "profit_net": 715034,
+            "datorii": 1338888,
+            "nr_salariati": 81
+          }
         }
       ],
       "cv": null
@@ -6817,7 +7549,8 @@
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -6921,7 +7654,8 @@
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": {
@@ -7025,7 +7759,14 @@
           "nume": "INFORMATICA FEROVIARA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35104733,
+            "profit_net": 1911286,
+            "datorii": 2129553,
+            "nr_salariati": 205
+          }
         }
       ],
       "cv": null
@@ -7121,7 +7862,14 @@
           "nume": "SOCIETATEA TIPOGRAFICĂ FILARET S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5302235,
+            "profit_net": 29134,
+            "datorii": 744497,
+            "nr_salariati": 37
+          }
         }
       ],
       "cv": null
@@ -7212,7 +7960,8 @@
           "nume": "EXIM BANCA ROMÂNEASCĂ S.A",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -7304,7 +8053,14 @@
           "nume": "URBAN-LOCATO SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3877395,
+            "profit_net": 111582,
+            "datorii": 580357,
+            "nr_salariati": 21
+          }
         }
       ],
       "cv": null
@@ -7401,7 +8157,14 @@
           "nume": "PRESERV VEDIŢA SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 493985,
+            "profit_net": 28641,
+            "datorii": 277144,
+            "nr_salariati": 4
+          }
         }
       ],
       "cv": null
@@ -7483,7 +8246,14 @@
           "nume": "SOCIETATEA DE SERVICII IN INFORMATICA SSI PITESTI SA",
           "rol": "administrator provizoriu",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 257740,
+            "profit_net": 22453,
+            "datorii": 40147,
+            "nr_salariati": 1
+          }
         }
       ],
       "cv": null
@@ -7575,7 +8345,14 @@
           "nume": "ACMVOL DESIGN S.A.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10913048,
+            "profit_net": 1499015,
+            "datorii": 4322555,
+            "nr_salariati": 53
+          }
         }
       ],
       "cv": {
@@ -7673,7 +8450,14 @@
           "nume": "COMPANIA DE SERVICII PUBLICE ŞI ENERGII REGENERABILE PRAHOVA S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 279043,
+            "profit_net": 1380557,
+            "datorii": 7377315,
+            "nr_salariati": 18
+          }
         }
       ],
       "cv": null
@@ -7758,7 +8542,14 @@
           "nume": "INFORMATICA FEROVIARA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35104733,
+            "profit_net": 1911286,
+            "datorii": 2129553,
+            "nr_salariati": 205
+          }
         }
       ],
       "cv": null
@@ -7841,7 +8632,14 @@
           "nume": "DRUMURI MUNICIPALE S.R.L.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 6047391,
+            "profit_net": -174368,
+            "datorii": 1030524,
+            "nr_salariati": 39
+          }
         }
       ],
       "cv": null
@@ -7918,7 +8716,14 @@
           "nume": "ADMINISTRATIA PIETELOR SI TARGURILOR SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10287258,
+            "profit_net": 455532,
+            "datorii": 829814,
+            "nr_salariati": 61
+          }
         }
       ],
       "cv": null
@@ -7998,7 +8803,14 @@
           "nume": "ACATERM SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 33438,
+            "profit_net": -12961,
+            "datorii": 23029,
+            "nr_salariati": 1
+          }
         }
       ],
       "cv": null
@@ -8078,7 +8890,14 @@
           "nume": "SĂCELATA PREST SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 233244,
+            "profit_net": -57596,
+            "datorii": 38775,
+            "nr_salariati": 2
+          }
         }
       ],
       "cv": null
@@ -8166,7 +8985,14 @@
           "nume": "CARPATMONTANA SERV SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11919961,
+            "profit_net": 290811,
+            "datorii": 952650,
+            "nr_salariati": 155
+          }
         }
       ],
       "cv": null
@@ -8247,7 +9073,14 @@
           "nume": "REGIA AUTONOMĂ JUDEŢEANĂ DE DRUMURI ARGEŞ RA",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 54962764,
+            "profit_net": 3365310,
+            "datorii": 6679203,
+            "nr_salariati": 63
+          }
         }
       ],
       "cv": null
@@ -8340,7 +9173,14 @@
           "nume": "APAVITAL SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 381392045,
+            "profit_net": 33046067,
+            "datorii": 223529635,
+            "nr_salariati": 1470
+          }
         }
       ],
       "cv": null
@@ -8423,7 +9263,14 @@
           "nume": "SOCIETATEA DE TRATAMENT BALNEAR SI RECUPERARE A CAPACITATII DE MUNCA T.B.R.C.M. SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 150018145,
+            "profit_net": 14355403,
+            "datorii": 13444456,
+            "nr_salariati": 815
+          }
         }
       ],
       "cv": null
@@ -8504,7 +9351,14 @@
           "nume": "COMPANIA NATIONALA UNIFARM SA",
           "rol": "administrator",
           "sector": "Comerț",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          }
         }
       ],
       "cv": null
@@ -8579,7 +9433,14 @@
           "nume": "SOCIETATEA DE SERVICII IN INFORMATICA SSI PITESTI SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 257740,
+            "profit_net": 22453,
+            "datorii": 40147,
+            "nr_salariati": 1
+          }
         }
       ],
       "cv": null
@@ -8655,7 +9516,14 @@
           "nume": "MARIENBURG SCUP SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3106500,
+            "profit_net": 194204,
+            "datorii": 449523,
+            "nr_salariati": 20
+          }
         }
       ],
       "cv": null
@@ -8731,7 +9599,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -8808,7 +9677,8 @@
           "nume": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -8880,7 +9750,8 @@
           "nume": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -8953,7 +9824,14 @@
           "nume": "Electrificare C.F.R. SA",
           "rol": "administrator",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 912298984,
+            "profit_net": 20398491,
+            "datorii": 59503385,
+            "nr_salariati": 33
+          }
         }
       ],
       "cv": null
@@ -9029,7 +9907,8 @@
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -9103,7 +9982,14 @@
           "nume": "RECONS SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 57232,
+            "profit_net": 3366,
+            "datorii": 3910,
+            "nr_salariati": 0
+          }
         }
       ],
       "cv": null
@@ -9183,7 +10069,14 @@
           "nume": "INFORMATICA FEROVIARA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35104733,
+            "profit_net": 1911286,
+            "datorii": 2129553,
+            "nr_salariati": 205
+          }
         }
       ],
       "cv": null
@@ -9253,7 +10146,8 @@
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": {
@@ -9325,7 +10219,14 @@
           "nume": "SALUBRIZARE ŞI GOSPODĂRIE CAZASU SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 339836,
+            "profit_net": 8790,
+            "datorii": 30813,
+            "nr_salariati": 5
+          }
         }
       ],
       "cv": null
@@ -9404,7 +10305,14 @@
           "nume": "PIETE TIRGURI SI OBOARE SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 7626576,
+            "profit_net": 798441,
+            "datorii": 1534175,
+            "nr_salariati": 28
+          }
         }
       ],
       "cv": null
@@ -9474,7 +10382,14 @@
           "nume": "LUCRARI DRUMURI SI PODURI DAMBOVITA SA",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 32104269,
+            "profit_net": 1907983,
+            "datorii": 4142320,
+            "nr_salariati": 108
+          }
         }
       ],
       "cv": null
@@ -9547,7 +10462,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -9618,7 +10534,14 @@
           "nume": "COMPANIA REGIONALĂ DE APĂ BACĂU SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 108974391,
+            "profit_net": 5062178,
+            "datorii": 40839793,
+            "nr_salariati": 641
+          }
         }
       ],
       "cv": null
@@ -9697,7 +10620,14 @@
           "nume": "COMPANIA DE UTILITATI PUBLICE SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 72533133,
+            "profit_net": 752784,
+            "datorii": 21654249,
+            "nr_salariati": 460
+          }
         }
       ],
       "cv": null
@@ -9769,7 +10699,14 @@
           "nume": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA FABRICA DE ARME CUGIR S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 71345582,
+            "profit_net": -11999666,
+            "datorii": 70581681,
+            "nr_salariati": 818
+          }
         }
       ],
       "cv": null
@@ -9832,7 +10769,14 @@
           "nume": "PUBLITRANS 2000 SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 54920147,
+            "profit_net": 6289788,
+            "datorii": 7742901,
+            "nr_salariati": 369
+          }
         }
       ],
       "cv": null
@@ -9893,7 +10837,14 @@
           "nume": "ECOAQUA SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 70790359,
+            "profit_net": 103037,
+            "datorii": 27790761,
+            "nr_salariati": 536
+          }
         }
       ],
       "cv": null
@@ -9948,7 +10899,14 @@
           "nume": "REGIA PUBLICĂ LOCALĂ A PĂDURILOR MĂIERUŞ RA",
           "rol": "administrator",
           "sector": "Agricultură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 13994550,
+            "profit_net": 2254616,
+            "datorii": 3333109,
+            "nr_salariati": 39
+          }
         }
       ],
       "cv": null
@@ -10004,7 +10962,14 @@
           "nume": "ALTITUDINEA 1040 PREDEAL SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 819294,
+            "profit_net": 34387,
+            "datorii": 230456,
+            "nr_salariati": 13
+          }
         }
       ],
       "cv": null
@@ -10059,7 +11024,14 @@
           "nume": "URBIS SERVCONSTRUCT S.R.L.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8739080,
+            "profit_net": 58276,
+            "datorii": 2597040,
+            "nr_salariati": 117
+          }
         }
       ],
       "cv": null
@@ -10119,7 +11091,14 @@
           "nume": "TRANSURB SA",
           "rol": "administrator provizoriu",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 93862713,
+            "profit_net": 880384,
+            "datorii": 53558103,
+            "nr_salariati": 629
+          }
         }
       ],
       "cv": null
@@ -10176,7 +11155,8 @@
           "nume": "SOCIETATEA COMERCIALA STUDIOUL CINEMATOGRAFIC ANIMAFILM SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": []
         }
       ],
       "cv": null
@@ -10232,7 +11212,14 @@
           "nume": "SALUBRI SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10796652,
+            "profit_net": 91605,
+            "datorii": 3216345,
+            "nr_salariati": 90
+          }
         }
       ],
       "cv": null
@@ -10288,7 +11275,14 @@
           "nume": "SERVICII PUBLICE IAŞI SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 71621725,
+            "profit_net": 12853712,
+            "datorii": 10701327,
+            "nr_salariati": 573
+          }
         }
       ],
       "cv": null
@@ -10347,7 +11341,14 @@
           "nume": "CODRII VLASIEI SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4340042,
+            "profit_net": -1227723,
+            "datorii": 554735,
+            "nr_salariati": 32
+          }
         }
       ],
       "cv": null
@@ -10402,7 +11403,14 @@
           "nume": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 167955600,
+            "profit_net": 21782658,
+            "datorii": 35003821,
+            "nr_salariati": 711
+          }
         }
       ],
       "cv": null
@@ -10460,7 +11468,14 @@
           "nume": "AGROPRODCOM ODORHEIU SECUIESC SA",
           "rol": "administrator",
           "sector": "Agricultură",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 47229,
+            "profit_net": -94078,
+            "datorii": 1629419,
+            "nr_salariati": 3
+          }
         }
       ],
       "cv": null
@@ -10517,7 +11532,14 @@
           "nume": "EDITURA DIDACTICĂ ŞI PEDAGOGICĂ S.A.",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8323519,
+            "profit_net": 925233,
+            "datorii": 3005270,
+            "nr_salariati": 37
+          }
         }
       ],
       "cv": null
@@ -10576,14 +11598,28 @@
           "nume": "APA TÂRNAVEI MARI SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 38932289,
+            "profit_net": 9528931,
+            "datorii": 42417191,
+            "nr_salariati": 256
+          }
         },
         {
           "cui": 19502679,
           "nume": "APA TÂRNAVEI MARI SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 38932289,
+            "profit_net": 9528931,
+            "datorii": 42417191,
+            "nr_salariati": 256
+          }
         }
       ],
       "cv": null
@@ -10647,7 +11683,14 @@
           "nume": "CARPATMONTANA SERV SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11919961,
+            "profit_net": 290811,
+            "datorii": 952650,
+            "nr_salariati": 155
+          }
         }
       ],
       "cv": null
@@ -10712,7 +11755,14 @@
           "nume": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
           "rol": "administrator provizoriu",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 7892480,
+            "profit_net": 182695,
+            "datorii": 1351742,
+            "nr_salariati": 36
+          }
         }
       ],
       "cv": null
@@ -10771,7 +11821,14 @@
           "nume": "ALGORITHM CONSTRUCTII S3 SRL",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 84918996,
+            "profit_net": 9069112,
+            "datorii": 45982000,
+            "nr_salariati": 220
+          }
         }
       ],
       "cv": null
@@ -10823,7 +11880,14 @@
           "nume": "APĂ CANAL RÂFOV S.R.L.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "OPACĂ"
+          "status_fin": "OPACĂ",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 0,
+            "profit_net": null,
+            "datorii": 0,
+            "nr_salariati": null
+          }
         }
       ],
       "cv": null
@@ -10885,7 +11949,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": {
@@ -10946,7 +12011,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11003,7 +12069,14 @@
           "nume": "BRAZI INDUSTRIAL PARC SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2792586,
+            "profit_net": -1074318,
+            "datorii": 1131831,
+            "nr_salariati": 11
+          }
         }
       ],
       "cv": null
@@ -11053,7 +12126,14 @@
           "nume": "Electrificare C.F.R. SA",
           "rol": "administrator",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 912298984,
+            "profit_net": 20398491,
+            "datorii": 59503385,
+            "nr_salariati": 33
+          }
         }
       ],
       "cv": null
@@ -11105,7 +12185,14 @@
           "nume": "AQUATERM AG 98 SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 7974031,
+            "profit_net": 169254,
+            "datorii": 648054,
+            "nr_salariati": 82
+          }
         }
       ],
       "cv": null
@@ -11160,7 +12247,14 @@
           "nume": "RAJA SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 530792255,
+            "profit_net": 27391059,
+            "datorii": 342711118,
+            "nr_salariati": 2368
+          }
         }
       ],
       "cv": null
@@ -11214,7 +12308,14 @@
           "nume": "ROMFILATELIA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8718873,
+            "profit_net": 26021,
+            "datorii": 1415444,
+            "nr_salariati": 61
+          }
         }
       ],
       "cv": null
@@ -11263,7 +12364,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11313,7 +12415,14 @@
           "nume": "SOCIETATEA TIPOGRAFICĂ FILARET S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5302235,
+            "profit_net": 29134,
+            "datorii": 744497,
+            "nr_salariati": 37
+          }
         }
       ],
       "cv": null
@@ -11362,7 +12471,8 @@
           "nume": "COMPANIA NATIONALA \"AEROPORTURI BUCURESTI\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11404,7 +12514,14 @@
           "nume": "INSTITUTUL DE CERCETARI METALURGICE SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1131691,
+            "profit_net": -583097,
+            "datorii": 11028397,
+            "nr_salariati": 10
+          }
         }
       ],
       "cv": null
@@ -11449,7 +12566,14 @@
           "nume": "AUTORITATEA AERONAUTICA CIVILA ROMANA RA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 77768209,
+            "profit_net": 14360842,
+            "datorii": 10680906,
+            "nr_salariati": 192
+          }
         }
       ],
       "cv": null
@@ -11493,7 +12617,14 @@
           "nume": "SOCIETATEA NAŢIONALĂ CASA ROMÂNĂ DE COMERŢ AGROALIMENTAR UNIREA S.A.",
           "rol": "administrator",
           "sector": "Comerț",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 79508064,
+            "profit_net": -45972780,
+            "datorii": 2119048,
+            "nr_salariati": 3
+          }
         }
       ],
       "cv": null
@@ -11537,7 +12668,14 @@
           "nume": "SERVICII DE GOSPODĂRIRE COMUNALĂ ARICEȘTII RAHTIVANI S.R.L.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 254789,
+            "profit_net": -64648,
+            "datorii": 139228,
+            "nr_salariati": 8
+          }
         }
       ],
       "cv": null
@@ -11581,7 +12719,14 @@
           "nume": "MEDITUR SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 6658629,
+            "profit_net": 464093,
+            "datorii": 1218533,
+            "nr_salariati": 84
+          }
         }
       ],
       "cv": {
@@ -11633,7 +12778,14 @@
           "nume": "TRANSURB SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5772702,
+            "profit_net": 204748,
+            "datorii": 895573,
+            "nr_salariati": 81
+          }
         }
       ],
       "cv": null
@@ -11681,7 +12833,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11726,7 +12879,14 @@
           "nume": "FORMENERG - S.A.",
           "rol": "administrator",
           "sector": null,
-          "status_fin": null
+          "status_fin": null,
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2838189,
+            "profit_net": -814857,
+            "datorii": 304404,
+            "nr_salariati": 24
+          }
         }
       ],
       "cv": null
@@ -11771,7 +12931,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11819,7 +12980,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11867,7 +13029,14 @@
           "nume": "TELEGONDOLA-MAMAIA SRL",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4426675,
+            "profit_net": 1746846,
+            "datorii": 150462,
+            "nr_salariati": 19
+          }
         }
       ],
       "cv": null
@@ -11915,7 +13084,8 @@
           "nume": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -11958,7 +13128,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -12003,14 +13174,28 @@
           "nume": "A.D.P. IZVOR S.R.L.",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 458651,
+            "profit_net": 5097,
+            "datorii": 33927,
+            "nr_salariati": 5
+          }
         },
         {
           "cui": 43937854,
           "nume": "A.D.P. IZVOR S.R.L.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 458651,
+            "profit_net": 5097,
+            "datorii": 33927,
+            "nr_salariati": 5
+          }
         }
       ],
       "cv": null
@@ -12051,7 +13236,14 @@
           "nume": "DRUMURI MUNICIPALE S.R.L.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 6047391,
+            "profit_net": -174368,
+            "datorii": 1030524,
+            "nr_salariati": 39
+          }
         }
       ],
       "cv": null
@@ -12090,7 +13282,14 @@
           "nume": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 46352749,
+            "profit_net": 2736230,
+            "datorii": 9466588,
+            "nr_salariati": 123
+          }
         }
       ],
       "cv": null
@@ -12132,7 +13331,14 @@
           "nume": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 14883551,
+            "profit_net": -11903992,
+            "datorii": 66309632,
+            "nr_salariati": 302
+          }
         }
       ],
       "cv": null
@@ -12169,7 +13375,14 @@
           "nume": "EDITURA DIDACTICĂ ŞI PEDAGOGICĂ S.A.",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8323519,
+            "profit_net": 925233,
+            "datorii": 3005270,
+            "nr_salariati": 37
+          }
         }
       ],
       "cv": null
@@ -12212,7 +13425,8 @@
           "nume": "FONDUL NATIONAL DE GARANTARE A CREDITELOR PENTRU INTREPRINDERILE MICI SI MIJLOCII SA - IFN",
           "rol": "administrator provizoriu",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -12252,7 +13466,14 @@
           "nume": "CALORGAL S.R.L.",
           "rol": "administrator provizoriu",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 13730267,
+            "profit_net": 503556,
+            "datorii": 12283448,
+            "nr_salariati": 141
+          }
         }
       ],
       "cv": {
@@ -12294,7 +13515,14 @@
           "nume": "SALUBRITATE 2000 SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 31323640,
+            "profit_net": 4060218,
+            "datorii": 5944610,
+            "nr_salariati": 146
+          }
         }
       ],
       "cv": null
@@ -12333,7 +13561,14 @@
           "nume": "TRANSURB SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5772702,
+            "profit_net": 204748,
+            "datorii": 895573,
+            "nr_salariati": 81
+          }
         }
       ],
       "cv": null
@@ -12370,7 +13605,14 @@
           "nume": "SECURITY VOL S.A.",
           "rol": "administrator provizoriu",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 10642223,
+            "profit_net": 162983,
+            "datorii": 3708011,
+            "nr_salariati": 183
+          }
         }
       ],
       "cv": null
@@ -12403,7 +13645,14 @@
           "nume": "HORTICULTURA SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 17424530,
+            "profit_net": 19311,
+            "datorii": 2440031,
+            "nr_salariati": 208
+          }
         }
       ],
       "cv": null
@@ -12436,7 +13685,14 @@
           "nume": "MONITORUL OFICIAL RA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 95013930,
+            "profit_net": 27260997,
+            "datorii": 8509006,
+            "nr_salariati": 287
+          }
         }
       ],
       "cv": null
@@ -12470,7 +13726,14 @@
           "nume": "COMPANIA NATIONALA \"IMPRIMERIA NATIONALA\" SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 552239264,
+            "profit_net": 320137884,
+            "datorii": 81605934,
+            "nr_salariati": 432
+          }
         }
       ],
       "cv": null
@@ -12504,7 +13767,14 @@
           "nume": "OCOLUL SILVIC CODRII CETATILOR RA",
           "rol": "administrator",
           "sector": "Agricultură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 13689600,
+            "profit_net": 5808064,
+            "datorii": 1833281,
+            "nr_salariati": 27
+          }
         }
       ],
       "cv": null
@@ -12535,7 +13805,14 @@
           "nume": "BRAICAR SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35620307,
+            "profit_net": 133702,
+            "datorii": 5530761,
+            "nr_salariati": 387
+          }
         }
       ],
       "cv": null
@@ -12568,7 +13845,8 @@
           "nume": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -12602,7 +13880,14 @@
           "nume": "COMPANIA JUDETEANA APA SERV SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 87304753,
+            "profit_net": -9687758,
+            "datorii": 632207322,
+            "nr_salariati": 511
+          }
         }
       ],
       "cv": null
@@ -12637,7 +13922,14 @@
           "nume": "EDILITARA PUBLIC SA",
           "rol": "reprezentant al persoanei juridice",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 58919226,
+            "profit_net": 275517,
+            "datorii": 13085580,
+            "nr_salariati": 479
+          }
         }
       ],
       "cv": null
@@ -12673,7 +13965,8 @@
           "nume": "COMPANIA NATIONALA \"AEROPORTURI BUCURESTI\" SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -12705,7 +13998,8 @@
           "nume": "ANTIBIOTICE SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -12737,7 +14031,14 @@
           "nume": "COMPANIA DE UTILITATI PUBLICE SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 72533133,
+            "profit_net": 752784,
+            "datorii": 21654249,
+            "nr_salariati": 460
+          }
         }
       ],
       "cv": null
@@ -12769,7 +14070,14 @@
           "nume": "ECOAQUA SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 70790359,
+            "profit_net": 103037,
+            "datorii": 27790761,
+            "nr_salariati": 536
+          }
         }
       ],
       "cv": null
@@ -12803,7 +14111,14 @@
           "nume": "EDITURA DIDACTICĂ ŞI PEDAGOGICĂ S.A.",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8323519,
+            "profit_net": 925233,
+            "datorii": 3005270,
+            "nr_salariati": 37
+          }
         }
       ],
       "cv": null
@@ -12814,7 +14129,7 @@
       "incredere": "med",
       "n_declaratii": 2,
       "n_companii": 1,
-      "are_cv": false,
+      "are_cv": true,
       "declaratii": [
         {
           "tip": "avere",
@@ -12836,10 +14151,21 @@
           "nume": "SECOM SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 50360329,
+            "profit_net": 4193671,
+            "datorii": 35055228,
+            "nr_salariati": 379
+          }
         }
       ],
-      "cv": null
+      "cv": {
+        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | Asociaţia Centrul pentru Formare Profesională şi Dezvoltare Regională | Facultatea de &#536;tiinte Economice &#8217;&#8217;Titu Maiorescu&#8217;&#8217; | Liceul Industrial Energetic Turceni",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Senator - 2020-2024 | 2013 - 2020 | 2012 - 2020 | 2002 - 2008 | 2001 - 2020 | 1994 - 2000 | Manager de proiect | Economist licenţiat | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });",
+        "entitate": "Partidul Național Liberal"
+      }
     },
     {
       "nume": "MIHALCEA IOAN",
@@ -12847,7 +14173,7 @@
       "incredere": "med",
       "n_declaratii": 2,
       "n_companii": 1,
-      "are_cv": false,
+      "are_cv": true,
       "declaratii": [
         {
           "tip": "avere",
@@ -12870,10 +14196,21 @@
           "nume": "MONITORUL OFICIAL RA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 95013930,
+            "profit_net": 27260997,
+            "datorii": 8509006,
+            "nr_salariati": 287
+          }
         }
       ],
-      "cv": null
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });",
+        "entitate": "Partidul Social Democrat"
+      }
     },
     {
       "nume": "HORGA MARIA GABRIELA",
@@ -12904,7 +14241,14 @@
           "nume": "ACTIVE CONEXE S.A.",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3045061,
+            "profit_net": 18843329,
+            "datorii": 1192393,
+            "nr_salariati": 9
+          }
         }
       ],
       "cv": null
@@ -12939,7 +14283,14 @@
           "nume": "ECO - SAL SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 25168728,
+            "profit_net": 29788,
+            "datorii": 6038656,
+            "nr_salariati": 203
+          }
         }
       ],
       "cv": {
@@ -12977,7 +14328,14 @@
           "nume": "AGENȚIA DE ACHIZIȚII PUBLICE TIMIȘOARA S.R.L.",
           "rol": "administrator",
           "sector": "Alte sectoare",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 18552,
+            "profit_net": -732522,
+            "datorii": 65701,
+            "nr_salariati": 5
+          }
         }
       ],
       "cv": null
@@ -13011,7 +14369,14 @@
           "nume": "ROMFILATELIA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8718873,
+            "profit_net": 26021,
+            "datorii": 1415444,
+            "nr_salariati": 61
+          }
         }
       ],
       "cv": null
@@ -13044,7 +14409,14 @@
           "nume": "ACTIVITATEA GOSCOM SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 9674417,
+            "profit_net": 815552,
+            "datorii": 988908,
+            "nr_salariati": 65
+          }
         }
       ],
       "cv": null
@@ -13078,7 +14450,14 @@
           "nume": "ROMFILATELIA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 8718873,
+            "profit_net": 26021,
+            "datorii": 1415444,
+            "nr_salariati": 61
+          }
         }
       ],
       "cv": null
@@ -13111,7 +14490,14 @@
           "nume": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1175359,
+            "profit_net": -271672,
+            "datorii": 1704549,
+            "nr_salariati": 32
+          }
         }
       ],
       "cv": {
@@ -13149,7 +14535,14 @@
           "nume": "COMPANIA NAŢIONALĂ ROMARM S.A. FILIALA SOCIETATEA UZINA MECANICĂ MIJA S.A.",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 149519181,
+            "profit_net": 41514192,
+            "datorii": 110300289,
+            "nr_salariati": 549
+          }
         }
       ],
       "cv": null
@@ -13183,7 +14576,14 @@
           "nume": "TRANSURB SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 5772702,
+            "profit_net": 204748,
+            "datorii": 895573,
+            "nr_salariati": 81
+          }
         }
       ],
       "cv": null
@@ -13217,7 +14617,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13251,7 +14652,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13283,7 +14685,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13316,7 +14719,14 @@
           "nume": "COMPANIA REGIONALĂ DE APĂ BACĂU SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 108974391,
+            "profit_net": 5062178,
+            "datorii": 40839793,
+            "nr_salariati": 641
+          }
         }
       ],
       "cv": null
@@ -13348,7 +14758,14 @@
           "nume": "CONSLOCSERV PECIU NOU SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 726515,
+            "profit_net": 162,
+            "datorii": 162485,
+            "nr_salariati": 7
+          }
         }
       ],
       "cv": null
@@ -13382,7 +14799,14 @@
           "nume": "INFORMATICA FEROVIARA SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 35104733,
+            "profit_net": 1911286,
+            "datorii": 2129553,
+            "nr_salariati": 205
+          }
         }
       ],
       "cv": null
@@ -13416,7 +14840,14 @@
           "nume": "UZINA MECANICA ORASTIE SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 23721715,
+            "profit_net": -3418127,
+            "datorii": 325109352,
+            "nr_salariati": 96
+          }
         }
       ],
       "cv": null
@@ -13449,7 +14880,14 @@
           "nume": "GOLDTERM MANGALIA S.A.",
           "rol": "administrator",
           "sector": "Energie",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 16156388,
+            "profit_net": -4789639,
+            "datorii": 10025546,
+            "nr_salariati": 88
+          }
         }
       ],
       "cv": null
@@ -13482,7 +14920,14 @@
           "nume": "ELECTROVOL SA",
           "rol": "administrator",
           "sector": "Infrastructură",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3310149,
+            "profit_net": 17667,
+            "datorii": 1377983,
+            "nr_salariati": 50
+          }
         }
       ],
       "cv": null
@@ -13514,7 +14959,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13547,7 +14993,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13578,7 +15025,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13609,14 +15057,16 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         },
         {
           "cui": 13328043,
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13650,7 +15100,14 @@
           "nume": "SALUBRITATE-TURNU SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3941694,
+            "profit_net": -321781,
+            "datorii": 1116167,
+            "nr_salariati": 52
+          }
         }
       ],
       "cv": null
@@ -13682,7 +15139,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13714,7 +15172,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13746,7 +15205,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13777,7 +15237,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13810,7 +15271,8 @@
           "nume": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13843,7 +15305,14 @@
           "nume": "SERVICIUL PUBLIC DE GOSPODĂRIE COMUNALĂ SNAGOV SRL",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "OPACĂ"
+          "status_fin": "OPACĂ",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2709603,
+            "profit_net": 261097,
+            "datorii": 401575,
+            "nr_salariati": null
+          }
         }
       ],
       "cv": null
@@ -13871,7 +15340,14 @@
           "nume": "TELEVOL SYSTEMS SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3246034,
+            "profit_net": 20307,
+            "datorii": 861412,
+            "nr_salariati": 15
+          }
         }
       ],
       "cv": null
@@ -13899,7 +15375,14 @@
           "nume": "APĂ CANAL BÎRZA SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 228304,
+            "profit_net": -6256,
+            "datorii": 43066,
+            "nr_salariati": 2
+          }
         }
       ],
       "cv": null
@@ -13926,7 +15409,8 @@
           "nume": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE CALATORI - CFR - CALATORI SA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -13952,7 +15436,14 @@
           "nume": "APA SERV SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 44077975,
+            "profit_net": 638526,
+            "datorii": 47134632,
+            "nr_salariati": 463
+          }
         }
       ],
       "cv": null
@@ -13978,7 +15469,14 @@
           "nume": "SERVICIUL PUBLIC DE ALIMENTARE CU APĂ ŞI CANALIZARE CASTRANOVA S.R.L.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 143820,
+            "profit_net": -24355,
+            "datorii": 185821,
+            "nr_salariati": 1
+          }
         }
       ],
       "cv": null
@@ -14004,7 +15502,8 @@
           "nume": "ANTIBIOTICE SA",
           "rol": "administrator",
           "sector": "Industrie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
@@ -14032,7 +15531,14 @@
           "nume": "ECOVOL ILFOV S.A.",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 63190152,
+            "profit_net": 649264,
+            "datorii": 41650027,
+            "nr_salariati": 382
+          }
         }
       ],
       "cv": {
@@ -14064,7 +15570,14 @@
           "nume": "TURCENISAL SRL",
           "rol": "administrator provizoriu",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2403661,
+            "profit_net": -159096,
+            "datorii": 255302,
+            "nr_salariati": 34
+          }
         }
       ],
       "cv": null
@@ -14091,7 +15604,14 @@
           "nume": "SALUBRITERM SERV S.R.L.",
           "rol": "administrator",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 1143731,
+            "profit_net": 96881,
+            "datorii": 374188,
+            "nr_salariati": 13
+          }
         }
       ],
       "cv": null
@@ -14117,7 +15637,14 @@
           "nume": "AMENAJARE EDILITARA S5 S.A.",
           "rol": "administrator",
           "sector": "Servicii",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 46037138,
+            "profit_net": 1624361,
+            "datorii": 43616058,
+            "nr_salariati": 363
+          }
         }
       ],
       "cv": null
@@ -14142,7 +15669,14 @@
           "nume": "APA CANAL SA",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 193888218,
+            "profit_net": 23682959,
+            "datorii": 90565165,
+            "nr_salariati": 1049
+          }
         }
       ],
       "cv": null
@@ -14169,7 +15703,14 @@
           "nume": "SERVPRIM VERNESTI SRL",
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
-          "status_fin": "DEFICITARĂ"
+          "status_fin": "DEFICITARĂ",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": null,
+            "profit_net": null,
+            "datorii": 1915,
+            "nr_salariati": null
+          }
         }
       ],
       "cv": null
@@ -14196,7 +15737,14 @@
           "nume": "COMPANIA NATIONALA UNIFARM SA",
           "rol": "administrator",
           "sector": "Comerț",
-          "status_fin": "PIERDERE"
+          "status_fin": "PIERDERE",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          }
         }
       ],
       "cv": null
@@ -14223,7 +15771,14 @@
           "nume": "ADMINISTRATIA ZONEI LIBERE SULINA RA",
           "rol": "administrator",
           "sector": "Transport",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 2792037,
+            "profit_net": -312442,
+            "datorii": 5529335,
+            "nr_salariati": 22
+          }
         }
       ],
       "cv": null
@@ -14249,7 +15804,14 @@
           "nume": "CENTRUL NAȚIONAL DE ÎNVĂȚĂMÂNT TURISTIC S.A.",
           "rol": "administrator",
           "sector": "Sănătate · educație",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 11655947,
+            "profit_net": 379116,
+            "datorii": 90942823,
+            "nr_salariati": 48
+          }
         }
       ],
       "cv": null
@@ -14275,7 +15837,8 @@
           "nume": "SOCIETATEA DE PRODUCERE A ENERGIEI ELECTRICE IN HIDROCENTRALE \" HIDROELECTRICA\" S.A.",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "status_fin": "PROFIT"
+          "status_fin": "PROFIT",
+          "financials": []
         }
       ],
       "cv": null
