@@ -19,6 +19,14 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
 > - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
 >
+> **✅ FOLLOW-THE-MONEY (2026-06-10) — contract→firmă→persoană:** SICAP harvest 2023-25 (11.945 firme
+> câștigătoare, `achizitii/contracte_firme.json`) → ONRC reps extins la câștigători (12.777 companii, 21.476
+> reps) → gold leagă contract↔firmă↔persoană (49.008 persoane). ONEST: link nume-bazat = majoritar OMONIMI
+> (ENGIE/Groupama = namesake, NU parlamentarul). Verificare defensabilă = firma în PROPRIA declarație de interese
+> → **2 CONFIRMATE din 13 leaduri** (Gherasim Laura/AUR → ACG Construction 263,5M lei; Vidra Vlad/SOS → COPROT).
+> `graf/follow_the_money.json` separă clar CONFIRMATE vs leaduri_neverificate (NU acuzații). Gold v2 institution-aware
+> (omonimi separați pe organizație). RĂMAS: verificare interese pe toți + dată naștere ONRC + promovare DuckDB.
+>
 > **✅ STRAT GOLD (2026-06-10) — rezoluție canonică:** `pipeline/build_gold.py` pe `romega_core.resolve`
 > → 21.058 persoane canonice cu **romega_id stabil** în `data/gold/registry.sqlite`. Parlamentarii
 > rezolvați cu data nașterii (332 high-conf) ancorează registrul. Cross-links **stratificate pe încredere**:
