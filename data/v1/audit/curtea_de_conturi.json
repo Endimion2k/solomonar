@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "generated_at": "2026-06-10T19:29:58.760490+00:00",
+    "source_id": "ccr",
+    "source_url": "https://www.curteadeconturi.ro",
+    "connector": "connectors/audit/curteadeconturi.py::CurteaDeConturiConnector.fetch_audit_links",
+    "count": 11,
+    "fetch_error": null
+  },
+  "data": [
+    {
+      "title": "Rapoarte publice anuale",
+      "url": "https://www.curteadeconturi.ro/ce-facem/raport-public-anual/"
+    },
+    {
+      "title": "Rapoarte de activitate",
+      "url": "https://www.curteadeconturi.ro/ce-facem/raport-de-activitate/"
+    },
+    {
+      "title": "Audit financiar",
+      "url": "https://www.curteadeconturi.ro/rapoarte-de-audit/audit-financiar/"
+    },
+    {
+      "title": "Audit de conformitate",
+      "url": "https://www.curteadeconturi.ro/rapoarte-de-audit/audit-de-conformitate/"
+    },
+    {
+      "title": "Audit al performanței",
+      "url": "https://www.curteadeconturi.ro/rapoarte-de-audit/audit-al-performantei/"
+    },
+    {
+      "title": "Solicitate de Parlament",
+      "url": "https://www.curteadeconturi.ro/rapoarte-de-audit/solicitate-de-parlament/"
+    },
+    {
+      "title": "În cooperare cu alte instituții",
+      "url": "https://www.curteadeconturi.ro/rapoarte-de-audit/in-cooperare-cu-alte-institutii/"
+    },
+    {
+      "title": "Citește",
+      "url": "https://www.curteadeconturi.ro/rapoarte-audit/raport-de-audit-de-conformitate-nr-40385-09-06-2026-uatc-chiscani/"
+    },
+    {
+      "title": "Citește",
+      "url": "https://www.curteadeconturi.ro/rapoarte-audit/raport-de-audit-financiar-pentru-anul-2025-nr-40537-09-06-2026-uatc-tulca/"
+    },
+    {
+      "title": "Citește",
+      "url": "https://www.curteadeconturi.ro/rapoarte-audit/raport-de-audit-de-conformitate-nr-39961-05-06-2026-uatc-banca/"
+    },
+    {
+      "title": "Vezi toate rapoartele",
+      "url": "https://www.curteadeconturi.ro/rapoarte-de-audit/"
+    }
+  ]
+}
