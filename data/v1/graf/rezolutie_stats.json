@@ -1,8 +1,68 @@
 {
   "nota": "v2 institution-aware. incredere: high=dată naștere (parlamentari), context=declară LA + conduce ACEEAȘI organizație (nume+org, fără CNP), candidat=doar nume.",
-  "cross_links_total": 59,
-  "cross_links_confirmate": 51,
+  "cross_links_total": 70,
+  "cross_links_confirmate": 61,
   "confirmate": [
+    {
+      "romega_id": "p:78896aeb00895d99",
+      "nume_key": "ion iordache",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Gorj",
+        "legislatura": 2024,
+        "birth_date": "1974-05-05"
+      },
+      "n_declaratii": 2,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 5013188.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Iordache Ion",
+          "venituri_ron": 2022830
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Iordache Ion",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 1605884,
+          "nume": "SECOM SA",
+          "rol": "administrator",
+          "sector": "Apă-canal · salubritate",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 50360329,
+            "profit_net": 4193671,
+            "datorii": 35055228,
+            "nr_salariati": 379
+          }
+        },
+        {
+          "cui": 16208742,
+          "nume": "MELENTARII",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 5013188.0,
+            "nr": 2
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | Asociaţia Centrul pentru Formare Profesională şi Dezvoltare Regională | Facultatea de &#536;tiinte Economice &#8217;&#8217;Titu Maiorescu&#8217;&#8217; | Liceul Industrial Energetic Turceni",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Senator - 2020-2024 | 2013 - 2020 | 2012 - 2020 | 2002 - 2008 | 2001 - 2020 | 1994 - 2000 | Manager de proiect | Economist licenţiat | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tab"
+      }
+    },
     {
       "romega_id": "g:a82365d5f4f940b0",
       "nume_key": "marian radut",
@@ -11,6 +71,9 @@
       "n_declaratii": 27,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -138,6 +201,9 @@
       "n_declaratii": 14,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -235,6 +301,9 @@
       "n_declaratii": 14,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -332,6 +401,9 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -409,6 +481,9 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -486,6 +561,9 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -563,6 +641,9 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -638,6 +719,9 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -699,6 +783,9 @@
       "n_declaratii": 7,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -764,6 +851,9 @@
       "n_declaratii": 7,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -829,6 +919,9 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -883,6 +976,9 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -934,6 +1030,9 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -991,6 +1090,9 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1048,6 +1150,9 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1105,6 +1210,9 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1162,6 +1270,9 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1203,6 +1314,9 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1244,6 +1358,9 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1285,6 +1402,9 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1332,6 +1452,9 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1374,6 +1497,9 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1419,6 +1545,9 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1461,6 +1590,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1504,6 +1636,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1537,6 +1672,53 @@
       }
     },
     {
+      "romega_id": "p:7624c0fe68a5542b",
+      "nume_key": "gabriel lapusan remus",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Social Democrat",
+        "judet": "Cluj",
+        "legislatura": 2024,
+        "birth_date": "1971-02-19"
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 11051677.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Lapusan Remus-Gabriel",
+          "venituri_ron": 947384
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Lapusan Remus-Gabriel",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 1813613,
+          "nume": "UNIQA ASIGURARI",
+          "rol": "membru în consiliul de supraveghere",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 11051677.0,
+            "nr": 11
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Avizarea de studii, prognoze si programe in legatura cu orientarile si nivelurile de dezvoltare a activitatii de ocupare a fortei de munca. | Conducerea si coordonarea masurilor de stimulare pentru crearea de noi locuri de munca. Coordonarea, informarea, consilierea si orientarea profesionala a persoanelor aflate in cautarea unui loc de mun | Presedinte executiv Basket Universitar masculin U. Cluj | Membru Consiliul de Administratie Colegiul National &#8220;Emil Racovita&#8221;-Cluj Napoca | Membru Consiliul de Administratie Colegiul &#8220;Anghel Saligny&#8221;- Cluj Napoca | Membru Consiliul",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Perioada | 21.12.2024-prezent | Denumirea angajatorului | Exercita controlul permanent asupra conducerii societatii de catre Directorat; | Numeste si revoca membrii Directoratului; | Negociaza si incheie contractele de mandat cu membrii Directoratului; | Aproba repartizarea resposabilitatilor si a departamentelor ce vor fi coordonate de catre membrii Directoratului; | Aproba si monitorizeaza extern"
+      }
+    },
+    {
       "romega_id": "g:ce765e759b24c684",
       "nume_key": "ilasi liviu",
       "incredere": "context",
@@ -1544,6 +1726,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1575,6 +1760,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1606,6 +1794,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1637,6 +1828,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1668,6 +1862,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1699,6 +1896,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1730,6 +1930,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1761,6 +1964,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1792,6 +1998,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1823,6 +2032,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1861,6 +2073,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1892,6 +2107,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1923,6 +2141,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1954,6 +2175,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -1985,6 +2209,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2016,6 +2243,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2046,6 +2276,122 @@
       "cv": null
     },
     {
+      "romega_id": "p:112ac4ccab0922c1",
+      "nume_key": "gherasim laura",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Alianța pentru Unirea Românilor",
+        "judet": "Vaslui",
+        "legislatura": 2024,
+        "birth_date": "1978-09-24"
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 263537595.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 17351537,
+          "nume": "ACG CONSTRUCTION & PROJECTS",
+          "total_ron": 263537595.0
+        },
+        {
+          "cui": 17351537,
+          "nume": "ACG CONSTRUCTION & PROJECTS",
+          "total_ron": 263537595.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Gherasim Laura",
+          "venituri_ron": 3520375
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Gherasim Laura",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 17351537,
+          "nume": "ACG CONSTRUCTION & PROJECTS",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 263537595.0,
+            "nr": 45
+          }
+        },
+        {
+          "cui": 17351537,
+          "nume": "ACG CONSTRUCTION & PROJECTS",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 263537595.0,
+            "nr": 45
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Am o experienţă de 20 de ani în antreprenoriat, sunt licenţiată în drept şi am absolvit un program de studii masterale în managementul administraţiei publice. | C.N.A.D.N.R. - Centrul de Studii Tehnice Rutiere şi Informatice, Biroul Achiziţii Publice | EDUCAŢIE ŞI FORMARE PROFESIONALĂ | Masterat în Managementul Administraţiei Publice | Facultatea de &#536;tiinţe Economice şi Administrative, Universitatea &#8222;Eftimie Murgu&#8221; | Licenţiată în ştiinţe juridice, specializarea Drept | Facultatea de Drept, Universitatea &#8222;Spiru Haret&#8221; | Liceul Teoretic &#8222;Mihail Kogălniceanu&#8",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Sunt centrată pe predictibilitate, responsabilitate şi fezabilitate. Am îndeplinit de-a lungul timpului mai multe funcţii, în varii domenii, atât în mediul privat cât şi în organizaţii nonguvernamenta | Director General | Activităţi de inginerie şi consultanţă juridică şi tehnică; | [ 26/09/2008 - 2010 ] | Consilier juridic | [ 2005 - 2007 ] | Director artistic | [ 2003 - 2005 ] | Competenţe la niv"
+      }
+    },
+    {
+      "romega_id": "p:bee5b9f39d84d7d2",
+      "nume_key": "mindrescu nicolae",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Alianța pentru Unirea Românilor",
+        "judet": "Vâlcea",
+        "legislatura": 2024,
+        "birth_date": "1969-02-03"
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 1499342.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Mindrescu Nicolae",
+          "venituri_ron": 298376
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Mindrescu Nicolae",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 8702132,
+          "nume": "BOCMAN S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 1499342.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": {
+        "studii": "LICEUL TEORETIC MĂCIUCA | FACULTATEA DE MANAGEMENT AGROTURISTIC | - UNIVERSITATEA BIOTERRA 2006 - 2009 | MASTER FACULTATEA DE DREPT | UNIVERSITATEA BIOTERRA 2017 - 2019",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | noiembrie 1988 - 1994 | Administrator şi Director General , - SC BOCMAN SRL, Bucuresti | iunie 1995 - Prezent | În calitate de administrator şi director general, | Administrator şi Director - , SC METENE SERVICE SRL, Dragasani, Valcea | aprilie 2014 - Prezent | - UNIVERSITATEA BIOTERRA 2006 - 2009 | UNIVERSITATEA BIOTERRA 2017 - 2019 | window.addEventListener(\"load\", function(){ | onInitialise: fun"
+      }
+    },
+    {
       "romega_id": "g:237ca22bc4a9b7ee",
       "nume_key": "munteanu petronel",
       "incredere": "context",
@@ -2053,6 +2399,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2096,6 +2445,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2129,6 +2481,111 @@
       }
     },
     {
+      "romega_id": "p:e0407696d32b1957",
+      "nume_key": "oprea radu stefan",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Social Democrat",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 4666734.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Oprea Ştefan-Radu",
+          "venituri_ron": 150118
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Oprea Ştefan-Radu",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13093222,
+          "nume": "ENGIE ROMANIA S.A.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 4666734.0,
+            "nr": 13
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | Certificat de absolvire a cursului de perfectionare \"Politica externa si diplomatie\" | Institutul Diplomatic Roman si Ministerul de Externe | Certificat de atestare a competentelor profesionale pentru programul postuniversitar de formare si dezvoltare profesionala in domeniul securitatii si apararii nationale \"Securitate si buna guvernare\"  | Colegiul National de Aparare, Bucuresti | Diploma in programul de formare specializata pentru ocuparea unei functii din categoria inaltilor functionari publici | Licentiat in inginerie mecanica si electrica | Universitatea d",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2012 - 2016 | Legislatura 2016 - 2020 | Legislatura 2020 - 2024 | Legislatura 2024 - 2028 | 11/2021-Prezent | 12/2020-Prezent | 2016-2020 | 2012-2016 | 10/"
+      }
+    },
+    {
+      "romega_id": "p:c48281895105d022",
+      "nume_key": "alexandru popa",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Brăila",
+        "legislatura": 2024,
+        "birth_date": "1990-08-06"
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 1795508.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Popa Alexandru",
+          "venituri_ron": 1022189
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Popa Alexandru",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 21241885,
+          "nume": "ELECTRO-SERVICE DISTRIBUTIE",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 1795508.0,
+            "nr": 2
+          }
+        },
+        {
+          "cui": 21241885,
+          "nume": "ELECTRO-SERVICE DISTRIBUTIE",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 1795508.0,
+            "nr": 2
+          }
+        }
+      ],
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove"
+      }
+    },
+    {
       "romega_id": "g:96a0cd4bb7a4051d",
       "nume_key": "butnaru radu",
       "incredere": "context",
@@ -2136,6 +2593,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2166,49 +2626,50 @@
       "cv": null
     },
     {
-      "romega_id": "p:78896aeb00895d99",
-      "nume_key": "ion iordache",
+      "romega_id": "p:5877a0d1acdd0e92",
+      "nume_key": "nagy szabolcs",
       "incredere": "high",
       "parlamentar": {
         "camera": "deputat",
-        "partid": "Partidul Național Liberal",
-        "judet": "Gorj",
+        "partid": "Uniunea Democrată Maghiară din România",
+        "judet": "Satu-Mare",
         "legislatura": 2024,
-        "birth_date": "1974-05-05"
+        "birth_date": "1983-07-23"
       },
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 418766860.0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
-          "institutie": "Deputat Iordache Ion",
-          "venituri_ron": 2022830
+          "institutie": "Deputat Nagy Szabolcs",
+          "venituri_ron": 248900
         },
         {
           "tip": "interese",
-          "institutie": "Deputat Iordache Ion",
+          "institutie": "Deputat Nagy Szabolcs",
           "venituri_ron": null
         }
       ],
       "companii": [
         {
-          "cui": 1605884,
-          "nume": "SECOM SA",
+          "cui": 6291812,
+          "nume": "GROUPAMA ASIGURARI",
           "rol": "administrator",
-          "sector": "Apă-canal · salubritate",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 50360329,
-            "profit_net": 4193671,
-            "datorii": 35055228,
-            "nr_salariati": 379
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 418766860.0,
+            "nr": 659
           }
         }
       ],
       "cv": {
-        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | Asociaţia Centrul pentru Formare Profesională şi Dezvoltare Regională | Facultatea de &#536;tiinte Economice &#8217;&#8217;Titu Maiorescu&#8217;&#8217; | Liceul Industrial Energetic Turceni",
-        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Senator - 2020-2024 | 2013 - 2020 | 2012 - 2020 | 2002 - 2008 | 2001 - 2020 | 1994 - 2000 | Manager de proiect | Economist licenţiat | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tab"
+        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | DIPLOMĂ DE LICEN&#538;Ă | - Universitatea de Vest Vasile GoldişArad - Facultatea de economie - Marketing | - Liceul Reformat Satu Mare / specializarea teologie",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | DIRECTOR DE CABINET | 2016 - 2016 - Satu Mare, România | 03/2013 - 2014 - Satu Mare, România | CONSILIER - CABINET VICEPRE&#536;EDINTE | CONSILIER | 2004 - 2005 - Cluj Napoca, România | 2006 - 2009 - România | 1998 - 2002 - Szatmárnémeti, România | 2016 - 2016 | Consilier Judeţean | 2008 - 2016 | Consilier local | 2008 - 2011 | window.addEventListener(\"load\", function(){ | onI"
       }
     },
     {
@@ -2219,6 +2680,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2259,6 +2723,9 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2289,6 +2756,148 @@
       "cv": null
     },
     {
+      "romega_id": "p:aea9a2c0d15198cd",
+      "nume_key": "andrei vidra vlad",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul S.O.S. România",
+        "judet": "Bihor",
+        "legislatura": 2024,
+        "birth_date": "1982-03-04"
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 419526.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 62461,
+          "nume": "COPROT",
+          "total_ron": 419526.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Vidra Vlad-Andrei",
+          "venituri_ron": 36686
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Vidra Vlad-Andrei",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 62461,
+          "nume": "COPROT",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 419526.0,
+            "nr": 37
+          }
+        }
+      ],
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });"
+      }
+    },
+    {
+      "romega_id": "p:b6b8cd775e5cb874",
+      "nume_key": "lucian marginean",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Social Democrat",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 57120822.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Mărginean Lucian",
+          "venituri_ron": 725808
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Mărginean Lucian",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 28553116,
+          "nume": "Group Velstand",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 57120822.0,
+            "nr": 104
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | tudii doctorale",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | {\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Person\",\"name\":\"Lucian MĂRGINEAN\",\"jobTitle\":\"senator\",\"url\":\"https:\\/\\/www.senat.ro\\/FisaSenator.aspx?ParlamentarID=FEE99943-2379-4151-8E9A-7B15D1F04A4F\",\" | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | fu"
+      }
+    },
+    {
+      "romega_id": "p:d286fe20e4342666",
+      "nume_key": "miklos zoltan",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Uniunea Democrată Maghiară din România",
+        "judet": "Covasna",
+        "legislatura": 2024,
+        "birth_date": "1975-08-16"
+      },
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 2130478.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "interese",
+          "institutie": "Deputat Miklos Zoltan",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 22474030,
+          "nume": "ALEX MOBILIER MACS",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 2130478.0,
+            "nr": 4
+          }
+        }
+      ],
+      "cv": {
+        "studii": "R4 Consultanta si Formare Profesionala SRL | Consultanta si formare profesionala, managament proiecte europene | EDUCAŢIE ŞI FORMARE | Universitatea &#8220;Lucian Blaga&#8221; Sibiu, Facultatea de Ştiinţe Economice | Masterat in management financiar | Studii postuniversitare | Universitatea &#8220;Transilvania&#8221; Braşov, Facultatea de Ştiinţe Economice | Studii superioare de lunga durata. | Liceul &#8222;Szekely Miko Kollegium&#8221; Sf. Gheorghe, jud. Covasna, Specializare Matematica - Fizica | In cele 4 ani de studiu, s-au parcurs si s-au insusit diferite discipline specifice studiilor l",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Perioada (de la - până la) | Numele şi adresa angajatorului | Director general/ Administrator | Sef Serviciu Relatii cu Clientii | Director economic, Director operatiuni, Sef Serviciu Operatiuni | Consilier local | 2007 - 2009 | 1993 - 1997 | In cele 4 ani de studiu, s-au parcurs si s-au insusit diferite discipline de specialitate economica si juridica specifica profesiei de e"
+      }
+    },
+    {
       "romega_id": "g:96833f386f941296",
       "nume_key": "florentin ilie",
       "incredere": "context",
@@ -2296,6 +2905,9 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2324,6 +2936,48 @@
       }
     },
     {
+      "romega_id": "p:c34d4e921e02bf48",
+      "nume_key": "dorin popa",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formațiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
+        "judet": "Argeș",
+        "legislatura": 2024,
+        "birth_date": "1960-04-19"
+      },
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 563528.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Popa Dorin",
+          "venituri_ron": 23420
+        }
+      ],
+      "companii": [
+        {
+          "cui": 5859982,
+          "nume": "BIAS TEHNOCOM",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 563528.0,
+            "nr": 2
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCAŢIE ŞI FORMARE PROFESIONALĂ | Calificarea / diploma obţinută | Diploma absolvire | Modulul postuniversitar cu durata de 1 an &#8222;Jean Monnet&#8221; specializarea &#8220;History of the European idea, civilization and construction&#8221; | Numele şi tipul instituţiei de învăţământ / furnizorului de formare | Universitatea de Stat din Piteşti | Diploma Master | Universitatea de Stat din Piteşti, Facultatea de Ştiinţe Economice, Juridice şi Administrative | Modulul postuniversitar cu durata de 1 an &#8222;Jean Monnet&#8221; specializarea &#8222;European Policies in the field of sustainable",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Perioada | 2002 - prezent | Numele şi adresa angajatorului | 1995 - prezent | 2024 - PREZENT | 2007 - 2008 | 2004 - 2006 | 2004 - 2005 | 1986 - 1988 | 1981 - 1986 | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListen"
+      }
+    },
+    {
       "romega_id": "g:de7bfccebb6704b3",
       "nume_key": "balacciu cristina oana",
       "incredere": "context",
@@ -2331,6 +2985,9 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "interese",
@@ -2357,6 +3014,9 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
@@ -2389,6 +3049,9 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "interese",
@@ -2408,5 +3071,5 @@
       "cv": null
     }
   ],
-  "parlamentari_companii": 3
+  "parlamentari_companii": 13
 }

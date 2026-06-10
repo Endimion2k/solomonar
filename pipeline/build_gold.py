@@ -124,15 +124,24 @@ def main() -> dict:
     # ---------- 2. mențiuni FĂRĂ dată naștere (declarații + reps + CV) ----------
     mentions = []  # {nk, tokens, kind, org, payload}
     cidx = {c["cui"]: c for c in _rows(_load(os.path.join(V, "companii/_index.json")), "data")}
+    cf = {int(r["cui"]): r for r in _rows(_load(os.path.join(V, "achizitii/contracte_firme.json")), "firme")
+          if str(r.get("cui", "")).isdigit()}   # CUI → contracte de stat câștigate
     for c in _rows(_load(os.path.join(V, "companii/reprezentanti.json")), "companii"):
         co = cidx.get(c["cui"], {})
         oname = co.get("name", c.get("denumire", ""))
+        try:
+            ctr = cf.get(int(c["cui"]))
+        except (ValueError, TypeError):
+            ctr = None
         for rp in c.get("reprezentanti", []):
             nk = name_key(rp["nume"])
             if nk:
+                pl = {"cui": c["cui"], "nume": oname, "rol": rp["calitate"],
+                      "sector": co.get("sector", ""), "financials": co.get("financials")}
+                if ctr:
+                    pl["contracte_stat"] = {"total_ron": ctr.get("total_ron"), "nr": ctr.get("nr_contracte")}
                 mentions.append({"nk": nk, "tokens": _distinct_tokens(oname), "kind": "companie", "org": oname,
-                                 "payload": {"cui": c["cui"], "nume": oname, "rol": rp["calitate"],
-                                             "sector": co.get("sector", ""), "financials": co.get("financials")}})
+                                 "payload": pl})
     for f in glob.glob(os.path.join(V, "declaratii/avere_*.json")) + glob.glob(os.path.join(V, "declaratii/interese_*.json")):
         tip = "avere" if "/avere_" in f.replace("\\", "/") else "interese"
         for d in _load(f).get("declaratii", []):
@@ -142,7 +151,10 @@ def main() -> dict:
             nk = name_key(nm)
             if nk:
                 inst = d.get("institutie", "")
+                # afilieri auto-declarate (interese): firme unde persoana e în conducere/acționariat
+                afil = " ".join(str(d.get(k, "")) for k in ("conducere", "actionariat", "entitati"))
                 mentions.append({"nk": nk, "tokens": _distinct_tokens(inst), "kind": "declaratie", "org": inst,
+                                 "afil_tokens": _distinct_tokens(afil),
                                  "payload": {"tip": tip, "institutie": inst, "venituri_ron": d.get("venituri_ron")}})
     cv_by_nk = {}
     for fn in ("companii/cv.json", "companii/cv_parlament.json", "companii/cv_senatori.json"):
@@ -182,18 +194,19 @@ def main() -> dict:
         nk = mentions[idxs[0]]["nk"]
         rid = nk_to_mp.get(nk) or _cid(idxs)   # dacă numele e al unui parlamentar → leagă la el (candidat)
         p = persoane.setdefault(rid, {"romega_id": rid, "nume_key": nk, "declaratii": [], "companii": [],
-                                      "orgs_decl": set(), "orgs_comp": set()})
+                                      "orgs_decl": set(), "orgs_comp": set(), "afil_tokens": set()})
         for i in idxs:
             m = mentions[i]
             if m["kind"] == "declaratie":
                 p["declaratii"].append(m["payload"]); p["orgs_decl"].add(frozenset(m["tokens"]))
+                p["afil_tokens"] |= m.get("afil_tokens", set())
             else:
                 p["companii"].append(m["payload"]); p["orgs_comp"].add(frozenset(m["tokens"]))
 
     # parlamentari fără mențiuni → adaugă-i
     for rid, d in mp.items():
         persoane.setdefault(rid, {"romega_id": rid, "nume_key": d["name_key"], "declaratii": [],
-                                  "companii": [], "orgs_decl": set(), "orgs_comp": set()})
+                                  "companii": [], "orgs_decl": set(), "orgs_comp": set(), "afil_tokens": set()})
 
     # ---------- 4. finalizează + tier de încredere ----------
     out = []
@@ -212,8 +225,22 @@ def main() -> dict:
             conf = "context"  # declară LA + conduce ACEEAȘI org (nume+context)
         else:
             conf = "candidat"
+        # contracte de stat câștigate de firmele persoanei (follow-the-money)
+        afil = p.get("afil_tokens", set())
+        firme_ctr = {}
+        firme_autodecl = []   # firme cu contracte care apar ȘI în declarația de interese a persoanei = CONFIRMAT
+        for c in p["companii"]:
+            cs = c.get("contracte_stat")
+            if not cs:
+                continue
+            firme_ctr[c["cui"]] = cs.get("total_ron")
+            if afil and (_distinct_tokens(c.get("nume", "")) & afil):
+                firme_autodecl.append({"cui": c["cui"], "nume": c.get("nume", ""), "total_ron": cs.get("total_ron")})
+        total_ctr = sum(v for v in firme_ctr.values() if v)
         rec = {"romega_id": rid, "nume_key": nk, "incredere": conf, "parlamentar": mp.get(rid, {}).get("parlamentar"),
                "n_declaratii": len(p["declaratii"]), "n_companii": ncomp, "are_cv": cv is not None,
+               "n_firme_cu_contracte": len(firme_ctr), "total_contracte_ron": total_ctr,
+               "firme_contracte_autodeclarate": firme_autodecl,
                "declaratii": p["declaratii"][:20], "companii": p["companii"], "cv": cv}
         out.append(rec)
     out.sort(key=lambda x: (-x["n_companii"], -x["n_declaratii"]))
@@ -243,11 +270,28 @@ def main() -> dict:
                "cross_links_total": len(cross), "cross_links_confirmate": len(confirmed),
                "confirmate": confirmed[:200], "parlamentari_companii": len(parl_co)},
               open(os.path.join(V, "graf/rezolutie_stats.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    # FOLLOW-THE-MONEY: persoane (declaranți/parlamentari) ale căror firme au câștigat contracte de stat
+    ftm = [r for r in out if r["n_firme_cu_contracte"] > 0 and (r["n_declaratii"] > 0 or r["parlamentar"])]
+    ftm.sort(key=lambda x: -(x["total_contracte_ron"] or 0))
+    # CONFIRMAT = firma cu contracte apare în PROPRIA declarație de interese (nu omonim)
+    autodecl = [r for r in out if r.get("firme_contracte_autodeclarate")]
+    autodecl.sort(key=lambda x: -sum((f.get("total_ron") or 0) for f in x["firme_contracte_autodeclarate"]))
+    json.dump({"nota": "⚠️ LEAD-URI NEVERIFICATE, NU acuzații. Link firmă↔persoană e pe NUME (fără CNP) → "
+               "MAJORITATEA sunt OMONIMI, mai ales la companii mari (ENGIE/Groupama/UNIQA = un omonim e "
+               "reprezentant, NU parlamentarul). Singurele DEFENSABILE: 'confirmate_autodeclarate' = firma "
+               "apare în PROPRIA declarație de interese a persoanei (conflict documentat). Restul: de verificat "
+               "manual cu declarația de interese + ONRC (dată naștere/CNP).",
+               "total_leaduri": len(ftm), "din_care_parlamentari": sum(1 for r in ftm if r["parlamentar"]),
+               "CONFIRMATE_autodeclarate": len(autodecl), "confirmate": autodecl[:100],
+               "leaduri_neverificate": ftm[:200]},
+              open(os.path.join(V, "graf/follow_the_money.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"GOLD v2: {len(out)} persoane | parlamentari={len(mp)} | "
           f"incredere high={sum(1 for r in out if r['incredere']=='high')} "
           f"context={sum(1 for r in out if r['incredere']=='context')} candidat={sum(1 for r in out if r['incredere']=='candidat')}")
     print(f"  cross-links: {len(cross)} total | {len(confirmed)} CONFIRMATE (high/context) | parl+comp {len(parl_co)}")
-    return {"persoane": len(out), "confirmate": len(confirmed)}
+    print(f"  FOLLOW-THE-MONEY leaduri: {len(ftm)} ({sum(1 for r in ftm if r['parlamentar'])} parlamentari) | "
+          f"CONFIRMATE autodeclarate (firma în propria declarație): {len(autodecl)}")
+    return {"persoane": len(out), "confirmate": len(confirmed), "ftm": len(ftm), "autodecl": len(autodecl)}
 
 
 if __name__ == "__main__":

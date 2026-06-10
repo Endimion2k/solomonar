@@ -44,7 +44,7 @@
   },
   "gold": {
     "versiune": "v2 institution-aware",
-    "persoane_canonice": 32683,
+    "persoane_canonice": 49008,
     "parlamentari": 465,
     "incredere": {
       "high": 465,
@@ -54,5 +54,10 @@
     "cross_links_total": 59,
     "cross_links_confirmate": 51,
     "registru": "data/gold/registry.sqlite"
+  },
+  "achizitii": {
+    "firme_castigatoare": 11945,
+    "follow_the_money_leaduri": 13,
+    "confirmate_autodeclarate": 2
   }
 }
