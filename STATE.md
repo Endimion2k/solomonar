@@ -19,6 +19,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
 > - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
 >
+> **✅ STRAT GOLD (2026-06-10) — rezoluție canonică:** `pipeline/build_gold.py` pe `romega_core.resolve`
+> → 21.058 persoane canonice cu **romega_id stabil** în `data/gold/registry.sqlite`. Parlamentarii
+> rezolvați cu data nașterii (332 high-conf) ancorează registrul. Cross-links **stratificate pe încredere**:
+> 45 HIGH fiabile vs candidați med/low. Omonimii fără CNP flag-uiți LOW (nu ascunși). `persoane_gold.json`
+> + `rezolutie_stats.json`. Limita onestă: separare perfectă a omonimilor cere CNP (redactat legal D6).
+> RĂMAS gold v2: rezoluție institution-aware (separă același-nume la instituții diferite) + promovare DuckDB.
+>
 > **✅ IMPLEMENTAT (2026-06-10) — P0 Bugete + Partide:** subvenții partide (anual 2008-2026, 20 partide) ·
 > rapoarte RVC (22, Monitorul Oficial) · bugete UAT (6.389, toate, 2024-25) · BGC (28 luni). Vezi
 > `data/v1/partide/` + `data/v1/bugete/` + harvest_{subventii_partide,rvc_partide,bugete_uat,bgc}.py.
