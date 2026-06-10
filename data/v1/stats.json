@@ -1,28 +1,9 @@
 {
-  "generat": "2026-06-10T04:04:00.751206+00:00",
+  "generat": "2026-06-10T15:51:20.302755+00:00",
   "declaratii": {
     "total": 128923,
     "avere": 68448,
-    "interese": 60475,
-    "pe_sursa": {
-      "avere_anpm": 225,
-      "avere_cfr": 11763,
-      "avere_deconcentrate": 36227,
-      "avere_dsp": 151,
-      "avere_ministere": 9983,
-      "avere_parlament": 328,
-      "avere_parlament_senat": 250,
-      "avere_soe": 9143,
-      "avere_toate": 378,
-      "interese_anpm": 112,
-      "interese_cfr": 8730,
-      "interese_deconcentrate": 36125,
-      "interese_ministere": 8037,
-      "interese_parlament": 295,
-      "interese_parlament_senat": 215,
-      "interese_soe": 6961,
-      "~$terese_deconcentrate": 0
-    }
+    "interese": 60475
   },
   "companii_stat": {
     "total": 1256,
@@ -42,5 +23,21 @@
     "plx": 1852,
     "documente": 20574
   },
-  "motiuni": 175
+  "motiuni": 175,
+  "partide": {
+    "total": 17,
+    "subventii_inreg": 121,
+    "rapoarte_rvc": 402,
+    "subventie_totala_top": {
+      "PSD": 934343605.6200001,
+      "PNL": 618853252.12,
+      "USR": 284395344.47,
+      "AUR": 149363594.42000002,
+      "PMP": 42692142.20999999
+    }
+  },
+  "bugete": {
+    "uat_inreg": 6389,
+    "bgc_luni": 28
+  }
 }
