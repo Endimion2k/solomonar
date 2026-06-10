@@ -23,6 +23,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = os.path.join(ROOT, "data/v1")
 DATASETS = {  # an → dataset id (Situatii financiare)
     2023: "7861a98f-4d5c-4faa-90d4-8e934ebd1782",
+    2022: "aa2567a4-e7d7-4e6e-ab19-d08d39f99996",
+    2021: "f8353c0e-fee9-4aa3-b26d-be0e96c328a7",
+    2020: "e977e5b9-0a1f-46ac-8cb8-f856a011a8ed",
 }
 COLS = {"datorii": 7, "cifra_afaceri": 13, "profit_brut": 16, "profit_net": 18,
         "pierdere_neta": 19, "nr_salariati": 20}  # i{n}
@@ -117,5 +120,33 @@ def main(an: int = 2023) -> dict:
     return {"bilanturi": len(rows), "enriched": enr}
 
 
+def main_trend(ani=(2023, 2022, 2021, 2020)) -> dict:
+    """Bilanțuri multi-an → trend per SOE (cui → {an: financials})."""
+    cuis = _soe_cuis()
+    print(f"CUI-uri SOE: {len(cuis)} | ani: {ani}", flush=True)
+    trend = {}
+    for an in ani:
+        out = {}
+        for url in _data_urls(an):
+            print(f"  {an}: stream {url[-36:]}", flush=True)
+            try:
+                _stream(url, set(cuis), out)
+            except Exception as e:
+                print(f"    err {type(e).__name__}", flush=True)
+        for cui, fin in out.items():
+            if any(v is not None for v in fin.values()):
+                trend.setdefault(cui, {})[an] = fin
+        print(f"  {an}: {len(out)} SOE", flush=True)
+    rows = [{"cui": k, "denumire": cuis[k].get("name", ""), "ani": v} for k, v in trend.items()]
+    json.dump({"ani": list(ani), "total": len(rows), "trend": rows},
+              open(os.path.join(V, "companii/bilanturi_trend.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, indent=2)
+    print(f"PUBLICAT bilanturi_trend.json: {len(rows)} SOE cu istoric multi-an", flush=True)
+    return {"soe": len(rows)}
+
+
 if __name__ == "__main__":
-    main(int(sys.argv[1]) if len(sys.argv) > 1 else 2023)
+    if len(sys.argv) > 1 and sys.argv[1] == "trend":
+        main_trend()
+    else:
+        main(int(sys.argv[1]) if len(sys.argv) > 1 else 2023)
