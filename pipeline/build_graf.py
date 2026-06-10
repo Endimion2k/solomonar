@@ -75,7 +75,7 @@ def main() -> dict:
 
     # 3. CV-uri (conducere SOE/instituții + deputați)
     ncv = 0
-    cv_files = [("companii/cv.json", "cv"), ("companii/cv_parlament.json", "cv")]
+    cv_files = [("companii/cv.json", "cv"), ("companii/cv_parlament.json", "cv"), ("companii/cv_senatori.json", "cv")]
     for fn, key in cv_files:
         p_ = os.path.join(V, fn)
         if not os.path.exists(p_):

@@ -14218,7 +14218,7 @@
       "incredere": "high",
       "n_declaratii": 2,
       "n_companii": 1,
-      "are_cv": false,
+      "are_cv": true,
       "declaratii": [
         {
           "tip": "avere",
@@ -14251,7 +14251,11 @@
           }
         }
       ],
-      "cv": null
+      "cv": {
+        "studii": "Academia de Studii Economice București, Facultatea de Administrarea Afacerilor cu Predare în Limbi Străine (FABIZ) | Conferentiar Universitar Dr. | Financial Management în cadrul programului de master Business Strategy and Leadership | de Leadership and Performance Management, ciclul licenta, cu predare în limba engleză. | Educaţie şi formare | Studii | Octombrie 2008 – 2011 (susținerea tezei în 03.11.2011, eliberare titlu doctor 27.03.2012 | Doctor în management, cu eliberarea titlului de doctor în 27.03.2012 prin Ordinului Min. 3639 | Domeniul principal studiat - Management – Leadership și cultura organizațională, titlul tezei de doctorat: Rolul leadershipului în performanța organizațională | Specializări | Toată cariera am lucrat în echipe de lucru şi am coordonat şi implementat proiecte, indiferent de poziția ocupată şi domeniul în care am activat. Am realizat numeroase lucrări științifice în colaborar",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | Octombrie 2025 - prezent | Octombrie 2008 – 2011 (susținerea tezei în 03.11.2011, eliberare titlu doctor 27.03.2012 | Curs Manager Proiect, cod COR 242101 | $(function () { | $(document).ready(function () { | Proiect cofinanţat din Fondul Social European prin Programul Operaţional Capacitate Administrativă 2014-2020 | (function ($) { | $.fn.dropdown.Constructor._dataApiKeydownHandler = function () { }; | function hideWarning() { | document.addEventListener(\"DOMContentLoaded\", function () { | load: function (event) { | play: function (event) { | listener: function (event) { | addMarkupButton.addEventListener(\"click\", function () { | jQuery(document).ready(function () { | jQuery(window).scroll(function () { | jQuery('.back-to-top').click(function (event) {",
+        "entitate": "Grupul parlamentar al Partidului Național Liberal"
+      }
     },
     {
       "nume": "POPESCU SIMONA OLIMPIA",
