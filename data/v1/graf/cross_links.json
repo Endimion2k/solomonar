@@ -9,6 +9,7 @@
       "n_declaratii": 6,
       "n_companii": 4,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -116,6 +117,7 @@
       "n_declaratii": 1,
       "n_companii": 4,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -193,6 +195,7 @@
       "n_declaratii": 32,
       "n_companii": 3,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -376,6 +379,7 @@
       "n_declaratii": 15,
       "n_companii": 3,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -523,6 +527,7 @@
       "n_declaratii": 13,
       "n_companii": 3,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -659,6 +664,7 @@
       "n_declaratii": 7,
       "n_companii": 3,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -770,6 +776,7 @@
       "n_declaratii": 6,
       "n_companii": 3,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -859,6 +866,7 @@
       "n_declaratii": 43,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1026,6 +1034,7 @@
       "n_declaratii": 28,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1189,6 +1198,7 @@
       "n_declaratii": 17,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1342,6 +1352,7 @@
       "n_declaratii": 15,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1481,6 +1492,7 @@
       "n_declaratii": 13,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1599,6 +1611,7 @@
       "n_declaratii": 12,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1710,6 +1723,7 @@
       "n_declaratii": 12,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1808,6 +1822,7 @@
       "n_declaratii": 12,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -1923,6 +1938,7 @@
       "n_declaratii": 10,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2021,6 +2037,7 @@
       "n_declaratii": 10,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2127,6 +2144,7 @@
       "n_declaratii": 9,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2224,6 +2242,7 @@
       "n_declaratii": 9,
       "n_companii": 2,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2323,6 +2342,7 @@
       "n_declaratii": 6,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2403,6 +2423,7 @@
       "n_declaratii": 6,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2486,6 +2507,7 @@
       "n_declaratii": 6,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2566,6 +2588,7 @@
       "n_declaratii": 5,
       "n_companii": 2,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2643,6 +2666,7 @@
       "n_declaratii": 4,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2700,6 +2724,7 @@
       "n_declaratii": 4,
       "n_companii": 2,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2771,6 +2796,7 @@
       "n_declaratii": 4,
       "n_companii": 2,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2842,6 +2868,7 @@
       "n_declaratii": 4,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2909,6 +2936,7 @@
       "n_declaratii": 3,
       "n_companii": 2,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -2966,6 +2994,7 @@
       "n_declaratii": 3,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3027,6 +3056,7 @@
       "n_declaratii": 3,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3086,6 +3116,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3133,6 +3164,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3186,6 +3218,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3236,6 +3269,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3293,6 +3327,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3366,6 +3401,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3421,6 +3457,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3468,6 +3505,7 @@
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3516,6 +3554,7 @@
       "n_declaratii": 1,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3565,6 +3604,7 @@
       "n_declaratii": 1,
       "n_companii": 2,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -3606,6 +3646,7 @@
       "n_declaratii": 27,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3769,6 +3810,7 @@
       "n_declaratii": 25,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -3920,6 +3962,7 @@
       "n_declaratii": 24,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -4075,6 +4118,7 @@
       "n_declaratii": 23,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -4267,6 +4311,7 @@
       "n_declaratii": 22,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -4440,6 +4485,7 @@
       "n_declaratii": 22,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -4602,6 +4648,7 @@
       "n_declaratii": 21,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -4751,6 +4798,7 @@
       "n_declaratii": 20,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -4901,6 +4949,7 @@
       "n_declaratii": 20,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5037,6 +5086,7 @@
       "n_declaratii": 20,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5180,6 +5230,7 @@
       "n_declaratii": 20,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5326,6 +5377,7 @@
       "n_declaratii": 19,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5470,6 +5522,7 @@
       "n_declaratii": 18,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5604,6 +5657,7 @@
       "n_declaratii": 18,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5737,6 +5791,7 @@
       "n_declaratii": 18,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5876,6 +5931,7 @@
       "n_declaratii": 16,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -5995,6 +6051,7 @@
       "n_declaratii": 16,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6122,6 +6179,7 @@
       "n_declaratii": 15,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6240,6 +6298,7 @@
       "n_declaratii": 14,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6357,6 +6416,7 @@
       "n_declaratii": 14,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6468,6 +6528,7 @@
       "n_declaratii": 14,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6578,6 +6639,7 @@
       "n_declaratii": 14,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6699,6 +6761,7 @@
       "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6812,6 +6875,7 @@
       "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -6928,6 +6992,7 @@
       "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7032,6 +7097,7 @@
       "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7138,6 +7204,7 @@
       "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7241,6 +7308,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7350,6 +7418,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7457,6 +7526,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7562,6 +7632,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7671,6 +7742,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7778,6 +7850,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7881,6 +7954,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -7973,6 +8047,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8072,6 +8147,7 @@
       "n_declaratii": 12,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8176,6 +8252,7 @@
       "n_declaratii": 11,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8265,6 +8342,7 @@
       "n_declaratii": 11,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8368,6 +8446,7 @@
       "n_declaratii": 11,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8469,6 +8548,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8561,6 +8641,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8651,6 +8732,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8735,6 +8817,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8822,6 +8905,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -8909,6 +8993,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9004,6 +9089,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9092,6 +9178,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9192,6 +9279,7 @@
       "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9282,6 +9370,7 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9370,6 +9459,7 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9452,6 +9542,7 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9535,6 +9626,7 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9612,6 +9704,7 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9690,6 +9783,7 @@
       "n_declaratii": 9,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9763,6 +9857,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9843,6 +9938,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -9920,6 +10016,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10001,6 +10098,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10088,6 +10186,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10163,6 +10262,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10238,6 +10338,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10324,6 +10425,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10401,6 +10503,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10475,6 +10578,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10553,6 +10657,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10639,6 +10744,7 @@
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10718,6 +10824,7 @@
       "n_declaratii": 7,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10788,6 +10895,7 @@
       "n_declaratii": 7,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10856,6 +10964,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10918,6 +11027,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -10981,6 +11091,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11043,6 +11154,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11110,6 +11222,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11168,6 +11281,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11231,6 +11345,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11294,6 +11409,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11360,6 +11476,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11422,6 +11539,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11487,6 +11605,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11551,6 +11670,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11631,6 +11751,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11702,6 +11823,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11774,6 +11896,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11840,6 +11963,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11899,6 +12023,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -11966,6 +12091,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12024,6 +12150,7 @@
       "n_declaratii": 6,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12088,6 +12215,7 @@
       "n_declaratii": 5,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12145,6 +12273,7 @@
       "n_declaratii": 5,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12204,6 +12333,7 @@
       "n_declaratii": 5,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12266,6 +12396,7 @@
       "n_declaratii": 5,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12327,6 +12458,7 @@
       "n_declaratii": 5,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12377,6 +12509,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12434,6 +12567,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12484,6 +12618,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12533,6 +12668,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12585,6 +12721,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12636,6 +12773,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12687,6 +12825,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12742,6 +12881,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12797,6 +12937,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12846,6 +12987,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12898,6 +13040,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12944,6 +13087,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -12993,6 +13137,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13048,6 +13193,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13097,6 +13243,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13141,6 +13288,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13207,6 +13355,7 @@
       "n_declaratii": 4,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -13255,6 +13404,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13301,6 +13451,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13350,6 +13501,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13394,6 +13546,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13438,6 +13591,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13489,6 +13643,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13534,6 +13689,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13580,6 +13736,7 @@
       "n_declaratii": 3,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13624,6 +13781,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13664,6 +13822,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13704,6 +13863,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13745,6 +13905,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13786,6 +13947,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13824,6 +13986,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13858,6 +14021,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13899,6 +14063,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13941,6 +14106,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -13978,6 +14144,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14011,6 +14178,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14050,6 +14218,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14089,6 +14258,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14130,6 +14300,13 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "PNL",
+        "legislatura": 2024,
+        "judet": "Gorj",
+        "partid_subventie_lei": 618853252.12
+      },
       "declaratii": [
         {
           "tip": "avere",
@@ -14174,6 +14351,13 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "PSD",
+        "legislatura": 2024,
+        "judet": "București",
+        "partid_subventie_lei": 934343605.6200001
+      },
       "declaratii": [
         {
           "tip": "avere",
@@ -14219,6 +14403,13 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "PNL",
+        "legislatura": 2024,
+        "judet": null,
+        "partid_subventie_lei": 618853252.12
+      },
       "declaratii": [
         {
           "tip": "avere",
@@ -14264,6 +14455,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14310,6 +14502,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14351,6 +14544,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14392,6 +14586,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14432,6 +14627,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14473,6 +14669,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14517,6 +14714,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14558,6 +14756,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14599,6 +14798,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14634,6 +14834,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14669,6 +14870,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14702,6 +14904,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14742,6 +14945,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14781,6 +14985,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14822,6 +15027,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14863,6 +15069,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14903,6 +15110,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14943,6 +15151,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -14976,6 +15185,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15010,6 +15220,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15042,6 +15253,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15082,6 +15294,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15123,6 +15336,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15156,6 +15370,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15189,6 +15404,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15222,6 +15438,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15254,6 +15471,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15288,6 +15506,7 @@
       "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15328,6 +15547,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15363,6 +15583,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15398,6 +15619,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15426,6 +15648,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15459,6 +15682,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15492,6 +15716,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15519,6 +15744,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": true,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15558,6 +15784,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15593,6 +15820,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15627,6 +15855,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "avere",
@@ -15660,6 +15889,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -15692,6 +15922,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -15726,6 +15957,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -15760,6 +15992,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -15794,6 +16027,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",
@@ -15827,6 +16061,7 @@
       "n_declaratii": 1,
       "n_companii": 1,
       "are_cv": false,
+      "parlamentar": null,
       "declaratii": [
         {
           "tip": "interese",

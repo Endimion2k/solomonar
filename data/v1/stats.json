@@ -17,7 +17,9 @@
   },
   "graf": {
     "persoane": 31733,
-    "cross_links": 217
+    "cu_parlamentar": 468,
+    "cross_links_declarant_companie": 217,
+    "parlamentari_companii": 3
   },
   "comisii_cdep": {
     "plx": 1852,

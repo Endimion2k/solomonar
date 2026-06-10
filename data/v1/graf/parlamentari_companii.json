@@ -1,0 +1,161 @@
+{
+  "nota": "Parlamentari (deputați/senatori) care conduc și companii de stat.",
+  "total": 3,
+  "links": [
+    {
+      "nume": "IORDACHE ION",
+      "nume_norm": "ION IORDACHE",
+      "incredere": "med",
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "PNL",
+        "legislatura": 2024,
+        "judet": "Gorj",
+        "partid_subventie_lei": 618853252.12
+      },
+      "declaratii": [
+        {
+          "tip": "avere",
+          "sursa": "parlament",
+          "institutie": "Deputat Iordache Ion",
+          "venituri_ron": 2022830,
+          "terenuri": 75,
+          "cladiri": 10
+        },
+        {
+          "tip": "interese",
+          "sursa": "parlament",
+          "institutie": "Deputat Iordache Ion"
+        }
+      ],
+      "companii": [
+        {
+          "cui": 1605884,
+          "nume": "SECOM SA",
+          "rol": "administrator",
+          "sector": "Apă-canal · salubritate",
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 50360329,
+            "profit_net": 4193671,
+            "datorii": 35055228,
+            "nr_salariati": 379
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | Asociaţia Centrul pentru Formare Profesională şi Dezvoltare Regională | Facultatea de &#536;tiinte Economice &#8217;&#8217;Titu Maiorescu&#8217;&#8217; | Liceul Industrial Energetic Turceni",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Senator - 2020-2024 | 2013 - 2020 | 2012 - 2020 | 2002 - 2008 | 2001 - 2020 | 1994 - 2000 | Manager de proiect | Economist licenţiat | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });",
+        "entitate": "Partidul Național Liberal"
+      }
+    },
+    {
+      "nume": "MIHALCEA IOAN",
+      "nume_norm": "IOAN MIHALCEA",
+      "incredere": "med",
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "PSD",
+        "legislatura": 2024,
+        "judet": "București",
+        "partid_subventie_lei": 934343605.6200001
+      },
+      "declaratii": [
+        {
+          "tip": "avere",
+          "sursa": "parlament",
+          "institutie": "Deputat Mihalcea Ioan",
+          "venituri_ron": 774859,
+          "terenuri": 3,
+          "cladiri": 9
+        },
+        {
+          "tip": "interese",
+          "sursa": "parlament",
+          "institutie": "Deputat Mihalcea Ioan",
+          "actionariat": 7
+        }
+      ],
+      "companii": [
+        {
+          "cui": 427282,
+          "nume": "MONITORUL OFICIAL RA",
+          "rol": "administrator",
+          "sector": "IT & comunicații",
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 95013930,
+            "profit_net": 27260997,
+            "datorii": 8509006,
+            "nr_salariati": 287
+          }
+        }
+      ],
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });",
+        "entitate": "Partidul Social Democrat"
+      }
+    },
+    {
+      "nume": "HORGA MARIA GABRIELA",
+      "nume_norm": "GABRIELA HORGA MARIA",
+      "incredere": "high",
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "PNL",
+        "legislatura": 2024,
+        "judet": null,
+        "partid_subventie_lei": 618853252.12
+      },
+      "declaratii": [
+        {
+          "tip": "avere",
+          "sursa": "parlament_senat",
+          "institutie": "Senator Horga Maria-Gabriela",
+          "venituri_ron": 1238199,
+          "terenuri": 1,
+          "cladiri": 3
+        },
+        {
+          "tip": "interese",
+          "sursa": "parlament_senat",
+          "institutie": "Senator Horga Maria-Gabriela",
+          "actionariat": 2
+        }
+      ],
+      "companii": [
+        {
+          "cui": 31029694,
+          "nume": "ACTIVE CONEXE S.A.",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "status_fin": "PROFIT",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 3045061,
+            "profit_net": 18843329,
+            "datorii": 1192393,
+            "nr_salariati": 9
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Academia de Studii Economice București, Facultatea de Administrarea Afacerilor cu Predare în Limbi Străine (FABIZ) | Conferentiar Universitar Dr. | Financial Management în cadrul programului de master Business Strategy and Leadership | de Leadership and Performance Management, ciclul licenta, cu predare în limba engleză. | Educaţie şi formare | Studii | Octombrie 2008 – 2011 (susținerea tezei în 03.11.2011, eliberare titlu doctor 27.03.2012 | Doctor în management, cu eliberarea titlului de doctor în 27.03.2012 prin Ordinului Min. 3639 | Domeniul principal studiat - Management – Leadership și cultura organizațională, titlul tezei de doctorat: Rolul leadershipului în performanța organizațională | Specializări | Toată cariera am lucrat în echipe de lucru şi am coordonat şi implementat proiecte, indiferent de poziția ocupată şi domeniul în care am activat. Am realizat numeroase lucrări științifice în colaborar",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | Octombrie 2025 - prezent | Octombrie 2008 – 2011 (susținerea tezei în 03.11.2011, eliberare titlu doctor 27.03.2012 | Curs Manager Proiect, cod COR 242101 | $(function () { | $(document).ready(function () { | Proiect cofinanţat din Fondul Social European prin Programul Operaţional Capacitate Administrativă 2014-2020 | (function ($) { | $.fn.dropdown.Constructor._dataApiKeydownHandler = function () { }; | function hideWarning() { | document.addEventListener(\"DOMContentLoaded\", function () { | load: function (event) { | play: function (event) { | listener: function (event) { | addMarkupButton.addEventListener(\"click\", function () { | jQuery(document).ready(function () { | jQuery(window).scroll(function () { | jQuery('.back-to-top').click(function (event) {",
+        "entitate": "Grupul parlamentar al Partidului Național Liberal"
+      }
+    }
+  ]
+}
