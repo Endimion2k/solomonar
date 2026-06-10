@@ -1,0 +1,757 @@
+{
+  "generated_at": "2026-06-10T15:05:51.778301+00:00",
+  "sursa": "EFOR / banipartide.ro/subventii (Google Looker Studio)",
+  "report_id": "b0177427-ae62-4d70-8c27-0215005733b4",
+  "metoda": "batchedDataV2 (createSnapshot:false) via Playwright",
+  "granularitate": "anuala (raportul public nu expune luna; campul 'luna' e null)",
+  "total": 121,
+  "totaluri_pe_an": {
+    "2008": 8050971,
+    "2009": 6970467,
+    "2010": 5947146,
+    "2011": 5970496,
+    "2012": 6180722,
+    "2013": 6077225,
+    "2014": 6077221,
+    "2015": 6761426,
+    "2016": 14457754,
+    "2017": 30033885,
+    "2018": 170341445,
+    "2019": 252599179,
+    "2020": 253497625,
+    "2021": 234458872,
+    "2022": 256640648.76,
+    "2023": 227417122.82,
+    "2024": 382424796.78,
+    "2025": 232046000,
+    "2026": 60812603
+  },
+  "subventii": [
+    {
+      "an": 2008,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 457329
+    },
+    {
+      "an": 2008,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 1599126
+    },
+    {
+      "an": 2008,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1589363
+    },
+    {
+      "an": 2008,
+      "luna": null,
+      "partid": "PRM",
+      "suma_lei": 968542
+    },
+    {
+      "an": 2008,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2924195
+    },
+    {
+      "an": 2008,
+      "luna": null,
+      "partid": "UDMR",
+      "suma_lei": 512416
+    },
+    {
+      "an": 2009,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 68669
+    },
+    {
+      "an": 2009,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 2635994
+    },
+    {
+      "an": 2009,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1534480
+    },
+    {
+      "an": 2009,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2651202
+    },
+    {
+      "an": 2009,
+      "luna": null,
+      "partid": "UDMR",
+      "suma_lei": 80122
+    },
+    {
+      "an": 2010,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 59143
+    },
+    {
+      "an": 2010,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 2281633
+    },
+    {
+      "an": 2010,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1322119
+    },
+    {
+      "an": 2010,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2284251
+    },
+    {
+      "an": 2011,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 59379
+    },
+    {
+      "an": 2011,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 2290588
+    },
+    {
+      "an": 2011,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1327309
+    },
+    {
+      "an": 2011,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2293220
+    },
+    {
+      "an": 2012,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 88366
+    },
+    {
+      "an": 2012,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 2220156
+    },
+    {
+      "an": 2012,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1388025
+    },
+    {
+      "an": 2012,
+      "luna": null,
+      "partid": "PPDD",
+      "suma_lei": 103865
+    },
+    {
+      "an": 2012,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2380310
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "FC",
+      "suma_lei": 36960
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 213297
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 1066217
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1525101
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "PNTCD",
+      "suma_lei": 18480
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "PPDD",
+      "suma_lei": 922197
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2194629
+    },
+    {
+      "an": 2013,
+      "luna": null,
+      "partid": "UNPR",
+      "suma_lei": 100344
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "FC",
+      "suma_lei": 36960
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 213297
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 1066217
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 1525101
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "PNTCD",
+      "suma_lei": 18476
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "PPDD",
+      "suma_lei": 922197
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2194630
+    },
+    {
+      "an": 2014,
+      "luna": null,
+      "partid": "UNPR",
+      "suma_lei": 100343
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 237317
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "PDL",
+      "suma_lei": 87423
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 2836765
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "PNTCD",
+      "suma_lei": 20559
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "PPDD",
+      "suma_lei": 1026018
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 2441702
+    },
+    {
+      "an": 2015,
+      "luna": null,
+      "partid": "UNPR",
+      "suma_lei": 111642
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "ALDE",
+      "suma_lei": 592415
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "PC",
+      "suma_lei": 43212
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 6951330
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "PNTCD",
+      "suma_lei": 3744
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "PPDD",
+      "suma_lei": 186824
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 6245753
+    },
+    {
+      "an": 2016,
+      "luna": null,
+      "partid": "UNPR",
+      "suma_lei": 434476
+    },
+    {
+      "an": 2017,
+      "luna": null,
+      "partid": "ALDE",
+      "suma_lei": 1923037
+    },
+    {
+      "an": 2017,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 1273385
+    },
+    {
+      "an": 2017,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 8072680
+    },
+    {
+      "an": 2017,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 16449360
+    },
+    {
+      "an": 2017,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 2315423
+    },
+    {
+      "an": 2018,
+      "luna": null,
+      "partid": "ALDE",
+      "suma_lei": 9681530
+    },
+    {
+      "an": 2018,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 6306830
+    },
+    {
+      "an": 2018,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 44441810
+    },
+    {
+      "an": 2018,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 96849673
+    },
+    {
+      "an": 2018,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 13061602
+    },
+    {
+      "an": 2019,
+      "luna": null,
+      "partid": "ALDE",
+      "suma_lei": 14315724
+    },
+    {
+      "an": 2019,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 9321651
+    },
+    {
+      "an": 2019,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 65861719
+    },
+    {
+      "an": 2019,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 143731946
+    },
+    {
+      "an": 2019,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 19368139
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "ALDE",
+      "suma_lei": 14498479
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "PFN",
+      "suma_lei": 1872992
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "PLUS",
+      "suma_lei": 388354
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 9361356
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 70297116
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "PPRO",
+      "suma_lei": 12380242
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 124124724
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "UDMR",
+      "suma_lei": 899126
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "UNPR",
+      "suma_lei": 21607
+    },
+    {
+      "an": 2020,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 19653629
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "AUR",
+      "suma_lei": 18270213
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "PLUS",
+      "suma_lei": 4675352
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 4723070
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 76527402
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "PPRO",
+      "suma_lei": 3412509
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 90271379
+    },
+    {
+      "an": 2021,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 36578947
+    },
+    {
+      "an": 2022,
+      "luna": null,
+      "partid": "AUR",
+      "suma_lei": 19998730.01
+    },
+    {
+      "an": 2022,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 5169914
+    },
+    {
+      "an": 2022,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 83767532.64
+    },
+    {
+      "an": 2022,
+      "luna": null,
+      "partid": "PPRO",
+      "suma_lei": 3735362.25
+    },
+    {
+      "an": 2022,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 98811808.19
+    },
+    {
+      "an": 2022,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 45157301.67
+    },
+    {
+      "an": 2023,
+      "luna": null,
+      "partid": "AUR",
+      "suma_lei": 17885105.18
+    },
+    {
+      "an": 2023,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 2523839.23
+    },
+    {
+      "an": 2023,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 74914303.13
+    },
+    {
+      "an": 2023,
+      "luna": null,
+      "partid": "PPRO",
+      "suma_lei": 3340582.29
+    },
+    {
+      "an": 2023,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 88368577.44
+    },
+    {
+      "an": 2023,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 40384715.55
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "AUR",
+      "suma_lei": 35751769.23
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "FDREPTEI",
+      "suma_lei": 810758.69
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 2637343.98
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 122068753.35
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "PPRO",
+      "suma_lei": 2937071.29
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 152956881.99
+    },
+    {
+      "an": 2024,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 65262218.25
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "AUR",
+      "suma_lei": 45526732
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "FDREPTEI",
+      "suma_lei": 1030344
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 1089287
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 41917228
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "POT",
+      "suma_lei": 15946665
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 76992250
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "SOSRO",
+      "suma_lei": 19790977
+    },
+    {
+      "an": 2025,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 29752517
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "AUR",
+      "suma_lei": 11931045
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "FDREPTEI",
+      "suma_lei": 271067
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "PMP",
+      "suma_lei": 285466
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "PNL",
+      "suma_lei": 10985115
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "POT",
+      "suma_lei": 4179091
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "PSD",
+      "suma_lei": 20177114
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "SOSRO",
+      "suma_lei": 5186559
+    },
+    {
+      "an": 2026,
+      "luna": null,
+      "partid": "USR",
+      "suma_lei": 7797146
+    }
+  ]
+}
