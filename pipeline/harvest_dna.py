@@ -1,136 +1,122 @@
-"""Ad-hoc harness — rulează DnaConnector.fetch_comunicate (live) și exportă în data/v1/audit/dna.json.
+"""Harvest ARHIVA DNA — comunicate de presă (semnale anticorupție pe persoane/instituții).
 
-run.py NU exportă încă connectorii audit; acest harness îi cheamă metoda de fetch direct,
-îmbogățește fiecare comunicat (titlu/data/nr/corp de pe pagina .xhtml) și scrie plicul JSON.
-
-SSL: dna.ro merge din RO cu verify standard, dar — conform instrucțiunilor — forțăm
-verify=False + urllib3.disable_warnings() ca să fim robuști la MITM/antivirus pe Windows.
+Homepage arată doar 5, dar ID-urile `comunicat.xhtml?id=N` sunt DENSE (fiecare id = un comunicat
+real). Enumerăm înapoi de la cel mai recent până la un cutoff de an. Extragem data, nr., titlu,
+corp + NUMELE inculpaților (secvențe ALL-CAPS) pentru cross-ref cu graful ROMEGA.
+Resume-safe: JSONL de id-uri procesate. Output data/v1/audit/dna.json.
 """
 
 from __future__ import annotations
 
 import json
+import os
 import re
 import sys
-import warnings
-from datetime import datetime, timezone
-from pathlib import Path
+import time
 
+import requests
 import urllib3
 
 urllib3.disable_warnings()
-warnings.filterwarnings("ignore")
 
-ROOT = Path(__file__).resolve().parents[1]
-sys.path.insert(0, str(ROOT))
-sys.path.insert(0, str(ROOT / "packages" / "romega_core"))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+V = os.path.join(ROOT, "data/v1")
+JL = os.path.join(ROOT, "pipeline", "_dna_reproc.jsonl")
+H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120"}
+BASE = "https://www.dna.ro/comunicat.xhtml?id="
 
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.dates import parse_ro_date  # noqa: E402
-from romega_core.http import Client  # noqa: E402
-from romega_core.parse import selector  # noqa: E402
+MAX_IDS = int(os.environ.get("ROMEGA_DNA_MAX", "3000"))   # câte id-uri înapoi (data publicării nu e fiabilă per-pagină)
 
-from connectors.audit.dna import BASE, DnaConnector  # noqa: E402
-
-RE_RO_DATE = re.compile(r"(\d{1,2})\s+([A-Za-zăâîșşţț\.]+)\s+(\d{4})")
-
-
-def _patch_no_verify(client: Client) -> None:
-    """Forțează verify=False pe toate request-urile clientului (cerință harness)."""
-    _orig_get = client.get
-
-    def _get(url: str, **kwargs):
-        kwargs.setdefault("verify", False)
-        return _orig_get(url, **kwargs)
-
-    client.get = _get  # type: ignore[method-assign]
+LUNI = {"ianuarie": 1, "februarie": 2, "martie": 3, "aprilie": 4, "mai": 5, "iunie": 6,
+        "iulie": 7, "august": 8, "septembrie": 9, "octombrie": 10, "noiembrie": 11, "decembrie": 12}
+# cuvinte ALL-CAPS care NU sunt nume de persoană
+STOP = {"DNA", "ICCJ", "CCJ", "ANI", "PNA", "DGA", "SRI", "MAI", "IPJ", "ITM", "OUG", "CP", "CPP",
+        "UAT", "SRL", "SA", "TVA", "UE", "OLAF", "SC", "RA", "PSD", "PNL", "AUR", "USR", "ROMANIA",
+        "BUCURESTI", "NR", "ART", "LEGE", "MO", "CNAS", "APIA", "ANAF", "ROMANIEI", "II", "III", "IV"}
 
 
-def enrich(content: bytes, url: str) -> dict:
-    """Din pagina comunicat.xhtml → {titlu, data, data_iso, nr, corp}."""
-    sel = selector(content)
-    res = sel.css("div.results")
-    out: dict = {"url": url, "titlu": None, "data": None, "data_iso": None, "nr": None, "corp": None}
-    if not res:
-        return out
-    res = res[0]
-    indents = [
-        " ".join(p.strip() for p in s.css("::text").getall() if p.strip())
-        for s in res.css("span.indent")
-    ]
-    indents = [t for t in indents if t]
-    tabs = [
-        " ".join(p.strip() for p in s.css("::text").getall() if p.strip())
-        for s in res.css("span.tab")
-    ]
-    tabs = [t for t in tabs if t]
-
-    if indents:
-        out["data"] = indents[0]
-        m = RE_RO_DATE.search(indents[0])
-        if m:
-            d = parse_ro_date(m.group(1), m.group(2), m.group(3))
-            if d:
-                out["data_iso"] = d.isoformat()
-    for s in indents[1:]:
-        if s.lower().startswith("nr"):
-            out["nr"] = s
-            break
-    if tabs:
-        # primul paragraf = lede-ul descriptiv (semnalul real: nume/instituții)
-        out["titlu"] = tabs[0]
-        out["corp"] = "\n\n".join(tabs)
-    return out
+def _extract_names(text: str) -> list[str]:
+    """Secvențe de 2-4 cuvinte ALL-CAPS (litere RO) = candidați nume inculpați."""
+    names = []
+    for m in re.finditer(r"\b([A-ZĂÂÎȘȚ][A-ZĂÂÎȘȚ\-]{1,}(?:\s+[A-ZĂÂÎȘȚ][A-ZĂÂÎȘȚ\-]{1,}){1,3})\b", text):
+        toks = m.group(1).split()
+        if all(t in STOP for t in toks) or len(toks) < 2:
+            continue
+        if sum(1 for t in toks if t not in STOP) >= 2:   # cel puțin 2 tokeni non-stop
+            names.append(" ".join(toks))
+    seen, out = set(), []
+    for n in names:
+        if n not in seen:
+            seen.add(n); out.append(n)
+    return out[:8]
 
 
-def main() -> int:
-    bronze = BronzeStore(ROOT / "data" / "raw")
-    client = Client(bronze=bronze, legacy_ssl=False)
-    _patch_no_verify(client)
+def _parse(html: str) -> dict | None:
+    if 'class="results"' not in html:
+        return None
+    txt = re.sub(r"<[^>]+>", " ", html)
+    txt = re.sub(r"\s+", " ", txt).strip()
+    data = re.search(r"(\d{1,2})\s+(" + "|".join(LUNI) + r")\s+(20\d\d)", txt)
+    an = int(data.group(3)) if data else None
+    nr = re.search(r"Nr\.?\s*([\w/.\-]+)", txt)
+    body = txt[data.end():][:3000] if data else txt[:3000]
+    return {"an": an, "data": (data.group(0) if data else None), "nr": (nr.group(1) if nr else None),
+            "titlu": body[:160], "nume_extrase": _extract_names(body)}
 
-    conn = DnaConnector(client=client)
-    try:
-        coms = conn.fetch_comunicate()
-    except Exception as e:  # pragma: no cover
-        print(f"FETCH_LIST_FAILED: {type(e).__name__}: {e}", file=sys.stderr)
-        return 2
 
-    print(f"comunicate descoperite în listă: {len(coms)}", file=sys.stderr)
+def main() -> dict:
+    hp = requests.get("https://www.dna.ro/comunicate.xhtml", headers=H, verify=False, timeout=30).text
+    latest = max(int(x) for x in re.findall(r"comunicat\.xhtml\?id=(\d+)", hp))
+    done = set()
+    if os.path.exists(JL):
+        for line in open(JL, encoding="utf-8"):
+            try:
+                done.add(json.loads(line)["id"])
+            except Exception:
+                pass
+    print(f"latest id={latest} | deja procesate={len(done)} | max_ids={MAX_IDS}", flush=True)
 
-    records: list[dict] = []
-    for c in coms:
-        url = c["url"]
+    out_jl = open(JL, "a", encoding="utf-8")
+    n = 0
+    cid = latest
+    low = latest - MAX_IDS
+    while cid > low:
+        if cid in done:
+            cid -= 1
+            continue
         try:
-            content, _ = client.fetch(url, "dna", ext=".html")
-            rec = enrich(content, url)
-            rec["id"] = c["id"]
-            records.append(rec)
-            print(f"  id={c['id']:>6}  data={rec['data']!r}  titlu={(rec['titlu'] or '')[:70]!r}",
-                  file=sys.stderr)
-        except Exception as e:  # pragma: no cover
-            print(f"  id={c['id']} ENRICH_FAILED: {type(e).__name__}: {e}", file=sys.stderr)
-            records.append({"id": c["id"], "url": url, "titlu": None, "data": None,
-                            "data_iso": None, "nr": None, "corp": None})
+            r = requests.get(BASE + str(cid), headers=H, verify=False, timeout=20)
+            rec = _parse(r.text) if r.status_code == 200 else None
+        except Exception:
+            rec = None
+        if rec:
+            rec["id"] = cid
+            rec["url"] = BASE + str(cid)
+            out_jl.write(json.dumps(rec, ensure_ascii=False) + "\n")
+            out_jl.flush()
+            n += 1
+            if n % 200 == 0:
+                print(f"   {n} comunicate | id={cid}", flush=True)
+        cid -= 1
+        time.sleep(0.1)
+    out_jl.close()
 
-    # sort desc după id (cele mai noi primele)
-    records.sort(key=lambda r: r["id"], reverse=True)
-
-    out_path = ROOT / "data" / "v1" / "audit" / "dna.json"
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    payload = {
-        "meta": {
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "source_url": BASE + "/comunicate.xhtml",
-            "source_id": "dna",
-            "scraper_version": "harness-0.1",
-            "count": len(records),
-        },
-        "data": records,
-    }
-    out_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"EXPORTAT: {out_path}  ({len(records)} comunicate)", file=sys.stderr)
-    return 0
+    recs = {}
+    for line in open(JL, encoding="utf-8"):
+        try:
+            x = json.loads(line)
+            recs[x["id"]] = x
+        except Exception:
+            pass
+    data = sorted(recs.values(), key=lambda x: -x["id"])
+    os.makedirs(os.path.join(V, "audit"), exist_ok=True)
+    json.dump({"sursa": "DNA comunicate (dna.ro)", "total": len(data),
+               "nume_distincte": len({nm for r in data for nm in r.get("nume_extrase", [])}),
+               "data": data},
+              open(os.path.join(V, "audit/dna.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    print(f"PUBLICAT dna.json: {len(data)} comunicate | {n} noi runda asta", flush=True)
+    return {"comunicate": len(data)}
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    main()
