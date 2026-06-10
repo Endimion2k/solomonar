@@ -1,7 +1,7 @@
 {
   "nota": "v2 institution-aware. incredere: high=dată naștere (parlamentari), context=declară LA + conduce ACEEAȘI organizație (nume+org, fără CNP), candidat=doar nume.",
-  "cross_links_total": 70,
-  "cross_links_confirmate": 61,
+  "cross_links_total": 73,
+  "cross_links_confirmate": 64,
   "confirmate": [
     {
       "romega_id": "p:78896aeb00895d99",
@@ -1583,6 +1583,106 @@
       "cv": null
     },
     {
+      "romega_id": "g:ff1ff43339127f07",
+      "nume_key": "catalin lungu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "total_ron": 3797294049.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 168205
+        },
+        {
+          "tip": "interese",
+          "institutie": "Unifarm",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:d3a282b69c66a4a1",
+      "nume_key": "alina costea sanda",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "total_ron": 3797294049.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 131834
+        },
+        {
+          "tip": "interese",
+          "institutie": "Unifarm",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:8d84c65bf7797eed",
       "nume_key": "gheorghe pop",
       "incredere": "context",
@@ -1670,6 +1770,46 @@
         "studii": "Academia de Studii Economice București, Facultatea de Administrarea Afacerilor cu Predare în Limbi Străine (FABIZ) | Conferentiar Universitar Dr. | Financial Management în cadrul programului de master Business Strategy and Leadership | de Leadership and Performance Management, ciclul licenta, cu predare în limba engleză. | Educaţie şi formare | Studii | Octombrie 2008 – 2011 (susținerea tezei în 03.11.2011, eliberare titlu doctor 27.03.2012 | Doctor în management, cu eliberarea titlului de doctor în 27.03.2012 prin Ordinului Min. 3639 | Domeniul principal studiat - Management – Leadership și c",
         "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | Octombrie 2025 - prezent | Octombrie 2008 – 2011 (susținerea tezei în 03.11.2011, eliberare titlu doctor 27.03.2012 | Curs Manager Proiect, c"
       }
+    },
+    {
+      "romega_id": "g:c444bfdccab367e0",
+      "nume_key": "adrian duicu ovidiu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Compania Nationala a Cuprului",
+          "venituri_ron": 188902
+        },
+        {
+          "tip": "interese",
+          "institutie": "Compania Nationala a Cuprului",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 2117946,
+          "nume": "COMPANIA NATIONALA A CUPRULUI AURULUI SI FIERULUI 'MINVEST' SA",
+          "rol": "administrator",
+          "sector": "Alte sectoare",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 6407723,
+            "profit_net": 152821,
+            "datorii": 35964799,
+            "nr_salariati": 60
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "p:7624c0fe68a5542b",

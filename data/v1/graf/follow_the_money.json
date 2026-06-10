@@ -1,9 +1,109 @@
 {
   "nota": "⚠️ LEAD-URI NEVERIFICATE, NU acuzații. Link firmă↔persoană e pe NUME (fără CNP) → MAJORITATEA sunt OMONIMI, mai ales la companii mari (ENGIE/Groupama/UNIQA = un omonim e reprezentant, NU parlamentarul). Singurele DEFENSABILE: 'confirmate_autodeclarate' = firma apare în PROPRIA declarație de interese a persoanei (conflict documentat). Restul: de verificat manual cu declarația de interese + ONRC (dată naștere/CNP).",
-  "total_leaduri": 13,
+  "total_leaduri": 15,
   "din_care_parlamentari": 11,
-  "CONFIRMATE_autodeclarate": 2,
+  "CONFIRMATE_autodeclarate": 4,
   "confirmate": [
+    {
+      "romega_id": "g:ff1ff43339127f07",
+      "nume_key": "catalin lungu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "total_ron": 3797294049.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 168205
+        },
+        {
+          "tip": "interese",
+          "institutie": "Unifarm",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:d3a282b69c66a4a1",
+      "nume_key": "alina costea sanda",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "total_ron": 3797294049.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 131834
+        },
+        {
+          "tip": "interese",
+          "institutie": "Unifarm",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
+          }
+        }
+      ],
+      "cv": null
+    },
     {
       "romega_id": "p:112ac4ccab0922c1",
       "nume_key": "gherasim laura",
@@ -161,6 +261,106 @@
           "contracte_stat": {
             "total_ron": 4752482696.0,
             "nr": 44
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:ff1ff43339127f07",
+      "nume_key": "catalin lungu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "total_ron": 3797294049.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 168205
+        },
+        {
+          "tip": "interese",
+          "institutie": "Unifarm",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:d3a282b69c66a4a1",
+      "nume_key": "alina costea sanda",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "total_ron": 3797294049.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 131834
+        },
+        {
+          "tip": "interese",
+          "institutie": "Unifarm",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 174635087,
+            "profit_net": -54404402,
+            "datorii": 1447205499,
+            "nr_salariati": 59
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
           }
         }
       ],
