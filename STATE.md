@@ -19,6 +19,14 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
 > - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
 >
+> **TO-DO NOU (2026-06-10) — Bugete + Finanțare partide:**
+> - **(A) Bugete instituții/locale** — data.gov.ro (184 buget + 221 contracte + 73 subvenții, per-instituție XLS),
+>   transparenta-bugetara.gov.ro (portal MF — de verificat API/export), execuție bugetară MF, forexebug, bugete UAT locale.
+> - **(B) Finanțare partide parlamentare** — AEP (Autoritatea Electorală Permanentă): subvenții de la bugetul de stat
+>   (Legea 334/2006), finanțare campanii electorale, rapoarte financiare anuale partide (Monitorul Oficial + AEP).
+>   Sumele anuale per partid (PSD/PNL/AUR/USR/UDMR...). De cartografiat sursele exacte + format (workflow în curs).
+> - Surse exacte + fezabilitate: vezi cercetarea (workflow research-bugete-partide) → de completat aici la final.
+>
 > **MILESTONE (2026-06-07) — ~81 commit-uri:** De la noduri-config la o bază reală mare:
 > - **Declarații avere+interese: ~62.000** (deconcentrate text+OCR · ministere · ANPM · ambele camere
 >   parlament · DSP) — guard PII a blocat sutele cu CNP. OCR scanate la **81%** (12.8k extrase din scane).
