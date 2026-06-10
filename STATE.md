@@ -19,7 +19,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
 > - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
 >
-> **TO-DO NOU (2026-06-10) — Bugete + Finanțare partide (surse VERIFICATE, workflow 30 agenți):**
+> **✅ IMPLEMENTAT (2026-06-10) — P0 Bugete + Partide:** subvenții partide (anual 2008-2026, 20 partide) ·
+> rapoarte RVC (22, Monitorul Oficial) · bugete UAT (6.389, toate, 2024-25) · BGC (28 luni). Vezi
+> `data/v1/partide/` + `data/v1/bugete/` + harvest_{subventii_partide,rvc_partide,bugete_uat,bgc}.py.
+> RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
+> data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
+>
+> **TO-DO (2026-06-10) — surse VERIFICATE, workflow 30 agenți:**
 >
 > **(A) FINANȚARE PARTIDE parlamentare** — ⚠️ AEP (roaep.ro + finantarepartide.ro) = **reCAPTCHA Enterprise pe tot
 >   domeniul, inclusiv PDF-uri → NU construi pipeline pe el** (citează-l doar ca origine). Căi reale:
