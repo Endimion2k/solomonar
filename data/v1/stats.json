@@ -41,5 +41,22 @@
   "bugete": {
     "uat_inreg": 6389,
     "bgc_luni": 28
+  },
+  "gold": {
+    "persoane_canonice": 21058,
+    "cu_data_nastere": 332,
+    "rezolutie": {
+      "matched": 651,
+      "review": 10318,
+      "new": 21058
+    },
+    "incredere": {
+      "med": 17162,
+      "low": 3564,
+      "high": 332
+    },
+    "cross_links_total": 728,
+    "cross_links_high_conf": 45,
+    "registru": "data/gold/registry.sqlite"
   }
 }
