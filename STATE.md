@@ -9,13 +9,14 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
-> **🟢 MILESTONE (2026-06-10) — ~109 commit-uri, API LIVE.** Bază masivă + graf:
-> - **Declarații: 128.923** (68.448 avere + 60.475 interese) — deconcentrate+CFR+SOE+ministere+parlament,
->   tot OCR-izat. (+ soe2 ~13k SOE mari în procesare: Apele Române etc.)
-> - **Companii stat: 1.256** — 1.250 cu reprezentanți legali (ONRC) + **1.153 cu bilanț** (CA/profit/salariați,
->   trend 2020-2023).
-> - **CV-uri: 634** — conducere SOE 280 + **deputați 239 + senatori 115** (parlament complet; senat spart via postback ASP.NET).
-> - **Graf follow-the-money: 31.733 persoane** (declarații ↔ companii ↔ CV) + 217 cross-links.
+> **🟢 MILESTONE (2026-06-11) — 133 commit-uri, API LIVE.** Bază masivă + graf canonic + search:
+> - **Declarații: 136.233** (72.115 avere + 64.118 interese) — deconcentrate+CFR+SOE+**soe2(7.310 SOE mari)**+
+>   ministere+parlament, tot OCR-izat. soe2 COMPLET (Apele Române etc.; 4.370 download-fails rowater.ro flaky).
+> - **Companii stat: 1.256** + reps + **1.153 bilanț** · **firme cu contracte SICAP: 11.945** (achizitii).
+> - **CV-uri: 634** · **Partide: 17** (subvenții 2008-26 + 402 RVC) · **Bugete: 6.389 UAT + 28 luni BGC**.
+> - **GRAF GOLD canonic: 52.853 persoane** (romega_id stabil SQLite, institution-aware) + **search 54.126 entități**
+>   (web/search.html) + **follow-the-money: 4 conflicte confirmate** (firmă în propria declarație de interese).
+> - **Audit: DNA 2.999 comunicate** (cross-ref local) · Curtea de Conturi 11 · legislație 41 (connectori live).
 > - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
 > - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
 >
