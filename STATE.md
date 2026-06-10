@@ -9,7 +9,17 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
-> **🟢 MILESTONE (2026-06-07) — ~81 commit-uri, API LIVE.** De la noduri-config la o bază reală mare:
+> **🟢 MILESTONE (2026-06-10) — ~109 commit-uri, API LIVE.** Bază masivă + graf:
+> - **Declarații: 128.923** (68.448 avere + 60.475 interese) — deconcentrate+CFR+SOE+ministere+parlament,
+>   tot OCR-izat. (+ soe2 ~13k SOE mari în procesare: Apele Române etc.)
+> - **Companii stat: 1.256** — 1.250 cu reprezentanți legali (ONRC) + **1.153 cu bilanț** (CA/profit/salariați,
+>   trend 2020-2023).
+> - **CV-uri: 634** — conducere SOE 280 + **deputați 239 + senatori 115** (parlament complet; senat spart via postback ASP.NET).
+> - **Graf follow-the-money: 31.733 persoane** (declarații ↔ companii ↔ CV) + 217 cross-links.
+> - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
+> - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
+>
+> **MILESTONE (2026-06-07) — ~81 commit-uri:** De la noduri-config la o bază reală mare:
 > - **Declarații avere+interese: ~62.000** (deconcentrate text+OCR · ministere · ANPM · ambele camere
 >   parlament · DSP) — guard PII a blocat sutele cu CNP. OCR scanate la **81%** (12.8k extrase din scane).
 > - **Comisii CDep**: 33 comisii → 2.971 ședințe → 1.852 PLx → **20.574 documente** (19.408 arhivate).

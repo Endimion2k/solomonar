@@ -1,0 +1,46 @@
+{
+  "generat": "2026-06-10T04:04:00.751206+00:00",
+  "declaratii": {
+    "total": 128923,
+    "avere": 68448,
+    "interese": 60475,
+    "pe_sursa": {
+      "avere_anpm": 225,
+      "avere_cfr": 11763,
+      "avere_deconcentrate": 36227,
+      "avere_dsp": 151,
+      "avere_ministere": 9983,
+      "avere_parlament": 328,
+      "avere_parlament_senat": 250,
+      "avere_soe": 9143,
+      "avere_toate": 378,
+      "interese_anpm": 112,
+      "interese_cfr": 8730,
+      "interese_deconcentrate": 36125,
+      "interese_ministere": 8037,
+      "interese_parlament": 295,
+      "interese_parlament_senat": 215,
+      "interese_soe": 6961,
+      "~$terese_deconcentrate": 0
+    }
+  },
+  "companii_stat": {
+    "total": 1256,
+    "cu_reprezentanti": 1250,
+    "cu_bilant": 1153
+  },
+  "cv_uri": {
+    "conducere_soe": 280,
+    "deputati": 239,
+    "senatori": 115
+  },
+  "graf": {
+    "persoane": 31733,
+    "cross_links": 217
+  },
+  "comisii_cdep": {
+    "plx": 1852,
+    "documente": 20574
+  },
+  "motiuni": 175
+}
