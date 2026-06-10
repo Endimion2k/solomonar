@@ -3,7 +3,10 @@
 Cel mai puternic semnal de accountability: o persoană numită într-un comunicat DNA (trimitere în
 judecată) care apare ȘI în graful nostru (declarație de avere / mandat / administrator de companie
 de stat). Match pe nume normalizat (name_key) → flag de încredere (nr. tokeni; fără CNP, omonim posibil).
-Output data/v1/audit/dna_cross.json.
+
+⚠️ OUTPUT SENSIBIL — scrie în `_local/` (gitignored), NU în data/v1 (decizie user 2026-06-10): comunicatele
+DNA = trimiteri în judecată NU condamnări (prezumția de nevinovăție) + match pe nume = omonim posibil →
+asociere falsă a unui nevinovat cu un dosar penal. Doar pistă internă de investigație, nepublicată.
 """
 
 from __future__ import annotations
@@ -67,14 +70,14 @@ def main() -> dict:
         })
     matches.sort(key=lambda x: (x["incredere"] != "high", -x["n_companii"], -x["n_declaratii"]))
 
-    os.makedirs(os.path.join(V, "audit"), exist_ok=True)
+    os.makedirs(os.path.join(ROOT, "_local"), exist_ok=True)
     json.dump({"nota": "Inculpați/menționați în comunicate DNA care apar ȘI în graful ROMEGA "
                "(declarație de avere / mandat / administrator companie). Match pe NUME (fără CNP) → "
                "'med' = posibil omonim (2 tokeni); 'high' = 3+ tokeni sau parlamentar. NU sunt verdicte; "
                "comunicatele DNA pot fi trimiteri în judecată, NU condamnări — prezumția de nevinovăție.",
                "total_matches": len(matches), "high_conf": sum(1 for m in matches if m["incredere"] == "high"),
                "matches": matches},
-              open(os.path.join(V, "audit/dna_cross.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+              open(os.path.join(ROOT, "_local/dna_cross.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"PUBLICAT dna_cross.json: {len(matches)} persoane în DNA ∩ graf "
           f"({sum(1 for m in matches if m['incredere']=='high')} high-conf)", flush=True)
     for m in matches[:10]:
