@@ -1,0 +1,30 @@
+# 05 — API-uri și surse externe: ce există, ce e ușor, ce nu
+
+> Cercetare (2026-06-10): am căutat surse gata-făcute (API/open-data) care ar înlocui scraping-ul.
+> **Concluzia centrală: pentru datele grele (declarații) NU există scurtătură — scraping-ul ROMEGA
+> e validat ca necesar.** Câteva surse periferice sunt mai ușoare, dar marginale.
+
+## Verdict pe categorii
+
+| Categorie | Sursă „ușoară"? | Verdict |
+|-----------|-----------------|---------|
+| **Declarații avere/interese** | ❌ NU | 0 dataseturi pe data.gov.ro · **ANI central nu mai e public din 2025** (840k depuse, primul an nepublic) · instituțiile postează pe site propriu (L.176/2010) → **scraping per-instituție = singura cale.** Abordarea ROMEGA confirmată. |
+| **Achiziții publice** | ⚠️ parțial mort | **opentender.eu / OCDS RO = DECOMMISSIONED** (OCP publication 404; pub activă=date UE, nu RO). Rămâne **connector-ul SICAP** (avem 29.921) + e-licitatie.ro (endpoint-uri notice) + data.gov.ro (156 dataseturi per-instituție XLS). |
+| **Acționariat %** | ⚠️ marginal | data.gov.ro „Acțiuni deținute de statul român" = doar **portofoliul Min. Economiei/Energiei** (~30 companii, .xls vechi ~2017). Fragmentat + vechi. SOE-urile sunt majoritar-stat prin definiție → valoare mică. Pt. % exact: AMEPIP. |
+| **Companii (identitate)** | 🟡 da, dar avem | **ANAF webservice** (`webservicesp.anaf.ro`, gratis: CUI→nume/status/TVA/adresă) — avem deja majoritatea. **OpenCorporates** (3.092.423 firme RO + API) DAR **0 officers** pt. RO → nu adaugă administratori (îi avem din ONRC). |
+| **Bilanțuri financiare** | ✅ deja integrat | MF/ANAF situații financiare (data.gov.ro) — **1.153 SOE + trend 2020-23**, gata. |
+| **Bugete / cheltuieli** | 🟡 categorie nouă | data.gov.ro: 184 buget + 221 contracte + 73 subvenții + 21 cheltuieli — per-instituție XLS (fragmentat, NU API unitar). Real, dar nu „ușor". |
+| **Reprezentanți legali** | ✅ deja | ONRC OD_REPREZENTANTI_LEGALI (data.gov.ro) — 1.250 SOE, gata. |
+
+## Surse de luat în calcul (dacă se extinde scopul)
+- **e-licitatie.ro/pub/notices/** — endpoint-uri quasi-API pt. anunțuri SICAP/SEAP (extindere contracte).
+- **TED EU** (ted.europa.eu) — licitații UE; are API dar robot-gated.
+- **OCCRP Aleph / OpenCorporates API** — pt. cross-border / due-diligence (cheie public-benefit gratis).
+- **AMEPIP** — registru SOE + guvernanță (acționariat, board-uri Art.51).
+
+## Ce NU s-a confirmat
+- Niciun agregator terț (averi.ro / banuldepublic) cu **API de declarații parsate** — ar fi scurtat OCR-ul, dar nu există accesibil.
+
+**Implicație practică:** ROMEGA nu ratează niciun shortcut major. Efortul de scraping (OCR per-instituție,
+postback ASP.NET, FileBird, bulk streaming) e justificat — datele de transparență din RO sunt în mare
+parte „în sălbăticie", nu în API-uri.
