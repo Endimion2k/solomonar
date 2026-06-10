@@ -19,13 +19,27 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > - Comisii CDep (1.852 PLx, 20.574 doc) · 175 moțiuni · inventar 167 surse declarații.
 > - **stats.json** = sumar live. Gap-uri: senat comisii/moțiuni (postback, fezabil acum), ANI central (CAPTCHA), SOE obscure.
 >
-> **TO-DO NOU (2026-06-10) — Bugete + Finanțare partide:**
-> - **(A) Bugete instituții/locale** — data.gov.ro (184 buget + 221 contracte + 73 subvenții, per-instituție XLS),
->   transparenta-bugetara.gov.ro (portal MF — de verificat API/export), execuție bugetară MF, forexebug, bugete UAT locale.
-> - **(B) Finanțare partide parlamentare** — AEP (Autoritatea Electorală Permanentă): subvenții de la bugetul de stat
->   (Legea 334/2006), finanțare campanii electorale, rapoarte financiare anuale partide (Monitorul Oficial + AEP).
->   Sumele anuale per partid (PSD/PNL/AUR/USR/UDMR...). De cartografiat sursele exacte + format (workflow în curs).
-> - Surse exacte + fezabilitate: vezi cercetarea (workflow research-bugete-partide) → de completat aici la final.
+> **TO-DO NOU (2026-06-10) — Bugete + Finanțare partide (surse VERIFICATE, workflow 30 agenți):**
+>
+> **(A) FINANȚARE PARTIDE parlamentare** — ⚠️ AEP (roaep.ro + finantarepartide.ro) = **reCAPTCHA Enterprise pe tot
+>   domeniul, inclusiv PDF-uri → NU construi pipeline pe el** (citează-l doar ca origine). Căi reale:
+>   - 🟢 **[P0] Monitorul Oficial via `legislatie.just.ro/public/DetaliiDocument/{id}`** — rapoartele financiare
+>     anuale ale partidelor (RVC, art.16 L.334/2006): cotizații, venituri pe surse, donatori. HTML server-rendered,
+>     FĂRĂ captcha/JS, scalabil. ~90 partide. Ex. doc 297054 = USR 2024. **Singura sursă oficială ușor automatizabilă.**
+>   - 🟢 **[P0] banipartide.ro/subventii (EFOR)** — Looker Studio public (raport b0177427-ae62-4d70-8c27-0215005733b4):
+>     tabel An/Lună/Partid/Subvenții din 2008 (1.264 înreg.) + cheltuieli pe categorii din 2021 + contracte. Export CSV. NEblocat.
+>   - 🟡 [P2] EFOR PDF-uri anuale (expertforum.ro) — cross-check cifre anuale (firecrawl proxy=enhanced).
+>   - Legea 334/2006 (metodologie): just.ro doc 73672. AVOID: RVC scanate per-scrutin (captcha+OCR).
+>
+> **(B) BUGETE instituții/locale** — surse confirmate cu download direct:
+>   - 🟢 **[P0 START] DPFBL/MDLPA** `dpfbl.mdrap.ro/sit_ven_si_chelt_uat.html` — centralizator **TOATE UAT-urile**
+>     (comune/orașe/municipii/județe), venituri+cheltuieli, XLSX/an 1999-2025 (centra2025.xlsx). ⚠️ cert TLS invalid
+>     (curl -k/http) + parsing block-aware (Anexa 24). **Cea mai bună sursă locală agregată.**
+>   - 🟢 **[P0] MF buletin execuții BGC** `mfinante.gov.ro/static/10/Mfp/buletin/executii/bgc{DDMMYYYY}.xlsx` —
+>     Buget General Consolidat lunar 2023-2026, **URL predictibil** (ultima zi a lunii). Agregat național (nu per-entitate).
+>   - 🟡 [P1] data.gov.ro CKAN (65 seturi execuție) — index complementar, fragmentat. transparenta.eu (Funky Citizens) — prototip.
+>   - 🔴 granular per-entitate: ANAF FOREXEBUG (`extranet.anaf.mfinante.gov.ro/.../EXECUTIEBUGETARA`, ~13.700 entități, XML) — greu.
+> - Detalii complete: `docs/05-EXTERNAL-APIS.md` (de extins) + output workflow research-bugete-partide.
 >
 > **MILESTONE (2026-06-07) — ~81 commit-uri:** De la noduri-config la o bază reală mare:
 > - **Declarații avere+interese: ~62.000** (deconcentrate text+OCR · ministere · ANPM · ambele camere
