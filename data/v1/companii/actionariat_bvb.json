@@ -1,0 +1,494 @@
+{
+  "sursa": "BVB structura acționariatului (bvb.ro)",
+  "nota": "% deținut de stat pt. SOE-uri LISTATE (public). Pt. firme nelistate, acționarii nu-s gratis (ONRC=doar reps).",
+  "total": 16,
+  "cu_participatie_stat": 12,
+  "companii": [
+    {
+      "simbol": "OIL",
+      "nume": "Oil Terminal",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI",
+          "actiuni": "2.630.258.255",
+          "procent": 87.7579,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "289.385.970",
+          "procent": 9.6552,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "77.532.907",
+          "procent": 2.5869,
+          "stat": false
+        }
+      ],
+      "procent_stat": 87.7579,
+      "capitalizare_ron": "341.678.193,05",
+      "capital_social_ron": "299.717.713,20"
+    },
+    {
+      "simbol": "SNN",
+      "nume": "Nuclearelectrica",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "248.850.476",
+          "procent": 82.498,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "40.872.803",
+          "procent": 13.5501,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "11.920.615",
+          "procent": 3.9519,
+          "stat": false
+        }
+      ],
+      "procent_stat": 82.498,
+      "capitalizare_ron": "20.964.250.633,00",
+      "capital_social_ron": "3.016.438.940,00"
+    },
+    {
+      "simbol": "H2O",
+      "nume": "Hidroelectrica",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "360.094.390",
+          "procent": 80.056,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "75.600.136",
+          "procent": 16.8075,
+          "stat": false
+        },
+        {
+          "actionar": "PErs. Fizice",
+          "actiuni": "14.108.041",
+          "procent": 3.1365,
+          "stat": false
+        }
+      ],
+      "procent_stat": 80.056,
+      "capitalizare_ron": "79.165.251.792,00",
+      "capital_social_ron": "4.498.025.670,00"
+    },
+    {
+      "simbol": "SNG",
+      "nume": "Romgaz",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "2.698.230.800",
+          "procent": 70.0071,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "991.966.172",
+          "procent": 25.7371,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "164.027.028",
+          "procent": 4.2558,
+          "stat": false
+        }
+      ],
+      "procent_stat": 70.0071,
+      "capitalizare_ron": "50.798.672.320,00",
+      "capital_social_ron": "3.854.224.000,00"
+    },
+    {
+      "simbol": "COTE",
+      "nume": "Conpet",
+      "actionari": [
+        {
+          "actionar": "Statul Român prin Ministerul Energiei",
+          "actiuni": "5.083.372",
+          "procent": 58.7162,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "2.072.095",
+          "procent": 23.934,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "1.502.061",
+          "procent": 17.3498,
+          "stat": false
+        }
+      ],
+      "procent_stat": 58.7162,
+      "capitalizare_ron": "661.435.139,20",
+      "capital_social_ron": "28.569.842,40"
+    },
+    {
+      "simbol": "TEL",
+      "nume": "Transelectrica",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN SECRETARIATUL GENERAL AL GUVERNULUI Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "43.020.309",
+          "procent": 58.6882,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "25.345.943",
+          "procent": 34.5769,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "4.936.890",
+          "procent": 6.7349,
+          "stat": false
+        }
+      ],
+      "procent_stat": 58.6882,
+      "capitalizare_ron": "6.538.640.266,40",
+      "capital_social_ron": "733.031.420,00"
+    },
+    {
+      "simbol": "TGN",
+      "nume": "Transgaz",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN SECRETARIATUL GENERAL AL GUVERNULUI Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "110.221.440",
+          "procent": 58.5096,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "62.922.152",
+          "procent": 33.4015,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "15.237.912",
+          "procent": 8.0889,
+          "stat": false
+        }
+      ],
+      "procent_stat": 58.5096,
+      "capitalizare_ron": "16.558.734.201,60",
+      "capital_social_ron": "1.883.815.040,00"
+    },
+    {
+      "simbol": "ATB",
+      "nume": "Antibiotice",
+      "actionari": [
+        {
+          "actionar": "MINISTERUL SANATATII Loc. BUCURESTI SECTOR 1",
+          "actiuni": "355.925.135",
+          "procent": 53.0172,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "122.302.353",
+          "procent": 18.2179,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "120.424.799",
+          "procent": 17.938,
+          "stat": false
+        },
+        {
+          "actionar": "INFINITY CAPITAL INVESTMENTS SA Loc. BUCURESTI SECTOR 1",
+          "actiuni": "72.685.753",
+          "procent": 10.8269,
+          "stat": false
+        }
+      ],
+      "procent_stat": 53.0172,
+      "capitalizare_ron": "1.349.389.460,40",
+      "capital_social_ron": "67.133.804,00"
+    },
+    {
+      "simbol": "EL",
+      "nume": "Electrica",
+      "actionari": [
+        {
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "169.046.299",
+          "procent": 49.7849,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "156.431.367",
+          "procent": 46.0698,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "14.075.338",
+          "procent": 4.1453,
+          "stat": false
+        }
+      ],
+      "procent_stat": 49.7849,
+      "capitalizare_ron": "12.206.930.493,80",
+      "capital_social_ron": "3.395.530.040,00"
+    },
+    {
+      "simbol": "SNP",
+      "nume": "OMV Petrom",
+      "actionari": [
+        {
+          "actionar": "OMV AKTIENGESELLSCHAFT Loc. WIEN AUT",
+          "actiuni": "31.876.679.783",
+          "procent": 51.1568,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "15.169.128.205",
+          "procent": 24.344,
+          "stat": false
+        },
+        {
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc. BUCURESTI SECTOR 1",
+          "actiuni": "12.897.296.810",
+          "procent": 20.698,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "2.368.562.260",
+          "procent": 3.8012,
+          "stat": false
+        }
+      ],
+      "procent_stat": 20.698,
+      "capitalizare_ron": "64.181.017.069,74",
+      "capital_social_ron": "6.231.166.705,80"
+    },
+    {
+      "simbol": "FP",
+      "nume": "Fondul Proprietatea",
+      "actionari": [
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "1.929.189.247",
+          "procent": 60.2724,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "901.139.071",
+          "procent": 28.1537,
+          "stat": false
+        },
+        {
+          "actionar": "MINISTERUL FINANTELOR PUBLICE Loc. BUCURESTI, SECTOR 5",
+          "actiuni": "370.456.198",
+          "procent": 11.5739,
+          "stat": true
+        }
+      ],
+      "procent_stat": 11.5739,
+      "capitalizare_ron": "1.878.860.510,89",
+      "capital_social_ron": "1.664.407.948,32"
+    },
+    {
+      "simbol": "ALR",
+      "nume": "Alro",
+      "actionari": [
+        {
+          "actionar": "VIMETCO PLC Loc. NICOSIA CYP",
+          "actiuni": "386.795.344",
+          "procent": 54.1897,
+          "stat": false
+        },
+        {
+          "actionar": "S. PAVAL HOLDING SRL Loc. BACAU, Jud. BACAU",
+          "actiuni": "165.679.915",
+          "procent": 23.2116,
+          "stat": false
+        },
+        {
+          "actionar": "FONDUL PROPRIETATEA SA Loc. BUCURESTI, SECTOR 1",
+          "actiuni": "72.884.714",
+          "procent": 10.2111,
+          "stat": true
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "66.494.502",
+          "procent": 9.316,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "21.924.660",
+          "procent": 3.0716,
+          "stat": false
+        }
+      ],
+      "procent_stat": 10.2111,
+      "capitalizare_ron": "1.049.255.328,45",
+      "capital_social_ron": "356.889.567,50"
+    },
+    {
+      "simbol": "SOCP",
+      "nume": "Socep",
+      "actionari": [
+        {
+          "actionar": "GRUPUL DD SA Loc. CONSTANTA, Jud. CONSTANTA",
+          "actiuni": "391.617.924",
+          "procent": 61.2163,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "125.649.689",
+          "procent": 19.6412,
+          "stat": false
+        },
+        {
+          "actionar": "SAMARA STERE",
+          "actiuni": "79.597.484",
+          "procent": 12.4424,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "42.862.407",
+          "procent": 6.7001,
+          "stat": false
+        }
+      ],
+      "procent_stat": 0,
+      "capitalizare_ron": "1.119.523.132,00",
+      "capital_social_ron": "63.972.750,40"
+    },
+    {
+      "simbol": "CMP",
+      "nume": "Compa",
+      "actionari": [
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "95.000.765",
+          "procent": 43.415,
+          "stat": false
+        },
+        {
+          "actionar": "DUMITRESCU MIHAELA",
+          "actiuni": "41.945.252",
+          "procent": 19.1687,
+          "stat": false
+        },
+        {
+          "actionar": "TRANSILVANIA INVESTMENTS ALLIANCE SA Loc. BRASOV, Jud. BRASOV",
+          "actiuni": "30.915.137",
+          "procent": 14.128,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "25.957.259",
+          "procent": 11.8623,
+          "stat": false
+        },
+        {
+          "actionar": "BAIASU VOICHITA MARIA",
+          "actiuni": "25.002.625",
+          "procent": 11.426,
+          "stat": false
+        }
+      ],
+      "procent_stat": 0,
+      "capitalizare_ron": "161.052.283,97",
+      "capital_social_ron": "21.882.103,80"
+    },
+    {
+      "simbol": "TRP",
+      "nume": "Teraplast",
+      "actionari": [
+        {
+          "actionar": "GOIA DOREL",
+          "actiuni": "1.405.607.818",
+          "procent": 46.8301,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "718.815.432",
+          "procent": 23.9487,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "516.412.327",
+          "procent": 17.2051,
+          "stat": false
+        },
+        {
+          "actionar": "FONDUL DE PENSII ADMINISTRAT PRIVA NN Loc. BUCURESTI",
+          "actiuni": "360.664.871",
+          "procent": 12.0161,
+          "stat": false
+        }
+      ],
+      "procent_stat": 0,
+      "capitalizare_ron": "1.317.658.696,67",
+      "capital_social_ron": "300.150.044,80"
+    },
+    {
+      "simbol": "PTR",
+      "nume": "Rompetrol Well Services",
+      "actionari": [
+        {
+          "actionar": "KMG INTERNATIONAL NV Loc. AMSTERDAM NLD",
+          "actiuni": "203.110.150",
+          "procent": 73.011,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Fizice",
+          "actiuni": "44.910.884",
+          "procent": 16.1441,
+          "stat": false
+        },
+        {
+          "actionar": "ING LUXEMBOURG KJK BALKAN HOLDING SARL Loc. LUXEMBOURG LUX",
+          "actiuni": "29.709.950",
+          "procent": 10.6796,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "459.916",
+          "procent": 0.1653,
+          "stat": false
+        }
+      ],
+      "procent_stat": 0,
+      "capitalizare_ron": "193.620.866,40",
+      "capital_social_ron": "27.819.090,00"
+    }
+  ]
+}

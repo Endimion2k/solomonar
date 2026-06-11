@@ -71,5 +71,10 @@
     "comisii": 23,
     "locuri": 322,
     "senatori": 131
+  },
+  "actionariat": {
+    "companii_listate": 16,
+    "cu_participatie_stat": 12,
+    "sursa": "BVB (gratis, listate)"
   }
 }
