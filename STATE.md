@@ -228,7 +228,12 @@ De făcut:
 - ✅ Crawl CDep 2024-2026: **33 comisii → 2.971 ședințe → 1.852 PLx → 20.574 documente** indexate
   (`data/v1/comisii/comisii.json` + `sedinte.json` + `plx.json`) — LIVE
 - ✅ Descărcat + arhivat în bronze: **19.408/20.574 documente** (94%; 1.166 = 404/linkuri moarte)
-- ⬜ **Senatul — COMPLET ASP.NET-gated, necesită browser automation dedicat** (investigat 2026-06-07):
+- ✅ **Senatul — COMPONENȚA comisiilor REZOLVATĂ (2026-06-11):** `harvest_comisii_senat.py` → 23 comisii,
+  322 locuri, 131 senatori. Taburile comisiei sunt URL-uri GET (NU postback cum se temea): `comisii.aspx`
+  (23 comisii+GUID) + `ComponentaComisii.aspx?ComisieID=GUID` (membri+ParlamentarID). `senat_comisii.json` +
+  index senator→comisii. RĂMAS Senat: ordinea de zi/ședințe (ProgramLucruZi date-postback) + documente
+  (afisarelistafisiere = gol pt. comisii) + roluri conducere (acum toți „Membru"). Nota veche (gated) ↓:
+- ⬜ ~~Senatul — COMPLET ASP.NET-gated, necesită browser automation dedicat~~ (investigat 2026-06-07):
   - 23 comisii la `senat.ro/comisii.aspx`; agenda = `ProgramLucruZi.aspx?ComisieID={GUID}` cu câmp
     de dată `txtData` → postback per zi; **NU există listă de ședințe** (crawl exhaustiv = ~14k
     postback-uri oarbe pe dată × 23 comisii = impractic).
