@@ -107,6 +107,8 @@ def main() -> dict:
     # comisiile Senatului pe ParlamentarID (crosswalk GUID — decisiv, nu nume)
     sen_com = {k.upper(): v for k, v in
                _load(os.path.join(V, "comisii/senat_membru_index.json")).get("index", {}).items()}
+    # proiecte inițiate de deputați (idm = cdep_idm)
+    plx_init = _load(os.path.join(V, "comisii/plx_initiator_index.json")).get("index", {})
     for fn, k, cam, pcol, idsys, idcol in [
         ("parlament/deputati.json", "deputati", "deputat", "current_party", "cdep", "cdep_idm"),
         ("parlament/senatori.json", "senatori", "senator", "party", "senat", "senat_guid")]:
@@ -124,6 +126,10 @@ def main() -> dict:
                 com = sen_com.get((r.get("senat_guid") or "").upper())
                 if com:
                     pl["comisii"] = [c["comisie"] for c in com]
+            if cam == "deputat":
+                pj = plx_init.get(str(r.get("cdep_idm") or ""))
+                if pj:
+                    pl["plx_initiate"] = len(pj)
             mp.setdefault(mr.romega_id, {"name_key": name_key(nm), "parlamentar": None})["parlamentar"] = pl
             if name_key(nm):
                 nk_to_mp[name_key(nm)] = mr.romega_id

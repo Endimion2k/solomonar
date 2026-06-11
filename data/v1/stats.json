@@ -97,5 +97,11 @@
     },
     "view_uri_analitice": 6,
     "engine": "DuckDB la build (efemer)"
+  },
+  "legislativ": {
+    "plx": 1852,
+    "plx_cu_initiatori_parlamentari": 1234,
+    "plx_guvern": 709,
+    "legislatie_acte": 668
   }
 }

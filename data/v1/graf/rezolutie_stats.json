@@ -194,7 +194,8 @@
         "partid": "Partidul Național Liberal",
         "judet": "Gorj",
         "legislatura": 2024,
-        "birth_date": "1974-05-05"
+        "birth_date": "1974-05-05",
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 2,
@@ -7230,7 +7231,8 @@
         "partid": "Partidul Social Democrat",
         "judet": "Cluj",
         "legislatura": 2024,
-        "birth_date": "1971-02-19"
+        "birth_date": "1971-02-19",
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -8046,7 +8048,8 @@
         "partid": "Alianța pentru Unirea Românilor",
         "judet": "Vaslui",
         "legislatura": 2024,
-        "birth_date": "1978-09-24"
+        "birth_date": "1978-09-24",
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -8115,7 +8118,8 @@
         "partid": "Alianța pentru Unirea Românilor",
         "judet": "Vâlcea",
         "legislatura": 2024,
-        "birth_date": "1969-02-03"
+        "birth_date": "1969-02-03",
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -8328,7 +8332,8 @@
         "partid": "Partidul Social Democrat",
         "judet": "București",
         "legislatura": 2024,
-        "birth_date": "1952-09-19"
+        "birth_date": "1952-09-19",
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -8428,7 +8433,8 @@
         "partid": "Partidul Național Liberal",
         "judet": "Brăila",
         "legislatura": 2024,
-        "birth_date": "1990-08-06"
+        "birth_date": "1990-08-06",
+        "plx_initiate": 39
       },
       "n_declaratii": 2,
       "n_companii": 1,
