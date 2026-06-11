@@ -5476,7 +5476,12 @@
         "partid": "Grupul parlamentar al Partidului Național Liberal",
         "judet": null,
         "legislatura": 2024,
-        "birth_date": null
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+          "Comisia pentru afaceri europene",
+          "Comisia economică, industrii, servicii, turism și antreprenoriat"
+        ]
       },
       "n_declaratii": 3,
       "n_companii": 1,
@@ -8276,7 +8281,11 @@
         "partid": "Grupul parlamentar al Partidului Social Democrat",
         "judet": null,
         "legislatura": 2024,
-        "birth_date": null
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+          "Comisia economică, industrii, servicii, turism și antreprenoriat"
+        ]
       },
       "n_declaratii": 2,
       "n_companii": 1,

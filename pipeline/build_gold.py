@@ -104,6 +104,9 @@ def main() -> dict:
     mp = {}              # romega_id -> {parlamentar, name_key}
     nk_to_mp = {}        # name_key -> romega_id (pt. legare candidat)
     stats = {"matched": 0, "review": 0, "new": 0}
+    # comisiile Senatului pe ParlamentarID (crosswalk GUID — decisiv, nu nume)
+    sen_com = {k.upper(): v for k, v in
+               _load(os.path.join(V, "comisii/senat_membru_index.json")).get("index", {}).items()}
     for fn, k, cam, pcol, idsys, idcol in [
         ("parlament/deputati.json", "deputati", "deputat", "current_party", "cdep", "cdep_idm"),
         ("parlament/senatori.json", "senatori", "senator", "party", "senat", "senat_guid")]:
@@ -115,9 +118,13 @@ def main() -> dict:
             except ValueError:
                 continue
             stats[mr.status.value] += 1
-            mp.setdefault(mr.romega_id, {"name_key": name_key(nm), "parlamentar": None})["parlamentar"] = {
-                "camera": cam, "partid": r.get(pcol), "judet": r.get("judet"),
-                "legislatura": r.get("legislatura"), "birth_date": r.get("birth_date")}
+            pl = {"camera": cam, "partid": r.get(pcol), "judet": r.get("judet"),
+                  "legislatura": r.get("legislatura"), "birth_date": r.get("birth_date")}
+            if cam == "senator":
+                com = sen_com.get((r.get("senat_guid") or "").upper())
+                if com:
+                    pl["comisii"] = [c["comisie"] for c in com]
+            mp.setdefault(mr.romega_id, {"name_key": name_key(nm), "parlamentar": None})["parlamentar"] = pl
             if name_key(nm):
                 nk_to_mp[name_key(nm)] = mr.romega_id
 

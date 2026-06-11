@@ -122,6 +122,16 @@ def main(limit: int = 0) -> dict:
     # 3. SOE mari cunoscute
     for d, n in KNOWN_SOE.items():
         dom_name.setdefault(d, n)
+    # 4. site-urile SOE locale găsite la căutarea online (2026-06-11, _localsoe_found*.json)
+    import glob as _g
+    for ff in _g.glob(os.path.join(ROOT, "pipeline", "_localsoe_found*.json")):
+        try:
+            for c in json.load(open(ff, encoding="utf-8")):
+                site = c.get("site") or c.get("declaratii_url")
+                if site and site.startswith("http"):
+                    dom_name.setdefault(_dom(site), c.get("name", ""))
+        except Exception:
+            pass
 
     checked = set(open(CKPT, encoding="utf-8").read().splitlines()) if os.path.exists(CKPT) else set()
     items = [(d, n) for d, n in dom_name.items() if d not in checked]
