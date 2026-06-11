@@ -9,9 +9,11 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
-> **🟢 MILESTONE (2026-06-11) — 133 commit-uri, API LIVE.** Bază masivă + graf canonic + search:
-> - **Declarații: 136.233** (72.115 avere + 64.118 interese) — deconcentrate+CFR+SOE+**soe2(7.310 SOE mari)**+
->   ministere+parlament, tot OCR-izat. soe2 COMPLET (Apele Române etc.; 4.370 download-fails rowater.ro flaky).
+> **🟢 MILESTONE (2026-06-11) — 141 commit-uri, API LIVE.** Bază masivă + graf canonic + search:
+> - **Declarații: 144.458** (76.838 avere + 67.620 interese) — deconcentrate+CFR+SOE+soe2+**localsoe (8.225,
+>   SOE locale: căutare online 729 companii → 185 cu site, 10.177 PDF: CONPET/CNCIR/APPS/AFDJ/aeroporturi/porturi)**+
+>   ministere+parlament, tot OCR-izat. Coverage companii: 493→834 cu declarații (goluri 729→398, -45%).
+>   Follow-the-money confirmate: **12** (UNIFARM 3,8mld, Transgaz-Sterian, DPL Alba...).
 > - **Companii stat: 1.256** + reps + **1.153 bilanț** · **firme cu contracte SICAP: 11.945** (achizitii).
 > - **CV-uri: 634** · **Partide: 17** (subvenții 2008-26 + 402 RVC) · **Bugete: 6.389 UAT + 28 luni BGC**.
 > - **GRAF GOLD canonic: 52.853 persoane** (romega_id stabil SQLite, institution-aware) + **search 54.126 entități**
