@@ -1,8 +1,8 @@
 {
   "nota": "⚠️ LEAD-URI NEVERIFICATE, NU acuzații. Link firmă↔persoană e pe NUME (fără CNP) → MAJORITATEA sunt OMONIMI, mai ales la companii mari (ENGIE/Groupama/UNIQA = un omonim e reprezentant, NU parlamentarul). Singurele DEFENSABILE: 'confirmate_autodeclarate' = firma apare în PROPRIA declarație de interese a persoanei (conflict documentat). Restul: de verificat manual cu declarația de interese + ONRC (dată naștere/CNP).",
-  "total_leaduri": 15,
+  "total_leaduri": 44,
   "din_care_parlamentari": 11,
-  "CONFIRMATE_autodeclarate": 4,
+  "CONFIRMATE_autodeclarate": 12,
   "confirmate": [
     {
       "romega_id": "g:ff1ff43339127f07",
@@ -172,6 +172,583 @@
         "studii": "Am o experienţă de 20 de ani în antreprenoriat, sunt licenţiată în drept şi am absolvit un program de studii masterale în managementul administraţiei publice. | C.N.A.D.N.R. - Centrul de Studii Tehnice Rutiere şi Informatice, Biroul Achiziţii Publice | EDUCAŢIE ŞI FORMARE PROFESIONALĂ | Masterat în Managementul Administraţiei Publice | Facultatea de &#536;tiinţe Economice şi Administrative, Universitatea &#8222;Eftimie Murgu&#8221; | Licenţiată în ştiinţe juridice, specializarea Drept | Facultatea de Drept, Universitatea &#8222;Spiru Haret&#8221; | Liceul Teoretic &#8222;Mihail Kogălniceanu&#8",
         "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Sunt centrată pe predictibilitate, responsabilitate şi fezabilitate. Am îndeplinit de-a lungul timpului mai multe funcţii, în varii domenii, atât în mediul privat cât şi în organizaţii nonguvernamenta | Director General | Activităţi de inginerie şi consultanţă juridică şi tehnică; | [ 26/09/2008 - 2010 ] | Consilier juridic | [ 2005 - 2007 ] | Director artistic | [ 2003 - 2005 ] | Competenţe la niv"
       }
+    },
+    {
+      "romega_id": "g:40d58e523e945881",
+      "nume_key": "ion sterian",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 459124537.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 13068733,
+          "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "total_ron": 459124537.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": 41598
+        },
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": 26002
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13068733,
+          "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "rol": "administrator",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 459124537.0,
+            "nr": 6
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:b4679da7b3ac4d7b",
+      "nume_key": "crisan vasile",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 12,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 221192
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 191648
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 197898
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 197898
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 197898
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 183137
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:c06dfa2e659ea635",
+      "nume_key": "dana gaiseanu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 12,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217770
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 173061
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 160745
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:21c3c8805d91e3d9",
+      "nume_key": "calin radu rosian",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 10,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 354116
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 261688
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217538
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217538
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 172938
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:e38f19509eadfa59",
+      "nume_key": "dan mihail stan",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 133427590.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "total_ron": 133427590.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 189000
+        },
+        {
+          "tip": "interese",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "rol": "administrator",
+          "sector": "Industrie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 495120442,
+            "profit_net": 1328205,
+            "datorii": 624762281,
+            "nr_salariati": 72
+          },
+          "contracte_stat": {
+            "total_ron": 133427590.0,
+            "nr": 34
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:a99dfe912a45a891",
+      "nume_key": "liviu stanoiu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 19886698.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 29136150,
+          "nume": "RO-ARMYSECURITY SA",
+          "total_ron": 19886698.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": 88985
+        },
+        {
+          "tip": "avere",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": 187879
+        },
+        {
+          "tip": "interese",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 29136150,
+          "nume": "RO-ARMYSECURITY SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 30100141,
+            "profit_net": 369682,
+            "datorii": 3932313,
+            "nr_salariati": 511
+          },
+          "contracte_stat": {
+            "total_ron": 19886698.0,
+            "nr": 4
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:60f7d79d2e8172c6",
+      "nume_key": "ion octavian tache",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 2,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 14986076.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 46877331,
+          "nume": "TERMO PLOIEȘTI S.R.L.",
+          "total_ron": 14986076.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": 184961
+        },
+        {
+          "tip": "avere",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": 258169
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 27449967,
+          "nume": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 45699368,
+            "profit_net": 4802667,
+            "datorii": 8796841,
+            "nr_salariati": 520
+          }
+        },
+        {
+          "cui": 46877331,
+          "nume": "TERMO PLOIEȘTI S.R.L.",
+          "rol": "administrator",
+          "sector": "Energie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 321627383,
+            "profit_net": 5835085,
+            "datorii": 177327509,
+            "nr_salariati": 311
+          },
+          "contracte_stat": {
+            "total_ron": 14986076.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:7f61cc1a5574aaa9",
+      "nume_key": "gabriela stanga",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 454800.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "total_ron": 454800.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": 103320
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          },
+          "contracte_stat": {
+            "total_ron": 454800.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "p:aea9a2c0d15198cd",
@@ -367,6 +944,60 @@
       "cv": null
     },
     {
+      "romega_id": "g:40d58e523e945881",
+      "nume_key": "ion sterian",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 459124537.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 13068733,
+          "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "total_ron": 459124537.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": 41598
+        },
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": 26002
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13068733,
+          "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+          "rol": "administrator",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 459124537.0,
+            "nr": 6
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "p:5877a0d1acdd0e92",
       "nume_key": "nagy szabolcs",
       "incredere": "high",
@@ -522,6 +1153,532 @@
       }
     },
     {
+      "romega_id": "g:b4679da7b3ac4d7b",
+      "nume_key": "crisan vasile",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 12,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 221192
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 191648
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 197898
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 197898
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 197898
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 183137
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:c06dfa2e659ea635",
+      "nume_key": "dana gaiseanu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 12,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217770
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 173061
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 160745
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:21c3c8805d91e3d9",
+      "nume_key": "calin radu rosian",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 10,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 354116
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 261688
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217538
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217538
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 172938
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 40466328,
+            "profit_net": 4781908,
+            "datorii": 14103207,
+            "nr_salariati": 128
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:b6e8f9e67112b96c",
+      "nume_key": "gorun laurentiu nicusor",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 133427590.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 2469215
+        },
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 2469215
+        },
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 2469215
+        },
+        {
+          "tip": "interese",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "rol": "administrator",
+          "sector": "Industrie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 495120442,
+            "profit_net": 1328205,
+            "datorii": 624762281,
+            "nr_salariati": 72
+          },
+          "contracte_stat": {
+            "total_ron": 133427590.0,
+            "nr": 34
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:cab9fc382fa55401",
+      "nume_key": "butunoi daniel ionel",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 133427590.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 985921
+        },
+        {
+          "tip": "interese",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "rol": "administrator",
+          "sector": "Industrie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 495120442,
+            "profit_net": 1328205,
+            "datorii": 624762281,
+            "nr_salariati": 72
+          },
+          "contracte_stat": {
+            "total_ron": 133427590.0,
+            "nr": 34
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:e38f19509eadfa59",
+      "nume_key": "dan mihail stan",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 133427590.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "total_ron": 133427590.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 189000
+        },
+        {
+          "tip": "interese",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "rol": "administrator",
+          "sector": "Industrie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 495120442,
+            "profit_net": 1328205,
+            "datorii": 624762281,
+            "nr_salariati": 72
+          },
+          "contracte_stat": {
+            "total_ron": 133427590.0,
+            "nr": 34
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:7d74c2cab0d7716d",
+      "nume_key": "alexie bodolan constantin cotan",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 133427590.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
+          "venituri_ron": 328373
+        },
+        {
+          "tip": "interese",
+          "institutie": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "rol": "administrator",
+          "sector": "Industrie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 495120442,
+            "profit_net": 1328205,
+            "datorii": 624762281,
+            "nr_salariati": 72
+          },
+          "contracte_stat": {
+            "total_ron": 133427590.0,
+            "nr": 34
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:2fdf0695e52ee921",
+      "nume_key": "bogdan costas",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 133427590.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": 1621458
+        },
+        {
+          "tip": "interese",
+          "institutie": "COMPANIA NATIONALA ROMARM SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13554423,
+          "nume": "COMPANIA NATIONALA ROMARM SA",
+          "rol": "administrator",
+          "sector": "Industrie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 495120442,
+            "profit_net": 1328205,
+            "datorii": 624762281,
+            "nr_salariati": 72
+          },
+          "contracte_stat": {
+            "total_ron": 133427590.0,
+            "nr": 34
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "p:b6b8cd775e5cb874",
       "nume_key": "lucian marginean",
       "incredere": "high",
@@ -569,6 +1726,396 @@
       }
     },
     {
+      "romega_id": "g:153c35056b8a216e",
+      "nume_key": "condrea dragos",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 36231907.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": 640307
+        },
+        {
+          "tip": "avere",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": 566274
+        },
+        {
+          "tip": "interese",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 2351555,
+          "nume": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 407409533,
+            "profit_net": -2598131,
+            "datorii": 151830885,
+            "nr_salariati": 2009
+          },
+          "contracte_stat": {
+            "total_ron": 36231907.0,
+            "nr": 5
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:447f1271b4fb3145",
+      "nume_key": "alina dragota laura raluca",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 36231907.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": 843116
+        },
+        {
+          "tip": "interese",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 2351555,
+          "nume": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 407409533,
+            "profit_net": -2598131,
+            "datorii": 151830885,
+            "nr_salariati": 2009
+          },
+          "contracte_stat": {
+            "total_ron": 36231907.0,
+            "nr": 5
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:615ff41379a3acbb",
+      "nume_key": "niculae teodorescu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 36231907.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": 0
+        },
+        {
+          "tip": "interese",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 2351555,
+          "nume": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 407409533,
+            "profit_net": -2598131,
+            "datorii": 151830885,
+            "nr_salariati": 2009
+          },
+          "contracte_stat": {
+            "total_ron": 36231907.0,
+            "nr": 5
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:bf22f7b71e50388d",
+      "nume_key": "gambuteanu horia marian",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 36231907.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": 216814
+        },
+        {
+          "tip": "interese",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 2351555,
+          "nume": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 407409533,
+            "profit_net": -2598131,
+            "datorii": 151830885,
+            "nr_salariati": 2009
+          },
+          "contracte_stat": {
+            "total_ron": 36231907.0,
+            "nr": 5
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:a99dfe912a45a891",
+      "nume_key": "liviu stanoiu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 19886698.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 29136150,
+          "nume": "RO-ARMYSECURITY SA",
+          "total_ron": 19886698.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": 88985
+        },
+        {
+          "tip": "avere",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": 187879
+        },
+        {
+          "tip": "interese",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 29136150,
+          "nume": "RO-ARMYSECURITY SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 30100141,
+            "profit_net": 369682,
+            "datorii": 3932313,
+            "nr_salariati": 511
+          },
+          "contracte_stat": {
+            "total_ron": 19886698.0,
+            "nr": 4
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:6e6f0a27025fccfb",
+      "nume_key": "cojocaru simona",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 19886698.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": 240492
+        },
+        {
+          "tip": "avere",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": 212280
+        },
+        {
+          "tip": "interese",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "RO-ARMYSECURITY SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 29136150,
+          "nume": "RO-ARMYSECURITY SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 30100141,
+            "profit_net": 369682,
+            "datorii": 3932313,
+            "nr_salariati": 511
+          },
+          "contracte_stat": {
+            "total_ron": 19886698.0,
+            "nr": 4
+          }
+        },
+        {
+          "cui": 29136150,
+          "nume": "RO-ARMYSECURITY SA",
+          "rol": "administrator provizoriu",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 30100141,
+            "profit_net": 369682,
+            "datorii": 3932313,
+            "nr_salariati": 511
+          },
+          "contracte_stat": {
+            "total_ron": 19886698.0,
+            "nr": 4
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:60f7d79d2e8172c6",
+      "nume_key": "ion octavian tache",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 2,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 14986076.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 46877331,
+          "nume": "TERMO PLOIEȘTI S.R.L.",
+          "total_ron": 14986076.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": 184961
+        },
+        {
+          "tip": "avere",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": 258169
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 27449967,
+          "nume": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 45699368,
+            "profit_net": 4802667,
+            "datorii": 8796841,
+            "nr_salariati": 520
+          }
+        },
+        {
+          "cui": 46877331,
+          "nume": "TERMO PLOIEȘTI S.R.L.",
+          "rol": "administrator",
+          "sector": "Energie",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 321627383,
+            "profit_net": 5835085,
+            "datorii": 177327509,
+            "nr_salariati": 311
+          },
+          "contracte_stat": {
+            "total_ron": 14986076.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "p:7624c0fe68a5542b",
       "nume_key": "gabriel lapusan remus",
       "incredere": "high",
@@ -614,6 +2161,50 @@
         "studii": "Avizarea de studii, prognoze si programe in legatura cu orientarile si nivelurile de dezvoltare a activitatii de ocupare a fortei de munca. | Conducerea si coordonarea masurilor de stimulare pentru crearea de noi locuri de munca. Coordonarea, informarea, consilierea si orientarea profesionala a persoanelor aflate in cautarea unui loc de mun | Presedinte executiv Basket Universitar masculin U. Cluj | Membru Consiliul de Administratie Colegiul National &#8220;Emil Racovita&#8221;-Cluj Napoca | Membru Consiliul de Administratie Colegiul &#8220;Anghel Saligny&#8221;- Cluj Napoca | Membru Consiliul",
         "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Perioada | 21.12.2024-prezent | Denumirea angajatorului | Exercita controlul permanent asupra conducerii societatii de catre Directorat; | Numeste si revoca membrii Directoratului; | Negociaza si incheie contractele de mandat cu membrii Directoratului; | Aproba repartizarea resposabilitatilor si a departamentelor ce vor fi coordonate de catre membrii Directoratului; | Aproba si monitorizeaza extern"
       }
+    },
+    {
+      "romega_id": "g:91b6dcd4a61d4943",
+      "nume_key": "calangiu lucia",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 6470243.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
+          "venituri_ron": 304711
+        },
+        {
+          "tip": "interese",
+          "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 37409960,
+          "nume": "ALGORITHM RESIDENTIAL S3 SRL",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 64762169,
+            "profit_net": -12861599,
+            "datorii": 26517047,
+            "nr_salariati": 126
+          },
+          "contracte_stat": {
+            "total_ron": 6470243.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "p:78896aeb00895d99",
@@ -721,6 +2312,64 @@
         "studii": "Educaţie şi formare | Studii | Certificat de absolvire a cursului de perfectionare \"Politica externa si diplomatie\" | Institutul Diplomatic Roman si Ministerul de Externe | Certificat de atestare a competentelor profesionale pentru programul postuniversitar de formare si dezvoltare profesionala in domeniul securitatii si apararii nationale \"Securitate si buna guvernare\"  | Colegiul National de Aparare, Bucuresti | Diploma in programul de formare specializata pentru ocuparea unei functii din categoria inaltilor functionari publici | Licentiat in inginerie mecanica si electrica | Universitatea d",
         "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2012 - 2016 | Legislatura 2016 - 2020 | Legislatura 2020 - 2024 | Legislatura 2024 - 2028 | 11/2021-Prezent | 12/2020-Prezent | 2016-2020 | 2012-2016 | 10/"
       }
+    },
+    {
+      "romega_id": "g:23878211f8041759",
+      "nume_key": "banciu leila mihaela",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 6,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 2324538.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "venituri_ron": 216681
+        },
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "venituri_ron": 300698
+        },
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "venituri_ron": 300698
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 10881986,
+          "nume": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+          "rol": "administrator",
+          "sector": "IT & comunicații",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 2324538.0,
+            "nr": 12
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "p:d286fe20e4342666",
@@ -870,6 +2519,55 @@
       }
     },
     {
+      "romega_id": "g:2c272ce5e8eb98a8",
+      "nume_key": "alin panait radu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 3,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 834089.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
+          "venituri_ron": 259006
+        },
+        {
+          "tip": "avere",
+          "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
+          "venituri_ron": 297329
+        },
+        {
+          "tip": "interese",
+          "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 37714360,
+          "nume": "ALGORITHM CONSTRUCTII S3 SRL",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 84918996,
+            "profit_net": 9069112,
+            "datorii": 45982000,
+            "nr_salariati": 220
+          },
+          "contracte_stat": {
+            "total_ron": 834089.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "p:c34d4e921e02bf48",
       "nume_key": "dorin popa",
       "incredere": "high",
@@ -910,6 +2608,227 @@
         "studii": "EDUCAŢIE ŞI FORMARE PROFESIONALĂ | Calificarea / diploma obţinută | Diploma absolvire | Modulul postuniversitar cu durata de 1 an &#8222;Jean Monnet&#8221; specializarea &#8220;History of the European idea, civilization and construction&#8221; | Numele şi tipul instituţiei de învăţământ / furnizorului de formare | Universitatea de Stat din Piteşti | Diploma Master | Universitatea de Stat din Piteşti, Facultatea de Ştiinţe Economice, Juridice şi Administrative | Modulul postuniversitar cu durata de 1 an &#8222;Jean Monnet&#8221; specializarea &#8222;European Policies in the field of sustainable",
         "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Perioada | 2002 - prezent | Numele şi adresa angajatorului | 1995 - prezent | 2024 - PREZENT | 2007 - 2008 | 2004 - 2006 | 2004 - 2005 | 1986 - 1988 | 1981 - 1986 | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListen"
       }
+    },
+    {
+      "romega_id": "g:a963a69789363685",
+      "nume_key": "gorneanu mihaela",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 454800.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": 0
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          },
+          "contracte_stat": {
+            "total_ron": 454800.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:7f61cc1a5574aaa9",
+      "nume_key": "gabriela stanga",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 454800.0,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "total_ron": 454800.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": 103320
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          },
+          "contracte_stat": {
+            "total_ron": 454800.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:d83a77de8a07ca32",
+      "nume_key": "alexandrescu duca mihaela oana",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 454800.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": 22300
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          },
+          "contracte_stat": {
+            "total_ron": 454800.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:8b33ad8dc53d1de4",
+      "nume_key": "madalina mustafa",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 454800.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": 49949
+        },
+        {
+          "tip": "interese",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          },
+          "contracte_stat": {
+            "total_ron": 454800.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:d05a8ce8d138ae61",
+      "nume_key": "gabriel radu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 454800.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SERVICE CICLOP SA",
+          "venituri_ron": 1350156
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11573879,
+          "nume": "SERVICE CICLOP SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 4243606,
+            "profit_net": -1501181,
+            "datorii": 1469800,
+            "nr_salariati": 40
+          },
+          "contracte_stat": {
+            "total_ron": 454800.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "p:aea9a2c0d15198cd",
@@ -963,6 +2882,181 @@
         "studii": "",
         "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });"
       }
+    },
+    {
+      "romega_id": "g:2a28511bdc38ddf4",
+      "nume_key": "dan iulius plaveti",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 269863.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": 1723594
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 30267310,
+          "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "rol": "membru în directorat",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 269863.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:c3eeca60465ffcb9",
+      "nume_key": "adrian constantin marinescu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 269863.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": 348211
+        },
+        {
+          "tip": "interese",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 30267310,
+          "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "rol": "membru în consiliul de supraveghere",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 269863.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:e34e1073faa5b4fe",
+      "nume_key": "constantin cosmin trufelea",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 269863.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": 449404
+        }
+      ],
+      "companii": [
+        {
+          "cui": 30267310,
+          "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "rol": "membru în directorat",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 269863.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:bffa38470be0532e",
+      "nume_key": "georgeta luminita popescu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 269863.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": 453545
+        }
+      ],
+      "companii": [
+        {
+          "cui": 30267310,
+          "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "rol": "membru în consiliul de supraveghere",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 269863.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:e601483ffe70b4ab",
+      "nume_key": "balasoiu ion",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 269863.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "venituri_ron": 403058
+        }
+      ],
+      "companii": [
+        {
+          "cui": 30267310,
+          "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
+          "rol": "membru în directorat",
+          "sector": "Energie",
+          "financials": [],
+          "contracte_stat": {
+            "total_ron": 269863.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "generat": "2026-06-10T15:51:20.302755+00:00",
   "declaratii": {
-    "total": 136233,
-    "avere": 72115,
-    "interese": 64118
+    "total": 144458,
+    "avere": 76838,
+    "interese": 67620
   },
   "companii_stat": {
     "total": 1256,
@@ -44,12 +44,12 @@
   },
   "gold": {
     "versiune": "v2 institution-aware",
-    "persoane_canonice": 49008,
+    "persoane_canonice": 55000,
     "parlamentari": 465,
     "incredere": {
       "high": 465,
-      "context": 48,
-      "candidat": 32170
+      "context": 250,
+      "candidat": 54285
     },
     "cross_links_total": 59,
     "cross_links_confirmate": 51,
@@ -58,7 +58,7 @@
   "achizitii": {
     "firme_castigatoare": 11945,
     "follow_the_money_leaduri": 13,
-    "confirmate_autodeclarate": 2
+    "confirmate_autodeclarate": 12
   },
   "audit": {
     "dna_comunicate": 2999,
@@ -76,5 +76,13 @@
     "companii_listate": 16,
     "cu_participatie_stat": 12,
     "sursa": "BVB (gratis, listate)"
+  },
+  "search": {
+    "entitati": 56273
+  },
+  "coverage": {
+    "companii_cu_declaratii": 834,
+    "companii_gol": 398,
+    "organizatii_fara_declaratii": 45
   }
 }
