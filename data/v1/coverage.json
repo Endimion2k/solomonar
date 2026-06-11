@@ -1,0 +1,3608 @@
+{
+  "generat": "2026-06-11",
+  "companii": {
+    "total": 1256,
+    "cu_declaratii": 493,
+    "cu_site": 91,
+    "cu_reps": 1250,
+    "cu_financials": 1153,
+    "cu_actionariat": 19,
+    "GOL_nici_site_nici_declaratii": 729,
+    "fara_declaratii": 763
+  },
+  "organizatii": {
+    "total": 1429,
+    "cu_declaratii": 1344,
+    "cu_cv": 223,
+    "fara_declaratii": 85
+  },
+  "lista_companii_gol": [
+    {
+      "name": "A.D.P. BÂRCA S.R.L.",
+      "cui": "43721310",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "A.D.P. IZVOR S.R.L.",
+      "cui": "43937854",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "A.D.P.P. CARACAL SRL",
+      "cui": "32692511",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "A.S.P.L. SULINA SRL",
+      "cui": "27287849",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ACATERM SA",
+      "cui": "10481211",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ACTIVE CONEXE S.A.",
+      "cui": "31029694",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ACTIVITATEA GOSCOM SA",
+      "cui": "3186960",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADI 7 S.R.L.",
+      "cui": "36850452",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADI ECOO 2009 S.A.",
+      "cui": "28213025",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRAREA PATRIMONIULUI COMUNEI 23 AUGUST SOCIETATE CU RASPUNDERE LIMITATĂ",
+      "cui": "38738707",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
+      "cui": "11672708",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+      "cui": "2351555",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA PIETELOR AGROALIMENTARE SA",
+      "cui": "10843605",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA PIETELOR SI TARGURILOR SA",
+      "cui": "27338691",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA",
+      "cui": "1589932",
+      "sector": "Transport",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ADMINISTRATIA ZONEI LIBERE BRAILA RA",
+      "cui": "6088916",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA ZONEI LIBERE GALATI RA",
+      "cui": "5796752",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA ZONEI LIBERE GIURGIU SA",
+      "cui": "8941369",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATIA ZONEI LIBERE SULINA RA",
+      "cui": "3053425",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRATOR IMOBILE SI PIETE SRL",
+      "cui": "16405213",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRAŢIA PIEŢELOR FOCŞANI SA",
+      "cui": "27430581",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINISTRAŢIA STRĂZILOR,CONSTRUCŢII EDILITARE SRL",
+      "cui": "27259180",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADMINSERV NUCȘOARA S.R.L.",
+      "cui": "43543671",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ADP ICLĂNZEL S.R.L.",
+      "cui": "41456099",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AEROPORTUL INTERNATIONAL BRASOV-GHIMBAV R.A.",
+      "cui": "41940179",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AEROSEB COMPANY SRL",
+      "cui": "21995366",
+      "sector": "Transport",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "AGENŢIA DE DEZVOLTARE LOCALĂ REŞIŢA S.A.",
+      "cui": "43488283",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AGIGEASERV UTIL SRL",
+      "cui": "27275593",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AGROBERIANUL SRL",
+      "cui": "26300230",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AGROMEC MOLDOVA NOUA SA",
+      "cui": "1074251",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "AGROPIEŢE SA",
+      "cui": "18632522",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AGROPRODCOM LAZAREA SA",
+      "cui": "496401",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AGROPRODCOM ODORHEIU SECUIESC SA",
+      "cui": "524277",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AGROTURISM OBÎRŞIA SRL",
+      "cui": "32843274",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ALACAP S.R.L.",
+      "cui": "43419585",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALGORITHM CONSTRUCTII S3 SRL",
+      "cui": "37714360",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALGORITHM RESIDENTIAL S3 SRL",
+      "cui": "37409960",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALIMENTARE CU APĂ BUMBESTI-PITIC S.R.L.",
+      "cui": "42692306",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALIMENTARE CU APĂ DOROBANŢU S.R.L.",
+      "cui": "39177157",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALIMENTARE CU APĂ ŞI CANALIZARE AFUMAŢI SRL",
+      "cui": "30890954",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALIMPEŞTI UTIL SRL",
+      "cui": "28109807",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALPATVAR 2008 SRL",
+      "cui": "24288580",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ALTITUDINEA 1040 PREDEAL SRL",
+      "cui": "7933821",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AMBIENTAL SERVICE CERMEI SRL",
+      "cui": "27241930",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AMENAJARE EDILITARA S5 S.A.",
+      "cui": "27515874",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AMENAJARE PEISAGISTICĂ BERCA SRL",
+      "cui": "36386965",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AMENAJARE SI INTREȚINERE COMUNALĂ MĂXINENI S.R.L.",
+      "cui": "45238844",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA BECIU S.R.L.",
+      "cui": "44766906",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA COM LUNCA SRL",
+      "cui": "30555135",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA FILIPEȘTII DE TÂRG S.R.L.",
+      "cui": "42026545",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA PLOPII-SLĂVITEŞTI SRL",
+      "cui": "30853905",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA PROD SA",
+      "cui": "14071095",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA SAT SRL",
+      "cui": "27321746",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "APA SERVICE SA",
+      "cui": "22131317",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA TÂRNAVEI MARI SA",
+      "cui": "19502679",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA-CANALIZARE PROGRESUL SFÎNTU GHEORGHE S.R.L.",
+      "cui": "36500953",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APA-CTTA SA",
+      "cui": "1755482",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APACOC-MISLII SRL",
+      "cui": "26670500",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APACONS SRL",
+      "cui": "24304481",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APAPRIMA BERCA SRL",
+      "cui": "29557493",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APATET NATURA SRL",
+      "cui": "35359890",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APATUL BRATEȘ SRL",
+      "cui": "36555827",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APAVER UTILITĂŢI SRL",
+      "cui": "35201430",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APAVIL SA",
+      "cui": "16468149",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APĂ - CANALIZARE MILOŞEŞTI S.R.L.",
+      "cui": "37990900",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "APĂ CANALIZARE EPURARE APE UZATE STREJEŞTI SRL",
+      "cui": "36353380",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APĂ RĂTEŞTI SRL",
+      "cui": "27404850",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APĂ SĂDIŞOR SRL",
+      "cui": "38231835",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APĂ ŞI CANALIZARE PRUNDU SRL",
+      "cui": "29884584",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "APĂ-BĂRBĂTEȘTI S.R.L.",
+      "cui": "47262156",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQA TALPA - TR SRL",
+      "cui": "33293110",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA CURĂŢELE SRL",
+      "cui": "38049842",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA CĂLIMANI SRL",
+      "cui": "27256087",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA DUMBRĂVIŢA SRL",
+      "cui": "31394843",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA IMPECABIL S.R.L.",
+      "cui": "41177183",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA PERIAM S.R.L.",
+      "cui": "39363621",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA SIC HEVIZ SRL",
+      "cui": "34423315",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA VALEA IADULUI SRL",
+      "cui": "34865210",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUA ŞTOROBĂNEASA S.R.L.",
+      "cui": "39020143",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUABIS SA",
+      "cui": "566787",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUACARAS SA",
+      "cui": "16868757",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUACEPTURA S.R.L.",
+      "cui": "49925930",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "AQUAPREST ARMENIŞ SRL",
+      "cui": "27453305",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUASAL UTILSERV SRL",
+      "cui": "27758318",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUASERV MAROS S.R.L.",
+      "cui": "42793270",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUASERV SA",
+      "cui": "16775941",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUATERM AG 98 SA",
+      "cui": "11339135",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUATIM SA",
+      "cui": "3041480",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUATORONTAL SRL",
+      "cui": "34650504",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUAVAS SA",
+      "cui": "17986823",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AQUAVERA COTEANA SRL",
+      "cui": "31142447",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ARANKA SERVCOM SRL",
+      "cui": "17866940",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ARCADIA 2000 SA",
+      "cui": "11369861",
+      "sector": "Comerț",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
+      "cui": "14366231",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ASALTUL CETĂŢII SRL",
+      "cui": "33928409",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "AUTORITATEA AERONAUTICA CIVILA ROMANA RA",
+      "cui": "5205651",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "B.T.T.PERLA COSTINESTIULUI SA",
+      "cui": "4475150",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BAI COJOCNA SRL",
+      "cui": "16830620",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BALNEOCLIMATERICA-GYOGYFURDO SA",
+      "cui": "24890607",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BANCA DE INVESTITII SI DEZVOLTARE SA",
+      "cui": "49176892",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "BAZA DE TRATAMENT ȘI AGREMENT BĂILE SĂRATE OCNA MUREȘ S.A.",
+      "cui": "46589673",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BELSALROM S.R.L.",
+      "cui": "38575251",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BIROUL DE TURISM PENTRU TINERET (B.T.T.) SA",
+      "cui": "1573170",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BLAUENDORF S.R.L.",
+      "cui": "33381084",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BLUE AIR TECHNIC SRL",
+      "cui": "42790517",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BM - DN TORONTAL SRL",
+      "cui": "33237519",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BRAICAR SA",
+      "cui": "10597853",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BRIJANA COM SRL",
+      "cui": "29112754",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BRUTĂRIE PAN OPTAŞI SRL",
+      "cui": "34672251",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BUFTEA ADMIN CONS SRL",
+      "cui": "26962254",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "BUSTEDIL PREST SRL",
+      "cui": "30426424",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "C.L. AIADALV AGRO SRL",
+      "cui": "32950858",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "CAMPIA TRANSILVANA SRL",
+      "cui": "27802057",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CARAIMAN COMSERV S.R.L.",
+      "cui": "43476688",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CAREI TRANS BUS S.R.L.",
+      "cui": "41439578",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CARSIUM EDIL SRL",
+      "cui": "28111335",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CAV. CONS. LOC SRL",
+      "cui": "25573585",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CEC BANK SA",
+      "cui": "361897",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+      "cui": "26176052",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL AGRO TRANSILVANIA CLUJ SA",
+      "cui": "16369218",
+      "sector": "Comerț",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL DE AFACERI FLANDRA-VALCEA SA",
+      "cui": "13462877",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL DE AFACERI RO-UA SRL",
+      "cui": "26010237",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL DE INOVARE ŞI PROIECTARE URBANĂ SECTOR 6 S.R.L.",
+      "cui": "47995505",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL DE RESURSE PENTRU AFACERI VASLUI - CRAV SA",
+      "cui": "25377422",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL MEDICAL SĂNĂTATEA PENTRU TOŢI SRL",
+      "cui": "28510530",
+      "sector": "Sănătate · educație",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CENTRUL NAȚIONAL DE ÎNVĂȚĂMÂNT TURISTIC S.A.",
+      "cui": "24979799",
+      "sector": "Sănătate · educație",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CERNA TOPLIŢA S.R.L.",
+      "cui": "30663811",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CET GRIVITA S.A.",
+      "cui": "15811175",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CETATEA KORNIS SRL",
+      "cui": "27892769",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CETPREST S.R.L.",
+      "cui": "34964388",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CIOBĂNAȘUL EDILITAR SRL",
+      "cui": "30562060",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "CITADIN SA",
+      "cui": "15946407",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CITADIN ZALĂU SRL",
+      "cui": "27243753",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CIVITAS COM SRL",
+      "cui": "9845831",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CLB TRANSRUT S.R.L.",
+      "cui": "39493303",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CLP ECOSERV S.R.L.",
+      "cui": "29167911",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CLPCJ CONSTRUCTOR S.R.L.",
+      "cui": "40685604",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CODRII VLASIEI SRL",
+      "cui": "25850937",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CODRU LUNCA SRL",
+      "cui": "27779140",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMALEX SA",
+      "cui": "1384767",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA AQUASERV SA",
+      "cui": "10755074",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE APA ARIES SA",
+      "cui": "20330054",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE APA OLTENIA SA",
+      "cui": "11400673",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE APA SOMES SA",
+      "cui": "201217",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE APĂ CRIŞ SRL",
+      "cui": "38762071",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE APĂ OLT SA",
+      "cui": "21307548",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE APĂ SA",
+      "cui": "22987337",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE ASIGURARI-REASIGURARI EXIM ROMANIA (CARE-ROMANIA) SA",
+      "cui": "25252500",
+      "sector": "",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "COMPANIA DE EXPLOATARE A VAGOANELOR RESTAURANT BAR DE DORMIT SI CUSETA VARORED SA",
+      "cui": "1558430",
+      "sector": "",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE INVESTITII SI DEZVOLTARE SECTOR 1 S.A.",
+      "cui": "40311936",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA DE UTILITĂŢI PUBLICE TÎRGU OCNA SA",
+      "cui": "27273142",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA MUNICIPALĂ MANAGEMENTUL TRAFICULUI BUCUREȘTI S.A.",
+      "cui": "37832101",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA \"IMPRIMERIA NATIONALA\" SA",
+      "cui": "2779625",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA \"ROMARM\" FILIALA UZINA MECANICA BUCURESTI SA",
+      "cui": "14423850",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA A CUPRULUI AURULUI SI FIERULUI 'MINVEST' SA",
+      "cui": "2117946",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA A CUPRULUI AURULUI SI FIERULUI MINVEST SA DEVA FILIALA CERTEJ SA",
+      "cui": "14271549",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA A CUPRULUI,AURULUI SI FIERULUI \"MINVEST\" DEVA FILIALA \"ROSIAMIN\" ROSIA MONTANA SA",
+      "cui": "4330648",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA A IMPRIMERIILOR CORESI SA",
+      "cui": "11648971",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA ADMINISTRATIA PORTURILOR DUNARII FLUVIALE SA",
+      "cui": "1284717",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA DE INVESTITII \"C.N.I.\" SA",
+      "cui": "14273221",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA ROMARM SA",
+      "cui": "13554423",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NATIONALA ROMTEHNICA SA",
+      "cui": "472771",
+      "sector": "Comerț",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ \"ADMINISTRAŢIA PORTURILOR MARITIME\" - S.A.CONSTANŢA",
+      "cui": "11062831",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA CANALELOR NAVIGABILE SA",
+      "cui": "11087755",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA PORTURILOR DUNĂRII MARITIME SA",
+      "cui": "11776466",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ DE INVESTIŢII RUTIERE S.A.",
+      "cui": "36727850",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ PENTRU CONTROLUL CAZANELOR, INSTALAŢIILOR DE RIDICAT ŞI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
+      "cui": "27787860",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA FABRICA DE ARME CUGIR S.A.",
+      "cui": "16368506",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
+      "cui": "1769224",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ ROMARM S.A. FILIALA SOCIETATEA UZINA MECANICĂ MIJA S.A.",
+      "cui": "2978636",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
+      "cui": "938970",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPANIA PUBLICA BANESTI SA",
+      "cui": "16756117",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMPLEX TURISTIC LUGHET S.R.L.",
+      "cui": "45286361",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COMUNALE CRIŞTIOR SRL",
+      "cui": "27965160",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONCORDIA UZINA ELECTRICĂ FLOREŞTI SRL",
+      "cui": "26638950",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONFORT URBAN SRL",
+      "cui": "1875349",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONPET SA",
+      "cui": "1350020",
+      "sector": "Energie",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "CONS MANAGEMENT PARC DE SOFT SRL",
+      "cui": "14749814",
+      "sector": "Servicii",
+      "reps": false,
+      "financials": true
+    },
+    {
+      "name": "CONS PRIFAD SRL",
+      "cui": "12649037",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONSLOC PREST STUDINA SRL",
+      "cui": "31268314",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONSLOCSERV PECIU NOU SRL",
+      "cui": "35307629",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONSTAL TALPA SRL",
+      "cui": "24353417",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONSTRUCTII BEBA VECHE 2015 SRL",
+      "cui": "34550637",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONSTRUCTORUL BĂȚANI S.R.L.",
+      "cui": "33909580",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONSTRUCTORUL LUGAŞU DE JOS SRL",
+      "cui": "33944501",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CONTIL PREST DĂEŞTI S.R.L.",
+      "cui": "30486167",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "COROITRANS S.R.L.",
+      "cui": "30941101",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CRASCUP UTIL SRL",
+      "cui": "36722771",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CRASNA ACÂŞ S.R.L.",
+      "cui": "38644335",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CRISIUS CONS S.R.L.",
+      "cui": "42980686",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CRISTALPRIM TITULESCU SRL",
+      "cui": "30468403",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CRUCEA MULTISERVICE SRL",
+      "cui": "32149524",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CRUCEA TALIENILOR SRL",
+      "cui": "18919474",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CSIKI JEGKORONG SRL",
+      "cui": "31516290",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CSIKI TRANS SRL",
+      "cui": "26416163",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CSÍKI SPORTCENTRUM S.R.L.",
+      "cui": "45417319",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CT BUS S.A.",
+      "cui": "1883902",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "CUPRU MIN SA ABRUD",
+      "cui": "11551757",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DECO AMBIENTAL COLIBAŞI SRL",
+      "cui": "37635630",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DENSUŞIANA PROD SRL",
+      "cui": "18348246",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DEZVOLTARE URBANA SRL",
+      "cui": "24642172",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DEZVOLTARE URBANĂ SLATINA SRL",
+      "cui": "37192177",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DEZVOLTAREA SI ADMINISTRAREA PATRIMONIULUI SALONTA S.A.",
+      "cui": "48648024",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DIRECŢIA PUBLICĂ MOTRU SA",
+      "cui": "27419583",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DISTRIBUTIE APA BRAN S.R.L.",
+      "cui": "48507190",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DIVIZIA DE PAZĂ ŞI ORDINE SJP SRL",
+      "cui": "27608930",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DOM-NUS-AQUA S.R.L.",
+      "cui": "45340827",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DOMENIU PUBLIC ŞI PRIVAT ONEŞTI SA",
+      "cui": "27231643",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DOROBEIUL SRL",
+      "cui": "17484436",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DRUMURI MUNICIPALE S.R.L.",
+      "cui": "32175566",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DRUMURI SI PODURI LOCALE ALBA SA",
+      "cui": "4331392",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DRUMURI SI PODURI SA",
+      "cui": "10631629",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DRUMURI ŞI PODURI SA",
+      "cui": "2653243",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DRUMURI ŞI PODURI SA",
+      "cui": "11766640",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DUMBRĂVIŢA INVESTIŢII SRL",
+      "cui": "31696884",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DUMBRĂVIȚA TV S.R.L.",
+      "cui": "42046577",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "DUNĂREA SALCIA S.R.L.",
+      "cui": "41314361",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "E.C. RUSCOM BEST SRL",
+      "cui": "27855450",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECKEN KOZMU SRL",
+      "cui": "32300235",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO - SCUP SRL",
+      "cui": "27330116",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO EURO CAB SRL",
+      "cui": "28145290",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ECO INEU PHARE 2004 SA",
+      "cui": "27394322",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO MONTAN APUSENI SRL",
+      "cui": "27267116",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO PEISAGISTICĂ S.R.L.",
+      "cui": "47485875",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO PREST JILAVA S.R.L.",
+      "cui": "40418917",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO SA",
+      "cui": "10625635",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO VALEA MUNTELUI S.A.",
+      "cui": "27273126",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO VEST CODRII VLĂSIEI SRL",
+      "cui": "28449701",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ECO-CSIK SRL",
+      "cui": "25741662",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECO-UTIL FRUMUȘANI S.R.L.",
+      "cui": "39377279",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ECOAQUA SA",
+      "cui": "16730672",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOCHIŞLAZ SRL",
+      "cui": "32419318",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOEDILITAR SRL",
+      "cui": "27910237",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOLOGICA BĂILE HERCULANE SRL",
+      "cui": "22976664",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOPIAŢA SA",
+      "cui": "27272228",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOPREST BRAHA 2015 SRL",
+      "cui": "34788311",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOSAL RE-LI-VO SRL",
+      "cui": "28112594",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOSALTECH S.A.",
+      "cui": "33504764",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ECOSALUBRIS HÂRLĂU S.R.L.",
+      "cui": "31055251",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOSALUBRIZARE PREST SRL",
+      "cui": "28147657",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOSERV SIG SRL",
+      "cui": "28696329",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOSERV-HD S.R.L.",
+      "cui": "47422800",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ECOTRANS STCM S.R.L.",
+      "cui": "39950464",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDIL EXPERT PUBLISERV SUSENI SRL",
+      "cui": "27414292",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDIL NEGRENI SRL",
+      "cui": "31041582",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDIL PORUMBACU SRL",
+      "cui": "30029890",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDIL SAL PREST S.A.",
+      "cui": "36443211",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDIL UIHEI S.R.L.",
+      "cui": "43502159",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITAR DIVERS TOPALU SRL",
+      "cui": "27371558",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITAR GOSPODAR CERMEI S.R.L.",
+      "cui": "41239820",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITAR GRECI SRL",
+      "cui": "32081372",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITAR LOCAL TUZLA SRL",
+      "cui": "30860929",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITAR MĂRĂCINENI SRL",
+      "cui": "30798240",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITAR SALUB-TERM SRL",
+      "cui": "27642550",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITARA GURA PADINII SRL",
+      "cui": "30744673",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "EDILITARE BOTENI MUSCEL S.R.L.",
+      "cui": "40816530",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILITARE VLĂDEŞTI S.R.L.",
+      "cui": "43863269",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILPREST SRL",
+      "cui": "22032410",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILUL APĂ CETĂŢENI S.R.L.",
+      "cui": "39651551",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDILUL C.G.A. SA",
+      "cui": "11339178",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EDITURA DIDACTICĂ ŞI PEDAGOGICĂ S.A.",
+      "cui": "1589983",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EFO URBAN SRL",
+      "cui": "32240249",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ELECTROMECANICA PLOIESTI SA",
+      "cui": "14361269",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ELECTROVOL SA",
+      "cui": "23708724",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ELIMARILI COLECT S.R.L.",
+      "cui": "43327090",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ELTRANS SA",
+      "cui": "10863041",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ENERGONUCLEAR SA",
+      "cui": "25344972",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ENERGOTERM SA",
+      "cui": "17747931",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ENTEL S.A.",
+      "cui": "50867719",
+      "sector": "Energie",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "ETA SA",
+      "cui": "10524177",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EURO PREST SERV JILAVA S.R.L.",
+      "cui": "38639754",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EUROBAC SRL",
+      "cui": "17670528",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EUROSERV PUB DRĂGANU SRL",
+      "cui": "29387348",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EUROTEST SA",
+      "cui": "360557",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EVENT PETRĂCHIOAIA SRL",
+      "cui": "37019312",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EVENTCULINAR VOL S.A.",
+      "cui": "41639118",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EXIM BANCA ROMÂNEASCĂ S.A",
+      "cui": "361560",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "EXPLOATARE SISTEM ZONAL PRAHOVA SA",
+      "cui": "18856244",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "EXPLOCONSTRUCT SRL",
+      "cui": "13174912",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "Electrificare C.F.R. SA",
+      "cui": "16828396",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "FABRICA DE PRELUCRARE A CONCENTRATELOR DE URANIU – FELDIOARA S.R.L.",
+      "cui": "44958790",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "FABRICA DE PULBERI SA",
+      "cui": "21727401",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+      "cui": "5439903",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "FONDUL LOCAL DE GARANTARE FOCŞANI IFN SA-FILIALA FNGCIMM",
+      "cui": "18265884",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "FONDUL NATIONAL DE GARANTARE A CREDITELOR PENTRU INTREPRINDERILE MICI SI MIJLOCII SA - IFN",
+      "cui": "14367083",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "FONTANA BALNEO S.R.L.",
+      "cui": "47168273",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "FORMENERG - S.A.",
+      "cui": "14529126",
+      "sector": "",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "FOTBAL CLUB VOLUNTARI SA",
+      "cui": "27212889",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GHINDĂREȘTI EDIL SRL",
+      "cui": "30749948",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GIROCEANA SRL",
+      "cui": "14717383",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GLOBAL MEDIA EXPERT S.R.L.",
+      "cui": "16217287",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOS-TRANS-COM SRL",
+      "cui": "7850009",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSAN SRL",
+      "cui": "16906125",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSCOM CETATEA RASNOV SA",
+      "cui": "9922624",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSCOM LUPENI SRL",
+      "cui": "32455094",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSCOM SA",
+      "cui": "10138656",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSCOM ZETEA SRL",
+      "cui": "28025730",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSP-COM SRL",
+      "cui": "8510382",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSP-COMUNCOR SRL",
+      "cui": "17406209",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPOBER-PREST SRL",
+      "cui": "33412636",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPOCERNA LUNCA CERNII SRL",
+      "cui": "28133465",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODARII CORLĂTENI SRL",
+      "cui": "37737746",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODARIRE, MONITORIZARE ŞI TRANSPORT BRĂNEŞTI SRL",
+      "cui": "30510397",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIA DE INTRETINERE PEISAGISTICĂ COLIBAŞI SRL",
+      "cui": "30738434",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIA IZVOARELE SRL",
+      "cui": "27409407",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIA LOCALĂ GODINESTI S.R.L.",
+      "cui": "47150063",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIA ŞICULANĂ SRL",
+      "cui": "36474781",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIRE COMUNALĂ LOCALĂ RĂŞINARI SRL",
+      "cui": "27804376",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIRE COMUNALĂ ȘI ÎNTREȚINERE PEISAGISTICĂ GHIMPAȚI SRL",
+      "cui": "34796560",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "GOSPODĂRIRE COMUNALĂ ȘI ÎNTREȚINERE PEISAJISTICĂ SCHITU SRL",
+      "cui": "34143412",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIRE LOCALĂ BERBEŞTI S.R.L.",
+      "cui": "30955972",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIRE LOCALĂ FÎRTĂŢEŞTI S.R.L.",
+      "cui": "31924214",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIRE URBANĂ SRL",
+      "cui": "27413181",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIREA APELOR ŞI SERVICIILOR FRECĂŢEI SRL",
+      "cui": "36480325",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPODĂRIREA UTILITĂŢILOR PUBLICE MIHĂIEŞTI SRL",
+      "cui": "38918813",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GOSPOLOCAFAR SRL",
+      "cui": "29188485",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GRANI LINE-TRANS SRL",
+      "cui": "33717053",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GRATIASERV SRL",
+      "cui": "27274156",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "GREEN - SES PREST SRL",
+      "cui": "34703536",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "GREEN CITY VOLUNTARI S.A.",
+      "cui": "32314206",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "Grup Exploatare si Intretinere Palat C.F.R. SA",
+      "cui": "14893410",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HALE SI PIETE SA",
+      "cui": "1356295",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HARVIZ SA",
+      "cui": "24499588",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HERBA AMBIENT CERMEI SRL",
+      "cui": "31629001",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HIDROREŢELE SRL",
+      "cui": "38028777",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HONLINE MEDIA SRL",
+      "cui": "27256079",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HOTARPREST S.R.L.",
+      "cui": "46026645",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HUTA OBEC S.R.L.",
+      "cui": "38634242",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "HYDROKOV S.A.",
+      "cui": "8574327",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "IERUL TIREAM SRL",
+      "cui": "25950367",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "INFORMATICA FEROVIARA SA",
+      "cui": "14966210",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "INFRASTRUCTURĂ DRUMURI ȘI PODURI S.A.",
+      "cui": "39328420",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "INFRASTRUCTURĂ S5 S.A.",
+      "cui": "42049115",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "INSTITUTUL DE CERCETARE STIINTIFICA, INGINERIE TEHNOLOGICA SI PROIECTARE MINE PE LIGNIT SA",
+      "cui": "3730549",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "INSTITUTUL DE CERCETARI METALURGICE SA",
+      "cui": "459853",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "INTER PREST 1 DECEMBRIE SRL",
+      "cui": "27826579",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "IPROCHIM SA",
+      "cui": "457747",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "IZBUCUL CĂRPINET SRL",
+      "cui": "31151518",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "JUD PAZĂ ŞI ORDINE AG SRL",
+      "cui": "28708334",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "KAMAK STAR BISNOV SRL",
+      "cui": "32531094",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "KOHAN VAŞCĂU S.R.L.",
+      "cui": "41146390",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "KULTUR CENTRUM SRL",
+      "cui": "28469733",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LA SALA PARC SRL",
+      "cui": "34376183",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LACURILE NATURALE OCNA SIBIULUI SA",
+      "cui": "28355992",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LELESE TRANSCOM SRL",
+      "cui": "17815688",
+      "sector": "Transport",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "LIMANU VERDE SERVICII DE CURĂȚENIE SRL",
+      "cui": "37683905",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LOCADIN SA",
+      "cui": "12331610",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LOCAL CINCU SRL",
+      "cui": "34497533",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "LOCAL PREST SERV AŞTILEU SRL",
+      "cui": "28095744",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LOCAL URBAN SRL",
+      "cui": "30055849",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LOCALSERV COMTAM SRL",
+      "cui": "28418969",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LOCATIV SA",
+      "cui": "10755066",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LOCTRANS SA",
+      "cui": "1517006",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LUCRARI DRUMURI SI PODURI DAMBOVITA SA",
+      "cui": "10638988",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "LUNCA CIGHERULUI-TAUŢ S.R.L.",
+      "cui": "43388543",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "M.K. PAZĂ ŞI PROTECŢIE SRL",
+      "cui": "28507306",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MAMAIA SA",
+      "cui": "1890659",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MARIENBURG SCUP SRL",
+      "cui": "36103929",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MATSALUBRIS SRL",
+      "cui": "23226130",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MAURA STAR BISNOV SRL",
+      "cui": "32530994",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MEDICALĂ SFÂNTA CUVIOASĂ PARASCHEVA VOLUNTARI SRL",
+      "cui": "32111333",
+      "sector": "Sănătate · educație",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MEDITUR SA",
+      "cui": "9735812",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MEDSERV MIN SA",
+      "cui": "14814475",
+      "sector": "Sănătate · educație",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MENZA S.R.L.",
+      "cui": "47783197",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MERENDA PRIM SRL",
+      "cui": "27576308",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MIDIA GREEN ENERGY SA",
+      "cui": "14325363",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MINVEST ROŞIA MONTANĂ S.A.",
+      "cui": "32387844",
+      "sector": "",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "MODERN CALOR SA",
+      "cui": "26892574",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MONITORUL OFICIAL RA",
+      "cui": "427282",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MOŞNIŢEANA SRL",
+      "cui": "28403313",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MULTI-TRANS SA",
+      "cui": "555397",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "MULTICREATIV COLIBAŞI SRL",
+      "cui": "37635622",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "NEPTUN-OLIMP SA",
+      "cui": "2423562",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "NERA GOSP BOZOVICI SRL",
+      "cui": "27325934",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "NITROPARC SRL",
+      "cui": "18478122",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "NOVA APASERV SA",
+      "cui": "26161230",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC AL MUNICIPIULUI BISTRITA RA",
+      "cui": "25742072",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC AL ORASULUI RASNOV RA",
+      "cui": "17373721",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC ALPINA BORŞA RA",
+      "cui": "17897432",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "OCOLUL SILVIC ARDUD RA",
+      "cui": "27389563",
+      "sector": "Agricultură",
+      "reps": false,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC BANATUL MONTAN REGIE AUTONOMĂ",
+      "cui": "39502746",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC BRATCUTA RA",
+      "cui": "17023629",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC BUCEGI PIATRA CRAIULUI CIUCAS RA",
+      "cui": "23389463",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC BUZĂUL ARDELEAN RA",
+      "cui": "17177326",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC CIUCAS RA",
+      "cui": "18333164",
+      "sector": "Agricultură",
+      "reps": false,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC CODRII BEIUSULUI RA",
+      "cui": "18019510",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC CODRII CAMARII RA",
+      "cui": "16907635",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC CODRII CETATILOR RA",
+      "cui": "17420548",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC COMUNAL JOSENII BIRGAULUI RA",
+      "cui": "27924739",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC COMUNAL ROMULI RA",
+      "cui": "25472076",
+      "sector": "Agricultură",
+      "reps": false,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC COMUNAL TELCIU RA",
+      "cui": "25327840",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC CORMAIA ANIES RA",
+      "cui": "16067546",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC DEALUL SIBIULUI RA",
+      "cui": "17454834",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC DUMBRAVA RA",
+      "cui": "25538820",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC IZVORUL FLORII RA",
+      "cui": "18490657",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC LĂZĂRENI RA",
+      "cui": "34963676",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC MAIERU RA",
+      "cui": "17429946",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC MUNICIPAL BAIA MARE RA",
+      "cui": "17432100",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC PIATRA CERBULUI R.A.",
+      "cui": "47028300",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC PLAIURILE HENIULUI RA",
+      "cui": "25492677",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC RASINARI RA",
+      "cui": "16727448",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC SAPCEA CUGIR RA",
+      "cui": "16181981",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC SEBEŞ RA",
+      "cui": "16041457",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OCOLUL SILVIC TIHUŢA-COLIBIŢA RA",
+      "cui": "25336481",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OIL TERMINAL SA",
+      "cui": "2410163",
+      "sector": "Transport",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "OLT DRUM SA",
+      "cui": "10881110",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OPERATORUL DE SERVICII COMUNITARE AMARA S.A.",
+      "cui": "30497727",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "OPERATORUL PIEŢEI DE ENERGIE ELECTRICĂ ŞI DE GAZE NATURALE \"OPCOM\" S.A.",
+      "cui": "13278352",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "ORIZONTURI NOI SRL",
+      "cui": "17094034",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "OSICAPREST SERVCONS SRL",
+      "cui": "37101306",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "OVERSET SERDIS SRL",
+      "cui": "32621634",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "OVI-PRESTCON SRL",
+      "cui": "14004916",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PADEŞ UTIL SRL",
+      "cui": "28664262",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PALAT JUD SRL",
+      "cui": "13658823",
+      "sector": "Comerț",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARC INDUSTRIAL CÂMPIA TURZII S.A.",
+      "cui": "33885642",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARC ŞTIINŢIFIC ŞI TEHNOLOGIC BIHOR S.R.L.",
+      "cui": "39494457",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARC-TURISM SA",
+      "cui": "11940770",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARCURI INDUSTRIALE BUCOVINA S.A.",
+      "cui": "41948687",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARCURI INDUSTRIALE SIBIU - ŞURA MICĂ SA",
+      "cui": "14377605",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARCURI INDUSTRIALE TÂRGU-SECUIESC S.R.L.",
+      "cui": "38255508",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARCURI SERVICII & PROD PANTELIMON SRL",
+      "cui": "29848867",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARCURI VERZI&URBAN TRANS S.R.L.",
+      "cui": "28323214",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PARKING SA",
+      "cui": "12661090",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PATAKLOKA-SZEGES SRL",
+      "cui": "37666831",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PAZA C.L.B. SRL",
+      "cui": "27751700",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PAZA SI PROTECTIE FORSE SRL",
+      "cui": "27946109",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PAZĂ OBIECTIVE ŞI INTERVENŢIE SRL",
+      "cui": "27850739",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PEISAJ HOSTA SRL",
+      "cui": "7283303",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PERLA INVEST SRL",
+      "cui": "19101430",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PESCOTIM SA",
+      "cui": "1812847",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIAŢA PRIM-COM SA",
+      "cui": "27856405",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIAȚA AGROALIMENTARĂ SMÂRDIOASA S.R.L.",
+      "cui": "43152096",
+      "sector": "Comerț",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIETE SA",
+      "cui": "2487361",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIETE TIRGURI SI OBOARE SA",
+      "cui": "1154822",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIETRARUL CODRU MOMA S.R.L.",
+      "cui": "38779014",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIEŢE -PARCĂRI SRL",
+      "cui": "33676263",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIEŢE PREST SA",
+      "cui": "27289734",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIEŢE PREST TEC SRL",
+      "cui": "31434115",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIEŢE REŞIŢA SRL",
+      "cui": "18588753",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIEŢE, TÂRGURI ŞI OBOARE FĂGĂRAŞ SRL",
+      "cui": "29759816",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PIEŢE-SERVICII COMUNITARE MUSCEL SRL",
+      "cui": "27280123",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PISCICOLA SA",
+      "cui": "1923799",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PLATFORMA INDUSTRIALĂ IMM SLOBOZIA S.R.L.",
+      "cui": "32571412",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PLOPCONSTRUCT SRL",
+      "cui": "18543689",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "POIANA ROŞIA SRL",
+      "cui": "26371584",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "POL - COM CARANSEBEŞ SRL",
+      "cui": "27325969",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "POLOVRAGII S.R.L.",
+      "cui": "39264032",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "POROSCHIA COM SRL",
+      "cui": "27223071",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "POTLOGI TÂRG 2011 SRL",
+      "cui": "29949152",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRELCET SA",
+      "cui": "24423199",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRES CONS REDEA SRL",
+      "cui": "35362925",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRES SERV GURA OCNIŢEI S.R.L.",
+      "cui": "38308297",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESADMIN S.R.L.",
+      "cui": "43668284",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESERV VEDIŢA SRL",
+      "cui": "30509368",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESLUC SRL",
+      "cui": "16862460",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PREST ADP GRĂDINILE SRL",
+      "cui": "33537869",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PREST COM SÂNTANA PAVAJ SRL",
+      "cui": "33850202",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESTOSERV COSMEŞTI SRL",
+      "cui": "27264080",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESTSERV GHIMPEŢENI SRL",
+      "cui": "35604867",
+      "sector": "Industrie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESTĂRI BĂRĂŞTI SRL",
+      "cui": "27293115",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESTĂRI DOBRUN SRL",
+      "cui": "27668673",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESTĂRI SERVICII PRIMAPREST COM BEZDEAD S.R.L.",
+      "cui": "31293598",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRESTĂRI SERVICII SLOBOZIA BRADULUI S.R.L.",
+      "cui": "43476130",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIM ONCEŞTEANA SRL",
+      "cui": "37238843",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIM PODU SRL",
+      "cui": "31057287",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "PRIMA TĂUŢI SRL",
+      "cui": "19240411",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMA VARIAŞ SRL",
+      "cui": "29559184",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMALEX PROIECT TEL SRL",
+      "cui": "33930760",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMAPEMED S.R.L.",
+      "cui": "39180829",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMAS SRL",
+      "cui": "15643101",
+      "sector": "Comerț",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "PRIMCOM ZĂTRENI S.R.L.",
+      "cui": "38348755",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMCONS ALUNU S.R.L.",
+      "cui": "46655980",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMDRAGA SRL",
+      "cui": "32166150",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PRIMTRANS - COM SRL",
+      "cui": "24340468",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "PROIECTE DE DEZVOLTARE LOCALĂ MIREŞU MARE S.R.L.",
+      "cui": "36555967",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": false
+    },
+    {
+      "name": "PROSALUBRIS SRL",
+      "cui": "31001189",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PUBLISERV BICAZ SRL",
+      "cui": "37190290",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PUBLISERV S.A.",
+      "cui": "9126534",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PUBLISERV VIDELE S.R.L.",
+      "cui": "27253188",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PUBLITRANS 2000 SA",
+      "cui": "13008995",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "PĂRŢANA SRL",
+      "cui": "28924478",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "R.A.T. SRL",
+      "cui": "2315129",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RACHITOVEANA SRL",
+      "cui": "15955049",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RADIOACTIV MINERAL MAGURELE SA",
+      "cui": "16695222",
+      "sector": "Alte sectoare",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RAGCL SA",
+      "cui": "1234735",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RAIAR DEVELOPMENT SRL",
+      "cui": "25718864",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RAJA SA",
+      "cui": "1890420",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RAM TERMO VERDE S.R.L.",
+      "cui": "42886590",
+      "sector": "Energie",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RASIROM RA",
+      "cui": "7061781",
+      "sector": "IT & comunicații",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RATBV S.A.",
+      "cui": "1102556",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RECONS SA",
+      "cui": "1973568",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "RECONS SA",
+      "cui": "8189348",
+      "sector": "Infrastructură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REDISZA SA",
+      "cui": "24864080",
+      "sector": "Apă-canal · salubritate",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMA \"ADMINISTRATIA ZONEI LIBERE\" CURTICI - ARAD RA",
+      "cui": "11961641",
+      "sector": "Servicii",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
+      "cui": "1644670",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMA OCOLUL SILVIC VALEA ŞIEULUI RA",
+      "cui": "25725314",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
+      "cui": "4276000",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMĂ ADMINISTRAȚIA CANALULUI NAVIGABIL BEGA TIMIȘ R.A.",
+      "cui": "39669478",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
+      "cui": "2647128",
+      "sector": "Transport",
+      "reps": true,
+      "financials": true
+    },
+    {
+      "name": "REGIA AUTONOMĂ LOCALĂ OCOLUL SILVIC VALEA SEBEŞULUI RA",
+      "cui": "18761454",
+      "sector": "Agricultură",
+      "reps": true,
+      "financials": true
+    }
+  ],
+  "lista_organizatii_fara_declaratii": [
+    "AJFP Olt",
+    "AJOFM Olt",
+    "AJPIS Olt",
+    "ANABI",
+    "ANAF — API platitori TVA / date firmă",
+    "ANCPI — Cadastru",
+    "ANI — Declarații de avere și interese",
+    "ANIF Olt",
+    "ANPC — Protecția Consumatorilor",
+    "ANRP — Restituirea Proprietăților",
+    "ANSPDCP — Protecția Datelor (GDPR)",
+    "APIA Olt",
+    "APM Olt",
+    "Autoritatea Electorală Permanentă",
+    "Autoritatea de Supraveghere Financiară",
+    "CAS Olt",
+    "CJP Olt",
+    "CJPC Olt",
+    "CNSC — Soluționarea Contestațiilor",
+    "Camera Deputaților",
+    "DAJ Olt",
+    "DGRFP Olt",
+    "DJC Olt",
+    "DJEP Olt",
+    "DJS Olt",
+    "DJST Olt",
+    "DRV Olt",
+    "DSP Olt",
+    "Direcția Generală Anticorupție",
+    "Direcția Națională Anticorupție",
+    "GNM Olt",
+    "Garda Forestieră Olt",
+    "Guvernul României",
+    "IJJ Olt",
+    "IPJ Olt",
+    "ISJ Olt",
+    "ISU Olt",
+    "ITM Olt",
+    "Ministerul Mediului, Apelor și Pădurilor",
+    "OJFIR Olt",
+    "OPC Olt",
+    "ORC Olt",
+    "SGA Olt",
+    "Secretariatul General al Guvernului",
+    "Senatul României",
+    "drumuri/poduri județene Alba",
+    "drumuri/poduri județene Arad",
+    "drumuri/poduri județene Argeș",
+    "drumuri/poduri județene Bacău",
+    "drumuri/poduri județene Bihor",
+    "drumuri/poduri județene Botoșani",
+    "drumuri/poduri județene Brașov",
+    "drumuri/poduri județene Brăila",
+    "drumuri/poduri județene București",
+    "drumuri/poduri județene Buzău",
+    "drumuri/poduri județene Cluj",
+    "drumuri/poduri județene Constanța",
+    "drumuri/poduri județene Covasna",
+    "drumuri/poduri județene Călărași",
+    "drumuri/poduri județene Dolj",
+    "drumuri/poduri județene Dâmbovița",
+    "drumuri/poduri județene Galați",
+    "drumuri/poduri județene Giurgiu",
+    "drumuri/poduri județene Gorj",
+    "drumuri/poduri județene Harghita",
+    "drumuri/poduri județene Hunedoara",
+    "drumuri/poduri județene Ialomița",
+    "drumuri/poduri județene Iași",
+    "drumuri/poduri județene Ilfov",
+    "drumuri/poduri județene Maramureș",
+    "drumuri/poduri județene Mehedinți",
+    "drumuri/poduri județene Mureș",
+    "drumuri/poduri județene Neamț",
+    "drumuri/poduri județene Olt",
+    "drumuri/poduri județene Prahova",
+    "drumuri/poduri județene Sibiu",
+    "drumuri/poduri județene Suceava",
+    "drumuri/poduri județene Sălaj",
+    "drumuri/poduri județene Teleorman",
+    "drumuri/poduri județene Timiș",
+    "drumuri/poduri județene Tulcea",
+    "drumuri/poduri județene Vaslui",
+    "drumuri/poduri județene Vrancea",
+    "drumuri/poduri județene Vâlcea",
+    "spitale județene Olt"
+  ]
+}
