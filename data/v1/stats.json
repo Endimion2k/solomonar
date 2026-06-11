@@ -11,9 +11,10 @@
     "cu_bilant": 1153
   },
   "cv_uri": {
-    "conducere_soe": 280,
-    "deputati": 239,
-    "senatori": 115
+    "total": 1237,
+    "soe_institutii": 775,
+    "deputati": 328,
+    "senatori": 134
   },
   "graf": {
     "persoane": 31733,
