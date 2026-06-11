@@ -9,6 +9,10 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
+> **🟢 RUNDA 2026-06-11b (commit 145):** CV-uri ~3× (**1.237 total**: 775 SOE/instituții cu 766 studii/exp,
+> +449 OCR de pe site-urile localsoe) · **DNA 8.998 comunicate** (3×, 5.136 nume, cross-ref local 391/78 high) ·
+> **senatori↔comisii în gold** (130, crosswalk GUID).
+>
 > **🟢 MILESTONE (2026-06-11) — 141 commit-uri, API LIVE.** Bază masivă + graf canonic + search:
 > - **Declarații: 144.458** (76.838 avere + 67.620 interese) — deconcentrate+CFR+SOE+soe2+**localsoe (8.225,
 >   SOE locale: căutare online 729 companii → 185 cu site, 10.177 PDF: CONPET/CNCIR/APPS/AFDJ/aeroporturi/porturi)**+
