@@ -1,0 +1,1556 @@
+{
+  "nota": "senator (ParlamentarID) → comisiile din care face parte",
+  "total_senatori": 131,
+  "index": {
+    "400F5737-4844-4C7D-98DA-AEE69C2428D0": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      }
+    ],
+    "60BCE7C1-FB2B-4F29-9C74-0B37C64A7611": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      }
+    ],
+    "BD44B5A4-E8AB-43C1-8B0E-DC539F57F668": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      }
+    ],
+    "33C6752D-C2B6-42AF-A6B4-233B9F6E9994": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      }
+    ],
+    "31C2CF8C-BA75-4086-9359-6CFED5BB857D": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      }
+    ],
+    "E695C911-B82F-4AF1-A537-4AE1BAA991BF": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      }
+    ],
+    "87C4A776-8E64-4E70-A862-4F087AEA03E5": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru regulament",
+        "rol": "Membru"
+      }
+    ],
+    "E4DE63CF-394D-49DA-844A-6B060A232B35": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru regulament",
+        "rol": "Preşedinte"
+      }
+    ],
+    "8E9B590E-EB5B-49A9-A908-8CBE4E43B9FC": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      }
+    ],
+    "57A5F4D6-EC10-4020-8424-958ED09FBF37": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      }
+    ],
+    "737C18E7-C031-4D78-8808-9588B964E893": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      }
+    ],
+    "E5DA6DE6-88CD-468A-B161-B32CAAC784F3": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "BE0ED528-F7E8-43F5-A47E-E2F52E95A17C": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      }
+    ],
+    "D7E43180-8A7D-47CE-94DD-E2E6FFB390D1": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "F6B7345B-82CA-43BF-9B7E-EFE5C038B2A0": [
+      {
+        "comisie": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "C6BE0951-8179-4AB1-8166-8CAC4C1BF4D4": [
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      }
+    ],
+    "E4673FD9-34FD-4B0D-8019-092771F2537E": [
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Secretar"
+      }
+    ],
+    "2AF30F2A-5AD3-45DB-A322-4073884FED8F": [
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "AD29025B-ADCF-4C9D-8F02-851AB171FF91": [
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "B236FA71-A4FE-4EE8-B18E-BED743DF11D5": [
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "4EA5E2F9-CD07-4EB4-912E-A1181CC460B1": [
+      {
+        "comisie": "Comisia pentru constituţionalitate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "91A4D099-7162-417B-8F93-645DC31ACCF0": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      }
+    ],
+    "094EF6D8-2E32-4CBD-81FF-46B54EC604F1": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "18F2771E-382A-4809-B1AB-8C8750FC5BF8": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "DE52F6DF-260B-4042-9A60-095A0DBFE661": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "801216B9-B47E-419B-BD9F-2DA44629E975": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "C4A7837D-5479-4AAD-82BC-34C696B71339": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "5DFB5F9B-9D25-40A4-9145-366AE2B2C04D": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "5CB3F164-6F0C-449B-BC2E-457C5E9BF73C": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      }
+    ],
+    "F640457C-0362-4C02-96D1-7C38B9957BDD": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      }
+    ],
+    "7A6EC680-9075-4FFF-97D2-7D556F4D57BC": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      }
+    ],
+    "BB84802B-1DFF-4568-B5E7-91F5647073C5": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      }
+    ],
+    "05495ACE-0730-44D7-B735-9D97285DCCF0": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "A5A25B95-3452-4D9D-983B-A1C7A033CFCD": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      }
+    ],
+    "D9CF2A62-6109-4D68-9452-B54D6B4E786F": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Preşedinte"
+      }
+    ],
+    "5AA76A32-F2F8-42C0-A868-C5AFA29FC744": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "70753DDE-D7A5-47B2-859D-EEE551CE150F": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      }
+    ],
+    "94BB9130-2698-4509-9BEA-FFCEDF3DAC7F": [
+      {
+        "comisie": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      }
+    ],
+    "7AEBFFAD-47E6-4C7E-BDFB-34360E888703": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      }
+    ],
+    "781AF753-0E1A-4820-9926-7191E4EB16DF": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      }
+    ],
+    "988C7A7C-2A4E-476D-BCC0-BCC1D6E5B97B": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      }
+    ],
+    "BFF3C30A-425F-4B6D-8D4F-1285C1BDE059": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "E358037E-262E-4BC0-B1D8-30016595005F": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      }
+    ],
+    "A98C83AA-D99D-464B-A5A1-44566F751A51": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "55C19F8C-80F4-4BD1-B112-E363C2B283F1": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "2BAEEBA9-A861-4355-9C8E-8CEBEBA4F0D4": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "86155CE0-9997-464A-AD63-93236F32F972": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      }
+    ],
+    "979F6165-CAA2-4568-ABE4-A663A37147FD": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      }
+    ],
+    "075D383A-42A1-44D5-989F-CC686356D066": [
+      {
+        "comisie": "Comisia pentru politică externă",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      }
+    ],
+    "E945E210-E8A5-4E58-8C9F-D144F4A062B5": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Preşedinte"
+      }
+    ],
+    "33D88102-6E65-4934-9ECF-10102445C2C4": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Secretar"
+      }
+    ],
+    "DC8F43FB-E036-477B-B895-12F56A2464C1": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "94AFC16B-0D0B-45BE-A844-2110C5C3BC0A": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "9CD64C47-2BE4-43ED-8B32-249577FE8C97": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "5582EE24-5017-4462-AD12-49D4BDE5D5BB": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "FCDBFB0C-93CA-4AA5-85BA-4F53B21865BD": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "A2987B08-F230-43F8-AB52-D9073851A524": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru regulament",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "3953018D-3E06-4028-BC4B-953FB20F88E9": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "3354F56C-A3E7-4CEA-9DDE-E3BD730D7B7F": [
+      {
+        "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      }
+    ],
+    "DD953B01-E89C-481C-88B9-40CBD8E43FEC": [
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru regulament",
+        "rol": "Secretar"
+      }
+    ],
+    "B443BD5D-6BA0-4192-832C-4B502D6EC1A8": [
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      }
+    ],
+    "008FD8CB-C069-4F74-B02B-612D1DB6A19D": [
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "E49EF80D-FC0B-4CA7-93EF-9ED3840E012A": [
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "95133353-E40C-4398-BBAC-A6D14FCDAD54": [
+      {
+        "comisie": "Comisia pentru afaceri europene",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      }
+    ],
+    "E681A8AD-B809-40AE-9075-F0879F10A986": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "C7757F24-2D04-42A2-833E-C0A9A821AD71": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "4D812C2C-FA19-4834-B1F1-08FEDC72161D": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Secretar"
+      }
+    ],
+    "37B6DE1D-2D61-4475-BB9B-443D4AD9D181": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      }
+    ],
+    "14E542F2-EE04-444E-B539-9E85135DA202": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "3F7D19D2-B8D0-4309-894C-B71561F01985": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "9A773414-4C8D-41AF-BD97-D9834EB23395": [
+      {
+        "comisie": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "CE14B3E6-9E25-4840-A0B0-23F33C6DB73C": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      }
+    ],
+    "082C21CD-DCDB-42BB-9BFD-A871139CB9C5": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      }
+    ],
+    "29201640-DE4E-47FF-89B2-18126D2790AE": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "65699EFD-F7E5-4128-B80F-1EF173563D66": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Preşedinte"
+      }
+    ],
+    "FA667A85-17D1-4CB5-A5DB-322D48FCD38D": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "509068B6-ECF9-4365-A022-74B77483CE14": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "F34848D5-327A-4E34-80DD-C28EB44C8D98": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      }
+    ],
+    "CD69820B-804D-42BF-BE94-C567A0EFD41B": [
+      {
+        "comisie": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+        "rol": "Membru"
+      }
+    ],
+    "58DD0F59-A7E9-44F4-9860-5316735921E1": [
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "00AEE4D2-EA00-4484-9A67-0C2F8A0459F8": [
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Secretar"
+      }
+    ],
+    "B9C904E7-969F-4126-B0E1-0EBD3A003CC5": [
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Secretar"
+      }
+    ],
+    "3B1C3E18-CC5D-46D4-8BE7-70CA0566D41F": [
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru regulament",
+        "rol": "Membru"
+      }
+    ],
+    "5954CCC9-0AF9-409F-9B30-91C8B292D60D": [
+      {
+        "comisie": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "827844F4-ED1E-4293-BBE5-3DD527A0D65B": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "86228CA2-986A-40BA-9ED8-1A975ED32F9C": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      }
+    ],
+    "B9350519-299B-4572-8D08-7AEA22489F39": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "B70CFD7F-7726-4531-99D0-83FF6F6F05B3": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "2A3A96E0-F5D4-4A21-8C10-9606276F5311": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      }
+    ],
+    "8C196354-6157-46A5-8B04-9D394C7B294D": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "0460DBEB-6CAA-41F0-AEAD-EA380A592FDE": [
+      {
+        "comisie": "Comisia pentru administraţie publică",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Preşedinte"
+      }
+    ],
+    "D172FE4E-C155-4F46-8859-6665840065A9": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "A5B8A0D4-4710-4730-A171-9B78349041F6": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "EDF20DA3-A851-4622-B534-0B3D833A51B9": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "D7829EB2-A908-43C2-8F3F-1F1AD550B9E6": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Preşedinte"
+      }
+    ],
+    "DCB76AFD-06D2-4795-9CE4-705231994268": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Preşedinte"
+      }
+    ],
+    "FEE99943-2379-4151-8E9A-7B15D1F04A4F": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "CB2CA5B6-FFEB-4FE8-A10C-87C4D61CACB0": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "74A1CA6F-7E3C-49EA-B9D7-B8DF00BF7766": [
+      {
+        "comisie": "Comisia pentru muncă, familie şi protecţie socială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "DAD3C5EE-3157-410A-85FF-094A63524104": [
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Secretar"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Secretar"
+      }
+    ],
+    "0A8B45A7-E661-4C59-9169-281F79FF12EB": [
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "7F782376-A244-4258-B5A5-911192E5566D": [
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "2B2EA3F2-756E-46D5-ACFE-9A41350B7F34": [
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      }
+    ],
+    "C4AF4B08-CCB8-4323-8FB2-A7272AFF2123": [
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "AEC2401E-7BFD-4C9F-9F67-F418BCDC5BE5": [
+      {
+        "comisie": "Comisia pentru învățământ, știință și inovare",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "27B719E9-FA14-4F74-A01C-EB955CE9F0EC": [
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      }
+    ],
+    "813D6A81-CEA1-4AC6-9717-143A859D4BDE": [
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Secretar"
+      }
+    ],
+    "9D98D226-76AA-4DEC-9D8D-24A83D344DFB": [
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "0A82391D-2ECD-4B88-AC27-57B69D159720": [
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      }
+    ],
+    "A8FF8991-97DD-4A5B-92A9-63C61A612F75": [
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "0692F467-F93F-4A21-A06A-8431696053A8": [
+      {
+        "comisie": "Comisia pentru sănătate",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru regulament",
+        "rol": "Membru"
+      }
+    ],
+    "6A194230-E597-4335-8CE2-1DA0B0AAE9C4": [
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Secretar"
+      }
+    ],
+    "3090F662-69B9-4088-94EA-AD1847401B50": [
+      {
+        "comisie": "Comisia pentru cultură şi media",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "3ABF38C7-FFFE-4F34-B90A-77B5C3219DA5": [
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "007FDD23-B531-407E-A067-9C3796420C8C": [
+      {
+        "comisie": "Comisia pentru transporturi şi infrastructură",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      }
+    ],
+    "E7647515-E32C-4E2D-96FF-AB83E8A93512": [
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Preşedinte"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "7193AAFE-9862-45BF-B876-6F90DFA96616": [
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Vicepreşedinte"
+      },
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      }
+    ],
+    "7FF0CD22-7BBB-4CA8-ADA1-0473697459BD": [
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Secretar"
+      }
+    ],
+    "AA6BA21B-D06F-4F62-8659-D4E74ADD85CB": [
+      {
+        "comisie": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Preşedinte"
+      }
+    ],
+    "DAC88F11-D51D-43E7-B5C0-E5692E92C4E1": [
+      {
+        "comisie": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ],
+    "4ECEF3DD-1F70-4433-82BA-54975207C4A1": [
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "6491A652-0D83-455C-B9A9-A04C0F5194C0": [
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "1969FBC4-5C74-4B09-AFD6-CB64347549DE": [
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Vicepreşedinte"
+      }
+    ],
+    "F1658CFA-9AEA-415D-8EF2-EC0E6E4046FC": [
+      {
+        "comisie": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+        "rol": "Membru"
+      }
+    ],
+    "D2F51E91-D18A-431C-BC9D-6061101CE1D4": [
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "259A81F5-9971-4B56-B1B5-C4230980BCD3": [
+      {
+        "comisie": "Comisia pentru românii de pretutindeni",
+        "rol": "Membru"
+      },
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "AD82D70D-0286-45A0-A3CC-E1DF3FA38144": [
+      {
+        "comisie": "Comisia pentru mediu",
+        "rol": "Membru"
+      }
+    ],
+    "AAA971E5-5110-4C5F-98F5-07C6EE365A1E": [
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Secretar"
+      }
+    ],
+    "AC8C9401-1A0D-478B-B367-62212ECAB1C5": [
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "E23F34EE-F4F8-4E72-8302-7453373E0CEC": [
+      {
+        "comisie": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+        "rol": "Membru"
+      }
+    ],
+    "6E681419-5F69-41CD-85CA-ACEF5EED2A63": [
+      {
+        "comisie": "Comisia pentru tineret și sport",
+        "rol": "Membru"
+      }
+    ]
+  }
+}

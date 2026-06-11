@@ -1,0 +1,1778 @@
+{
+  "sursa": "senat.ro ComponentaComisii.aspx",
+  "total_comisii": 23,
+  "total_locuri": 322,
+  "comisii": [
+    {
+      "comisie_id": "8B2F7BB0-388E-46C7-B3CC-EF38D3968DA3",
+      "nume": "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+      "membri": [
+        {
+          "nume": "RUJAN Ion-Cristinel",
+          "parlamentar_id": "400F5737-4844-4C7D-98DA-AEE69C2428D0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SPĂTARU Elena-Simona",
+          "parlamentar_id": "60BCE7C1-FB2B-4F29-9C74-0B37C64A7611",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "ȘTEFĂNESCU Daniela",
+          "parlamentar_id": "BD44B5A4-E8AB-43C1-8B0E-DC539F57F668",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "CAZANCIUC Robert-Marius",
+          "parlamentar_id": "33C6752D-C2B6-42AF-A6B4-233B9F6E9994",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CERVA Nadia-Cosmina",
+          "parlamentar_id": "31C2CF8C-BA75-4086-9359-6CFED5BB857D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FEDEROVICI Doina-Elena",
+          "parlamentar_id": "E695C911-B82F-4AF1-A537-4AE1BAA991BF",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FENECHIU Cătălin-Daniel",
+          "parlamentar_id": "87C4A776-8E64-4E70-A862-4F087AEA03E5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "IACOB Constantin-Ciprian",
+          "parlamentar_id": "E4DE63CF-394D-49DA-844A-6B060A232B35",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULESCU-ŢÂGÂRLAŞ Cristian-Augustin",
+          "parlamentar_id": "8E9B590E-EB5B-49A9-A908-8CBE4E43B9FC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂDURARU Răducu-Adrian",
+          "parlamentar_id": "57A5F4D6-EC10-4020-8424-958ED09FBF37",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PAULIUC Nicoleta",
+          "parlamentar_id": "737C18E7-C031-4D78-8808-9588B964E893",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUS Vasile-Ciprian",
+          "parlamentar_id": "E5DA6DE6-88CD-468A-B161-B32CAAC784F3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TĂNĂSESCU Alina-Elena",
+          "parlamentar_id": "BE0ED528-F7E8-43F5-A47E-E2F52E95A17C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TASNADI Istvan-Szilard",
+          "parlamentar_id": "D7E43180-8A7D-47CE-94DD-E2E6FFB390D1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VLAHU Nicolae",
+          "parlamentar_id": "F6B7345B-82CA-43BF-9B7E-EFE5C038B2A0",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "75FD4832-F4BA-4690-9F6D-5959B0B950FA",
+      "nume": "Comisia pentru constituţionalitate",
+      "membri": [
+        {
+          "nume": "CERVA Nadia-Cosmina",
+          "parlamentar_id": "31C2CF8C-BA75-4086-9359-6CFED5BB857D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TĂNĂSESCU Alina-Elena",
+          "parlamentar_id": "BE0ED528-F7E8-43F5-A47E-E2F52E95A17C",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "NEGRU Corneliu",
+          "parlamentar_id": "C6BE0951-8179-4AB1-8166-8CAC4C1BF4D4",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ANGHEL Razvan-Paul",
+          "parlamentar_id": "E4673FD9-34FD-4B0D-8019-092771F2537E",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CSEKE Attila-Zoltan",
+          "parlamentar_id": "2AF30F2A-5AD3-45DB-A322-4073884FED8F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MOISE Sorin",
+          "parlamentar_id": "AD29025B-ADCF-4C9D-8F02-851AB171FF91",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULESCU-ŢÂGÂRLAŞ Cristian-Augustin",
+          "parlamentar_id": "8E9B590E-EB5B-49A9-A908-8CBE4E43B9FC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂSCULESCU Veta",
+          "parlamentar_id": "B236FA71-A4FE-4EE8-B18E-BED743DF11D5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PLĂEȘU Laurențiu",
+          "parlamentar_id": "4EA5E2F9-CD07-4EB4-912E-A1181CC460B1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUJAN Ion-Cristinel",
+          "parlamentar_id": "400F5737-4844-4C7D-98DA-AEE69C2428D0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SPĂTARU Elena-Simona",
+          "parlamentar_id": "60BCE7C1-FB2B-4F29-9C74-0B37C64A7611",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 11
+    },
+    {
+      "comisie_id": "19D004BB-AD2A-43E6-B258-5495B37AA7AF",
+      "nume": "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+      "membri": [
+        {
+          "nume": "HORGA Maria-Gabriela",
+          "parlamentar_id": "91A4D099-7162-417B-8F93-645DC31ACCF0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DOGARIU Eugen",
+          "parlamentar_id": "094EF6D8-2E32-4CBD-81FF-46B54EC604F1",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "NEGOI Eugen-Remus",
+          "parlamentar_id": "18F2771E-382A-4809-B1AB-8C8750FC5BF8",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ANTAL István-Loránt",
+          "parlamentar_id": "DE52F6DF-260B-4042-9A60-095A0DBFE661",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CIUPERCEANU Ionuț-Ciprian",
+          "parlamentar_id": "801216B9-B47E-419B-BD9F-2DA44629E975",
+          "rol": "Membru"
+        },
+        {
+          "nume": "COȘA Silviu-Iulian",
+          "parlamentar_id": "C4A7837D-5479-4AAD-82BC-34C696B71339",
+          "rol": "Membru"
+        },
+        {
+          "nume": "COTEȚ Mihai",
+          "parlamentar_id": "5DFB5F9B-9D25-40A4-9145-366AE2B2C04D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DOBRA Elena-Adelina",
+          "parlamentar_id": "5CB3F164-6F0C-449B-BC2E-457C5E9BF73C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MIHAI Daniela",
+          "parlamentar_id": "F640457C-0362-4C02-96D1-7C38B9957BDD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MIRCESCU Ion-Narcis",
+          "parlamentar_id": "7A6EC680-9075-4FFF-97D2-7D556F4D57BC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "OPREA Ştefan-Radu",
+          "parlamentar_id": "BB84802B-1DFF-4568-B5E7-91F5647073C5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PEIU Petrișor-Gabriel",
+          "parlamentar_id": "05495ACE-0730-44D7-B735-9D97285DCCF0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "POTECĂ Vasilică",
+          "parlamentar_id": "A5A25B95-3452-4D9D-983B-A1C7A033CFCD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUSU Ioan-Cristian",
+          "parlamentar_id": "D9CF2A62-6109-4D68-9452-B54D6B4E786F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STELEA Niculina",
+          "parlamentar_id": "5AA76A32-F2F8-42C0-A868-C5AFA29FC744",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VEŞTEA Mihail",
+          "parlamentar_id": "70753DDE-D7A5-47B2-859D-EEE551CE150F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ZAMFIR Daniel-Cătălin",
+          "parlamentar_id": "94BB9130-2698-4509-9BEA-FFCEDF3DAC7F",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 17
+    },
+    {
+      "comisie_id": "38806053-9772-4798-9C4D-A7508D4358CA",
+      "nume": "Comisia pentru politică externă",
+      "membri": [
+        {
+          "nume": "CORLĂŢEAN Titus",
+          "parlamentar_id": "7AEBFFAD-47E6-4C7E-BDFB-34360E888703",
+          "rol": "Membru"
+        },
+        {
+          "nume": "LAVRIC Sorin",
+          "parlamentar_id": "781AF753-0E1A-4820-9926-7191E4EB16DF",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "SAVA Clement",
+          "parlamentar_id": "988C7A7C-2A4E-476D-BCC0-BCC1D6E5B97B",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BOCHILEANU George-Cătălin",
+          "parlamentar_id": "BFF3C30A-425F-4B6D-8D4F-1285C1BDE059",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CAZANCIUC Robert-Marius",
+          "parlamentar_id": "33C6752D-C2B6-42AF-A6B4-233B9F6E9994",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CÎMPEANU Sorin-Mihai",
+          "parlamentar_id": "E358037E-262E-4BC0-B1D8-30016595005F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DÎRLĂU Andrei-Emil",
+          "parlamentar_id": "A98C83AA-D99D-464B-A5A1-44566F751A51",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DOGARIU Eugen",
+          "parlamentar_id": "094EF6D8-2E32-4CBD-81FF-46B54EC604F1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DUMITRESCU Cristina-Gabriella",
+          "parlamentar_id": "55C19F8C-80F4-4BD1-B112-E363C2B283F1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULESCU-ŢÂGÂRLAŞ Cristian-Augustin",
+          "parlamentar_id": "8E9B590E-EB5B-49A9-A908-8CBE4E43B9FC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NOVAK Levente",
+          "parlamentar_id": "2BAEEBA9-A861-4355-9C8E-8CEBEBA4F0D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ORBAN Carmen",
+          "parlamentar_id": "86155CE0-9997-464A-AD63-93236F32F972",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PREDOIU Marian-Cătălin",
+          "parlamentar_id": "979F6165-CAA2-4568-ABE4-A663A37147FD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SPĂTARU Elena-Simona",
+          "parlamentar_id": "60BCE7C1-FB2B-4F29-9C74-0B37C64A7611",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STREINU CERCEL Adrian",
+          "parlamentar_id": "075D383A-42A1-44D5-989F-CC686356D066",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "A825A62E-47E5-47D6-BCF5-A5D23E3382BF",
+      "nume": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+      "membri": [
+        {
+          "nume": "PAULIUC Nicoleta",
+          "parlamentar_id": "737C18E7-C031-4D78-8808-9588B964E893",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STROE Felix",
+          "parlamentar_id": "E945E210-E8A5-4E58-8C9F-D144F4A062B5",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "COȘA Silviu-Iulian",
+          "parlamentar_id": "C4A7837D-5479-4AAD-82BC-34C696B71339",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BLAGA Vasile",
+          "parlamentar_id": "33D88102-6E65-4934-9ECF-10102445C2C4",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BODEA Marius",
+          "parlamentar_id": "DC8F43FB-E036-477B-B895-12F56A2464C1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CATANA Claudiu-Daniel",
+          "parlamentar_id": "94AFC16B-0D0B-45BE-A844-2110C5C3BC0A",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CERVA Nadia-Cosmina",
+          "parlamentar_id": "31C2CF8C-BA75-4086-9359-6CFED5BB857D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CHELARU Mircia",
+          "parlamentar_id": "9CD64C47-2BE4-43ED-8B32-249577FE8C97",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CORLĂŢEAN Titus",
+          "parlamentar_id": "7AEBFFAD-47E6-4C7E-BDFB-34360E888703",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DUNCA Marius-Alexandru",
+          "parlamentar_id": "5582EE24-5017-4462-AD12-49D4BDE5D5BB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FLOROIU Ionel",
+          "parlamentar_id": "FCDBFB0C-93CA-4AA5-85BA-4F53B21865BD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "IACOB Constantin-Ciprian",
+          "parlamentar_id": "E4DE63CF-394D-49DA-844A-6B060A232B35",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘIPOȘ Sorin-Gheorghe",
+          "parlamentar_id": "A2987B08-F230-43F8-AB52-D9073851A524",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PARASCA Teofil",
+          "parlamentar_id": "3953018D-3E06-4028-BC4B-953FB20F88E9",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TUROS Lóránd",
+          "parlamentar_id": "3354F56C-A3E7-4CEA-9DDE-E3BD730D7B7F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VEŞTEA Mihail",
+          "parlamentar_id": "70753DDE-D7A5-47B2-859D-EEE551CE150F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VLAHU Nicolae",
+          "parlamentar_id": "F6B7345B-82CA-43BF-9B7E-EFE5C038B2A0",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 17
+    },
+    {
+      "comisie_id": "0B43E912-A027-4003-942C-073D8C82AF92",
+      "nume": "Comisia pentru afaceri europene",
+      "membri": [
+        {
+          "nume": "CUȘNIR Rodica",
+          "parlamentar_id": "DD953B01-E89C-481C-88B9-40CBD8E43FEC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FEJÉR László-Ődőn",
+          "parlamentar_id": "B443BD5D-6BA0-4192-832C-4B502D6EC1A8",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "DÎRLĂU Andrei-Emil",
+          "parlamentar_id": "A98C83AA-D99D-464B-A5A1-44566F751A51",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BLAGA Vasile",
+          "parlamentar_id": "33D88102-6E65-4934-9ECF-10102445C2C4",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "COTEȚ Mihai",
+          "parlamentar_id": "5DFB5F9B-9D25-40A4-9145-366AE2B2C04D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DOBRA Elena-Adelina",
+          "parlamentar_id": "5CB3F164-6F0C-449B-BC2E-457C5E9BF73C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FEDEROVICI Doina-Elena",
+          "parlamentar_id": "E695C911-B82F-4AF1-A537-4AE1BAA991BF",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GHINEA Cristian",
+          "parlamentar_id": "008FD8CB-C069-4F74-B02B-612D1DB6A19D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "HORGA Maria-Gabriela",
+          "parlamentar_id": "91A4D099-7162-417B-8F93-645DC31ACCF0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PETREA Dorin-Silviu",
+          "parlamentar_id": "E49EF80D-FC0B-4CA7-93EF-9ED3840E012A",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PRESURĂ Alexandra",
+          "parlamentar_id": "95133353-E40C-4398-BBAC-A6D14FCDAD54",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TĂNĂSESCU Alina-Elena",
+          "parlamentar_id": "BE0ED528-F7E8-43F5-A47E-E2F52E95A17C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘTEFĂNESCU Daniela",
+          "parlamentar_id": "BD44B5A4-E8AB-43C1-8B0E-DC539F57F668",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "3C24F5C4-46D1-4DCD-B035-49C8C90A40A3",
+      "nume": "Comisia economică, industrii, servicii, turism și antreprenoriat",
+      "membri": [
+        {
+          "nume": "VLAŞIN Sorin",
+          "parlamentar_id": "E681A8AD-B809-40AE-9075-F0879F10A986",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CATANA Claudiu-Daniel",
+          "parlamentar_id": "94AFC16B-0D0B-45BE-A844-2110C5C3BC0A",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "SILEGEANU Cătălin",
+          "parlamentar_id": "C7757F24-2D04-42A2-833E-C0A9A821AD71",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ALEXANDRU Victoria-Violeta",
+          "parlamentar_id": "4D812C2C-FA19-4834-B1F1-08FEDC72161D",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "ANTAL István-Loránt",
+          "parlamentar_id": "DE52F6DF-260B-4042-9A60-095A0DBFE661",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DARĂU Ambrozie-Irineu",
+          "parlamentar_id": "37B6DE1D-2D61-4475-BB9B-443D4AD9D181",
+          "rol": "Membru"
+        },
+        {
+          "nume": "HORGA Maria-Gabriela",
+          "parlamentar_id": "91A4D099-7162-417B-8F93-645DC31ACCF0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MIHAI Daniela",
+          "parlamentar_id": "F640457C-0362-4C02-96D1-7C38B9957BDD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NEGRU Corneliu",
+          "parlamentar_id": "C6BE0951-8179-4AB1-8166-8CAC4C1BF4D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "OPREA Ştefan-Radu",
+          "parlamentar_id": "BB84802B-1DFF-4568-B5E7-91F5647073C5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PETRE George-Cezar",
+          "parlamentar_id": "14E542F2-EE04-444E-B539-9E85135DA202",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUSU Ioan-Cristian",
+          "parlamentar_id": "D9CF2A62-6109-4D68-9452-B54D6B4E786F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUSU Petrică Lucian",
+          "parlamentar_id": "3F7D19D2-B8D0-4309-894C-B71561F01985",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘTEFĂNACHE Gheorghe",
+          "parlamentar_id": "9A773414-4C8D-41AF-BD97-D9834EB23395",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ZAMFIR Daniel-Cătălin",
+          "parlamentar_id": "94BB9130-2698-4509-9BEA-FFCEDF3DAC7F",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "FEE2C024-FA84-489F-BB69-E3B434E0D5FD",
+      "nume": "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+      "membri": [
+        {
+          "nume": "CERNIC Sebastian",
+          "parlamentar_id": "CE14B3E6-9E25-4840-A0B0-23F33C6DB73C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RĂCUCI Claudiu-Vasile",
+          "parlamentar_id": "082C21CD-DCDB-42BB-9BFD-A871139CB9C5",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "NOVAK Levente",
+          "parlamentar_id": "2BAEEBA9-A861-4355-9C8E-8CEBEBA4F0D4",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BODEA Marius",
+          "parlamentar_id": "DC8F43FB-E036-477B-B895-12F56A2464C1",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BORȚUN Ștefan",
+          "parlamentar_id": "29201640-DE4E-47FF-89B2-18126D2790AE",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CARP Ionel",
+          "parlamentar_id": "65699EFD-F7E5-4128-B80F-1EF173563D66",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CONSTANTINESCU Rodica",
+          "parlamentar_id": "FA667A85-17D1-4CB5-A5DB-322D48FCD38D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MARIAN Călin-Petru",
+          "parlamentar_id": "509068B6-ECF9-4365-A022-74B77483CE14",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MIHAI Daniela",
+          "parlamentar_id": "F640457C-0362-4C02-96D1-7C38B9957BDD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MOISE Sorin",
+          "parlamentar_id": "AD29025B-ADCF-4C9D-8F02-851AB171FF91",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂDURARU Răducu-Adrian",
+          "parlamentar_id": "57A5F4D6-EC10-4020-8424-958ED09FBF37",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂSCULESCU Veta",
+          "parlamentar_id": "B236FA71-A4FE-4EE8-B18E-BED743DF11D5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SPAU Dumitru",
+          "parlamentar_id": "F34848D5-327A-4E34-80DD-C28EB44C8D98",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STĂNESCU Paul",
+          "parlamentar_id": "CD69820B-804D-42BF-BE94-C567A0EFD41B",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘTEFĂNESCU Daniela",
+          "parlamentar_id": "BD44B5A4-E8AB-43C1-8B0E-DC539F57F668",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "842E844E-F500-4AFD-ADB1-602F37A0266D",
+      "nume": "Comisia pentru ape, păduri, pescuit și fond cinegetic",
+      "membri": [
+        {
+          "nume": "POTECĂ Vasilică",
+          "parlamentar_id": "A5A25B95-3452-4D9D-983B-A1C7A033CFCD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FLUTUR Gheorghe",
+          "parlamentar_id": "58DD0F59-A7E9-44F4-9860-5316735921E1",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "MOISE Sorin",
+          "parlamentar_id": "AD29025B-ADCF-4C9D-8F02-851AB171FF91",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BEM Cristian",
+          "parlamentar_id": "00AEE4D2-EA00-4484-9A67-0C2F8A0459F8",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BICĂ Andra",
+          "parlamentar_id": "B9C904E7-969F-4126-B0E1-0EBD3A003CC5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CARP Ionel",
+          "parlamentar_id": "65699EFD-F7E5-4128-B80F-1EF173563D66",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CERNIC Sebastian",
+          "parlamentar_id": "CE14B3E6-9E25-4840-A0B0-23F33C6DB73C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "KOVÁCS Maté",
+          "parlamentar_id": "3B1C3E18-CC5D-46D4-8BE7-70CA0566D41F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MARIAN Călin-Petru",
+          "parlamentar_id": "509068B6-ECF9-4365-A022-74B77483CE14",
+          "rol": "Membru"
+        },
+        {
+          "nume": "OPRINOIU Aurel",
+          "parlamentar_id": "5954CCC9-0AF9-409F-9B30-91C8B292D60D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SPAU Dumitru",
+          "parlamentar_id": "F34848D5-327A-4E34-80DD-C28EB44C8D98",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 11
+    },
+    {
+      "comisie_id": "C20E16F6-9734-41DA-BE13-6BEB4702BE25",
+      "nume": "Comisia pentru administraţie publică",
+      "membri": [
+        {
+          "nume": "CSÁSZÁR Károly Zsolt",
+          "parlamentar_id": "827844F4-ED1E-4293-BBE5-3DD527A0D65B",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VEŞTEA Mihail",
+          "parlamentar_id": "70753DDE-D7A5-47B2-859D-EEE551CE150F",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "FLOROIU Ionel",
+          "parlamentar_id": "FCDBFB0C-93CA-4AA5-85BA-4F53B21865BD",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BLAGA Vasile",
+          "parlamentar_id": "33D88102-6E65-4934-9ECF-10102445C2C4",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BOTA Gheorghe-Ioan",
+          "parlamentar_id": "86228CA2-986A-40BA-9ED8-1A975ED32F9C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MĂLĂIESCU Luca",
+          "parlamentar_id": "B9350519-299B-4572-8D08-7AEA22489F39",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MÎNDRU Cătălin-Emil",
+          "parlamentar_id": "B70CFD7F-7726-4531-99D0-83FF6F6F05B3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂDURARU Răducu-Adrian",
+          "parlamentar_id": "57A5F4D6-EC10-4020-8424-958ED09FBF37",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂLĂRIE Ștefan",
+          "parlamentar_id": "2A3A96E0-F5D4-4A21-8C10-9606276F5311",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PEIU Grigore-Adrian",
+          "parlamentar_id": "8C196354-6157-46A5-8B04-9D394C7B294D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "POTECĂ Vasilică",
+          "parlamentar_id": "A5A25B95-3452-4D9D-983B-A1C7A033CFCD",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PRESURĂ Alexandra",
+          "parlamentar_id": "95133353-E40C-4398-BBAC-A6D14FCDAD54",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RĂCUCI Claudiu-Vasile",
+          "parlamentar_id": "082C21CD-DCDB-42BB-9BFD-A871139CB9C5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STELEA Niculina",
+          "parlamentar_id": "5AA76A32-F2F8-42C0-A868-C5AFA29FC744",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘTEFĂNACHE Gheorghe",
+          "parlamentar_id": "9A773414-4C8D-41AF-BD97-D9834EB23395",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VASILE Marian",
+          "parlamentar_id": "0460DBEB-6CAA-41F0-AEAD-EA380A592FDE",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ZAMFIR Daniel-Cătălin",
+          "parlamentar_id": "94BB9130-2698-4509-9BEA-FFCEDF3DAC7F",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 17
+    },
+    {
+      "comisie_id": "7CAE207A-3AE5-4CF6-8568-EB3BF69A9B88",
+      "nume": "Comisia pentru muncă, familie şi protecţie socială",
+      "membri": [
+        {
+          "nume": "HUMELNICU Marius",
+          "parlamentar_id": "D172FE4E-C155-4F46-8859-6665840065A9",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂUN Ana-Cynthia-Ioana",
+          "parlamentar_id": "A5B8A0D4-4710-4730-A171-9B78349041F6",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "BARCARI Dorina",
+          "parlamentar_id": "EDF20DA3-A851-4622-B534-0B3D833A51B9",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ALEXANDRU Victoria-Violeta",
+          "parlamentar_id": "4D812C2C-FA19-4834-B1F1-08FEDC72161D",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CAȘCAVAL Dan",
+          "parlamentar_id": "D7829EB2-A908-43C2-8F3F-1F1AD550B9E6",
+          "rol": "Membru"
+        },
+        {
+          "nume": "COȘA Silviu-Iulian",
+          "parlamentar_id": "C4A7837D-5479-4AAD-82BC-34C696B71339",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CUȘNIR Rodica",
+          "parlamentar_id": "DD953B01-E89C-481C-88B9-40CBD8E43FEC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DARĂU Ambrozie-Irineu",
+          "parlamentar_id": "37B6DE1D-2D61-4475-BB9B-443D4AD9D181",
+          "rol": "Membru"
+        },
+        {
+          "nume": "KONDOR Ágota",
+          "parlamentar_id": "DCB76AFD-06D2-4795-9CE4-705231994268",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MĂRGINEAN Lucian",
+          "parlamentar_id": "FEE99943-2379-4151-8E9A-7B15D1F04A4F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NEGRU Corneliu",
+          "parlamentar_id": "C6BE0951-8179-4AB1-8166-8CAC4C1BF4D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULA Mircea-Cristian",
+          "parlamentar_id": "CB2CA5B6-FFEB-4FE8-A10C-87C4D61CACB0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂSCULESCU Veta",
+          "parlamentar_id": "B236FA71-A4FE-4EE8-B18E-BED743DF11D5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SANDU Mircea-Ionuț",
+          "parlamentar_id": "74A1CA6F-7E3C-49EA-B9D7-B8DF00BF7766",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VLAŞIN Sorin",
+          "parlamentar_id": "E681A8AD-B809-40AE-9075-F0879F10A986",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "B6D9D5F8-BF64-44C3-BDBF-12FE7567BA82",
+      "nume": "Comisia pentru învățământ, știință și inovare",
+      "membri": [
+        {
+          "nume": "PĂLĂRIE Ștefan",
+          "parlamentar_id": "2A3A96E0-F5D4-4A21-8C10-9606276F5311",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CAȘCAVAL Dan",
+          "parlamentar_id": "D7829EB2-A908-43C2-8F3F-1F1AD550B9E6",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "ANISIE Monica-Cristina",
+          "parlamentar_id": "DAD3C5EE-3157-410A-85FF-094A63524104",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BICĂ Andra",
+          "parlamentar_id": "B9C904E7-969F-4126-B0E1-0EBD3A003CC5",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BOTA Gheorghe-Ioan",
+          "parlamentar_id": "86228CA2-986A-40BA-9ED8-1A975ED32F9C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CIBU DEACONU Ruxandra",
+          "parlamentar_id": "0A8B45A7-E661-4C59-9169-281F79FF12EB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CÎMPEANU Sorin-Mihai",
+          "parlamentar_id": "E358037E-262E-4BC0-B1D8-30016595005F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DOBRA Elena-Adelina",
+          "parlamentar_id": "5CB3F164-6F0C-449B-BC2E-457C5E9BF73C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "KONDOR Ágota",
+          "parlamentar_id": "DCB76AFD-06D2-4795-9CE4-705231994268",
+          "rol": "Membru"
+        },
+        {
+          "nume": "LAVRIC Sorin",
+          "parlamentar_id": "781AF753-0E1A-4820-9926-7191E4EB16DF",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MÎNDRU Cătălin-Emil",
+          "parlamentar_id": "B70CFD7F-7726-4531-99D0-83FF6F6F05B3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULA Mircea-Cristian",
+          "parlamentar_id": "CB2CA5B6-FFEB-4FE8-A10C-87C4D61CACB0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ONEA Olga",
+          "parlamentar_id": "7F782376-A244-4258-B5A5-911192E5566D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ORBAN Carmen",
+          "parlamentar_id": "86155CE0-9997-464A-AD63-93236F32F972",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂUCEAN-FERNANDES Luminița",
+          "parlamentar_id": "2B2EA3F2-756E-46D5-ACFE-9A41350B7F34",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PUIU Ovidiu",
+          "parlamentar_id": "C4AF4B08-CCB8-4323-8FB2-A7272AFF2123",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VLĂESCU Virgiliu-George",
+          "parlamentar_id": "AEC2401E-7BFD-4C9F-9F67-F418BCDC5BE5",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 17
+    },
+    {
+      "comisie_id": "7F7C09A7-7AE7-4E99-9018-A9C5774EF858",
+      "nume": "Comisia pentru sănătate",
+      "membri": [
+        {
+          "nume": "STREINU CERCEL Adrian",
+          "parlamentar_id": "075D383A-42A1-44D5-989F-CC686356D066",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VÂNTU Cristian",
+          "parlamentar_id": "27B719E9-FA14-4F74-A01C-EB955CE9F0EC",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "CIBU DEACONU Ruxandra",
+          "parlamentar_id": "0A8B45A7-E661-4C59-9169-281F79FF12EB",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BOLOJAN Ilie",
+          "parlamentar_id": "813D6A81-CEA1-4AC6-9717-143A859D4BDE",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CHERTIF Costache",
+          "parlamentar_id": "9D98D226-76AA-4DEC-9D8D-24A83D344DFB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GEAMĂNU Ștefan",
+          "parlamentar_id": "0A82391D-2ECD-4B88-AC27-57B69D159720",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GRAUR Cătălin",
+          "parlamentar_id": "A8FF8991-97DD-4A5B-92A9-63C61A612F75",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MĂRGINEAN Lucian",
+          "parlamentar_id": "FEE99943-2379-4151-8E9A-7B15D1F04A4F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MOHAN Aurel-George",
+          "parlamentar_id": "0692F467-F93F-4A21-A06A-8431696053A8",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ONEA Olga",
+          "parlamentar_id": "7F782376-A244-4258-B5A5-911192E5566D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ORBAN Carmen",
+          "parlamentar_id": "86155CE0-9997-464A-AD63-93236F32F972",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂUCEAN-FERNANDES Luminița",
+          "parlamentar_id": "2B2EA3F2-756E-46D5-ACFE-9A41350B7F34",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PAULIUC Nicoleta",
+          "parlamentar_id": "737C18E7-C031-4D78-8808-9588B964E893",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SAVA Clement",
+          "parlamentar_id": "988C7A7C-2A4E-476D-BCC0-BCC1D6E5B97B",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TUROS Lóránd",
+          "parlamentar_id": "3354F56C-A3E7-4CEA-9DDE-E3BD730D7B7F",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "BF3D1AC6-E2D1-4C07-BD5E-B2191548714B",
+      "nume": "Comisia pentru cultură şi media",
+      "membri": [
+        {
+          "nume": "BOTA Gheorghe-Ioan",
+          "parlamentar_id": "86228CA2-986A-40BA-9ED8-1A975ED32F9C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "KONDOR Ágota",
+          "parlamentar_id": "DCB76AFD-06D2-4795-9CE4-705231994268",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "BUZATU Oana-Constantina",
+          "parlamentar_id": "6A194230-E597-4335-8CE2-1DA0B0AAE9C4",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ANISIE Monica-Cristina",
+          "parlamentar_id": "DAD3C5EE-3157-410A-85FF-094A63524104",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CARP Ionel",
+          "parlamentar_id": "65699EFD-F7E5-4128-B80F-1EF173563D66",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DUMITRESCU Cristina-Gabriella",
+          "parlamentar_id": "55C19F8C-80F4-4BD1-B112-E363C2B283F1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "LAVRIC Sorin",
+          "parlamentar_id": "781AF753-0E1A-4820-9926-7191E4EB16DF",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NEGOI Eugen-Remus",
+          "parlamentar_id": "18F2771E-382A-4809-B1AB-8C8750FC5BF8",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULESCU-ŢÂGÂRLAŞ Cristian-Augustin",
+          "parlamentar_id": "8E9B590E-EB5B-49A9-A908-8CBE4E43B9FC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PUIU Ovidiu",
+          "parlamentar_id": "C4AF4B08-CCB8-4323-8FB2-A7272AFF2123",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ROMAN Marius-Valentin",
+          "parlamentar_id": "3090F662-69B9-4088-94EA-AD1847401B50",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SAVA Clement",
+          "parlamentar_id": "988C7A7C-2A4E-476D-BCC0-BCC1D6E5B97B",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VÂNTU Cristian",
+          "parlamentar_id": "27B719E9-FA14-4F74-A01C-EB955CE9F0EC",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "0F905A32-3397-4E52-B3E1-9BA3319CFCC3",
+      "nume": "Comisia pentru transporturi şi infrastructură",
+      "membri": [
+        {
+          "nume": "CAZANCIUC Robert-Marius",
+          "parlamentar_id": "33C6752D-C2B6-42AF-A6B4-233B9F6E9994",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUSU Petrică Lucian",
+          "parlamentar_id": "3F7D19D2-B8D0-4309-894C-B71561F01985",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "BODEA Marius",
+          "parlamentar_id": "DC8F43FB-E036-477B-B895-12F56A2464C1",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "DUNCA Marius-Alexandru",
+          "parlamentar_id": "5582EE24-5017-4462-AD12-49D4BDE5D5BB",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "FEJÉR László-Ődőn",
+          "parlamentar_id": "B443BD5D-6BA0-4192-832C-4B502D6EC1A8",
+          "rol": "Membru"
+        },
+        {
+          "nume": "HUMELNICU Marius",
+          "parlamentar_id": "D172FE4E-C155-4F46-8859-6665840065A9",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MAZILU Liviu-Lucian",
+          "parlamentar_id": "3ABF38C7-FFFE-4F34-B90A-77B5C3219DA5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MIRCESCU Ion-Narcis",
+          "parlamentar_id": "7A6EC680-9075-4FFF-97D2-7D556F4D57BC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PEIA Ninel",
+          "parlamentar_id": "007FDD23-B531-407E-A067-9C3796420C8C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PEIU Petrișor-Gabriel",
+          "parlamentar_id": "05495ACE-0730-44D7-B735-9D97285DCCF0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PETRE George-Cezar",
+          "parlamentar_id": "14E542F2-EE04-444E-B539-9E85135DA202",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SILEGEANU Cătălin",
+          "parlamentar_id": "C7757F24-2D04-42A2-833E-C0A9A821AD71",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VEŞTEA Mihail",
+          "parlamentar_id": "70753DDE-D7A5-47B2-859D-EEE551CE150F",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "FCE2AEA4-104C-4495-A3C1-41A9BD7E5F37",
+      "nume": "Comisia pentru energie, infrastructură energetică și resurse minerale",
+      "membri": [
+        {
+          "nume": "ANTAL István-Loránt",
+          "parlamentar_id": "DE52F6DF-260B-4042-9A60-095A0DBFE661",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RESMERIŢĂ Cornel-Cristian",
+          "parlamentar_id": "E7647515-E32C-4E2D-96FF-AB83E8A93512",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "JITARU Ovidiu",
+          "parlamentar_id": "7193AAFE-9862-45BF-B876-6F90DFA96616",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ABRUDEAN Mircea",
+          "parlamentar_id": "7FF0CD22-7BBB-4CA8-ADA1-0473697459BD",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "GHINEA Cristian",
+          "parlamentar_id": "008FD8CB-C069-4F74-B02B-612D1DB6A19D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘIPOȘ Eugen-Cristian",
+          "parlamentar_id": "AA6BA21B-D06F-4F62-8659-D4E74ADD85CB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘIPOȘ Sorin-Gheorghe",
+          "parlamentar_id": "A2987B08-F230-43F8-AB52-D9073851A524",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MAZILU Liviu-Lucian",
+          "parlamentar_id": "3ABF38C7-FFFE-4F34-B90A-77B5C3219DA5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PEIA Ninel",
+          "parlamentar_id": "007FDD23-B531-407E-A067-9C3796420C8C",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PEIU Petrișor-Gabriel",
+          "parlamentar_id": "05495ACE-0730-44D7-B735-9D97285DCCF0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUSU Petrică Lucian",
+          "parlamentar_id": "3F7D19D2-B8D0-4309-894C-B71561F01985",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STELEA Niculina",
+          "parlamentar_id": "5AA76A32-F2F8-42C0-A868-C5AFA29FC744",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VLAŞIN Sorin",
+          "parlamentar_id": "E681A8AD-B809-40AE-9075-F0879F10A986",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "EF36E8B3-2FB2-43E8-BD6D-1AD040DB24B3",
+      "nume": "Comisia pentru comunicații, tehnologia informației și inteligență artificială",
+      "membri": [
+        {
+          "nume": "RUS Vasile-Ciprian",
+          "parlamentar_id": "E5DA6DE6-88CD-468A-B161-B32CAAC784F3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VASILE Marian",
+          "parlamentar_id": "0460DBEB-6CAA-41F0-AEAD-EA380A592FDE",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "PEIU Grigore-Adrian",
+          "parlamentar_id": "8C196354-6157-46A5-8B04-9D394C7B294D",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ANGHEL Razvan-Paul",
+          "parlamentar_id": "E4673FD9-34FD-4B0D-8019-092771F2537E",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BUZATU Oana-Constantina",
+          "parlamentar_id": "6A194230-E597-4335-8CE2-1DA0B0AAE9C4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CSÁSZÁR Károly Zsolt",
+          "parlamentar_id": "827844F4-ED1E-4293-BBE5-3DD527A0D65B",
+          "rol": "Membru"
+        },
+        {
+          "nume": "HUMELNICU Marius",
+          "parlamentar_id": "D172FE4E-C155-4F46-8859-6665840065A9",
+          "rol": "Membru"
+        },
+        {
+          "nume": "JITARU Ovidiu",
+          "parlamentar_id": "7193AAFE-9862-45BF-B876-6F90DFA96616",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NEGOI Eugen-Remus",
+          "parlamentar_id": "18F2771E-382A-4809-B1AB-8C8750FC5BF8",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NICULA Mircea-Cristian",
+          "parlamentar_id": "CB2CA5B6-FFEB-4FE8-A10C-87C4D61CACB0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PETRE George-Cezar",
+          "parlamentar_id": "14E542F2-EE04-444E-B539-9E85135DA202",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SILEGEANU Cătălin",
+          "parlamentar_id": "C7757F24-2D04-42A2-833E-C0A9A821AD71",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VARGA Glad-Aurel",
+          "parlamentar_id": "DAC88F11-D51D-43E7-B5C0-E5692E92C4E1",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "1D044A32-1BAD-4ADF-925E-0ABAB63AF58A",
+      "nume": "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+      "membri": [
+        {
+          "nume": "CHELARU Mircia",
+          "parlamentar_id": "9CD64C47-2BE4-43ED-8B32-249577FE8C97",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CARP Ionel",
+          "parlamentar_id": "65699EFD-F7E5-4128-B80F-1EF173563D66",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "TASNADI Istvan-Szilard",
+          "parlamentar_id": "D7E43180-8A7D-47CE-94DD-E2E6FFB390D1",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ANISIE Monica-Cristina",
+          "parlamentar_id": "DAD3C5EE-3157-410A-85FF-094A63524104",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BOCHILEANU George-Cătălin",
+          "parlamentar_id": "BFF3C30A-425F-4B6D-8D4F-1285C1BDE059",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CONSTANTINESCU Rodica",
+          "parlamentar_id": "FA667A85-17D1-4CB5-A5DB-322D48FCD38D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FODOCA Liviu-Iulian",
+          "parlamentar_id": "4ECEF3DD-1F70-4433-82BA-54975207C4A1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GRAUR Cătălin",
+          "parlamentar_id": "A8FF8991-97DD-4A5B-92A9-63C61A612F75",
+          "rol": "Membru"
+        },
+        {
+          "nume": "KOVÁCS Maté",
+          "parlamentar_id": "3B1C3E18-CC5D-46D4-8BE7-70CA0566D41F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MĂLĂIESCU Luca",
+          "parlamentar_id": "B9350519-299B-4572-8D08-7AEA22489F39",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MĂRGINEAN Lucian",
+          "parlamentar_id": "FEE99943-2379-4151-8E9A-7B15D1F04A4F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ONEA Olga",
+          "parlamentar_id": "7F782376-A244-4258-B5A5-911192E5566D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PINTEA Paul-Ciprian",
+          "parlamentar_id": "6491A652-0D83-455C-B9A9-A04C0F5194C0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STOICA Ciprian-Titi",
+          "parlamentar_id": "1969FBC4-5C74-4B09-AFD6-CB64347549DE",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VELA Gheorghe",
+          "parlamentar_id": "F1658CFA-9AEA-415D-8EF2-EC0E6E4046FC",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 15
+    },
+    {
+      "comisie_id": "A3BA8A6B-8B59-47B1-8932-0D30B5F7ADD1",
+      "nume": "Comisia pentru românii de pretutindeni",
+      "membri": [
+        {
+          "nume": "DUMITRESCU Cristina-Gabriella",
+          "parlamentar_id": "55C19F8C-80F4-4BD1-B112-E363C2B283F1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RUSU Ioan-Cristian",
+          "parlamentar_id": "D9CF2A62-6109-4D68-9452-B54D6B4E786F",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "MARIAN Călin-Petru",
+          "parlamentar_id": "509068B6-ECF9-4365-A022-74B77483CE14",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BICĂ Andra",
+          "parlamentar_id": "B9C904E7-969F-4126-B0E1-0EBD3A003CC5",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BOCHILEANU George-Cătălin",
+          "parlamentar_id": "BFF3C30A-425F-4B6D-8D4F-1285C1BDE059",
+          "rol": "Membru"
+        },
+        {
+          "nume": "COTEȚ Mihai",
+          "parlamentar_id": "5DFB5F9B-9D25-40A4-9145-366AE2B2C04D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GEAMĂNU Ștefan",
+          "parlamentar_id": "0A82391D-2ECD-4B88-AC27-57B69D159720",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GHEORGHE Daniel-Paul-Romeo",
+          "parlamentar_id": "D2F51E91-D18A-431C-BC9D-6061101CE1D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "NOVAK Levente",
+          "parlamentar_id": "2BAEEBA9-A861-4355-9C8E-8CEBEBA4F0D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PLĂEȘU Laurențiu",
+          "parlamentar_id": "4EA5E2F9-CD07-4EB4-912E-A1181CC460B1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SANDU Mircea-Ionuț",
+          "parlamentar_id": "74A1CA6F-7E3C-49EA-B9D7-B8DF00BF7766",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STAN Ioan",
+          "parlamentar_id": "259A81F5-9971-4B56-B1B5-C4230980BCD3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘTEFĂNACHE Gheorghe",
+          "parlamentar_id": "9A773414-4C8D-41AF-BD97-D9834EB23395",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "3BB3386F-054F-4CC4-8374-0B5C3B9A3E12",
+      "nume": "Comisia pentru mediu",
+      "membri": [
+        {
+          "nume": "VARGA Glad-Aurel",
+          "parlamentar_id": "DAC88F11-D51D-43E7-B5C0-E5692E92C4E1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "OPRINOIU Aurel",
+          "parlamentar_id": "5954CCC9-0AF9-409F-9B30-91C8B292D60D",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "MĂLĂIESCU Luca",
+          "parlamentar_id": "B9350519-299B-4572-8D08-7AEA22489F39",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BUZATU Oana-Constantina",
+          "parlamentar_id": "6A194230-E597-4335-8CE2-1DA0B0AAE9C4",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CHERTIF Costache",
+          "parlamentar_id": "9D98D226-76AA-4DEC-9D8D-24A83D344DFB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DOGARIU Eugen",
+          "parlamentar_id": "094EF6D8-2E32-4CBD-81FF-46B54EC604F1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FLUTUR Gheorghe",
+          "parlamentar_id": "58DD0F59-A7E9-44F4-9860-5316735921E1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GHEORGHE Daniel-Paul-Romeo",
+          "parlamentar_id": "D2F51E91-D18A-431C-BC9D-6061101CE1D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PARASCA Teofil",
+          "parlamentar_id": "3953018D-3E06-4028-BC4B-953FB20F88E9",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂUN Ana-Cynthia-Ioana",
+          "parlamentar_id": "A5B8A0D4-4710-4730-A171-9B78349041F6",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PUIU Ovidiu",
+          "parlamentar_id": "C4AF4B08-CCB8-4323-8FB2-A7272AFF2123",
+          "rol": "Membru"
+        },
+        {
+          "nume": "SANDU Mircea-Ionuț",
+          "parlamentar_id": "74A1CA6F-7E3C-49EA-B9D7-B8DF00BF7766",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TÁNCZOS Barna",
+          "parlamentar_id": "AD82D70D-0286-45A0-A3CC-E1DF3FA38144",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    },
+    {
+      "comisie_id": "F8EC429D-75F4-4B5B-A199-1EAA5EEACE09",
+      "nume": "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții",
+      "membri": [
+        {
+          "nume": "VLAHU Nicolae",
+          "parlamentar_id": "F6B7345B-82CA-43BF-9B7E-EFE5C038B2A0",
+          "rol": "Membru"
+        },
+        {
+          "nume": "BEM Cristian",
+          "parlamentar_id": "00AEE4D2-EA00-4484-9A67-0C2F8A0459F8",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "STOICA Ciprian-Titi",
+          "parlamentar_id": "1969FBC4-5C74-4B09-AFD6-CB64347549DE",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "ALDEA Valentina-Mariana",
+          "parlamentar_id": "AAA971E5-5110-4C5F-98F5-07C6EE365A1E",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "BORȚUN Ștefan",
+          "parlamentar_id": "29201640-DE4E-47FF-89B2-18126D2790AE",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CIUPERCEANU Ionuț-Ciprian",
+          "parlamentar_id": "801216B9-B47E-419B-BD9F-2DA44629E975",
+          "rol": "Membru"
+        },
+        {
+          "nume": "COȘA Silviu-Iulian",
+          "parlamentar_id": "C4A7837D-5479-4AAD-82BC-34C696B71339",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CSEKE Attila-Zoltan",
+          "parlamentar_id": "2AF30F2A-5AD3-45DB-A322-4073884FED8F",
+          "rol": "Membru"
+        },
+        {
+          "nume": "FENECHIU Cătălin-Daniel",
+          "parlamentar_id": "87C4A776-8E64-4E70-A862-4F087AEA03E5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GHEORGHE Daniel-Paul-Romeo",
+          "parlamentar_id": "D2F51E91-D18A-431C-BC9D-6061101CE1D4",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GHIȚĂ Robert-Daniel",
+          "parlamentar_id": "AC8C9401-1A0D-478B-B367-62212ECAB1C5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "GRAUR Cătălin",
+          "parlamentar_id": "A8FF8991-97DD-4A5B-92A9-63C61A612F75",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MANEA Dumitru",
+          "parlamentar_id": "E23F34EE-F4F8-4E72-8302-7453373E0CEC",
+          "rol": "Membru"
+        },
+        {
+          "nume": "OPRINOIU Aurel",
+          "parlamentar_id": "5954CCC9-0AF9-409F-9B30-91C8B292D60D",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PĂSCULESCU Veta",
+          "parlamentar_id": "B236FA71-A4FE-4EE8-B18E-BED743DF11D5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "RESMERIŢĂ Cornel-Cristian",
+          "parlamentar_id": "E7647515-E32C-4E2D-96FF-AB83E8A93512",
+          "rol": "Membru"
+        },
+        {
+          "nume": "STAN Ioan",
+          "parlamentar_id": "259A81F5-9971-4B56-B1B5-C4230980BCD3",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 17
+    },
+    {
+      "comisie_id": "807773C0-C6EB-401F-B87E-42C34B9213FB",
+      "nume": "Comisia pentru regulament",
+      "membri": [
+        {
+          "nume": "MOHAN Aurel-George",
+          "parlamentar_id": "0692F467-F93F-4A21-A06A-8431696053A8",
+          "rol": "Membru"
+        },
+        {
+          "nume": "IACOB Constantin-Ciprian",
+          "parlamentar_id": "E4DE63CF-394D-49DA-844A-6B060A232B35",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "ȘIPOȘ Sorin-Gheorghe",
+          "parlamentar_id": "A2987B08-F230-43F8-AB52-D9073851A524",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "CUȘNIR Rodica",
+          "parlamentar_id": "DD953B01-E89C-481C-88B9-40CBD8E43FEC",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "FENECHIU Cătălin-Daniel",
+          "parlamentar_id": "87C4A776-8E64-4E70-A862-4F087AEA03E5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "KOVÁCS Maté",
+          "parlamentar_id": "3B1C3E18-CC5D-46D4-8BE7-70CA0566D41F",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 6
+    },
+    {
+      "comisie_id": "2BD4BD40-5994-40A8-81B7-FCEF2DF3ACFC",
+      "nume": "Comisia pentru tineret și sport",
+      "membri": [
+        {
+          "nume": "VLĂESCU Virgiliu-George",
+          "parlamentar_id": "AEC2401E-7BFD-4C9F-9F67-F418BCDC5BE5",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ȘIPOȘ Eugen-Cristian",
+          "parlamentar_id": "AA6BA21B-D06F-4F62-8659-D4E74ADD85CB",
+          "rol": "Preşedinte"
+        },
+        {
+          "nume": "CIUPERCEANU Ionuț-Ciprian",
+          "parlamentar_id": "801216B9-B47E-419B-BD9F-2DA44629E975",
+          "rol": "Vicepreşedinte"
+        },
+        {
+          "nume": "BEM Cristian",
+          "parlamentar_id": "00AEE4D2-EA00-4484-9A67-0C2F8A0459F8",
+          "rol": "Secretar"
+        },
+        {
+          "nume": "CATANA Claudiu-Daniel",
+          "parlamentar_id": "94AFC16B-0D0B-45BE-A844-2110C5C3BC0A",
+          "rol": "Membru"
+        },
+        {
+          "nume": "CIBU DEACONU Ruxandra",
+          "parlamentar_id": "0A8B45A7-E661-4C59-9169-281F79FF12EB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "DUNCA Marius-Alexandru",
+          "parlamentar_id": "5582EE24-5017-4462-AD12-49D4BDE5D5BB",
+          "rol": "Membru"
+        },
+        {
+          "nume": "MÎNDRU Cătălin-Emil",
+          "parlamentar_id": "B70CFD7F-7726-4531-99D0-83FF6F6F05B3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "PETREA Dorin-Silviu",
+          "parlamentar_id": "E49EF80D-FC0B-4CA7-93EF-9ED3840E012A",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ROBE Liviu Sorin",
+          "parlamentar_id": "6E681419-5F69-41CD-85CA-ACEF5EED2A63",
+          "rol": "Membru"
+        },
+        {
+          "nume": "ROMAN Marius-Valentin",
+          "parlamentar_id": "3090F662-69B9-4088-94EA-AD1847401B50",
+          "rol": "Membru"
+        },
+        {
+          "nume": "TASNADI Istvan-Szilard",
+          "parlamentar_id": "D7E43180-8A7D-47CE-94DD-E2E6FFB390D1",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VARGA Glad-Aurel",
+          "parlamentar_id": "DAC88F11-D51D-43E7-B5C0-E5692E92C4E1",
+          "rol": "Membru"
+        }
+      ],
+      "n_membri": 13
+    }
+  ]
+}

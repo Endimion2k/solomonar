@@ -66,5 +66,10 @@
   },
   "legislatie": {
     "acte_esantion": 41
+  },
+  "comisii_senat": {
+    "comisii": 23,
+    "locuri": 322,
+    "senatori": 131
   }
 }
