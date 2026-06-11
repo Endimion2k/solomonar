@@ -311,7 +311,9 @@
       "conturi_ron": 0,
       "venituri_ron": 253767,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHEORGHE",
+      "nume_norm": "GHEORGHE"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -11089,7 +11091,9 @@
       "conturi_ron": 0,
       "venituri_ron": 486690,
       "datorii_ron": 602875,
-      "auto": 4
+      "auto": 4,
+      "nume": "DAMIAN",
+      "nume_norm": "DAMIAN"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -17873,7 +17877,9 @@
       "conturi_ron": 0,
       "venituri_ron": 187293,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CURCA",
+      "nume_norm": "CURCA"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -19600,7 +19606,9 @@
       "conturi_ron": 0,
       "venituri_ron": 187293,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CURCA",
+      "nume_norm": "CURCA"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -19676,7 +19684,9 @@
       "conturi_ron": 10310,
       "venituri_ron": 766954,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CAJAL",
+      "nume_norm": "CAJAL"
     },
     {
       "institutie": "Ministerul Culturii",
@@ -19687,7 +19697,9 @@
       "conturi_ron": 0,
       "venituri_ron": 275981,
       "datorii_ron": 27490,
-      "auto": 6
+      "auto": 6,
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "Ministerul Culturii",
@@ -19698,7 +19710,9 @@
       "conturi_ron": 0,
       "venituri_ron": 275981,
       "datorii_ron": 27490,
-      "auto": 6
+      "auto": 6,
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -37034,7 +37048,9 @@
       "conturi_ron": 0,
       "venituri_ron": 77179,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MUNTEANURAZVAN",
+      "nume_norm": "MUNTEANURAZVAN"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",

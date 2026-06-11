@@ -328,7 +328,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "BSLA",
+      "nume_norm": "BSLA"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -1331,7 +1333,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Psd - consilier"
-      ]
+      ],
+      "nume": "CHIROIU",
+      "nume_norm": "CHIROIU"
     },
     {
       "institutie": "ECO - SAL SA",
@@ -1988,7 +1992,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 32000,
-      "entitati": []
+      "entitati": [],
+      "nume": "DRAGOMIR",
+      "nume_norm": "DRAGOMIR"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -2137,7 +2143,9 @@
         "1.1 SC GUGULANIA LAND SRL",
         "1.1 SC Selvinder Jobs SRL",
         "1.2 SC SEBEȘEL MONSSEL SRL"
-      ]
+      ],
+      "nume": "SELNER",
+      "nume_norm": "SELNER"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -2243,7 +2251,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber al Lucratorilor din Electricitate Electrica Galati - presed"
-      ]
+      ],
+      "nume": "DUMINICA",
+      "nume_norm": "DUMINICA"
     },
     {
       "institutie": "CALORGAL S.R.L.",
@@ -2309,7 +2319,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber al Lucratorilor din Electricitate Electrica Galati - presed"
-      ]
+      ],
+      "nume": "DUMINICA",
+      "nume_norm": "DUMINICA"
     },
     {
       "institutie": "CALORGAL S.R.L.",
@@ -4028,7 +4040,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Medotech SRL"
-      ]
+      ],
+      "nume": "GALATANU",
+      "nume_norm": "GALATANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4043,7 +4057,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Augustinian ESC SRL"
-      ]
+      ],
+      "nume": "SCHIOPU",
+      "nume_norm": "SCHIOPU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4058,7 +4074,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Iasi ****"
-      ]
+      ],
+      "nume": "SCHIOPU",
+      "nume_norm": "SCHIOPU"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -4108,7 +4126,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Iasi ****"
-      ]
+      ],
+      "nume": "SCHIOPU",
+      "nume_norm": "SCHIOPU"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -4178,7 +4198,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 ASOCIATIA CARS SALUBRIS"
-      ]
+      ],
+      "nume": "ADAM",
+      "nume_norm": "ADAM"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -4210,7 +4232,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Medotech SRL"
-      ]
+      ],
+      "nume": "GALATANU",
+      "nume_norm": "GALATANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4225,7 +4249,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Medotech SRL"
-      ]
+      ],
+      "nume": "GALATANU",
+      "nume_norm": "GALATANU"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -4253,7 +4279,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CIULEI",
+      "nume_norm": "CIULEI"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -4303,7 +4331,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL SALUBRIS IASI SINDSAL - Membru Comitet Director"
-      ]
+      ],
+      "nume": "BOTAN",
+      "nume_norm": "BOTAN"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4318,7 +4348,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL SALUBRIS IASI SINDSAL - Membru Comitet Director"
-      ]
+      ],
+      "nume": "BOTAN",
+      "nume_norm": "BOTAN"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4333,7 +4365,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Iasi"
-      ]
+      ],
+      "nume": "CRENGUTA",
+      "nume_norm": "CRENGUTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4348,7 +4382,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Iasi"
-      ]
+      ],
+      "nume": "CRENGUTA",
+      "nume_norm": "CRENGUTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4361,7 +4397,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "BETY",
+      "nume_norm": "BETY"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4376,7 +4414,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL SALUBRIS IASI SINDSAL - Membru Comitet Director"
-      ]
+      ],
+      "nume": "BOTAN",
+      "nume_norm": "BOTAN"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4391,7 +4431,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SALUBRIS IASI SINDSAL - membru"
-      ]
+      ],
+      "nume": "PLESCA",
+      "nume_norm": "PLESCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4406,7 +4448,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SALUBRIS IASI SINDSAL - membru"
-      ]
+      ],
+      "nume": "PLESCA",
+      "nume_norm": "PLESCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4421,7 +4465,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SALUBRIS IASI SINDSAL - membru"
-      ]
+      ],
+      "nume": "PLESCA",
+      "nume_norm": "PLESCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4436,7 +4482,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.2 SOCIETATE AMBER SRL - Iasi"
-      ]
+      ],
+      "nume": "ANUSCA",
+      "nume_norm": "ANUSCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4468,7 +4516,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.2 SOCIETATE AMBER SRL - Iasi"
-      ]
+      ],
+      "nume": "ANUSCA",
+      "nume_norm": "ANUSCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4483,7 +4533,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SALUBRIS IASI SINDSAL - Vicepresedinte"
-      ]
+      ],
+      "nume": "FILIMON",
+      "nume_norm": "FILIMON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4499,7 +4551,9 @@
       "entitati": [
         "1.1 SC ROYAL KARL SUPER",
         "CLEANING SRL - Iasi Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "DERLA",
+      "nume_norm": "DERLA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4514,7 +4568,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 DUMAVI SRL FARA"
-      ]
+      ],
+      "nume": "PIPIRIG",
+      "nume_norm": "PIPIRIG"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4529,7 +4585,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SALUBRIS IASI SINDSAL - Vicepresedinte"
-      ]
+      ],
+      "nume": "FILIMON",
+      "nume_norm": "FILIMON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4544,7 +4602,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SALUBRIS IASI SINDSAL - Vicepresedinte"
-      ]
+      ],
+      "nume": "FILIMON",
+      "nume_norm": "FILIMON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4557,7 +4617,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "PIPIRIG",
+      "nume_norm": "PIPIRIG"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4573,7 +4635,9 @@
       "entitati": [
         "1.1 SC ROYAL KARL SUPER",
         "CLEANING SRL - Valea Lupului Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "DERLA",
+      "nume_norm": "DERLA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4588,7 +4652,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 DUMAVIS SRL FARA"
-      ]
+      ],
+      "nume": "PIPIRIG",
+      "nume_norm": "PIPIRIG"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4655,7 +4721,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL LIBER MINPREST - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "DIGULESCU",
+      "nume_norm": "DIGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4687,7 +4755,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC MINPREST SERV S.A."
-      ]
+      ],
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4736,7 +4806,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC MINPREST SERV S.A."
-      ]
+      ],
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4787,7 +4859,9 @@
       "entitati": [
         "1.1 SC MINPREST SERV SA - Membru membru in Consiliul de",
         "3.2 Sindicatul Mine Energie Oltenia - membru"
-      ]
+      ],
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4887,7 +4961,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC MINPREST SERV S.A."
-      ]
+      ],
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4902,7 +4978,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC MINPREST SERV S.A."
-      ]
+      ],
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -4918,7 +4996,9 @@
       "entitati": [
         "1.1 SC MINPREST SERV SA - Membru membru in Consiliul de",
         "3.2 Sindicatul Mine Energie Oltenia - membru"
-      ]
+      ],
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5000,7 +5080,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Minprest serv sa - Targu Jiu"
-      ]
+      ],
+      "nume": "BALTA",
+      "nume_norm": "BALTA"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5032,7 +5114,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 PEXIDAMALPIN SRL"
-      ]
+      ],
+      "nume": "POPESCU",
+      "nume_norm": "POPESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5262,7 +5346,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Minprest Serv SA - Rovinari"
-      ]
+      ],
+      "nume": "STAVAROIU",
+      "nume_norm": "STAVAROIU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5330,7 +5416,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC MINPREST SERV S.A."
-      ]
+      ],
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5876,7 +5964,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CHIUTA",
+      "nume_norm": "CHIUTA"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5985,7 +6075,9 @@
         "1.1 SC AGROMEC",
         "4.1 PSD PRIBOIENI - VICEPRESEDINTE",
         "TOPOLOVENI SA - Topoloveni Acţionar 8415 Acţiuni 841.50 RON"
-      ]
+      ],
+      "nume": "CLOSCAN",
+      "nume_norm": "CLOSCAN"
     },
     {
       "institutie": "ROMFILATELIA SA",
@@ -6052,7 +6144,9 @@
         "1.1 SC AGROMEC",
         "4.1 PSD PRIBOIENI - VICEPRESEDINTE",
         "TOPOLOVENI SA - Topoloveni Acţionar 8415 Acţiuni 841.50 RON"
-      ]
+      ],
+      "nume": "CLOSCAN",
+      "nume_norm": "CLOSCAN"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -6065,7 +6159,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CHIUTA",
+      "nume_norm": "CHIUTA"
     },
     {
       "institutie": "SCĂRIŞOARA PRICONSERV SRL",
@@ -6199,7 +6295,9 @@
       "entitati": [
         "1.1 Asociația pentru Promovarea",
         "1.2 Romfilatelia SA - Sectorul 5"
-      ]
+      ],
+      "nume": "BALACEANU",
+      "nume_norm": "BALACEANU"
     },
     {
       "institutie": "SCĂRIŞOARA PRICONSERV SRL",
@@ -6246,7 +6344,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC SALUBRITAS SA - Piatra"
-      ]
+      ],
+      "nume": "TAPALAGA",
+      "nume_norm": "TAPALAGA"
     },
     {
       "institutie": "SCĂRIŞOARA PRICONSERV SRL",
@@ -8622,7 +8722,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "OANCEA",
+      "nume_norm": "OANCEA"
     },
     {
       "institutie": "IOR SA",
@@ -8680,7 +8782,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "OANCEA",
+      "nume_norm": "OANCEA"
     },
     {
       "institutie": "IOR SA",
@@ -8708,7 +8812,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "OANCEA",
+      "nume_norm": "OANCEA"
     },
     {
       "institutie": "IOR SA",
@@ -8787,7 +8893,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 S. Uzina Mecanică Plopeni S.A."
-      ]
+      ],
+      "nume": "ADAM",
+      "nume_norm": "ADAM"
     },
     {
       "institutie": "IOR SA",
@@ -8802,7 +8910,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC LIDO BUCURESTI - **********"
-      ]
+      ],
+      "nume": "BUGA",
+      "nume_norm": "BUGA"
     },
     {
       "institutie": "IOR SA",
@@ -8834,7 +8944,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SUPERCON ARH SRL"
-      ]
+      ],
+      "nume": "CRETOIU",
+      "nume_norm": "CRETOIU"
     },
     {
       "institutie": "IOR SA",
@@ -8866,7 +8978,9 @@
       "entitati": [
         "1.1 SC BAITA SA - Bihor",
         "1.1 SUPERCON ARH SRL"
-      ]
+      ],
+      "nume": "CRETOIU",
+      "nume_norm": "CRETOIU"
     },
     {
       "institutie": "IOR SA",
@@ -8884,7 +8998,9 @@
         "1.1 SC ELECT MATICA SRL - Bistrita",
         "1.2 RAPID SA - Bistrita-Nasaud",
         "3.1 Asociatia Prefectilor si Subprefectilor din Romania - Membru"
-      ]
+      ],
+      "nume": "CIUI",
+      "nume_norm": "CIUI"
     },
     {
       "institutie": "IOR SA",
@@ -8900,7 +9016,9 @@
       "entitati": [
         "1.1 IOR SA - **********",
         "3.1 sindicat - membru"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "IOR SA",
@@ -8996,7 +9114,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 CRISLUM INTERNATIONAL SRL - ********** Bucuresti 50 Părţi"
-      ]
+      ],
+      "nume": "CURUIA",
+      "nume_norm": "CURUIA"
     },
     {
       "institutie": "IOR SA",
@@ -9009,7 +9129,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 2121,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "DANEASA",
+      "nume_norm": "DANEASA"
     },
     {
       "institutie": "IOR SA",
@@ -9043,7 +9165,9 @@
         "1.3 CN ROMARM SA - Sectorul 6 Membru Consiliu de",
         "SA - Sectorul 1 Bucuresti Str. 1 RON",
         "SRL - Sectorul 1 Bucuresti CALEA Asociat 670 Părţi sociale 670 RON"
-      ]
+      ],
+      "nume": "RADU",
+      "nume_norm": "RADU"
     },
     {
       "institutie": "IOR SA",
@@ -9059,7 +9183,9 @@
       "entitati": [
         "1.1 Societatea IOR SA - Sectorul 3 Membru Membru in consiliul de",
         "4.1 Comisia De Etica Integritate si Arbitraj PSD Buzau - Presedinte"
-      ]
+      ],
+      "nume": "AMARICAI",
+      "nume_norm": "AMARICAI"
     },
     {
       "institutie": "IOR SA",
@@ -9112,7 +9238,9 @@
         "1.3 PIROCHIM VICTORIA SA",
         "SA - Sectorul 1 Bucuresti Str. 1 RON",
         "SRL - Sectorul 1 Bucuresti CALEA Asociat 670 Părţi sociale 670 RON"
-      ]
+      ],
+      "nume": "RADU",
+      "nume_norm": "RADU"
     },
     {
       "institutie": "IOR SA",
@@ -9208,7 +9336,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Independent IOR - Membru"
-      ]
+      ],
+      "nume": "FLORICA",
+      "nume_norm": "FLORICA"
     },
     {
       "institutie": "IOR SA",
@@ -9277,7 +9407,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 S IOR - LIDER SINDICAT"
-      ]
+      ],
+      "nume": "JALBA",
+      "nume_norm": "JALBA"
     },
     {
       "institutie": "IOR SA",
@@ -9294,7 +9426,9 @@
         "1.1 IOR SA - ********** Altele Membru in Consiliul de",
         "1.1 SMART STORAGE SRL - ********** Bucuresti 50",
         "4.1 PARTIDUL SOCIAL DEMOCRAT SECT1 - SECRETAR GENERAL INTERIMAR"
-      ]
+      ],
+      "nume": "IAMANDI",
+      "nume_norm": "IAMANDI"
     },
     {
       "institutie": "IOR SA",
@@ -9344,7 +9478,9 @@
         "1.2 ASOCIATIA MUNICIPALA DE",
         "1.3 ASOCIATIA INSTITUTUL",
         "1.4 FUNDATIA COLEGIULUI"
-      ]
+      ],
+      "nume": "MANAFU",
+      "nume_norm": "MANAFU"
     },
     {
       "institutie": "IOR SA",
@@ -9401,7 +9537,9 @@
       "entitati": [
         "1.1 ECV Alliance SRL",
         "1.1 SC IOR SA - **********"
-      ]
+      ],
+      "nume": "PETRASCU",
+      "nume_norm": "PETRASCU"
     },
     {
       "institutie": "IOR SA",
@@ -9438,7 +9576,9 @@
       "entitati": [
         "1.1 ECV Alliance SRL",
         "1.1 SC IOR SA - **********"
-      ]
+      ],
+      "nume": "PETRASCU",
+      "nume_norm": "PETRASCU"
     },
     {
       "institutie": "IOR SA",
@@ -9469,7 +9609,9 @@
       "entitati": [
         "3.1 ASOCIATIA TENIS GRUP RESITA - MEMBRU",
         "4.1 PSD CARAS SEVERIN - MEMBRU"
-      ]
+      ],
+      "nume": "NEDELCEA",
+      "nume_norm": "NEDELCEA"
     },
     {
       "institutie": "IOR SA",
@@ -9598,7 +9740,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - ********** Bucuresti Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "POPAZU",
+      "nume_norm": "POPAZU"
     },
     {
       "institutie": "IOR SA",
@@ -9674,7 +9818,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 IOR SA - **********"
-      ]
+      ],
+      "nume": "VENTEL",
+      "nume_norm": "VENTEL"
     },
     {
       "institutie": "IOR SA",
@@ -9776,7 +9922,9 @@
         "1.2 GAIA EXPRESS SRL - Arad",
         "1.3 ASOCIATIA BICILISTII",
         "4.1 PARTIDUL SOCIAL DEMOCRAT - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "VARSENDAN",
+      "nume_norm": "VARSENDAN"
     },
     {
       "institutie": "IOR SA",
@@ -10034,7 +10182,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Security Vol SA - Voluntari"
-      ]
+      ],
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10070,7 +10220,9 @@
         "1.2 SC Pizza 365 Concept",
         "SRL - Voluntari Ilfov Asociat 50.00 Părţi sociale 400 RON",
         "SRL - Voluntari Ilfov Str. Asociat 100.00 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10122,7 +10274,9 @@
         "1.1 SECURITY VOL SA - Voluntari Ilfov",
         "1.2 ACMVOL DESIGN SA - Voluntari",
         "1.3 FUNDATIA VOLUNTARI PENTRU"
-      ]
+      ],
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10138,7 +10292,9 @@
       "entitati": [
         "1.1 SECURITY VOL SA - Voluntari",
         "1.2 GREEN CITY VOLUNTARI SA"
-      ]
+      ],
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10153,7 +10309,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Security Vol SA - Voluntari"
-      ]
+      ],
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10207,7 +10365,9 @@
         "1.1 SECURITY VOL SA - Voluntari Ilfov",
         "1.2 ACMVOL DESIGN SA - Voluntari",
         "1.3 FUNDATIA VOLUNTARI PENTRU"
-      ]
+      ],
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10242,7 +10402,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Security Vol SA - Voluntari"
-      ]
+      ],
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10299,7 +10461,9 @@
         "1.1 SECURITY VOL SA - Voluntari Ilfov",
         "1.2 ACMVOL DESIGN SA - Voluntari",
         "1.3 FUNDATIA VOLUNTARI PENTRU"
-      ]
+      ],
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10332,7 +10496,9 @@
       "entitati": [
         "1.1 SECURITY VOL SA - Voluntari",
         "1.2 GREEN CITY VOLUNTARI SA"
-      ]
+      ],
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10351,7 +10517,9 @@
         "1.2 SC Pizza 365 Concept",
         "SRL - Voluntari Ilfov Asociat 50 Părţi sociale 400 RON",
         "SRL - Voluntari Ilfov Str. Asociat 100 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10367,7 +10535,9 @@
       "entitati": [
         "1.1 SECURITY VOL SA - Voluntari",
         "1.2 GREEN CITY VOLUNTARI SA"
-      ]
+      ],
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10472,7 +10642,9 @@
       "entitati": [
         "1.1 SECURITY VOL SA - Ilfov",
         "1.2 GREEN CITY VOLUNTARI SA - Ilfov"
-      ]
+      ],
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10521,7 +10693,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CHINTA",
+      "nume_norm": "CHINTA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -16178,7 +16352,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 USR Filiara Pecica - Preșendinte"
-      ]
+      ],
+      "nume": "CHERES",
+      "nume_norm": "CHERES"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16195,7 +16371,9 @@
         "1.1 SC BLEHUIU FOREST",
         "1.2 SC NDT SERVICII SRL",
         "SRL - Turnu Arad strada 2 Asociat 50 Părţi sociale 400 RON"
-      ]
+      ],
+      "nume": "BLEHUIU",
+      "nume_norm": "BLEHUIU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16235,7 +16413,9 @@
         "4.1 PARTIDUL NATIONAL LIBERAL FILIALA PECICA - PRESEDINTE ÎN BIROUL PERMANENT LO",
         "SRL - Pecica Arad STR. 113, NR. 37",
         "SRL PECICA - Pecica Arad STR.2 Asociat 20 Părţi sociale 300 RON"
-      ]
+      ],
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16251,7 +16431,9 @@
       "entitati": [
         "3.2 Asociatia medicilor veterinari - Membru",
         "4.1 Membru PNL Filiala Pecica - Vicepreședinte"
-      ]
+      ],
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16274,7 +16456,9 @@
         "4.1 PARTIDUL NATIONAL LIBERAL FILIALA PECICA - PRESEDINTE ÎN BIROUL PERMANENT LO",
         "SRL - Pecica Arad STR. 113, NR. 37",
         "SRL PECICA - Pecica Arad STR.2 Asociat 20 Părţi sociale 300 RON"
-      ]
+      ],
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16291,7 +16475,9 @@
         "1.2 HESTIA SEAFOOD SRL",
         "4.1 Partidul Național Liberal-filiala Pecica - Membru",
         "SRL - Turnu Arad Turnu, Asociat 20 Părţi sociale 10 RON"
-      ]
+      ],
+      "nume": "BOZOKI",
+      "nume_norm": "BOZOKI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16307,7 +16493,9 @@
       "entitati": [
         "3.2 Asociatia medicilor veterinari - Membru",
         "4.1 Membru PNL Filiala Pecica - Vicepreședinte"
-      ]
+      ],
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16330,7 +16518,9 @@
         "4.1 PARTIDUL NATIONAL LIBERAL FILIALA PECICA - PRESEDINTE ÎN BIROUL PERMANENT LO",
         "SRL - Pecica Arad STR. 113, NR. 37",
         "SRL PECICA - Pecica Arad STR.2 Asociat 20 Părţi sociale 300 RON"
-      ]
+      ],
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16346,7 +16536,9 @@
       "entitati": [
         "4.1 PARTIDUL ALIANȚA PENTRU UNIREA ROMÂNILOR - PREEȘEDINTE AUR PECICA",
         "4.2 PARTIDUL ALIANȚA PENTRU UNIREA ROMÂNILOR - MEMBRU BIROU JUDEȚEAN"
-      ]
+      ],
+      "nume": "BAGUT",
+      "nume_norm": "BAGUT"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16362,7 +16554,9 @@
       "entitati": [
         "1.2 HESTIA SEAFOOD SRL",
         "SRL - Turnu Arad Turnu, Asociat 20 Părţi sociale 10 RON"
-      ]
+      ],
+      "nume": "BOZOKI",
+      "nume_norm": "BOZOKI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16378,7 +16572,9 @@
       "entitati": [
         "3.2 Asociatia medicilor veterinari - Membru",
         "4.1 Membru PNL Filiala Pecica - Vicepreședinte"
-      ]
+      ],
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16401,7 +16597,9 @@
         "4.1 PARTIDUL NATIONAL LIBERAL FILIALA PECICA - PRESEDINTE ÎN BIROUL PERMANENT LO",
         "SRL - Pecica Arad STR. 113, NR. 37",
         "SRL PECICA - Pecica Arad STR.2 Asociat 20 Părţi sociale 300 RON"
-      ]
+      ],
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16416,7 +16614,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 USR Filiara Pecica - Preșendinte"
-      ]
+      ],
+      "nume": "CHERES",
+      "nume_norm": "CHERES"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16432,7 +16632,9 @@
       "entitati": [
         "3.2 Asociatia medicilor veterinari - Membru",
         "4.1 Membru PNL Filiala Pecica - Vicepreședinte"
-      ]
+      ],
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16447,7 +16649,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 USR FILIALA PECICA - Vicepreședinte"
-      ]
+      ],
+      "nume": "CIUMAN",
+      "nume_norm": "CIUMAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16462,7 +16666,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PNL Pecica - Membru"
-      ]
+      ],
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16475,7 +16681,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CSILLAG",
+      "nume_norm": "CSILLAG"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16490,7 +16698,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Membru PNL Filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "PUTA",
+      "nume_norm": "PUTA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16506,7 +16716,9 @@
       "entitati": [
         "3.1 Membru sindicatul Poștei Române - Membru",
         "4.1 Membru PNL Filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "DANICSKO",
+      "nume_norm": "DANICSKO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16522,7 +16734,9 @@
       "entitati": [
         "3.1 Membru sindicatul Poștei Române - Membru",
         "4.1 Membru PNL Filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "DANICSKO",
+      "nume_norm": "DANICSKO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16537,7 +16751,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Membru PNL Filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16556,7 +16772,9 @@
         "1.3 Colaro FRG SRL - Pecica",
         "4.1 Partidul Național Liberal-filiala Pecica - Membru",
         "SRL - Pecica Arad Strada Asociat 50 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "FARAGO",
+      "nume_norm": "FARAGO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16572,7 +16790,9 @@
       "entitati": [
         "3.1 Membru sindicatul Poștei Române - Membru",
         "4.1 Membru PNL Filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "DANICSKO",
+      "nume_norm": "DANICSKO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16587,7 +16807,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Membru PNL Filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16602,7 +16824,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul National Liberal Pecica - Vice-presidente"
-      ]
+      ],
+      "nume": "GOLDEA",
+      "nume_norm": "GOLDEA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16618,7 +16842,9 @@
       "entitati": [
         "1.1 CLAUDATOS SRL",
         "4.1 Partidul National Liberal - Membru"
-      ]
+      ],
+      "nume": "IUGA",
+      "nume_norm": "IUGA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16633,7 +16859,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Democratic în învățământ - Membru"
-      ]
+      ],
+      "nume": "KOCSIK",
+      "nume_norm": "KOCSIK"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16648,7 +16876,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul National Liberal Pecica - Vice-presidente"
-      ]
+      ],
+      "nume": "GOLDEA",
+      "nume_norm": "GOLDEA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16664,7 +16894,9 @@
       "entitati": [
         "1.1 CLAUDATOS SRL",
         "4.1 Partidul National Liberal - Membru"
-      ]
+      ],
+      "nume": "IUGA",
+      "nume_norm": "IUGA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16679,7 +16911,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Democratic în învățământ - Membru"
-      ]
+      ],
+      "nume": "KOCSIK",
+      "nume_norm": "KOCSIK"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16695,7 +16929,9 @@
       "entitati": [
         "1.1 SC Sergiu TS SRL",
         "4.1 Membru PNL Filiala Pecica - Trezorier"
-      ]
+      ],
+      "nume": "SELEGEAN",
+      "nume_norm": "SELEGEAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16746,7 +16982,9 @@
       "entitati": [
         "1.1 S.C. Bera Imobit SRL - Arad",
         "4.1 Partidul Social Democrat - Vice Presedinte Neretribuit"
-      ]
+      ],
+      "nume": "TOTOI",
+      "nume_norm": "TOTOI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16764,7 +17002,9 @@
         "1.1 SC SAB SRL - Pecica Arad",
         "4.1 Partidul Social Democrat - Presedinte ORG Locala Pecica Neretribuit",
         "4.2 Partidul Social Democrat - VicePresedinte PSD judet Arad Neretribuit"
-      ]
+      ],
+      "nume": "SABAU",
+      "nume_norm": "SABAU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16813,7 +17053,9 @@
       "entitati": [
         "1.1 S.C. Bera Imobit SRL - Arad",
         "4.1 Partidul Social Democrat - Vice Presedinte Neretribuit"
-      ]
+      ],
+      "nume": "TOTOI",
+      "nume_norm": "TOTOI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16846,7 +17088,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 BEX-PSD Pecica-Neremunerat - Membru"
-      ]
+      ],
+      "nume": "SFAT",
+      "nume_norm": "SFAT"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16877,7 +17121,9 @@
       "entitati": [
         "1.1 S.C. Bera Imobit SRL - Arad",
         "4.1 Partidul Social Democrat - Vice Presedinte Neretribuit"
-      ]
+      ],
+      "nume": "TOTOI",
+      "nume_norm": "TOTOI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -16895,7 +17141,9 @@
         "1.1 SC SAB SRL - Pecica Arad",
         "4.1 Partidul Social Democrat - Presedinte ORG Locala Pecica Neretribuit",
         "4.2 Partidul Social Democrat - VicePresedinte PSD judet Arad Neretribuit"
-      ]
+      ],
+      "nume": "SABAU",
+      "nume_norm": "SABAU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -17020,7 +17268,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 BEX-PSD Pecica-Neremunerat - Membru"
-      ]
+      ],
+      "nume": "SFAT",
+      "nume_norm": "SFAT"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -17036,7 +17286,9 @@
       "entitati": [
         "1.1 S.C. Danubius S.R.L.",
         "4.1 Biroul Permanent Local Partidul Național Liberal Pecica - Vicepreședinte"
-      ]
+      ],
+      "nume": "STANOIOV",
+      "nume_norm": "STANOIOV"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -17088,7 +17340,9 @@
       "entitati": [
         "1.1 SC Sergiu TS SRL",
         "4.1 Membru PNL Filiala Pecica - Trezorier"
-      ]
+      ],
+      "nume": "SELEGEAN",
+      "nume_norm": "SELEGEAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -17103,7 +17357,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Național Liberal-filiala Pecica - Vicepreședinte"
-      ]
+      ],
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -17118,7 +17374,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Național Liberal-filiala Pecica - Membru"
-      ]
+      ],
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -17133,7 +17391,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Asociatia Judeteana a Gospodarilor Maghiari din Arad - Presedinte"
-      ]
+      ],
+      "nume": "ZAGONI",
+      "nume_norm": "ZAGONI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -18270,7 +18530,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MUNTEANU",
+      "nume_norm": "MUNTEANU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -18822,7 +19084,9 @@
         "1.1 SC DOINA EMA SRL",
         "1.1 SC MIRNIDO SRL - Sannicolau",
         "4.1 PNL - CONSILIER LOCAL"
-      ]
+      ],
+      "nume": "NICA",
+      "nume_norm": "NICA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -18861,7 +19125,9 @@
         "1.2 CASA IOANA SRL - Sannicolau",
         "1.3 ASOCIATIA MEDICI SI OAMENI",
         "4.1 UNIUNEA SALVATI ROMANIA - Vicepresedinte al FILIALEI LOCALE SANNICOLAU MARE"
-      ]
+      ],
+      "nume": "MIRON",
+      "nume_norm": "MIRON"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -18876,7 +19142,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC SUMMERTIME SRL"
-      ]
+      ],
+      "nume": "ASAFTEI",
+      "nume_norm": "ASAFTEI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -18909,7 +19177,9 @@
       "entitati": [
         "1.2 SOLE-Sindicatul Oamenilor",
         "3.2 SOLE-Sindicatul Oamenilor Liberi din Educatie - membru"
-      ]
+      ],
+      "nume": "NACOV",
+      "nume_norm": "NACOV"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -18926,7 +19196,9 @@
         "1.1 sc Farca 2003 srl",
         "1.1 sc Farca 2003 srl - Sannicolau",
         "4.1 partidul umanist social liberal - membru"
-      ]
+      ],
+      "nume": "FARCA",
+      "nume_norm": "FARCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -18994,7 +19266,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC NORILLON SRL"
-      ]
+      ],
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19009,7 +19283,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC NORILLON SRL"
-      ]
+      ],
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19045,7 +19321,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 JURCA VET SRL"
-      ]
+      ],
+      "nume": "JURCA",
+      "nume_norm": "JURCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19058,7 +19336,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "DRAGOI",
+      "nume_norm": "DRAGOI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19144,7 +19424,9 @@
       "valoare_contracte_ron": 17375,
       "entitati": [
         "4.1 PARTIDUL NATIONAL LIBERAL ORGANIZATIA LOCALA SANNICOLAU-MARE - Membru"
-      ]
+      ],
+      "nume": "LUCA",
+      "nume_norm": "LUCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19199,7 +19481,9 @@
         "1.1 SC DOINA EMA SRL",
         "1.1 SC MIRNIDO SRL - Sannicolau",
         "4.1 PNL - CONSILIER LOCAL"
-      ]
+      ],
+      "nume": "NICA",
+      "nume_norm": "NICA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19241,7 +19525,9 @@
         "Sannicolau UNIUNEA",
         "TIMISOARA SRL 11.07.2024 Nedeterminata 1300 RON",
         "TOMNATIC SRL achizitie"
-      ]
+      ],
+      "nume": "LAVRENSKI",
+      "nume_norm": "LAVRENSKI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19258,7 +19544,9 @@
         "1.1 sc Farca 2003 srl",
         "1.1 sc Farca 2003 srl - Sannicolau",
         "4.1 partidul umanist social liberal - membru"
-      ]
+      ],
+      "nume": "FARCA",
+      "nume_norm": "FARCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19383,7 +19671,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PNL - CONSILIER LOCAL"
-      ]
+      ],
+      "nume": "MANOLE",
+      "nume_norm": "MANOLE"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19402,7 +19692,9 @@
         "1.2 SC TRANSDANUBIA",
         "1.3 SC SIMIGERIA LUCAS SRL",
         "SPEDITION SRL - Sannicolau Mare"
-      ]
+      ],
+      "nume": "TEREBENT",
+      "nume_norm": "TEREBENT"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19435,7 +19727,9 @@
       "entitati": [
         "1.2 SOLE-Sindicatul Oamenilor",
         "3.2 SOLE-Sindicatul Oamenilor Liberi din Educatie - membru"
-      ]
+      ],
+      "nume": "NACOV",
+      "nume_norm": "NACOV"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19512,7 +19806,9 @@
         "SRL TEORETIC",
         "Sannicolau UNIUNEA",
         "TOMNATIC SRL achizitie"
-      ]
+      ],
+      "nume": "LAVRENSKI",
+      "nume_norm": "LAVRENSKI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19527,7 +19823,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 JURCA VET SRL"
-      ]
+      ],
+      "nume": "JURCA",
+      "nume_norm": "JURCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19540,7 +19838,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 200,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "JULA",
+      "nume_norm": "JULA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19555,7 +19855,9 @@
       "valoare_contracte_ron": 17375,
       "entitati": [
         "4.1 PARTIDUL NATIONAL LIBERAL ORGANIZATIA LOCALA SANNICOLAU-MARE - Membru"
-      ]
+      ],
+      "nume": "LUCA",
+      "nume_norm": "LUCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19653,7 +19955,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC SUMMERTIME SRL"
-      ]
+      ],
+      "nume": "ASAFTEI",
+      "nume_norm": "ASAFTEI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -20855,7 +21159,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SCUT - membru"
-      ]
+      ],
+      "nume": "DRAGANESCU",
+      "nume_norm": "DRAGANESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -20870,7 +21176,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SCUT - membru sindicat"
-      ]
+      ],
+      "nume": "STROE",
+      "nume_norm": "STROE"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -20947,7 +21255,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.2 sindicat - membru"
-      ]
+      ],
+      "nume": "VINTILESCU",
+      "nume_norm": "VINTILESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21030,7 +21340,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SCUT - membru"
-      ]
+      ],
+      "nume": "DRAGANESCU",
+      "nume_norm": "DRAGANESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21058,7 +21370,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CAPATANA",
+      "nume_norm": "CAPATANA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21161,7 +21475,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SCUT - membru"
-      ]
+      ],
+      "nume": "CAPRARU",
+      "nume_norm": "CAPRARU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21176,7 +21492,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicat Scut - Membru"
-      ]
+      ],
+      "nume": "GROSOIU",
+      "nume_norm": "GROSOIU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21285,7 +21603,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "IONESCU",
+      "nume_norm": "IONESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21413,7 +21733,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Uniunea Consilierilor Juridici - membru"
-      ]
+      ],
+      "nume": "MARINOV",
+      "nume_norm": "MARINOV"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21562,7 +21884,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Parami Construct SRL - Sectorul 2"
-      ]
+      ],
+      "nume": "PETREA",
+      "nume_norm": "PETREA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21660,7 +21984,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "SMAHON",
+      "nume_norm": "SMAHON"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21673,7 +21999,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MARINESCU",
+      "nume_norm": "MARINESCU"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -21904,7 +22232,9 @@
         "3.2 Sindicatul National Forta Legii - membru",
         "b l. ****, sc. ****, et. ****, apt. ****",
         "s c. ****, et. ****, apt. ****"
-      ]
+      ],
+      "nume": "DECLARATII",
+      "nume_norm": "DECLARATII"
     },
     {
       "institutie": "DSP Olt",
@@ -21981,7 +22311,9 @@
         "3.2 SINDICATUL FUNCTIONARILOR PUBLICI - MEMBRU",
         "b l. ****, sc. ****, et. ****, apt. ****",
         "s c. ****, et. ****, apt. ****"
-      ]
+      ],
+      "nume": "DECLARATII",
+      "nume_norm": "DECLARATII"
     },
     {
       "institutie": "DSP Olt",
@@ -26108,7 +26440,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CIRCIUMARESCU",
+      "nume_norm": "CIRCIUMARESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -26168,7 +26502,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CÎRCIUMĂRESCU",
+      "nume_norm": "CIRCIUMARESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -26181,7 +26517,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CÎRCIUMĂRESCU",
+      "nume_norm": "CIRCIUMARESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -26544,7 +26882,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICAT ANCOM - MEMBRU"
-      ]
+      ],
+      "nume": "CONSTANTIN",
+      "nume_norm": "CONSTANTIN"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -33503,7 +33843,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatului Salariatilor din Autoritatea de Reglementare in Comunicatii - m"
-      ]
+      ],
+      "nume": "MARINESCU",
+      "nume_norm": "MARINESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -42194,7 +42536,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Judetean al Lucratorilor din Primarii Vrancea - membru"
-      ]
+      ],
+      "nume": "BOGEA",
+      "nume_norm": "BOGEA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42242,7 +42586,9 @@
       "entitati": [
         "1.1 ASOCIATIA CIVICA",
         "1.1 ASOCIATIA CIVICA PROTECTIA"
-      ]
+      ],
+      "nume": "CODRESCU",
+      "nume_norm": "CODRESCU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42257,7 +42603,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Uniunea Colegiilor Cosilierilor juridici din Romania Filiala Vrancea - membr"
-      ]
+      ],
+      "nume": "CAZACU",
+      "nume_norm": "CAZACU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42272,7 +42620,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Uniunea Colegiilor Cosilierilor juridici din Romania Filiala Vrancea - membr"
-      ]
+      ],
+      "nume": "CAZACU",
+      "nume_norm": "CAZACU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42287,7 +42637,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Judetean al Lucratorilor din Primarii Vrancea - membru"
-      ]
+      ],
+      "nume": "BOGEA",
+      "nume_norm": "BOGEA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42341,7 +42693,9 @@
         "3.1 Sindicatul Național Forța Legii - Membru",
         "3.2 Asociația Județeană de Handbal Vrancea - Vicepreședinte",
         "SRL - Adjud Vrancea Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "DRAGUT",
+      "nume_norm": "DRAGUT"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42356,7 +42710,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Judetean al lucratorilor din Primarii Vrancea - membru"
-      ]
+      ],
+      "nume": "DORNEANU",
+      "nume_norm": "DORNEANU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42390,7 +42746,9 @@
         "1.1 SC Alegna Level Construct",
         "3.1 Sindicatul Județean al Lucrătorilor din Primării Vrancea - Membru",
         "SRL - Adjud Vrancea Strada Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "DRAGUT",
+      "nume_norm": "DRAGUT"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42575,7 +42933,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Lucratorilor din Primarii Vrancea - membru"
-      ]
+      ],
+      "nume": "GRADINARU",
+      "nume_norm": "GRADINARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42590,7 +42950,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Forta Legii - membru"
-      ]
+      ],
+      "nume": "GHIMPU",
+      "nume_norm": "GHIMPU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42639,7 +43001,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Județean al Lucrătorilor din Primării Vrancea - membru"
-      ]
+      ],
+      "nume": "GOSPODARU",
+      "nume_norm": "GOSPODARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42655,7 +43019,9 @@
       "entitati": [
         "1.1 SC MILANADI SPEED SRL",
         "3.1 Sindicatul Judetean al Lucratorilor din Primarii Vrancea - Membru"
-      ]
+      ],
+      "nume": "GROBNICU",
+      "nume_norm": "GROBNICU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42724,7 +43090,9 @@
       "entitati": [
         "1.1 Hardsoft SRL - Vrancea",
         "3.1 Sindicatul național Forța Legii - Membru"
-      ]
+      ],
+      "nume": "LAZAR",
+      "nume_norm": "LAZAR"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42740,7 +43108,9 @@
       "entitati": [
         "1.1 Hardsoft SRL - Adjud",
         "3.1 Sindicatul Judetean al Lucratorilor din Primarii Vrancea - Membru"
-      ]
+      ],
+      "nume": "LAZAR",
+      "nume_norm": "LAZAR"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42755,7 +43125,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Județean Al Lucrătorilor Din Primării Vrancea - membru"
-      ]
+      ],
+      "nume": "MAROLA",
+      "nume_norm": "MAROLA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42771,7 +43143,9 @@
       "entitati": [
         "1.1 SC MILANADI SPEED SRL",
         "3.1 Sindicatul National Forta Legii - Membru"
-      ]
+      ],
+      "nume": "GROBNICU",
+      "nume_norm": "GROBNICU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42837,7 +43211,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Nobless Vin SRL"
-      ]
+      ],
+      "nume": "MIHAI",
+      "nume_norm": "MIHAI"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42869,7 +43245,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Administrației Publice Forța Legii - membru"
-      ]
+      ],
+      "nume": "MAROLA",
+      "nume_norm": "MAROLA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42902,7 +43280,9 @@
       "entitati": [
         "3.1 Uniunea Colegiilor Consilierilor Juridici din România filiala Vrancea - memb",
         "3.2 Asociația Părinților Școala Averescu - vicepreședinte"
-      ]
+      ],
+      "nume": "MORARU",
+      "nume_norm": "MORARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42951,7 +43331,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul lucratorilor din primarie - membru"
-      ]
+      ],
+      "nume": "ORITA",
+      "nume_norm": "ORITA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42966,7 +43348,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Național Forța Legii - Membru"
-      ]
+      ],
+      "nume": "PETREA",
+      "nume_norm": "PETREA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42981,7 +43365,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul lucratorilor din primarie - membru"
-      ]
+      ],
+      "nume": "ORITA",
+      "nume_norm": "ORITA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42996,7 +43382,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL LUCRATORILOR DIN PRIMARII VRANCEA - MEMBRU"
-      ]
+      ],
+      "nume": "PUSCASU",
+      "nume_norm": "PUSCASU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -43011,7 +43399,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Județean al Lucrătorilor din Primării Vrancea - Membru"
-      ]
+      ],
+      "nume": "PETREA",
+      "nume_norm": "PETREA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -43043,7 +43433,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL FORTA LEGII - MEMBRU"
-      ]
+      ],
+      "nume": "PUSCASU",
+      "nume_norm": "PUSCASU"
     },
     {
       "institutie": "DSVSA Satu Mare",
@@ -45492,7 +45884,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "ANGHEL",
+      "nume_norm": "ANGHEL"
     },
     {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
@@ -45637,7 +46031,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "NEDELCU",
+      "nume_norm": "NEDELCU"
     },
     {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
@@ -49721,7 +50117,9 @@
       "entitati": [
         "aulotizatiyAsociati familiale/Cabinete",
         "cconomic aleasociatilor sau fundatilor or alealtororganizatil neguveruamentale"
-      ]
+      ],
+      "nume": "PAUN",
+      "nume_norm": "PAUN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49736,7 +50134,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "altorizata/Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "RISTEA",
+      "nume_norm": "RISTEA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49752,7 +50152,9 @@
       "entitati": [
         "autorizata/Asociatii familialeCabincte",
         "neguvemeunentale/Fundati/Asociaif?"
-      ]
+      ],
+      "nume": "MARIN",
+      "nume_norm": "MARIN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49767,7 +50169,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "economic,aleasociatilorsaufundatiilor orialealtor organizatii neguvernamentale:"
-      ]
+      ],
+      "nume": "BALSEANU",
+      "nume_norm": "BALSEANU"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49782,7 +50186,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "neguivemamuiale/Fnkkiti/Asociati"
-      ]
+      ],
+      "nume": "MATEI",
+      "nume_norm": "MATEI"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49797,7 +50203,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "neguvnanenaleFundii/Asociatir"
-      ]
+      ],
+      "nume": "ADRIANA",
+      "nume_norm": "ADRIANA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49813,7 +50221,9 @@
       "entitati": [
         "TeguvemeumenaleFundati/Asociatii",
         "aitorizativAsociatifamilialeCabincte"
-      ]
+      ],
+      "nume": "BALAN",
+      "nume_norm": "BALAN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49829,7 +50239,9 @@
       "entitati": [
         "auitonizatalAsociatifamiliale Cabinete",
         "economic aleasociatiilor sau fundatilororialealtor organizati neguvernamentale:"
-      ]
+      ],
+      "nume": "SIMONA",
+      "nume_norm": "SIMONA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49846,7 +50258,9 @@
         "autonizata/Asociati familiale/Cabincte",
         "economic,ale asociatiilor sau fundatiilor orialealtor organizafii neguvernamenta",
         "neguivemamentaleFundati/Asociati"
-      ]
+      ],
+      "nume": "SOLOGAN",
+      "nume_norm": "SOLOGAN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49862,7 +50276,9 @@
       "entitati": [
         "autorizala/Asociatiifamiliale/Cabinete",
         "economic,ale asociatiilor sau fundatiilor orialealtororganizatii neguvernamental"
-      ]
+      ],
+      "nume": "PIRVA",
+      "nume_norm": "PIRVA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49879,7 +50295,9 @@
         "auilonizata Asociatifamiliale/Cabinete",
         "economic,aleasociatilor saufundatilor orialealtor organizatii neguvernamentale:",
         "intcreseconomic,prccum simembru im asociafi,fundatii saualteorganizatiineguverna"
-      ]
+      ],
+      "nume": "GHITA",
+      "nume_norm": "GHITA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49895,7 +50313,9 @@
       "entitati": [
         "3,Calitateademembruincadrulasociatilorprofesionalest/sau sindieale",
         "economie aleasociatiilor sau fundatilor orialealtororganizatii neguveruamentaler"
-      ]
+      ],
+      "nume": "TUGUI",
+      "nume_norm": "TUGUI"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49912,7 +50332,9 @@
         "3.l......Vicepresedinte in cadrul filialei judetului OltaAsociatiei Comunelordin",
         "aitcnizata/Asociatifamiliale/Cabinete",
         "neguivemamentaleFundati/Asociatir"
-      ]
+      ],
+      "nume": "PRIMAR",
+      "nume_norm": "PRIMAR"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49944,7 +50366,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "altorizativAsociatifamiliale/Cabincte"
-      ]
+      ],
+      "nume": "VICE",
+      "nume_norm": "VICE"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -49961,7 +50385,9 @@
         "3. Calitatea demembru in cadrul asociatilor profesionale si/sau sindicale",
         "autozata/AsociatifamilialeCabinete",
         "economic,aleasociatiilor saufundatilororialealtor organizafii neguvernamentale:"
-      ]
+      ],
+      "nume": "STAICU",
+      "nume_norm": "STAICU"
     },
     {
       "institutie": "ECO - SAL SA",
@@ -49994,7 +50420,9 @@
       "entitati": [
         "altoizata/Asociatifaumiliale'Cabinete",
         "cconomic,ale asociatiilorsaufundatilor orialealtor organizatii neguvernamentale:"
-      ]
+      ],
+      "nume": "ROMICA",
+      "nume_norm": "ROMICA"
     },
     {
       "institutie": "AQUATERA ADUNAŢII COPĂCENI SRL",
@@ -50011,7 +50439,9 @@
         "2.1. SC AOUATERA ADUNATI-COPACENI SRL",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociatif?"
-      ]
+      ],
+      "nume": "STAN",
+      "nume_norm": "STAN"
     },
     {
       "institutie": "AQUATERA ADUNAŢII COPĂCENI SRL",
@@ -50026,7 +50456,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "neguvemamentale/ Fundatiy Asociati?"
-      ]
+      ],
+      "nume": "STEFAN",
+      "nume_norm": "STEFAN"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -50060,7 +50492,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabimcte",
         "neguvenamentale/ Fundati/ Asociatir)"
-      ]
+      ],
+      "nume": "UNGUREANU",
+      "nume_norm": "UNGUREANU"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -50216,7 +50650,9 @@
       "entitati": [
         "Fundatii/Asociati2)",
         "autorizata/Asociatii familiale/"
-      ]
+      ],
+      "nume": "OLTEANU",
+      "nume_norm": "OLTEANU"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -50232,7 +50668,9 @@
       "entitati": [
         "! ngguvemamentale/ Fundati/ Asociati?)",
         "a!torizati/Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "PANICI",
+      "nume_norm": "PANICI"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -50248,7 +50686,9 @@
       "entitati": [
         "au tonizatal Asociati familiale/Cabinete",
         "neguv emamentele/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "SANDU",
+      "nume_norm": "SANDU"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -50267,7 +50707,9 @@
         "2.3.ASOCIATIA LIONS BASTION TIMISOARA",
         "2.4.ASOCIATIA LIKE TIMISOARA",
         "autorizata/ Asociati familiale/Cabinete"
-      ]
+      ],
+      "nume": "CHIRA",
+      "nume_norm": "CHIRA"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -85741,7 +86183,9 @@
         "3.1Sindicatul,DirectiaMunciiValcea-membru",
         "autorizataAsociatilfamilialeCabincte",
         "neguvenamentale/Fundati/Asociatir"
-      ]
+      ],
+      "nume": "PARPANDEL",
+      "nume_norm": "PARPANDEL"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -86660,7 +87104,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "auitorizata/Asociatii familiale/Cabinete"
-      ]
+      ],
+      "nume": "SOAVA",
+      "nume_norm": "SOAVA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -86870,7 +87316,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociati familiale/Cabinete"
-      ]
+      ],
+      "nume": "TOMA",
+      "nume_norm": "TOMA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -89097,7 +89545,9 @@
       "entitati": [
         "/Fundati/Asociatti2)",
         "fizicaautorizata/Asociatii"
-      ]
+      ],
+      "nume": "ANDUTA",
+      "nume_norm": "ANDUTA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -89130,7 +89580,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "atorizatal Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "ANDUTA",
+      "nume_norm": "ANDUTA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -104108,7 +104560,9 @@
       "entitati": [
         "3.1 Membru sindicat ANCOM.",
         "Fundkatil Asociati?"
-      ]
+      ],
+      "nume": "IONASCU",
+      "nume_norm": "IONASCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -116609,7 +117063,9 @@
         "3.1.SindicatulANCOM",
         "asociatiilorsaufundatilor orialealtor organizatii neguvernamentale:",
         "fizica autorizata/Asociatii"
-      ]
+      ],
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "ANCOM — Comunicații",

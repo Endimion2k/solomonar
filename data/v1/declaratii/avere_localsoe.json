@@ -183,7 +183,9 @@
       "conturi_ron": 0,
       "venituri_ron": 576190,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "FILIPESCU",
+      "nume_norm": "FILIPESCU"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -194,7 +196,9 @@
       "conturi_ron": 0,
       "venituri_ron": 239790,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "ANDRES",
+      "nume_norm": "ANDRES"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -205,7 +209,9 @@
       "conturi_ron": 0,
       "venituri_ron": 174260,
       "datorii_ron": 38000,
-      "auto": 4
+      "auto": 4,
+      "nume": "POPESCU",
+      "nume_norm": "POPESCU"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -216,7 +222,9 @@
       "conturi_ron": 0,
       "venituri_ron": 164639,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ISPAS",
+      "nume_norm": "ISPAS"
     },
     {
       "institutie": "HARVIZ SA",
@@ -240,7 +248,9 @@
       "conturi_ron": 0,
       "venituri_ron": 229547,
       "datorii_ron": 57168,
-      "auto": 6
+      "auto": 6,
+      "nume": "CHELBEA",
+      "nume_norm": "CHELBEA"
     },
     {
       "institutie": "HARVIZ SA",
@@ -303,7 +313,9 @@
       "conturi_ron": 0,
       "venituri_ron": 168027,
       "datorii_ron": 163115,
-      "auto": 5
+      "auto": 5,
+      "nume": "DOBRA",
+      "nume_norm": "DOBRA"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -314,7 +326,9 @@
       "conturi_ron": 0,
       "venituri_ron": 205946,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "STANOIU",
+      "nume_norm": "STANOIU"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -325,7 +339,9 @@
       "conturi_ron": 0,
       "venituri_ron": 266575,
       "datorii_ron": 313875,
-      "auto": 6
+      "auto": 6,
+      "nume": "IRIMIA",
+      "nume_norm": "IRIMIA"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -336,7 +352,9 @@
       "conturi_ron": 0,
       "venituri_ron": 97363,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PANDURU",
+      "nume_norm": "PANDURU"
     },
     {
       "institutie": "MARIENBURG SCUP SRL",
@@ -360,7 +378,9 @@
       "conturi_ron": 0,
       "venituri_ron": 139307,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MITIDOI",
+      "nume_norm": "MITIDOI"
     },
     {
       "institutie": "MARIENBURG SCUP SRL",
@@ -371,7 +391,9 @@
       "conturi_ron": 50175,
       "venituri_ron": 192239,
       "datorii_ron": 285580,
-      "auto": 6
+      "auto": 6,
+      "nume": "ANTOHE",
+      "nume_norm": "ANTOHE"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -382,7 +404,9 @@
       "conturi_ron": 0,
       "venituri_ron": 251921,
       "datorii_ron": 83700,
-      "auto": 5
+      "auto": 5,
+      "nume": "BASARABA",
+      "nume_norm": "BASARABA"
     },
     {
       "institutie": "HARVIZ SA",
@@ -417,7 +441,9 @@
       "conturi_ron": 50175,
       "venituri_ron": 341519,
       "datorii_ron": 303262,
-      "auto": 6
+      "auto": 6,
+      "nume": "ANTOHE",
+      "nume_norm": "ANTOHE"
     },
     {
       "institutie": "APA-CTTA SA",
@@ -1180,7 +1206,9 @@
       "conturi_ron": 0,
       "venituri_ron": 224004,
       "datorii_ron": 369810,
-      "auto": 6
+      "auto": 6,
+      "nume": "CARPUSOR",
+      "nume_norm": "CARPUSOR"
     },
     {
       "institutie": "APA FILIPEȘTII DE TÂRG S.R.L.",
@@ -1269,7 +1297,9 @@
       "conturi_ron": 0,
       "venituri_ron": 175322,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BUCIU",
+      "nume_norm": "BUCIU"
     },
     {
       "institutie": "APA SERVICE SA",
@@ -1306,7 +1336,9 @@
       "conturi_ron": 0,
       "venituri_ron": 248426,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DINU",
+      "nume_norm": "DINU"
     },
     {
       "institutie": "NOVA APASERV SA",
@@ -1341,7 +1373,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ANCASTIRBAN",
+      "nume_norm": "ANCASTIRBAN"
     },
     {
       "institutie": "COMPANIA DE APA SOMES SA",
@@ -1376,7 +1410,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "AVRAMESCU",
+      "nume_norm": "AVRAMESCU"
     },
     {
       "institutie": "COMPANIA DE APA SOMES SA",
@@ -1413,7 +1449,9 @@
       "conturi_ron": 0,
       "venituri_ron": 53006,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "CRICIOTOIU",
+      "nume_norm": "CRICIOTOIU"
     },
     {
       "institutie": "COMPANIA DE APA OLTENIA SA",
@@ -1702,7 +1740,9 @@
       "conturi_ron": 0,
       "venituri_ron": 113922,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "VARGA",
+      "nume_norm": "VARGA"
     },
     {
       "institutie": "APACOC-MISLII SRL",
@@ -1726,7 +1766,9 @@
       "conturi_ron": 69336,
       "venituri_ron": 270933,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "SASAEAC",
+      "nume_norm": "SASAEAC"
     },
     {
       "institutie": "APACOC-MISLII SRL",
@@ -1750,7 +1792,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "GOIA",
+      "nume_norm": "GOIA"
     },
     {
       "institutie": "APACOC-MISLII SRL",
@@ -2077,7 +2121,9 @@
       "conturi_ron": 0,
       "venituri_ron": 153206,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUMITRU",
+      "nume_norm": "DUMITRU"
     },
     {
       "institutie": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
@@ -2149,7 +2195,9 @@
       "conturi_ron": 0,
       "venituri_ron": 154867,
       "datorii_ron": 90000,
-      "auto": 6
+      "auto": 6,
+      "nume": "TOPALA",
+      "nume_norm": "TOPALA"
     },
     {
       "institutie": "REGIA AUTONOMĂ TEHNOLOGII PENTRU ENERGIA NUCLEARĂ - RATEN",
@@ -2744,7 +2792,9 @@
       "conturi_ron": 18460,
       "venituri_ron": 297811,
       "datorii_ron": 228271,
-      "auto": 6
+      "auto": 6,
+      "nume": "SABO",
+      "nume_norm": "SABO"
     },
     {
       "institutie": "SALINA TURDA S.A.",
@@ -2768,7 +2818,9 @@
       "conturi_ron": 0,
       "venituri_ron": 335784,
       "datorii_ron": 512071,
-      "auto": 7
+      "auto": 7,
+      "nume": "IONITA",
+      "nume_norm": "IONITA"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -2779,7 +2831,9 @@
       "conturi_ron": 0,
       "venituri_ron": 132947,
       "datorii_ron": 694615,
-      "auto": 4
+      "auto": 4,
+      "nume": "HRISTEA",
+      "nume_norm": "HRISTEA"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -2790,7 +2844,9 @@
       "conturi_ron": 0,
       "venituri_ron": 204840,
       "datorii_ron": 255211,
-      "auto": 5
+      "auto": 5,
+      "nume": "BARSAN",
+      "nume_norm": "BARSAN"
     },
     {
       "institutie": "APAVIL SA",
@@ -2801,7 +2857,9 @@
       "conturi_ron": 0,
       "venituri_ron": 247502,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -2812,7 +2870,9 @@
       "conturi_ron": 0,
       "venituri_ron": 247502,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -2823,7 +2883,9 @@
       "conturi_ron": 0,
       "venituri_ron": 202311,
       "datorii_ron": 227000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -2834,7 +2896,9 @@
       "conturi_ron": 0,
       "venituri_ron": 187174,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -2856,7 +2920,9 @@
       "conturi_ron": 0,
       "venituri_ron": 96413,
       "datorii_ron": 169436,
-      "auto": 7
+      "auto": 7,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "AQUATIM SA",
@@ -2902,7 +2968,9 @@
       "conturi_ron": 0,
       "venituri_ron": 275689,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -2948,7 +3016,9 @@
       "conturi_ron": 0,
       "venituri_ron": 258291,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "AQUATIM SA",
@@ -2983,7 +3053,9 @@
       "conturi_ron": 0,
       "venituri_ron": 212131,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -2994,7 +3066,9 @@
       "conturi_ron": 0,
       "venituri_ron": 186384,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3029,7 +3103,9 @@
       "conturi_ron": 0,
       "venituri_ron": 82466,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "HREBENCIUC",
+      "nume_norm": "HREBENCIUC"
     },
     {
       "institutie": "APAVIL SA",
@@ -3040,7 +3116,9 @@
       "conturi_ron": 0,
       "venituri_ron": 196656,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3075,7 +3153,9 @@
       "conturi_ron": 0,
       "venituri_ron": 191913,
       "datorii_ron": 50000,
-      "auto": 6
+      "auto": 6,
+      "nume": "CONSTANTINESCU",
+      "nume_norm": "CONSTANTINESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -3086,7 +3166,9 @@
       "conturi_ron": 0,
       "venituri_ron": 148553,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -3097,7 +3179,9 @@
       "conturi_ron": 0,
       "venituri_ron": 202311,
       "datorii_ron": 227000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3132,7 +3216,9 @@
       "conturi_ron": 0,
       "venituri_ron": 146701,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -3143,7 +3229,9 @@
       "conturi_ron": 0,
       "venituri_ron": 148553,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3167,7 +3255,9 @@
       "conturi_ron": 0,
       "venituri_ron": 202311,
       "datorii_ron": 227000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -3189,7 +3279,9 @@
       "conturi_ron": 0,
       "venituri_ron": 246024,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -3200,7 +3292,9 @@
       "conturi_ron": 0,
       "venituri_ron": 148553,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3279,7 +3373,9 @@
       "conturi_ron": 0,
       "venituri_ron": 247502,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3312,7 +3408,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111851,
       "datorii_ron": 169436,
-      "auto": 7
+      "auto": 7,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3800,7 +3898,9 @@
       "conturi_ron": 0,
       "venituri_ron": 121234,
       "datorii_ron": 260000,
-      "auto": 6
+      "auto": 6,
+      "nume": "ZORILA",
+      "nume_norm": "ZORILA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3888,7 +3988,9 @@
       "conturi_ron": 0,
       "venituri_ron": 143675,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -4047,7 +4149,9 @@
       "conturi_ron": 0,
       "venituri_ron": 372113,
       "datorii_ron": 321218,
-      "auto": 6
+      "auto": 6,
+      "nume": "TIUCH",
+      "nume_norm": "TIUCH"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -4188,7 +4292,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120906,
       "datorii_ron": 260000,
-      "auto": 6
+      "auto": 6,
+      "nume": "ZORILA",
+      "nume_norm": "ZORILA"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -5417,7 +5523,9 @@
       "conturi_ron": 0,
       "venituri_ron": 225108,
       "datorii_ron": 50000,
-      "auto": 8
+      "auto": 8,
+      "nume": "EPERIES",
+      "nume_norm": "EPERIES"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -5834,7 +5942,9 @@
       "conturi_ron": 80000,
       "venituri_ron": 532647,
       "datorii_ron": 99990,
-      "auto": 5
+      "auto": 5,
+      "nume": "STEFEA",
+      "nume_norm": "STEFEA"
     },
     {
       "institutie": "AQUATIM SA",
@@ -8006,7 +8116,9 @@
       "conturi_ron": 0,
       "venituri_ron": 160852,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARFON",
+      "nume_norm": "MARFON"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -10656,7 +10768,9 @@
       "conturi_ron": 0,
       "venituri_ron": 153551,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DUMITRACHE",
+      "nume_norm": "DUMITRACHE"
     },
     {
       "institutie": "COMPANIA NATIONALA PENTRU CONTROLUL CAZANELOR, INSTALATIILOR DE RIDICAT SI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
@@ -10719,7 +10833,9 @@
       "conturi_ron": 0,
       "venituri_ron": 401816,
       "datorii_ron": 100000,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBRICA",
+      "nume_norm": "DOBRICA"
     },
     {
       "institutie": "COMPANIA NATIONALA PENTRU CONTROLUL CAZANELOR, INSTALATIILOR DE RIDICAT SI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
@@ -10743,7 +10859,9 @@
       "conturi_ron": 90500,
       "venituri_ron": 249914,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DANILA",
+      "nume_norm": "DANILA"
     },
     {
       "institutie": "COMPANIA NATIONALA PENTRU CONTROLUL CAZANELOR, INSTALATIILOR DE RIDICAT SI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
@@ -11651,7 +11769,9 @@
       "conturi_ron": 0,
       "venituri_ron": 202536,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "COMPANIA NATIONALA PENTRU CONTROLUL CAZANELOR, INSTALATIILOR DE RIDICAT SI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
@@ -12981,7 +13101,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200126,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -13003,7 +13125,9 @@
       "conturi_ron": 0,
       "venituri_ron": 358934,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MANEA",
+      "nume_norm": "MANEA"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -13014,7 +13138,9 @@
       "conturi_ron": 0,
       "venituri_ron": 422162,
       "datorii_ron": 296179,
-      "auto": 5
+      "auto": 5,
+      "nume": "TIHOAN",
+      "nume_norm": "TIHOAN"
     },
     {
       "institutie": "COMPANIA NATIONALA PENTRU CONTROLUL CAZANELOR, INSTALATIILOR DE RIDICAT SI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
@@ -13077,7 +13203,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200126,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -13088,7 +13216,9 @@
       "conturi_ron": 0,
       "venituri_ron": 489816,
       "datorii_ron": 100000,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBRICA",
+      "nume_norm": "DOBRICA"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -13099,7 +13229,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200126,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -13253,7 +13385,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200294,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "RIAL SRL",
@@ -13856,7 +13990,9 @@
       "conturi_ron": 40492,
       "venituri_ron": 172520,
       "datorii_ron": 250412,
-      "auto": 5
+      "auto": 5,
+      "nume": "MANDRU",
+      "nume_norm": "MANDRU"
     },
     {
       "institutie": "AMENAJARE EDILITARA S5 S.A.",
@@ -14526,7 +14662,9 @@
       "conturi_ron": 0,
       "venituri_ron": 217799,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "HALDAN",
+      "nume_norm": "HALDAN"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -15697,7 +15835,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1344485,
       "datorii_ron": 110000,
-      "auto": 4
+      "auto": 4,
+      "nume": "URJAN",
+      "nume_norm": "URJAN"
     },
     {
       "institutie": "TERMO-SERVICE SA",
@@ -16064,7 +16204,9 @@
       "conturi_ron": 0,
       "venituri_ron": 762955,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TRANTEA",
+      "nume_norm": "TRANTEA"
     },
     {
       "institutie": "TERMO-SERVICE SA",
@@ -16101,7 +16243,9 @@
       "conturi_ron": 0,
       "venituri_ron": 529432,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TUCU",
+      "nume_norm": "TUCU"
     },
     {
       "institutie": "UNIVERS T SA",
@@ -16138,7 +16282,9 @@
       "conturi_ron": 60000,
       "venituri_ron": 7143,
       "datorii_ron": 323575,
-      "auto": 4
+      "auto": 4,
+      "nume": "FESNIC",
+      "nume_norm": "FESNIC"
     },
     {
       "institutie": "ECOPIAŢA SA",
@@ -16188,7 +16334,9 @@
       "conturi_ron": 60000,
       "venituri_ron": 176011,
       "datorii_ron": 323575,
-      "auto": 4
+      "auto": 4,
+      "nume": "FESNIC",
+      "nume_norm": "FESNIC"
     },
     {
       "institutie": "SALA POLIVALENTA S.A.",
@@ -16316,7 +16464,9 @@
       "conturi_ron": 0,
       "venituri_ron": 221000,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BODALE",
+      "nume_norm": "BODALE"
     },
     {
       "institutie": "ECOPIAŢA SA",
@@ -16353,7 +16503,9 @@
       "conturi_ron": 0,
       "venituri_ron": 241763,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BODALE",
+      "nume_norm": "BODALE"
     },
     {
       "institutie": "ECOPIAŢA SA",
@@ -16815,7 +16967,9 @@
       "conturi_ron": 0,
       "venituri_ron": 128428,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "STANICA",
+      "nume_norm": "STANICA"
     },
     {
       "institutie": "CONFORT URBAN SRL",
@@ -16863,7 +17017,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118548,
       "datorii_ron": 1000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHILENCIA",
+      "nume_norm": "GHILENCIA"
     },
     {
       "institutie": "CITADIN SA",
@@ -17079,7 +17235,9 @@
       "conturi_ron": 200,
       "venituri_ron": 131512,
       "datorii_ron": 50200,
-      "auto": 6
+      "auto": 6,
+      "nume": "ISTRATE",
+      "nume_norm": "ISTRATE"
     },
     {
       "institutie": "CITADIN SA",
@@ -17138,7 +17296,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111324,
       "datorii_ron": 187279,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHINET",
+      "nume_norm": "GHINET"
     },
     {
       "institutie": "CITADIN SA",
@@ -17171,7 +17331,9 @@
       "conturi_ron": 0,
       "venituri_ron": 108524,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "STANICA",
+      "nume_norm": "STANICA"
     },
     {
       "institutie": "TERMO CALOR CONFORT SA",
@@ -17217,7 +17379,9 @@
       "conturi_ron": 0,
       "venituri_ron": 235974,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "BARICA",
+      "nume_norm": "BARICA"
     },
     {
       "institutie": "TERMO CALOR CONFORT SA",
@@ -17313,7 +17477,9 @@
       "conturi_ron": 0,
       "venituri_ron": 252592,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "RICHITEANU",
+      "nume_norm": "RICHITEANU"
     },
     {
       "institutie": "CITADIN SA",
@@ -17335,7 +17501,9 @@
       "conturi_ron": 200,
       "venituri_ron": 131512,
       "datorii_ron": 93500,
-      "auto": 6
+      "auto": 6,
+      "nume": "ISTRATE",
+      "nume_norm": "ISTRATE"
     },
     {
       "institutie": "CITADIN SA",
@@ -17390,7 +17558,9 @@
       "conturi_ron": 0,
       "venituri_ron": 24619,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHINET",
+      "nume_norm": "GHINET"
     },
     {
       "institutie": "MIDIA GREEN ENERGY SA",
@@ -19429,7 +19599,9 @@
       "conturi_ron": 505000,
       "venituri_ron": 213240,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "GHIBANU",
+      "nume_norm": "GHIBANU"
     },
     {
       "institutie": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
@@ -19479,7 +19651,9 @@
       "conturi_ron": 0,
       "venituri_ron": 183180,
       "datorii_ron": 515758,
-      "auto": 5
+      "auto": 5,
+      "nume": "TEIGHIU",
+      "nume_norm": "TEIGHIU"
     },
     {
       "institutie": "DRUMURI ŞI PODURI SA",
@@ -19490,7 +19664,9 @@
       "conturi_ron": 0,
       "venituri_ron": 115100,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MUNTEANU",
+      "nume_norm": "MUNTEANU"
     },
     {
       "institutie": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
@@ -19551,7 +19727,9 @@
       "conturi_ron": 0,
       "venituri_ron": 191100,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "STOICA",
+      "nume_norm": "STOICA"
     },
     {
       "institutie": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
@@ -19942,7 +20120,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "CIULIFICA",
+      "nume_norm": "CIULIFICA"
     },
     {
       "institutie": "SOCIETATEA PENTRU LUCRARI DE DRUMURI SI PODURI DOLJ S.A.",
@@ -20001,7 +20181,9 @@
       "conturi_ron": 0,
       "venituri_ron": 482784,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ANDRONE",
+      "nume_norm": "ANDRONE"
     },
     {
       "institutie": "SOCIETATEA PENTRU LUCRARI DE DRUMURI SI PODURI DOLJ S.A.",
@@ -20025,7 +20207,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123269,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PETRE",
+      "nume_norm": "PETRE"
     },
     {
       "institutie": "COMPANIA NATIONALA ADMINISTRATIA PORTURILOR DUNARII FLUVIALE SA",
@@ -22726,7 +22910,9 @@
       "conturi_ron": 0,
       "venituri_ron": 227490,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "PTMN",
+      "nume_norm": "PTMN"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA PORTURILOR DUNĂRII MARITIME SA",
@@ -23907,7 +24093,9 @@
       "conturi_ron": 0,
       "venituri_ron": 250272,
       "datorii_ron": 123210,
-      "auto": 5
+      "auto": 5,
+      "nume": "DACC",
+      "nume_norm": "DACC"
     },
     {
       "institutie": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
@@ -24424,7 +24612,9 @@
       "conturi_ron": 0,
       "venituri_ron": 172683,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
@@ -24468,7 +24658,9 @@
       "conturi_ron": 0,
       "venituri_ron": 173242,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
@@ -25869,7 +26061,9 @@
       "conturi_ron": 0,
       "venituri_ron": 163142,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "VLASC",
+      "nume_norm": "VLASC"
     },
     {
       "institutie": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
@@ -25979,7 +26173,9 @@
       "conturi_ron": 0,
       "venituri_ron": 150315,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "VLASV",
+      "nume_norm": "VLASV"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26001,7 +26197,9 @@
       "conturi_ron": 0,
       "venituri_ron": 126694,
       "datorii_ron": 90000,
-      "auto": 5
+      "auto": 5,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26025,7 +26223,9 @@
       "conturi_ron": 0,
       "venituri_ron": 186204,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DOMOKOS",
+      "nume_norm": "DOMOKOS"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26062,7 +26262,9 @@
       "conturi_ron": 0,
       "venituri_ron": 378507,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PETI",
+      "nume_norm": "PETI"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26073,7 +26275,9 @@
       "conturi_ron": 0,
       "venituri_ron": 175328,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BACEANU",
+      "nume_norm": "BACEANU"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26095,7 +26299,9 @@
       "conturi_ron": 0,
       "venituri_ron": 96094,
       "datorii_ron": 391109,
-      "auto": 4
+      "auto": 4,
+      "nume": "ILIES",
+      "nume_norm": "ILIES"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26143,7 +26349,9 @@
       "conturi_ron": 0,
       "venituri_ron": 65725,
       "datorii_ron": 388491,
-      "auto": 4
+      "auto": 4,
+      "nume": "ILIES",
+      "nume_norm": "ILIES"
     },
     {
       "institutie": "MEDITUR SA",
@@ -26191,7 +26399,9 @@
       "conturi_ron": 0,
       "venituri_ron": 163002,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26213,7 +26423,9 @@
       "conturi_ron": 0,
       "venituri_ron": 94000,
       "datorii_ron": 15000,
-      "auto": 5
+      "auto": 5,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26224,7 +26436,9 @@
       "conturi_ron": 0,
       "venituri_ron": 134505,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26268,7 +26482,9 @@
       "conturi_ron": 0,
       "venituri_ron": 138512,
       "datorii_ron": 76000,
-      "auto": 6
+      "auto": 6,
+      "nume": "POTCOAVA",
+      "nume_norm": "POTCOAVA"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26312,7 +26528,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136204,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DOMOKOS",
+      "nume_norm": "DOMOKOS"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26356,7 +26574,9 @@
       "conturi_ron": 127019,
       "venituri_ron": 208826,
       "datorii_ron": 5000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CAZAN",
+      "nume_norm": "CAZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26378,7 +26598,9 @@
       "conturi_ron": 0,
       "venituri_ron": 263257,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26389,7 +26611,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200405,
       "datorii_ron": 79810,
-      "auto": 7
+      "auto": 7,
+      "nume": "PROZAN",
+      "nume_norm": "PROZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -26444,7 +26668,9 @@
       "conturi_ron": 0,
       "venituri_ron": 290854,
       "datorii_ron": 363503,
-      "auto": 5
+      "auto": 5,
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26642,7 +26868,9 @@
       "conturi_ron": 0,
       "venituri_ron": 259707,
       "datorii_ron": 44382,
-      "auto": 7
+      "auto": 7,
+      "nume": "PROZAN",
+      "nume_norm": "PROZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26688,7 +26916,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26712,7 +26942,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "POTCOAVA",
+      "nume_norm": "POTCOAVA"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26723,7 +26955,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 40000,
-      "auto": 5
+      "auto": 5,
+      "nume": "GALFI",
+      "nume_norm": "GALFI"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26734,7 +26968,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "POTCOAVA",
+      "nume_norm": "POTCOAVA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -26745,7 +26981,9 @@
       "conturi_ron": 73192,
       "venituri_ron": 56629,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -26756,7 +26994,9 @@
       "conturi_ron": 0,
       "venituri_ron": 43400,
       "datorii_ron": 111100,
-      "auto": 6
+      "auto": 6,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26988,7 +27228,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 7575000,
-      "auto": 6
+      "auto": 6,
+      "nume": "VLADIMIR",
+      "nume_norm": "VLADIMIR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -26999,7 +27241,9 @@
       "conturi_ron": 0,
       "venituri_ron": 504,
       "datorii_ron": 40000,
-      "auto": 5
+      "auto": 5,
+      "nume": "GHERENDI",
+      "nume_norm": "GHERENDI"
     },
     {
       "institutie": "AEROPORTUL INTERNATIONAL BRASOV-GHIMBAV R.A.",
@@ -27023,7 +27267,9 @@
       "conturi_ron": 0,
       "venituri_ron": 96473,
       "datorii_ron": 152200,
-      "auto": 4
+      "auto": 4,
+      "nume": "BACEANU",
+      "nume_norm": "BACEANU"
     },
     {
       "institutie": "AEROPORTUL INTERNATIONAL BRASOV-GHIMBAV R.A.",
@@ -27097,7 +27343,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "HANG",
+      "nume_norm": "HANG"
     },
     {
       "institutie": "MEDITUR SA",
@@ -28599,7 +28847,9 @@
       "conturi_ron": 0,
       "venituri_ron": 43674,
       "datorii_ron": 33438,
-      "auto": 5
+      "auto": 5,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "TRANSLOC SA",
@@ -29427,7 +29677,9 @@
       "conturi_ron": 0,
       "venituri_ron": 150613,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -29477,7 +29729,9 @@
       "conturi_ron": 572000,
       "venituri_ron": 455018,
       "datorii_ron": 233000,
-      "auto": 5
+      "auto": 5,
+      "nume": "MACOVEICIUC",
+      "nume_norm": "MACOVEICIUC"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -29514,7 +29768,9 @@
       "conturi_ron": 0,
       "venituri_ron": 85836,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BONCIU",
+      "nume_norm": "BONCIU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -29703,7 +29959,9 @@
       "conturi_ron": 0,
       "venituri_ron": 391416,
       "datorii_ron": 365620,
-      "auto": 4
+      "auto": 4,
+      "nume": "ADMINISTRATORI",
+      "nume_norm": "ADMINISTRATORI"
     },
     {
       "institutie": "UZINA MECANICA PLOPENI SA",
@@ -29868,7 +30126,9 @@
       "conturi_ron": 0,
       "venituri_ron": 70000,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DAVID",
+      "nume_norm": "DAVID"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -29918,7 +30178,9 @@
       "conturi_ron": 572200,
       "venituri_ron": 349267,
       "datorii_ron": 185000,
-      "auto": 5
+      "auto": 5,
+      "nume": "MACOVEICIUC",
+      "nume_norm": "MACOVEICIUC"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -30163,7 +30425,9 @@
       "conturi_ron": 0,
       "venituri_ron": 141108,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MUSEAT",
+      "nume_norm": "MUSEAT"
     },
     {
       "institutie": "UZINA MECANICA PLOPENI SA",
@@ -30200,7 +30464,9 @@
       "conturi_ron": 0,
       "venituri_ron": 62400,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DAVID",
+      "nume_norm": "DAVID"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30263,7 +30529,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120204,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "BRATU",
+      "nume_norm": "BRATU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -30378,7 +30646,9 @@
       "conturi_ron": 0,
       "venituri_ron": 721851,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANDREI",
+      "nume_norm": "ANDREI"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -30402,7 +30672,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120204,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "BRATU",
+      "nume_norm": "BRATU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30426,7 +30698,9 @@
       "conturi_ron": 0,
       "venituri_ron": 197424,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "POPA",
+      "nume_norm": "POPA"
     },
     {
       "institutie": "UZINA MECANICA PLOPENI SA",
@@ -30580,7 +30854,9 @@
       "conturi_ron": 0,
       "venituri_ron": 225204,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "SERBAN",
+      "nume_norm": "SERBAN"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -30591,7 +30867,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73428,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "ILINOIU",
+      "nume_norm": "ILINOIU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30641,7 +30919,9 @@
       "conturi_ron": 0,
       "venituri_ron": 88800,
       "datorii_ron": 151500,
-      "auto": 5
+      "auto": 5,
+      "nume": "PONORAN",
+      "nume_norm": "PONORAN"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30704,7 +30984,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123228,
       "datorii_ron": 310825,
-      "auto": 5
+      "auto": 5,
+      "nume": "SACHELARIU",
+      "nume_norm": "SACHELARIU"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -30715,7 +30997,9 @@
       "conturi_ron": 0,
       "venituri_ron": 138426,
       "datorii_ron": 73000,
-      "auto": 5
+      "auto": 5,
+      "nume": "UNGUREANU",
+      "nume_norm": "UNGUREANU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30752,7 +31036,9 @@
       "conturi_ron": 25250,
       "venituri_ron": 174720,
       "datorii_ron": 15000,
-      "auto": 7
+      "auto": 7,
+      "nume": "CHISALITA",
+      "nume_norm": "CHISALITA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30789,7 +31075,9 @@
       "conturi_ron": 0,
       "venituri_ron": 125823,
       "datorii_ron": 272392,
-      "auto": 4
+      "auto": 4,
+      "nume": "CLOSCA",
+      "nume_norm": "CLOSCA"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -30813,7 +31101,9 @@
       "conturi_ron": 0,
       "venituri_ron": 108236,
       "datorii_ron": 12000,
-      "auto": 7
+      "auto": 7,
+      "nume": "BALBARAU",
+      "nume_norm": "BALBARAU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30837,7 +31127,9 @@
       "conturi_ron": 0,
       "venituri_ron": 56038,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "FILIPESCU",
+      "nume_norm": "FILIPESCU"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -30848,7 +31140,9 @@
       "conturi_ron": 0,
       "venituri_ron": 233516,
       "datorii_ron": 10000,
-      "auto": 7
+      "auto": 7,
+      "nume": "CHISALITA",
+      "nume_norm": "CHISALITA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30872,7 +31166,9 @@
       "conturi_ron": 0,
       "venituri_ron": 233516,
       "datorii_ron": 10000,
-      "auto": 7
+      "auto": 7,
+      "nume": "CHISALITA",
+      "nume_norm": "CHISALITA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -30896,7 +31192,9 @@
       "conturi_ron": 0,
       "venituri_ron": 343450,
       "datorii_ron": 791245,
-      "auto": 4
+      "auto": 4,
+      "nume": "SLOATA",
+      "nume_norm": "SLOATA"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -30907,7 +31205,9 @@
       "conturi_ron": 0,
       "venituri_ron": 139638,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BRIE",
+      "nume_norm": "BRIE"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -30931,7 +31231,9 @@
       "conturi_ron": 0,
       "venituri_ron": 75004,
       "datorii_ron": 202951,
-      "auto": 5
+      "auto": 5,
+      "nume": "COTIGA",
+      "nume_norm": "COTIGA"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -30955,7 +31257,9 @@
       "conturi_ron": 364441,
       "venituri_ron": 190288,
       "datorii_ron": 462000,
-      "auto": 4
+      "auto": 4,
+      "nume": "NASTASE",
+      "nume_norm": "NASTASE"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -30979,7 +31283,9 @@
       "conturi_ron": 0,
       "venituri_ron": 441481,
       "datorii_ron": 809175,
-      "auto": 7
+      "auto": 7,
+      "nume": "MISCHIE",
+      "nume_norm": "MISCHIE"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -30990,7 +31296,9 @@
       "conturi_ron": 0,
       "venituri_ron": 147889,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BALASCUTA",
+      "nume_norm": "BALASCUTA"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31001,7 +31309,9 @@
       "conturi_ron": 0,
       "venituri_ron": 199225,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MOTORGA",
+      "nume_norm": "MOTORGA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -31077,7 +31387,9 @@
       "conturi_ron": 0,
       "venituri_ron": 50152,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "AVRAMESCU",
+      "nume_norm": "AVRAMESCU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
@@ -31127,7 +31439,9 @@
       "conturi_ron": 50000,
       "venituri_ron": 136731,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "CIRLEA",
+      "nume_norm": "CIRLEA"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
@@ -31177,7 +31491,9 @@
       "conturi_ron": 0,
       "venituri_ron": 119646,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DADALAU",
+      "nume_norm": "DADALAU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -31214,7 +31530,9 @@
       "conturi_ron": 0,
       "venituri_ron": 151375,
       "datorii_ron": 179906,
-      "auto": 5
+      "auto": 5,
+      "nume": "GRIGORE",
+      "nume_norm": "GRIGORE"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -31368,7 +31686,9 @@
       "conturi_ron": 0,
       "venituri_ron": 207569,
       "datorii_ron": 30000,
-      "auto": 7
+      "auto": 7,
+      "nume": "OCHIAN",
+      "nume_norm": "OCHIAN"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31470,7 +31790,9 @@
       "conturi_ron": 0,
       "venituri_ron": 205554,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CEPLEULILIANAA",
+      "nume_norm": "CEPLEULILIANAA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -31507,7 +31829,9 @@
       "conturi_ron": 0,
       "venituri_ron": 115967,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "METEA",
+      "nume_norm": "METEA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -31531,7 +31855,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136380,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BOERIU",
+      "nume_norm": "BOERIU"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -31542,7 +31868,9 @@
       "conturi_ron": 0,
       "venituri_ron": 97697,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BIRGHISAN",
+      "nume_norm": "BIRGHISAN"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31553,7 +31881,9 @@
       "conturi_ron": 0,
       "venituri_ron": 163342,
       "datorii_ron": 252930,
-      "auto": 6
+      "auto": 6,
+      "nume": "PAUNA",
+      "nume_norm": "PAUNA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -31577,7 +31907,9 @@
       "conturi_ron": 0,
       "venituri_ron": 82540,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BUTUNOIU",
+      "nume_norm": "BUTUNOIU"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -31614,7 +31946,9 @@
       "conturi_ron": 0,
       "venituri_ron": 68116,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GEICA",
+      "nume_norm": "GEICA"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31625,7 +31959,9 @@
       "conturi_ron": 59950,
       "venituri_ron": 157532,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TASCAU",
+      "nume_norm": "TASCAU"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -31636,7 +31972,9 @@
       "conturi_ron": 0,
       "venituri_ron": 138010,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "METEA",
+      "nume_norm": "METEA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -31673,7 +32011,9 @@
       "conturi_ron": 0,
       "venituri_ron": 156798,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BOERIU",
+      "nume_norm": "BOERIU"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -31684,7 +32024,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111875,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BUTUNOIU",
+      "nume_norm": "BUTUNOIU"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -31695,7 +32037,9 @@
       "conturi_ron": 0,
       "venituri_ron": 102117,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "STOENESCU",
+      "nume_norm": "STOENESCU"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31732,7 +32076,9 @@
       "conturi_ron": 0,
       "venituri_ron": 130132,
       "datorii_ron": 161000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BALASCUTA",
+      "nume_norm": "BALASCUTA"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -31819,7 +32165,9 @@
       "conturi_ron": 0,
       "venituri_ron": 168276,
       "datorii_ron": 74000,
-      "auto": 5
+      "auto": 5,
+      "nume": "FLOREASORINA",
+      "nume_norm": "FLOREASORINA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -31843,7 +32191,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123908,
       "datorii_ron": 40000,
-      "auto": 6
+      "auto": 6,
+      "nume": "TANU",
+      "nume_norm": "TANU"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31854,7 +32204,9 @@
       "conturi_ron": 0,
       "venituri_ron": 223287,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CAPATANA",
+      "nume_norm": "CAPATANA"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -31865,7 +32217,9 @@
       "conturi_ron": 0,
       "venituri_ron": 327429,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "RIIOSU",
+      "nume_norm": "RIIOSU"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -31915,7 +32269,9 @@
       "conturi_ron": 0,
       "venituri_ron": 382160,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "CESAPETRUA",
+      "nume_norm": "CESAPETRUA"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -32017,7 +32373,9 @@
       "conturi_ron": 0,
       "venituri_ron": 389073,
       "datorii_ron": 375500,
-      "auto": 6
+      "auto": 6,
+      "nume": "RADUALEXANDRUA",
+      "nume_norm": "RADUALEXANDRUA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -32054,7 +32412,9 @@
       "conturi_ron": 0,
       "venituri_ron": 53387,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FELICIADIMA",
+      "nume_norm": "FELICIADIMA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32271,7 +32631,9 @@
       "conturi_ron": 0,
       "venituri_ron": 404053,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "AMBROSAADRIANA",
+      "nume_norm": "AMBROSAADRIANA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32295,7 +32657,9 @@
       "conturi_ron": 0,
       "venituri_ron": 57424,
       "datorii_ron": 171700,
-      "auto": 5
+      "auto": 5,
+      "nume": "IOANALOPOTARU",
+      "nume_norm": "IOANALOPOTARU"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32319,7 +32683,9 @@
       "conturi_ron": 303000,
       "venituri_ron": 146689,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "UDREADANA",
+      "nume_norm": "UDREADANA"
     },
     {
       "institutie": "RASIROM RA",
@@ -32434,7 +32800,9 @@
       "conturi_ron": 0,
       "venituri_ron": 209364,
       "datorii_ron": 220600,
-      "auto": 5
+      "auto": 5,
+      "nume": "MIHAILIVIUA",
+      "nume_norm": "MIHAILIVIUA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32471,7 +32839,9 @@
       "conturi_ron": 48495,
       "venituri_ron": 157889,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PURICAVIORELA",
+      "nume_norm": "PURICAVIORELA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32508,7 +32878,9 @@
       "conturi_ron": 51974,
       "venituri_ron": 157889,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PURICAVIORELA",
+      "nume_norm": "PURICAVIORELA"
     },
     {
       "institutie": "RASIROM RA",
@@ -32519,7 +32891,9 @@
       "conturi_ron": 0,
       "venituri_ron": 98555,
       "datorii_ron": 118291,
-      "auto": 7
+      "auto": 7,
+      "nume": "VERONICAMIHAILESCU",
+      "nume_norm": "VERONICAMIHAILESCU"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32582,7 +32956,9 @@
       "conturi_ron": 0,
       "venituri_ron": 37640,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MOROGAN",
+      "nume_norm": "MOROGAN"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32697,7 +33073,9 @@
       "conturi_ron": 100000,
       "venituri_ron": 289635,
       "datorii_ron": 224175,
-      "auto": 5
+      "auto": 5,
+      "nume": "PIPAGEORGERADUA",
+      "nume_norm": "PIPAGEORGERADUA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32734,7 +33112,9 @@
       "conturi_ron": 0,
       "venituri_ron": 117941,
       "datorii_ron": 372444,
-      "auto": 6
+      "auto": 6,
+      "nume": "COANDACATALINA",
+      "nume_norm": "COANDACATALINA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -32771,7 +33151,9 @@
       "conturi_ron": 0,
       "venituri_ron": 77742,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GOLUMBANICOLETAA",
+      "nume_norm": "GOLUMBANICOLETAA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32795,7 +33177,9 @@
       "conturi_ron": 0,
       "venituri_ron": 182055,
       "datorii_ron": 320925,
-      "auto": 5
+      "auto": 5,
+      "nume": "DOGARUALINA",
+      "nume_norm": "DOGARUALINA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32819,7 +33203,9 @@
       "conturi_ron": 0,
       "venituri_ron": 267621,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "NICOLESCUANGELAA",
+      "nume_norm": "NICOLESCUANGELAA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32895,7 +33281,9 @@
       "conturi_ron": 0,
       "venituri_ron": 158540,
       "datorii_ron": 52000,
-      "auto": 5
+      "auto": 5,
+      "nume": "ILIEMIRABELAA",
+      "nume_norm": "ILIEMIRABELAA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32932,7 +33320,9 @@
       "conturi_ron": 0,
       "venituri_ron": 158540,
       "datorii_ron": 52000,
-      "auto": 5
+      "auto": 5,
+      "nume": "ILIEMIRABELAA",
+      "nume_norm": "ILIEMIRABELAA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -32969,7 +33359,9 @@
       "conturi_ron": 0,
       "venituri_ron": 158540,
       "datorii_ron": 52000,
-      "auto": 5
+      "auto": 5,
+      "nume": "ILIEMIRABELAA",
+      "nume_norm": "ILIEMIRABELAA"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ DE INVESTIŢII RUTIERE S.A.",
@@ -32993,7 +33385,9 @@
       "conturi_ron": 0,
       "venituri_ron": 253243,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ILIELAURENTIUANDREIA",
+      "nume_norm": "ILIELAURENTIUANDREIA"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ DE INVESTIŢII RUTIERE S.A.",
@@ -33017,7 +33411,9 @@
       "conturi_ron": 0,
       "venituri_ron": 108443,
       "datorii_ron": 141400,
-      "auto": 4
+      "auto": 4,
+      "nume": "LOGAANAA",
+      "nume_norm": "LOGAANAA"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -33093,7 +33489,9 @@
       "conturi_ron": 0,
       "venituri_ron": 43258,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "AVRAMESCU",
+      "nume_norm": "AVRAMESCU"
     },
     {
       "institutie": "Telecomunicatii C.F.R. SA",
@@ -33208,7 +33606,9 @@
       "conturi_ron": 0,
       "venituri_ron": 202247,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "ANGHEL",
+      "nume_norm": "ANGHEL"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -33895,7 +34295,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "SOARE",
+      "nume_norm": "SOARE"
     },
     {
       "institutie": "HALE SI PIETE SA",
@@ -34504,7 +34906,9 @@
       "conturi_ron": 0,
       "venituri_ron": 34256,
       "datorii_ron": 41237,
-      "auto": 6
+      "auto": 6,
+      "nume": "CARPCEA",
+      "nume_norm": "CARPCEA"
     },
     {
       "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
@@ -34762,7 +35166,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73797,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PLOSCARU",
+      "nume_norm": "PLOSCARU"
     },
     {
       "institutie": "SERVICII DE GOSPODĂRIRE URBANĂ PLOIEŞTI SRL",
@@ -35625,7 +36031,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 188842,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "PSMN",
+      "nume_norm": "PSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -35636,7 +36044,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 188842,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "PSMN",
+      "nume_norm": "PSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -35647,7 +36057,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 188842,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DTSMN",
+      "nume_norm": "DTSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -35658,7 +36070,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 188842,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DTSMN",
+      "nume_norm": "DTSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -35669,7 +36083,9 @@
       "conturi_ron": 200000,
       "venituri_ron": 188842,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DTSMN",
+      "nume_norm": "DTSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -36181,7 +36597,9 @@
       "conturi_ron": 0,
       "venituri_ron": 96856,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DECLARAŢIE",
+      "nume_norm": "DECLARATIE"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -36465,7 +36883,9 @@
       "conturi_ron": 0,
       "venituri_ron": 90418,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -37464,7 +37884,9 @@
       "conturi_ron": 0,
       "venituri_ron": 90418,
       "datorii_ron": 16183,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -37501,7 +37923,9 @@
       "conturi_ron": 0,
       "venituri_ron": 105000,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -37512,7 +37936,9 @@
       "conturi_ron": 0,
       "venituri_ron": 698715,
       "datorii_ron": 98538,
-      "auto": 5
+      "auto": 5,
+      "nume": "KARSTENSEN",
+      "nume_norm": "KARSTENSEN"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -37523,7 +37949,9 @@
       "conturi_ron": 0,
       "venituri_ron": 192399,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "VINTILESCU",
+      "nume_norm": "VINTILESCU"
     },
     {
       "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
@@ -37599,7 +38027,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120623,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -37636,7 +38066,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120623,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -37777,7 +38209,9 @@
       "conturi_ron": 40000,
       "venituri_ron": 110190,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "VINTILESCU",
+      "nume_norm": "VINTILESCU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -38694,7 +39128,9 @@
       "conturi_ron": 0,
       "venituri_ron": 206382,
       "datorii_ron": 310944,
-      "auto": 4
+      "auto": 4,
+      "nume": "BRADIN",
+      "nume_norm": "BRADIN"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -38809,7 +39245,9 @@
       "conturi_ron": 530,
       "venituri_ron": 419225,
       "datorii_ron": 113150,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -38872,7 +39310,9 @@
       "conturi_ron": 0,
       "venituri_ron": 353166,
       "datorii_ron": 99638,
-      "auto": 4
+      "auto": 4,
+      "nume": "PANAIT",
+      "nume_norm": "PANAIT"
     },
     {
       "institutie": "ALGORITHM CONSTRUCTII S3 SRL",
@@ -38935,7 +39375,9 @@
       "conturi_ron": 0,
       "venituri_ron": 327087,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "OSICEANU",
+      "nume_norm": "OSICEANU"
     },
     {
       "institutie": "ELECTROVOL SA",
@@ -38959,7 +39401,9 @@
       "conturi_ron": 749039,
       "venituri_ron": 860228,
       "datorii_ron": 0,
-      "auto": 10
+      "auto": 10,
+      "nume": "VOICU",
+      "nume_norm": "VOICU"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -39022,7 +39466,9 @@
       "conturi_ron": 30530,
       "venituri_ron": 371282,
       "datorii_ron": 123300,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -39187,7 +39633,9 @@
       "conturi_ron": 225000,
       "venituri_ron": 334151,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "ELECTROVOL SA",
@@ -39276,7 +39724,9 @@
       "conturi_ron": 225000,
       "venituri_ron": 107501,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -39440,7 +39890,9 @@
       "conturi_ron": 0,
       "venituri_ron": 166648,
       "datorii_ron": 292600,
-      "auto": 5
+      "auto": 5,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -39853,7 +40305,9 @@
       "conturi_ron": 1799377,
       "venituri_ron": 1290760,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -40183,7 +40637,9 @@
       "conturi_ron": 43344,
       "venituri_ron": 482376,
       "datorii_ron": 487890,
-      "auto": 6
+      "auto": 6,
+      "nume": "SEMPTEMBRIE",
+      "nume_norm": "SEMPTEMBRIE"
     },
     {
       "institutie": "CONPET SA",
@@ -41180,7 +41636,9 @@
       "conturi_ron": 0,
       "venituri_ron": 321357,
       "datorii_ron": 147138,
-      "auto": 7
+      "auto": 7,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -41731,7 +42189,9 @@
       "conturi_ron": 0,
       "venituri_ron": 261353,
       "datorii_ron": 400000,
-      "auto": 6
+      "auto": 6,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -42138,7 +42598,9 @@
       "conturi_ron": 0,
       "venituri_ron": 261353,
       "datorii_ron": 490378,
-      "auto": 6
+      "auto": 6,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -42294,7 +42756,9 @@
       "conturi_ron": 100000,
       "venituri_ron": 397421,
       "datorii_ron": 25200,
-      "auto": 5
+      "auto": 5,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -46567,7 +47031,9 @@
       "conturi_ron": 252500,
       "venituri_ron": 424633,
       "datorii_ron": 372438,
-      "auto": 6
+      "auto": 6,
+      "nume": "MARINESCU",
+      "nume_norm": "MARINESCU"
     },
     {
       "institutie": "SOCIETATEA COMPLEXUL ENERGETIC VALEA JIULUI S.A.",
@@ -46903,7 +47369,9 @@
       "conturi_ron": 0,
       "venituri_ron": 71052,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "VIDRIGHIN",
+      "nume_norm": "VIDRIGHIN"
     },
     {
       "institutie": "Electrificare C.F.R. SA",
@@ -47252,7 +47720,9 @@
       "conturi_ron": 0,
       "venituri_ron": 63156,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "COPARIU",
+      "nume_norm": "COPARIU"
     },
     {
       "institutie": "Electrificare C.F.R. SA",
@@ -47341,7 +47811,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GHILENCIAPDF",
+      "nume_norm": "GHILENCIAPDF"
     },
     {
       "institutie": "REGIA PUBLICĂ LOCALĂ-OCOLUL SILVIC VALEA SADULUI RA",
@@ -47794,7 +48266,9 @@
       "conturi_ron": 145899,
       "venituri_ron": 201575,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "AVERE",
+      "nume_norm": "AVERE"
     },
     {
       "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
@@ -47883,7 +48357,9 @@
       "conturi_ron": 145899,
       "venituri_ron": 201575,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "AVERE",
+      "nume_norm": "AVERE"
     },
     {
       "institutie": "SPITALUL ORĂŞENESC SRL",
@@ -48063,7 +48539,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 537280,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48074,7 +48552,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 142765,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "WELLNESS CENTER PRAID SRL",
@@ -48098,7 +48578,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "RAPEANU",
+      "nume_norm": "RAPEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48120,7 +48602,9 @@
       "conturi_ron": 0,
       "venituri_ron": 115897,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48131,7 +48615,9 @@
       "conturi_ron": 0,
       "venituri_ron": 156874,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "APAVIL SA",
@@ -48142,7 +48628,9 @@
       "conturi_ron": 30310,
       "venituri_ron": 161206,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48153,7 +48641,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48177,7 +48667,9 @@
       "conturi_ron": 0,
       "venituri_ron": 156874,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "APAVIL SA",
@@ -48188,7 +48680,9 @@
       "conturi_ron": 121500,
       "venituri_ron": 146757,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48212,7 +48706,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 207658,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "APAVIL SA",
@@ -48223,7 +48719,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 139072,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48258,7 +48756,9 @@
       "conturi_ron": 110500,
       "venituri_ron": 87220,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48282,7 +48782,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 30000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48293,7 +48795,9 @@
       "conturi_ron": 0,
       "venituri_ron": 182974,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48317,7 +48821,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "APAVIL SA",
@@ -48328,7 +48834,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48339,7 +48847,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48350,7 +48860,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 90000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48361,7 +48873,9 @@
       "conturi_ron": 0,
       "venituri_ron": 147397,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48372,7 +48886,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48383,7 +48899,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48407,7 +48925,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 90000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48418,7 +48938,9 @@
       "conturi_ron": 0,
       "venituri_ron": 159167,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48442,7 +48964,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 12201,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48453,7 +48977,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 12201,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48464,7 +48990,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 112830,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48475,7 +49003,9 @@
       "conturi_ron": 28000,
       "venituri_ron": 65500,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48486,7 +49016,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "APAVIL SA",
@@ -48508,7 +49040,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 185984,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48519,7 +49053,9 @@
       "conturi_ron": 0,
       "venituri_ron": 12201,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48530,7 +49066,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48541,7 +49079,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 22805,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48552,7 +49092,9 @@
       "conturi_ron": 52212,
       "venituri_ron": 196782,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48563,7 +49105,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48574,7 +49118,9 @@
       "conturi_ron": 0,
       "venituri_ron": 125013,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48585,7 +49131,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48596,7 +49144,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48607,7 +49157,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48618,7 +49170,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 204071,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48629,7 +49183,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48640,7 +49196,9 @@
       "conturi_ron": 46000,
       "venituri_ron": 38818,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48651,7 +49209,9 @@
       "conturi_ron": 0,
       "venituri_ron": 364021,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ANGHELINA",
+      "nume_norm": "ANGHELINA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48662,7 +49222,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48673,7 +49235,9 @@
       "conturi_ron": 0,
       "venituri_ron": 165436,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48695,7 +49259,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48706,7 +49272,9 @@
       "conturi_ron": 42356,
       "venituri_ron": 41028,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48717,7 +49285,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48728,7 +49298,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 118652,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "STANCU",
+      "nume_norm": "STANCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48739,7 +49311,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "OCOLUL SILVIC AL ORASULUI RASNOV RA",
@@ -48750,7 +49324,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DECLARATII",
+      "nume_norm": "DECLARATII"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48774,7 +49350,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48785,7 +49363,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 76609,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48796,7 +49376,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 294309,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ANGHELINA",
+      "nume_norm": "ANGHELINA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48807,7 +49389,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48818,7 +49402,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48829,7 +49415,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 67000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TRIFU",
+      "nume_norm": "TRIFU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48840,7 +49428,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48851,7 +49441,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 919209,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48901,7 +49493,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 140300,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48912,7 +49506,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48936,7 +49532,9 @@
       "conturi_ron": 81000,
       "venituri_ron": 196045,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48960,7 +49558,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 50421,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48984,7 +49584,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48995,7 +49597,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TOMCEANU",
+      "nume_norm": "TOMCEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -49006,7 +49610,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GHIOCULESCU",
+      "nume_norm": "GHIOCULESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -49028,7 +49634,9 @@
       "conturi_ron": 0,
       "venituri_ron": 204658,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -49052,7 +49660,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "ECO SA",
@@ -49076,7 +49686,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 30000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "APAVIL SA",
@@ -49087,7 +49699,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PROVIZORIU",
+      "nume_norm": "PROVIZORIU"
     },
     {
       "institutie": "APAVIL SA",
@@ -49098,7 +49712,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 137823,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "WELLNESS CENTER PRAID SRL",
@@ -49122,7 +49738,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "RAPEANU",
+      "nume_norm": "RAPEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -49133,7 +49751,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "WELLNESS CENTER PRAID SRL",
@@ -49168,7 +49788,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 193278,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "RAUREANU",
+      "nume_norm": "RAUREANU"
     },
     {
       "institutie": "RIAL SRL",
@@ -49687,7 +50309,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 146770,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "RAUREANU",
+      "nume_norm": "RAUREANU"
     },
     {
       "institutie": "RIAL SRL",
@@ -50153,7 +50777,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CHIOREAN",
+      "nume_norm": "CHIOREAN"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -50573,7 +51199,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "NECULAU",
+      "nume_norm": "NECULAU"
     },
     {
       "institutie": "CITADIN SA",
@@ -51691,7 +52319,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DOMNITEANU",
+      "nume_norm": "DOMNITEANU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -51702,7 +52332,9 @@
       "conturi_ron": 0,
       "venituri_ron": 64997,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -51752,7 +52384,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "BRAICAR SA",
@@ -51763,7 +52397,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BALABAN",
+      "nume_norm": "BALABAN"
     },
     {
       "institutie": "BRAICAR SA",
@@ -51774,7 +52410,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BERDANT",
+      "nume_norm": "BERDANT"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -51835,7 +52473,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PLASOIANU",
+      "nume_norm": "PLASOIANU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -51846,7 +52486,9 @@
       "conturi_ron": 0,
       "venituri_ron": 235593,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -51894,7 +52536,9 @@
       "conturi_ron": 0,
       "venituri_ron": 137529,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -51918,7 +52562,9 @@
       "conturi_ron": 0,
       "venituri_ron": 95560,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "ELTRANS SA",
@@ -51940,7 +52586,9 @@
       "conturi_ron": 0,
       "venituri_ron": 117711,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -51964,7 +52612,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52001,7 +52651,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "MUNTEANU",
+      "nume_norm": "MUNTEANU"
     },
     {
       "institutie": "ELTRANS SA",
@@ -52025,7 +52677,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52049,7 +52703,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "MIHAI",
+      "nume_norm": "MIHAI"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52060,7 +52716,9 @@
       "conturi_ron": 0,
       "venituri_ron": 19189,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52097,7 +52755,9 @@
       "conturi_ron": 0,
       "venituri_ron": 64997,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52121,7 +52781,9 @@
       "conturi_ron": 22000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52132,7 +52794,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52156,7 +52820,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 147855,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52206,7 +52872,9 @@
       "conturi_ron": 25694,
       "venituri_ron": 132633,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52217,7 +52885,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52254,7 +52924,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ROSCA",
+      "nume_norm": "ROSCA"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52265,7 +52937,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ROSCA",
+      "nume_norm": "ROSCA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52276,7 +52950,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 25000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52287,7 +52963,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52298,7 +52976,9 @@
       "conturi_ron": 0,
       "venituri_ron": 72128,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52348,7 +53028,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52359,7 +53041,9 @@
       "conturi_ron": 0,
       "venituri_ron": 57029,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52370,7 +53054,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "DRAGHICI",
+      "nume_norm": "DRAGHICI"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52381,7 +53067,9 @@
       "conturi_ron": 0,
       "venituri_ron": 40102,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52418,7 +53106,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52455,7 +53145,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52466,7 +53158,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "MICU",
+      "nume_norm": "MICU"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52503,7 +53197,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "MIHAI",
+      "nume_norm": "MIHAI"
     },
     {
       "institutie": "ELTRANS SA",
@@ -52527,7 +53223,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52538,7 +53236,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "MEMBRU",
+      "nume_norm": "MEMBRU"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52549,7 +53249,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ANTOHI",
+      "nume_norm": "ANTOHI"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52586,7 +53288,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "STRATULAT",
+      "nume_norm": "STRATULAT"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52623,7 +53327,9 @@
       "conturi_ron": 0,
       "venituri_ron": 116583,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52634,7 +53340,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BALABAN",
+      "nume_norm": "BALABAN"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52645,7 +53353,9 @@
       "conturi_ron": 0,
       "venituri_ron": 134884,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52669,7 +53379,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "STRATULAT",
+      "nume_norm": "STRATULAT"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52728,7 +53440,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52739,7 +53453,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BERDANT",
+      "nume_norm": "BERDANT"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52750,7 +53466,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52761,7 +53479,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52785,7 +53505,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 1
+      "auto": 1,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52831,7 +53553,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "DINU",
+      "nume_norm": "DINU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52877,7 +53601,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52888,7 +53614,9 @@
       "conturi_ron": 344666,
       "venituri_ron": 210244,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "CAZAN",
+      "nume_norm": "CAZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52923,7 +53651,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 34409,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52958,7 +53688,9 @@
       "conturi_ron": 0,
       "venituri_ron": 72128,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52969,7 +53701,9 @@
       "conturi_ron": 0,
       "venituri_ron": 31500,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "PRESEDINTE",
+      "nume_norm": "PRESEDINTE"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53006,7 +53740,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53017,7 +53753,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53041,7 +53779,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "COMAN",
+      "nume_norm": "COMAN"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53052,7 +53792,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 9198,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53089,7 +53831,9 @@
       "conturi_ron": 0,
       "venituri_ron": 129814,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53100,7 +53844,9 @@
       "conturi_ron": 13452,
       "venituri_ron": 33900,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53111,7 +53857,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "DINU",
+      "nume_norm": "DINU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53122,7 +53870,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 75000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53133,7 +53883,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 147855,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53157,7 +53909,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 175081,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53168,7 +53922,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 39500,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PRESEDINTE",
+      "nume_norm": "PRESEDINTE"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53179,7 +53935,9 @@
       "conturi_ron": 124392,
       "venituri_ron": 337273,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "PETI",
+      "nume_norm": "PETI"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53203,7 +53961,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53214,7 +53974,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "DOMNITEANU",
+      "nume_norm": "DOMNITEANU"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53238,7 +54000,9 @@
       "conturi_ron": 13452,
       "venituri_ron": 33900,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53377,7 +54141,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 265570,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PAUN",
+      "nume_norm": "PAUN"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
@@ -53544,7 +54310,9 @@
       "conturi_ron": 27548,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MARCU",
+      "nume_norm": "MARCU"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -53555,7 +54323,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "FILIPESCU",
+      "nume_norm": "FILIPESCU"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
@@ -53618,7 +54388,9 @@
       "conturi_ron": 32548,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MARCU",
+      "nume_norm": "MARCU"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
@@ -53868,7 +54640,9 @@
       "conturi_ron": 0,
       "venituri_ron": 135831,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "POPA",
+      "nume_norm": "POPA"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
@@ -54486,7 +55260,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "COMAN",
+      "nume_norm": "COMAN"
     },
     {
       "institutie": "LOCATIV SA",
@@ -54536,7 +55312,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 110040,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "GOANTA",
+      "nume_norm": "GOANTA"
     },
     {
       "institutie": "OCOLUL SILVIC MAIERU RA",
@@ -54792,7 +55570,9 @@
       "conturi_ron": 97028,
       "venituri_ron": 204223,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "SACHELARIU",
+      "nume_norm": "SACHELARIU"
     },
     {
       "institutie": "OCOLUL SILVIC MAIERU RA",
@@ -55438,7 +56218,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DUMITRIU",
+      "nume_norm": "DUMITRIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -55644,7 +56426,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 257031,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "PARASCHIV",
+      "nume_norm": "PARASCHIV"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -56240,7 +57024,9 @@
       "conturi_ron": 27100,
       "venituri_ron": 216304,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "COSTACHE",
+      "nume_norm": "COSTACHE"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -56810,7 +57596,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "POPESCU",
+      "nume_norm": "POPESCU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -57222,7 +58010,9 @@
       "conturi_ron": 161036,
       "venituri_ron": 292508,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "NECSULESCU",
+      "nume_norm": "NECSULESCU"
     },
     {
       "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
@@ -57447,7 +58237,9 @@
       "conturi_ron": 159889,
       "venituri_ron": 587654,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -57530,7 +58322,9 @@
       "conturi_ron": 154889,
       "venituri_ron": 587654,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -58281,7 +59075,9 @@
       "conturi_ron": 136154,
       "venituri_ron": 606501,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RECTIFICARE",
+      "nume_norm": "RECTIFICARE"
     },
     {
       "institutie": "CONPET SA",
@@ -58331,7 +59127,9 @@
       "conturi_ron": 141154,
       "venituri_ron": 611501,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "RECTIFICARE",
+      "nume_norm": "RECTIFICARE"
     },
     {
       "institutie": "CONPET SA",
@@ -58342,7 +59140,9 @@
       "conturi_ron": 136154,
       "venituri_ron": 611501,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RECTIFICARE",
+      "nume_norm": "RECTIFICARE"
     },
     {
       "institutie": "CONPET SA",
@@ -58499,7 +59299,9 @@
       "conturi_ron": 0,
       "venituri_ron": 587654,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",

@@ -41994,7 +41994,9 @@
       "conturi_ron": 0,
       "venituri_ron": 469714,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "Unifarm",
@@ -42005,7 +42007,9 @@
       "conturi_ron": 0,
       "venituri_ron": 469711,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "Unifarm",
@@ -42016,7 +42020,9 @@
       "conturi_ron": 0,
       "venituri_ron": 469714,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "Romaero",
@@ -42112,7 +42118,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1095612,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "Metrorex",
@@ -42169,7 +42177,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200753,
       "datorii_ron": 28843,
-      "auto": 4
+      "auto": 4,
+      "nume": "COSTEA",
+      "nume_norm": "COSTEA"
     },
     {
       "institutie": "Metrorex",
@@ -42193,7 +42203,9 @@
       "conturi_ron": 0,
       "venituri_ron": 1091612,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "Romaero",
@@ -42217,7 +42229,9 @@
       "conturi_ron": 0,
       "venituri_ron": 200753,
       "datorii_ron": 28843,
-      "auto": 4
+      "auto": 4,
+      "nume": "COSTEA",
+      "nume_norm": "COSTEA"
     },
     {
       "institutie": "Posta Romana",
@@ -42501,7 +42515,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "SERSENIUC",
+      "nume_norm": "SERSENIUC"
     },
     {
       "institutie": "Posta Romana",
@@ -42551,7 +42567,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "SPAHIU",
+      "nume_norm": "SPAHIU"
     },
     {
       "institutie": "Posta Romana",
@@ -43706,7 +43724,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 133690,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "TUDOSIE",
+      "nume_norm": "TUDOSIE"
     },
     {
       "institutie": "Posta Romana",
@@ -46285,7 +46305,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 171262,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GHEORGHE",
+      "nume_norm": "GHEORGHE"
     },
     {
       "institutie": "Romaero",
@@ -46322,7 +46344,9 @@
       "conturi_ron": 162510,
       "venituri_ron": 225802,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GHEORGHE",
+      "nume_norm": "GHEORGHE"
     },
     {
       "institutie": "Romaero",
@@ -46446,7 +46470,9 @@
       "conturi_ron": 16948,
       "venituri_ron": 316102,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "Romaero",
@@ -46816,7 +46842,9 @@
       "conturi_ron": 480957,
       "venituri_ron": 640808,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TRIFA",
+      "nume_norm": "TRIFA"
     },
     {
       "institutie": "Romaero",
@@ -47303,7 +47331,9 @@
       "conturi_ron": 0,
       "venituri_ron": 127510,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BUSCU",
+      "nume_norm": "BUSCU"
     },
     {
       "institutie": "Romaero",
@@ -47349,7 +47379,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ANGHEL",
+      "nume_norm": "ANGHEL"
     },
     {
       "institutie": "Romaero",
@@ -47471,7 +47503,9 @@
       "conturi_ron": 100263,
       "venituri_ron": 192402,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BOICU",
+      "nume_norm": "BOICU"
     },
     {
       "institutie": "Romaero",

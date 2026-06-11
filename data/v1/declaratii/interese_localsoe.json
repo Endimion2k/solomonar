@@ -186,7 +186,9 @@
         "1.1 SEM ECOPELETI SRL",
         "1.2 VIFIL OPTIM SRL Resita",
         "1.3 CONSPROIECT SRL"
-      ]
+      ],
+      "nume": "FILIPESCU",
+      "nume_norm": "FILIPESCU"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -202,7 +204,9 @@
       "entitati": [
         "1.1 AQUACARAS SA - Resita",
         "3.5 SINDICATUL DIN UEMR/CUBBR - MEMBRU"
-      ]
+      ],
+      "nume": "ANDRES",
+      "nume_norm": "ANDRES"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -219,7 +223,9 @@
         "1.1 AQUACARAS SA - Resita",
         "1.1 R.R. MONTANA DREAM SRL",
         "4.1 PARTIDUL FORTA DREPTEI FILIALA CARAS SEVERIN - PRESEDINTE"
-      ]
+      ],
+      "nume": "POPESCU",
+      "nume_norm": "POPESCU"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -236,7 +242,9 @@
         "1.1 AQUACARAS SA - Resita",
         "1.1 SC PRO CASA PROIECT",
         "SRL - Caransebes Caras- Asociat 50 Acţiuni 100 RON"
-      ]
+      ],
+      "nume": "ISPAS",
+      "nume_norm": "ISPAS"
     },
     {
       "institutie": "APA SERVICE SA",
@@ -285,7 +293,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 AQUACARAS SA - Resita"
-      ]
+      ],
+      "nume": "CHELBEA",
+      "nume_norm": "CHELBEA"
     },
     {
       "institutie": "AQUACARAS SA",
@@ -300,7 +310,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 AQUACARAS SA - Resita"
-      ]
+      ],
+      "nume": "PANDURU",
+      "nume_norm": "PANDURU"
     },
     {
       "institutie": "MARIENBURG SCUP SRL",
@@ -346,7 +358,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 AQUACARAS SA - Resita"
-      ]
+      ],
+      "nume": "MITIDOI",
+      "nume_norm": "MITIDOI"
     },
     {
       "institutie": "HARVIZ SA",
@@ -428,7 +442,9 @@
         "3.4 Asociatia Nationala a Evaluatorilor din Romania ANEVAR - membru suspendat",
         "Alliance S.A. - Brasov Brasov Acţionar 500 Acţiuni 175 RON",
         "SRL Brasov - str. Zizinului nr. 2, prestari"
-      ]
+      ],
+      "nume": "ANTOHE",
+      "nume_norm": "ANTOHE"
     },
     {
       "institutie": "COMPANIA DE APA ARIES SA",
@@ -490,7 +506,9 @@
         "3.3 Asociatia Liga Citadina - membru in Consiliul Director",
         "3.4 Asociatia Nationala a Evaluatorilor din Romania ANEVAR - membru",
         "Alliance S.A. - Brasov"
-      ]
+      ],
+      "nume": "ANTOHE",
+      "nume_norm": "ANTOHE"
     },
     {
       "institutie": "HARVIZ SA",
@@ -1834,7 +1852,9 @@
         "Compania deApa Aries S.A",
         "Fundati/ Asociati?",
         "fizicaautorizata/Asociatifamiliale/"
-      ]
+      ],
+      "nume": "VARGA",
+      "nume_norm": "VARGA"
     },
     {
       "institutie": "APACOC-MISLII SRL",
@@ -1889,7 +1909,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundatfi/ Asociatif?"
-      ]
+      ],
+      "nume": "SASAEAC",
+      "nume_norm": "SASAEAC"
     },
     {
       "institutie": "APACOC-MISLII SRL",
@@ -1941,7 +1963,9 @@
       "entitati": [
         "Societaticomerciale/Persoanafizica autorizata/Asociatii familiale/Cabinete indiv",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociatii-)"
-      ]
+      ],
+      "nume": "GOIA",
+      "nume_norm": "GOIA"
     },
     {
       "institutie": "APACOC-MISLII SRL",
@@ -2989,7 +3013,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3034,7 +3060,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3079,7 +3107,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3144,7 +3174,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3190,7 +3222,9 @@
       "entitati": [
         "1.1 SOCIETATEA APAVIL SA",
         "3.1 Sindicatul Primaria 2000 - membru"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -3203,7 +3237,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3246,7 +3282,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "HREBENCIUC",
+      "nume_norm": "HREBENCIUC"
     },
     {
       "institutie": "APAVIL SA",
@@ -3262,7 +3300,9 @@
       "entitati": [
         "2.1 SOCIETATEA APAVIL SA",
         "3.1 Sindicatul Primaria 2000 - membru"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3293,7 +3333,9 @@
       "entitati": [
         "1.1 PRELCET SA - Valcea Membru membru consiliu de",
         "1.2 APAVIL SA - Valcea"
-      ]
+      ],
+      "nume": "CONSTANTINESCU",
+      "nume_norm": "CONSTANTINESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3326,7 +3368,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Societatea APAVIL SA - Valcea Membru provizoriu Consiliul de"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3359,7 +3403,9 @@
       "entitati": [
         "1.1 SC SMILE CONTROL",
         "SRL - Valcea Acţionar 50 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -3413,7 +3459,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3487,7 +3535,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -3983,7 +4033,9 @@
       "entitati": [
         "1.1 SC AQUATIM SA - Timis Membru Administrator",
         "SRL - Timis Asociat 100 Acţiuni 200 RON"
-      ]
+      ],
+      "nume": "ZORILA",
+      "nume_norm": "ZORILA"
     },
     {
       "institutie": "APAVIL SA",
@@ -4014,7 +4066,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Societatea APAVIL SA - Valcea Membru Consiliul de"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -4156,7 +4210,9 @@
         "1.1 HARDCOREMAKETINGTM SRL",
         "1.1 SC AQUATIM SA - Timisoara Membru Administrator",
         "3.1 SINDICATUL TRANSPORTATORILOR TIMISOARA - Membru"
-      ]
+      ],
+      "nume": "ZORILA",
+      "nume_norm": "ZORILA"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -4755,7 +4811,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "EPERIES",
+      "nume_norm": "EPERIES"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -4827,7 +4885,9 @@
         "ASOCIATIA",
         "Asociatia",
         "Asociatia PEO Apel selectie finantare 1659118.41"
-      ]
+      ],
+      "nume": "TIUCH",
+      "nume_norm": "TIUCH"
     },
     {
       "institutie": "AQUATIM SA",
@@ -4972,7 +5032,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "IVANESCU",
+      "nume_norm": "IVANESCU"
     },
     {
       "institutie": "AQUATIM SA",
@@ -5082,7 +5144,9 @@
         "1.3 Asociatia PAX nr. 21 Timisoara",
         "1.4 ISE Performer Consult SRL",
         "1.5 Asociatia CLUBUL ROTARY CETATE"
-      ]
+      ],
+      "nume": "STEFEA",
+      "nume_norm": "STEFEA"
     },
     {
       "institutie": "AQUATIM SA",
@@ -7640,7 +7704,9 @@
         "1.1 Compania Nationala de Investitii",
         "1.2 SC ENERGONUCLEAR SA - Membru CONSILIUL DE",
         "Rutiere SA - ********** Bucuresti Membru CONSILIUL DE"
-      ]
+      ],
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "COMPANIA NATIONALA PENTRU CONTROLUL CAZANELOR, INSTALATIILOR DE RIDICAT SI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
@@ -8288,7 +8354,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "DANILA",
+      "nume_norm": "DANILA"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8303,7 +8371,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Energonuclear - Sectorul 2"
-      ]
+      ],
+      "nume": "DOBRICA",
+      "nume_norm": "DOBRICA"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8321,7 +8391,9 @@
         "1.1 Compania Nationala de Investitii",
         "1.2 SC ENERGONUCLEAR SA - Membru CONSILIUL DE",
         "Rutiere SA - Sectorul 1 Bucuresti BD. 55286 RON"
-      ]
+      ],
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8347,7 +8419,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TIHOAN",
+      "nume_norm": "TIHOAN"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8363,7 +8437,9 @@
       "entitati": [
         "1.1 SC ENERGONUCLEAR SA - Membru CONSILIUL DE",
         "nr. 1 3 ENERGONUCLEAR SA"
-      ]
+      ],
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8378,7 +8454,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC Energonuclear - Sectorul 2"
-      ]
+      ],
+      "nume": "DOBRICA",
+      "nume_norm": "DOBRICA"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8394,7 +8472,9 @@
       "entitati": [
         "1.1 SC ENERGONUCLEAR SA - Membru CONSILIUL DE",
         "nr. 1 3 ENERGONUCLEAR SA"
-      ]
+      ],
+      "nume": "FOGHIS",
+      "nume_norm": "FOGHIS"
     },
     {
       "institutie": "ENERGONUCLEAR SA",
@@ -8517,7 +8597,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "2.1 UNIVER T S.A. Cluj-Napoca"
-      ]
+      ],
+      "nume": "BRENDA",
+      "nume_norm": "BRENDA"
     },
     {
       "institutie": "RIAL SRL",
@@ -8549,7 +8631,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "2.1 UNIVER T S.A. Cluj-Napoca"
-      ]
+      ],
+      "nume": "BRENDA",
+      "nume_norm": "BRENDA"
     },
     {
       "institutie": "RIAL SRL",
@@ -8581,7 +8665,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVER T S.A. - Cluj"
-      ]
+      ],
+      "nume": "BRINDUSA",
+      "nume_norm": "BRINDUSA"
     },
     {
       "institutie": "UNIVERS T SA",
@@ -8596,7 +8682,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVERS T S.A. - Cluj"
-      ]
+      ],
+      "nume": "MANDRU",
+      "nume_norm": "MANDRU"
     },
     {
       "institutie": "PIETE TIRGURI SI OBOARE SA",
@@ -8629,7 +8717,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVERS T S.A. - Cluj-Napoca"
-      ]
+      ],
+      "nume": "MANDRU",
+      "nume_norm": "MANDRU"
     },
     {
       "institutie": "PIETE TIRGURI SI OBOARE SA",
@@ -10375,7 +10465,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL CNE CERNAVODA - MEMBRU"
-      ]
+      ],
+      "nume": "DAINEANU",
+      "nume_norm": "DAINEANU"
     },
     {
       "institutie": "ADMINISTRATIA PIETELOR AGROALIMENTARE SA",
@@ -11230,7 +11322,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Sectorul 4 Bucuresti Str. Acţionar 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "URJAN",
+      "nume_norm": "URJAN"
     },
     {
       "institutie": "SOCIETATEA NATIONALA \"NUCLEARELECTRICA\" SA",
@@ -11344,7 +11438,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicat - Membru"
-      ]
+      ],
+      "nume": "GORNEA",
+      "nume_norm": "GORNEA"
     },
     {
       "institutie": "TERMO-SERVICE SA",
@@ -11393,7 +11489,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVER T S.A. - Cluj"
-      ]
+      ],
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "SALA POLIVALENTA S.A.",
@@ -11425,7 +11523,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVER T S.A. - Cluj"
-      ]
+      ],
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "TERMO-SERVICE SA",
@@ -11457,7 +11557,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVER T S.A. - Cluj"
-      ]
+      ],
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "SOCIETATEA NATIONALA \"NUCLEARELECTRICA\" SA",
@@ -11472,7 +11574,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 NUCLEARELECTRICA SA CNE"
-      ]
+      ],
+      "nume": "TRANTEA",
+      "nume_norm": "TRANTEA"
     },
     {
       "institutie": "UNIVERS T SA",
@@ -11487,7 +11591,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 UNIVER T S.A. - Cluj"
-      ]
+      ],
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "TERMO-SERVICE SA",
@@ -11593,7 +11699,9 @@
         "1.1 CF Clasi SRL - Floresti",
         "1.1 UNIVERS T SA - Cluj-Napoca",
         "1.2 Claeval Srl - Cluj-Napoca"
-      ]
+      ],
+      "nume": "FESNIC",
+      "nume_norm": "FESNIC"
     },
     {
       "institutie": "ECOPIAŢA SA",
@@ -12387,7 +12495,9 @@
         "1.1 S.C. TERMO CALOR CONFORT",
         "4.1 Organizație PSD Pitești - Membru",
         "S.A - Pitesti Arges"
-      ]
+      ],
+      "nume": "STANICA",
+      "nume_norm": "STANICA"
     },
     {
       "institutie": "CONFORT URBAN SRL",
@@ -12442,7 +12552,9 @@
         "SA - Pitesti Arges Altele Administrator 30000 RON",
         "SRL - Dobrogostea Arges Asociat 20 Părţi sociale 200 RON",
         "SRL - Pitesti Arges Asociat 8 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "GHILENCIA",
+      "nume_norm": "GHILENCIA"
     },
     {
       "institutie": "CITADIN SA",
@@ -12787,7 +12899,9 @@
         "4.1 PSD ARGES - MEMBRU COMITET POLITIC JUDETEAN",
         "4.2 PSD PITESTI - PRESEDINTE ORGANIZATIA TERITORIALA CENTRU-PRUNDU",
         "SA - Pitesti 30000 RON"
-      ]
+      ],
+      "nume": "ISTRATE",
+      "nume_norm": "ISTRATE"
     },
     {
       "institutie": "CITADIN SA",
@@ -12853,7 +12967,9 @@
         "1.1 TERMO CALOR CONFORT SA",
         "4.1 PARTIDUL NATIONAL LIBERAL - PRESEDINTE OFL ARGES",
         "4.2 PARTIDUL NATIONAL LIBERAL - VICEPRESEDINTE BPL PITESTI"
-      ]
+      ],
+      "nume": "GHINET",
+      "nume_norm": "GHINET"
     },
     {
       "institutie": "CITADIN SA",
@@ -12887,7 +13003,9 @@
         "4.2 Organizație zonală PSD Pitești - Membru",
         "4.3 Organizație PSD Pitești - Membru",
         "S.A - Pitesti Arges"
-      ]
+      ],
+      "nume": "STANICA",
+      "nume_norm": "STANICA"
     },
     {
       "institutie": "CITADIN SA",
@@ -12923,7 +13041,9 @@
         "4.1 USR - membru Comisia de Arbitraj Arges",
         "SA - Pitesti Altele Administrator 30000 RON",
         "SRL - Dobrogostea Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "GHILENCIA",
+      "nume_norm": "GHILENCIA"
     },
     {
       "institutie": "CITADIN SA",
@@ -12954,7 +13074,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD - MEMBRU"
-      ]
+      ],
+      "nume": "BARICA",
+      "nume_norm": "BARICA"
     },
     {
       "institutie": "TERMO CALOR CONFORT SA",
@@ -13052,7 +13174,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Stefanestii Noi Asociat 19 Părţi sociale 180 RON"
-      ]
+      ],
+      "nume": "RICHITEANU",
+      "nume_norm": "RICHITEANU"
     },
     {
       "institutie": "CITADIN SA",
@@ -13135,7 +13259,9 @@
         "1.1 TOTAL ISTRA DIVERS SRL",
         "4.1 PSD PITESTI - VICEPRESEDINTE",
         "4.2 PSD PITESTI - PRESEDINTE ORGANIZATIA TERITORIALA CENTRU-PRUNDU"
-      ]
+      ],
+      "nume": "ISTRATE",
+      "nume_norm": "ISTRATE"
     },
     {
       "institutie": "CITADIN SA",
@@ -13209,7 +13335,9 @@
         "4.1 USR - membru Comisia de Arbitraj Arges",
         "SA Pitesti Altele Administrator 12500 RON",
         "SRL - Dobrogostea Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "GHILENCIA",
+      "nume_norm": "GHILENCIA"
     },
     {
       "institutie": "CITADIN SA",
@@ -15767,7 +15895,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 ASOCIATIA STIINTIFICA DE MEDICINA"
-      ]
+      ],
+      "nume": "GHIBANU",
+      "nume_norm": "GHIBANU"
     },
     {
       "institutie": "ECOSERV SIG SRL",
@@ -15847,7 +15977,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PARTIDUL SOCIAL DEMOCRAT - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "STOICA",
+      "nume_norm": "STOICA"
     },
     {
       "institutie": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
@@ -16113,7 +16245,9 @@
       "entitati": [
         "1.1 SC Ratbv SA-Brasov - Brasov",
         "4.1 PARTIDUL NATIONAL LIBERAL - Secretar Organizatia Prejmer"
-      ]
+      ],
+      "nume": "PETRE",
+      "nume_norm": "PETRE"
     },
     {
       "institutie": "SOCIETATEA PENTRU LUCRARI DE DRUMURI SI PODURI DOLJ S.A.",
@@ -20642,7 +20776,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMA ADMINISTRATIA FLUVIALA A DUNARII DE JOS GALATI RA",
@@ -21685,7 +21821,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "VLASV",
+      "nume_norm": "VLASV"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -21839,7 +21977,9 @@
       "entitati": [
         "1.1 Regia Autonomă Aeroportul",
         "3.5 Sindicat - Membru"
-      ]
+      ],
+      "nume": "PROZAN",
+      "nume_norm": "PROZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -21874,7 +22014,9 @@
       "entitati": [
         "2.1 PUBLITRANS 2000 SA Pitesti",
         "4.1 Partidul Social Democrat - Membru"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -21891,7 +22033,9 @@
         "1.1 Apetitus Magnus XXI SRL - Targu",
         "1.1 Blues Brothers SRL - Targu",
         "1.2 ASOCIATIA VILLA FORTIS KIBED"
-      ]
+      ],
+      "nume": "DOMOKOS",
+      "nume_norm": "DOMOKOS"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -21972,7 +22116,9 @@
         "1.7 SIF Muntenia SA - ********** Bucuresti 38",
         "1.8 SIF Oltenia SA - Dolj ************************** Acţionar 17 RON",
         "1.9 Transilvania Investments Alliance SA - Brasov 32"
-      ]
+      ],
+      "nume": "PETI",
+      "nume_norm": "PETI"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -22008,7 +22154,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 IAL CROWN SRL - Mures"
-      ]
+      ],
+      "nume": "ILIES",
+      "nume_norm": "ILIES"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -22044,7 +22192,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 IAL CROWN SRL - Mures"
-      ]
+      ],
+      "nume": "ILIES",
+      "nume_norm": "ILIES"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22059,7 +22209,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber al Salariaților Aeroportul Transilvania Târgu Mureș - Membr"
-      ]
+      ],
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -22074,7 +22226,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 S.C. PUBLITRANS 2000 S.A. - Altele PRESEDINTE CONSILIUL DE"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22090,7 +22244,9 @@
       "entitati": [
         "1.1 MP Top Event SRL",
         "1.1 MP Top Event SRL - Mures"
-      ]
+      ],
+      "nume": "MURESAN",
+      "nume_norm": "MURESAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -22191,7 +22347,9 @@
       "entitati": [
         "1.1 Apetitus Magnus XXI SRL - Mures",
         "1.1 Blues Brothers SRL - Mures"
-      ]
+      ],
+      "nume": "DOMOKOS",
+      "nume_norm": "DOMOKOS"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22225,7 +22383,9 @@
         "1.3 NICOMAX SMART SRL - Mures",
         "1.4 BELVEDERE HUS SRL - Mures",
         "4.1 PARTIDUL SOCIAL DEMOCRAT MURES - TREZORIER"
-      ]
+      ],
+      "nume": "CAZAN",
+      "nume_norm": "CAZAN"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -22245,7 +22405,9 @@
         "4.1 PNL PITESTI - MEMBRU BIROUL POLITIC PNL PITESTI",
         "SA Pitesti Arges",
         "SRL - Pitesti Arges Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22261,7 +22423,9 @@
       "entitati": [
         "1.1 Regia Autonomă Aeroportul Membru Administrator",
         "3.5 Sindicat - Membru"
-      ]
+      ],
+      "nume": "PROZAN",
+      "nume_norm": "PROZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22304,7 +22468,9 @@
         "2.1 Publitrans 2000 SA Pitesti",
         "2000 SA",
         "Nita Magdalena Bascov - SA Bdul"
-      ]
+      ],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ AEROPORTUL \"DELTA DUNĂRII\" TULCEA RA",
@@ -22508,7 +22674,9 @@
         "3.1......SINDICATUL SALARIAŢILOR DIN AEROPORTUL „TRANSIVANIA”TÎRGU MUREŞ",
         "autorizată/ Asociaţii familiale/ Cabinete",
         "neguvemamentale/ Fundaţii/ Asociaţii^"
-      ]
+      ],
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22521,7 +22689,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "FRANCU",
+      "nume_norm": "FRANCU"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22555,7 +22725,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizată/ Asociaţii famiMe/Cabinete"
-      ]
+      ],
+      "nume": "POTCOAVA",
+      "nume_norm": "POTCOAVA"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22571,7 +22743,9 @@
       "entitati": [
         "autorizată/ Asociaţii familiale/ Cabinete",
         "ii^vammentale/flmdaţii/ Asociaţi?"
-      ]
+      ],
+      "nume": "GALFI",
+      "nume_norm": "GALFI"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22587,7 +22761,9 @@
       "entitati": [
         "autorizată/ Asociaţii familiale/ Cabinete",
         "neguvemamentale/ Fundaţii/ Asociaţi?"
-      ]
+      ],
+      "nume": "POTCOAVA",
+      "nume_norm": "POTCOAVA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -22603,7 +22779,9 @@
       "entitati": [
         "1.1 Hodos Consulting SRL - Pitesti Arges",
         "2.1 ASOCIATIA DE DEZVOLTARE SI INOVARE PITESTI"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -22618,7 +22796,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC. Man Construct Ag SRL - Arges"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22856,7 +23036,9 @@
       "entitati": [
         "autorizată/ Asociaţii familiale/ Cabinete",
         "neguvemamentale/ Fundaţii/ Asociaţii"
-      ]
+      ],
+      "nume": "VLADIMIR",
+      "nume_norm": "VLADIMIR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -22873,7 +23055,9 @@
         "4.1. Membru CJEX PNL Mureş______________ ___________________ ___________________",
         "autorizată/ Asociaţii femiliafc/Căbinete",
         "neguvemamaitale/Fundaţii/ Asociaţii"
-      ]
+      ],
+      "nume": "GHERENDI",
+      "nume_norm": "GHERENDI"
     },
     {
       "institutie": "AEROPORTUL INTERNATIONAL BRASOV-GHIMBAV R.A.",
@@ -22929,7 +23113,9 @@
         "iieguvemamentale/ Fundaţii/ Asociaţii21",
         "intereş. iftjemi^ $0 asociaţii, fum",
         "j aterizată'Asociaţii ikniMo'Cabinete"
-      ]
+      ],
+      "nume": "DRAGOMIRESCU",
+      "nume_norm": "DRAGOMIRESCU"
     },
     {
       "institutie": "AEROPORTUL INTERNATIONAL BRASOV-GHIMBAV R.A.",
@@ -24779,7 +24965,9 @@
         "1.1 G self engineering SRL - Buzau",
         "1.2 Orange SA - Sectorul 1 Bucuresti Membru Membru Consiliu de",
         "Minerale SA - Sectorul 6 Bucuresti"
-      ]
+      ],
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "MEDITUR SA",
@@ -25738,7 +25926,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "MECANICA PLOPENI SA - Plopeni 2348 RON"
-      ]
+      ],
+      "nume": "BORCEA",
+      "nume_norm": "BORCEA"
     },
     {
       "institutie": "UZINA MECANICA PLOPENI SA",
@@ -25753,7 +25943,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 LA Autoservire SRL - Sectorul"
-      ]
+      ],
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -25819,7 +26011,9 @@
         "Knowlability SRL ORGANIZATIA DE",
         "SA - Sectorul 1 Bucuresti Dionisie Altele Administrator Special 135602 RON",
         "de Comert Agroalimentar Unirea SA - Membru Membru in Consiliul"
-      ]
+      ],
+      "nume": "MACOVEICIUC",
+      "nume_norm": "MACOVEICIUC"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -25949,7 +26143,9 @@
         "1.1 COMPANIA NATIONALA",
         "1.2 SN PLAFAR SA - ********** Membru Membru in Consiliul",
         "FLUVIALE SA GIURGIU - Giurgiu de administratie"
-      ]
+      ],
+      "nume": "ADMINISTRATORI",
+      "nume_norm": "ADMINISTRATORI"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -26307,7 +26503,9 @@
         "S.R.L. - Sectorul 1 Bucuresti Asociat 8 Părţi sociale 80 RON",
         "Schelean și Asociații Schelean și",
         "Sectorul 5 - Bucuresti Asociatii Carol Nu e 19.06.201 Până în 478798"
-      ]
+      ],
+      "nume": "CIOBOTARU",
+      "nume_norm": "CIOBOTARU"
     },
     {
       "institutie": "UZINA MECANICA PLOPENI SA",
@@ -26322,7 +26520,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC. CONT CONSULT MB SRL"
-      ]
+      ],
+      "nume": "BRATU",
+      "nume_norm": "BRATU"
     },
     {
       "institutie": "UZINA MECANICA PLOPENI SA",
@@ -26372,7 +26572,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC. CONT CONSULT MB SRL"
-      ]
+      ],
+      "nume": "BRATU",
+      "nume_norm": "BRATU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA PLAFAR SA",
@@ -26576,7 +26778,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 S.C. SandraCovripan S.R.L."
-      ]
+      ],
+      "nume": "PONOTAN",
+      "nume_norm": "PONOTAN"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -26626,7 +26830,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Societatea Arsenal Reșița SA"
-      ]
+      ],
+      "nume": "SACHELARIU",
+      "nume_norm": "SACHELARIU"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -26675,7 +26881,9 @@
       "entitati": [
         "1.2 S. Arsenal Resita SA - Caras- Membru Presedinte Consiliu",
         "Metalurgice SA - **********"
-      ]
+      ],
+      "nume": "UNGUREANU",
+      "nume_norm": "UNGUREANU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -26709,7 +26917,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 Partidul Social Democrat Caraș Severin - Vicepreședinte"
-      ]
+      ],
+      "nume": "CHISALITA",
+      "nume_norm": "CHISALITA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -26765,7 +26975,9 @@
       "entitati": [
         "1.1 Arsenal Reșița S.A. - Caras",
         "4.1 Partidul Social Democrat - Membru"
-      ]
+      ],
+      "nume": "BALBARAU",
+      "nume_norm": "BALBARAU"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -26782,7 +26994,9 @@
         "1.1 S. ARSENAL RESITA SA - Caras- Membru MEMBRU IN CONISILIUL",
         "3.1 S. ARSENAL RESITA SA - MEMBRU IN CONISILIUL DE ADMINISTRATIE",
         "SRL - Caras-Severin Asociat 10 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "FILIPESCU",
+      "nume_norm": "FILIPESCU"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -26795,7 +27009,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CHISALITA",
+      "nume_norm": "CHISALITA"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -26808,7 +27024,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CHISALITA",
+      "nume_norm": "CHISALITA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -26847,7 +27065,9 @@
         "BUCURESTI SA 24.03.2021 3 ani 4260 RON",
         "BUCURESTI SA Achizitie Servicii de 5871.55",
         "COMPANIA"
-      ]
+      ],
+      "nume": "SLOATA",
+      "nume_norm": "SLOATA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -26887,7 +27107,9 @@
         "4.1 PSD BOCSA - MEMBRU",
         "Resita Caras-Severin Administratie SC ARSENAL RESITA 0 RON",
         "Str.Barzavitei Nr.4 SA"
-      ]
+      ],
+      "nume": "BRIE",
+      "nume_norm": "BRIE"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -26938,7 +27160,9 @@
         "1.3 LE PETIT PHILIPPE SRL",
         "SA ILFOV CONTABILITAT 30.10.2022 5900 RON",
         "SERVICES SRL - Dimieni Ilfov Str Asociat 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "NASTASE",
+      "nume_norm": "NASTASE"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -26959,7 +27183,9 @@
         "1.3 ASOCIATIA DE PROPRIETARI",
         "3.1 SINDICATUL ARSENAL 2000 - MEMBRU",
         "ROMARM S.A. ÎN AGA"
-      ]
+      ],
+      "nume": "MISCHIE",
+      "nume_norm": "MISCHIE"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -27014,7 +27240,9 @@
         "1.1 Asociatia de Proprietari Bl 22",
         "1.1 Asociația de Proprietari Bl 22C",
         "4.1 Organizația PNL Voluntari Ilfov - Prim Vicepreședinte"
-      ]
+      ],
+      "nume": "BALASCUTA",
+      "nume_norm": "BALASCUTA"
     },
     {
       "institutie": "COMPANIA NATIONALA ROMARM SA",
@@ -27081,7 +27309,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL LIBER - MEMBRU"
-      ]
+      ],
+      "nume": "AVRAMESCU",
+      "nume_norm": "AVRAMESCU"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -27133,7 +27363,9 @@
       "entitati": [
         "3.1 SINDICATUL LIBER FRAM - MEMBRU",
         "4.2 PSD - CONSILIER LOCAL"
-      ]
+      ],
+      "nume": "CIRLEA",
+      "nume_norm": "CIRLEA"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
@@ -27202,7 +27434,9 @@
         "1.1 SC SILVA INDUSTRIES SRL",
         "3.1 SINDICATUL FRAM DIN UM SADU - MEMBRU",
         "4.1 PNL BUMBESTI JIU - VICEPRESEDINTE"
-      ]
+      ],
+      "nume": "DADALAU",
+      "nume_norm": "DADALAU"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -27217,7 +27451,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATULLIBERFRAM - MEMBRU"
-      ]
+      ],
+      "nume": "GRIGORE",
+      "nume_norm": "GRIGORE"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -27254,7 +27490,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL LIBER DIN CADRUL SOC.U.M.SADU S.A. - MEMBRU"
-      ]
+      ],
+      "nume": "LUPULESCU",
+      "nume_norm": "LUPULESCU"
     },
     {
       "institutie": "SOCIETATEA NATIONALA A SARII SA",
@@ -27359,7 +27597,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.2 Sindicatul Liber - membru"
-      ]
+      ],
+      "nume": "OCHIAN",
+      "nume_norm": "OCHIAN"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -27484,7 +27724,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber UM Sadu - membru"
-      ]
+      ],
+      "nume": "RIIOSU",
+      "nume_norm": "RIIOSU"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -27516,7 +27758,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 AGRARIA SA FAGARAS"
-      ]
+      ],
+      "nume": "METEA",
+      "nume_norm": "METEA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -27560,7 +27804,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber Nitramonia-Rompiro - Membru"
-      ]
+      ],
+      "nume": "BOERIU",
+      "nume_norm": "BOERIU"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -27590,7 +27836,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Informatica Feroviară SA - Membru"
-      ]
+      ],
+      "nume": "GOLUMBANICOLETAA",
+      "nume_norm": "GOLUMBANICOLETAA"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -27609,7 +27857,9 @@
         "1.2 SC UPRUC CTR SA",
         "4.1 PSD - Presedinte Organizatie locala de cartier",
         "DACIA SA - Arges Acţionar 1800 Acţiuni 33 RON"
-      ]
+      ],
+      "nume": "BUTUNOIU",
+      "nume_norm": "BUTUNOIU"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -27650,7 +27900,9 @@
         "1.1 Asociația de Proprietari Bl 22C",
         "4.1 Organizația PNL Voluntari Ilfov - Prim Vicepreședinte",
         "SADU S.A. - Bumbesti-Jiu Gorj 1813 RON"
-      ]
+      ],
+      "nume": "BALASCUTA",
+      "nume_norm": "BALASCUTA"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -27682,7 +27934,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 FABRICA DE PULBERI S.A. - Membru Președinte consiliu de"
-      ]
+      ],
+      "nume": "GEICA",
+      "nume_norm": "GEICA"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -27733,7 +27987,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 AGRARIA SA FAGARAS"
-      ]
+      ],
+      "nume": "METEA",
+      "nume_norm": "METEA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -27748,7 +28004,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Informatica Feroviara - membru"
-      ]
+      ],
+      "nume": "FLOREASORINA",
+      "nume_norm": "FLOREASORINA"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -27763,7 +28021,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber Nitramonia-Rompiro - Membru"
-      ]
+      ],
+      "nume": "BOERIU",
+      "nume_norm": "BOERIU"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -27806,7 +28066,9 @@
         "1.2 SC UPRUC CTR SA",
         "4.1 PSD - Presedinte Organizatie locala de cartier",
         "SA - Mioveni Arges UZINEI Acţionar 1800 Acţiuni 33 RON"
-      ]
+      ],
+      "nume": "BUTUNOIU",
+      "nume_norm": "BUTUNOIU"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -27821,7 +28083,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.2 Sindicatul Informatica Feroviara - membru"
-      ]
+      ],
+      "nume": "CEPLEULILIANAA",
+      "nume_norm": "CEPLEULILIANAA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -27853,7 +28117,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul liber Nitramonia-Rompiro - Membru"
-      ]
+      ],
+      "nume": "STOENESCU",
+      "nume_norm": "STOENESCU"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -28003,7 +28269,9 @@
       "entitati": [
         "1.1 S.C. ELECTRIFICARE CFR S.A.",
         "1.2 SC INFORMATICA FEROVIARA SA"
-      ]
+      ],
+      "nume": "CESAPETRUA",
+      "nume_norm": "CESAPETRUA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -28046,7 +28314,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATUL LIBER FRAM AL SALARIATILOR - MEMBRU"
-      ]
+      ],
+      "nume": "TASCAU",
+      "nume_norm": "TASCAU"
     },
     {
       "institutie": "SOCIETATEA \"UZINA MECANICĂ SADU\" SA FILIALA A COMPANIEI NAŢIONALE \"ROMARM\" S.A.",
@@ -28061,7 +28331,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATULLIBER - MEMBRU"
-      ]
+      ],
+      "nume": "PAUNA",
+      "nume_norm": "PAUNA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -28179,7 +28451,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Sc ionar mťoritan/minoritar:"
-      ]
+      ],
+      "nume": "BEZIMJEANINA",
+      "nume_norm": "BEZIMJEANINA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -28255,7 +28529,9 @@
         "1.1 SC IDENTIS STUDIO SRL - Iasi Iasi",
         "1.2 TIPOGRAFICA FILARET SA",
         "1.3 SC Informatica Feroviara SA"
-      ]
+      ],
+      "nume": "PIPAGEORGERADUA",
+      "nume_norm": "PIPAGEORGERADUA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -28270,7 +28546,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul SC Informatica Feroviara SA - Membru"
-      ]
+      ],
+      "nume": "COANDACATALINA",
+      "nume_norm": "COANDACATALINA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -28289,7 +28567,9 @@
         "1.1 Saga Professional SRL - Sectorul",
         "194, Sc B, Et 1, Ap 22",
         "Septembrie nr 194, Sc B, et 1, Ap"
-      ]
+      ],
+      "nume": "NICOLESCUANGELAA",
+      "nume_norm": "NICOLESCUANGELAA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -28323,7 +28603,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "CAPATINA",
+      "nume_norm": "CAPATINA"
     },
     {
       "institutie": "INFORMATICA FEROVIARA SA",
@@ -28338,7 +28620,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicat Informatica Feroviara - membru"
-      ]
+      ],
+      "nume": "DOGARUALINA",
+      "nume_norm": "DOGARUALINA"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -28395,7 +28679,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 COMPANIA NATIONALA"
-      ]
+      ],
+      "nume": "ILIELAURENTIUANDREIA",
+      "nume_norm": "ILIELAURENTIUANDREIA"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ DE INVESTIŢII RUTIERE S.A.",
@@ -28528,7 +28814,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATULLIBER - MEMBRU"
-      ]
+      ],
+      "nume": "AVRAMESCU",
+      "nume_norm": "AVRAMESCU"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -30065,7 +30353,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicat Liber Sansa - vicepresedinte"
-      ]
+      ],
+      "nume": "CARPCEA",
+      "nume_norm": "CARPCEA"
     },
     {
       "institutie": "SINAIA FOREVER SRL",
@@ -31136,7 +31426,9 @@
         "1.1 SC URBIS SERVCONSTRUCT",
         "4.1 PSD-ORGANIZATIA ROSIORI DE VEDE - MEMBRU IN COMITETUL EXECUTIV",
         "SRL - Rosiori De Vede Teleorman Altele PRESEDINTE C.A. 0 RON"
-      ]
+      ],
+      "nume": "PSMN",
+      "nume_norm": "PSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -31153,7 +31445,9 @@
         "1.1 SC URBIS SERVCONSTRUCT",
         "4.1 PSD-ORGANIZATIA ROSIORI DE VEDE - MEMBRU IN COMITETUL EXECUTIV",
         "SRL - Rosiori De Vede Teleorman Altele PRESEDINTE C.A. 0 RON"
-      ]
+      ],
+      "nume": "DTSMN",
+      "nume_norm": "DTSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -31170,7 +31464,9 @@
         "1.1 SC URBIS SERVCONSTRUCT",
         "4.1 PSD-ORGANIZATIA ROSIORI DE VEDE - MEMBRU IN COMITETUL EXECUTIV",
         "SRL - Rosiori De Vede Teleorman Altele PRESEDINTE C.A. 0 RON"
-      ]
+      ],
+      "nume": "DTSMN",
+      "nume_norm": "DTSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -31187,7 +31483,9 @@
         "1.1 SC URBIS SERVCONSTRUCT",
         "4.1 PSD-ORGANIZATIA ROSIORI DE VEDE - MEMBRU IN COMITETUL EXECUTIV",
         "SRL - Rosiori De Vede Teleorman Altele PRESEDINTE C.A. 0 RON"
-      ]
+      ],
+      "nume": "DTSMN",
+      "nume_norm": "DTSMN"
     },
     {
       "institutie": "URBIS SERVCONSTRUCT S.R.L.",
@@ -31659,7 +31957,9 @@
         "1.1 SC URBIS SERVCONSTRUCT",
         "4.1 PSD-ORGANIZATIA ROSIORI DE VEDE - MEMBRU IN COMITETUL EXECUTIV",
         "SRL - Rosiori De Vede Teleorman Altele PRESEDINTE C.A. 0 RON"
-      ]
+      ],
+      "nume": "PSMN",
+      "nume_norm": "PSMN"
     },
     {
       "institutie": "AGROPIEŢE SA",
@@ -31837,7 +32137,9 @@
       "entitati": [
         "1.1 Piete Prest S.A. - Valcea",
         "4.1 Uniunea Salvati Romania - Presedinte Filiala Budesti"
-      ]
+      ],
+      "nume": "DECLARAŢIE",
+      "nume_norm": "DECLARATIE"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -32319,7 +32621,9 @@
       "entitati": [
         "1.1 NEXORIA SRL",
         "4.1 PSD SECTOR 6 - TREZORIER"
-      ]
+      ],
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -32563,7 +32867,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 Active Conexe SA - ********** Bucuresti"
-      ]
+      ],
+      "nume": "DOBRESCU",
+      "nume_norm": "DOBRESCU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -33820,7 +34126,9 @@
       "entitati": [
         "1.1 NEXORIA SRL",
         "4.1 PSD SECTOR 6 - TREZORIER"
-      ]
+      ],
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -33881,7 +34189,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD SECTOR 6 - TREZORIER"
-      ]
+      ],
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -33896,7 +34206,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "SRL - Ostratu Ilfov Str. Asociat 40 Părţi sociale 400 RON"
-      ]
+      ],
+      "nume": "KARSTENSEN",
+      "nume_norm": "KARSTENSEN"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -33923,7 +34235,9 @@
         "Constanta STR CISMELEI NR 21 BL 2 SC Asociat ASOCIAT 4033 RON",
         "SARAT NR 15 BL 20F SC 3 ET 1 AP 61",
         "SRL Sectorul 3 SRL STR"
-      ]
+      ],
+      "nume": "VINTILESCU",
+      "nume_norm": "VINTILESCU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -33999,7 +34313,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD SECTOR 6 - TREZORIER"
-      ]
+      ],
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -34058,7 +34374,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "4.1 PSD SECTOR 6 - TREZORIER"
-      ]
+      ],
+      "nume": "GHEORGHIU",
+      "nume_norm": "GHEORGHIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -34273,7 +34591,9 @@
         "CONSULTANTA SRL - Sectorul 3",
         "Constanta STR CISMELEI NR 21 BL 2 SC Asociat ASOCIAT 7143 RON",
         "SARAT NR 15 BL 20F SC 3 ET 1 AP 61"
-      ]
+      ],
+      "nume": "VINTILESCU",
+      "nume_norm": "VINTILESCU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -34458,7 +34778,9 @@
         "1.1 Moldovan Financial Consulting SRL",
         "4.1 Partidul Social Democrat Sector 3 - Vicepresedinte",
         "Public Bucuresti SA - Sectorul 3 9428 RON"
-      ]
+      ],
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "ELECTROVOL SA",
@@ -34675,7 +34997,9 @@
         "1.1 CITIUS CONSTRUCT PROD SRL",
         "SRL - Sectorul 5 Bucuresti STR Asociat 95.00 Părţi sociale 190 RON",
         "SRL - Vladiceasca Ilfov SOS Asociat 50.00 Părţi sociale 100 RON"
-      ]
+      ],
+      "nume": "VOICU",
+      "nume_norm": "VOICU"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -34937,7 +35261,9 @@
         "1.1 Moldovan Financial Consulting SRL",
         "4.1 Partidul Social Democrat Sector 3 - Vicepresedinte",
         "Public Bucuresti SA - Sectorul 3 16200 RON"
-      ]
+      ],
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "ELECTROVOL SA",
@@ -35316,7 +35642,9 @@
         "1.4 HERBA ANTICA SRL",
         "SRL - Frumusani Calarasi Asociat 20.00 Părţi sociale 200 RON",
         "SRL - Sectorul 3 Bucuresti STR. Asociat 20.00 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "PANAIT",
+      "nume_norm": "PANAIT"
     },
     {
       "institutie": "INFRASTRUCTURĂ S5 S.A.",
@@ -35653,7 +35981,9 @@
         "1.3 Electromecanica Ploiesti S.A.",
         "1.3 KDCL COMNCEPT SRL",
         "3.3 Sindicatul Academica ASE - Membru"
-      ]
+      ],
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "ELECTROVOL SA",
@@ -35871,7 +36201,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC BRADIN"
-      ]
+      ],
+      "nume": "BRADIN",
+      "nume_norm": "BRADIN"
     },
     {
       "institutie": "ELECTROVOL SA",
@@ -36829,7 +37161,9 @@
         "1.3 SIFI Cluj Retail SA - Membru Administrator 10200 RON",
         "1.4 Central SA - Cluj",
         "1.5 Biofarm SA - ********** Bucuresti"
-      ]
+      ],
+      "nume": "NUMIRE",
+      "nume_norm": "NUMIRE"
     },
     {
       "institutie": "CONPET SA",
@@ -37079,7 +37413,9 @@
         "1.5 J ADORE PRIVE S.R.L. - ********** Bucuresti 1 Părţi",
         "Consulting SRL Sectorul",
         "Consulting SRL Sectorul Contract"
-      ]
+      ],
+      "nume": "INCETARE",
+      "nume_norm": "INCETARE"
     },
     {
       "institutie": "CONPET SA",
@@ -37268,7 +37604,9 @@
         "1.6 Biofarm S.A - Sectorul 3",
         "A. REMUS RADULET S.R.L. - Sectorul 3 Acţionar 96 Acţiuni 960 RON",
         "Transporturi Incertrans S.A - Membru Membru Consiliul de"
-      ]
+      ],
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -37901,7 +38239,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul liber Conpet - membru"
-      ]
+      ],
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -41112,7 +41452,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Liber Conpet - membru"
-      ]
+      ],
+      "nume": "RECTIFICATIVA",
+      "nume_norm": "RECTIFICATIVA"
     },
     {
       "institutie": "CONPET SA",
@@ -45515,7 +45857,9 @@
         "1.3 LOTUS ENERGY SRL - Tustea",
         "1.4 INTERLOG COM SRL - Brad",
         "4.1 PNL - membru"
-      ]
+      ],
+      "nume": "MARINESCU",
+      "nume_norm": "MARINESCU"
     },
     {
       "institutie": "SOCIETATEA COMPLEXUL ENERGETIC VALEA JIULUI S.A.",
@@ -45739,7 +46083,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "VIDRIGHI",
+      "nume_norm": "VIDRIGHI"
     },
     {
       "institutie": "REGIA PUBLICĂ LOCALĂ-OCOLUL SILVIC VALEA SADULUI RA",
@@ -45937,7 +46283,9 @@
         "Asociaţii2)",
         "Organizaţii neguvernamentale/ Fundaţii/",
         "autorizată/ Asociaţii familiale/ Cabinete"
-      ]
+      ],
+      "nume": "GHILENCIA",
+      "nume_norm": "GHILENCIA"
     },
     {
       "institutie": "REGIA PUBLICĂ LOCALĂ-OCOLUL SILVIC VALEA SADULUI RA",
@@ -45950,7 +46298,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "COPARIU",
+      "nume_norm": "COPARIU"
     },
     {
       "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
@@ -46718,7 +47068,9 @@
         "1.2 SC SUGAS SA - Sfantu",
         "1.3 SEPSI REKREATIV SA - Sfantu",
         "1.4 CSIKI SPORTCENTRUM SRL."
-      ]
+      ],
+      "nume": "INTERESE",
+      "nume_norm": "INTERESE"
     },
     {
       "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
@@ -46870,7 +47222,9 @@
         "1.2 SC SUGAS SA - Sfantu",
         "1.3 SEPSI REKREATIV SA - Sfantu",
         "1.4 CSIKI SPORTCENTRUM SRL."
-      ]
+      ],
+      "nume": "INTERESE",
+      "nume_norm": "INTERESE"
     },
     {
       "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
@@ -46986,7 +47340,9 @@
       "contracte": 2,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "RAPEANU",
+      "nume_norm": "RAPEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47003,7 +47359,9 @@
         "1.1..... BOGAAX CASTCE SRL",
         "autorizatalAsociatiifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47021,7 +47379,9 @@
         "ASOCIATIA ANTON PANN",
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/Fundati/ Asociaff?"
-      ]
+      ],
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "WELLNESS CENTER PRAID SRL",
@@ -47071,7 +47431,9 @@
       "entitati": [
         "auitorizata/ Asociati familiale/Cabinete",
         "neguvenamentale/ Fundati Asociati?)"
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47089,7 +47451,9 @@
         "ASOCIATIA ANTONPANN",
         "autorizatalAsociatifamiliale/Cabinete",
         "neguvemamentale/Fundafi/ Asociati?)"
-      ]
+      ],
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "APAVIL SA",
@@ -47106,7 +47470,9 @@
         "3.1.....Membru sindicatul functionarilor publici si a personalului contractual \"",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "WELLNESS CENTER PRAID SRL",
@@ -47140,7 +47506,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "ECO SA",
@@ -47177,7 +47545,9 @@
         "SCROMIGAP SERVICII SRL",
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "APAVIL SA",
@@ -47194,7 +47564,9 @@
         "APAVIL S.A",
         "alitorizata/Asociatiifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -47229,7 +47601,9 @@
       "entitati": [
         "atorizata/ Asociatii familiale/Cabinete",
         "neguvemamentale/Fundati/ Asociafi?"
-      ]
+      ],
+      "nume": "PREDUS",
+      "nume_norm": "PREDUS"
     },
     {
       "institutie": "APAVIL SA",
@@ -47245,7 +47619,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -47263,7 +47639,9 @@
         "SC VGO SRL",
         "aLitorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati Asociati?"
-      ]
+      ],
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47280,7 +47658,9 @@
         "S.C. APAVIL S.A..",
         "autorizata/Asociatii familiale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47331,7 +47711,9 @@
         "APAVIL S.A",
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvemamentale/ Fundati Asociati?)"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -47366,7 +47748,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabincte",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "APAVIL SA",
@@ -47383,7 +47767,9 @@
         "3.1.....Membru sindicatul functionarilor publici si a personalului contractual \"",
         "autorizata/ Asociatifamiliale/Cabinete",
         "neguvenamentale/Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47419,7 +47805,9 @@
         "2.1. APAVIL S.A.",
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvenamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47436,7 +47824,9 @@
         "SOCIETATEA APAVIL S.A. VALCEA,",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvenamentale/ Fundati Asociati?"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47451,7 +47841,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -47468,7 +47860,9 @@
         "2.1. APAVIL S.A.",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvenamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47502,7 +47896,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -47538,7 +47934,9 @@
       "entitati": [
         "autorizata/ Asociatii familiale/Cabinete",
         "neguvemamentale/Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -47554,7 +47952,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabincte",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "DOBRE",
+      "nume_norm": "DOBRE"
     },
     {
       "institutie": "APAVIL SA",
@@ -47570,7 +47970,9 @@
       "entitati": [
         "auitorizata/ Asociati familiale/Cabinete",
         "neguvemamentale/ Fundati Asociati?"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47587,7 +47989,9 @@
         "2.1. APAVIL S.A.",
         "autorizata/ Asociati familiale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
@@ -47646,7 +48050,9 @@
       "entitati": [
         "autorizata/ Asociati faniliale/Cabinete",
         "neguivemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -47677,7 +48083,9 @@
       "entitati": [
         "Jeguvenamentale/Fundati/ Asociati?",
         "autorizatal Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47694,7 +48102,9 @@
         "2.1. APAVIL S.A.",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47709,7 +48119,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47725,7 +48137,9 @@
       "entitati": [
         "autorizatal Asociatifamiliale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -47760,7 +48174,9 @@
         "3.1.....Membru sindicatul functionarilor publici si a personalului contractual \"",
         "autorizata/ Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundatil Asociati?)"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47776,7 +48192,9 @@
       "entitati": [
         "autorizata/Asociati familiale/Cabinete",
         "neguvenamentale/Fundati Asociafif?"
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47792,7 +48210,9 @@
       "entitati": [
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47807,7 +48227,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociatii familiale/Cabinete"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47823,7 +48245,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47839,7 +48263,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -47855,7 +48281,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "eun SA e.l2.0.2hg"
-      ]
+      ],
+      "nume": "ANGHELINA",
+      "nume_norm": "ANGHELINA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47871,7 +48299,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvenamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47886,7 +48316,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -47901,7 +48333,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Sa/soje"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -47916,7 +48350,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "auitorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
@@ -47951,7 +48387,9 @@
       "entitati": [
         "autorizatalAsociatifamiliale/Cabinete",
         "neguveinamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -47984,7 +48422,9 @@
       "entitati": [
         "PACTOILSOCACOEMOeAT-PSD",
         "autorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48000,7 +48440,9 @@
       "entitati": [
         "alitorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/Fundatil Asociafi?"
-      ]
+      ],
+      "nume": "STANCU",
+      "nume_norm": "STANCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48017,7 +48459,9 @@
         "2.1.....S.C. APA VILSAVALCEA",
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "NISTOR",
+      "nume_norm": "NISTOR"
     },
     {
       "institutie": "APAVIL SA",
@@ -48033,7 +48477,9 @@
       "entitati": [
         "autorizata/Asociati familiale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "OCOLUL SILVIC AL ORASULUI RASNOV RA",
@@ -48049,7 +48495,9 @@
       "entitati": [
         "Regia Nationala a",
         "interes economic, aleasociatiilor sau fundatilor orjalealtororganizatii neguvern"
-      ]
+      ],
+      "nume": "DECLARATII",
+      "nume_norm": "DECLARATII"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48066,7 +48514,9 @@
         "WISHBOX PARTNERS SRL",
         "autorizata/Asociati familiale/Cabinete",
         "neguvemamentale/ Fundati/ Asociatip)"
-      ]
+      ],
+      "nume": "ANGHELINA",
+      "nume_norm": "ANGHELINA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48082,7 +48532,9 @@
       "entitati": [
         "autorizata/Asociati familiale/Cabinete",
         "neguvenamentale/Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "ECO SA",
@@ -48118,7 +48570,9 @@
         "Asociati *2)",
         "Asociati familiale/ Cabinete",
         "neguvernamentalel Fundatii/"
-      ]
+      ],
+      "nume": "TRIFU",
+      "nume_norm": "TRIFU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48134,7 +48588,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48150,7 +48606,9 @@
       "entitati": [
         "autorizata/ Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "PREDESCU",
+      "nume_norm": "PREDESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48166,7 +48624,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvenamentale/Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48184,7 +48644,9 @@
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?",
         "reconomic, ale asociatilor sau fundatilor oni ale altor organizati neguvernament"
-      ]
+      ],
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48259,7 +48721,9 @@
         "1.1......BOGDAN CONSTRUCT SRL",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "ECO SA",
@@ -48292,7 +48756,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48328,7 +48794,9 @@
         "3.1......Membru sindicat Primaria 2000",
         "autorizata/ Asociatifamiliale/Cabinete",
         "neguvenamentale/Fundati/Asociatir?)"
-      ]
+      ],
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48344,7 +48812,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48378,7 +48848,9 @@
       "entitati": [
         "autorizatal Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundatfi/ Asociati?"
-      ]
+      ],
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48394,7 +48866,9 @@
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvemamentale/Fundati/ Ascciafi?)"
-      ]
+      ],
+      "nume": "TONCEANU",
+      "nume_norm": "TONCEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48430,7 +48904,9 @@
       "entitati": [
         "autorizata/ Asociatii familiale/ Cabinete",
         "eguvemamentale/ Fundati Asociati?"
-      ]
+      ],
+      "nume": "GHIOCULESCU",
+      "nume_norm": "GHIOCULESCU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48446,7 +48922,9 @@
       "entitati": [
         "auttorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociatif?"
-      ]
+      ],
+      "nume": "BALA",
+      "nume_norm": "BALA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48462,7 +48940,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati Asociati?"
-      ]
+      ],
+      "nume": "TOMCEANU",
+      "nume_norm": "TOMCEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48496,7 +48976,9 @@
         "SC SMILE 348 SRL",
         "autorizata/ Asociatifamiliale/Cabinete",
         "neguvernamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "DUTU",
+      "nume_norm": "DUTU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48533,7 +49015,9 @@
         "SC VGO SRL",
         "aLitorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati Asociati?"
-      ]
+      ],
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48548,7 +49032,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "2.1. APAVIL S.A."
-      ]
+      ],
+      "nume": "TUDORA",
+      "nume_norm": "TUDORA"
     },
     {
       "institutie": "APAVIL SA",
@@ -48565,7 +49051,9 @@
         "1.1......BOGDAN CONSTRUCT SRL",
         "autorizata/ Asociatii familiale/Cabinete",
         "neguvenamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "PROVIZORIU",
+      "nume_norm": "PROVIZORIU"
     },
     {
       "institutie": "SERVICE CICLOP SA",
@@ -48578,7 +49066,9 @@
       "contracte": 2,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "RAPEANU",
+      "nume_norm": "RAPEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -48594,7 +49084,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/Cabinete",
         "neguvernamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "BORLEANU",
+      "nume_norm": "BORLEANU"
     },
     {
       "institutie": "APAVIL SA",
@@ -49223,7 +49715,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/Persoana fizica autorizata/Asociatii familiale/Cabinete ind"
-      ]
+      ],
+      "nume": "BOTOSINEANU",
+      "nume_norm": "BOTOSINEANU"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -49468,7 +49962,9 @@
         "REGIA",
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvernamentale/Fundati/Asociati?)"
-      ]
+      ],
+      "nume": "RAUREANU",
+      "nume_norm": "RAUREANU"
     },
     {
       "institutie": "RIAL SRL",
@@ -50074,7 +50570,9 @@
         "REGIA",
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvernamentale/FundativAsociati2)"
-      ]
+      ],
+      "nume": "RAUREANU",
+      "nume_norm": "RAUREANU"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -50185,7 +50683,9 @@
         "ASOCIATIA CONSILIERILOR JURIDICI DIN SISTEMUL FINANCIAR BANCAR - Vicepresedinte",
         "Asociati familiale/ Cabinete individuale,",
         "Asociati?"
-      ]
+      ],
+      "nume": "CHIOREAN",
+      "nume_norm": "CHIOREAN"
     },
     {
       "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
@@ -50890,7 +51390,9 @@
         "1.1 SALUBRIS SA - lasi",
         "1.2CITADIN SA-lasi",
         "3.2 Asociatia Nationala a Evaluatorilor Autorizati din Romania - membru"
-      ]
+      ],
+      "nume": "NECULAU",
+      "nume_norm": "NECULAU"
     },
     {
       "institutie": "CITADIN SA",
@@ -51360,7 +51862,9 @@
         "autorizatalAsociatifamilialel",
         "membruinasociatii,fundatii saualteorganizatiineguvernamentale:",
         "neguvernamentale/Fundati/Asociafi2)"
-      ]
+      ],
+      "nume": "CIUREA",
+      "nume_norm": "CIUREA"
     },
     {
       "institutie": "COMPANIA NATIONALA ADMINISTRATIA PORTURILOR DUNARII FLUVIALE SA",
@@ -52558,7 +53062,9 @@
       "contracte": 2,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "ELTRANS SA",
@@ -52594,7 +53100,9 @@
         "autorizata/Asociatiifamiliale/Cabinete",
         "economic,aleasociatilor sau fundatilor orialealtor organizatii neguvernamentale:",
         "neguvemamentale/Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52686,7 +53194,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/Fundatfi/ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52737,7 +53247,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 BRAICAR SA - Braila Braila"
-      ]
+      ],
+      "nume": "COMAN",
+      "nume_norm": "COMAN"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52753,7 +53265,9 @@
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociatifamiliale/ Cabinete in",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundatii/ Asociatii*"
-      ]
+      ],
+      "nume": "PLASOIANU",
+      "nume_norm": "PLASOIANU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52770,7 +53284,9 @@
         "autorizata/Asociatifamiliale/Cabinete",
         "economic,aleasociatilor saufundafilor oriale altor organizati neguvernamentale:",
         "neguvenamentale/FundatiAsociatif?"
-      ]
+      ],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52805,7 +53321,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "DINU",
+      "nume_norm": "DINU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52821,7 +53339,9 @@
       "entitati": [
         "auitorizata/Asociatiifamiliale/Cabinele",
         "economic,aleasociatilor sau fundatilor orialealtororganizatii neguvernamentale:"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "ELTRANS SA",
@@ -52854,7 +53374,9 @@
         "auilorizata/Asociatifamiliale/Cabinete",
         "economic,aleasociatilor sau fundatilor oriale altor organizatii neguvernamentale",
         "neguveinamentale/FundativAsociatf?"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52869,7 +53391,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "auitorizataAsociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52922,7 +53446,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 SC APT SA- Braila Braila Aleea"
-      ]
+      ],
+      "nume": "DOMNITEANU",
+      "nume_norm": "DOMNITEANU"
     },
     {
       "institutie": "BRAICAR SA",
@@ -52938,7 +53464,9 @@
       "entitati": [
         "3.1Sindicatul LiberTransloc -Presedinte",
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "ROLEA",
+      "nume_norm": "ROLEA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -52956,7 +53484,9 @@
         "autorizatalAsociatifamiliale/Cabinete",
         "economic,ale asociatiilor saufundatilor oriale altor organizafii neguvernamental",
         "neguvemamentale/Fundati/Asociatii2"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -52991,7 +53521,9 @@
         "alitorizata/Asociatifamiliale/Cabinete",
         "economic,ale asociatilor saufundafilor oriale altor organizatii neguvernamentale",
         "neguvenamentale/FundatiAsociatif?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53026,7 +53558,9 @@
         "2.1. Publitrans 2000 S.A.",
         "autorizatalAsociatifamiliale/Cabinete",
         "neguvemamentale/Fundatil Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53059,7 +53593,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 BRAICAR SA - Braila Braila"
-      ]
+      ],
+      "nume": "MICU",
+      "nume_norm": "MICU"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53075,7 +53611,9 @@
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizatal Asociati familiale/ Cabinete i",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "ROSCA",
+      "nume_norm": "ROSCA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53090,7 +53628,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53123,7 +53663,9 @@
       "entitati": [
         "aultonizati/Asociatifamiliale/Cabinete",
         "neguivemanentale/FundariAsociatir?"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53171,7 +53713,9 @@
       "contracte": 1,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "NICOARA",
+      "nume_norm": "NICOARA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53187,7 +53731,9 @@
       "entitati": [
         "Societaticomerciale/Persoana fizica autorizata/Asociati familiale/Cabineteindivi",
         "desfasoara profesiadeavocat/Organizatii neguvernamentale/Fundatii/Asociatil"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53200,7 +53746,9 @@
       "contracte": 2,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53251,7 +53799,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "desfasoara profesia de avocat/ Organizatii neguvernamentale/Fundatii/ Asociatii"
-      ]
+      ],
+      "nume": "MIHAI",
+      "nume_norm": "MIHAI"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53268,7 +53818,9 @@
         "2.1.Publitrans 2000 S.A.",
         "autorizata/Asociatifamiliale/Cabinete",
         "neguivemamentale/Fundati/Asociatif?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53302,7 +53854,9 @@
         "2.1......SCPUBLITRANS 2000 SA",
         "autorizata/AsociatifamilialeCabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53334,7 +53888,9 @@
       "contracte": 0,
       "valoare_actiuni_ron": 4000,
       "valoare_contracte_ron": 0,
-      "entitati": []
+      "entitati": [],
+      "nume": "MUNTEANU",
+      "nume_norm": "MUNTEANU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53351,7 +53907,9 @@
         "autorizata/Asociatiifamiliale/Cabinete",
         "economic,aleasociatilor sau fundatilor orialealtor organizatii neguvernamentale:",
         "neguvemamentale/Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53384,7 +53942,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "MUNTEANU",
+      "nume_norm": "MUNTEANU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53401,7 +53961,9 @@
         "S.C. FUBUTTAUS",
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53418,7 +53980,9 @@
         "2.1.Publitrans 2000 S.A.",
         "autorizata/Asociatifamiliale/Cabinete",
         "neguivemamentale/Fundati/Asociatif?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53434,7 +53998,9 @@
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvernamentale/Fundati/Asociati)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53469,7 +54035,9 @@
       "entitati": [
         "3.1Sindicatul Liber Transloc-Presedinte",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociati"
-      ]
+      ],
+      "nume": "ROLEA",
+      "nume_norm": "ROLEA"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53485,7 +54053,9 @@
       "entitati": [
         "BRAICAR SA",
         "Societati comerciale/ Persoana fizica autorizata/Asociatii familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "ROSCA",
+      "nume_norm": "ROSCA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53503,7 +54073,9 @@
         "autorizata/Asociatifamiliale/Cabinete",
         "economic,aleasociafilorsau fundatilor oriale altor organizatii neguvernamentale:",
         "neguvemamentale/Fundati/ Asociatf?"
-      ]
+      ],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "ELTRANS SA",
@@ -53534,7 +54106,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvenamentale/ Fundafi/ Asociati?)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53568,7 +54142,9 @@
       "entitati": [
         "3.1......SINDICATULLIBERL.1PITESTImembru",
         "autorizatalAsociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53583,7 +54159,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "ROSCA",
+      "nume_norm": "ROSCA"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53617,7 +54195,9 @@
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i",
         "desfasoara profesia de avocat/ Organizatii neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "RUSINOIU",
+      "nume_norm": "RUSINOIU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53633,7 +54213,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/Fundati/Asociati?)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53648,7 +54230,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "BERDANT",
+      "nume_norm": "BERDANT"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53664,7 +54248,9 @@
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundatii/ Asociati"
-      ]
+      ],
+      "nume": "RUSINOIU",
+      "nume_norm": "RUSINOIU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53679,7 +54265,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "MEMBRU",
+      "nume_norm": "MEMBRU"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53696,7 +54284,9 @@
         "1.1 BRAICAR SA- Braila",
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i",
         "desfasoara profesia de avocat/ Organizatii neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "MICU",
+      "nume_norm": "MICU"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53731,7 +54321,9 @@
       "entitati": [
         "1.1 Braicar SA- Braila Braila",
         "1.1 Magicereal SA- Voluntari Ilfov"
-      ]
+      ],
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53747,7 +54339,9 @@
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "MIHAI",
+      "nume_norm": "MIHAI"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53763,7 +54357,9 @@
       "entitati": [
         "1.1 SC APT SA-Braila",
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "DOMNITEANU",
+      "nume_norm": "DOMNITEANU"
     },
     {
       "institutie": "BRAICAR SA",
@@ -53779,7 +54375,9 @@
       "entitati": [
         "1.1 Braicar SA -Braila",
         "1.1 Magicereal SA - Ilfov"
-      ]
+      ],
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53813,7 +54411,9 @@
       "valoare_contracte_ron": 300,
       "entitati": [
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati Asociati2)"
-      ]
+      ],
+      "nume": "PLASOIANU",
+      "nume_norm": "PLASOIANU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53830,7 +54430,9 @@
         "3.1......SINDICATULLIBERINDEPENDENTAOUATERM",
         "autorizatalAsociatifamiliale/Cabinete",
         "neguvemamentale/FundatiAsociatii?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53870,7 +54472,9 @@
         "autorizatalAsociatifamiliale/Cabinete",
         "economic,aleasociatilor sau fundatilor orialealtor organizafii neguvernamentale:",
         "neguvemamentale/Fundati/Asociati?)"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53902,7 +54506,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "1.1 BRAICAR SA -Braila"
-      ]
+      ],
+      "nume": "COMAN",
+      "nume_norm": "COMAN"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53933,7 +54539,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -53965,7 +54573,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATULLIBER TRANSLOC--MEMBRU"
-      ]
+      ],
+      "nume": "STRATULAT",
+      "nume_norm": "STRATULAT"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53982,7 +54592,9 @@
         "2.1.S.C.Publitrans 2000 S.A.",
         "autorizatalAsociatifamiliale/Cabinete",
         "economic, ale asociatilor sau fundatilor oriale altor organizatii neguvernamenta"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -53998,7 +54610,9 @@
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvemamentale/Fundati/Asociati?"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54028,7 +54642,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "desfasoara profesia de avocat/ Organizatii neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "BREZUICA",
+      "nume_norm": "BREZUICA"
     },
     {
       "institutie": "BRAICAR SA",
@@ -54045,7 +54661,9 @@
         "3.1 SINDICATULLIBER TRANSLOC-MEMBRU",
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "STRATULAT",
+      "nume_norm": "STRATULAT"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54061,7 +54679,9 @@
       "entitati": [
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvernamentale/Fundati/Asociatii)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54167,7 +54787,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "DINU",
+      "nume_norm": "DINU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54201,7 +54823,9 @@
         ". Membru in organizatia PSD Pitesti",
         "Asociati familiale/ Cabinete individuale, cabinete",
         "Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54258,7 +54882,9 @@
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvernamentale/Fundatii/Asociati)."
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54284,7 +54910,9 @@
         "4.1. Partidul Social Democrat Roman -- Mures -- Trezorier",
         "Asociatiifamiliale/Cabinete",
         "Fundati/Asociati 2)"
-      ]
+      ],
+      "nume": "CAZAN",
+      "nume_norm": "CAZAN"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54317,7 +54945,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "desfasoara profesia de avocat/ Organizatii neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "BREZUICA",
+      "nume_norm": "BREZUICA"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54332,7 +54962,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societaticomerciale/Persoanafizicaautorizata/Asociatiifamiliale/Cabinete individ"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54348,7 +54980,9 @@
       "entitati": [
         "autorizata/Asociatiifamiliale/Cabinete",
         "neguvernamentale/Fundati/Asociati)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54364,7 +54998,9 @@
       "entitati": [
         "leguvernamentale/Fundati/Asociatif)",
         "utorizata/ Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "PRESEDINTE",
+      "nume_norm": "PRESEDINTE"
     },
     {
       "institutie": "BRAICAR SA",
@@ -54380,7 +55016,9 @@
       "entitati": [
         "3.1SINDICATUL LIBER TRANSLOC-MEMBRU",
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "DOBRESCU",
+      "nume_norm": "DOBRESCU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54395,7 +55033,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/Persoanafizicaautorizata/Asociatii familiale/Cabinete indiv"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54408,7 +55048,9 @@
       "contracte": 2,
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 20400,
-      "entitati": []
+      "entitati": [],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54440,7 +55082,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
-      ]
+      ],
+      "nume": "BALABAN",
+      "nume_norm": "BALABAN"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54456,7 +55100,9 @@
       "entitati": [
         "1.2 TRANSELECTRICA SA",
         "Societati comerciale/Persoana fizica autorizata/Asociatii familiale/ Cabinete in"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54474,7 +55120,9 @@
         "2. 1 SC Publitrans 2000 SA",
         "Asociati familiale/Cabinete individurale cabinete",
         "Fundativ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54491,7 +55139,9 @@
         "1.1ASOCIATIADEDEZVOLTARESI",
         "1.3Publitrans 2000 SA-Pitesti Arges",
         "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundatii/ Asociatii)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54508,7 +55158,9 @@
         "2.1. S.C.Publitrans 200 SA Pitesti",
         "3.1.MembruSindicatAPIA",
         "autorizata/Asociatifamiliale/Cabinete"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54524,7 +55176,9 @@
       "entitati": [
         "autonizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54541,7 +55195,9 @@
         "Hodos Consulting SRL,",
         "Parole Fitness Clasic SRL,",
         "SC Publitrans 2000 SA,"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54557,7 +55213,9 @@
       "entitati": [
         "autorizataAsociatiifamiliale/Cabinele",
         "neguveinamentale/Fundati/Asociati?)"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54607,7 +55265,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "TEHNIC",
+      "nume_norm": "TEHNIC"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54624,7 +55284,9 @@
         "2.1......SCPUBLITRANS 2000 SA",
         "autorizata/AsociatifamilialeCabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54641,7 +55303,9 @@
         "2.1......SC PUBLITRANS 2000 SA",
         "autorizata/ Asociatii familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ADMINISTRATOR",
+      "nume_norm": "ADMINISTRATOR"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54658,7 +55322,9 @@
         "civile profesicale sa societati civile",
         "economic,ale asociatiilor sau fundatiilor oriale altor organizatii neguvernament",
         "negtivenanentale/ Fundati Asociati"
-      ]
+      ],
+      "nume": "PRESEDINTE",
+      "nume_norm": "PRESEDINTE"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54692,7 +55358,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "ECONOMIC",
+      "nume_norm": "ECONOMIC"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54717,7 +55385,9 @@
         "cconomic, ale asociatilor sau fundatiilor oni ale altor organizatii neguvennamen",
         "neguvemamentale/ Fundati/ Asociati?",
         "preeum si membrun asoeiai, fundati sa alte organizan neguvernamental"
-      ]
+      ],
+      "nume": "PETI",
+      "nume_norm": "PETI"
     },
     {
       "institutie": "REGIA AUTONOMĂ \"AEROPORTUL TRANSILVANIA-TÂRGU MUREȘ\"",
@@ -54751,7 +55421,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 SINDICATULLIBER TRANSLOC - MEMBRU"
-      ]
+      ],
+      "nume": "DOBRESCU",
+      "nume_norm": "DOBRESCU"
     },
     {
       "institutie": "PUBLITRANS 2000 SA",
@@ -54767,7 +55439,9 @@
       "entitati": [
         "autorizataAsociatiifamiliale/Cabinele",
         "neguveinamentale/Fundati/Asociati?)"
-      ]
+      ],
+      "nume": "GENERAL",
+      "nume_norm": "GENERAL"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -54784,7 +55458,9 @@
         "2.1...S.ARSENAL-RESITA S.A.",
         "autorizata/ Asociati familiale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "POPA",
+      "nume_norm": "POPA"
     },
     {
       "institutie": "FABRICA DE PULBERI SA",
@@ -54998,7 +55674,9 @@
       "entitati": [
         "Societaticomerciale/Persoanafizicaautorizata/Asociatiifamiliale/Cabineteindividu",
         "desfasoara profesiadeavocat/Organizatii neguvernamentale/Fundati/Asociati"
-      ]
+      ],
+      "nume": "STROE",
+      "nume_norm": "STROE"
     },
     {
       "institutie": "OCOLUL SILVIC MAIERU RA",
@@ -55108,7 +55786,9 @@
         "Membru de sindicat SNFP",
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvenamentale/ Fundafi/ Asociati?)"
-      ]
+      ],
+      "nume": "GOANTA",
+      "nume_norm": "GOANTA"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -55123,7 +55803,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "PAUN",
+      "nume_norm": "PAUN"
     },
     {
       "institutie": "LOCATIV SA",
@@ -55288,7 +55970,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "2.1SAOJAL QESTA SA."
-      ]
+      ],
+      "nume": "FILIPESCU",
+      "nume_norm": "FILIPESCU"
     },
     {
       "institutie": "ARSENAL-RESITA SA FILIALA A COMPANIEI NATIONALE ROMARM SA",
@@ -55303,7 +55987,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "Societati comerciale/Persoana fizica autorizata/Asociatilifamiliale/Cabineteindi"
-      ]
+      ],
+      "nume": "ILINOIU",
+      "nume_norm": "ILINOIU"
     },
     {
       "institutie": "UZINA MECANICA ORASTIE SA",
@@ -55777,7 +56463,9 @@
       "entitati": [
         "autorizata/ Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "SACHELARIU",
+      "nume_norm": "SACHELARIU"
     },
     {
       "institutie": "LOCATIV SA",
@@ -56603,7 +57291,9 @@
       "entitati": [
         "1.1LigaAsociatilordeProprietari",
         "desfasoara profesia de avocat/ Organizatii neguvernamentale/ Fundati/ Asociati2)"
-      ]
+      ],
+      "nume": "ORBAN",
+      "nume_norm": "ORBAN"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
@@ -56636,7 +57326,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "AsociatiifamilialeCabincteindividualecabincte"
-      ]
+      ],
+      "nume": "COMAN",
+      "nume_norm": "COMAN"
     },
     {
       "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
@@ -56793,7 +57485,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete"
-      ]
+      ],
+      "nume": "MARCU",
+      "nume_norm": "MARCU"
     },
     {
       "institutie": "OCOLUL SILVIC MAIERU RA",
@@ -57759,7 +58453,9 @@
       "entitati": [
         "autorizata/ Asociatifamiliale/ Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
-      ]
+      ],
+      "nume": "DUMITRIU",
+      "nume_norm": "DUMITRIU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -58202,7 +58898,9 @@
         "Asociati?",
         "autorizata/ Asociati familiale/",
         "neguvenamentale/ Fundati/"
-      ]
+      ],
+      "nume": "PARASCHIV",
+      "nume_norm": "PARASCHIV"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -58452,7 +59150,9 @@
         "2.2. ACTIVE CONEXE S.A., Bucuresti -- sector 1, str.",
         "2.3. ICART S.A.. Gura Humorului, str. Bucovinei, nr.",
         "aultorizata/ Asociatii farniliale/ Cabinete"
-      ]
+      ],
+      "nume": "COSTACHE",
+      "nume_norm": "COSTACHE"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -58898,7 +59598,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/ Cabinete",
         "neguvernamentale/Fundati/ Asociati?)"
-      ]
+      ],
+      "nume": "POPESCU",
+      "nume_norm": "POPESCU"
     },
     {
       "institutie": "ACTIVE CONEXE S.A.",
@@ -60104,7 +60806,9 @@
         "Asociati?)",
         "autorizata/Asociatiifamilialel",
         "neguvenamentale/Fundati"
-      ]
+      ],
+      "nume": "NECSULESCU",
+      "nume_norm": "NECSULESCU"
     },
     {
       "institutie": "CONPET SA",

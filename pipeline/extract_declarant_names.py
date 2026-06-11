@@ -43,10 +43,16 @@ def extract_name(url: str) -> str | None:
     fn = re.sub(r"\.pdf$", "", fn, flags=re.I)
     s = re.sub(r"[._\-+]+", " ", fn)              # separatori → spațiu
     s = re.sub(r"\b([A-Za-zĂÂÎȘȚăâîșț])\b\.?", " ", s)  # inițiale o-literă (D., C.)
+    # marker clar de declarație în filename → permite și UN singur nume de familie după el
+    had_marker = bool(re.search(r"\b(declaratie|avere|interese|da|di|dai)\b", s, re.I))
     s = _MARKERS.sub(" ", s)
     s = re.sub(r"\d", " ", s)                     # cifre rămase
     toks = [t for t in s.split() if len(t) >= 2 and re.match(r"[A-Za-zĂÂÎȘȚăâîșț]", t)]
     if len(toks) < 2:
+        # fallback single-token: marker clar + exact 1 token alfabetic ≥4 litere = nume de familie
+        if had_marker and len(toks) == 1 and len(toks[0]) >= 4:
+            nm = toks[0].upper()
+            return nm if nm not in _GENERIC else None
         return None
     name = " ".join(toks).upper().strip()
     if name in _GENERIC or len(name) < 5:

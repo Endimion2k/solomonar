@@ -90,7 +90,9 @@
       "conturi_ron": 0,
       "venituri_ron": 106088,
       "datorii_ron": 123687,
-      "auto": 6
+      "auto": 6,
+      "nume": "BADEA",
+      "nume_norm": "BADEA"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -123,7 +125,9 @@
       "conturi_ron": 0,
       "venituri_ron": 84298,
       "datorii_ron": 88500,
-      "auto": 6
+      "auto": 6,
+      "nume": "BADEA",
+      "nume_norm": "BADEA"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -158,7 +162,9 @@
       "conturi_ron": 0,
       "venituri_ron": 179089,
       "datorii_ron": 730000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BSLA",
+      "nume_norm": "BSLA"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -312,7 +318,9 @@
       "conturi_ron": 0,
       "venituri_ron": 205379,
       "datorii_ron": 27000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BSLA",
+      "nume_norm": "BSLA"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -1423,7 +1431,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73086,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PREDA",
+      "nume_norm": "PREDA"
     },
     {
       "institutie": "ECO - SAL SA",
@@ -1486,7 +1496,9 @@
       "conturi_ron": 0,
       "venituri_ron": 55620,
       "datorii_ron": 47000,
-      "auto": 5
+      "auto": 5,
+      "nume": "CHIROIU",
+      "nume_norm": "CHIROIU"
     },
     {
       "institutie": "ECO - SAL SA",
@@ -1575,7 +1587,9 @@
       "conturi_ron": 0,
       "venituri_ron": 68095,
       "datorii_ron": 40000,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGOMIR",
+      "nume_norm": "DRAGOMIR"
     },
     {
       "institutie": "ECO - SAL SA",
@@ -1872,7 +1886,9 @@
       "conturi_ron": 0,
       "venituri_ron": 27120,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RISTEA",
+      "nume_norm": "RISTEA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -2455,7 +2471,9 @@
       "conturi_ron": 0,
       "venituri_ron": 163906,
       "datorii_ron": 16000,
-      "auto": 6
+      "auto": 6,
+      "nume": "DRAGOMIR",
+      "nume_norm": "DRAGOMIR"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -2583,7 +2601,9 @@
       "conturi_ron": 0,
       "venituri_ron": 160877,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "SELNER",
+      "nume_norm": "SELNER"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -2659,7 +2679,9 @@
       "conturi_ron": 0,
       "venituri_ron": 186752,
       "datorii_ron": 126250,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUMINICA",
+      "nume_norm": "DUMINICA"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -2787,7 +2809,9 @@
       "conturi_ron": 0,
       "venituri_ron": 93175,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "POPA",
+      "nume_norm": "POPA"
     },
     {
       "institutie": "CALORGAL S.R.L.",
@@ -2798,7 +2822,9 @@
       "conturi_ron": 0,
       "venituri_ron": 183532,
       "datorii_ron": 126250,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUMINICA",
+      "nume_norm": "DUMINICA"
     },
     {
       "institutie": "CALORGAL S.R.L.",
@@ -4486,7 +4512,9 @@
       "conturi_ron": 0,
       "venituri_ron": 174315,
       "datorii_ron": 505000,
-      "auto": 6
+      "auto": 6,
+      "nume": "SCHIOPU",
+      "nume_norm": "SCHIOPU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4497,7 +4525,9 @@
       "conturi_ron": 0,
       "venituri_ron": 184460,
       "datorii_ron": 256500,
-      "auto": 5
+      "auto": 5,
+      "nume": "GALATANU",
+      "nume_norm": "GALATANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4508,7 +4538,9 @@
       "conturi_ron": 0,
       "venituri_ron": 140635,
       "datorii_ron": 505000,
-      "auto": 6
+      "auto": 6,
+      "nume": "SCHIOPU",
+      "nume_norm": "SCHIOPU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4519,7 +4551,9 @@
       "conturi_ron": 0,
       "venituri_ron": 115768,
       "datorii_ron": 505000,
-      "auto": 6
+      "auto": 6,
+      "nume": "SCHIOPU",
+      "nume_norm": "SCHIOPU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4530,7 +4564,9 @@
       "conturi_ron": 0,
       "venituri_ron": 220076,
       "datorii_ron": 57676,
-      "auto": 5
+      "auto": 5,
+      "nume": "TARABOANTA",
+      "nume_norm": "TARABOANTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4541,7 +4577,9 @@
       "conturi_ron": 0,
       "venituri_ron": 239419,
       "datorii_ron": 57676,
-      "auto": 5
+      "auto": 5,
+      "nume": "TARABOANTA",
+      "nume_norm": "TARABOANTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4552,7 +4590,9 @@
       "conturi_ron": 0,
       "venituri_ron": 169651,
       "datorii_ron": 256500,
-      "auto": 5
+      "auto": 5,
+      "nume": "GALATANU",
+      "nume_norm": "GALATANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4563,7 +4603,9 @@
       "conturi_ron": 0,
       "venituri_ron": 173225,
       "datorii_ron": 57676,
-      "auto": 5
+      "auto": 5,
+      "nume": "TARABOANTA",
+      "nume_norm": "TARABOANTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4574,7 +4616,9 @@
       "conturi_ron": 0,
       "venituri_ron": 106578,
       "datorii_ron": 290600,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIULEI",
+      "nume_norm": "CIULEI"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4585,7 +4629,9 @@
       "conturi_ron": 0,
       "venituri_ron": 164622,
       "datorii_ron": 22000,
-      "auto": 4
+      "auto": 4,
+      "nume": "ADAM",
+      "nume_norm": "ADAM"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4596,7 +4642,9 @@
       "conturi_ron": 0,
       "venituri_ron": 213377,
       "datorii_ron": 256500,
-      "auto": 5
+      "auto": 5,
+      "nume": "GALATANU",
+      "nume_norm": "GALATANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4607,7 +4655,9 @@
       "conturi_ron": 0,
       "venituri_ron": 122818,
       "datorii_ron": 190100,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBREA",
+      "nume_norm": "DOBREA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4618,7 +4668,9 @@
       "conturi_ron": 0,
       "venituri_ron": 126779,
       "datorii_ron": 201297,
-      "auto": 5
+      "auto": 5,
+      "nume": "BOTAN",
+      "nume_norm": "BOTAN"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4629,7 +4681,9 @@
       "conturi_ron": 0,
       "venituri_ron": 154392,
       "datorii_ron": 94000,
-      "auto": 5
+      "auto": 5,
+      "nume": "LEAHU",
+      "nume_norm": "LEAHU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4640,7 +4694,9 @@
       "conturi_ron": 0,
       "venituri_ron": 187826,
       "datorii_ron": 310000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CRENGUTA",
+      "nume_norm": "CRENGUTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4651,7 +4707,9 @@
       "conturi_ron": 0,
       "venituri_ron": 113746,
       "datorii_ron": 190100,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBREA",
+      "nume_norm": "DOBREA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4662,7 +4720,9 @@
       "conturi_ron": 0,
       "venituri_ron": 157314,
       "datorii_ron": 273150,
-      "auto": 5
+      "auto": 5,
+      "nume": "BETY",
+      "nume_norm": "BETY"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4673,7 +4733,9 @@
       "conturi_ron": 0,
       "venituri_ron": 203635,
       "datorii_ron": 310000,
-      "auto": 5
+      "auto": 5,
+      "nume": "CRENGUTA",
+      "nume_norm": "CRENGUTA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4684,7 +4746,9 @@
       "conturi_ron": 0,
       "venituri_ron": 155656,
       "datorii_ron": 201297,
-      "auto": 5
+      "auto": 5,
+      "nume": "BOTAN",
+      "nume_norm": "BOTAN"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4695,7 +4759,9 @@
       "conturi_ron": 0,
       "venituri_ron": 147411,
       "datorii_ron": 470000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BURTIANU",
+      "nume_norm": "BURTIANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4706,7 +4772,9 @@
       "conturi_ron": 0,
       "venituri_ron": 187975,
       "datorii_ron": 94000,
-      "auto": 5
+      "auto": 5,
+      "nume": "LEAHU",
+      "nume_norm": "LEAHU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4717,7 +4785,9 @@
       "conturi_ron": 0,
       "venituri_ron": 181533,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "PLESCA",
+      "nume_norm": "PLESCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4728,7 +4798,9 @@
       "conturi_ron": 0,
       "venituri_ron": 166887,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "PLESCA",
+      "nume_norm": "PLESCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4739,7 +4811,9 @@
       "conturi_ron": 0,
       "venituri_ron": 151658,
       "datorii_ron": 470000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BURTIANU",
+      "nume_norm": "BURTIANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4750,7 +4824,9 @@
       "conturi_ron": 0,
       "venituri_ron": 157908,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "PLESCA",
+      "nume_norm": "PLESCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4761,7 +4837,9 @@
       "conturi_ron": 0,
       "venituri_ron": 109179,
       "datorii_ron": 129615,
-      "auto": 6
+      "auto": 6,
+      "nume": "DOBREA",
+      "nume_norm": "DOBREA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4772,7 +4850,9 @@
       "conturi_ron": 0,
       "venituri_ron": 144750,
       "datorii_ron": 94000,
-      "auto": 5
+      "auto": 5,
+      "nume": "LEAHU",
+      "nume_norm": "LEAHU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4783,7 +4863,9 @@
       "conturi_ron": 0,
       "venituri_ron": 90196,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "COJOCARU",
+      "nume_norm": "COJOCARU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4794,7 +4876,9 @@
       "conturi_ron": 0,
       "venituri_ron": 100784,
       "datorii_ron": 225886,
-      "auto": 5
+      "auto": 5,
+      "nume": "HLIBOCEANU",
+      "nume_norm": "HLIBOCEANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4805,7 +4889,9 @@
       "conturi_ron": 0,
       "venituri_ron": 185307,
       "datorii_ron": 269731,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANUSCA",
+      "nume_norm": "ANUSCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4816,7 +4902,9 @@
       "conturi_ron": 0,
       "venituri_ron": 93790,
       "datorii_ron": 76760,
-      "auto": 4
+      "auto": 4,
+      "nume": "SPIRIDON",
+      "nume_norm": "SPIRIDON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4827,7 +4915,9 @@
       "conturi_ron": 0,
       "venituri_ron": 192560,
       "datorii_ron": 614282,
-      "auto": 5
+      "auto": 5,
+      "nume": "BULARDA",
+      "nume_norm": "BULARDA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4838,7 +4928,9 @@
       "conturi_ron": 0,
       "venituri_ron": 86698,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "COJOCARU",
+      "nume_norm": "COJOCARU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4862,7 +4954,9 @@
       "conturi_ron": 0,
       "venituri_ron": 168626,
       "datorii_ron": 614282,
-      "auto": 5
+      "auto": 5,
+      "nume": "BULARDAC",
+      "nume_norm": "BULARDAC"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4873,7 +4967,9 @@
       "conturi_ron": 0,
       "venituri_ron": 110450,
       "datorii_ron": 225886,
-      "auto": 6
+      "auto": 6,
+      "nume": "HLIBOCEANU",
+      "nume_norm": "HLIBOCEANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4884,7 +4980,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76867,
       "datorii_ron": 42925,
-      "auto": 5
+      "auto": 5,
+      "nume": "SPIRIDON",
+      "nume_norm": "SPIRIDON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4895,7 +4993,9 @@
       "conturi_ron": 0,
       "venituri_ron": 137828,
       "datorii_ron": 86700,
-      "auto": 6
+      "auto": 6,
+      "nume": "CANTEMIR",
+      "nume_norm": "CANTEMIR"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4906,7 +5006,9 @@
       "conturi_ron": 0,
       "venituri_ron": 108437,
       "datorii_ron": 225886,
-      "auto": 6
+      "auto": 6,
+      "nume": "HLIBOCEANU",
+      "nume_norm": "HLIBOCEANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4917,7 +5019,9 @@
       "conturi_ron": 0,
       "venituri_ron": 83017,
       "datorii_ron": 36360,
-      "auto": 5
+      "auto": 5,
+      "nume": "SPIRIDON",
+      "nume_norm": "SPIRIDON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4928,7 +5032,9 @@
       "conturi_ron": 0,
       "venituri_ron": 216289,
       "datorii_ron": 269731,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANUSCA",
+      "nume_norm": "ANUSCA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4939,7 +5045,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118693,
       "datorii_ron": 80000,
-      "auto": 5
+      "auto": 5,
+      "nume": "CANTEMIR",
+      "nume_norm": "CANTEMIR"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4950,7 +5058,9 @@
       "conturi_ron": 0,
       "venituri_ron": 190607,
       "datorii_ron": 614282,
-      "auto": 5
+      "auto": 5,
+      "nume": "BULARDAOANA",
+      "nume_norm": "BULARDAOANA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4961,7 +5071,9 @@
       "conturi_ron": 0,
       "venituri_ron": 181624,
       "datorii_ron": 50600,
-      "auto": 5
+      "auto": 5,
+      "nume": "PIPIRIG",
+      "nume_norm": "PIPIRIG"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4972,7 +5084,9 @@
       "conturi_ron": 0,
       "venituri_ron": 113234,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "FILIMON",
+      "nume_norm": "FILIMON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4983,7 +5097,9 @@
       "conturi_ron": 0,
       "venituri_ron": 127366,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "FILIMON",
+      "nume_norm": "FILIMON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -4994,7 +5110,9 @@
       "conturi_ron": 0,
       "venituri_ron": 146896,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "FILIMON",
+      "nume_norm": "FILIMON"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5005,7 +5123,9 @@
       "conturi_ron": 0,
       "venituri_ron": 84223,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CONDREA",
+      "nume_norm": "CONDREA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5016,7 +5136,9 @@
       "conturi_ron": 0,
       "venituri_ron": 250338,
       "datorii_ron": 416330,
-      "auto": 5
+      "auto": 5,
+      "nume": "PIPIRIG",
+      "nume_norm": "PIPIRIG"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5027,7 +5149,9 @@
       "conturi_ron": 0,
       "venituri_ron": 154794,
       "datorii_ron": 614282,
-      "auto": 5
+      "auto": 5,
+      "nume": "OANAB",
+      "nume_norm": "OANAB"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5038,7 +5162,9 @@
       "conturi_ron": 0,
       "venituri_ron": 98823,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CONDREA",
+      "nume_norm": "CONDREA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5049,7 +5175,9 @@
       "conturi_ron": 0,
       "venituri_ron": 77043,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CONDREA",
+      "nume_norm": "CONDREA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5060,7 +5188,9 @@
       "conturi_ron": 0,
       "venituri_ron": 160100,
       "datorii_ron": 287400,
-      "auto": 6
+      "auto": 6,
+      "nume": "DERLA",
+      "nume_norm": "DERLA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5071,7 +5201,9 @@
       "conturi_ron": 0,
       "venituri_ron": 193493,
       "datorii_ron": 50600,
-      "auto": 5
+      "auto": 5,
+      "nume": "PIPIRIG",
+      "nume_norm": "PIPIRIG"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -5082,7 +5214,9 @@
       "conturi_ron": 0,
       "venituri_ron": 168626,
       "datorii_ron": 614282,
-      "auto": 5
+      "auto": 5,
+      "nume": "BULARDAO",
+      "nume_norm": "BULARDAO"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5106,7 +5240,9 @@
       "conturi_ron": 0,
       "venituri_ron": 135000,
       "datorii_ron": 287400,
-      "auto": 5
+      "auto": 5,
+      "nume": "DERLA",
+      "nume_norm": "DERLA"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5117,7 +5253,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73376,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DIGULESCU",
+      "nume_norm": "DIGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5128,7 +5266,9 @@
       "conturi_ron": 0,
       "venituri_ron": 86000,
       "datorii_ron": 220000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BALTA",
+      "nume_norm": "BALTA"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5178,7 +5318,9 @@
       "conturi_ron": 227250,
       "venituri_ron": 71173,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5319,7 +5461,9 @@
       "conturi_ron": 0,
       "venituri_ron": 162470,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IVANCU",
+      "nume_norm": "IVANCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5343,7 +5487,9 @@
       "conturi_ron": 227250,
       "venituri_ron": 190173,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5380,7 +5526,9 @@
       "conturi_ron": 227250,
       "venituri_ron": 190173,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5391,7 +5539,9 @@
       "conturi_ron": 0,
       "venituri_ron": 66462,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "STELESCU",
+      "nume_norm": "STELESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5428,7 +5578,9 @@
       "conturi_ron": 0,
       "venituri_ron": 78235,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CALOTA",
+      "nume_norm": "CALOTA"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5491,7 +5643,9 @@
       "conturi_ron": 300475,
       "venituri_ron": 209483,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "STAVAROIU",
+      "nume_norm": "STAVAROIU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5515,7 +5669,9 @@
       "conturi_ron": 227250,
       "venituri_ron": 169969,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5526,7 +5682,9 @@
       "conturi_ron": 0,
       "venituri_ron": 86000,
       "datorii_ron": 220000,
-      "auto": 5
+      "auto": 5,
+      "nume": "BALTA",
+      "nume_norm": "BALTA"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5576,7 +5734,9 @@
       "conturi_ron": 0,
       "venituri_ron": 155659,
       "datorii_ron": 171563,
-      "auto": 5
+      "auto": 5,
+      "nume": "BRINZAN",
+      "nume_norm": "BRINZAN"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5626,7 +5786,9 @@
       "conturi_ron": 0,
       "venituri_ron": 148478,
       "datorii_ron": 297000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BEJIARU",
+      "nume_norm": "BEJIARU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5676,7 +5838,9 @@
       "conturi_ron": 227250,
       "venituri_ron": 169969,
       "datorii_ron": 252500,
-      "auto": 7
+      "auto": 7,
+      "nume": "DRAGULESCU",
+      "nume_norm": "DRAGULESCU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -5739,7 +5903,9 @@
       "conturi_ron": 0,
       "venituri_ron": 223817,
       "datorii_ron": 190295,
-      "auto": 5
+      "auto": 5,
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "MINPREST SERV SA",
@@ -6803,7 +6969,9 @@
       "conturi_ron": 0,
       "venituri_ron": 100080,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHIUTA",
+      "nume_norm": "CHIUTA"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -6905,7 +7073,9 @@
       "conturi_ron": 0,
       "venituri_ron": 168936,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "FLORESCU",
+      "nume_norm": "FLORESCU"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -6942,7 +7112,9 @@
       "conturi_ron": 0,
       "venituri_ron": 56800,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHIUTA",
+      "nume_norm": "CHIUTA"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -6953,7 +7125,9 @@
       "conturi_ron": 0,
       "venituri_ron": 57498,
       "datorii_ron": 40000,
-      "auto": 6
+      "auto": 6,
+      "nume": "CLOSCAN",
+      "nume_norm": "CLOSCAN"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -7003,7 +7177,9 @@
       "conturi_ron": 0,
       "venituri_ron": 74520,
       "datorii_ron": 30300,
-      "auto": 5
+      "auto": 5,
+      "nume": "MICU",
+      "nume_norm": "MICU"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -7040,7 +7216,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73178,
       "datorii_ron": 40000,
-      "auto": 6
+      "auto": 6,
+      "nume": "CLOSCAN",
+      "nume_norm": "CLOSCAN"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -7218,7 +7396,9 @@
       "conturi_ron": 0,
       "venituri_ron": 376555,
       "datorii_ron": 200000,
-      "auto": 4
+      "auto": 4,
+      "nume": "BALACEANU",
+      "nume_norm": "BALACEANU"
     },
     {
       "institutie": "SCĂRIŞOARA PRICONSERV SRL",
@@ -7294,7 +7474,9 @@
       "conturi_ron": 210000,
       "venituri_ron": 358071,
       "datorii_ron": 56747,
-      "auto": 5
+      "auto": 5,
+      "nume": "TAPALAGA",
+      "nume_norm": "TAPALAGA"
     },
     {
       "institutie": "SCĂRIŞOARA PRICONSERV SRL",
@@ -7383,7 +7565,9 @@
       "conturi_ron": 0,
       "venituri_ron": 245600,
       "datorii_ron": 271845,
-      "auto": 5
+      "auto": 5,
+      "nume": "PARIS",
+      "nume_norm": "PARIS"
     },
     {
       "institutie": "SCĂRIŞOARA PRICONSERV SRL",
@@ -7407,7 +7591,9 @@
       "conturi_ron": 0,
       "venituri_ron": 90300,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "NEAG",
+      "nume_norm": "NEAG"
     },
     {
       "institutie": "SALUBRITATE 2000 SA",
@@ -8038,7 +8224,9 @@
       "conturi_ron": 0,
       "venituri_ron": 117727,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DIACONESCU",
+      "nume_norm": "DIACONESCU"
     },
     {
       "institutie": "SALUBRITATE 2000 SA",
@@ -8049,7 +8237,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "DRAGOMIR",
+      "nume_norm": "DRAGOMIR"
     },
     {
       "institutie": "SALUBRITATE 2000 SA",
@@ -8994,7 +9184,9 @@
       "conturi_ron": 0,
       "venituri_ron": 241024,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "OANCEA",
+      "nume_norm": "OANCEA"
     },
     {
       "institutie": "IOR SA",
@@ -9027,7 +9219,9 @@
       "conturi_ron": 0,
       "venituri_ron": 264168,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "OANCEA",
+      "nume_norm": "OANCEA"
     },
     {
       "institutie": "IOR SA",
@@ -9051,7 +9245,9 @@
       "conturi_ron": 0,
       "venituri_ron": 264168,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "OANCEA",
+      "nume_norm": "OANCEA"
     },
     {
       "institutie": "IOR SA",
@@ -9158,7 +9354,9 @@
       "conturi_ron": 0,
       "venituri_ron": 186860,
       "datorii_ron": 65526,
-      "auto": 5
+      "auto": 5,
+      "nume": "ADAM",
+      "nume_norm": "ADAM"
     },
     {
       "institutie": "IOR SA",
@@ -9193,7 +9391,9 @@
       "conturi_ron": 0,
       "venituri_ron": 104194,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BUGA",
+      "nume_norm": "BUGA"
     },
     {
       "institutie": "IOR SA",
@@ -9241,7 +9441,9 @@
       "conturi_ron": 78346,
       "venituri_ron": 156881,
       "datorii_ron": 131300,
-      "auto": 4
+      "auto": 4,
+      "nume": "CRETOIU",
+      "nume_norm": "CRETOIU"
     },
     {
       "institutie": "IOR SA",
@@ -9289,7 +9491,9 @@
       "conturi_ron": 80427,
       "venituri_ron": 156881,
       "datorii_ron": 161300,
-      "auto": 5
+      "auto": 5,
+      "nume": "CRETOIU",
+      "nume_norm": "CRETOIU"
     },
     {
       "institutie": "IOR SA",
@@ -9300,7 +9504,9 @@
       "conturi_ron": 0,
       "venituri_ron": 122315,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIUI",
+      "nume_norm": "CIUI"
     },
     {
       "institutie": "IOR SA",
@@ -9359,7 +9565,9 @@
       "conturi_ron": 0,
       "venituri_ron": 198303,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DANEASA",
+      "nume_norm": "DANEASA"
     },
     {
       "institutie": "IOR SA",
@@ -9370,7 +9578,9 @@
       "conturi_ron": 0,
       "venituri_ron": 113851,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DIMULESCU",
+      "nume_norm": "DIMULESCU"
     },
     {
       "institutie": "IOR SA",
@@ -9488,7 +9698,9 @@
       "conturi_ron": 0,
       "venituri_ron": 127433,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "ENACHE",
+      "nume_norm": "ENACHE"
     },
     {
       "institutie": "IOR SA",
@@ -9597,7 +9809,9 @@
       "conturi_ron": 0,
       "venituri_ron": 54408,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IORGA",
+      "nume_norm": "IORGA"
     },
     {
       "institutie": "IOR SA",
@@ -9608,7 +9822,9 @@
       "conturi_ron": 0,
       "venituri_ron": 106602,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "JALBA",
+      "nume_norm": "JALBA"
     },
     {
       "institutie": "IOR SA",
@@ -9619,7 +9835,9 @@
       "conturi_ron": 0,
       "venituri_ron": 763832,
       "datorii_ron": 314709,
-      "auto": 4
+      "auto": 4,
+      "nume": "IAMANDI",
+      "nume_norm": "IAMANDI"
     },
     {
       "institutie": "IOR SA",
@@ -9713,7 +9931,9 @@
       "conturi_ron": 23700,
       "venituri_ron": 142933,
       "datorii_ron": 94500,
-      "auto": 5
+      "auto": 5,
+      "nume": "MANAFU",
+      "nume_norm": "MANAFU"
     },
     {
       "institutie": "IOR SA",
@@ -9748,7 +9968,9 @@
       "conturi_ron": 0,
       "venituri_ron": 321955,
       "datorii_ron": 2660553,
-      "auto": 4
+      "auto": 4,
+      "nume": "PETRASCU",
+      "nume_norm": "PETRASCU"
     },
     {
       "institutie": "IOR SA",
@@ -9772,7 +9994,9 @@
       "conturi_ron": 0,
       "venituri_ron": 229795,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "NEDELCEA",
+      "nume_norm": "NEDELCEA"
     },
     {
       "institutie": "IOR SA",
@@ -9883,7 +10107,9 @@
       "conturi_ron": 0,
       "venituri_ron": 321955,
       "datorii_ron": 2660553,
-      "auto": 4
+      "auto": 4,
+      "nume": "PETRASCU",
+      "nume_norm": "PETRASCU"
     },
     {
       "institutie": "IOR SA",
@@ -9907,7 +10133,9 @@
       "conturi_ron": 0,
       "venituri_ron": 62769,
       "datorii_ron": 80800,
-      "auto": 5
+      "auto": 5,
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "IOR SA",
@@ -9988,7 +10216,9 @@
       "conturi_ron": 0,
       "venituri_ron": 147031,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "UNGUREANU",
+      "nume_norm": "UNGUREANU"
     },
     {
       "institutie": "IOR SA",
@@ -10091,7 +10321,9 @@
       "conturi_ron": 0,
       "venituri_ron": 11964,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "VARSENDAN",
+      "nume_norm": "VARSENDAN"
     },
     {
       "institutie": "IOR SA",
@@ -10370,7 +10602,9 @@
       "conturi_ron": 0,
       "venituri_ron": 399387,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10407,7 +10641,9 @@
       "conturi_ron": 0,
       "venituri_ron": 110700,
       "datorii_ron": 64924,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10444,7 +10680,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111314,
       "datorii_ron": 110000,
-      "auto": 4
+      "auto": 4,
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10455,7 +10693,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123732,
       "datorii_ron": 64924,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10492,7 +10732,9 @@
       "conturi_ron": 0,
       "venituri_ron": 142776,
       "datorii_ron": 459488,
-      "auto": 4
+      "auto": 4,
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10516,7 +10758,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118153,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHINTA",
+      "nume_norm": "CHINTA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10527,7 +10771,9 @@
       "conturi_ron": 0,
       "venituri_ron": 172776,
       "datorii_ron": 459488,
-      "auto": 4
+      "auto": 4,
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10538,7 +10784,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123732,
       "datorii_ron": 64924,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10575,7 +10823,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111314,
       "datorii_ron": 110000,
-      "auto": 4
+      "auto": 4,
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10612,7 +10862,9 @@
       "conturi_ron": 0,
       "venituri_ron": 172776,
       "datorii_ron": 459488,
-      "auto": 4
+      "auto": 4,
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10623,7 +10875,9 @@
       "conturi_ron": 0,
       "venituri_ron": 399387,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10647,7 +10901,9 @@
       "conturi_ron": 0,
       "venituri_ron": 399387,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10658,7 +10914,9 @@
       "conturi_ron": 0,
       "venituri_ron": 94058,
       "datorii_ron": 110000,
-      "auto": 5
+      "auto": 5,
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10669,7 +10927,9 @@
       "conturi_ron": 0,
       "venituri_ron": 106222,
       "datorii_ron": 220000,
-      "auto": 5
+      "auto": 5,
+      "nume": "OPREA",
+      "nume_norm": "OPREA"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10680,7 +10940,9 @@
       "conturi_ron": 0,
       "venituri_ron": 246792,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CONSTATINESCU",
+      "nume_norm": "CONSTATINESCU"
     },
     {
       "institutie": "SECURITY VOL S.A.",
@@ -10717,7 +10979,9 @@
       "conturi_ron": 0,
       "venituri_ron": 81144,
       "datorii_ron": 51639,
-      "auto": 4
+      "auto": 4,
+      "nume": "CHICHEANU",
+      "nume_norm": "CHICHEANU"
     },
     {
       "institutie": "GOSPODĂRIE COMUNALĂ LENAUHEIM SRL",
@@ -15096,7 +15360,9 @@
       "conturi_ron": 0,
       "venituri_ron": 82700,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BORA",
+      "nume_norm": "BORA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15107,7 +15373,9 @@
       "conturi_ron": 307317,
       "venituri_ron": 300342,
       "datorii_ron": 1686644,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15118,7 +15386,9 @@
       "conturi_ron": 1273322,
       "venituri_ron": 288745,
       "datorii_ron": 1881444,
-      "auto": 7
+      "auto": 7,
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15129,7 +15399,9 @@
       "conturi_ron": 0,
       "venituri_ron": 46352,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "BOZOKI",
+      "nume_norm": "BOZOKI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15153,7 +15425,9 @@
       "conturi_ron": 0,
       "venituri_ron": 27006,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "BOZOKI",
+      "nume_norm": "BOZOKI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15177,7 +15451,9 @@
       "conturi_ron": 330093,
       "venituri_ron": 339662,
       "datorii_ron": 1686644,
-      "auto": 5
+      "auto": 5,
+      "nume": "ANTAL",
+      "nume_norm": "ANTAL"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15188,7 +15464,9 @@
       "conturi_ron": 0,
       "venituri_ron": 124023,
       "datorii_ron": 192000,
-      "auto": 6
+      "auto": 6,
+      "nume": "CHERES",
+      "nume_norm": "CHERES"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15199,7 +15477,9 @@
       "conturi_ron": 0,
       "venituri_ron": 113981,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "BAGUT",
+      "nume_norm": "BAGUT"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15210,7 +15490,9 @@
       "conturi_ron": 0,
       "venituri_ron": 124023,
       "datorii_ron": 192000,
-      "auto": 6
+      "auto": 6,
+      "nume": "CHERES",
+      "nume_norm": "CHERES"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15221,7 +15503,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BLEHUIU",
+      "nume_norm": "BLEHUIU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15284,7 +15568,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73524,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DANICSKO",
+      "nume_norm": "DANICSKO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15295,7 +15581,9 @@
       "conturi_ron": 0,
       "venituri_ron": 81397,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15306,7 +15594,9 @@
       "conturi_ron": 0,
       "venituri_ron": 336574,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "FARAGO",
+      "nume_norm": "FARAGO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15317,7 +15607,9 @@
       "conturi_ron": 0,
       "venituri_ron": 208155,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15328,7 +15620,9 @@
       "conturi_ron": 0,
       "venituri_ron": 72801,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DANICSKO",
+      "nume_norm": "DANICSKO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15339,7 +15633,9 @@
       "conturi_ron": 0,
       "venituri_ron": 81397,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15350,7 +15646,9 @@
       "conturi_ron": 0,
       "venituri_ron": 53747,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GOLDEA",
+      "nume_norm": "GOLDEA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15374,7 +15672,9 @@
       "conturi_ron": 0,
       "venituri_ron": 101003,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15398,7 +15698,9 @@
       "conturi_ron": 0,
       "venituri_ron": 81389,
       "datorii_ron": 301000,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIUMAN",
+      "nume_norm": "CIUMAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15409,7 +15711,9 @@
       "conturi_ron": 0,
       "venituri_ron": 53747,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GOLDEA",
+      "nume_norm": "GOLDEA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15420,7 +15724,9 @@
       "conturi_ron": 0,
       "venituri_ron": 475933,
       "datorii_ron": 9000,
-      "auto": 7
+      "auto": 7,
+      "nume": "IUGA",
+      "nume_norm": "IUGA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15431,7 +15737,9 @@
       "conturi_ron": 0,
       "venituri_ron": 208155,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15455,7 +15763,9 @@
       "conturi_ron": 0,
       "venituri_ron": 208155,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "CHIFOR",
+      "nume_norm": "CHIFOR"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15479,7 +15789,9 @@
       "conturi_ron": 0,
       "venituri_ron": 72801,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DANICSKO",
+      "nume_norm": "DANICSKO"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15490,7 +15802,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73304,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LELIK",
+      "nume_norm": "LELIK"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15553,7 +15867,9 @@
       "conturi_ron": 0,
       "venituri_ron": 75453,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "PUTA",
+      "nume_norm": "PUTA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15564,7 +15880,9 @@
       "conturi_ron": 0,
       "venituri_ron": 159729,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "SABAU",
+      "nume_norm": "SABAU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15588,7 +15906,9 @@
       "conturi_ron": 0,
       "venituri_ron": 184002,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "KOCSIK",
+      "nume_norm": "KOCSIK"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15599,7 +15919,9 @@
       "conturi_ron": 0,
       "venituri_ron": 43754,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "SFAT",
+      "nume_norm": "SFAT"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15636,7 +15958,9 @@
       "conturi_ron": 0,
       "venituri_ron": 55750,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "SELEGEAN",
+      "nume_norm": "SELEGEAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15647,7 +15971,9 @@
       "conturi_ron": 0,
       "venituri_ron": 43754,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "SFAT",
+      "nume_norm": "SFAT"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15658,7 +15984,9 @@
       "conturi_ron": 0,
       "venituri_ron": 250094,
       "datorii_ron": 38976,
-      "auto": 6
+      "auto": 6,
+      "nume": "STANOIOV",
+      "nume_norm": "STANOIOV"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15695,7 +16023,9 @@
       "conturi_ron": 0,
       "venituri_ron": 55750,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "SELEGEAN",
+      "nume_norm": "SELEGEAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15732,7 +16062,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114298,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "MOLDOVAN",
+      "nume_norm": "MOLDOVAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15782,7 +16114,9 @@
       "conturi_ron": 0,
       "venituri_ron": 108406,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "TOTOI",
+      "nume_norm": "TOTOI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15793,7 +16127,9 @@
       "conturi_ron": 0,
       "venituri_ron": 63453,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15804,7 +16140,9 @@
       "conturi_ron": 0,
       "venituri_ron": 91009,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TOTOI",
+      "nume_norm": "TOTOI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15828,7 +16166,9 @@
       "conturi_ron": 0,
       "venituri_ron": 132777,
       "datorii_ron": 0,
-      "auto": 8
+      "auto": 8,
+      "nume": "ZAGONI",
+      "nume_norm": "ZAGONI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15852,7 +16192,9 @@
       "conturi_ron": 0,
       "venituri_ron": 63958,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15889,7 +16231,9 @@
       "conturi_ron": 0,
       "venituri_ron": 91009,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TOTOI",
+      "nume_norm": "TOTOI"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -15900,7 +16244,9 @@
       "conturi_ron": 0,
       "venituri_ron": 63958,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -18134,7 +18480,9 @@
       "conturi_ron": 0,
       "venituri_ron": 40968,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MUNTEANU",
+      "nume_norm": "MUNTEANU"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -19315,7 +19663,9 @@
       "conturi_ron": 0,
       "venituri_ron": 184871,
       "datorii_ron": 505000,
-      "auto": 7
+      "auto": 7,
+      "nume": "NICA",
+      "nume_norm": "NICA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19326,7 +19676,9 @@
       "conturi_ron": 0,
       "venituri_ron": 197448,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "NACOV",
+      "nume_norm": "NACOV"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19337,7 +19689,9 @@
       "conturi_ron": 0,
       "venituri_ron": 143367,
       "datorii_ron": 52536,
-      "auto": 6
+      "auto": 6,
+      "nume": "MIRON",
+      "nume_norm": "MIRON"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19348,7 +19702,9 @@
       "conturi_ron": 0,
       "venituri_ron": 345117,
       "datorii_ron": 90000,
-      "auto": 8
+      "auto": 8,
+      "nume": "MANOLE",
+      "nume_norm": "MANOLE"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19359,7 +19715,9 @@
       "conturi_ron": 0,
       "venituri_ron": 321819,
       "datorii_ron": 303000,
-      "auto": 6
+      "auto": 6,
+      "nume": "LUCA",
+      "nume_norm": "LUCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19370,7 +19728,9 @@
       "conturi_ron": 0,
       "venituri_ron": 180792,
       "datorii_ron": 263056,
-      "auto": 8
+      "auto": 8,
+      "nume": "LAVRENSKI",
+      "nume_norm": "LAVRENSKI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19381,7 +19741,9 @@
       "conturi_ron": 0,
       "venituri_ron": 287841,
       "datorii_ron": 124479,
-      "auto": 6
+      "auto": 6,
+      "nume": "DEMETER",
+      "nume_norm": "DEMETER"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19392,7 +19754,9 @@
       "conturi_ron": 0,
       "venituri_ron": 162493,
       "datorii_ron": 79314,
-      "auto": 6
+      "auto": 6,
+      "nume": "STAMATE",
+      "nume_norm": "STAMATE"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19403,7 +19767,9 @@
       "conturi_ron": 0,
       "venituri_ron": 36000,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "JULA",
+      "nume_norm": "JULA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19414,7 +19780,9 @@
       "conturi_ron": 0,
       "venituri_ron": 59637,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "JURCA",
+      "nume_norm": "JURCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19451,7 +19819,9 @@
       "conturi_ron": 0,
       "venituri_ron": 162493,
       "datorii_ron": 79314,
-      "auto": 6
+      "auto": 6,
+      "nume": "STAMATE",
+      "nume_norm": "STAMATE"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19475,7 +19845,9 @@
       "conturi_ron": 0,
       "venituri_ron": 9435,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "FARCA",
+      "nume_norm": "FARCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19499,7 +19871,9 @@
       "conturi_ron": 0,
       "venituri_ron": 184871,
       "datorii_ron": 505000,
-      "auto": 7
+      "auto": 7,
+      "nume": "NICA",
+      "nume_norm": "NICA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19510,7 +19884,9 @@
       "conturi_ron": 0,
       "venituri_ron": 289270,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TEREBENT",
+      "nume_norm": "TEREBENT"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19521,7 +19897,9 @@
       "conturi_ron": 0,
       "venituri_ron": 197448,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "NACOV",
+      "nume_norm": "NACOV"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19532,7 +19910,9 @@
       "conturi_ron": 0,
       "venituri_ron": 143367,
       "datorii_ron": 52536,
-      "auto": 6
+      "auto": 6,
+      "nume": "MIRON",
+      "nume_norm": "MIRON"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19569,7 +19949,9 @@
       "conturi_ron": 0,
       "venituri_ron": 345117,
       "datorii_ron": 90000,
-      "auto": 8
+      "auto": 8,
+      "nume": "MANOLE",
+      "nume_norm": "MANOLE"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19580,7 +19962,9 @@
       "conturi_ron": 0,
       "venituri_ron": 321819,
       "datorii_ron": 303000,
-      "auto": 6
+      "auto": 6,
+      "nume": "LUCA",
+      "nume_norm": "LUCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19591,7 +19975,9 @@
       "conturi_ron": 0,
       "venituri_ron": 59637,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "JURCA",
+      "nume_norm": "JURCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19602,7 +19988,9 @@
       "conturi_ron": 0,
       "venituri_ron": 180792,
       "datorii_ron": 263056,
-      "auto": 8
+      "auto": 8,
+      "nume": "LAVRENSKI",
+      "nume_norm": "LAVRENSKI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19626,7 +20014,9 @@
       "conturi_ron": 0,
       "venituri_ron": 9435,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "FARCA",
+      "nume_norm": "FARCA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19637,7 +20027,9 @@
       "conturi_ron": 0,
       "venituri_ron": 275680,
       "datorii_ron": 361600,
-      "auto": 5
+      "auto": 5,
+      "nume": "DRAGOI",
+      "nume_norm": "DRAGOI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19648,7 +20040,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114917,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ASAFTEI",
+      "nume_norm": "ASAFTEI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -19685,7 +20079,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114917,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ASAFTEI",
+      "nume_norm": "ASAFTEI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -21386,7 +21782,9 @@
       "conturi_ron": 84504,
       "venituri_ron": 67710,
       "datorii_ron": 35900,
-      "auto": 5
+      "auto": 5,
+      "nume": "CARABAT",
+      "nume_norm": "CARABAT"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -21527,7 +21925,9 @@
       "conturi_ron": 59552,
       "venituri_ron": 67710,
       "datorii_ron": 35900,
-      "auto": 5
+      "auto": 5,
+      "nume": "CARABAT",
+      "nume_norm": "CARABAT"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24281,7 +24681,9 @@
       "conturi_ron": 0,
       "venituri_ron": 116464,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BIRLA",
+      "nume_norm": "BIRLA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24318,7 +24720,9 @@
       "conturi_ron": 0,
       "venituri_ron": 192444,
       "datorii_ron": 20000,
-      "auto": 5
+      "auto": 5,
+      "nume": "VINTILESCU",
+      "nume_norm": "VINTILESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24368,7 +24772,9 @@
       "conturi_ron": 0,
       "venituri_ron": 175224,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "STROE",
+      "nume_norm": "STROE"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24379,7 +24785,9 @@
       "conturi_ron": 0,
       "venituri_ron": 193011,
       "datorii_ron": 53026,
-      "auto": 7
+      "auto": 7,
+      "nume": "BINDEA",
+      "nume_norm": "BINDEA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24403,7 +24811,9 @@
       "conturi_ron": 182000,
       "venituri_ron": 248276,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DRAGANESCU",
+      "nume_norm": "DRAGANESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24414,7 +24824,9 @@
       "conturi_ron": 0,
       "venituri_ron": 167957,
       "datorii_ron": 162495,
-      "auto": 6
+      "auto": 6,
+      "nume": "BEIU",
+      "nume_norm": "BEIU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24490,7 +24902,9 @@
       "conturi_ron": 182000,
       "venituri_ron": 248276,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "DRAGANESCU",
+      "nume_norm": "DRAGANESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24514,7 +24928,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114600,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BENCHIA",
+      "nume_norm": "BENCHIA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24616,7 +25032,9 @@
       "conturi_ron": 0,
       "venituri_ron": 105620,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CAPATANA",
+      "nume_norm": "CAPATANA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24666,7 +25084,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120231,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DAIA",
+      "nume_norm": "DAIA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24703,7 +25123,9 @@
       "conturi_ron": 0,
       "venituri_ron": 126769,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "BRATU",
+      "nume_norm": "BRATU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24727,7 +25149,9 @@
       "conturi_ron": 262600,
       "venituri_ron": 44865,
       "datorii_ron": 191900,
-      "auto": 5
+      "auto": 5,
+      "nume": "CODREANU",
+      "nume_norm": "CODREANU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24751,7 +25175,9 @@
       "conturi_ron": 0,
       "venituri_ron": 315286,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IGNAT",
+      "nume_norm": "IGNAT"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24788,7 +25214,9 @@
       "conturi_ron": 0,
       "venituri_ron": 87482,
       "datorii_ron": 116623,
-      "auto": 5
+      "auto": 5,
+      "nume": "CAPRARU",
+      "nume_norm": "CAPRARU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24838,7 +25266,9 @@
       "conturi_ron": 0,
       "venituri_ron": 80813,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "CIUCA",
+      "nume_norm": "CIUCA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24888,7 +25318,9 @@
       "conturi_ron": 0,
       "venituri_ron": 225483,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BLANARU",
+      "nume_norm": "BLANARU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24951,7 +25383,9 @@
       "conturi_ron": 0,
       "venituri_ron": 74480,
       "datorii_ron": 176750,
-      "auto": 4
+      "auto": 4,
+      "nume": "GHERGHE",
+      "nume_norm": "GHERGHE"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24962,7 +25396,9 @@
       "conturi_ron": 0,
       "venituri_ron": 64033,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "GROSOIU",
+      "nume_norm": "GROSOIU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -24973,7 +25409,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136545,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IVASCU",
+      "nume_norm": "IVASCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25036,7 +25474,9 @@
       "conturi_ron": 0,
       "venituri_ron": 74407,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "FUNDEANU",
+      "nume_norm": "FUNDEANU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25047,7 +25487,9 @@
       "conturi_ron": 0,
       "venituri_ron": 401298,
       "datorii_ron": 261000,
-      "auto": 6
+      "auto": 6,
+      "nume": "GHEORGHE",
+      "nume_norm": "GHEORGHE"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25058,7 +25500,9 @@
       "conturi_ron": 0,
       "venituri_ron": 104826,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "HANCAS",
+      "nume_norm": "HANCAS"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25069,7 +25513,9 @@
       "conturi_ron": 0,
       "venituri_ron": 71767,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "IONITA",
+      "nume_norm": "IONITA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25158,7 +25604,9 @@
       "conturi_ron": 0,
       "venituri_ron": 94360,
       "datorii_ron": 25000,
-      "auto": 6
+      "auto": 6,
+      "nume": "FLOREA",
+      "nume_norm": "FLOREA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25182,7 +25630,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76641,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "IONESCU",
+      "nume_norm": "IONESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25245,7 +25695,9 @@
       "conturi_ron": 0,
       "venituri_ron": 174426,
       "datorii_ron": 78063,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARINOV",
+      "nume_norm": "MARINOV"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25256,7 +25708,9 @@
       "conturi_ron": 0,
       "venituri_ron": 67357,
       "datorii_ron": 132000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MIHALACHE",
+      "nume_norm": "MIHALACHE"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25267,7 +25721,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136479,
       "datorii_ron": 209243,
-      "auto": 5
+      "auto": 5,
+      "nume": "NITA",
+      "nume_norm": "NITA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25278,7 +25734,9 @@
       "conturi_ron": 0,
       "venituri_ron": 89448,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PARPANDEL",
+      "nume_norm": "PARPANDEL"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25289,7 +25747,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76667,
       "datorii_ron": 35000,
-      "auto": 4
+      "auto": 4,
+      "nume": "MECHENICI",
+      "nume_norm": "MECHENICI"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25326,7 +25786,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73661,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MEILA",
+      "nume_norm": "MEILA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25337,7 +25799,9 @@
       "conturi_ron": 0,
       "venituri_ron": 81452,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MIHAILA",
+      "nume_norm": "MIHAILA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25361,7 +25825,9 @@
       "conturi_ron": 0,
       "venituri_ron": 209875,
       "datorii_ron": 756392,
-      "auto": 6
+      "auto": 6,
+      "nume": "NEGOITA",
+      "nume_norm": "NEGOITA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25372,7 +25838,9 @@
       "conturi_ron": 0,
       "venituri_ron": 72873,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MATEI",
+      "nume_norm": "MATEI"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25409,7 +25877,9 @@
       "conturi_ron": 0,
       "venituri_ron": 206048,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MIHU",
+      "nume_norm": "MIHU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25420,7 +25890,9 @@
       "conturi_ron": 0,
       "venituri_ron": 80792,
       "datorii_ron": 50500,
-      "auto": 5
+      "auto": 5,
+      "nume": "NEGREA",
+      "nume_norm": "NEGREA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25431,7 +25903,9 @@
       "conturi_ron": 0,
       "venituri_ron": 244390,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "OLOGEANU",
+      "nume_norm": "OLOGEANU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25585,7 +26059,9 @@
       "conturi_ron": 0,
       "venituri_ron": 71608,
       "datorii_ron": 372177,
-      "auto": 4
+      "auto": 4,
+      "nume": "RACHITAN",
+      "nume_norm": "RACHITAN"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25674,7 +26150,9 @@
       "conturi_ron": 90000,
       "venituri_ron": 157306,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "SBARCEA",
+      "nume_norm": "SBARCEA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25750,7 +26228,9 @@
       "conturi_ron": 0,
       "venituri_ron": 73327,
       "datorii_ron": 36500,
-      "auto": 5
+      "auto": 5,
+      "nume": "SEITAN",
+      "nume_norm": "SEITAN"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25774,7 +26254,9 @@
       "conturi_ron": 0,
       "venituri_ron": 151924,
       "datorii_ron": 110000,
-      "auto": 6
+      "auto": 6,
+      "nume": "SMAHON",
+      "nume_norm": "SMAHON"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25824,7 +26306,9 @@
       "conturi_ron": 0,
       "venituri_ron": 54398,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PETREA",
+      "nume_norm": "PETREA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25952,7 +26436,9 @@
       "conturi_ron": 0,
       "venituri_ron": 145185,
       "datorii_ron": 77000,
-      "auto": 7
+      "auto": 7,
+      "nume": "MARINESCU",
+      "nume_norm": "MARINESCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25976,7 +26462,9 @@
       "conturi_ron": 0,
       "venituri_ron": 74287,
       "datorii_ron": 123850,
-      "auto": 5
+      "auto": 5,
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -25987,7 +26475,9 @@
       "conturi_ron": 0,
       "venituri_ron": 66173,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "TIRSU",
+      "nume_norm": "TIRSU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26011,7 +26501,9 @@
       "conturi_ron": 0,
       "venituri_ron": 166481,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "TOMA",
+      "nume_norm": "TOMA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26022,7 +26514,9 @@
       "conturi_ron": 0,
       "venituri_ron": 116417,
       "datorii_ron": 166650,
-      "auto": 5
+      "auto": 5,
+      "nume": "VASZIL",
+      "nume_norm": "VASZIL"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26033,7 +26527,9 @@
       "conturi_ron": 0,
       "venituri_ron": 490384,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "WEBER",
+      "nume_norm": "WEBER"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26057,7 +26553,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111032,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "TALABA",
+      "nume_norm": "TALABA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26094,7 +26592,9 @@
       "conturi_ron": 0,
       "venituri_ron": 119222,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "VLAD",
+      "nume_norm": "VLAD"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26105,7 +26605,9 @@
       "conturi_ron": 0,
       "venituri_ron": 252875,
       "datorii_ron": 699700,
-      "auto": 4
+      "auto": 4,
+      "nume": "ZANCU",
+      "nume_norm": "ZANCU"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -26350,7 +26852,9 @@
       "conturi_ron": 25250,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "CIOROBOIU",
+      "nume_norm": "CIOROBOIU"
     },
     {
       "institutie": "DSP Arad",
@@ -26361,7 +26865,9 @@
       "conturi_ron": 25250,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BARNA",
+      "nume_norm": "BARNA"
     },
     {
       "institutie": "DSP Arad",
@@ -26372,7 +26878,9 @@
       "conturi_ron": 25250,
       "venituri_ron": 63765,
       "datorii_ron": 63765,
-      "auto": 4
+      "auto": 4,
+      "nume": "HARTAU",
+      "nume_norm": "HARTAU"
     },
     {
       "institutie": "DSP Arad",
@@ -26383,7 +26891,9 @@
       "conturi_ron": 0,
       "venituri_ron": 97372,
       "datorii_ron": 74235,
-      "auto": 4
+      "auto": 4,
+      "nume": "ANDREICA",
+      "nume_norm": "ANDREICA"
     },
     {
       "institutie": "DSP Arad",
@@ -26394,7 +26904,9 @@
       "conturi_ron": 0,
       "venituri_ron": 57874,
       "datorii_ron": 0,
-      "auto": 1
+      "auto": 1,
+      "nume": "PENZES",
+      "nume_norm": "PENZES"
     },
     {
       "institutie": "DSP Olt",
@@ -26535,7 +27047,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120862,
       "datorii_ron": 30200,
-      "auto": 5
+      "auto": 5,
+      "nume": "DECLARATII",
+      "nume_norm": "DECLARATII"
     },
     {
       "institutie": "DSP Olt",
@@ -26557,7 +27071,9 @@
       "conturi_ron": 0,
       "venituri_ron": 110445,
       "datorii_ron": 20200,
-      "auto": 6
+      "auto": 6,
+      "nume": "DECLARATII",
+      "nume_norm": "DECLARATII"
     },
     {
       "institutie": "DSP Olt",
@@ -34888,7 +35404,9 @@
       "conturi_ron": 0,
       "venituri_ron": 137230,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "ALEXE",
+      "nume_norm": "ALEXE"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -34951,7 +35469,9 @@
       "conturi_ron": 0,
       "venituri_ron": 130508,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "ALEXE",
+      "nume_norm": "ALEXE"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35053,7 +35573,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120344,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIULA",
+      "nume_norm": "CIULA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35090,7 +35612,9 @@
       "conturi_ron": 0,
       "venituri_ron": 119562,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35114,7 +35638,9 @@
       "conturi_ron": 0,
       "venituri_ron": 56419,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CAZACU",
+      "nume_norm": "CAZACU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35125,7 +35651,9 @@
       "conturi_ron": 0,
       "venituri_ron": 77717,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BOGEA",
+      "nume_norm": "BOGEA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35136,7 +35664,9 @@
       "conturi_ron": 0,
       "venituri_ron": 142243,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIULA",
+      "nume_norm": "CIULA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35147,7 +35677,9 @@
       "conturi_ron": 0,
       "venituri_ron": 56473,
       "datorii_ron": 60600,
-      "auto": 7
+      "auto": 7,
+      "nume": "CODRESCU",
+      "nume_norm": "CODRESCU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35158,7 +35690,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114649,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CAZACU",
+      "nume_norm": "CAZACU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35169,7 +35703,9 @@
       "conturi_ron": 0,
       "venituri_ron": 79051,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BOGEA",
+      "nume_norm": "BOGEA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35180,7 +35716,9 @@
       "conturi_ron": 0,
       "venituri_ron": 34652,
       "datorii_ron": 45700,
-      "auto": 6
+      "auto": 6,
+      "nume": "BOSTAN",
+      "nume_norm": "BOSTAN"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35204,7 +35742,9 @@
       "conturi_ron": 0,
       "venituri_ron": 132661,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CIOBANU",
+      "nume_norm": "CIOBANU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35215,7 +35755,9 @@
       "conturi_ron": 0,
       "venituri_ron": 40868,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "CIOCOIU",
+      "nume_norm": "CIOCOIU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35252,7 +35794,9 @@
       "conturi_ron": 0,
       "venituri_ron": 54113,
       "datorii_ron": 50000,
-      "auto": 4
+      "auto": 4,
+      "nume": "CUSTURA",
+      "nume_norm": "CUSTURA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35263,7 +35807,9 @@
       "conturi_ron": 0,
       "venituri_ron": 184246,
       "datorii_ron": 50000,
-      "auto": 6
+      "auto": 6,
+      "nume": "DRAGOI",
+      "nume_norm": "DRAGOI"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35300,7 +35846,9 @@
       "conturi_ron": 0,
       "venituri_ron": 92912,
       "datorii_ron": 72000,
-      "auto": 5
+      "auto": 5,
+      "nume": "COJOCARU",
+      "nume_norm": "COJOCARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35324,7 +35872,9 @@
       "conturi_ron": 0,
       "venituri_ron": 110916,
       "datorii_ron": 76000,
-      "auto": 6
+      "auto": 6,
+      "nume": "DRAGUT",
+      "nume_norm": "DRAGUT"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35335,7 +35885,9 @@
       "conturi_ron": 0,
       "venituri_ron": 64421,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CODRESCU",
+      "nume_norm": "CODRESCU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35346,7 +35898,9 @@
       "conturi_ron": 0,
       "venituri_ron": 44943,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CRISMARU",
+      "nume_norm": "CRISMARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35370,7 +35924,9 @@
       "conturi_ron": 0,
       "venituri_ron": 191828,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "nume": "DORNEANU",
+      "nume_norm": "DORNEANU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35381,7 +35937,9 @@
       "conturi_ron": 0,
       "venituri_ron": 59562,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DRAGOMIRICA",
+      "nume_norm": "DRAGOMIRICA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35392,7 +35950,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118744,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DRAGOI",
+      "nume_norm": "DRAGOI"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35416,7 +35976,9 @@
       "conturi_ron": 0,
       "venituri_ron": 114028,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "COJOCARU",
+      "nume_norm": "COJOCARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35453,7 +36015,9 @@
       "conturi_ron": 0,
       "venituri_ron": 44561,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "CRISMARU",
+      "nume_norm": "CRISMARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35464,7 +36028,9 @@
       "conturi_ron": 0,
       "venituri_ron": 144631,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "DRAGUT",
+      "nume_norm": "DRAGUT"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35501,7 +36067,9 @@
       "conturi_ron": 0,
       "venituri_ron": 59231,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "DRAGOMIRICA",
+      "nume_norm": "DRAGOMIRICA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35512,7 +36080,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123132,
       "datorii_ron": 103636,
-      "auto": 6
+      "auto": 6,
+      "nume": "DUMITRASC",
+      "nume_norm": "DUMITRASC"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35562,7 +36132,9 @@
       "conturi_ron": 0,
       "venituri_ron": 178121,
       "datorii_ron": 227250,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUDA",
+      "nume_norm": "DUDA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35599,7 +36171,9 @@
       "conturi_ron": 0,
       "venituri_ron": 247940,
       "datorii_ron": 303000,
-      "auto": 5
+      "auto": 5,
+      "nume": "DUDA",
+      "nume_norm": "DUDA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35753,7 +36327,9 @@
       "conturi_ron": 0,
       "venituri_ron": 126439,
       "datorii_ron": 103636,
-      "auto": 6
+      "auto": 6,
+      "nume": "DUMITRASC",
+      "nume_norm": "DUMITRASC"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35829,7 +36405,9 @@
       "conturi_ron": 0,
       "venituri_ron": 144044,
       "datorii_ron": 150000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GALBINITA",
+      "nume_norm": "GALBINITA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35840,7 +36418,9 @@
       "conturi_ron": 0,
       "venituri_ron": 149473,
       "datorii_ron": 150000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GALBINITA",
+      "nume_norm": "GALBINITA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35851,7 +36431,9 @@
       "conturi_ron": 0,
       "venituri_ron": 99094,
       "datorii_ron": 100000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GOGA",
+      "nume_norm": "GOGA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35862,7 +36444,9 @@
       "conturi_ron": 0,
       "venituri_ron": 192056,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GRADINARU",
+      "nume_norm": "GRADINARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35873,7 +36457,9 @@
       "conturi_ron": 0,
       "venituri_ron": 79837,
       "datorii_ron": 50000,
-      "auto": 6
+      "auto": 6,
+      "nume": "GRIGORE",
+      "nume_norm": "GRIGORE"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35897,7 +36483,9 @@
       "conturi_ron": 0,
       "venituri_ron": 116090,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "GHIMPU",
+      "nume_norm": "GHIMPU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35934,7 +36522,9 @@
       "conturi_ron": 0,
       "venituri_ron": 101673,
       "datorii_ron": 100000,
-      "auto": 4
+      "auto": 4,
+      "nume": "GOGA",
+      "nume_norm": "GOGA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35945,7 +36535,9 @@
       "conturi_ron": 0,
       "venituri_ron": 36006,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "GOSPODARU",
+      "nume_norm": "GOSPODARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35956,7 +36548,9 @@
       "conturi_ron": 0,
       "venituri_ron": 102074,
       "datorii_ron": 50000,
-      "auto": 6
+      "auto": 6,
+      "nume": "GRIGORE",
+      "nume_norm": "GRIGORE"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -35967,7 +36561,9 @@
       "conturi_ron": 0,
       "venituri_ron": 156931,
       "datorii_ron": 196150,
-      "auto": 5
+      "auto": 5,
+      "nume": "GROBNICU",
+      "nume_norm": "GROBNICU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36017,7 +36613,9 @@
       "conturi_ron": 0,
       "venituri_ron": 132302,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "IRIMIA",
+      "nume_norm": "IRIMIA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36028,7 +36626,9 @@
       "conturi_ron": 0,
       "venituri_ron": 64232,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "KNAP",
+      "nume_norm": "KNAP"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36039,7 +36639,9 @@
       "conturi_ron": 0,
       "venituri_ron": 133718,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LAZAR",
+      "nume_norm": "LAZAR"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36076,7 +36678,9 @@
       "conturi_ron": 0,
       "venituri_ron": 56513,
       "datorii_ron": 29888,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARIN",
+      "nume_norm": "MARIN"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36139,7 +36743,9 @@
       "conturi_ron": 0,
       "venituri_ron": 139760,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "IRIMIA",
+      "nume_norm": "IRIMIA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36150,7 +36756,9 @@
       "conturi_ron": 0,
       "venituri_ron": 67590,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "KNAP",
+      "nume_norm": "KNAP"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36161,7 +36769,9 @@
       "conturi_ron": 0,
       "venituri_ron": 151420,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "LAZAR",
+      "nume_norm": "LAZAR"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36172,7 +36782,9 @@
       "conturi_ron": 0,
       "venituri_ron": 63779,
       "datorii_ron": 57783,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARIN",
+      "nume_norm": "MARIN"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36183,7 +36795,9 @@
       "conturi_ron": 0,
       "venituri_ron": 173666,
       "datorii_ron": 402164,
-      "auto": 6
+      "auto": 6,
+      "nume": "MAROLA",
+      "nume_norm": "MAROLA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36194,7 +36808,9 @@
       "conturi_ron": 0,
       "venituri_ron": 71060,
       "datorii_ron": 196150,
-      "auto": 6
+      "auto": 6,
+      "nume": "GROBNICU",
+      "nume_norm": "GROBNICU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36218,7 +36834,9 @@
       "conturi_ron": 0,
       "venituri_ron": 45935,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "MAXIM",
+      "nume_norm": "MAXIM"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36320,7 +36938,9 @@
       "conturi_ron": 0,
       "venituri_ron": 97520,
       "datorii_ron": 75000,
-      "auto": 6
+      "auto": 6,
+      "nume": "MEREUTA",
+      "nume_norm": "MEREUTA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36331,7 +36951,9 @@
       "conturi_ron": 0,
       "venituri_ron": 98434,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "MIHAI",
+      "nume_norm": "MIHAI"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36381,7 +37003,9 @@
       "conturi_ron": 0,
       "venituri_ron": 123366,
       "datorii_ron": 75000,
-      "auto": 6
+      "auto": 6,
+      "nume": "MEREUTA",
+      "nume_norm": "MEREUTA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36392,7 +37016,9 @@
       "conturi_ron": 0,
       "venituri_ron": 143684,
       "datorii_ron": 70300,
-      "auto": 6
+      "auto": 6,
+      "nume": "MAROLA",
+      "nume_norm": "MAROLA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36416,7 +37042,9 @@
       "conturi_ron": 0,
       "venituri_ron": 209270,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MORARU",
+      "nume_norm": "MORARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36440,7 +37068,9 @@
       "conturi_ron": 0,
       "venituri_ron": 71875,
       "datorii_ron": 50000,
-      "auto": 5
+      "auto": 5,
+      "nume": "MAXIM",
+      "nume_norm": "MAXIM"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36464,7 +37094,9 @@
       "conturi_ron": 0,
       "venituri_ron": 79287,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ORITA",
+      "nume_norm": "ORITA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36475,7 +37107,9 @@
       "conturi_ron": 0,
       "venituri_ron": 62395,
       "datorii_ron": 30000,
-      "auto": 6
+      "auto": 6,
+      "nume": "PABIS",
+      "nume_norm": "PABIS"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36486,7 +37120,9 @@
       "conturi_ron": 0,
       "venituri_ron": 93063,
       "datorii_ron": 111100,
-      "auto": 5
+      "auto": 5,
+      "nume": "PANCESCU",
+      "nume_norm": "PANCESCU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36497,7 +37133,9 @@
       "conturi_ron": 0,
       "venituri_ron": 155506,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PETREA",
+      "nume_norm": "PETREA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36508,7 +37146,9 @@
       "conturi_ron": 0,
       "venituri_ron": 111863,
       "datorii_ron": 409000,
-      "auto": 6
+      "auto": 6,
+      "nume": "PODARU",
+      "nume_norm": "PODARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36532,7 +37172,9 @@
       "conturi_ron": 0,
       "venituri_ron": 86581,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "ORITA",
+      "nume_norm": "ORITA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36543,7 +37185,9 @@
       "conturi_ron": 0,
       "venituri_ron": 112805,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PUSCASU",
+      "nume_norm": "PUSCASU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36554,7 +37198,9 @@
       "conturi_ron": 70000,
       "venituri_ron": 60694,
       "datorii_ron": 70000,
-      "auto": 5
+      "auto": 5,
+      "nume": "MURGU",
+      "nume_norm": "MURGU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36565,7 +37211,9 @@
       "conturi_ron": 0,
       "venituri_ron": 52777,
       "datorii_ron": 20000,
-      "auto": 6
+      "auto": 6,
+      "nume": "PABIS",
+      "nume_norm": "PABIS"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36576,7 +37224,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136391,
       "datorii_ron": 111100,
-      "auto": 5
+      "auto": 5,
+      "nume": "PANCESCU",
+      "nume_norm": "PANCESCU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36587,7 +37237,9 @@
       "conturi_ron": 0,
       "venituri_ron": 170865,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "PETREA",
+      "nume_norm": "PETREA"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36598,7 +37250,9 @@
       "conturi_ron": 0,
       "venituri_ron": 137959,
       "datorii_ron": 440000,
-      "auto": 5
+      "auto": 5,
+      "nume": "PODARU",
+      "nume_norm": "PODARU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -36986,7 +37640,9 @@
       "conturi_ron": 0,
       "venituri_ron": 57827,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RACOVITA",
+      "nume_norm": "RACOVITA"
     },
     {
       "institutie": "ISJ Olt",
@@ -37036,7 +37692,9 @@
       "conturi_ron": 0,
       "venituri_ron": 80447,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "PUSCASU",
+      "nume_norm": "PUSCASU"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -37047,7 +37705,9 @@
       "conturi_ron": 0,
       "venituri_ron": 57938,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "RACOVITA",
+      "nume_norm": "RACOVITA"
     },
     {
       "institutie": "ISJ Olt",
@@ -40100,7 +40760,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 70000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "ANGHEL",
+      "nume_norm": "ANGHEL"
     },
     {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
@@ -40176,7 +40838,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "NEDELCU",
+      "nume_norm": "NEDELCU"
     },
     {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
@@ -43097,7 +43761,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 15156,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "PAUN",
+      "nume_norm": "PAUN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43160,7 +43826,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 18460,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "UNGUREANU",
+      "nume_norm": "UNGUREANU"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43249,7 +43917,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "PANICI",
+      "nume_norm": "PANICI"
     },
     {
       "institutie": "CARPATMONTANA SERV SA",
@@ -43286,7 +43956,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "DRAGILA",
+      "nume_norm": "DRAGILA"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -43297,7 +43969,9 @@
       "conturi_ron": 0,
       "venituri_ron": 35000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "SANDU",
+      "nume_norm": "SANDU"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -43308,7 +43982,9 @@
       "conturi_ron": 0,
       "venituri_ron": 31000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BRANZEI",
+      "nume_norm": "BRANZEI"
     },
     {
       "institutie": "HORTICULTURA SA",
@@ -43319,7 +43995,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "nume": "CHIRA",
+      "nume_norm": "CHIRA"
     },
     {
       "institutie": "CARPATMONTANA SERV SA",
@@ -43343,7 +44021,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BLAGA",
+      "nume_norm": "BLAGA"
     },
     {
       "institutie": "CALORGAL S.R.L.",
@@ -43367,7 +44047,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "POPA",
+      "nume_norm": "POPA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43391,7 +44073,9 @@
       "conturi_ron": 0,
       "venituri_ron": 10000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "ROMICA",
+      "nume_norm": "ROMICA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43402,7 +44086,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "CIUCA",
+      "nume_norm": "CIUCA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43413,7 +44099,9 @@
       "conturi_ron": 0,
       "venituri_ron": 13201,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "SOLOGAN",
+      "nume_norm": "SOLOGAN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43424,7 +44112,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 1
+      "auto": 1,
+      "nume": "RISTEA",
+      "nume_norm": "RISTEA"
     },
     {
       "institutie": "CARPATMONTANA SERV SA",
@@ -43448,7 +44138,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "MARIN",
+      "nume_norm": "MARIN"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43459,7 +44151,9 @@
       "conturi_ron": 0,
       "venituri_ron": 65400,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "STAICU",
+      "nume_norm": "STAICU"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43470,7 +44164,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "GHITA",
+      "nume_norm": "GHITA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43481,7 +44177,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "PIRVA",
+      "nume_norm": "PIRVA"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43492,7 +44190,9 @@
       "conturi_ron": 0,
       "venituri_ron": 58006,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "BALSEANU",
+      "nume_norm": "BALSEANU"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43503,7 +44203,9 @@
       "conturi_ron": 0,
       "venituri_ron": 65001,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "MATEI",
+      "nume_norm": "MATEI"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -43514,7 +44216,9 @@
       "conturi_ron": 10000,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "TUGUI",
+      "nume_norm": "TUGUI"
     },
     {
       "institutie": "CARPATMONTANA SERV SA",
@@ -45514,7 +46218,9 @@
       "conturi_ron": 85300,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "INHGA",
+      "nume_norm": "INHGA"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -46056,7 +46762,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "BURTIANU",
+      "nume_norm": "BURTIANU"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -46249,7 +46957,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "nume": "BOTAN",
+      "nume_norm": "BOTAN"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -68314,7 +69024,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "GHINTHER",
+      "nume_norm": "GHINTHER"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -68992,7 +69704,9 @@
       "conturi_ron": 0,
       "venituri_ron": 30005,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "PARAPANDEL",
+      "nume_norm": "PARAPANDEL"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -69479,7 +70193,9 @@
       "conturi_ron": 0,
       "venituri_ron": 5000,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "POPA",
+      "nume_norm": "POPA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -69703,7 +70419,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 66263,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "SOAVA",
+      "nume_norm": "SOAVA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -73847,7 +74565,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 109596,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "ANDUTA",
+      "nume_norm": "ANDUTA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -88774,7 +89494,9 @@
       "conturi_ron": 270568,
       "venituri_ron": 119823,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "GEICA",
+      "nume_norm": "GEICA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -89149,7 +89871,9 @@
       "conturi_ron": 293625,
       "venituri_ron": 94196,
       "datorii_ron": 0,
-      "auto": 3
+      "auto": 3,
+      "nume": "GEICA",
+      "nume_norm": "GEICA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -95745,7 +96469,9 @@
       "conturi_ron": 0,
       "venituri_ron": 0,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "nume": "MARINESCU",
+      "nume_norm": "MARINESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -108440,7 +109166,9 @@
       "conturi_ron": 0,
       "venituri_ron": 159935,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "nume": "SIMION",
+      "nume_norm": "SIMION"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -113751,7 +114479,9 @@
       "conturi_ron": 5000,
       "venituri_ron": 263855,
       "datorii_ron": 0,
-      "auto": 2
+      "auto": 2,
+      "nume": "VASILESCU",
+      "nume_norm": "VASILESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",

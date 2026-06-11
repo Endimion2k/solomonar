@@ -45,7 +45,7 @@
   },
   "gold": {
     "versiune": "v2 institution-aware",
-    "persoane_canonice": 55000,
+    "persoane_canonice": 56296,
     "parlamentari": 465,
     "incredere": {
       "high": 465,
@@ -79,7 +79,7 @@
     "sursa": "BVB (gratis, listate)"
   },
   "search": {
-    "entitati": 56273
+    "entitati": 57569
   },
   "coverage": {
     "companii_cu_declaratii": 834,

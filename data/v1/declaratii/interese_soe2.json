@@ -54259,7 +54259,9 @@
         "1.1 ANTIBIOTICE SA - Iasi Iasi Str. Altele Administrator provizoriu",
         "1.1 SC CONFI CONSULT INTERN SRL",
         "1.2 CN UNIFARM SA - Sectorul 1"
-      ]
+      ],
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "Unifarm",
@@ -54276,7 +54278,9 @@
         "1.1 CN UNIFARM SA - Sectorul 1",
         "1.1 SC AC MEETINGS AND EVENTS",
         "SRL - Ciolpani Ilfov STR. CALEA Acţionar 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "COSTEA",
+      "nume_norm": "COSTEA"
     },
     {
       "institutie": "Unifarm",
@@ -54314,7 +54318,9 @@
         "1.2 Compania Nationala Unifarm Sa",
         "1.2 Lungu Catalin PFA - Sectorul 6",
         "1.3 SC ELLA TRAVELAND SRL"
-      ]
+      ],
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "Unifarm",
@@ -54333,7 +54339,9 @@
         "1.2 Compania Nationala Unifarm Sa",
         "1.2 Lungu Catalin PFA - Sectorul 6",
         "1.3 SC ELLA TRAVELAND SRL"
-      ]
+      ],
+      "nume": "LUNGU",
+      "nume_norm": "LUNGU"
     },
     {
       "institutie": "Unifarm",
@@ -54465,7 +54473,9 @@
         "1.1 ANTIBIOTICE SA - Iasi Iasi Str. Altele Administrator provizoriu",
         "1.1 SC CONFI CONSULT INTERN SRL",
         "1.2 CN UNIFARM SA - Sectorul 1"
-      ]
+      ],
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "Unifarm",
@@ -54536,7 +54546,9 @@
         "1.1 CN UNIFARM SA - Sectorul 1",
         "1.1 SC AC MEETINGS AND EVENTS",
         "SRL - Ciolpani Ilfov STR. CALEA Acţionar 20 Părţi sociale 200 RON"
-      ]
+      ],
+      "nume": "COSTEA",
+      "nume_norm": "COSTEA"
     },
     {
       "institutie": "Unifarm",
@@ -54553,7 +54565,9 @@
         "1.1 ANTIBIOTICE SA - Iasi Iasi Str. Altele Administrator provizoriu",
         "1.1 SC CONFI CONSULT INTERN SRL",
         "1.2 CN UNIFARM SA - Sectorul 1"
-      ]
+      ],
+      "nume": "ZAHARIA",
+      "nume_norm": "ZAHARIA"
     },
     {
       "institutie": "Romaero",
@@ -56981,7 +56995,9 @@
         "Calitatea demembruin cadrtiasociatilonprofesionales",
         "auttorizata/ Asociatii farmiliale/ Cabinete",
         "neguvemamentale/ Fundati Asociati?\""
-      ]
+      ],
+      "nume": "SPAHIU",
+      "nume_norm": "SPAHIU"
     },
     {
       "institutie": "Posta Romana",
@@ -62047,7 +62063,9 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "S.C. ROMAERO S.A."
-      ]
+      ],
+      "nume": "GHEORGHE",
+      "nume_norm": "GHEORGHE"
     },
     {
       "institutie": "Apele Romane",
@@ -63311,7 +63329,9 @@
         "Asociatir",
         "S.C. ROMAERO S.A.",
         "au torizata/ Asociati familiale Cabinete"
-      ]
+      ],
+      "nume": "TRIFA",
+      "nume_norm": "TRIFA"
     },
     {
       "institutie": "Apele Romane",
@@ -63740,7 +63760,9 @@
         "Asociatii familiale, Cabinete",
         "FundatiiAsociatii2)",
         "Presedinte O.P.S.D. Buzau"
-      ]
+      ],
+      "nume": "BUSCU",
+      "nume_norm": "BUSCU"
     },
     {
       "institutie": "Apele Romane",
@@ -63879,7 +63901,9 @@
       "entitati": [
         "autorizata/ Asociati familiale/Cabinete",
         "neguvemamentale Fundatil Asociatir?"
-      ]
+      ],
+      "nume": "ANGHEL",
+      "nume_norm": "ANGHEL"
     },
     {
       "institutie": "Romaero",
@@ -64091,7 +64115,9 @@
         "autorizata/ Asociati familiale/ Cabinete",
         "economic, ale asociafiilor sau fundatiilor oriale altor organizafii neguvernamen",
         "neguvemamentale/Fundati/Asociair"
-      ]
+      ],
+      "nume": "BOICU",
+      "nume_norm": "BOICU"
     },
     {
       "institutie": "Apele Romane",
