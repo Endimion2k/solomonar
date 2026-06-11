@@ -9,6 +9,11 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
+> **🟢 RUNDA 2026-06-11d (commit 151) — LEGISLATIV:** **PLx↔inițiatori** (`harvest_plx_initiatori`): 1.852 PLx
+> → inițiatorii (idm) + flag guvern. 1.234 cu inițiatori parlamentari, **709 inițiate de Guvern**. Integrat în
+> gold via cdep_idm (335/335): **332 deputați cu proiecte inițiate** (leagă legislația de persoane). +
+> **legislație 41→668 acte** (paginare SOAP, topici transparență; fix chei CamelCase DocId).
+>
 > **🟢 RUNDA 2026-06-11c (commit 148) — STRAT DUCKDB GOLD:** `build_duckdb.py` realizează ultima piesă din
 > arhitectură (medallion gold relațional). Încarcă toate entitățile+relațiile în DuckDB la build (person 56k,
 > company 1256, person_company 21k edges, party/comisii/state_holding), engine efemer (gitignored). Interogări
