@@ -85,5 +85,17 @@
     "companii_cu_declaratii": 834,
     "companii_gol": 398,
     "organizatii_fara_declaratii": 45
+  },
+  "duckdb_gold": {
+    "tabele": {
+      "person": 56296,
+      "company": 1256,
+      "person_company": 21476,
+      "party": 17,
+      "committee_member": 322,
+      "state_holding": 16
+    },
+    "view_uri_analitice": 6,
+    "engine": "DuckDB la build (efemer)"
   }
 }

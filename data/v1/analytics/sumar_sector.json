@@ -1,0 +1,94 @@
+{
+  "generat_de": "build_duckdb",
+  "total": 11,
+  "data": [
+    {
+      "sector": "Servicii",
+      "n_companii": 306,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 21739112514.0,
+      "salariati": 18063,
+      "procent_stat_mediu": 0.0
+    },
+    {
+      "sector": "Comerț",
+      "n_companii": 11,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 3797748849.0,
+      "salariati": 220,
+      "procent_stat_mediu": 0.0
+    },
+    {
+      "sector": "Transport",
+      "n_companii": 113,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 2237507655.0,
+      "salariati": 27996,
+      "procent_stat_mediu": 6.3
+    },
+    {
+      "sector": "Energie",
+      "n_companii": 55,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 1321356046.0,
+      "salariati": 8896,
+      "procent_stat_mediu": 57.3
+    },
+    {
+      "sector": "Industrie",
+      "n_companii": 41,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 783799291.0,
+      "salariati": 10171,
+      "procent_stat_mediu": 8.5
+    },
+    {
+      "sector": "Infrastructură",
+      "n_companii": 131,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 382436869.0,
+      "salariati": 7675,
+      "procent_stat_mediu": 0.0
+    },
+    {
+      "sector": "IT & comunicații",
+      "n_companii": 14,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 286492223.0,
+      "salariati": 1780,
+      "procent_stat_mediu": null
+    },
+    {
+      "sector": "Apă-canal · salubritate",
+      "n_companii": 443,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 21682974.0,
+      "salariati": 40237,
+      "procent_stat_mediu": 0.5
+    },
+    {
+      "sector": "Alte sectoare",
+      "n_companii": 54,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 14206032.0,
+      "salariati": 3370,
+      "procent_stat_mediu": 10.0
+    },
+    {
+      "sector": "Agricultură",
+      "n_companii": 73,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": 1838193.0,
+      "salariati": 16711,
+      "procent_stat_mediu": null
+    },
+    {
+      "sector": "Sănătate · educație",
+      "n_companii": 6,
+      "cifra_afaceri_totala": null,
+      "contracte_totale": null,
+      "salariati": 495,
+      "procent_stat_mediu": null
+    }
+  ]
+}

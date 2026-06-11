@@ -1,0 +1,258 @@
+{
+  "generat_de": "build_duckdb",
+  "total": 42,
+  "data": [
+    {
+      "judet": "București",
+      "n_companii": 96,
+      "cifra_afaceri": null,
+      "salariati": 42748
+    },
+    {
+      "judet": "Bihor",
+      "n_companii": 66,
+      "cifra_afaceri": null,
+      "salariati": 2850
+    },
+    {
+      "judet": "Brașov",
+      "n_companii": 56,
+      "cifra_afaceri": null,
+      "salariati": 5594
+    },
+    {
+      "judet": "Constanța",
+      "n_companii": 52,
+      "cifra_afaceri": null,
+      "salariati": 7264
+    },
+    {
+      "judet": "Timiș",
+      "n_companii": 50,
+      "cifra_afaceri": null,
+      "salariati": 3463
+    },
+    {
+      "judet": "Dolj",
+      "n_companii": 49,
+      "cifra_afaceri": null,
+      "salariati": 4181
+    },
+    {
+      "judet": "Prahova",
+      "n_companii": 49,
+      "cifra_afaceri": null,
+      "salariati": 4673
+    },
+    {
+      "judet": "Ilfov",
+      "n_companii": 48,
+      "cifra_afaceri": null,
+      "salariati": 3401
+    },
+    {
+      "judet": "Argeș",
+      "n_companii": 45,
+      "cifra_afaceri": null,
+      "salariati": 3867
+    },
+    {
+      "judet": "Olt",
+      "n_companii": 45,
+      "cifra_afaceri": null,
+      "salariati": 1182
+    },
+    {
+      "judet": "Teleorman",
+      "n_companii": 45,
+      "cifra_afaceri": null,
+      "salariati": 1431
+    },
+    {
+      "judet": "Harghita",
+      "n_companii": 34,
+      "cifra_afaceri": null,
+      "salariati": 843
+    },
+    {
+      "judet": "Hunedoara",
+      "n_companii": 33,
+      "cifra_afaceri": null,
+      "salariati": 2454
+    },
+    {
+      "judet": "Gorj",
+      "n_companii": 32,
+      "cifra_afaceri": null,
+      "salariati": 3549
+    },
+    {
+      "judet": "Sibiu",
+      "n_companii": 32,
+      "cifra_afaceri": null,
+      "salariati": 2250
+    },
+    {
+      "judet": "Cluj",
+      "n_companii": 32,
+      "cifra_afaceri": null,
+      "salariati": 5362
+    },
+    {
+      "judet": "Giurgiu",
+      "n_companii": 31,
+      "cifra_afaceri": null,
+      "salariati": 1014
+    },
+    {
+      "judet": "Arad",
+      "n_companii": 30,
+      "cifra_afaceri": null,
+      "salariati": 2298
+    },
+    {
+      "judet": "Tulcea",
+      "n_companii": 28,
+      "cifra_afaceri": null,
+      "salariati": 970
+    },
+    {
+      "judet": "Caraș-Severin",
+      "n_companii": 27,
+      "cifra_afaceri": null,
+      "salariati": 932
+    },
+    {
+      "judet": "Buzău",
+      "n_companii": 26,
+      "cifra_afaceri": null,
+      "salariati": 1591
+    },
+    {
+      "judet": "Ialomița",
+      "n_companii": 25,
+      "cifra_afaceri": null,
+      "salariati": 790
+    },
+    {
+      "judet": "Vâlcea",
+      "n_companii": 22,
+      "cifra_afaceri": null,
+      "salariati": 1688
+    },
+    {
+      "judet": "Satu Mare",
+      "n_companii": 22,
+      "cifra_afaceri": null,
+      "salariati": 798
+    },
+    {
+      "judet": "Iași",
+      "n_companii": 19,
+      "cifra_afaceri": null,
+      "salariati": 5140
+    },
+    {
+      "judet": "Mehedinți",
+      "n_companii": 19,
+      "cifra_afaceri": null,
+      "salariati": 484
+    },
+    {
+      "judet": "Covasna",
+      "n_companii": 19,
+      "cifra_afaceri": null,
+      "salariati": 1024
+    },
+    {
+      "judet": "Dâmbovița",
+      "n_companii": 19,
+      "cifra_afaceri": null,
+      "salariati": 2541
+    },
+    {
+      "judet": "Maramureș",
+      "n_companii": 17,
+      "cifra_afaceri": null,
+      "salariati": 1297
+    },
+    {
+      "judet": "Mureș",
+      "n_companii": 17,
+      "cifra_afaceri": null,
+      "salariati": 1482
+    },
+    {
+      "judet": "Vrancea",
+      "n_companii": 16,
+      "cifra_afaceri": null,
+      "salariati": 1270
+    },
+    {
+      "judet": "Bistrița-Năsăud",
+      "n_companii": 16,
+      "cifra_afaceri": null,
+      "salariati": 941
+    },
+    {
+      "judet": "Galați",
+      "n_companii": 15,
+      "cifra_afaceri": null,
+      "salariati": 3366
+    },
+    {
+      "judet": "Călărași",
+      "n_companii": 15,
+      "cifra_afaceri": null,
+      "salariati": 734
+    },
+    {
+      "judet": "Bacău",
+      "n_companii": 14,
+      "cifra_afaceri": null,
+      "salariati": 1652
+    },
+    {
+      "judet": "Neamț",
+      "n_companii": 14,
+      "cifra_afaceri": null,
+      "salariati": 1043
+    },
+    {
+      "judet": "Alba",
+      "n_companii": 14,
+      "cifra_afaceri": null,
+      "salariati": 3448
+    },
+    {
+      "judet": "Vaslui",
+      "n_companii": 13,
+      "cifra_afaceri": null,
+      "salariati": 1387
+    },
+    {
+      "judet": "Sălaj",
+      "n_companii": 11,
+      "cifra_afaceri": null,
+      "salariati": 709
+    },
+    {
+      "judet": "Botoșani",
+      "n_companii": 11,
+      "cifra_afaceri": null,
+      "salariati": 1060
+    },
+    {
+      "judet": "Brăila",
+      "n_companii": 10,
+      "cifra_afaceri": null,
+      "salariati": 1545
+    },
+    {
+      "judet": "Suceava",
+      "n_companii": 10,
+      "cifra_afaceri": null,
+      "salariati": 1298
+    }
+  ]
+}

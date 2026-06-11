@@ -1,0 +1,294 @@
+{
+  "generat_de": "build_duckdb",
+  "total": 32,
+  "data": [
+    {
+      "nume": "catalin lungu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 3797294049.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alina costea sanda",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 3797294049.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "ion sterian",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 4,
+      "contracte_firme": 459124537.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gabriel radu",
+      "incredere": "candidat",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 276219562.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "dana gaiseanu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 12,
+      "contracte_firme": 225438871.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "calin radu rosian",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 10,
+      "contracte_firme": 225438871.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "crisan vasile",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 12,
+      "contracte_firme": 225438871.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gorun laurentiu nicusor",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 4,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "butunoi daniel ionel",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "dan mihail stan",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alexie bodolan constantin cotan",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "bogdan costas",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gambuteanu horia marian",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 36231907.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alina dragota laura raluca",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 36231907.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "niculae teodorescu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 36231907.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "condrea dragos",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 4,
+      "contracte_firme": 36231907.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "cojocaru simona",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 4,
+      "contracte_firme": 19886698.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "liviu stanoiu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 4,
+      "contracte_firme": 19886698.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "ion octavian tache",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 4,
+      "contracte_firme": 14986076.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "calangiu lucia",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 6470243.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "banciu leila mihaela",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 6,
+      "contracte_firme": 2324538.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alin panait radu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 3,
+      "contracte_firme": 834089.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gabriel radu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gorneanu mihaela",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alexandrescu duca mihaela oana",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gabriela stanga",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "madalina mustafa",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "dan iulius plaveti",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 269863.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "constantin cosmin trufelea",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 269863.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "adrian constantin marinescu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 269863.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "georgeta luminita popescu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 269863.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "balasoiu ion",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 269863.0,
+      "n_firme": 1
+    }
+  ]
+}
