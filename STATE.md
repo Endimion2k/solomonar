@@ -266,7 +266,7 @@ De făcut:
 
 | # | Tensiune | Opțiuni |
 |---|---|---|
-| T1 | **Acționariat cu % la scară** nu există gratuit (ONRC dump = doar reprezentanți legali, nu asociați) | (a) doar reprezentanți legali din data.gov.ro (gratis, parțial); (b) API comercial — termene.ro / risco.ro (ACT ~1 RON/query) pentru asociați+%; (c) hibrid: gratis pentru bază, plătit on-demand pentru ținte de interes. **REZOLVAT (D7): gratis acum, plătit deferit la final.** |
+| T1 | **Acționariat cu % la scară** nu există gratuit (ONRC dump = doar reprezentanți legali, nu asociați) | (a) doar reprezentanți legali din data.gov.ro (gratis, parțial); (b) API comercial — termene.ro / risco.ro (ACT ~1 RON/query) pentru asociați+%; (c) hibrid: gratis pentru bază, plătit on-demand pentru ținte de interes. **REZOLVAT PARȚIAL (2026-06-11): confirmat că ONRC open-data = DOAR reps (0 dataset asociați). DAR pt. SOE-urile LISTATE la BVB acționariatul % e PUBLIC+gratis → `harvest_actionariat_bvb.py`: 16 companii, 12 cu participație stat (Hidroelectrica 80%, Romgaz 70%, Nuclearelectrica 82,5%...). Firme NElistate: acționarii rămân plătiți (termene.ro), deferit.** |
 | T2 | **UBO (beneficiari reali)** restricționat din 2025 (Legea 86/2025: interes legitim + taxă + semnătură; jurnaliștii pot fi refuzați) | Probabil în afara scopului automat. De urmărit cazuistica „interes legitim". |
 | T3 | **Adâncimea instituțională** (Tier 3 deconcentrate ~1.000 + axa locală ~300) | Plan: Tier 2 (agenții centrale) prioritar; Tier 3 templated mai târziu; axa Consiliilor Județene modelată separat. |
 | T4 | **Runner self-hosted** — cdep.ro/senat.ro geo-blochează cloud IPs | Reutilizăm setup-ul din `cdep-api-poc` (PC Windows în RO). De confirmat capacitatea pentru volum crescut (ANI = ~1.6M PDF-uri). |
