@@ -9,6 +9,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
+> **🟢 RUNDA 2026-06-11c (commit 148) — STRAT DUCKDB GOLD:** `build_duckdb.py` realizează ultima piesă din
+> arhitectură (medallion gold relațional). Încarcă toate entitățile+relațiile în DuckDB la build (person 56k,
+> company 1256, person_company 21k edges, party/comisii/state_holding), engine efemer (gitignored). Interogări
+> relaționale + CTE recursiv (expandare rețea persoană↔companie). Exportă **6 view-uri analitice** noi în API:
+> sumar_sector/judet, companii_per_tutela, participatii_stat, oficiali_contracte, retele_coadministrare
+> (`data/v1/analytics/`). Arhitectura din docs e acum COMPLETĂ cap-coadă.
+>
 > **🟢 RUNDA 2026-06-11b (commit 145):** CV-uri ~3× (**1.237 total**: 775 SOE/instituții cu 766 studii/exp,
 > +449 OCR de pe site-urile localsoe) · **DNA 8.998 comunicate** (3×, 5.136 nume, cross-ref local 391/78 high) ·
 > **senatori↔comisii în gold** (130, crosswalk GUID).
