@@ -9,6 +9,11 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
+> **🟢 RUNDA 2026-06-11e (commit 153) — CLIENT STREAMLIT (ROMEGA Insights):** `web/app/` — dashboard
+> 11 pagini adaptat din cdep-client: Overview/Persoane(56k+fișă)/Companii/Achiziții/Follow-the-money/
+> Partide/Bugete/DNA/Comisii/Hartă/Analytics(DuckDB). data.py = data-layer cache pe data/v1 (sau
+> ROMEGA_DATA=URL live). Rulare: `streamlit run web/app/Overview.py`. Smoke test HTTP 200.
+>
 > **🟢 RUNDA 2026-06-11d (commit 151) — LEGISLATIV:** **PLx↔inițiatori** (`harvest_plx_initiatori`): 1.852 PLx
 > → inițiatorii (idm) + flag guvern. 1.234 cu inițiatori parlamentari, **709 inițiate de Guvern**. Integrat în
 > gold via cdep_idm (335/335): **332 deputați cu proiecte inițiate** (leagă legislația de persoane). +
