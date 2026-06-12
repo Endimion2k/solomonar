@@ -16,3 +16,4 @@ rapidocr-onnxruntime>=1.3  # OCR declarații scanate (ONNX, română/latină, f�
 # playwright>=1.42       # ANI SPA (Faza 2) — apoi: playwright install chromium
 openpyxl>=3.1
 xlrd>=2.0
+python-calamine>=0.2

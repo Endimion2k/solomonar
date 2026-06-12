@@ -1,0 +1,1597 @@
+{
+ "_meta": {
+  "sursa": "data.gov.ro CKAN API, organizatie agentia-pentru-agenda-digitala-a-romaniei (ADR/AADR)",
+  "generat": "2026-06-12",
+  "acoperire_ani": "2007-2025",
+  "goluri_ani": [],
+  "total_resurse": 148,
+  "total_mb_estimat": 13738.5,
+  "resurse_pe_an": {
+   "2007": {
+    "directe": 4,
+    "contracte": 1
+   },
+   "2008": {
+    "directe": 4,
+    "contracte": 1
+   },
+   "2009": {
+    "directe": 4,
+    "contracte": 1
+   },
+   "2010": {
+    "directe": 4,
+    "contracte": 1
+   },
+   "2011": {
+    "directe": 4,
+    "contracte": 1
+   },
+   "2012": {
+    "directe": 5,
+    "contracte": 2
+   },
+   "2013": {
+    "directe": 6,
+    "contracte": 2
+   },
+   "2014": {
+    "directe": 6,
+    "contracte": 2
+   },
+   "2015": {
+    "directe": 5,
+    "contracte": 2
+   },
+   "2016": {
+    "directe": 4,
+    "contracte": 4
+   },
+   "2017": {
+    "directe": 4,
+    "contracte": 8
+   },
+   "2018": {
+    "directe": 4,
+    "contracte": 5
+   },
+   "2019": {
+    "directe": 4,
+    "contracte": 4
+   },
+   "2020": {
+    "directe": 4,
+    "contracte": 4
+   },
+   "2021": {
+    "directe": 4,
+    "contracte": 4
+   },
+   "2022": {
+    "directe": 4,
+    "contracte": 4
+   },
+   "2023": {
+    "directe": 6,
+    "contracte": 6
+   },
+   "2024": {
+    "directe": 6,
+    "contracte": 6
+   },
+   "2025": {
+    "directe": 4,
+    "contracte": 4
+   }
+  },
+  "note": [
+   "Exclus: anunturi de initiere/participare, invitatii de participare/depunere, notificari de atribuire, anunturi de atribuire, date din modificare contract.",
+   "2016 apare si in datasetul 'achizitii-publice-2007-2016-contracte6'; pastrat doar datasetul dedicat 'achizitii-publice-2016'. Dubluri omise: ['Contracte-2016-S1.csv', 'Contracte subsecvente-2016-T1-T3.csv', 'Cumparari directe 2016 T1.csv', 'Cumparari directe 2016 T2.csv', 'Cumparari directe 2016 T3.csv', 'Contracte-subsecvente-2016-S2.csv']",
+   "y_contracte-2009.csv = re-upload al contracte-2009.csv (aceeasi dimensiune); URL-uri alternative: ['https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/4eb03268-4f2e-41e3-8967-4d84f946cc41/download/y_contracte-2009.csv', 'https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/32f7a675-6895-4e68-9725-d4fa6dc8929c/download/y_contracte-2009.csv']",
+   "Contracte 2012-2016 sunt impartite pe semestre (S1/S2), nu trimestre.",
+   "'Contracte subsecvente' (2016-2018) = contracte sub acord-cadru; marcate cu subtip.",
+   "Dataset 'achizitii-publice-2026' exista (T1 2026) dar e in afara intervalului cerut.",
+   "Contracte 2019 T2 si T3 au aceeasi dimensiune declarata (27771904 B) dar URL-uri/fisiere distincte (raport-t-2-2019.xls / raport-t-3-2019.xls); de verificat continutul la descarcare."
+  ]
+ },
+ "resurse": [
+  {
+   "an": 2007,
+   "perioada": "an",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/c6abc0ef-3efb-4aef-bc0a-411f8cab2a28/download/contracte-2007.csv",
+   "format": "CSV",
+   "size_mb": 36.4,
+   "nume_resursa": "contracte-2007.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2007,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A01%3A04.223Z/cumparari-directe-2007-t1.csv",
+   "format": "CSV",
+   "size_mb": 1.6,
+   "nume_resursa": "cumparari-directe-2007-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2007,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A01%3A58.681Z/cumparari-directe-2007-t2.csv",
+   "format": "CSV",
+   "size_mb": 3.6,
+   "nume_resursa": "cumparari-directe-2007-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2007,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A03%3A59.099Z/cumparari-directe-2007-t3.csv",
+   "format": "CSV",
+   "size_mb": 3.1,
+   "nume_resursa": "cumparari-directe-2007-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2007,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A05%3A34.268Z/cumparari-directe-2007-t4.csv",
+   "format": "CSV",
+   "size_mb": 3.3,
+   "nume_resursa": "cumparari-directe-2007-t4.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2008,
+   "perioada": "an",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T13%3A52%3A03.977Z/contracte-2008.csv",
+   "format": "CSV",
+   "size_mb": 62.7,
+   "nume_resursa": "contracte-2008.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2008,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A07%3A21.609Z/cumparari-directe-2008-t1.csv",
+   "format": "CSV",
+   "size_mb": 4.8,
+   "nume_resursa": "cumparari-directe-2008-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2008,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A08%3A15.447Z/cumparari-directe-2008-t2.csv",
+   "format": "CSV",
+   "size_mb": 8.7,
+   "nume_resursa": "cumparari-directe-2008-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2008,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A10%3A58.813Z/cumparari-directe-2008-t3.csv",
+   "format": "CSV",
+   "size_mb": 9.9,
+   "nume_resursa": "cumparari-directe-2008-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2008,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A11%3A39.543Z/cumparari-directe-2008-t4.csv",
+   "format": "CSV",
+   "size_mb": 13.6,
+   "nume_resursa": "cumparari-directe-2008-t4.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2009,
+   "perioada": "an",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T13%3A52%3A44.691Z/contracte-2009.csv",
+   "format": "CSV",
+   "size_mb": 66.5,
+   "nume_resursa": "contracte-2009.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2009,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A12%3A13.929Z/cumparari-directe-2009-t1.csv",
+   "format": "CSV",
+   "size_mb": 13.0,
+   "nume_resursa": "cumparari-directe-2009-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2009,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A12%3A47.854Z/cumparari-directe-2009-t2.csv",
+   "format": "CSV",
+   "size_mb": 26.6,
+   "nume_resursa": "cumparari-directe-2009-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2009,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A13%3A22.716Z/cumparari-directe-2009-t3.csv",
+   "format": "CSV",
+   "size_mb": 33.4,
+   "nume_resursa": "cumparari-directe-2009-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2009,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A13%3A53.800Z/cumparari-directe-2009-t4.csv",
+   "format": "CSV",
+   "size_mb": 51.2,
+   "nume_resursa": "cumparari-directe-2009-t4.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2010,
+   "perioada": "an",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T13%3A53%3A25.333Z/contracte-2010.csv",
+   "format": "CSV",
+   "size_mb": 70.3,
+   "nume_resursa": "contracte-2010.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2010,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A14%3A33.178Z/cumparari-directe-2010-t1.csv",
+   "format": "CSV",
+   "size_mb": 44.0,
+   "nume_resursa": "cumparari-directe-2010-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2010,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A15%3A04.500Z/cumparari-directe-2010-t2.csv",
+   "format": "CSV",
+   "size_mb": 63.2,
+   "nume_resursa": "cumparari-directe-2010-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2010,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A15%3A39.904Z/cumparari-directe-2010-t3.csv",
+   "format": "CSV",
+   "size_mb": 53.7,
+   "nume_resursa": "cumparari-directe-2010-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2010,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A16%3A45.151Z/cumparari-directe-2010-t4.csv",
+   "format": "CSV",
+   "size_mb": 77.9,
+   "nume_resursa": "cumparari-directe-2010-t4.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2011,
+   "perioada": "an",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T13%3A55%3A01.609Z/contracte-2011.csv",
+   "format": "CSV",
+   "size_mb": 64.1,
+   "nume_resursa": "contracte-2011.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2011,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A17%3A30.434Z/cumparari-directe-2011-t1.csv",
+   "format": "CSV",
+   "size_mb": 61.8,
+   "nume_resursa": "cumparari-directe-2011-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2011,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A18%3A52.079Z/cumparari-directe-2011-t2.csv",
+   "format": "CSV",
+   "size_mb": 74.1,
+   "nume_resursa": "cumparari-directe-2011-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2011,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A19%3A33.289Z/cumparari-directe-2011-t3.csv",
+   "format": "CSV",
+   "size_mb": 66.0,
+   "nume_resursa": "cumparari-directe-2011-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2011,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A20%3A23.339Z/cumparari-directe-2011-t4.csv",
+   "format": "CSV",
+   "size_mb": 92.0,
+   "nume_resursa": "cumparari-directe-2011-t4.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2012,
+   "perioada": "S1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/432b8b75-eced-44d8-b32f-3dcb4f368be7/download/contrace-2012-s1.csv",
+   "format": "CSV",
+   "size_mb": 46.3,
+   "nume_resursa": "contracte-2012-s1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2012,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A21%3A40.142Z/cumparari-directe-2012-t1.csv",
+   "format": "CSV",
+   "size_mb": 67.5,
+   "nume_resursa": "cumparari-directe-2012-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2012,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A23%3A30.276Z/cumparari-directe-2012-t2.csv",
+   "format": "CSV",
+   "size_mb": 81.0,
+   "nume_resursa": "cumparari-directe-2012-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2012,
+   "perioada": "S2",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T13%3A57%3A12.022Z/contracte-2012-s2.csv",
+   "format": "CSV",
+   "size_mb": 87.1,
+   "nume_resursa": "contracte-2012-s2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2012,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A24%3A22.022Z/cumparari-directe-2012-t3.csv",
+   "format": "CSV",
+   "size_mb": 69.4,
+   "nume_resursa": "cumparari-directe-2012-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2012,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A28%3A08.165Z/cumparari-directe-2012-t4-part1.csv",
+   "format": "CSV",
+   "size_mb": 88.9,
+   "nume_resursa": "cumparari-directe-2012-t4-part1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 1
+  },
+  {
+   "an": 2012,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A29%3A17.024Z/cumparari-directe-2012-t4-part2.csv",
+   "format": "CSV",
+   "size_mb": 18.6,
+   "nume_resursa": "cumparari-directe-2012-t4-part2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 2
+  },
+  {
+   "an": 2013,
+   "perioada": "S1",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2015-04-09T12%3A48%3A03.236Z/contracte-2013-s1.csv",
+   "format": "CSV",
+   "size_mb": 38.9,
+   "nume_resursa": "Contracte-2013-S1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2013,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A25%3A00.001Z/cumparari-directe-2013-t1.csv",
+   "format": "CSV",
+   "size_mb": 67.1,
+   "nume_resursa": "cumparari-directe-2013-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2013,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A25%3A55.847Z/cumparari-directe-2013-t2.csv",
+   "format": "CSV",
+   "size_mb": 84.8,
+   "nume_resursa": "cumparari-directe-2013-t2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2013,
+   "perioada": "S2",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2015-04-09T12%3A48%3A35.117Z/contracte-2013-s2.csv",
+   "format": "CSV",
+   "size_mb": 69.0,
+   "nume_resursa": "Contracte-2013-S2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2013,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2013-11-01T14%3A26%3A38.280Z/cumparari-directe-2013-t3.csv",
+   "format": "CSV",
+   "size_mb": 81.3,
+   "nume_resursa": "cumparari-directe-2013-t3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2013,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2014-02-26T14%3A41%3A41.862Z/cumparari-directe-2013-t4-part1.csv",
+   "format": "CSV",
+   "size_mb": 36.7,
+   "nume_resursa": "cumparari directe 2013 t4 part1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 1
+  },
+  {
+   "an": 2013,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2014-02-26T14%3A44%3A16.255Z/cumparari-directe-2013-t4-part2.csv",
+   "format": "CSV",
+   "size_mb": 38.7,
+   "nume_resursa": "cumparari directe 2013 t4 part2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 2
+  },
+  {
+   "an": 2013,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2014-02-26T14%3A46%3A49.583Z/cumparari-directe-2013-t4-part3.csv",
+   "format": "CSV",
+   "size_mb": 34.0,
+   "nume_resursa": "cumparari directe 2013 t4 part3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 3
+  },
+  {
+   "an": 2014,
+   "perioada": "S1",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2015-04-09T12%3A39%3A18.714Z/contracte-2014-s1.csv",
+   "format": "CSV",
+   "size_mb": 61.6,
+   "nume_resursa": "Contracte-2014-S1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2014,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2014-09-09T10%3A32%3A22.948Z/cumparari-directe-2014-t1.csv",
+   "format": "CSV",
+   "size_mb": 86.8,
+   "nume_resursa": "cumparari-directe-2014-t1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2014,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2014-09-09T10%3A47%3A11.797Z/cumparari-directe-2014-t2-part1.csv",
+   "format": "CSV",
+   "size_mb": 71.9,
+   "nume_resursa": "cumparari-directe-2014-t2-part1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 1
+  },
+  {
+   "an": 2014,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2014-09-09T10%3A48%3A48.541Z/cumparari-directe-2014-t2-part2.csv",
+   "format": "CSV",
+   "size_mb": 33.0,
+   "nume_resursa": "cumparari-directe-2014-t2-part2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 2
+  },
+  {
+   "an": 2014,
+   "perioada": "S2",
+   "tip": "contracte",
+   "url": "http://data.gov.ro/storage/f/2015-04-09T12%3A42%3A40.841Z/contracte-2014-s2.csv",
+   "format": "CSV",
+   "size_mb": 74.8,
+   "nume_resursa": "Contracte-2014-S2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2014,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2015-01-28T14%3A11%3A42.624Z/cumparari-directe-2014-t3.csv",
+   "format": "CSV",
+   "size_mb": 91.3,
+   "nume_resursa": "Cumparari directe 2014 T3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2014,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2015-01-28T14%3A12%3A30.221Z/cumparari-directe-2014-t4-part1.csv",
+   "format": "CSV",
+   "size_mb": 91.0,
+   "nume_resursa": "Cumparari directe 2014 T4 part1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 1
+  },
+  {
+   "an": 2014,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "http://data.gov.ro/storage/f/2015-01-28T14%3A13%3A21.798Z/cumparari-directe-2014-t4-part2.csv",
+   "format": "CSV",
+   "size_mb": 43.7,
+   "nume_resursa": "Cumparari directe 2014 T4 part2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 2
+  },
+  {
+   "an": 2015,
+   "perioada": "S1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/53673c9f-04b7-4b54-bf40-9db868afdaa5/download/contracte-2015-s1.csv",
+   "format": "CSV",
+   "size_mb": 66.7,
+   "nume_resursa": "Contracte-2015-S1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2015,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/bf16d4b4-33ad-41da-8648-e662641c6fd4/download/cumparari-directe-2015-t1.csv",
+   "format": "CSV",
+   "size_mb": 96.0,
+   "nume_resursa": "Cumparari directe 2015 T1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2015,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/8785931b-adb6-4d2f-bf35-97f1fe594bad/download/cumparari-directe-2015-t2-part-1.csv",
+   "format": "CSV",
+   "size_mb": 77.2,
+   "nume_resursa": "Cumparari directe 2015 T2 part 1.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 1
+  },
+  {
+   "an": 2015,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/8dd3ab99-5c2d-49e7-b825-9122f6affcc9/download/cumparari-directe-2015-t2-part-2.csv",
+   "format": "CSV",
+   "size_mb": 38.8,
+   "nume_resursa": "Cumparari directe 2015 T2 part 2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6",
+   "part": 2
+  },
+  {
+   "an": 2015,
+   "perioada": "S2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/fa5d8e71-8f87-4775-a8a8-fe0bb23f7b1c/download/contracte-2015-s2.csv",
+   "format": "CSV",
+   "size_mb": 74.7,
+   "nume_resursa": "Contracte-2015-S2.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2015,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/edcce95d-693b-489a-a4d5-e364cd457fb9/download/cumparari-directe-2015-t3.csv",
+   "format": "CSV",
+   "size_mb": 105.3,
+   "nume_resursa": "Cumparari directe 2015 T3.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2015,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4a4903c4-b1e3-46d1-82a5-238287f9496c/resource/82f1aef9-c807-413e-81b8-f1de54abf8ee/download/cumparari-directe-2015-t4.csv",
+   "format": "CSV",
+   "size_mb": 153.2,
+   "nume_resursa": "Cumparari directe 2015 T4.csv",
+   "dataset": "achizitii-publice-2007-2016-contracte6"
+  },
+  {
+   "an": 2016,
+   "perioada": "S1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/b41e3020-66af-435a-8acb-2447886d9065/download/contracte-2016-s1.csv",
+   "format": "CSV",
+   "size_mb": 75.6,
+   "nume_resursa": "Contracte-2016-S1.csv",
+   "dataset": "achizitii-publice-2016"
+  },
+  {
+   "an": 2016,
+   "perioada": "S1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/37a5429a-891f-470c-8e97-87d1d835a5fa/download/contracte-subsecvente-2016-s1.csv",
+   "format": "CSV",
+   "size_mb": 57.1,
+   "nume_resursa": "Contracte subsecvente-2016-S1.csv",
+   "dataset": "achizitii-publice-2016",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2016,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/59218225-9a13-4082-b639-1bc6bb1043c5/download/cumparari-directe-2016-t1.csv",
+   "format": "CSV",
+   "size_mb": 109.6,
+   "nume_resursa": "Cumparari directe 2016 T1.csv",
+   "dataset": "achizitii-publice-2016"
+  },
+  {
+   "an": 2016,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/dc45a708-2140-492e-9cbc-d09d880b98da/download/cumparari-directe-2016-t2.csv",
+   "format": "CSV",
+   "size_mb": 143.4,
+   "nume_resursa": "Cumparari directe 2016 T2.csv",
+   "dataset": "achizitii-publice-2016"
+  },
+  {
+   "an": 2016,
+   "perioada": "S2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/9a15e52f-f06d-4e35-aa5b-9e5c6a33a0c2/download/contracte-2016-s2.csv",
+   "format": "CSV",
+   "size_mb": 68.8,
+   "nume_resursa": "Contracte-2016-S2.csv",
+   "dataset": "achizitii-publice-2016"
+  },
+  {
+   "an": 2016,
+   "perioada": "S2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/427b3e4c-838a-48f9-874a-40fb29034d08/download/contracte-subsecvente-2016-s2.csv",
+   "format": "CSV",
+   "size_mb": 54.8,
+   "nume_resursa": "Contracte subsecvente-2016-S2.csv",
+   "dataset": "achizitii-publice-2016",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2016,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/996b30cd-3c2b-4242-bfb2-da756b43b102/download/cumparari-directe-2016-t3.csv",
+   "format": "CSV",
+   "size_mb": 180.3,
+   "nume_resursa": "Cumparari directe 2016 T3.csv",
+   "dataset": "achizitii-publice-2016"
+  },
+  {
+   "an": 2016,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/498d5b80-c681-4719-9a1a-c76f7d862461/resource/f0251a90-4454-46e0-a9e7-544463581fe6/download/cumparari-directe-2016-t4.csv",
+   "format": "CSV",
+   "size_mb": 328.5,
+   "nume_resursa": "Cumparari directe 2016 T4.csv",
+   "dataset": "achizitii-publice-2016"
+  },
+  {
+   "an": 2017,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/b5557679-0331-46e4-b275-e91cb00c4f9c/download/contracte-2017-t1.csv",
+   "format": "CSV",
+   "size_mb": 43.3,
+   "nume_resursa": "Contracte 2017 - T1",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/9ef1d77f-0813-475d-817d-4e723644e4c4/download/contracte-subsecvente-2017-t1.csv",
+   "format": "CSV",
+   "size_mb": 28.4,
+   "nume_resursa": "Contracte subsecvente 2017 - T1",
+   "dataset": "achizitii-publice-2017",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2017,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/1fc9d6e9-1829-42f6-86ca-44ba2ad0ee4e/download/achizitii-directe-2017-t1.csv",
+   "format": "CSV",
+   "size_mb": 329.5,
+   "nume_resursa": "Cumparari directe 2017 - T1",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/33d0caec-dc1b-41af-8cea-4f7018edf7d3/download/contracte-2017-t2.csv",
+   "format": "CSV",
+   "size_mb": 61.8,
+   "nume_resursa": "Contracte 2017 - T2",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/25627fe3-2c56-444a-b22f-b2e19177a94e/download/contracte-subsecvente-2017-t2.csv",
+   "format": "CSV",
+   "size_mb": 32.0,
+   "nume_resursa": "Contracte subsecvente 2017 - T2",
+   "dataset": "achizitii-publice-2017",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2017,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/4a84b5b4-aa03-44c0-82e4-b1e1cb0904dc/download/achizitii-directe-2017-t2.csv",
+   "format": "CSV",
+   "size_mb": 448.5,
+   "nume_resursa": "Cumparari directe 2017 - T2",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/3cc76965-8f4c-4498-b8ef-48db08fee8da/download/contracte-subsecvente-2017-t3.csv",
+   "format": "CSV",
+   "size_mb": 28.4,
+   "nume_resursa": "Contracte subsecvente 2017 - T3",
+   "dataset": "achizitii-publice-2017",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2017,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/9c8bf3c6-8193-4b3c-88a0-4398ca9132c1/download/contracte-2017-t3.csv",
+   "format": "CSV",
+   "size_mb": 57.0,
+   "nume_resursa": "Contracte 2017 - T3",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/74124f7a-92d3-42bd-8677-7abd282105c3/download/achizitii-directe-2017-t3.csv",
+   "format": "CSV",
+   "size_mb": 409.3,
+   "nume_resursa": "Cumparari directe 2017 - T3",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/df280754-e4c8-4b41-99fa-e8cc1dc92210/download/contracte-subsecvente-2017-t4.csv",
+   "format": "CSV",
+   "size_mb": 14.2,
+   "nume_resursa": "Contracte subsecvente 2017 - T4",
+   "dataset": "achizitii-publice-2017",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2017,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/207bb4ae-fd4e-46f7-aee7-a670dcf36057/download/contracte-2017-t4.csv",
+   "format": "CSV",
+   "size_mb": 28.1,
+   "nume_resursa": "Contracte 2017 - T4",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2017,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e589cd36-373b-4dd1-b549-4b24dc05c04d/resource/1304faf8-45d1-4756-b62b-c5c4dfd8e19c/download/achizitii-directe-2017-t4.csv",
+   "format": "CSV",
+   "size_mb": 397.5,
+   "nume_resursa": "Cumparari directe 2017 - T4",
+   "dataset": "achizitii-publice-2017"
+  },
+  {
+   "an": 2018,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/f80fedce-a6b2-4804-9aa8-ad709835bc37/download/contracte-2018-t1.csv",
+   "format": "CSV",
+   "size_mb": 50.2,
+   "nume_resursa": "Contracte 2018 - T1",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/74e9eac9-2296-47c5-8978-82e63da74fb0/download/contractesubsecvente-2018-t1.csv",
+   "format": "CSV",
+   "size_mb": 44.7,
+   "nume_resursa": "Contracte subsecvente 2018 - T1",
+   "dataset": "achizitii-publice-2018",
+   "subtip": "subsecvente"
+  },
+  {
+   "an": 2018,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/4b88642f-c72d-460b-ab39-f789d92536a5/download/achiziiidirecte-2018-t1.csv",
+   "format": "CSV",
+   "size_mb": 380.9,
+   "nume_resursa": "Cumparari directe 2018 - T1",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/0512843f-f82e-44ee-b2c3-000348414adf/download/raport-t-2-2018.xls",
+   "format": "XLSX",
+   "size_mb": 4.9,
+   "nume_resursa": "Contracte 2018 - T2",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/b1288e55-59af-4c35-a1fe-14c99c32527f/download/achizitiidirecte2018t2.xlsx",
+   "format": "XLSX",
+   "size_mb": 184.2,
+   "nume_resursa": "Cumparari directe 2018 - T2",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/71db8c52-2540-4faf-932c-41f94654b48c/download/raport-t-3-2018.xls",
+   "format": "XLSX",
+   "size_mb": 18.2,
+   "nume_resursa": "Contracte 2018 - T3",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/d2cf4a41-a955-456f-bb9b-638c178e1922/download/achizitiidirecte2018t3.xlsx",
+   "format": "XLSX",
+   "size_mb": 148.4,
+   "nume_resursa": "Cumparari directe 2018 - T3",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/0b2a099f-5ab7-4ebf-89e6-ad8f70b4a637/download/raport-t-4-2018.xls",
+   "format": "XLSX",
+   "size_mb": 22.4,
+   "nume_resursa": "Contracte 2018 - T4",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2018,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/d5a2b325-df17-496c-8664-d6515485b941/resource/bb5e5dfa-1ce4-46b7-ba85-f7cf61ad07c6/download/achizitiidirecte2018t4.xlsx",
+   "format": "XLSX",
+   "size_mb": 212.0,
+   "nume_resursa": "Cumparari directe 2018 - T4",
+   "dataset": "achizitii-publice-2018"
+  },
+  {
+   "an": 2019,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/04345127-97ea-4524-bae1-e43d19c58c5d/download/raport-t-1-2019.xls",
+   "format": "XLSX",
+   "size_mb": 16.6,
+   "nume_resursa": "Contracte 2019 - T1",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/4deb36c1-e977-487d-88a9-58a0beaab064/download/achizitiidirecte2019t1.xlsx",
+   "format": "XLSX",
+   "size_mb": 133.9,
+   "nume_resursa": "Achizitii directe 2019 - T1",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/cd2de7fc-44a7-457b-8315-3e0a92720aa3/download/raport-t-2-2019.xls",
+   "format": "XLSX",
+   "size_mb": 26.5,
+   "nume_resursa": "Contracte 2019 - T2",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/858ba60e-dc7a-44fa-a6d2-f14d1b4a9037/download/achizitiidirecte2019t2.xlsx",
+   "format": "XLSX",
+   "size_mb": 177.8,
+   "nume_resursa": "Achizitii directe 2019 - T2",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/522c1615-9898-4843-84da-b49fea56a3d1/download/raport-t-3-2019.xls",
+   "format": "XLSX",
+   "size_mb": 26.5,
+   "nume_resursa": "Contracte 2019 - T3",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/6591543a-5055-4cf3-a827-dca0a81d5b3a/download/achizitiidirecte2019t3.xlsx",
+   "format": "XLSX",
+   "size_mb": 153.9,
+   "nume_resursa": "Achizitii directe - T3",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/bb6a46a7-f608-469d-9a25-751e2266931e/download/raport-t-4-2019.xls",
+   "format": "XLSX",
+   "size_mb": 32.1,
+   "nume_resursa": "Contracte 2019 - T4",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2019,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/a9e34187-e414-431a-bf1a-53ebf9611656/resource/1a31ba74-6368-4cc5-8d43-5ca04bdc43a8/download/achizitiidirecte2019t4.xlsx",
+   "format": "XLSX",
+   "size_mb": 216.3,
+   "nume_resursa": "Achizitii directe 2019 T4",
+   "dataset": "achiziti-publice-2019"
+  },
+  {
+   "an": 2020,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/f0767534-258d-4bf7-aad9-ed4f23de3fae/download/raport-t-1-2020.xls",
+   "format": "XLSX",
+   "size_mb": 25.2,
+   "nume_resursa": "Contracte 2020 - T1",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/3e827637-6aba-4b47-85c9-e09f05c71057/download/achizitii_directe_2020_t1.xlsx",
+   "format": "XLSX",
+   "size_mb": 152.7,
+   "nume_resursa": "Achiziții directe 2020 - T1",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/c1428d5c-4fd1-4130-9560-0f1e0acd430d/download/raport-t-2-2020.xls",
+   "format": "XLSX",
+   "size_mb": 27.2,
+   "nume_resursa": "Contracte 2020 - T2",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/5d1f6b75-24c5-4413-8403-b34a10db2312/download/achizitii_directe_2020_t2.xlsx",
+   "format": "XLSX",
+   "size_mb": 128.8,
+   "nume_resursa": "Achiziții directe 2020 - T2",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/f08dd716-f8c8-4096-aa98-87dfe883af5d/download/raport-t-3-2020.xls",
+   "format": "XLSX",
+   "size_mb": 32.1,
+   "nume_resursa": "Contracte 2020 - T3",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/4a800a9f-dfe9-4f6b-9bff-d418148e2514/download/achizitii_directe_2020_t3.xlsx",
+   "format": "XLSX",
+   "size_mb": 162.3,
+   "nume_resursa": "Achiziții directe 2020 - T3",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/accfe438-329f-40cd-848f-9f9d6ffe0515/download/raport-t-4-2020.xls",
+   "format": "XLSX",
+   "size_mb": 35.6,
+   "nume_resursa": "Contracte 2020 - T4",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2020,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/4c89be6f-50b5-4b83-8d8f-5bbf96b396df/resource/c7b416e5-3d59-4426-a09e-15f5acc33005/download/achizitii_directe_2020_t4.xlsx",
+   "format": "XLSX",
+   "size_mb": 199.7,
+   "nume_resursa": "Achiziții directe 2020 - T4",
+   "dataset": "achizitii-publice-2020"
+  },
+  {
+   "an": 2021,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/c923a70c-d7b7-4bf8-a1ff-eb025b5cdac0/download/raport-t-1-2021.xls",
+   "format": "XLSX",
+   "size_mb": 46.4,
+   "nume_resursa": "Contracte 2021 - T1",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/5fb48214-0818-4024-b13e-2eebe6b1a73d/download/achizitii_directe_2021_t1.xlsx",
+   "format": "XLSX",
+   "size_mb": 91.5,
+   "nume_resursa": "Achiziții directe 2021 - T1",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/dea44c88-5a0a-4ac9-9fed-3575623ef136/download/raport-t-2-2021.xls",
+   "format": "XLS",
+   "size_mb": 72.2,
+   "nume_resursa": "Contracte 2021 - T2",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/e5b14dd8-2dc0-432d-9e11-820c9549aed5/download/achizitii-directe-2021-t2.csv",
+   "format": "CSV",
+   "size_mb": 295.3,
+   "nume_resursa": "Achizitii directe 2021 - T2",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/e5f2680d-6be9-4db2-a9ba-b3a8c3a1e5ed/download/raport-contracte-t3.csv",
+   "format": "CSV",
+   "size_mb": 244.7,
+   "nume_resursa": "Contracte 2021 - T3",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/5f439f08-4187-441c-9220-47c7f3109826/download/raport-da-t3.csv",
+   "format": "CSV",
+   "size_mb": 283.9,
+   "nume_resursa": "Achizitii directe 2021 - T3",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/cd750e45-7e3a-424c-b3be-b0387bddc89d/download/raport-contracte-t4.csv",
+   "format": "CSV",
+   "size_mb": 267.6,
+   "nume_resursa": "Contracte 2021 - T4",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2021,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/2aa96526-5b6a-4da9-bb51-b1fc7267c39c/resource/a94329f1-471a-4ffe-ba4a-c40033853795/download/raport-achizitii-directe-t4.csv",
+   "format": "CSV",
+   "size_mb": 176.6,
+   "nume_resursa": "Achizitii directe 2021 - T4",
+   "dataset": "achizitii-publice-2021"
+  },
+  {
+   "an": 2022,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/40d2ac89-80d9-4ced-9692-cc7f4fbc5be4/download/raport-contracte-t1-2022.csv",
+   "format": "CSV",
+   "size_mb": 65.4,
+   "nume_resursa": "Contracte 2022 - T1",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/76fc47a5-69aa-425f-b3e4-67ecd2f41f46/download/raport-achizitii-directe-t1-2022.csv",
+   "format": "CSV",
+   "size_mb": 124.8,
+   "nume_resursa": "Achiziții directe 2022 - T1",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/4ea3ccd1-a543-4e29-be7c-774aaa040912/download/raport-contracte-t2-2022.xls",
+   "format": "XLS",
+   "size_mb": 57.6,
+   "nume_resursa": "Contracte 2022 T2",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/9f541d85-c102-4dfc-a6f2-4ad012f375ee/download/raport-achizitii-directe-t2-2022.csv",
+   "format": "CSV",
+   "size_mb": 120.6,
+   "nume_resursa": "Achizitii directe 2022 T2",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/9f8f9dc1-16da-4686-a2eb-c47f1c7d25f3/download/raport-datagov-contracte-t3-2022.xls",
+   "format": "XLS",
+   "size_mb": 89.2,
+   "nume_resursa": "Contracte 2022 T3",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/b4e53488-facd-4bf3-9030-234c8c6fea8c/download/raport-datagov-achizitii-directe-t3-2022.csv",
+   "format": "CSV",
+   "size_mb": 127.1,
+   "nume_resursa": "Achizitii directe  2022 - T3",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/07490d6d-b45b-4e85-aa6b-c4a6126e5267/download/raport-datagov-contracte-t4-2022.xls",
+   "format": "XLS",
+   "size_mb": 109.8,
+   "nume_resursa": "Contracte 2022 T4",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2022,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/51fca83b-02a5-46da-b894-5d9cac565fa2/resource/1bc1453a-5335-40c0-ae1c-303f9ad1eef0/download/raport-datagov-achizitii-directe-t4-2022.csv",
+   "format": "CSV",
+   "size_mb": 173.8,
+   "nume_resursa": "Achiziții directe 2022 - T4",
+   "dataset": "achizitii-publice-2022"
+  },
+  {
+   "an": 2023,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/acca52ff-50e6-4668-9fa7-c8b1c9201334/download/raport-contracte-publicate-t1-2023.xls",
+   "format": "XLS",
+   "size_mb": 90.0,
+   "nume_resursa": "Contracte publicate T 1 - 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/28f536d5-fa32-4e9f-80a1-07454a1e488c/download/raport-achizitii-directe-t1-2023.xls",
+   "format": "XLS",
+   "size_mb": 166.8,
+   "nume_resursa": "Achizitii directe T 1 - 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/a9ca9109-6016-47ab-bfd1-8ee9fa0b0868/download/datagov-raport-contracte-publicate-tii-2023.xls",
+   "format": "XLS",
+   "size_mb": 74.8,
+   "nume_resursa": "Contracte publicate TII 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/3a8ab998-2a0e-4e42-81b4-7f089e04dfb8/download/datagov-raport-achizitii-directe-tii-2023.xls",
+   "format": "XLS",
+   "size_mb": 170.5,
+   "nume_resursa": "Achizitii directe TII 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/6ccf50f4-2862-4d32-b616-39e05faa0ee6/download/datagov-raport-contracte-publicate-t-iii-2023.csv",
+   "format": "CSV",
+   "size_mb": 95.8,
+   "nume_resursa": "Contracte publicate T III 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/22efa9b1-1165-453f-9da8-cf2375572b25/download/datagov-raport-contracte-publicate-t-iii-2023.xls",
+   "format": "XLS",
+   "size_mb": 84.1,
+   "nume_resursa": "Contracte publicate T III 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/b21a319f-514b-4e15-98a4-5a992caf3813/download/datagov-raport-achizitii-directe-t-iii-2023.csv",
+   "format": "CSV",
+   "size_mb": 141.5,
+   "nume_resursa": "Achizitii Directe T III 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/fc284fc8-e790-4aa4-9f0e-9aaa57bb0856/download/datagov-raport-achizitii-directe-t-iii-2023.xls",
+   "format": "XLS",
+   "size_mb": 154.8,
+   "nume_resursa": "Achizitii Directe T III 2023",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/1a2d1fff-caec-4e9d-aad8-05a6ef8b954e/download/datagov-raport-contracte-publicate-t-iv-2023.csv",
+   "format": "CSV",
+   "size_mb": 68.7,
+   "nume_resursa": "Contracte publicate T IV 2023.csv",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/4c73c580-0d70-4982-a1e3-8a3acaadf659/download/datagov-raport-contracte-publicate-t-iv-2023.xls",
+   "format": "XLS",
+   "size_mb": 63.9,
+   "nume_resursa": "Contracte publicate T IV 2023.xls",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/5acf3253-4ea9-4d00-a6c3-3d220b9e9145/download/datagov-raport-achizitii-directe-t-iv-2023.csv",
+   "format": "CSV",
+   "size_mb": 140.6,
+   "nume_resursa": "Achizitii Directe T IV 2023.csv",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2023,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/07234a4a-8315-4ad5-b761-813a9671a851/resource/d6154ab9-2959-4517-a07c-66efa7e88d6e/download/datagov-raport-achizitii-directe-t-iv-2023.xls",
+   "format": "XLS",
+   "size_mb": 156.2,
+   "nume_resursa": "Achizitii Directe T IV 2023.xls",
+   "dataset": "achizitii-publice-2023"
+  },
+  {
+   "an": 2024,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/24acca3c-2993-41a3-966b-ebb574df48c4/download/datagov-raport-contracte-publicate-t-i-2024.csv",
+   "format": "CSV",
+   "size_mb": 9.2,
+   "nume_resursa": "Contracte publicate T I 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/13ac6d68-de39-4d57-b87d-11b95a47ac64/download/datagov-raport-contracte-publicate-t-i-2024.xls",
+   "format": "XLS",
+   "size_mb": 60.6,
+   "nume_resursa": "Contracte publicate T I 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/83552692-ac36-45e0-9e5b-5c6bded5f001/download/datagov-raport-achizitii-directe-t-i-2024.csv",
+   "format": "CSV",
+   "size_mb": 133.5,
+   "nume_resursa": "Achiziții Directe T I 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/b3c28fec-da52-4d95-b6c7-0a034315b190/download/datagov-raport-achizitii-directe-t-i-2024.xls",
+   "format": "XLS",
+   "size_mb": 149.5,
+   "nume_resursa": "Achizitii Directe T I 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/c5f1fefc-7940-47ff-ac08-8783ea6484cf/download/datagov-raport-contracte-publicate-t-ii-2024.csv",
+   "format": "CSV",
+   "size_mb": 69.2,
+   "nume_resursa": "Raport Contracte publicate T II 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/12ecd3c0-259c-481c-8505-f19652777781/download/datagov-raport-contracte-publicate-t-ii-2024.xls",
+   "format": "XLS",
+   "size_mb": 64.4,
+   "nume_resursa": "Raport Contracte publicate T II 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/90972e66-d526-4c54-94b5-cf33330a8e7c/download/datagov-raport-achizitii-directe-t-ii-2024.csv",
+   "format": "CSV",
+   "size_mb": 143.1,
+   "nume_resursa": "Achiziții Directe T II 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/ddd0d8e3-e80b-43ac-b758-31fc53ab304f/download/datagov-raport-achizitii-directe-t-ii-2024.xls",
+   "format": "XLS",
+   "size_mb": 160.4,
+   "nume_resursa": "Achiziții Directe T II 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/9844ef50-42f2-4e53-affb-402dad0044a0/download/datagov-raport-contracte-tiii.xls",
+   "format": "XLS",
+   "size_mb": 55.2,
+   "nume_resursa": "Contracte publicate T III 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/66232a37-9585-4561-a8f9-a97735b0c1f1/download/datagov-raport-achizitii-directe-tiii.xls",
+   "format": "XLS",
+   "size_mb": 141.4,
+   "nume_resursa": "Achiziții directe T III 2024",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/429bccb5-055c-42d0-891d-922dc5197ca7/download/datagov-raport-contracte-t-iv_2024.xlsx",
+   "format": "XLSX",
+   "size_mb": 9.2,
+   "nume_resursa": "Contracte T IV",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2024,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/ed84773a-06c6-4016-ad59-8f1d06b8ec1d/resource/dd109516-aaa9-421b-bd4a-7b6ae4f3da43/download/datagov-raport-achizitii-directe-t-iv_2024.xlsx",
+   "format": "XLSX",
+   "size_mb": 68.9,
+   "nume_resursa": "Achiziții directe T IV",
+   "dataset": "achizitii-publice-2024"
+  },
+  {
+   "an": 2025,
+   "perioada": "T1",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/7344eeaf-c478-4f87-9669-c1bac3e521a8/download/datagov_raport_contracte_t1_2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 11.9,
+   "nume_resursa": "Contracte T1 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T1",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/4ea2f0d0-ad5d-440f-af9d-7101bc9e4969/download/datagov_raport-achizitii_directe_t1_2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 60.2,
+   "nume_resursa": "Achiziții directe T1 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T2",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/91947695-b315-4d72-b292-84bd57a9c72b/download/contracte-t2-2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 19.9,
+   "nume_resursa": "Contracte TII 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T2",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/8e6fa9e7-62e9-4ec2-bef5-495f3d09eef3/download/achizitii-directe-t2-2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 74.2,
+   "nume_resursa": "Achiziții directe TII 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T3",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/e2ef5a81-59ec-4789-9baa-fd175b217893/download/datagov-contracte-tiii-2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 13.7,
+   "nume_resursa": "Contracte TIII 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T3",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/21cd9887-26ca-418d-ade4-be5d369b4246/download/datagov-achizitii-directe-tiii-2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 62.5,
+   "nume_resursa": "Achiziții directe TIII 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T4",
+   "tip": "contracte",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/a1936e88-7fc5-4ffc-af65-6f946e98a005/download/contracte-t_iv_2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 14.7,
+   "nume_resursa": "Contracte T IV 2025",
+   "dataset": "achizitii-publice-2025"
+  },
+  {
+   "an": 2025,
+   "perioada": "T4",
+   "tip": "directe",
+   "url": "https://data.gov.ro/dataset/e0cf7ffc-1fa0-4ffb-a82f-c83981d81f21/resource/370af861-b17f-4807-b69c-9cf3b67df997/download/achiziii-directe-t_iv_2025.xlsx",
+   "format": "XLSX",
+   "size_mb": 72.6,
+   "nume_resursa": "Achiziții directe T IV 2025",
+   "dataset": "achizitii-publice-2025"
+  }
+ ]
+}
