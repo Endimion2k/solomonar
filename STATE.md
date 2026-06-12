@@ -64,6 +64,12 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12c (commit 162) — OPENSANCTIONS + DUCKDB DIRECTE + PAGINĂ CLIENT:** cross-ref
+> OpenSanctions (FtM gratis): **6.783 entități RO** (22 sancționați: Dragnea+familia/Plahotniuc — foști,
+> nu în graf; **6.761 PEP, 978 în graf** = validare externă, ex. Câciu). Flag `pep` în search (1.155).
+> `sanctiuni_ro.json`. + DuckDB cu `direct_supplier` (50k) + coloane directe + fix financials; pagina
+> client `11_Achizitii_directe` (12 pagini total). Backlog rămas: splink (rezoluție), cosmos.gl (graf 56k).
+>
 > **🟢 RUNDA 2026-06-12b (commit 159) — ACHIZIȚII DIRECTE (sicap-explorer fără torrent):** `harvest_achizitii_directe`
 > streamuiește 86 resurse data.gov.ro (CSV `^` + XLSX/XLS via **calamine**) → **21,9M achiziții directe** (= cele 22M
 > din sicap-explorer, FĂRĂ torrent-ul de 35GB!), **149.243 furnizori, 59,7 mld lei** (medie 2.726 lei/achiziție realist).
