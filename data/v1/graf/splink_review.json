@@ -1,0 +1,4509 @@
+{
+  "nota": "Rezoluție probabilistică SPLINK (DuckDB). 'review' = perechi în banda de incertitudine (prob 0.5-0.95) = candidați de verificat/merge manual. Model EM pe nume(Jaro-Winkler)+dată naștere+organizație+județ. Fără CNP → puterea e pe rândurile cu features.",
+  "mentiuni": 91282,
+  "perechi_match_0.5+": 281477,
+  "clustere_splink_0.9": 55543,
+  "persoane_gold": 56296,
+  "review_pairs": [
+    {
+      "nume_l": "eftene sorin",
+      "nume_r": "cim eftene sorin",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-05brasov 2023",
+      "org_r": "cfr sa - 2023-05brasov 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "chioreanu daniela",
+      "nume_r": "chira daniel",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-04cluj 2023",
+      "org_r": "cfr sa - 2023-04cluj 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "magurean stefan",
+      "nume_r": "muresan stelian",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-04cluj 2023",
+      "org_r": "cfr sa - 2023-04cluj 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "chira daniel",
+      "nume_r": "chiorean daniela",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-04cluj 2023",
+      "org_r": "cfr sa - 2023-04cluj 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "damian vasile",
+      "nume_r": "adrian damian vasile",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-04cluj 2023",
+      "org_r": "cfr sa - 2023-04cluj 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "gheorghe pop",
+      "nume_r": "calin gheorghe pop",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-04cluj 2023",
+      "org_r": "cfr sa - 2023-04cluj 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dragan gheorghe",
+      "nume_r": "dragan ion",
+      "prob": 0.9499,
+      "org_l": "cfr sa - 2023-03constanta 2024",
+      "org_r": "cfr sa - 2023-03constanta 2024",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alina filip maria",
+      "nume_r": "alina filip",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "balta florin",
+      "nume_r": "balta claudiu florin",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "balcanasu carmen",
+      "nume_r": "balcanasu carmen gabriela",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin george muscalu",
+      "nume_r": "catalin muscalu",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alina filip maria",
+      "nume_r": "alina filip",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina sarion valentina",
+      "nume_r": "cristina sarion",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "magdalena popa",
+      "nume_r": "carmen magdalena popa",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin muscalu",
+      "nume_r": "catalin george muscalu",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andaluzia sorina toma",
+      "nume_r": "andaluzia toma",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andaluzia sorina toma",
+      "nume_r": "andaluzia toma",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina trofor",
+      "nume_r": "cristina daniela trofor",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "balta florin",
+      "nume_r": "balta claudiu florin",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cipriana conoro",
+      "nume_r": "cipriana conoro mariana",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alina pavel ramona",
+      "nume_r": "pavel ramona",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "magdalena popa",
+      "nume_r": "carmen magdalena popa",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "mirela raileanu",
+      "nume_r": "mirela raileanu valeria",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina trofor",
+      "nume_r": "cristina daniela trofor",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru ionut",
+      "nume_r": "cojocaru costin ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andaluzia toma",
+      "nume_r": "andaluzia sorina toma",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ivanciu liviu sorin",
+      "nume_r": "ivanciu sorin",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ivanciu liviu sorin",
+      "nume_r": "ivanciu sorin",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru ionut",
+      "nume_r": "cojocaru costin ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "mihai mitrea ovidiu",
+      "nume_r": "mihai mitrea",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andaluzia toma",
+      "nume_r": "andaluzia sorina toma",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "mihai mitrea ovidiu",
+      "nume_r": "mihai mitrea",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "mihai mitrea ovidiu",
+      "nume_r": "mihai mitrea",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cojocaru costin ionut",
+      "nume_r": "cojocaru ionut",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "caluianu cristina violeta",
+      "nume_r": "caluianu cristina",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina sarion valentina",
+      "nume_r": "cristina sarion",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "mirela raileanu",
+      "nume_r": "mirela raileanu valeria",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina daniela trofor",
+      "nume_r": "cristina trofor",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei claudiu proca",
+      "nume_r": "andrei proca",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "pavel ramona",
+      "nume_r": "alina pavel ramona",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin george muscalu",
+      "nume_r": "catalin muscalu",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei claudiu proca",
+      "nume_r": "andrei proca",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin george muscalu",
+      "nume_r": "catalin muscalu",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alina filip maria",
+      "nume_r": "alina filip",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "caluianu cristina violeta",
+      "nume_r": "caluianu cristina",
+      "prob": 0.9497,
+      "org_l": "dsvsa bacău",
+      "org_r": "dsvsa bacău",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "gal manuela",
+      "nume_r": "gal ioana manuela maria",
+      "prob": 0.9497,
+      "org_l": "dsvsa cluj",
+      "org_r": "dsvsa cluj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "gal manuela",
+      "nume_r": "gal ioana manuela maria",
+      "prob": 0.9497,
+      "org_l": "dsvsa cluj",
+      "org_r": "dsvsa cluj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petroneal ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion ristea",
+      "nume_r": "petronela ristea",
+      "prob": 0.9496,
+      "org_l": "dsvsa giurgiu",
+      "org_r": "dsvsa giurgiu",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu dan florin",
+      "nume_r": "angelescu tatiana",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu dan florin",
+      "nume_r": "angelescu tatiana",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu tatiana",
+      "nume_r": "angelescu dan florin",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu dan florin",
+      "nume_r": "angelescu tatiana",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu tatiana",
+      "nume_r": "angelescu dan florin",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu tatiana",
+      "nume_r": "angelescu dan florin",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu tatiana",
+      "nume_r": "angelescu dan florin",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "angelescu tatiana",
+      "nume_r": "angelescu dan florin",
+      "prob": 0.9495,
+      "org_l": "dsvsa teleorman",
+      "org_r": "dsvsa teleorman",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion tolea",
+      "nume_r": "tolea vera",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "tolea vera",
+      "nume_r": "ion tolea",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "tolea vera",
+      "nume_r": "ion tolea",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "tolea vera",
+      "nume_r": "ion tolea",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "tolea vera",
+      "nume_r": "ion tolea",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion tolea",
+      "nume_r": "tolea vera",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion tolea",
+      "nume_r": "tolea vera",
+      "prob": 0.9495,
+      "org_l": "dsvsa constanța",
+      "org_r": "dsvsa constanța",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian dan niculae",
+      "nume_r": "niculae paul",
+      "prob": 0.9494,
+      "org_l": "cfr sa - 2023-01bucuresti 2023",
+      "org_r": "cfr sa - 2023-01bucuresti 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "niculae paul",
+      "nume_r": "adrian dan niculae",
+      "prob": 0.9494,
+      "org_l": "cfr sa - 2023-01bucuresti 2023",
+      "org_r": "cfr sa - 2023-01bucuresti 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian dan niculae",
+      "nume_r": "niculae paul",
+      "prob": 0.9494,
+      "org_l": "cfr sa - 2023-01bucuresti 2023",
+      "org_r": "cfr sa - 2023-01bucuresti 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian dan niculae",
+      "nume_r": "niculae paul",
+      "prob": 0.9494,
+      "org_l": "cfr sa - 2023-01bucuresti 2023",
+      "org_r": "cfr sa - 2023-01bucuresti 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian rosca",
+      "nume_r": "constantin rosca",
+      "prob": 0.9494,
+      "org_l": "cfr sa - 2020-05brasov 2023",
+      "org_r": "cfr sa - 2020-05brasov 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "marton pall",
+      "nume_r": "adela pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adela pall",
+      "nume_r": "marton pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "marton pall",
+      "nume_r": "adela pall",
+      "prob": 0.9494,
+      "org_l": "itm arad",
+      "org_r": "itm arad",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "liviu macarie",
+      "nume_r": "macarie nicolae",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "macarie nicolae",
+      "nume_r": "liviu macarie",
+      "prob": 0.9493,
+      "org_l": "dsvsa sălaj",
+      "org_r": "dsvsa sălaj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian maftei",
+      "nume_r": "gabriele maftei",
+      "prob": 0.9493,
+      "org_l": "cfr sa - 2020-03-constanta 2023",
+      "org_r": "cfr sa - 2020-03-constanta 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ambrus bede laszlo",
+      "nume_r": "ambrus jeno",
+      "prob": 0.9493,
+      "org_l": "cfr sa - 2022-05brasov 2023",
+      "org_r": "cfr sa - 2022-05brasov 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ambrus bede laszlo",
+      "nume_r": "ambrus ladislau",
+      "prob": 0.9493,
+      "org_l": "cfr sa - 2022-05brasov 2023",
+      "org_r": "cfr sa - 2022-05brasov 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ambrus jeno",
+      "nume_r": "ambrus ladislau",
+      "prob": 0.9493,
+      "org_l": "cfr sa - 2022-05brasov 2023",
+      "org_r": "cfr sa - 2022-05brasov 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "daniela dionisie",
+      "nume_r": "daniela dionise",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "iacob sorin",
+      "nume_r": "iacob sorinel",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina siridon",
+      "nume_r": "cristina spiridon",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina siridon",
+      "nume_r": "cristina spiridon",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandrina dina guresoaie",
+      "nume_r": "alexandrina guresoaie",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristina siridon",
+      "nume_r": "cristina spiridon",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandrina dina guresoaie",
+      "nume_r": "alexandrina guresoaie",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "iacob sorin",
+      "nume_r": "iacob sorinel",
+      "prob": 0.9492,
+      "org_l": "dsvsa călărași",
+      "org_r": "dsvsa călărași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandrescu radu razvan",
+      "nume_r": "alexandrescu catalin mihai",
+      "prob": 0.9492,
+      "org_l": "cfr sa - 2023-central 2023",
+      "org_r": "cfr sa - 2023-central 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu",
+      "nume_r": "aura biticu niculina",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "aura biticu niculina",
+      "nume_r": "aura biticu",
+      "prob": 0.9491,
+      "org_l": "dsvsa dolj",
+      "org_r": "dsvsa dolj",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian backup ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca backup ditu",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca backup ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "luminita maria murariu",
+      "nume_r": "backup luminita murariu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "luminita maria murariu",
+      "nume_r": "backup luminita murariu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "luminita maria murariu",
+      "nume_r": "backup luminita murariu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "luminita maria murariu",
+      "nume_r": "backup luminita murariu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "luminita maria murariu",
+      "nume_r": "backup luminita murariu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian backup ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca ditu nicoleta",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adrian ditu",
+      "nume_r": "anca backup ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "anca ditu nicoleta",
+      "nume_r": "adrian ditu",
+      "prob": 0.9491,
+      "org_l": "dsvsa prahova",
+      "org_r": "dsvsa prahova",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandru iul pene",
+      "nume_r": "alexandru pene",
+      "prob": 0.949,
+      "org_l": "dgaspc olt",
+      "org_r": "dgaspc olt",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "adreea cristina nicolae",
+      "nume_r": "andreea cristina nicolae",
+      "prob": 0.949,
+      "org_l": "dgaspc olt",
+      "org_r": "dgaspc olt",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandru pene",
+      "nume_r": "alexandru iul pene",
+      "prob": 0.949,
+      "org_l": "dgaspc olt",
+      "org_r": "dgaspc olt",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ariana gutescu",
+      "nume_r": "gutescu mariana",
+      "prob": 0.949,
+      "org_l": "dgaspc olt",
+      "org_r": "dgaspc olt",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "constantin dorina merged",
+      "nume_r": "ai constantin dorina",
+      "prob": 0.949,
+      "org_l": "administratia pietelor agroalimentare sa",
+      "org_r": "administratia pietelor agroalimentare sa",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "constantin dorina merged",
+      "nume_r": "ai constantin dorina",
+      "prob": 0.949,
+      "org_l": "administratia pietelor agroalimentare sa",
+      "org_r": "administratia pietelor agroalimentare sa",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cristian director general rosu",
+      "nume_r": "ca cristian membru rosu",
+      "prob": 0.9487,
+      "org_l": "societatea complexul energetic valea jiului s.a.",
+      "org_r": "societatea complexul energetic valea jiului s.a.",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava fp",
+      "nume_r": "andrei dumbrava",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei dumbrava proiect",
+      "nume_r": "dumbrava proiect",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei dumbrava",
+      "nume_r": "dumbrava proiect",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava proiect",
+      "nume_r": "andrei dumbrava",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava fp",
+      "nume_r": "andrei dumbrava",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava proiect",
+      "nume_r": "andrei dumbrava",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava fp",
+      "nume_r": "andrei dumbrava",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava proiect",
+      "nume_r": "andrei dumbrava",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei dumbrava proiect",
+      "nume_r": "dumbrava fp",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dumbrava proiect",
+      "nume_r": "dumbrava fp",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei dumbrava",
+      "nume_r": "dumbrava proiect",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei dumbrava",
+      "nume_r": "dumbrava fp",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andrei dumbrava",
+      "nume_r": "dumbrava fp",
+      "prob": 0.9486,
+      "org_l": "anpis — plăți și inspecție socială",
+      "org_r": "anpis — plăți și inspecție socială",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ion pop",
+      "nume_r": "ioan pop",
+      "prob": 0.9486,
+      "org_l": "cfr sa - 2021-04-cluj 2023",
+      "org_r": "cfr sa - 2021-04-cluj 2023",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx ecaterina ivanovici lucica",
+      "nume_r": "dx petrica preotu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandrina dx petrea",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "dx petrica preotu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx georgeta popovici",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx petrica preotu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx iulia puiu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "didona dx maria scripcaru",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "balteanu dx roxana snaider",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura soldan",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx elena manuela trifan",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandru dx marius voicescu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "irina tataru",
+      "nume_r": "incetarea irina suspendarii tataru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx georgeta popovici",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx petrica preotu",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx iulia puiu",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "didona dx maria scripcaru",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "balteanu dx roxana snaider",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura soldan",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx elena manuela trifan",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "alexandru dx marius voicescu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ana dx oltea zupcu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "avadanei dx neculai ovidiu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "benchea catalina dx",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "chirila dx oana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx foia iolanda",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx indrei laurentiu lucian",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx irina mitroi",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx loredana munteanu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "duca dx elena",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx forgaci mariana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin dragos dx ghica",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalina dx indrei",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx ecaterina ivanovici lucica",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura munteanu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx loredana munteanu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx georgeta popovici",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx petrica preotu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx iulia puiu",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "didona dx maria scripcaru",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "balteanu dx roxana snaider",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura soldan",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "duca dx elena",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx forgaci mariana",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin dragos dx ghica",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalina dx indrei",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx ecaterina ivanovici lucica",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura munteanu",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx loredana munteanu",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "cernei doina dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "cernei doina dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "cernei doina dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "bostoaca dx petronela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "bostoaca dx petronela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "bostoaca dx petronela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "andreea benchea chelariu dx mihaela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "andreea benchea chelariu dx mihaela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "alexandru dx marius voicescu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "danila dx lorena maria",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx georgeta popovici",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx petrica preotu",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "alexandru dx marius voicescu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx elena manuela trifan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "cernei doina dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "duca dx elena",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx forgaci mariana",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin dragos dx ghica",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalina dx indrei",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx ecaterina ivanovici lucica",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura munteanu",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx loredana munteanu",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx iulia puiu",
+      "nume_r": "didona dx maria scripcaru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx forgaci mariana",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "barbalata dx luminita oana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalina dx indrei",
+      "nume_r": "dx indrei laurentiu lucian",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx georgeta popovici",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "benchea catalina dx",
+      "nume_r": "andreea benchea chelariu dx mihaela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "duca dx elena",
+      "nume_r": "dx forgaci mariana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "duca dx elena",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx iulia puiu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx petrica preotu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx petrica preotu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin dragos dx ghica",
+      "nume_r": "catalina dx indrei",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barbalata dx luminita oana",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cucu dx liliana",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "duca dx elena",
+      "nume_r": "catalin dragos dx ghica",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx indrei laurentiu lucian",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx indrei laurentiu lucian",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx foia iolanda",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx foia iolanda",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx georgeta popovici",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "alexandrina dx petrea",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "alexandrina dx petrea",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx loredana munteanu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx loredana munteanu",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx irina mitroi",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "dx irina mitroi",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx georgeta popovici",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "benchea catalina dx",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "benchea catalina dx",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "ciobanu dx gabriela",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "chirila dx oana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "chirila dx oana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "cernei doina dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "cernei doina dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "barliba cornelia dx",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx mihaela moncea sanda",
+      "nume_r": "cucu dx liliana",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx georgeta popovici",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "irina tataru",
+      "nume_r": "incetarea irina suspendarii tataru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "irina tataru",
+      "nume_r": "incetarea irina suspendarii tataru",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx eugen popescu",
+      "nume_r": "dx georgeta popovici",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "duca dx elena",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx forgaci mariana",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalin dragos dx ghica",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "catalina dx indrei",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx ecaterina ivanovici lucica",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura munteanu",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx loredana munteanu",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "andreea benchea chelariu dx mihaela",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "bostoaca dx petronela",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "cernei doina dx liliana",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "ciobanu dx gabriela",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx petrica preotu",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx iulia puiu",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "didona dx maria scripcaru",
+      "nume_r": "balteanu dx roxana snaider",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx laura munteanu",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    },
+    {
+      "nume_l": "dx loredana munteanu",
+      "nume_r": "dx laura soldan",
+      "prob": 0.9486,
+      "org_l": "dsp iași",
+      "org_r": "dsp iași",
+      "src_l": "declaratie",
+      "src_r": "declaratie"
+    }
+  ]
+}
