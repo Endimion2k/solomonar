@@ -30,6 +30,10 @@ def _ck(s):
 def main() -> dict:
     items = []
 
+    # PEP flag (OpenSanctions, match pe nume_key — posibil omonim, dar PEP pt. demnitari e așteptat)
+    pep_keys = {e["nume_key"] for e in _load(os.path.join(V, "sanctiuni_ro.json")).get("entitati", [])
+                if e.get("in_graf") and e.get("dataset") == "peps"}
+
     # 1. PERSOANE (din gold) — compact + fapte cheie
     g = _load(os.path.join(V, "graf/persoane_gold.json")).get("persoane", [])
     for p in g:
@@ -46,6 +50,8 @@ def main() -> dict:
         autodecl = p.get("firme_contracte_autodeclarate") or []
         rec = {"n": nume, "k": _ck(nume), "t": "p", "inc": p.get("incredere", ""),
                "nd": nd, "nc": nc}
+        if p.get("nume_key") in pep_keys:
+            rec["pep"] = True
         if rol:
             rec["rol"] = rol
         if ct:

@@ -107,5 +107,11 @@
     "plx_cu_initiatori_parlamentari": 1234,
     "plx_guvern": 709,
     "legislatie_acte": 668
+  },
+  "opensanctions": {
+    "entitati_ro": 6783,
+    "sanctiuni": 22,
+    "pep": 6761,
+    "in_graf": 978
   }
 }
