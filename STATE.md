@@ -64,6 +64,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12e (commit 166) — COSMOS.GL (graful complet GPU) — BACKLOG GITHUB ÎNCHIS:**
+> `build_graph_full` + `web/graf_full.html` — **33.005 noduri** (toate persoanele↔companiile, conflicte/
+> parlamentari evidențiați) cu force-layout **pe GPU în browser** (cosmos.gl 2.6.4, typed arrays, fără
+> precalcul). Search+zoom, highlight vecini. Verificat în browser real (Playwright+WebGL, zero erori).
+> Tot backlog-ul din cercetarea GitHub e implementat: MCP ✓ FtM ✓ sigma.js ✓ alerte ✓ sicap-explorer ✓
+> opensanctions ✓ splink ✓ cosmos.gl ✓.
+>
 > **🟢 RUNDA 2026-06-12d (commit 164) — SPLINK (validare rezoluție):** `build_splink_resolution` — dedupe
 > probabilistic (splink 4 pe DuckDB) pe 91k mențiuni → **55.543 clustere vs 56.296 gold = acord 98,7%**
 > (metodă independentă confirmă rezoluția euristică). ONEST: review pairs limitate de lipsa CNP (fără dată
