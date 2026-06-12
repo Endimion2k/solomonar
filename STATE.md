@@ -64,6 +64,12 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12d (commit 164) — SPLINK (validare rezoluție):** `build_splink_resolution` — dedupe
+> probabilistic (splink 4 pe DuckDB) pe 91k mențiuni → **55.543 clustere vs 56.296 gold = acord 98,7%**
+> (metodă independentă confirmă rezoluția euristică). ONEST: review pairs limitate de lipsa CNP (fără dată
+> naștere → scorul supra-ponderează numele = mix variante reale + false-pozitive). Framework gata pt. mai
+> multe features. Backlog rămas (singurul major): **cosmos.gl** — graful complet 56k GPU-live.
+>
 > **🟢 RUNDA 2026-06-12c (commit 162) — OPENSANCTIONS + DUCKDB DIRECTE + PAGINĂ CLIENT:** cross-ref
 > OpenSanctions (FtM gratis): **6.783 entități RO** (22 sancționați: Dragnea+familia/Plahotniuc — foști,
 > nu în graf; **6.761 PEP, 978 în graf** = validare externă, ex. Câciu). Flag `pep` în search (1.155).
