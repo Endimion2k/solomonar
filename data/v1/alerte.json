@@ -1,0 +1,646 @@
+{
+  "disclaimer": "⚠️ SEMNALE DE INTERES, NU ACUZAȚII. Aceste alerte sunt generate automat din date deschise prin reguli deterministe. Legăturile firmă↔persoană sunt în mare parte pe NUME (fără CNP) => candidații pe nume pot fi OMONIMI, mai ales la companii mari. Singurele defensabile fără verificare suplimentară sunt cele de tip 'conflict_confirmat' (firma apare în PROPRIA declarație de interese). Restul necesită verificare manuală (ONRC + declarații de interese + SICAP). Cifrele de contracte pot fi cumulate multianual.",
+  "generat": "2026-06-12",
+  "total": 34,
+  "pe_severitate": {
+    "mare": 12,
+    "medie": 13,
+    "mica": 9
+  },
+  "pe_tip": {
+    "conflict_confirmat": 12,
+    "soe_pierdere_contracte_mari": 4,
+    "partid_subventie_fara_parlamentari": 6,
+    "parlamentar_conduce_soe": 3,
+    "outlier_valoare_contract": 4,
+    "concentrare_persoana": 5
+  },
+  "alerte": [
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Catalin Lungu are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Catalin Lungu",
+      "detalii": {
+        "romega_id": "g:ff1ff43339127f07",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 11653560,
+            "nume": "COMPANIA NATIONALA UNIFARM SA",
+            "total_ron": 3797294049.0
+          }
+        ],
+        "total_contracte_ron": 3797294049.0,
+        "n_declaratii": 2
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Alina Costea Sanda are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Alina Costea Sanda",
+      "detalii": {
+        "romega_id": "g:d3a282b69c66a4a1",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 11653560,
+            "nume": "COMPANIA NATIONALA UNIFARM SA",
+            "total_ron": 3797294049.0
+          }
+        ],
+        "total_contracte_ron": 3797294049.0,
+        "n_declaratii": 2
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Gherasim Laura are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Gherasim Laura",
+      "detalii": {
+        "romega_id": "p:112ac4ccab0922c1",
+        "este_parlamentar": true,
+        "incredere_link": "high",
+        "firme": [
+          {
+            "cui": 17351537,
+            "nume": "ACG CONSTRUCTION & PROJECTS",
+            "total_ron": 263537595.0
+          },
+          {
+            "cui": 17351537,
+            "nume": "ACG CONSTRUCTION & PROJECTS",
+            "total_ron": 263537595.0
+          }
+        ],
+        "total_contracte_ron": 527075190.0,
+        "n_declaratii": 2
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Ion Sterian are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Ion Sterian",
+      "detalii": {
+        "romega_id": "g:40d58e523e945881",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 13068733,
+            "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+            "total_ron": 459124537.0
+          }
+        ],
+        "total_contracte_ron": 459124537.0,
+        "n_declaratii": 4
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Crisan Vasile",
+      "detalii": {
+        "romega_id": "g:b4679da7b3ac4d7b",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 4331392,
+            "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+            "total_ron": 225438871.0
+          }
+        ],
+        "total_contracte_ron": 225438871.0,
+        "n_declaratii": 12
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Dana Gaiseanu are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Dana Gaiseanu",
+      "detalii": {
+        "romega_id": "g:c06dfa2e659ea635",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 4331392,
+            "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+            "total_ron": 225438871.0
+          }
+        ],
+        "total_contracte_ron": 225438871.0,
+        "n_declaratii": 12
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Calin Radu Rosian are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Calin Radu Rosian",
+      "detalii": {
+        "romega_id": "g:21c3c8805d91e3d9",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 4331392,
+            "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+            "total_ron": 225438871.0
+          }
+        ],
+        "total_contracte_ron": 225438871.0,
+        "n_declaratii": 10
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Dan Mihail Stan are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Dan Mihail Stan",
+      "detalii": {
+        "romega_id": "g:e38f19509eadfa59",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 13554423,
+            "nume": "COMPANIA NATIONALA ROMARM SA",
+            "total_ron": 133427590.0
+          }
+        ],
+        "total_contracte_ron": 133427590.0,
+        "n_declaratii": 2
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Liviu Stanoiu are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Liviu Stanoiu",
+      "detalii": {
+        "romega_id": "g:a99dfe912a45a891",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 29136150,
+            "nume": "RO-ARMYSECURITY SA",
+            "total_ron": 19886698.0
+          }
+        ],
+        "total_contracte_ron": 19886698.0,
+        "n_declaratii": 4
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Ion Octavian Tache are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Ion Octavian Tache",
+      "detalii": {
+        "romega_id": "g:60f7d79d2e8172c6",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 46877331,
+            "nume": "TERMO PLOIEȘTI S.R.L.",
+            "total_ron": 14986076.0
+          }
+        ],
+        "total_contracte_ron": 14986076.0,
+        "n_declaratii": 4
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Gabriela Stanga are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Gabriela Stanga",
+      "detalii": {
+        "romega_id": "g:7f61cc1a5574aaa9",
+        "este_parlamentar": false,
+        "incredere_link": "context",
+        "firme": [
+          {
+            "cui": 11573879,
+            "nume": "SERVICE CICLOP SA",
+            "total_ron": 454800.0
+          }
+        ],
+        "total_contracte_ron": 454800.0,
+        "n_declaratii": 2
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "conflict_confirmat",
+      "severitate": "mare",
+      "titlu": "Conflict documentat: Andrei Vidra Vlad are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Andrei Vidra Vlad",
+      "detalii": {
+        "romega_id": "p:aea9a2c0d15198cd",
+        "este_parlamentar": true,
+        "incredere_link": "high",
+        "firme": [
+          {
+            "cui": 62461,
+            "nume": "COPROT",
+            "total_ron": 419526.0
+          }
+        ],
+        "total_contracte_ron": 419526.0,
+        "n_declaratii": 2
+      },
+      "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "scor": 3
+    },
+    {
+      "tip": "soe_pierdere_contracte_mari",
+      "severitate": "medie",
+      "titlu": "Companie de stat pe pierdere cu contracte mari: COMPANIA NATIONALA UNIFARM SA",
+      "entitate": "COMPANIA NATIONALA UNIFARM SA",
+      "detalii": {
+        "cui": 11653560,
+        "profit_net_ron": -54404402,
+        "cifra_afaceri_ron": 174635087,
+        "an_financiar": 2023,
+        "contracte_ron": 3797294049.0,
+        "contracte_nr": 5913,
+        "tutela": "MINISTERUL SANATATII"
+      },
+      "provenance": "romega.duckdb company(is_soe,contracte_ron) + financials.profit_net din persoane_gold.json",
+      "scor": 2
+    },
+    {
+      "tip": "soe_pierdere_contracte_mari",
+      "severitate": "medie",
+      "titlu": "Companie de stat pe pierdere cu contracte mari: Telecomunicatii C.F.R. SA",
+      "entitate": "Telecomunicatii C.F.R. SA",
+      "detalii": {
+        "cui": 15034095,
+        "profit_net_ron": -4994183,
+        "cifra_afaceri_ron": 63985186,
+        "an_financiar": 2023,
+        "contracte_ron": 168798060.0,
+        "contracte_nr": 6,
+        "tutela": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII"
+      },
+      "provenance": "romega.duckdb company(is_soe,contracte_ron) + financials.profit_net din persoane_gold.json",
+      "scor": 2
+    },
+    {
+      "tip": "partid_subventie_fara_parlamentari",
+      "severitate": "medie",
+      "titlu": "Partid cu subvenție mare dar 0 parlamentari în mandatul curent: PMP",
+      "entitate": "PMP",
+      "detalii": {
+        "cod": "PMP",
+        "subventie_lei": 42692142.20999999,
+        "nr_deputati": 0,
+        "nr_senatori": 0,
+        "nr_rvc": 6,
+        "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura."
+      },
+      "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+      "scor": 2
+    },
+    {
+      "tip": "partid_subventie_fara_parlamentari",
+      "severitate": "medie",
+      "titlu": "Partid cu subvenție mare dar 0 parlamentari în mandatul curent: ALDE",
+      "entitate": "ALDE",
+      "detalii": {
+        "cod": "ALDE",
+        "subventie_lei": 41011185.0,
+        "nr_deputati": 0,
+        "nr_senatori": 0,
+        "nr_rvc": 0,
+        "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura."
+      },
+      "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+      "scor": 2
+    },
+    {
+      "tip": "soe_pierdere_contracte_mari",
+      "severitate": "medie",
+      "titlu": "Companie de stat pe pierdere cu contracte mari: ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+      "entitate": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+      "detalii": {
+        "cui": 2351555,
+        "profit_net_ron": -2598131,
+        "cifra_afaceri_ron": 407409533,
+        "an_financiar": 2023,
+        "contracte_ron": 36231907.0,
+        "contracte_nr": 5,
+        "tutela": "SECRETARIATUL GENERAL AL GUVERNULUI"
+      },
+      "provenance": "romega.duckdb company(is_soe,contracte_ron) + financials.profit_net din persoane_gold.json",
+      "scor": 2
+    },
+    {
+      "tip": "partid_subventie_fara_parlamentari",
+      "severitate": "medie",
+      "titlu": "Partid cu subvenție mare dar 0 parlamentari în mandatul curent: PDL",
+      "entitate": "PDL",
+      "detalii": {
+        "cod": "PDL",
+        "subventie_lei": 13247354.0,
+        "nr_deputati": 0,
+        "nr_senatori": 0,
+        "nr_rvc": 0,
+        "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura."
+      },
+      "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+      "scor": 2
+    },
+    {
+      "tip": "soe_pierdere_contracte_mari",
+      "severitate": "medie",
+      "titlu": "Companie de stat pe pierdere cu contracte mari: ALGORITHM RESIDENTIAL S3 SRL",
+      "entitate": "ALGORITHM RESIDENTIAL S3 SRL",
+      "detalii": {
+        "cui": 37409960,
+        "profit_net_ron": -12861599,
+        "cifra_afaceri_ron": 64762169,
+        "an_financiar": 2023,
+        "contracte_ron": 6470243.0,
+        "contracte_nr": 1,
+        "tutela": null
+      },
+      "provenance": "romega.duckdb company(is_soe,contracte_ron) + financials.profit_net din persoane_gold.json",
+      "scor": 2
+    },
+    {
+      "tip": "partid_subventie_fara_parlamentari",
+      "severitate": "medie",
+      "titlu": "Partid cu subvenție mare dar 0 parlamentari în mandatul curent: PPDD",
+      "entitate": "PPDD",
+      "detalii": {
+        "cod": "PPDD",
+        "subventie_lei": 3161101.0,
+        "nr_deputati": 0,
+        "nr_senatori": 0,
+        "nr_rvc": 0,
+        "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura."
+      },
+      "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+      "scor": 2
+    },
+    {
+      "tip": "partid_subventie_fara_parlamentari",
+      "severitate": "medie",
+      "titlu": "Partid cu subvenție mare dar 0 parlamentari în mandatul curent: PFN",
+      "entitate": "PFN",
+      "detalii": {
+        "cod": "PFN",
+        "subventie_lei": 1872992.0,
+        "nr_deputati": 0,
+        "nr_senatori": 0,
+        "nr_rvc": 0,
+        "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura."
+      },
+      "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+      "scor": 2
+    },
+    {
+      "tip": "partid_subventie_fara_parlamentari",
+      "severitate": "medie",
+      "titlu": "Partid cu subvenție mare dar 0 parlamentari în mandatul curent: PC",
+      "entitate": "PC",
+      "detalii": {
+        "cod": "PC",
+        "subventie_lei": 1440009.0,
+        "nr_deputati": 0,
+        "nr_senatori": 0,
+        "nr_rvc": 0,
+        "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura."
+      },
+      "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+      "scor": 2
+    },
+    {
+      "tip": "parlamentar_conduce_soe",
+      "severitate": "medie",
+      "titlu": "Parlamentar la conducerea unei companii de stat: Ion Iordache (administrator) la SECOM SA",
+      "entitate": "Ion Iordache",
+      "detalii": {
+        "romega_id": "p:78896aeb00895d99",
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "firma": "SECOM SA",
+        "cui": 1605884,
+        "rol": "administrator",
+        "tutela": null,
+        "procent_stat": null
+      },
+      "provenance": "romega.duckdb: person(camera) JOIN person_company(rol) JOIN company(is_soe=TRUE)",
+      "scor": 2
+    },
+    {
+      "tip": "parlamentar_conduce_soe",
+      "severitate": "medie",
+      "titlu": "Parlamentar la conducerea unei companii de stat: Gabriela Horga Maria (administrator) la ACTIVE CONEXE S.A.",
+      "entitate": "Gabriela Horga Maria",
+      "detalii": {
+        "romega_id": "p:cf099c6acd23f7ee",
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Național Liberal",
+        "firma": "ACTIVE CONEXE S.A.",
+        "cui": 31029694,
+        "rol": "administrator",
+        "tutela": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
+        "procent_stat": null
+      },
+      "provenance": "romega.duckdb: person(camera) JOIN person_company(rol) JOIN company(is_soe=TRUE)",
+      "scor": 2
+    },
+    {
+      "tip": "parlamentar_conduce_soe",
+      "severitate": "medie",
+      "titlu": "Parlamentar la conducerea unei companii de stat: Ioan Mihalcea (administrator) la MONITORUL OFICIAL RA",
+      "entitate": "Ioan Mihalcea",
+      "detalii": {
+        "romega_id": "p:fafdd16ae87e5b14",
+        "camera": "deputat",
+        "partid": "Partidul Social Democrat",
+        "firma": "MONITORUL OFICIAL RA",
+        "cui": 427282,
+        "rol": "administrator",
+        "tutela": "CAMERA DEPUTATILOR",
+        "procent_stat": null
+      },
+      "provenance": "romega.duckdb: person(camera) JOIN person_company(rol) JOIN company(is_soe=TRUE)",
+      "scor": 2
+    },
+    {
+      "tip": "outlier_valoare_contract",
+      "severitate": "mica",
+      "titlu": "Valoare medie/contract foarte mare (de verificat): TOTUL VERDE. S.A.",
+      "entitate": "TOTUL VERDE. S.A.",
+      "detalii": {
+        "cui": 14665500,
+        "contracte_ron": 21547795579.0,
+        "contracte_nr": 212,
+        "valoare_medie_ron": 101640545.18,
+        "tutela": null,
+        "nota": "Valoare medie mare pe contract poate indica acord-cadru, valoare cumulată multianuală sau un singur contract major — de verificat în SICAP."
+      },
+      "provenance": "romega.duckdb company(contracte_ron/contracte_nr)",
+      "scor": 1
+    },
+    {
+      "tip": "outlier_valoare_contract",
+      "severitate": "mica",
+      "titlu": "Valoare medie/contract foarte mare (de verificat): SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
+      "entitate": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
+      "detalii": {
+        "cui": 11054537,
+        "contracte_ron": 819122714.0,
+        "contracte_nr": 15,
+        "valoare_medie_ron": 54608180.93,
+        "tutela": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
+        "nota": "Valoare medie mare pe contract poate indica acord-cadru, valoare cumulată multianuală sau un singur contract major — de verificat în SICAP."
+      },
+      "provenance": "romega.duckdb company(contracte_ron/contracte_nr)",
+      "scor": 1
+    },
+    {
+      "tip": "outlier_valoare_contract",
+      "severitate": "mica",
+      "titlu": "Valoare medie/contract foarte mare (de verificat): SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
+      "entitate": "SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
+      "detalii": {
+        "cui": 32097794,
+        "contracte_ron": 519030448.0,
+        "contracte_nr": 4,
+        "valoare_medie_ron": 129757612.0,
+        "tutela": "MINISTERUL ENERGIEI",
+        "nota": "Valoare medie mare pe contract poate indica acord-cadru, valoare cumulată multianuală sau un singur contract major — de verificat în SICAP."
+      },
+      "provenance": "romega.duckdb company(contracte_ron/contracte_nr)",
+      "scor": 1
+    },
+    {
+      "tip": "outlier_valoare_contract",
+      "severitate": "mica",
+      "titlu": "Valoare medie/contract foarte mare (de verificat): SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+      "entitate": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+      "detalii": {
+        "cui": 13068733,
+        "contracte_ron": 459124537.0,
+        "contracte_nr": 6,
+        "valoare_medie_ron": 76520756.17,
+        "tutela": "SECRETARIATUL GENERAL AL GUVERNULUI",
+        "nota": "Valoare medie mare pe contract poate indica acord-cadru, valoare cumulată multianuală sau un singur contract major — de verificat în SICAP."
+      },
+      "provenance": "romega.duckdb company(contracte_ron/contracte_nr)",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Calin Costan Filimon",
+      "entitate": "Calin Costan Filimon",
+      "detalii": {
+        "romega_id": "g:7b6736c53d94a555",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "romega.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Ali Madadi",
+      "entitate": "Ali Madadi",
+      "detalii": {
+        "romega_id": "g:3a2bb0ea33bf33d8",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "romega.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Corduneanu Gabriela Imperia Maria",
+      "entitate": "Corduneanu Gabriela Imperia Maria",
+      "detalii": {
+        "romega_id": "g:28a459a92bf43c76",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "romega.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Iftime Serban",
+      "entitate": "Iftime Serban",
+      "detalii": {
+        "romega_id": "g:a9bd4b30c40bb3f4",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "romega.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Bultoc Gheorghita",
+      "entitate": "Bultoc Gheorghita",
+      "detalii": {
+        "romega_id": "g:a446dead4ac991e8",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "romega.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    }
+  ]
+}

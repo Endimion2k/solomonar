@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ROMEGA — graful follow-the-money</title>
+  <meta name="description" content="Graf interactiv: parlamentari și persoane care administrează companii cu contracte de stat. Noduri colorate pe tip, click pentru vecini.">
+  <style>
+    :root{
+      --bg:#0e1116; --panel:#171c24; --line:#262d39; --fg:#e8edf4; --muted:#9aa7b8;
+      --accent:#4ea3ff; --accent2:#2bd1a3; --warn:#ffb454; --radius:12px;
+      /* culori pe tip de nod */
+      --c-persoana:#4ea3ff; --c-parlamentar:#ffb454; --c-companie:#2bd1a3;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;font:15px/1.5 system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--fg);overflow:hidden}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    header{position:absolute;top:0;left:0;right:0;z-index:5;display:flex;flex-wrap:wrap;
+      align-items:baseline;gap:10px 16px;padding:14px 20px;border-bottom:1px solid var(--line);
+      background:linear-gradient(var(--bg),rgba(14,17,22,.85));backdrop-filter:blur(4px)}
+    h1{font-size:20px;margin:0;letter-spacing:-.02em}
+    h1 .tag{color:var(--accent2)}
+    .sub{color:var(--muted);font-size:13px}
+    .stats{margin-left:auto;display:flex;gap:14px;flex-wrap:wrap;color:var(--muted);font-size:12px}
+    .stats b{color:var(--fg)}
+
+    #sigma{position:absolute;inset:0;top:0}
+
+    .legend{position:absolute;left:16px;bottom:16px;z-index:5;background:var(--panel);
+      border:1px solid var(--line);border-radius:var(--radius);padding:12px 14px;font-size:13px}
+    .legend .row{display:flex;align-items:center;gap:8px;margin:5px 0;cursor:pointer;user-select:none}
+    .legend .dot{width:12px;height:12px;border-radius:50%;flex:none}
+    .legend .row.off{opacity:.4}
+    .legend small{color:var(--muted)}
+
+    .panel{position:absolute;right:16px;top:70px;z-index:5;width:300px;max-width:calc(100% - 32px);
+      background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);
+      padding:14px 16px;display:none}
+    .panel.show{display:block}
+    .panel h3{margin:0 0 6px;font-size:16px;letter-spacing:-.01em;word-break:break-word}
+    .panel .kind{display:inline-block;font-size:11px;padding:2px 9px;border-radius:999px;
+      border:1px solid var(--line);margin-bottom:8px}
+    .panel dl{margin:8px 0 0;display:grid;grid-template-columns:auto 1fr;gap:4px 10px;font-size:13px}
+    .panel dt{color:var(--muted)} .panel dd{margin:0;text-align:right;word-break:break-word}
+    .panel .neighbors{margin-top:10px;border-top:1px solid var(--line);padding-top:8px}
+    .panel .neighbors b{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+    .panel .nlist{margin-top:6px;max-height:180px;overflow:auto;font-size:13px}
+    .panel .nlist div{padding:3px 0;cursor:pointer;border-bottom:1px solid var(--line)}
+    .panel .nlist div:hover{color:var(--accent)}
+    .panel .close{position:absolute;top:10px;right:12px;cursor:pointer;color:var(--muted);font-size:18px;line-height:1}
+
+    .toolbar{position:absolute;left:50%;top:62px;transform:translateX(-50%);z-index:5;
+      display:flex;gap:8px;align-items:center}
+    .toolbar input{background:var(--panel);border:1px solid var(--line);color:var(--fg);
+      border-radius:10px;padding:9px 13px;font-size:14px;min-width:240px}
+    .toolbar input:focus{outline:2px solid var(--accent);outline-offset:1px}
+    .toolbar button{background:var(--panel);border:1px solid var(--line);color:var(--fg);
+      border-radius:10px;padding:9px 12px;font-size:13px;cursor:pointer}
+    .toolbar button:hover{border-color:var(--accent)}
+
+    .loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
+      color:var(--muted);font-size:15px;z-index:6}
+    .err{color:var(--warn)}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>RO<span class="tag">MEGA</span> · graf</h1>
+    <span class="sub">follow-the-money — persoane &amp; companii cu contracte de stat</span>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="toolbar">
+    <input type="search" id="q" placeholder="Caută o persoană sau companie…" aria-label="Caută în graf">
+    <button id="reset" title="Resetează zoom &amp; selecție">Reset</button>
+  </div>
+
+  <div id="sigma"></div>
+  <div class="loading" id="loading">Se încarcă graful…</div>
+
+  <div class="legend" id="legend">
+    <div class="row" data-type="parlamentar"><span class="dot" style="background:var(--c-parlamentar)"></span>parlamentar</div>
+    <div class="row" data-type="persoana"><span class="dot" style="background:var(--c-persoana)"></span>persoană (administrator)</div>
+    <div class="row" data-type="companie"><span class="dot" style="background:var(--c-companie)"></span>companie</div>
+    <small>click pe tip = ascunde/arată · click pe nod = vecini</small>
+  </div>
+
+  <aside class="panel" id="panel">
+    <span class="close" id="panelClose" aria-label="Închide">×</span>
+    <span class="kind" id="pKind"></span>
+    <h3 id="pTitle"></h3>
+    <dl id="pProps"></dl>
+    <div class="neighbors">
+      <b>Vecini (<span id="pNcount">0</span>)</b>
+      <div class="nlist" id="pNlist"></div>
+    </div>
+  </aside>
+
+  <!-- graphology + sigma.js prin CDN (UMD) -->
+  <script src="https://cdn.jsdelivr.net/npm/graphology@0.25.4/dist/graphology.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sigma@2.4.0/build/sigma.min.js"></script>
+  <script>
+  // ajustează în funcție de rădăcina GitHub Pages (la fel ca index.html)
+  const DATA = "../data/v1";
+  const COLORS = {persoana:"#4ea3ff", parlamentar:"#ffb454", companie:"#2bd1a3"};
+  const FADE = "rgba(120,130,145,0.12)";
+
+  const $ = (id)=>document.getElementById(id);
+  let renderer, graph, selected=null;
+  const hidden = new Set(); // tipuri ascunse din legendă
+
+  function fmtRon(v){
+    v = +v || 0;
+    if(v<=0) return "—";
+    if(v>=1e9) return (v/1e9).toFixed(2)+" mld lei";
+    if(v>=1e6) return (v/1e6).toFixed(1)+" mil lei";
+    return v.toLocaleString("ro-RO")+" lei";
+  }
+
+  async function load(){
+    let data;
+    try{
+      data = await fetch(`${DATA}/graf/graph_layout.json`).then(r=>{
+        if(!r.ok) throw new Error("HTTP "+r.status); return r.json();
+      });
+    }catch(e){
+      $("loading").innerHTML = `<span class="err">Nu am putut încărca graful (${e}).<br>
+        Rulează <code>python pipeline/build_graph_layout.py</code>.</span>`;
+      return;
+    }
+
+    $("stats").innerHTML =
+      `<span><b>${data.n_nodes.toLocaleString("ro-RO")}</b> noduri</span>`+
+      `<span><b>${data.n_edges.toLocaleString("ro-RO")}</b> relații</span>`+
+      `<span><b>${data.n_clusters}</b> clustere</span>`+
+      `<span>layout: <b>${data.layout}</b></span>`;
+
+    graph = new graphology.Graph();
+    for(const n of data.nodes){
+      graph.addNode(n.id, {
+        x:n.x, y:-n.y,              // -y: ecranul are y în jos
+        size:n.size, label:n.label,
+        color: COLORS[n.type] || "#888",
+        ntype:n.type, cluster:n.cluster,
+        contracte:n.contracte||0, sector:n.sector||"", partid:n.partid||"",
+        degree:n.degree||0
+      });
+    }
+    for(const e of data.edges){
+      if(graph.hasNode(e.source) && graph.hasNode(e.target) && !graph.hasEdge(e.source,e.target)){
+        graph.addEdge(e.source, e.target, {size:0.6, color:"rgba(150,160,175,0.25)"});
+      }
+    }
+
+    renderer = new Sigma(graph, $("sigma"), {
+      labelColor:{color:"#e8edf4"},
+      labelDensity:0.55, labelGridCellSize:70, labelRenderedSizeThreshold:8,
+      defaultEdgeColor:"rgba(150,160,175,0.22)",
+      minCameraRatio:0.05, maxCameraRatio:14
+    });
+
+    // reducer-ele: ascundere pe tip + highlight vecini la selecție
+    renderer.setSetting("nodeReducer", (node, d)=>{
+      const res = {...d};
+      if(hidden.has(d.ntype)){ res.hidden = true; return res; }
+      if(selected){
+        if(node===selected){ res.zIndex=2; res.size=d.size*1.6; }
+        else if(graph.neighbors(selected).includes(node)){ res.zIndex=1; }
+        else { res.color=FADE; res.label=null; res.zIndex=0; }
+      }
+      return res;
+    });
+    renderer.setSetting("edgeReducer", (edge, d)=>{
+      const res = {...d};
+      const [s,t] = graph.extremities(edge);
+      if(hidden.has(graph.getNodeAttribute(s,"ntype")) || hidden.has(graph.getNodeAttribute(t,"ntype"))){
+        res.hidden = true; return res;
+      }
+      if(selected){
+        if(s===selected || t===selected){ res.color="rgba(78,163,255,0.55)"; res.size=1.2; }
+        else { res.hidden = true; }
+      }
+      return res;
+    });
+
+    renderer.on("clickNode", ({node})=> selectNode(node));
+    renderer.on("clickStage", ()=>{ selected=null; closePanel(); renderer.refresh(); });
+
+    $("loading").style.display="none";
+    wireUI();
+  }
+
+  function selectNode(node){
+    selected = node;
+    renderer.refresh();
+    const a = graph.getNodeAttributes(node);
+    $("panel").classList.add("show");
+    $("pKind").textContent = a.ntype;
+    $("pKind").style.color = COLORS[a.ntype] || "#fff";
+    $("pKind").style.borderColor = COLORS[a.ntype] || "var(--line)";
+    $("pTitle").textContent = a.label;
+
+    const rows = [];
+    rows.push(["relații", a.degree]);
+    rows.push(["cluster", "#"+a.cluster]);
+    if(a.contracte>0) rows.push(["contracte stat", fmtRon(a.contracte)]);
+    if(a.partid) rows.push(["partid", a.partid]);
+    if(a.sector) rows.push(["sector", a.sector]);
+    $("pProps").innerHTML = rows.map(([k,v])=>`<dt>${k}</dt><dd>${v}</dd>`).join("");
+
+    const nb = graph.neighbors(node).map(id=>({id, label:graph.getNodeAttribute(id,"label"),
+      type:graph.getNodeAttribute(id,"ntype")}))
+      .sort((x,y)=>x.label.localeCompare(y.label,"ro"));
+    $("pNcount").textContent = nb.length;
+    $("pNlist").innerHTML = nb.map(n=>
+      `<div data-id="${n.id}" style="color:${COLORS[n.type]||'#ccc'}">${n.label}</div>`).join("") || "<small>—</small>";
+    $("pNlist").querySelectorAll("div[data-id]").forEach(el=>{
+      el.onclick = ()=>{ selectNode(el.dataset.id);
+        renderer.getCamera().animate(
+          {...renderer.getNodeDisplayData(el.dataset.id), ratio:0.4}, {duration:400}); };
+    });
+  }
+
+  function closePanel(){ $("panel").classList.remove("show"); }
+
+  function wireUI(){
+    $("panelClose").onclick = ()=>{ selected=null; closePanel(); renderer.refresh(); };
+
+    // legendă: toggle pe tip
+    document.querySelectorAll(".legend .row").forEach(row=>{
+      row.onclick = ()=>{
+        const t = row.dataset.type;
+        if(hidden.has(t)){ hidden.delete(t); row.classList.remove("off"); }
+        else { hidden.add(t); row.classList.add("off"); }
+        renderer.refresh();
+      };
+    });
+
+    // căutare: selectează primul nod care conține textul
+    $("q").addEventListener("keydown", e=>{
+      if(e.key!=="Enter") return;
+      const q = e.target.value.trim().toLowerCase();
+      if(!q) return;
+      let hit=null;
+      graph.forEachNode((id,a)=>{ if(!hit && (a.label||"").toLowerCase().includes(q)) hit=id; });
+      if(hit){
+        selectNode(hit);
+        renderer.getCamera().animate({...renderer.getNodeDisplayData(hit), ratio:0.35},{duration:500});
+      }
+    });
+
+    $("reset").onclick = ()=>{
+      selected=null; closePanel(); $("q").value="";
+      renderer.refresh();
+      renderer.getCamera().animatedReset();
+    };
+  }
+
+  load();
+  </script>
+</body>
+</html>

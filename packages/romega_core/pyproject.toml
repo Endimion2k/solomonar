@@ -17,7 +17,11 @@ dependencies = [
 [project.optional-dependencies]
 http = ["requests>=2.31", "truststore>=0.9", "parsel>=1.9"]
 pdf = ["pdfplumber>=0.11", "pypdf>=4.0"]
+mcp = ["mcp[cli]>=1.2", "duckdb>=1.0"]
 dev = ["pytest>=8.0"]
+
+[project.scripts]
+romega-mcp-core = "romega_core.mcp_server:run"
 
 [tool.setuptools.packages.find]
 where = ["."]
