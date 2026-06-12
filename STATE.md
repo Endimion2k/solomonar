@@ -64,6 +64,12 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12b (commit 159) — ACHIZIȚII DIRECTE (sicap-explorer fără torrent):** `harvest_achizitii_directe`
+> streamuiește 86 resurse data.gov.ro (CSV `^` + XLSX/XLS via **calamine**) → **21,9M achiziții directe** (= cele 22M
+> din sicap-explorer, FĂRĂ torrent-ul de 35GB!), **149.243 furnizori, 59,7 mld lei** (medie 2.726 lei/achiziție realist).
+> Fix-uri: skip rânduri prost-aliniate, calamine pt. XLSX cu dimensiuni greșite, VALOARE_RON, cap 2M. Integrat în gold:
+> **11.348 persoane** cu firme cu achiziții directe (al 2-lea canal, lângă contractele SICAP — Păval/Dedeman 283M etc.).
+>
 > **🟢 RUNDA 2026-06-12 (commit 156) — TOOLING din cercetare GitHub:** **MCP server** (`romega-mcp-core`,
 > FastMCP/DuckDB read-only, 10 tool-uri cu provenance+etică — Claude interoghează ROMEGA conversațional) ·
 > **export FollowTheMoney** (10.024 entități NDJSON, interoperabil Aleph/OCCRP) · **graf sigma.js**
