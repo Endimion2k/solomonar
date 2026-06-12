@@ -59,7 +59,11 @@
   "achizitii": {
     "firme_castigatoare": 11945,
     "follow_the_money_leaduri": 13,
-    "confirmate_autodeclarate": 12
+    "confirmate_autodeclarate": 12,
+    "achizitii_directe_total": 21886015,
+    "furnizori_directe": 149243,
+    "valoare_directe_mld": 59.7,
+    "persoane_cu_achizitii_directe": 11348
   },
   "audit": {
     "dna_comunicate": 8998,

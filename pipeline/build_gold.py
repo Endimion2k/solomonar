@@ -139,13 +139,16 @@ def main() -> dict:
     cidx = {c["cui"]: c for c in _rows(_load(os.path.join(V, "companii/_index.json")), "data")}
     cf = {int(r["cui"]): r for r in _rows(_load(os.path.join(V, "achizitii/contracte_firme.json")), "firme")
           if str(r.get("cui", "")).isdigit()}   # CUI → contracte de stat câștigate
+    ad = {int(r["cui"]): r for r in _rows(_load(os.path.join(V, "companii/achizitii_directe.json")), "furnizori")
+          if str(r.get("cui", "")).isdigit()}   # CUI → achiziții directe (cumpărări directe SICAP)
     for c in _rows(_load(os.path.join(V, "companii/reprezentanti.json")), "companii"):
         co = cidx.get(c["cui"], {})
         oname = co.get("name", c.get("denumire", ""))
         try:
             ctr = cf.get(int(c["cui"]))
+            adr = ad.get(int(c["cui"]))
         except (ValueError, TypeError):
-            ctr = None
+            ctr = adr = None
         for rp in c.get("reprezentanti", []):
             nk = name_key(rp["nume"])
             if nk:
@@ -153,6 +156,8 @@ def main() -> dict:
                       "sector": co.get("sector", ""), "financials": co.get("financials")}
                 if ctr:
                     pl["contracte_stat"] = {"total_ron": ctr.get("total_ron"), "nr": ctr.get("nr_contracte")}
+                if adr:
+                    pl["achizitii_directe"] = {"total_ron": adr.get("total_ron"), "nr": adr.get("nr")}
                 mentions.append({"nk": nk, "tokens": _distinct_tokens(oname), "kind": "companie", "org": oname,
                                  "payload": pl})
     for f in glob.glob(os.path.join(V, "declaratii/avere_*.json")) + glob.glob(os.path.join(V, "declaratii/interese_*.json")):
@@ -242,7 +247,11 @@ def main() -> dict:
         afil = p.get("afil_tokens", set())
         firme_ctr = {}
         firme_autodecl = []   # firme cu contracte care apar ȘI în declarația de interese a persoanei = CONFIRMAT
+        ad_total = 0.0        # achiziții directe ale firmelor persoanei
         for c in p["companii"]:
+            adr = c.get("achizitii_directe")
+            if adr and adr.get("total_ron"):
+                ad_total += adr["total_ron"]
             cs = c.get("contracte_stat")
             if not cs:
                 continue
@@ -253,6 +262,7 @@ def main() -> dict:
         rec = {"romega_id": rid, "nume_key": nk, "incredere": conf, "parlamentar": mp.get(rid, {}).get("parlamentar"),
                "n_declaratii": len(p["declaratii"]), "n_companii": ncomp, "are_cv": cv is not None,
                "n_firme_cu_contracte": len(firme_ctr), "total_contracte_ron": total_ctr,
+               "total_achizitii_directe_ron": round(ad_total, 2),
                "firme_contracte_autodeclarate": firme_autodecl,
                "declaratii": p["declaratii"][:20], "companii": p["companii"], "cv": cv}
         out.append(rec)

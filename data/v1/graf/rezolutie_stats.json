@@ -13,6 +13,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 14986076.0,
+      "total_achizitii_directe_ron": 591810.63,
       "firme_contracte_autodeclarate": [
         {
           "cui": 46877331,
@@ -54,6 +55,10 @@
             "profit_net": 4802667,
             "datorii": 8796841,
             "nr_salariati": 520
+          },
+          "achizitii_directe": {
+            "total_ron": 591810.63,
+            "nr": 85
           }
         },
         {
@@ -86,6 +91,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 591810.63,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -124,6 +130,10 @@
             "profit_net": 4802667,
             "datorii": 8796841,
             "nr_salariati": 520
+          },
+          "achizitii_directe": {
+            "total_ron": 591810.63,
+            "nr": 85
           }
         }
       ],
@@ -139,6 +149,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 217534.9,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -177,6 +188,10 @@
             "profit_net": -11903992,
             "datorii": 66309632,
             "nr_salariati": 302
+          },
+          "achizitii_directe": {
+            "total_ron": 217534.9,
+            "nr": 112
           }
         }
       ],
@@ -202,6 +217,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 5013188.0,
+      "total_achizitii_directe_ron": 3024787.29,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -238,6 +254,10 @@
           "contracte_stat": {
             "total_ron": 5013188.0,
             "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 3024787.29,
+            "nr": 45
           }
         }
       ],
@@ -256,6 +276,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 830570.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -371,6 +392,10 @@
             "profit_net": 290811,
             "datorii": 952650,
             "nr_salariati": 155
+          },
+          "achizitii_directe": {
+            "total_ron": 830570.19,
+            "nr": 1162
           }
         }
       ],
@@ -386,6 +411,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -509,6 +535,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -622,6 +649,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -722,6 +750,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -822,6 +851,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -917,6 +947,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 225438871.0,
+      "total_achizitii_directe_ron": 1468810.83,
       "firme_contracte_autodeclarate": [
         {
           "cui": 4331392,
@@ -1002,6 +1033,10 @@
           "contracte_stat": {
             "total_ron": 225438871.0,
             "nr": 21
+          },
+          "achizitii_directe": {
+            "total_ron": 1468810.83,
+            "nr": 38
           }
         }
       ],
@@ -1017,6 +1052,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 225438871.0,
+      "total_achizitii_directe_ron": 1468810.83,
       "firme_contracte_autodeclarate": [
         {
           "cui": 4331392,
@@ -1102,6 +1138,10 @@
           "contracte_stat": {
             "total_ron": 225438871.0,
             "nr": 21
+          },
+          "achizitii_directe": {
+            "total_ron": 1468810.83,
+            "nr": 38
           }
         }
       ],
@@ -1117,6 +1157,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1197,6 +1238,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1290,6 +1332,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1370,6 +1413,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1450,6 +1494,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 225438871.0,
+      "total_achizitii_directe_ron": 1468810.83,
       "firme_contracte_autodeclarate": [
         {
           "cui": 4331392,
@@ -1525,6 +1570,10 @@
           "contracte_stat": {
             "total_ron": 225438871.0,
             "nr": 21
+          },
+          "achizitii_directe": {
+            "total_ron": 1468810.83,
+            "nr": 38
           }
         }
       ],
@@ -1540,6 +1589,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 830570.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1605,6 +1655,10 @@
             "profit_net": 290811,
             "datorii": 952650,
             "nr_salariati": 155
+          },
+          "achizitii_directe": {
+            "total_ron": 830570.19,
+            "nr": 1162
           }
         }
       ],
@@ -1620,6 +1674,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 830570.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1685,6 +1740,10 @@
             "profit_net": 290811,
             "datorii": 952650,
             "nr_salariati": 155
+          },
+          "achizitii_directe": {
+            "total_ron": 830570.19,
+            "nr": 1162
           }
         }
       ],
@@ -1700,6 +1759,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1775,6 +1835,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1850,6 +1911,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1928,6 +1990,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 661517.16,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1988,6 +2051,10 @@
             "profit_net": 1499015,
             "datorii": 4322555,
             "nr_salariati": 53
+          },
+          "achizitii_directe": {
+            "total_ron": 661517.16,
+            "nr": 8
           }
         }
       ],
@@ -2006,6 +2073,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1097000.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2061,6 +2129,10 @@
             "profit_net": 10581,
             "datorii": 2174514,
             "nr_salariati": 22
+          },
+          "achizitii_directe": {
+            "total_ron": 1097000.0,
+            "nr": 15
           }
         }
       ],
@@ -2076,6 +2148,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2146,6 +2219,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2216,6 +2290,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2280,6 +2355,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 149993.81,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2335,6 +2411,10 @@
             "profit_net": 464093,
             "datorii": 1218533,
             "nr_salariati": 84
+          },
+          "achizitii_directe": {
+            "total_ron": 149993.81,
+            "nr": 68
           }
         }
       ],
@@ -2353,6 +2433,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2423,6 +2504,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2493,6 +2575,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 429000.17,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2548,6 +2631,10 @@
             "profit_net": 3459944,
             "datorii": 7657848,
             "nr_salariati": 179
+          },
+          "achizitii_directe": {
+            "total_ron": 429000.17,
+            "nr": 34
           }
         }
       ],
@@ -2563,6 +2650,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2633,6 +2721,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2703,6 +2792,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2773,6 +2863,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 943921.68,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2823,6 +2914,10 @@
             "profit_net": 649264,
             "datorii": 41650027,
             "nr_salariati": 382
+          },
+          "achizitii_directe": {
+            "total_ron": 943921.68,
+            "nr": 28
           }
         }
       ],
@@ -2841,6 +2936,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 149993.81,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2891,6 +2987,10 @@
             "profit_net": 464093,
             "datorii": 1218533,
             "nr_salariati": 84
+          },
+          "achizitii_directe": {
+            "total_ron": 149993.81,
+            "nr": 68
           }
         }
       ],
@@ -2906,6 +3006,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 149993.81,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2956,6 +3057,10 @@
             "profit_net": 464093,
             "datorii": 1218533,
             "nr_salariati": 84
+          },
+          "achizitii_directe": {
+            "total_ron": 149993.81,
+            "nr": 68
           }
         }
       ],
@@ -2974,6 +3079,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1651970.94,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3024,6 +3130,10 @@
             "profit_net": 1907983,
             "datorii": 4142320,
             "nr_salariati": 108
+          },
+          "achizitii_directe": {
+            "total_ron": 1651970.94,
+            "nr": 65
           }
         }
       ],
@@ -3039,6 +3149,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 661517.16,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3089,6 +3200,10 @@
             "profit_net": 1499015,
             "datorii": 4322555,
             "nr_salariati": 53
+          },
+          "achizitii_directe": {
+            "total_ron": 661517.16,
+            "nr": 8
           }
         }
       ],
@@ -3107,6 +3222,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3170,6 +3286,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3233,6 +3350,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3293,6 +3411,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3350,6 +3469,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3404,6 +3524,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3464,6 +3585,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 2324538.0,
+      "total_achizitii_directe_ron": 1822840.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3507,6 +3629,10 @@
           "contracte_stat": {
             "total_ron": 2324538.0,
             "nr": 12
+          },
+          "achizitii_directe": {
+            "total_ron": 1822840.85,
+            "nr": 596
           }
         }
       ],
@@ -3525,6 +3651,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3585,6 +3712,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3645,6 +3773,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3705,6 +3834,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3765,6 +3895,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3825,6 +3956,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 830570.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3870,6 +4002,10 @@
             "profit_net": 290811,
             "datorii": 952650,
             "nr_salariati": 155
+          },
+          "achizitii_directe": {
+            "total_ron": 830570.19,
+            "nr": 1162
           }
         }
       ],
@@ -3885,6 +4021,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 830570.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3930,6 +4067,10 @@
             "profit_net": 290811,
             "datorii": 952650,
             "nr_salariati": 155
+          },
+          "achizitii_directe": {
+            "total_ron": 830570.19,
+            "nr": 1162
           }
         }
       ],
@@ -3945,6 +4086,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4008,6 +4150,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4071,6 +4214,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4126,6 +4270,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4181,6 +4326,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4239,6 +4385,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4289,6 +4436,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 459124537.0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13068733,
@@ -4343,6 +4491,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4396,6 +4545,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4446,6 +4596,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4496,6 +4647,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4546,6 +4698,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4590,6 +4743,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4634,6 +4788,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4678,6 +4833,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4728,6 +4884,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4778,6 +4935,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 19886698.0,
+      "total_achizitii_directe_ron": 1421129.28,
       "firme_contracte_autodeclarate": [
         {
           "cui": 29136150,
@@ -4823,6 +4981,10 @@
           "contracte_stat": {
             "total_ron": 19886698.0,
             "nr": 4
+          },
+          "achizitii_directe": {
+            "total_ron": 1421129.28,
+            "nr": 16
           }
         }
       ],
@@ -4838,6 +5000,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 19886698.0,
+      "total_achizitii_directe_ron": 2842258.56,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4877,6 +5040,10 @@
           "contracte_stat": {
             "total_ron": 19886698.0,
             "nr": 4
+          },
+          "achizitii_directe": {
+            "total_ron": 1421129.28,
+            "nr": 16
           }
         },
         {
@@ -4894,6 +5061,10 @@
           "contracte_stat": {
             "total_ron": 19886698.0,
             "nr": 4
+          },
+          "achizitii_directe": {
+            "total_ron": 1421129.28,
+            "nr": 16
           }
         }
       ],
@@ -4912,6 +5083,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 149993.81,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4947,6 +5119,10 @@
             "profit_net": 464093,
             "datorii": 1218533,
             "nr_salariati": 84
+          },
+          "achizitii_directe": {
+            "total_ron": 149993.81,
+            "nr": 68
           }
         }
       ],
@@ -4962,6 +5138,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 149993.81,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4997,6 +5174,10 @@
             "profit_net": 464093,
             "datorii": 1218533,
             "nr_salariati": 84
+          },
+          "achizitii_directe": {
+            "total_ron": 149993.81,
+            "nr": 68
           }
         }
       ],
@@ -5015,6 +5196,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5065,6 +5247,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1651970.94,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5100,6 +5283,10 @@
             "profit_net": 1907983,
             "datorii": 4142320,
             "nr_salariati": 108
+          },
+          "achizitii_directe": {
+            "total_ron": 1651970.94,
+            "nr": 65
           }
         }
       ],
@@ -5115,6 +5302,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5159,6 +5347,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5209,6 +5398,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
+      "total_achizitii_directe_ron": 1748681.07,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5248,6 +5438,10 @@
           "contracte_stat": {
             "total_ron": 133427590.0,
             "nr": 34
+          },
+          "achizitii_directe": {
+            "total_ron": 1748681.07,
+            "nr": 39
           }
         }
       ],
@@ -5266,6 +5460,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1335741.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5301,6 +5496,10 @@
             "profit_net": 3280241,
             "datorii": 10089766,
             "nr_salariati": 229
+          },
+          "achizitii_directe": {
+            "total_ron": 1335741.85,
+            "nr": 107
           }
         }
       ],
@@ -5316,6 +5515,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5366,6 +5566,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
+      "total_achizitii_directe_ron": 1167942.97,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5405,6 +5606,10 @@
           "contracte_stat": {
             "total_ron": 36231907.0,
             "nr": 5
+          },
+          "achizitii_directe": {
+            "total_ron": 1167942.97,
+            "nr": 168
           }
         }
       ],
@@ -5420,6 +5625,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5473,6 +5679,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5537,6 +5744,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5585,6 +5793,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5630,6 +5839,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5675,6 +5885,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 572147.42,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5705,6 +5916,10 @@
             "profit_net": 1595119,
             "datorii": 12693982,
             "nr_salariati": 347
+          },
+          "achizitii_directe": {
+            "total_ron": 572147.42,
+            "nr": 20
           }
         }
       ],
@@ -5720,6 +5935,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5765,6 +5981,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 448852.13,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5795,6 +6012,10 @@
             "profit_net": 503556,
             "datorii": 12283448,
             "nr_salariati": 141
+          },
+          "achizitii_directe": {
+            "total_ron": 448852.13,
+            "nr": 122
           }
         }
       ],
@@ -5813,6 +6034,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 2099062.82,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5843,6 +6065,10 @@
             "profit_net": -2834799,
             "datorii": 10374172,
             "nr_salariati": 178
+          },
+          "achizitii_directe": {
+            "total_ron": 2099062.82,
+            "nr": 309
           }
         }
       ],
@@ -5861,6 +6087,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 834089.0,
+      "total_achizitii_directe_ron": 241639.28,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5895,6 +6122,10 @@
           "contracte_stat": {
             "total_ron": 834089.0,
             "nr": 1
+          },
+          "achizitii_directe": {
+            "total_ron": 241639.28,
+            "nr": 2
           }
         }
       ],
@@ -5910,6 +6141,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1326510.6,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5940,6 +6172,10 @@
             "profit_net": 162983,
             "datorii": 3708011,
             "nr_salariati": 183
+          },
+          "achizitii_directe": {
+            "total_ron": 1326510.6,
+            "nr": 20
           }
         }
       ],
@@ -5955,6 +6191,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 3797294049.0,
+      "total_achizitii_directe_ron": 94712776.57,
       "firme_contracte_autodeclarate": [
         {
           "cui": 11653560,
@@ -5990,6 +6227,10 @@
           "contracte_stat": {
             "total_ron": 3797294049.0,
             "nr": 5913
+          },
+          "achizitii_directe": {
+            "total_ron": 94712776.57,
+            "nr": 19280
           }
         }
       ],
@@ -6005,6 +6246,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 3797294049.0,
+      "total_achizitii_directe_ron": 94712776.57,
       "firme_contracte_autodeclarate": [
         {
           "cui": 11653560,
@@ -6040,6 +6282,10 @@
           "contracte_stat": {
             "total_ron": 3797294049.0,
             "nr": 5913
+          },
+          "achizitii_directe": {
+            "total_ron": 94712776.57,
+            "nr": 19280
           }
         }
       ],
@@ -6055,6 +6301,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 269863.0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6093,6 +6340,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 269863.0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6131,6 +6379,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6165,6 +6414,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1097049.77,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6190,6 +6440,10 @@
             "profit_net": 8251423,
             "datorii": 52640579,
             "nr_salariati": 300
+          },
+          "achizitii_directe": {
+            "total_ron": 1097049.77,
+            "nr": 66
           }
         }
       ],
@@ -6205,6 +6459,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1097049.77,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6230,6 +6485,10 @@
             "profit_net": 8251423,
             "datorii": 52640579,
             "nr_salariati": 300
+          },
+          "achizitii_directe": {
+            "total_ron": 1097049.77,
+            "nr": 66
           }
         }
       ],
@@ -6248,6 +6507,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1097049.77,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6273,6 +6533,10 @@
             "profit_net": 8251423,
             "datorii": 52640579,
             "nr_salariati": 300
+          },
+          "achizitii_directe": {
+            "total_ron": 1097049.77,
+            "nr": 66
           }
         }
       ],
@@ -6291,6 +6555,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6331,6 +6596,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6371,6 +6637,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6414,6 +6681,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6454,6 +6722,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6494,6 +6763,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6537,6 +6807,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6577,6 +6848,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6620,6 +6892,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6663,6 +6936,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6706,6 +6980,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6749,6 +7024,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6789,6 +7065,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6829,6 +7106,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6869,6 +7147,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6909,6 +7188,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6949,6 +7229,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6989,6 +7270,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7029,6 +7311,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7069,6 +7352,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 182052.8,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7094,6 +7378,10 @@
             "profit_net": 7959820,
             "datorii": 9935529,
             "nr_salariati": 606
+          },
+          "achizitii_directe": {
+            "total_ron": 182052.8,
+            "nr": 4
           }
         }
       ],
@@ -7109,6 +7397,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 182052.8,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7134,6 +7423,10 @@
             "profit_net": 7959820,
             "datorii": 9935529,
             "nr_salariati": 606
+          },
+          "achizitii_directe": {
+            "total_ron": 182052.8,
+            "nr": 4
           }
         }
       ],
@@ -7149,6 +7442,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7192,6 +7486,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7239,6 +7534,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 11051677.0,
+      "total_achizitii_directe_ron": 8707509.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7262,6 +7558,10 @@
           "contracte_stat": {
             "total_ron": 11051677.0,
             "nr": 11
+          },
+          "achizitii_directe": {
+            "total_ron": 8707509.19,
+            "nr": 1824
           }
         }
       ],
@@ -7280,6 +7580,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7314,6 +7615,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7348,6 +7650,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7382,6 +7685,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7416,6 +7720,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7450,6 +7755,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7484,6 +7790,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7518,6 +7825,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7552,6 +7860,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7586,6 +7895,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7627,6 +7937,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7661,6 +7972,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7695,6 +8007,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7729,6 +8042,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7763,6 +8077,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7797,6 +8112,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7840,6 +8156,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7883,6 +8200,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7926,6 +8244,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7969,6 +8288,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8009,6 +8329,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8056,6 +8377,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 263537595.0,
+      "total_achizitii_directe_ron": 775861.86,
       "firme_contracte_autodeclarate": [
         {
           "cui": 17351537,
@@ -8090,6 +8412,10 @@
           "contracte_stat": {
             "total_ron": 263537595.0,
             "nr": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 387930.93,
+            "nr": 2
           }
         },
         {
@@ -8101,6 +8427,10 @@
           "contracte_stat": {
             "total_ron": 263537595.0,
             "nr": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 387930.93,
+            "nr": 2
           }
         }
       ],
@@ -8126,6 +8456,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 1499342.0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8167,6 +8498,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8210,6 +8542,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8253,6 +8586,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8293,6 +8627,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 591810.63,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8318,6 +8653,10 @@
             "profit_net": 4802667,
             "datorii": 8796841,
             "nr_salariati": 520
+          },
+          "achizitii_directe": {
+            "total_ron": 591810.63,
+            "nr": 85
           }
         }
       ],
@@ -8340,6 +8679,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 6802140.15,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8365,6 +8705,10 @@
             "profit_net": 27260997,
             "datorii": 8509006,
             "nr_salariati": 287
+          },
+          "achizitii_directe": {
+            "total_ron": 6802140.15,
+            "nr": 3254
           }
         }
       ],
@@ -8393,6 +8737,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 4666734.0,
+      "total_achizitii_directe_ron": 57016216.83,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8416,6 +8761,10 @@
           "contracte_stat": {
             "total_ron": 4666734.0,
             "nr": 13
+          },
+          "achizitii_directe": {
+            "total_ron": 57016216.83,
+            "nr": 1731
           }
         }
       ],
@@ -8441,6 +8790,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 1795508.0,
+      "total_achizitii_directe_ron": 1711717.42,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8464,6 +8814,10 @@
           "contracte_stat": {
             "total_ron": 1795508.0,
             "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 855858.71,
+            "nr": 114
           }
         },
         {
@@ -8475,6 +8829,10 @@
           "contracte_stat": {
             "total_ron": 1795508.0,
             "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 855858.71,
+            "nr": 114
           }
         }
       ],
@@ -8493,6 +8851,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1857372.35,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8518,6 +8877,10 @@
             "profit_net": 64292,
             "datorii": 428043,
             "nr_salariati": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 1857372.35,
+            "nr": 70
           }
         }
       ],
@@ -8533,6 +8896,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1857372.35,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8558,6 +8922,10 @@
             "profit_net": 64292,
             "datorii": 428043,
             "nr_salariati": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 1857372.35,
+            "nr": 70
           }
         }
       ],
@@ -8573,6 +8941,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1857372.35,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8598,6 +8967,10 @@
             "profit_net": 64292,
             "datorii": 428043,
             "nr_salariati": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 1857372.35,
+            "nr": 70
           }
         }
       ],
@@ -8613,6 +8986,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1857372.35,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8638,6 +9012,10 @@
             "profit_net": 64292,
             "datorii": 428043,
             "nr_salariati": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 1857372.35,
+            "nr": 70
           }
         }
       ],
@@ -8653,6 +9031,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1857372.35,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8678,6 +9057,10 @@
             "profit_net": 64292,
             "datorii": 428043,
             "nr_salariati": 45
+          },
+          "achizitii_directe": {
+            "total_ron": 1857372.35,
+            "nr": 70
           }
         }
       ],
@@ -8693,6 +9076,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 572147.42,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8718,6 +9102,10 @@
             "profit_net": 1595119,
             "datorii": 12693982,
             "nr_salariati": 347
+          },
+          "achizitii_directe": {
+            "total_ron": 572147.42,
+            "nr": 20
           }
         }
       ],
@@ -8733,6 +9121,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8773,6 +9162,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8807,6 +9197,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 414825.36,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8832,6 +9223,10 @@
             "profit_net": -1559774,
             "datorii": 5831177,
             "nr_salariati": 22
+          },
+          "achizitii_directe": {
+            "total_ron": 414825.36,
+            "nr": 67
           }
         }
       ],
@@ -8847,6 +9242,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 414825.36,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8872,6 +9268,10 @@
             "profit_net": -1559774,
             "datorii": 5831177,
             "nr_salariati": 22
+          },
+          "achizitii_directe": {
+            "total_ron": 414825.36,
+            "nr": 67
           }
         }
       ],
@@ -8887,6 +9287,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 414825.36,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8912,6 +9313,10 @@
             "profit_net": -1559774,
             "datorii": 5831177,
             "nr_salariati": 22
+          },
+          "achizitii_directe": {
+            "total_ron": 414825.36,
+            "nr": 67
           }
         }
       ],
@@ -8927,6 +9332,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8970,6 +9376,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9010,6 +9417,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9050,6 +9458,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1088800.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9075,6 +9484,10 @@
             "profit_net": 279439,
             "datorii": 140122,
             "nr_salariati": 14
+          },
+          "achizitii_directe": {
+            "total_ron": 1088800.0,
+            "nr": 12
           }
         }
       ],
@@ -9090,6 +9503,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 429000.17,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9115,6 +9529,10 @@
             "profit_net": 3459944,
             "datorii": 7657848,
             "nr_salariati": 179
+          },
+          "achizitii_directe": {
+            "total_ron": 429000.17,
+            "nr": 34
           }
         }
       ],
@@ -9130,6 +9548,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 429000.17,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9155,6 +9574,10 @@
             "profit_net": 3459944,
             "datorii": 7657848,
             "nr_salariati": 179
+          },
+          "achizitii_directe": {
+            "total_ron": 429000.17,
+            "nr": 34
           }
         }
       ],
@@ -9170,6 +9593,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9210,6 +9634,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9250,6 +9675,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9290,6 +9716,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9330,6 +9757,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9370,6 +9798,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
+      "total_achizitii_directe_ron": 1748681.07,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9399,6 +9828,10 @@
           "contracte_stat": {
             "total_ron": 133427590.0,
             "nr": 34
+          },
+          "achizitii_directe": {
+            "total_ron": 1748681.07,
+            "nr": 39
           }
         }
       ],
@@ -9417,6 +9850,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
+      "total_achizitii_directe_ron": 1748681.07,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13554423,
@@ -9452,6 +9886,10 @@
           "contracte_stat": {
             "total_ron": 133427590.0,
             "nr": 34
+          },
+          "achizitii_directe": {
+            "total_ron": 1748681.07,
+            "nr": 39
           }
         }
       ],
@@ -9470,6 +9908,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
+      "total_achizitii_directe_ron": 1748681.07,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9499,6 +9938,10 @@
           "contracte_stat": {
             "total_ron": 133427590.0,
             "nr": 34
+          },
+          "achizitii_directe": {
+            "total_ron": 1748681.07,
+            "nr": 39
           }
         }
       ],
@@ -9517,6 +9960,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
+      "total_achizitii_directe_ron": 1748681.07,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9546,6 +9990,10 @@
           "contracte_stat": {
             "total_ron": 133427590.0,
             "nr": 34
+          },
+          "achizitii_directe": {
+            "total_ron": 1748681.07,
+            "nr": 39
           }
         }
       ],
@@ -9564,6 +10012,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9604,6 +10053,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 838743.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9629,6 +10079,10 @@
             "profit_net": -4789639,
             "datorii": 10025546,
             "nr_salariati": 88
+          },
+          "achizitii_directe": {
+            "total_ron": 838743.0,
+            "nr": 27
           }
         }
       ],
@@ -9644,6 +10098,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1335741.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9669,6 +10124,10 @@
             "profit_net": 3280241,
             "datorii": 10089766,
             "nr_salariati": 229
+          },
+          "achizitii_directe": {
+            "total_ron": 1335741.85,
+            "nr": 107
           }
         }
       ],
@@ -9684,6 +10143,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1335741.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9709,6 +10169,10 @@
             "profit_net": 3280241,
             "datorii": 10089766,
             "nr_salariati": 229
+          },
+          "achizitii_directe": {
+            "total_ron": 1335741.85,
+            "nr": 107
           }
         }
       ],
@@ -9724,6 +10188,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1335741.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9749,6 +10214,10 @@
             "profit_net": 3280241,
             "datorii": 10089766,
             "nr_salariati": 229
+          },
+          "achizitii_directe": {
+            "total_ron": 1335741.85,
+            "nr": 107
           }
         }
       ],
@@ -9764,6 +10233,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9804,6 +10274,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9844,6 +10315,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9884,6 +10356,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9924,6 +10397,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9964,6 +10438,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10007,6 +10482,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10050,6 +10526,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10093,6 +10570,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10136,6 +10614,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10176,6 +10655,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 454800.0,
+      "total_achizitii_directe_ron": 1377612.71,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10205,6 +10685,10 @@
           "contracte_stat": {
             "total_ron": 454800.0,
             "nr": 1
+          },
+          "achizitii_directe": {
+            "total_ron": 1377612.71,
+            "nr": 490
           }
         }
       ],
@@ -10223,6 +10707,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 454800.0,
+      "total_achizitii_directe_ron": 1377612.71,
       "firme_contracte_autodeclarate": [
         {
           "cui": 11573879,
@@ -10258,6 +10743,10 @@
           "contracte_stat": {
             "total_ron": 454800.0,
             "nr": 1
+          },
+          "achizitii_directe": {
+            "total_ron": 1377612.71,
+            "nr": 490
           }
         }
       ],
@@ -10273,6 +10762,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 454800.0,
+      "total_achizitii_directe_ron": 1377612.71,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10302,6 +10792,10 @@
           "contracte_stat": {
             "total_ron": 454800.0,
             "nr": 1
+          },
+          "achizitii_directe": {
+            "total_ron": 1377612.71,
+            "nr": 490
           }
         }
       ],
@@ -10317,6 +10811,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 454800.0,
+      "total_achizitii_directe_ron": 1377612.71,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10346,6 +10841,10 @@
           "contracte_stat": {
             "total_ron": 454800.0,
             "nr": 1
+          },
+          "achizitii_directe": {
+            "total_ron": 1377612.71,
+            "nr": 490
           }
         }
       ],
@@ -10361,6 +10860,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
+      "total_achizitii_directe_ron": 1167942.97,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10390,6 +10890,10 @@
           "contracte_stat": {
             "total_ron": 36231907.0,
             "nr": 5
+          },
+          "achizitii_directe": {
+            "total_ron": 1167942.97,
+            "nr": 168
           }
         }
       ],
