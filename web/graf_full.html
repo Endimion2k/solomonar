@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ROMEGA — Graf complet (GPU / cosmos.gl)</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --bg-panel: #161b22;
+    --border: #30363d;
+    --text: #e6edf3;
+    --text-dim: #8b949e;
+    --gold: #ffb454;
+    --red: #f85149;
+    --green: #3fb950;
+    --blue: #58a6ff;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0; width: 100%; height: 100%;
+    background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    overflow: hidden;
+  }
+  #graph {
+    position: absolute; inset: 0; width: 100%; height: 100%;
+  }
+  #graph canvas { display: block; }
+
+  /* Top-left title + stats */
+  #titlebar {
+    position: absolute; top: 14px; left: 14px; z-index: 10;
+    background: rgba(22,27,34,0.82); backdrop-filter: blur(6px);
+    border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 16px; max-width: 320px;
+  }
+  #titlebar h1 { margin: 0 0 4px; font-size: 16px; font-weight: 700; letter-spacing: .2px; }
+  #titlebar .sub { font-size: 12px; color: var(--text-dim); margin-bottom: 10px; }
+  #stats { font-size: 12px; color: var(--text-dim); }
+  #stats b { color: var(--text); font-weight: 600; }
+
+  /* Legend */
+  #legend {
+    margin-top: 10px; display: grid; grid-template-columns: 1fr 1fr; gap: 4px 12px;
+    font-size: 12px;
+  }
+  #legend .row { display: flex; align-items: center; gap: 6px; }
+  #legend .dot { width: 10px; height: 10px; border-radius: 50%; flex: 0 0 auto; }
+
+  /* Controls top-right */
+  #controls {
+    position: absolute; top: 14px; right: 14px; z-index: 10;
+    display: flex; flex-direction: column; gap: 8px; align-items: stretch;
+    width: 240px;
+  }
+  #search {
+    width: 100%; padding: 9px 12px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--bg-panel);
+    color: var(--text); font-size: 13px; outline: none;
+  }
+  #search:focus { border-color: var(--blue); }
+  .btnrow { display: flex; gap: 8px; }
+  button {
+    flex: 1; padding: 8px 10px; border-radius: 8px; cursor: pointer;
+    border: 1px solid var(--border); background: var(--bg-panel);
+    color: var(--text); font-size: 13px; transition: background .15s, border-color .15s;
+  }
+  button:hover { background: #21262d; border-color: #484f58; }
+  button:active { background: #161b22; }
+  #search-results {
+    background: rgba(22,27,34,0.95); border: 1px solid var(--border);
+    border-radius: 8px; max-height: 220px; overflow-y: auto; display: none;
+  }
+  #search-results .item {
+    padding: 7px 12px; font-size: 12px; cursor: pointer;
+    border-bottom: 1px solid var(--border);
+  }
+  #search-results .item:last-child { border-bottom: none; }
+  #search-results .item:hover { background: #21262d; }
+  #search-results .item .ty { color: var(--text-dim); font-size: 11px; }
+
+  /* Tooltip */
+  #tooltip {
+    position: absolute; z-index: 20; pointer-events: none; display: none;
+    background: rgba(22,27,34,0.96); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 11px; font-size: 12px; max-width: 280px;
+    box-shadow: 0 6px 20px rgba(0,0,0,0.5);
+  }
+  #tooltip .t-label { font-weight: 600; margin-bottom: 3px; }
+  #tooltip .t-row { color: var(--text-dim); }
+  #tooltip .t-row b { color: var(--text); font-weight: 600; }
+  .pill {
+    display: inline-block; padding: 1px 7px; border-radius: 999px;
+    font-size: 11px; font-weight: 600; color: #0d1117;
+  }
+
+  /* Loading overlay */
+  #loading {
+    position: absolute; inset: 0; z-index: 50;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    background: var(--bg); gap: 16px;
+  }
+  #loading .spinner {
+    width: 42px; height: 42px; border-radius: 50%;
+    border: 3px solid var(--border); border-top-color: var(--blue);
+    animation: spin 0.9s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  #loading .msg { color: var(--text-dim); font-size: 14px; }
+  #loading .err { color: var(--red); font-size: 13px; max-width: 480px; text-align: center; }
+
+  /* Status line bottom */
+  #status {
+    position: absolute; bottom: 12px; left: 14px; z-index: 10;
+    font-size: 12px; color: var(--text-dim);
+    background: rgba(22,27,34,0.7); padding: 5px 10px; border-radius: 6px;
+    border: 1px solid var(--border);
+  }
+</style>
+</head>
+<body>
+  <div id="graph"></div>
+
+  <div id="titlebar">
+    <h1>ROMEGA — Graf complet</h1>
+    <div class="sub">Follow-the-money · persoană ↔ companie · layout GPU (cosmos.gl)</div>
+    <div id="stats">Noduri: <b id="n-nodes">—</b> · Edges: <b id="n-edges">—</b></div>
+    <div id="legend">
+      <div class="row"><span class="dot" style="background:var(--gold)"></span>parlamentar</div>
+      <div class="row"><span class="dot" style="background:var(--red)"></span>conflict</div>
+      <div class="row"><span class="dot" style="background:var(--green)"></span>companie</div>
+      <div class="row"><span class="dot" style="background:var(--blue)"></span>persoană</div>
+    </div>
+  </div>
+
+  <div id="controls">
+    <input id="search" type="text" placeholder="Caută nod după nume…" autocomplete="off">
+    <div id="search-results"></div>
+    <div class="btnrow">
+      <button id="btn-pause">Pause</button>
+      <button id="btn-fit">Fit view</button>
+    </div>
+  </div>
+
+  <div id="tooltip"></div>
+
+  <div id="status">Click nod → vecini · scroll = zoom · drag = pan</div>
+
+  <div id="loading">
+    <div class="spinner"></div>
+    <div class="msg" id="loading-msg">Se încarcă graful (5.8&nbsp;MB)…</div>
+  </div>
+
+<script type="module">
+import { Graph } from "https://esm.sh/@cosmos.gl/graph@2.6.4";
+
+const COLORS = {
+  parlamentar: [255, 180, 84, 1],   // #ffb454
+  conflict:    [248,  81, 73, 1],    // #f85149
+  companie:    [ 63, 185, 80, 1],    // #3fb950
+  persoana:    [ 88, 166, 255, 1],   // #58a6ff
+};
+const COLOR_HEX = {
+  parlamentar: "#ffb454", conflict: "#f85149", companie: "#3fb950", persoana: "#58a6ff",
+};
+const FALLBACK = [139, 148, 158, 1];
+
+const loadingEl = document.getElementById("loading");
+const loadingMsg = document.getElementById("loading-msg");
+const tooltip = document.getElementById("tooltip");
+const graphDiv = document.getElementById("graph");
+
+function showError(text) {
+  loadingEl.innerHTML = '<div class="err">Eroare: ' + text + "</div>";
+}
+
+function fmtMoney(v) {
+  if (v == null || v === 0) return "0";
+  if (v >= 1e6) return (v / 1e6).toFixed(2) + " mil";
+  if (v >= 1e3) return (v / 1e3).toFixed(0) + "k";
+  return String(v);
+}
+
+async function main() {
+  let data;
+  try {
+    const resp = await fetch("../data/v1/graf/graph_full.json");
+    if (!resp.ok) throw new Error("HTTP " + resp.status);
+    loadingMsg.textContent = "Se parsează JSON-ul…";
+    data = await resp.json();
+  } catch (e) {
+    showError("nu pot încărca graph_full.json (" + e.message + ")");
+    return;
+  }
+
+  const nodes = data.nodes;
+  const links = data.links;
+  const N = nodes.length;
+
+  document.getElementById("n-nodes").textContent = N.toLocaleString("ro-RO");
+  document.getElementById("n-edges").textContent = links.length.toLocaleString("ro-RO");
+
+  // id -> index map
+  const idToIndex = new Map();
+  for (let i = 0; i < N; i++) idToIndex.set(nodes[i].id, i);
+
+  // Typed arrays --------------------------------------------------------
+  // Positions: random init around center of space
+  const SPACE = 4096; // cosmos.gl clamps to 4096 due to WebGL limits
+  const pointPositions = new Float32Array(N * 2);
+  for (let i = 0; i < N; i++) {
+    pointPositions[i * 2]     = Math.random() * SPACE;
+    pointPositions[i * 2 + 1] = Math.random() * SPACE;
+  }
+
+  // Colors per type (RGBA, 0..1 floats)
+  const pointColors = new Float32Array(N * 4);
+  for (let i = 0; i < N; i++) {
+    const c = COLORS[nodes[i].type] || FALLBACK;
+    pointColors[i * 4]     = c[0] / 255;
+    pointColors[i * 4 + 1] = c[1] / 255;
+    pointColors[i * 4 + 2] = c[2] / 255;
+    pointColors[i * 4 + 3] = c[3];
+  }
+
+  // Sizes scaled on degree
+  const pointSizes = new Float32Array(N);
+  for (let i = 0; i < N; i++) {
+    const deg = nodes[i].deg || 0;
+    pointSizes[i] = Math.min(2 + Math.sqrt(deg) * 2.4, 22);
+  }
+
+  // Links -> interleaved index pairs
+  const linkArr = new Float32Array(links.length * 2);
+  let li = 0;
+  for (let k = 0; k < links.length; k++) {
+    const s = idToIndex.get(links[k].source);
+    const t = idToIndex.get(links[k].target);
+    if (s === undefined || t === undefined) continue;
+    linkArr[li * 2]     = s;
+    linkArr[li * 2 + 1] = t;
+    li++;
+  }
+  const linksTyped = li === links.length ? linkArr : linkArr.slice(0, li * 2);
+
+  // Graph config --------------------------------------------------------
+  let running = true;
+
+  const config = {
+    backgroundColor: "#0d1117",
+    spaceSize: SPACE,
+    pointSizeScale: 1,
+    scalePointsOnZoom: true,
+    renderLinks: true,
+    linkColor: "rgba(139,148,158,0.18)",
+    linkWidth: 0.4,
+    linkArrows: false,
+    pointGreyoutOpacity: 0.08,
+    linkGreyoutOpacity: 0.02,
+    hoveredPointCursor: "pointer",
+    renderHoveredPointRing: true,
+    hoveredPointRingColor: "#ffffff",
+    focusedPointRingColor: "#ffffff",
+    enableDrag: true,
+    fitViewOnInit: false,
+    // Force simulation params (tuned for ~33k nodes)
+    simulationGravity: 0.18,
+    simulationRepulsion: 0.9,
+    simulationLinkSpring: 1.1,
+    simulationLinkDistance: 6,
+    simulationFriction: 0.86,
+    simulationDecay: 2500,
+    onClick: (index) => handleClick(index),
+    onPointMouseOver: (index, pos, event) => showTooltip(index, event),
+    onPointMouseOut: () => hideTooltip(),
+    onSimulationEnd: () => {
+      document.getElementById("status").textContent =
+        "Layout stabilizat · Click nod → vecini · scroll = zoom · drag = pan";
+    },
+  };
+
+  const graph = new Graph(graphDiv, config);
+  graph.setPointPositions(pointPositions);
+  graph.setPointColors(pointColors);
+  graph.setPointSizes(pointSizes);
+  graph.setLinks(linksTyped);
+  graph.render();
+  graph.start();
+
+  // Initial fit after a moment so we see the cloud forming
+  setTimeout(() => graph.fitView(800), 600);
+
+  // Interaction ---------------------------------------------------------
+  function showTooltip(index, event) {
+    if (index == null) return;
+    const n = nodes[index];
+    if (!n) return;
+    const hex = COLOR_HEX[n.type] || "#8b949e";
+    tooltip.innerHTML =
+      '<div class="t-label">' + escapeHtml(n.label) + "</div>" +
+      '<div class="t-row"><span class="pill" style="background:' + hex + '">' +
+        escapeHtml(n.type) + "</span></div>" +
+      '<div class="t-row">Contracte: <b>' + fmtMoney(n.contracte) + " RON</b></div>" +
+      '<div class="t-row">Grad: <b>' + (n.deg || 0) + "</b></div>";
+    tooltip.style.display = "block";
+    let x = (event && event.offsetX != null) ? event.offsetX : 0;
+    let y = (event && event.offsetY != null) ? event.offsetY : 0;
+    if (event && event.clientX != null) { x = event.clientX; y = event.clientY; }
+    tooltip.style.left = (x + 14) + "px";
+    tooltip.style.top = (y + 14) + "px";
+  }
+  function hideTooltip() { tooltip.style.display = "none"; }
+
+  function handleClick(index) {
+    if (index == null || index === undefined) {
+      graph.setConfig({ ...config });
+      graph.unselectPoints ? graph.unselectPoints() : null;
+      clearHighlight();
+      return;
+    }
+    highlightNeighbors(index);
+  }
+
+  function clearHighlight() {
+    if (graph.unselectPoints) graph.unselectPoints();
+    document.getElementById("status").textContent =
+      "Click nod → vecini · scroll = zoom · drag = pan";
+  }
+
+  function highlightNeighbors(index) {
+    let adj = [];
+    try { adj = graph.getAdjacentIndices(index) || []; } catch (e) { adj = []; }
+    const sel = new Set(adj);
+    sel.add(index);
+    const arr = Array.from(sel);
+    if (graph.selectPointsByIndices) graph.selectPointsByIndices(arr);
+    else if (graph.selectPointByIndex) graph.selectPointByIndex(index);
+    const n = nodes[index];
+    document.getElementById("status").textContent =
+      "Selectat: " + n.label + " · " + adj.length + " vecini evidențiați";
+  }
+
+  // Search --------------------------------------------------------------
+  const searchInput = document.getElementById("search");
+  const resultsEl = document.getElementById("search-results");
+
+  searchInput.addEventListener("input", () => {
+    const q = searchInput.value.trim().toLowerCase();
+    if (q.length < 2) { resultsEl.style.display = "none"; return; }
+    const hits = [];
+    for (let i = 0; i < N && hits.length < 25; i++) {
+      if (nodes[i].label && nodes[i].label.toLowerCase().includes(q)) hits.push(i);
+    }
+    if (!hits.length) { resultsEl.style.display = "none"; return; }
+    resultsEl.innerHTML = hits.map(i =>
+      '<div class="item" data-idx="' + i + '">' + escapeHtml(nodes[i].label) +
+      ' <span class="ty">(' + nodes[i].type + ')</span></div>'
+    ).join("");
+    resultsEl.style.display = "block";
+  });
+
+  resultsEl.addEventListener("click", (e) => {
+    const item = e.target.closest(".item");
+    if (!item) return;
+    const idx = parseInt(item.dataset.idx, 10);
+    resultsEl.style.display = "none";
+    searchInput.value = nodes[idx].label;
+    focusNode(idx);
+  });
+
+  function focusNode(idx) {
+    try {
+      if (graph.zoomToPointByIndex) graph.zoomToPointByIndex(idx, 1500, 8);
+      else if (graph.setZoomLevel) graph.setZoomLevel(8, 800);
+    } catch (e) {}
+    if (graph.selectPointByIndex) graph.selectPointByIndex(idx);
+    highlightNeighbors(idx);
+  }
+
+  // Buttons -------------------------------------------------------------
+  const btnPause = document.getElementById("btn-pause");
+  btnPause.addEventListener("click", () => {
+    if (running) { graph.pause(); btnPause.textContent = "Start"; }
+    else { graph.start(); btnPause.textContent = "Pause"; }
+    running = !running;
+  });
+  document.getElementById("btn-fit").addEventListener("click", () => graph.fitView(600));
+
+  // Hide loading
+  loadingEl.style.display = "none";
+
+  window.__cosmosGraph = graph; // for debugging / testing
+}
+
+function escapeHtml(s) {
+  return String(s == null ? "" : s)
+    .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+main().catch(err => showError(err && err.message ? err.message : String(err)));
+</script>
+</body>
+</html>
