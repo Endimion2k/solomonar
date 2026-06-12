@@ -100,6 +100,25 @@ def contracte_df() -> pd.DataFrame:
     return pd.DataFrame(_load_raw("achizitii/contracte_firme.json").get("firme", []))
 
 
+@st.cache_data(show_spinner=False)
+def achizitii_directe_df() -> pd.DataFrame:
+    """Furnizorii de achiziții directe (cumpărări directe SICAP 2007-2025, agregate pe CUI)."""
+    d = _load_raw("companii/achizitii_directe.json")
+    df = pd.DataFrame(d.get("furnizori", []))
+    if not df.empty:
+        df["ani_activi"] = df["ani_activi"].apply(lambda a: ", ".join(a) if isinstance(a, list) else (a or ""))
+        df["top_autoritati"] = df["top_autoritati"].apply(
+            lambda a: " · ".join(a) if isinstance(a, list) else (a or ""))
+    return df
+
+
+@st.cache_data(show_spinner=False)
+def achizitii_directe_meta() -> dict:
+    d = _load_raw("companii/achizitii_directe.json")
+    return {"total_furnizori": d.get("total_furnizori", 0), "total_achizitii": d.get("total_achizitii", 0),
+            "valoare_totala_ron": d.get("valoare_totala_ron", 0), "sursa": d.get("sursa", "")}
+
+
 # ---------------- follow-the-money ----------------
 @st.cache_data(show_spinner=False)
 def follow_money() -> dict:

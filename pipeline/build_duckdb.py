@@ -62,10 +62,13 @@ def main() -> dict:
     con.execute("""
         CREATE TABLE person(romega_id VARCHAR PRIMARY KEY, nume VARCHAR, birth_date VARCHAR,
             incredere VARCHAR, n_declaratii INT, n_companii INT, total_contracte_ron DOUBLE,
-            camera VARCHAR, partid VARCHAR, judet VARCHAR);
+            directe_ron DOUBLE, camera VARCHAR, partid VARCHAR, judet VARCHAR);
         CREATE TABLE company(cui BIGINT PRIMARY KEY, nume VARCHAR, sector VARCHAR, tutela VARCHAR,
             judet VARCHAR, bvb BOOLEAN, is_soe BOOLEAN, ca_ron DOUBLE, profit_ron DOUBLE,
-            salariati INT, procent_stat DOUBLE, contracte_ron DOUBLE, contracte_nr INT);
+            salariati INT, procent_stat DOUBLE, contracte_ron DOUBLE, contracte_nr INT,
+            directe_ron DOUBLE, directe_nr INT);
+        CREATE TABLE direct_supplier(cui VARCHAR PRIMARY KEY, nume VARCHAR, total_ron DOUBLE,
+            nr INT, ani_activi VARCHAR, top_autoritati VARCHAR);
         CREATE TABLE person_company(romega_id VARCHAR, cui BIGINT, rol VARCHAR);
         CREATE TABLE party(cod VARCHAR PRIMARY KEY, subventie_lei DOUBLE, nr_deputati INT,
             nr_senatori INT, nr_rvc INT);
@@ -79,20 +82,21 @@ def main() -> dict:
         pl = p.get("parlamentar") or {}
         persons.append((p["romega_id"], p.get("nume_key", ""), pl.get("birth_date"),
                         p.get("incredere", ""), p.get("n_declaratii", 0), p.get("n_companii", 0),
-                        p.get("total_contracte_ron") or 0.0, pl.get("camera"),
-                        str(pl.get("partid") or ""), pl.get("judet")))
+                        p.get("total_contracte_ron") or 0.0, p.get("total_achizitii_directe_ron") or 0.0,
+                        pl.get("camera"), str(pl.get("partid") or ""), pl.get("judet")))
         for c in p.get("companii", []):
             try:
                 pc.append((p["romega_id"], int(c["cui"]), c.get("rol", "")))
             except (ValueError, TypeError):
                 pass
-    _bulk(con, "person", persons, ["romega_id","nume","birth_date","incredere","n_declaratii","n_companii","total_contracte_ron","camera","partid","judet"])
+    _bulk(con, "person", persons, ["romega_id","nume","birth_date","incredere","n_declaratii","n_companii","total_contracte_ron","directe_ron","camera","partid","judet"])
     _bulk(con, "person_company", pc, ["romega_id","cui","rol"])
     print(f"   persoane={len(persons)} edges={len(pc)}", flush=True)
 
     # ---------- load: companii (+ financials + contracte + BVB) ----------
     cf = {int(r["cui"]): r for r in _load(os.path.join(V, "achizitii/contracte_firme.json")).get("firme", [])
           if str(r.get("cui", "")).isdigit()}
+    ad = {str(r["cui"]): r for r in _load(os.path.join(V, "companii/achizitii_directe.json")).get("furnizori", [])}
     bvb = {b["nume"].lower(): b for b in _load(os.path.join(V, "companii/actionariat_bvb.json")).get("companii", [])}
     comps, seen = [], set()
     for c in _load(os.path.join(V, "companii/_index.json")).get("data", []):
@@ -105,12 +109,20 @@ def main() -> dict:
         seen.add(cui)
         fin = c.get("financials") or {}
         ctr = cf.get(cui, {})
+        adr = ad.get(str(cui), {})
         bv = next((b for k, b in bvb.items() if k in (c.get("name", "").lower())), {})
         comps.append((cui, c.get("name", ""), c.get("sector") or "", str(c.get("tutelary_authority") or ""),
                       c.get("county") or "", bool(c.get("bvb_listed")), bool(c.get("is_soe")),
-                      fin.get("cifra_afaceri_ron"), fin.get("profit_net_ron"), fin.get("nr_salariati"),
-                      bv.get("procent_stat"), ctr.get("total_ron"), ctr.get("nr_contracte")))
-    _bulk(con, "company", comps, ["cui","nume","sector","tutela","judet","bvb","is_soe","ca_ron","profit_ron","salariati","procent_stat","contracte_ron","contracte_nr"])
+                      fin.get("cifra_afaceri"), fin.get("profit_net"), fin.get("nr_salariati"),
+                      bv.get("procent_stat"), ctr.get("total_ron"), ctr.get("nr_contracte"),
+                      adr.get("total_ron"), adr.get("nr")))
+    _bulk(con, "company", comps, ["cui","nume","sector","tutela","judet","bvb","is_soe","ca_ron","profit_ron","salariati","procent_stat","contracte_ron","contracte_nr","directe_ron","directe_nr"])
+    # furnizorii de achiziții directe (toți publicații — top 50k)
+    _bulk(con, "direct_supplier",
+          [(str(r["cui"]), r.get("nume", ""), r.get("total_ron"), r.get("nr"),
+            ",".join(r.get("ani_activi", [])), " | ".join(r.get("top_autoritati", [])))
+           for r in ad.values()],
+          ["cui","nume","total_ron","nr","ani_activi","top_autoritati"])
 
     # ---------- load: partide, comisii, state holdings ----------
     con.executemany("INSERT INTO party VALUES (?,?,?,?,?)",
@@ -129,7 +141,7 @@ def main() -> dict:
     con.execute("CREATE INDEX i_pc_cui ON person_company(cui); CREATE INDEX i_pc_rid ON person_company(romega_id);")
 
     n = {t: con.execute(f"SELECT count(*) FROM {t}").fetchone()[0]
-         for t in ("person", "company", "person_company", "party", "committee_member", "state_holding")}
+         for t in ("person", "company", "person_company", "party", "committee_member", "state_holding", "direct_supplier")}
     print(f"DuckDB încărcat: {n}", flush=True)
 
     # ---------- VIEW-URI ANALITICE → JSON ----------

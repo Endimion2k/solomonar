@@ -7,12 +7,12 @@
       "contracte": 21547795579.0,
       "n_administratori": 6,
       "administratori": [
-        "flaminiu ionut nicula",
-        "chitulescu florina",
+        "dumitru oana",
         "dumitru nica",
         "ecaterina zahortea",
-        "dumitru oana",
-        "bogdan flaviu furdui"
+        "bogdan flaviu furdui",
+        "flaminiu ionut nicula",
+        "chitulescu florina"
       ]
     },
     {
@@ -20,10 +20,10 @@
       "contracte": 3797294049.0,
       "n_administratori": 8,
       "administratori": [
+        "viorela zaharia",
+        "ciprian mihailescu teodor",
         "adrian dobre marius",
         "constantin laurentiu tudose",
-        "viorela zaharia",
-        "cristian danut popa",
         "catalin lungu",
         "alina costea sanda"
       ]
@@ -45,12 +45,12 @@
       "contracte": 819122714.0,
       "n_administratori": 6,
       "administratori": [
-        "anoaica dragos",
+        "ion krall mazilu",
         "diaconescu radu",
+        "alexandru gheorghe man",
         "serbanescu valentina",
         "constantin violeta",
-        "ion krall mazilu",
-        "alexandru gheorghe man"
+        "anoaica dragos"
       ]
     },
     {
@@ -58,10 +58,10 @@
       "contracte": 519030448.0,
       "n_administratori": 4,
       "administratori": [
-        "bogdan medrea",
         "marius stefan vintila",
-        "fartat sebastian",
-        "farrukh khan zafar"
+        "farrukh khan zafar",
+        "bogdan medrea",
+        "fartat sebastian"
       ]
     },
     {
@@ -69,12 +69,12 @@
       "contracte": 459124537.0,
       "n_administratori": 6,
       "administratori": [
+        "costin mihalache",
         "derenthall ilinca von",
-        "minea nicolae",
         "adina hanza lacrimioara",
         "mircea tudor",
         "ion sterian",
-        "costin mihalache"
+        "minea nicolae"
       ]
     },
     {
@@ -82,12 +82,12 @@
       "contracte": 327248019.0,
       "n_administratori": 13,
       "administratori": [
-        "farrukh khan zafar",
-        "avram razvan silviu",
+        "emil merdan",
         "ana barbara bobirca",
         "constantin ioan radu",
-        "ariton ion",
-        "carmen radu"
+        "catalin popescu vladut",
+        "ianas radoi",
+        "badea bogdan nicolae"
       ]
     },
     {
@@ -106,12 +106,12 @@
       "contracte": 234315076.0,
       "n_administratori": 14,
       "administratori": [
-        "ioan lixandru",
+        "iliuta nicolae",
+        "daniel idolu iulian",
+        "monica sasarman",
+        "bichel roxana",
         "alina bontea loredana",
-        "andrei tancu",
-        "ioan nicolescu",
-        "sorin stoicescu",
-        "daniel idolu iulian"
+        "andrei tancu"
       ]
     },
     {
@@ -119,8 +119,8 @@
       "contracte": 225438871.0,
       "n_administratori": 3,
       "administratori": [
-        "crisan vasile",
         "calin radu rosian",
+        "crisan vasile",
         "dana gaiseanu"
       ]
     },
@@ -129,11 +129,11 @@
       "contracte": 188580727.0,
       "n_administratori": 5,
       "administratori": [
-        "alexandru petre stelian",
         "daniela deftu simona",
         "alexandru bogdan chivu mihnea",
         "ana diaconu maria",
-        "eduard zevedei"
+        "eduard zevedei",
+        "alexandru petre stelian"
       ]
     },
     {
@@ -141,8 +141,8 @@
       "contracte": 168798060.0,
       "n_administratori": 2,
       "administratori": [
-        "ardelean elena laura",
-        "balan florin jean"
+        "balan florin jean",
+        "ardelean elena laura"
       ]
     },
     {
@@ -150,11 +150,11 @@
       "contracte": 133427590.0,
       "n_administratori": 5,
       "administratori": [
-        "alexie bodolan constantin cotan",
         "gorun laurentiu nicusor",
-        "dan mihail stan",
         "bogdan costas",
-        "butunoi daniel ionel"
+        "alexie bodolan constantin cotan",
+        "butunoi daniel ionel",
+        "dan mihail stan"
       ]
     },
     {
@@ -162,10 +162,10 @@
       "contracte": 126671177.0,
       "n_administratori": 4,
       "administratori": [
-        "gergely gyorgy",
+        "sandor torok",
         "covaciu dan stefan",
         "fejer lorant",
-        "sandor torok"
+        "gergely gyorgy"
       ]
     },
     {
@@ -173,12 +173,12 @@
       "contracte": 117782294.0,
       "n_administratori": 10,
       "administratori": [
-        "iuga vasile",
-        "andrei simona",
+        "bogdan constantin neacsu",
+        "cristian florin saitariu",
         "iovu mirela",
-        "cezar furtuna gabriel",
-        "mirela sitoiu",
-        "circiumaru mioara nicoleta"
+        "circiumaru mioara nicoleta",
+        "iuga vasile",
+        "andrei simona"
       ]
     },
     {
@@ -186,12 +186,12 @@
       "contracte": 85414198.0,
       "n_administratori": 6,
       "administratori": [
-        "ioan macaveiu",
-        "darius georgel voda",
-        "onescu simona",
+        "bogdan costas",
         "cristian maristeanu",
+        "darius georgel voda",
         "tiberiu ticlea",
-        "bogdan costas"
+        "ioan macaveiu",
+        "onescu simona"
       ]
     },
     {
@@ -199,9 +199,9 @@
       "contracte": 69061534.0,
       "n_administratori": 3,
       "administratori": [
+        "claudiu radu rosca",
         "andrei benghea gabriel malaies",
-        "laurentiu trocan",
-        "claudiu radu rosca"
+        "laurentiu trocan"
       ]
     },
     {
@@ -209,9 +209,9 @@
       "contracte": 64491205.0,
       "n_administratori": 4,
       "administratori": [
+        "bolintineanu gheorghe",
         "florin manolescu",
         "cristina ispir raluca",
-        "bolintineanu gheorghe",
         "baescu decebal"
       ]
     },
@@ -220,12 +220,12 @@
       "contracte": 46294891.0,
       "n_administratori": 12,
       "administratori": [
-        "claudiu saftoiu",
-        "niculae sylvia",
-        "ciobanu crina madalina",
         "darie george grosu",
-        "gabriela mirela toma",
-        "maria mihaela nistor"
+        "dan dumitru radu",
+        "popescu sorin valentin",
+        "andras dane karoly",
+        "claudiu saftoiu",
+        "gabriela mirela toma"
       ]
     },
     {
@@ -233,12 +233,12 @@
       "contracte": 36231907.0,
       "n_administratori": 6,
       "administratori": [
-        "gambuteanu horia marian",
-        "niculae teodorescu",
         "condrea dragos",
-        "cringasu daniela",
         "anca mitu",
-        "alina dragota laura raluca"
+        "cringasu daniela",
+        "alina dragota laura raluca",
+        "gambuteanu horia marian",
+        "niculae teodorescu"
       ]
     },
     {
@@ -246,11 +246,11 @@
       "contracte": 33338033.0,
       "n_administratori": 5,
       "administratori": [
+        "albu cristian radu",
         "ion irinel marius",
         "costin luminita marinela",
         "gheorghe rusu",
-        "marian pircalabescu razvan",
-        "albu cristian radu"
+        "marian pircalabescu razvan"
       ]
     },
     {
@@ -258,9 +258,9 @@
       "contracte": 20662998.0,
       "n_administratori": 3,
       "administratori": [
-        "calin marian",
         "gheorghe luca",
-        "copilau jenel"
+        "copilau jenel",
+        "calin marian"
       ]
     },
     {
@@ -268,11 +268,11 @@
       "contracte": 19886698.0,
       "n_administratori": 5,
       "administratori": [
-        "daniela nicolescu",
-        "bobirca nicoleta",
+        "liviu stanoiu",
         "cojocaru simona",
         "anca cotirta mihaela",
-        "liviu stanoiu"
+        "daniela nicolescu",
+        "bobirca nicoleta"
       ]
     },
     {
@@ -280,10 +280,10 @@
       "contracte": 14986076.0,
       "n_administratori": 5,
       "administratori": [
-        "catalin costel vlad",
+        "alexandru florin vane",
         "daniel gheorghe sori",
         "alexandru varlan",
-        "alexandru florin vane",
+        "catalin costel vlad",
         "ion octavian tache"
       ]
     },
@@ -292,9 +292,9 @@
       "contracte": 14219680.0,
       "n_administratori": 3,
       "administratori": [
+        "georgiana latoiu vasilica",
         "ana corina popescu",
-        "baluta liviu",
-        "georgiana latoiu vasilica"
+        "baluta liviu"
       ]
     },
     {
@@ -302,12 +302,12 @@
       "contracte": 8063000.0,
       "n_administratori": 13,
       "administratori": [
-        "haschka luiza mihaela",
-        "cosmin gabriel pirvu",
-        "chiriac cristina",
-        "daniel livezeanu",
+        "mihai mindrican",
         "neculai olaru",
-        "grigorescu mihai"
+        "grigorescu mihai",
+        "balan corneliu petre",
+        "chiriac cristina",
+        "daniel livezeanu"
       ]
     },
     {
@@ -315,9 +315,9 @@
       "contracte": 6470243.0,
       "n_administratori": 3,
       "administratori": [
-        "alexandru vicu",
+        "calangiu lucia",
         "adrian alexandrescu alexandru",
-        "calangiu lucia"
+        "alexandru vicu"
       ]
     },
     {
@@ -335,12 +335,12 @@
       "contracte": 5414952.0,
       "n_administratori": 7,
       "administratori": [
-        "ion octavian uta",
-        "barica gheorghe",
-        "catalin ducu marian",
         "daniela trancota",
         "fulger nicolae",
-        "ionut misa"
+        "ionut misa",
+        "catalin ducu marian",
+        "gheorghe ionita",
+        "ion octavian uta"
       ]
     },
     {
@@ -348,12 +348,12 @@
       "contracte": 3257578.0,
       "n_administratori": 6,
       "administratori": [
-        "daniel preda virgil",
-        "codruta ermilia vitan",
-        "mihaela visu",
-        "ioan maxim ovidiu",
         "chirita sorin",
-        "aurel sendroni"
+        "codruta ermilia vitan",
+        "ioan maxim ovidiu",
+        "aurel sendroni",
+        "daniel preda virgil",
+        "mihaela visu"
       ]
     },
     {
@@ -361,11 +361,11 @@
       "contracte": 3219000.0,
       "n_administratori": 6,
       "administratori": [
-        "andreea gabriela nica",
-        "miron zapciu",
         "aura cantacuz magda",
         "buica marian nicusor",
         "chirtes cristian ioan",
+        "miron zapciu",
+        "andreea gabriela nica",
         "cladoveanu flavius valeriu"
       ]
     },
@@ -383,12 +383,12 @@
       "contracte": 2853123.0,
       "n_administratori": 8,
       "administratori": [
+        "manuela olteanu petronela stan",
         "angelica petrache ramona",
+        "dobre mircea titus",
         "emanuel ioana",
         "cornelia nastase",
-        "manuela olteanu petronela stan",
-        "anton cristian ioan",
-        "clement negrut"
+        "andronic bogdan constantin"
       ]
     },
     {
@@ -396,11 +396,11 @@
       "contracte": 2637706.0,
       "n_administratori": 6,
       "administratori": [
-        "bogdan iulian popa",
-        "adrian florescu razvan",
-        "cezar furtuna gabriel",
         "andrei micu razvan",
         "gabriel oltean vasile",
+        "cezar furtuna gabriel",
+        "bogdan iulian popa",
+        "adrian florescu razvan",
         "cezar flavian patriche"
       ]
     },
@@ -419,12 +419,12 @@
       "contracte": 2327976.0,
       "n_administratori": 7,
       "administratori": [
-        "sorin toader",
         "alexandru liviu moraru",
-        "andrei steriu valeriu",
-        "andrian vasile",
         "nicolae tudor",
-        "gheorghe madalina"
+        "andrei steriu valeriu",
+        "sorin toader",
+        "andrian vasile",
+        "alina ioana mirea"
       ]
     },
     {
@@ -432,12 +432,12 @@
       "contracte": 2324538.0,
       "n_administratori": 9,
       "administratori": [
-        "emanuel zegrea",
-        "antoanella dragoi mariyeane",
+        "corneliu visoianu",
+        "constantin madalin staniu",
+        "cristina matei",
         "florin petolea",
         "diana novac olivia",
-        "banciu leila mihaela",
-        "ciprian iftime mihai"
+        "banciu leila mihaela"
       ]
     },
     {
@@ -445,9 +445,9 @@
       "contracte": 1200000.0,
       "n_administratori": 3,
       "administratori": [
-        "ciocnitu dumitru eduard",
         "alin mihail stoicea",
-        "ilinescu liliana"
+        "ilinescu liliana",
+        "ciocnitu dumitru eduard"
       ]
     },
     {
@@ -455,9 +455,9 @@
       "contracte": 834089.0,
       "n_administratori": 3,
       "administratori": [
-        "giani marius mielu",
         "alin panait radu",
-        "mihai moldovan"
+        "mihai moldovan",
+        "giani marius mielu"
       ]
     },
     {
@@ -465,8 +465,8 @@
       "contracte": 697103.0,
       "n_administratori": 2,
       "administratori": [
-        "liliana voicu",
-        "iorgu liviu"
+        "iorgu liviu",
+        "liliana voicu"
       ]
     },
     {
@@ -474,11 +474,11 @@
       "contracte": 663489.0,
       "n_administratori": 5,
       "administratori": [
-        "corina listoschi",
         "chisalita ion",
         "corneliu cozmanciuc mugurel",
         "georgeta ionescu speranta",
-        "achim dan"
+        "achim dan",
+        "corina listoschi"
       ]
     },
     {
@@ -486,11 +486,11 @@
       "contracte": 564599.0,
       "n_administratori": 5,
       "administratori": [
-        "constantin cristian tapalaga",
-        "gabriel ionut mahu",
-        "ciurea silviu stefan",
         "viorel zama",
-        "nistor olga"
+        "gabriel ionut mahu",
+        "constantin cristian tapalaga",
+        "nistor olga",
+        "ciurea silviu stefan"
       ]
     },
     {
@@ -498,12 +498,12 @@
       "contracte": 454800.0,
       "n_administratori": 10,
       "administratori": [
-        "gorneanu mihaela",
+        "calina cristina irimie",
         "gabriel radu",
-        "madalina mustafa",
-        "andrei george tanase",
         "gabriela stanga",
-        "negrila vasile"
+        "negrila vasile",
+        "andrei george tanase",
+        "madalina mustafa"
       ]
     },
     {
@@ -512,10 +512,10 @@
       "n_administratori": 8,
       "administratori": [
         "dulceata teodor",
-        "mariana tudose",
-        "bruma vasile",
-        "elena mateescu",
         "arat marie oana",
+        "bruma vasile",
+        "mariana tudose",
+        "dorina mocanu simona",
         "andreea diaconu"
       ]
     },
@@ -524,12 +524,12 @@
       "contracte": 269863.0,
       "n_administratori": 11,
       "administratori": [
-        "georgeta luminita popescu",
-        "adrian daianu",
+        "dan iulius plaveti",
+        "balasoiu ion",
+        "christodoulos constandinou seferis",
         "mustafa sinan",
         "adrian constantin marinescu",
-        "dan iulius plaveti",
-        "balasoiu ion"
+        "georgeta luminita popescu"
       ]
     },
     {
@@ -539,8 +539,8 @@
       "administratori": [
         "elena simona stefanescu",
         "mardale nicolaie",
-        "marginean rodica",
-        "andi davidescu stefan"
+        "andi davidescu stefan",
+        "marginean rodica"
       ]
     },
     {
@@ -548,12 +548,12 @@
       "contracte": 220176.0,
       "n_administratori": 6,
       "administratori": [
-        "jurcut vasile",
-        "dumitru hodisan sorin",
-        "alexandrina bodea gabriela",
-        "costel lazea",
         "bordas karoly",
-        "daniela marioara zapodeanu"
+        "daniela marioara zapodeanu",
+        "dumitru hodisan sorin",
+        "jurcut vasile",
+        "alexandrina bodea gabriela",
+        "costel lazea"
       ]
     },
     {
@@ -561,10 +561,10 @@
       "contracte": 139999.0,
       "n_administratori": 4,
       "administratori": [
-        "gheorghe goreci",
+        "adriana lorena ungureanu",
         "cristina ionela stancu",
         "nicolae niculita",
-        "adriana lorena ungureanu"
+        "gheorghe goreci"
       ]
     }
   ]

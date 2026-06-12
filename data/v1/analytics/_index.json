@@ -6,7 +6,8 @@
     "person_company": 21476,
     "party": 17,
     "committee_member": 322,
-    "state_holding": 16
+    "state_holding": 16,
+    "direct_supplier": 50000
   },
   "exporturi": {
     "sumar_sector.json": 11,
