@@ -64,6 +64,19 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12 (commit 156) — TOOLING din cercetare GitHub:** **MCP server** (`romega-mcp-core`,
+> FastMCP/DuckDB read-only, 10 tool-uri cu provenance+etică — Claude interoghează ROMEGA conversațional) ·
+> **export FollowTheMoney** (10.024 entități NDJSON, interoperabil Aleph/OCCRP) · **graf sigma.js**
+> (`web/graf.html`, layout precalculat 2.996 noduri) · **alerte** (34 semnale deterministe, 6 tipuri).
+>
+> **BACKLOG din cercetarea GitHub (repo-uri verificate, neimplementate încă):**
+> - **moj-analytical-services/splink** — entity resolution pe DuckDB (Jaro-Winkler+term-freq) → gold v3 omonimi.
+> - **ciocan/sicap-explorer** — dataset torrent 22M achiziții directe + 470k licitații 2007-2020 → ingest DuckDB.
+> - **gov2-ro/declaratii-integritate + prometeu** — cross-check acoperire declarații + pattern Actions periodic.
+> - **opensanctions/yente + rigour** — match persoane vs sancțiuni/PEP (flag) + fingerprint nume la build.
+> - **public-accountability/oligrapher** — grafuri narative adnotate pt. dosare/articole.
+> - **streamlit-cosmograph / cosmos.gl** — graful MARE (56k) GPU-live, dacă graf.html nu ajunge.
+>
 > **TO-DO (2026-06-10) — surse VERIFICATE, workflow 30 agenți:**
 >
 > **(A) FINANȚARE PARTIDE parlamentare** — ⚠️ AEP (roaep.ro + finantarepartide.ro) = **reCAPTCHA Enterprise pe tot
