@@ -104,6 +104,6 @@ def kpi_card(col, label: str, value: str, help: str = "") -> None:
 def sidebar_brand() -> None:
     st.sidebar.markdown(
         f"<div style='font-size:22px;font-weight:700;color:{TEXT};letter-spacing:-.02em'>"
-        f"RO<span style='color:{ACCENT_2}'>MEGA</span></div>"
+        f"SOLO<span style='color:{ACCENT_2}'>MONAR</span></div>"
         f"<div style='font-size:11px;color:{TEXT_DIM};margin-bottom:8px'>"
         f"transparența aparatului de stat</div>", unsafe_allow_html=True)
