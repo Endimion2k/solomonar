@@ -64,6 +64,11 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12g (commit 170) — CLIENT 15 PAGINI:** 3 pagini noi care expun datele construite:
+> **12_Alerte** (1.412 semnale, 12 conflicte confirmate sus), **13_Sanctiuni** (22 sancționați + 6.761 PEP,
+> 978 în graf), **14_Firme_paravan** (1.343 firme noi cu contracte). Toate cu disclaimere etice. data.alerte/
+> sanctiuni/firme_onrc adăugate. Smoke HTTP 200. Sistemul de alerte e acum vizibil în UI.
+>
 > **🟢 RUNDA 2026-06-12f (commit 168) — ENRICHMENT ONRC (vs info-firme):** info-firme = aceeași sursă
 > ONRC data.gov.ro (nimic nou). În schimb am derivat **ANALIZA**: `harvest_firme_onrc` îmbogățește 50.799
 > firme (graf+furnizori) cu formă juridică, an înființare, CAEN domeniu, țară-mamă (OD_FIRME/OD_CAEN/
