@@ -119,6 +119,45 @@ def achizitii_directe_meta() -> dict:
             "valoare_totala_ron": d.get("valoare_totala_ron", 0), "sursa": d.get("sursa", "")}
 
 
+# ---------------- firme ONRC (profil firme cu bani de stat) ----------------
+@st.cache_data(show_spinner=False)
+def firme_onrc() -> pd.DataFrame:
+    """Profil ONRC al firmelor care au luat bani de la stat (contracte + achiziții directe).
+
+    Sursa: data/v1/companii/firme_onrc.json. Adaugă coloane derivate:
+      - este_noua: flag 'firmă nouă cu bani de stat' (înființată cu ≤1 an înainte de prima achiziție)
+      - mama_straina: are firmă-mamă într-o țară străină (exclude România)
+      - flaguri_txt: flagurile concatenate pentru afișare
+    """
+    firme = _load_raw("companii/firme_onrc.json").get("firme", [])
+    df = pd.DataFrame(firme)
+    if df.empty:
+        return df
+
+    def _flaguri(x):
+        return x if isinstance(x, list) else []
+
+    df["flaguri"] = df["flaguri"].apply(_flaguri)
+    df["este_noua"] = df["flaguri"].apply(lambda fl: any("firmă nouă" in f for f in fl))
+    df["flaguri_txt"] = df["flaguri"].apply(lambda fl: " · ".join(fl))
+    tm = df["tara_mama"].fillna("").str.strip()
+    df["mama_straina"] = (tm != "") & (tm.str.lower() != "românia")
+    return df
+
+
+@st.cache_data(show_spinner=False)
+def firme_onrc_meta() -> dict:
+    d = _load_raw("companii/firme_onrc.json")
+    return {
+        "total": d.get("total", 0),
+        "cu_caen": d.get("cu_caen", 0),
+        "cu_mama_straina": d.get("cu_mama_straina", 0),
+        "flagged": d.get("flagged", 0),
+        "sursa": d.get("sursa", ""),
+        "nota": d.get("nota", ""),
+    }
+
+
 # ---------------- follow-the-money ----------------
 @st.cache_data(show_spinner=False)
 def follow_money() -> dict:
@@ -173,6 +212,56 @@ def plx_initiatori_df() -> pd.DataFrame:
 @st.cache_data(show_spinner=False)
 def analytics(name: str) -> pd.DataFrame:
     return pd.DataFrame(_load_raw(f"analytics/{name}.json").get("data", []))
+
+
+# ---------------- alerte (semnale) ----------------
+@st.cache_data(show_spinner=False)
+def alerte() -> dict:
+    """Semnale de interes generate automat din date deschise (NU acuzații).
+
+    Întoarce dict-ul brut: {disclaimer, total, pe_severitate, pe_tip, agregate, alerte:[...]}.
+    Câmpul alerte[i].entitate poate fi string SAU dict (ex. {cui, forma_juridica, ...}).
+    """
+    return _load_raw("alerte.json")
+
+
+# ---------------- sancțiuni & PEP ----------------
+@st.cache_data(show_spinner=False)
+def sanctiuni() -> dict:
+    """Entități cu legătură RO din OpenSanctions (sancțiuni internaționale + PEP).
+
+    Întoarce: {meta: {total, sanctiuni, pep, in_graf, nota}, df: DataFrame}.
+    df coloane: nume, nume_key, schema, dataset ('sanctions'|'peps'), topics, tara,
+    pozitie, motiv, liste, in_graf, romega_id, n_declaratii, n_companii.
+    """
+    d = _load_raw("sanctiuni_ro.json")
+    ents = d.get("entitati", [])
+    rows = []
+    for e in ents:
+        rows.append({
+            "nume": e.get("nume") or "",
+            "nume_key": e.get("nume_key") or "",
+            "schema": e.get("schema") or "",
+            "dataset": e.get("dataset") or "",
+            "topics": e.get("topics") or [],
+            "tara": e.get("tara") or [],
+            "pozitie": e.get("pozitie"),
+            "motiv": e.get("motiv"),
+            "liste": e.get("liste") or [],
+            "in_graf": bool(e.get("in_graf")),
+            "romega_id": e.get("romega_id"),
+            "n_declaratii": e.get("n_declaratii", 0),
+            "n_companii": e.get("n_companii", 0),
+        })
+    df = pd.DataFrame(rows)
+    meta = {
+        "total": d.get("total", len(ents)),
+        "sanctiuni": d.get("sanctiuni", 0),
+        "pep": d.get("pep", 0),
+        "in_graf": d.get("in_graf", 0),
+        "nota": d.get("nota", ""),
+    }
+    return {"meta": meta, "df": df}
 
 
 # ---------------- search index ----------------
