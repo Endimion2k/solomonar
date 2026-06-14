@@ -6,9 +6,9 @@ from datetime import datetime
 from pathlib import Path
 
 from connectors.parlament.cdep import parse_profile, to_person
-from romega_core.names import fix_ro_diacritics
-from romega_core.provenance import SourceRef
-from romega_core.resolve import PersonRegistry
+from solomonar_core.names import fix_ro_diacritics
+from solomonar_core.provenance import SourceRef
+from solomonar_core.resolve import PersonRegistry
 
 FIX = Path(__file__).parent / "fixtures"
 

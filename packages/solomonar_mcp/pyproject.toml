@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "solomonar-mcp"
+version = "0.1.0"
+description = "Server MCP SOLOMONAR — date de transparență ale statului român pentru interogare conversațională"
+requires-python = ">=3.10"
+dependencies = ["mcp[cli]>=1.2"]
+
+[project.scripts]
+solomonar-mcp = "solomonar_mcp.server:run"
+
+[tool.setuptools]
+packages = ["solomonar_mcp"]
+package-dir = { "solomonar_mcp" = "." }

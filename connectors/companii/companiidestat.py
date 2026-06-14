@@ -9,9 +9,9 @@ from __future__ import annotations
 
 import json
 
-from romega_core.http import Client
-from romega_core.models import Company
-from romega_core.provenance import SourceRef
+from solomonar_core.http import Client
+from solomonar_core.models import Company
+from solomonar_core.provenance import SourceRef
 
 URL = "https://companiidestat.ro/api/v1/companii_search.json"
 

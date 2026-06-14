@@ -25,13 +25,13 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 from urllib3.util.ssl_ import create_urllib3_context
 
-from romega_core.bronze import BronzeArtifact, BronzeStore
+from solomonar_core.bronze import BronzeArtifact, BronzeStore
 
 # Folosește OS cert store în loc de certifi (Windows + antivirus MITM).
 truststore.inject_into_ssl()
 
 DEFAULT_USER_AGENT = (
-    "ROMEGA-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
+    "SOLOMONAR-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
 )
 
 

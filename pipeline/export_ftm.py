@@ -1,4 +1,4 @@
-"""Export ROMEGA → FollowTheMoney (OCCRP / Aleph) entity stream.
+"""Export SOLOMONAR → FollowTheMoney (OCCRP / Aleph) entity stream.
 
 Produce a newline-delimited stream of FtM entities (one JSON object per line)
 aligned with the real FollowTheMoney vocabulary (https://followthemoney.tech).
@@ -33,7 +33,7 @@ import unicodedata
 import duckdb
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DUCKDB = os.path.join(ROOT, "data/gold/romega.duckdb")
+DUCKDB = os.path.join(ROOT, "data/gold/solomonar.duckdb")
 OUT = os.path.join(ROOT, "data/v1/graf/ftm_entities.json")
 
 # Identitatea statului ca proprietar (un singur nod PublicBody).

@@ -1,8 +1,8 @@
-# ROMEGA — workspace config (placeholder Faza 0)
+# SOLOMONAR — workspace config (placeholder Faza 0)
 # Stack moștenit din cdep-api-poc + adăugiri (DuckDB, Playwright, OCR).
 
 [project]
-name = "romega"
+name = "solomonar"
 version = "0.1.0"
 description = "Romania Open Mega-Graph of the State — platformă de transparență a aparatului de stat"
 requires-python = ">=3.11"
@@ -29,7 +29,7 @@ headless = ["playwright>=1.42"]      # ANI SPA (Faza 2)
 ocr = ["pytesseract>=0.3.10", "Pillow>=10.0"]   # declarații pre-2022 (Faza 2)
 dev = ["pytest>=8.0", "ruff>=0.3", "pre-commit>=3.6"]
 
-# Workspace: packages/romega_core + connectors/* sunt module locale.
+# Workspace: packages/solomonar_core + connectors/* sunt module locale.
 # (structura completă în README.md)
 
 [tool.ruff]
@@ -38,7 +38,7 @@ target-version = "py311"
 
 [tool.pytest.ini_options]
 testpaths = [
-    "packages/romega_core/tests",
+    "packages/solomonar_core/tests",
     "pipeline/tests",
     "connectors/parlament/tests",
     "connectors/ani/tests",

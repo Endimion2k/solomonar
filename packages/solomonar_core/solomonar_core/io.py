@@ -13,7 +13,7 @@ from typing import Iterable
 
 from pydantic import BaseModel
 
-from romega_core.provenance import Meta
+from solomonar_core.provenance import Meta
 
 
 def export_collection(

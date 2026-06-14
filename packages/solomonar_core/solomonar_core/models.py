@@ -1,4 +1,4 @@
-"""Modele Pydantic canonice ROMEGA.
+"""Modele Pydantic canonice SOLOMONAR.
 
 Unifică zeci de surse eterogene în entități comune. Vezi docs/02-DATA-MODEL.md.
 Toate entitățile poartă `sources: list[SourceRef]` (provenance).
@@ -12,7 +12,7 @@ from enum import StrEnum
 
 from pydantic import BaseModel, ConfigDict, Field
 
-from romega_core.provenance import SourceRef
+from solomonar_core.provenance import SourceRef
 
 
 def make_id(prefix: str, *parts: object) -> str:

@@ -1,4 +1,4 @@
-"""Harvest moțiuni parlamentare CDep (simple + de cenzură), toate legislaturile → ROMEGA.
+"""Harvest moțiuni parlamentare CDep (simple + de cenzură), toate legislaturile → SOLOMONAR.
 
 Pe cdep.ro moțiunile-s în liste separate pe tip: motiuni2015.lista?cam=2 (simple Camera
 Deputaților) și cam=0 (de cenzură, ambele camere). Userul vedea doar cele 6 simple (curente) —
@@ -19,9 +19,9 @@ from urllib.parse import urljoin
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
-from romega_core.parse import selector  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
+from solomonar_core.parse import selector  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1/parlament")
 BASE = "https://www.cdep.ro/ords/pls/parlam/"

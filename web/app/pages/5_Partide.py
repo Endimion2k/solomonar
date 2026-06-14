@@ -1,4 +1,4 @@
-"""ROMEGA — Partide: subvenții de stat, evoluție anuală, rapoarte RVC."""
+"""SOLOMONAR — Partide: subvenții de stat, evoluție anuală, rapoarte RVC."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, party_color, sidebar_brand)
 
-st.set_page_config(page_title="Partide · ROMEGA", page_icon="🎗️", layout="wide")
+st.set_page_config(page_title="Partide · SOLOMONAR", page_icon="🎗️", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Partide", "Subvenții de stat alocate partidelor, evoluție anuală și prezență parlamentară.")

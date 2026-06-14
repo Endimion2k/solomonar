@@ -17,8 +17,8 @@ import time
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
-from romega_core.http import Client  # noqa: E402
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 JL = os.path.join(ROOT, "pipeline", "_plx_init.jsonl")

@@ -18,8 +18,8 @@ from pipeline.harvest_legislatie import (  # noqa: E402
     NS, _post, build_search_envelope, get_token_envelope, parse_search_response, parse_token)
 
 V = os.path.join(ROOT, "data/v1")
-MAX_ACTE = int(os.environ.get("ROMEGA_LEG_MAX", "2500"))
-PAGINI = int(os.environ.get("ROMEGA_LEG_PAGINI", "8"))
+MAX_ACTE = int(os.environ.get("SOLOMONAR_LEG_MAX", "2500"))
+PAGINI = int(os.environ.get("SOLOMONAR_LEG_PAGINI", "8"))
 
 TOPICI = ["achizitii publice", "integritate", "transparenta", "protectia datelor", "cod fiscal",
           "conflict de interese", "avere", "anticoruptie", "societati comerciale", "buget de stat",

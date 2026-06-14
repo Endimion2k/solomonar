@@ -1,4 +1,4 @@
-# ROMEGA — dependențe runtime (pinuite soft; CI instalează + `pip install -e packages/romega_core`)
+# SOLOMONAR — dependențe runtime (pinuite soft; CI instalează + `pip install -e packages/solomonar_core`)
 # Moștenit din cdep-api-poc + adăugiri (DuckDB, PyYAML).
 
 pydantic>=2.6

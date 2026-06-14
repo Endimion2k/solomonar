@@ -2,7 +2,7 @@
 
 Brand-guess a ratat companiile al căror domeniu ≠ brand (Hidroelectrica→hidro.ro). Aici o listă
 curată de SOE-uri majore cu domeniile lor → BFS (refolosește harvest_soe_declaratii.harvest_source)
-→ PDF-uri declarații → dedup vs corpus existent → _soe2_pdfs.json. Apoi ROMEGA_SRC=soe2 reprocess.
+→ PDF-uri declarații → dedup vs corpus existent → _soe2_pdfs.json. Apoi SOLOMONAR_SRC=soe2 reprocess.
 """
 
 from __future__ import annotations
@@ -66,7 +66,7 @@ def main() -> dict:
     json.dump(pdf_to_inst, open(os.path.join(V, "_soe2_pdfs.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print(f"\nPUBLICAT _soe2_pdfs.json: {len(pdf_to_inst)} PDF-uri NOI din {len(BIG_SOE)} SOE mari", flush=True)
-    print("Pas 2: ROMEGA_SRC=soe2 python -m pipeline.harvest_reprocess text 8", flush=True)
+    print("Pas 2: SOLOMONAR_SRC=soe2 python -m pipeline.harvest_reprocess text 8", flush=True)
     return {"pdfs": len(pdf_to_inst)}
 
 

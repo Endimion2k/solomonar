@@ -2,7 +2,7 @@
 
 cdep.ro expune declarațiile CAPTCHA-free pe profilul fiecărui deputat: tab avere (pag=5) și
 interese (pag=6) conțin linkuri .pdf (toți anii). Le strângem într-un checkpoint care apoi e dat
-lui harvest_reprocess (ROMEGA_SRC=parlament) pentru extragere avere&interese (text + OCR).
+lui harvest_reprocess (SOLOMONAR_SRC=parlament) pentru extragere avere&interese (text + OCR).
 
 Senatori: senat.ro are structură proprie — adăugat dacă profilul expune linkuri de declarații.
 """
@@ -17,8 +17,8 @@ from urllib.parse import urljoin
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
-from romega_core.http import Client  # noqa: E402
-from romega_core.parse import selector  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
+from solomonar_core.parse import selector  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 OUT = os.path.join(V, "declaratii/_parlament_pdfs.json")

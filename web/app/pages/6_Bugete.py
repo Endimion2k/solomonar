@@ -1,4 +1,4 @@
-"""ROMEGA — Bugete. Bugete locale (UAT), executia bugetului general consolidat,
+"""SOLOMONAR — Bugete. Bugete locale (UAT), executia bugetului general consolidat,
 agregare pe judete. Date publice: mfinante.gov.ro + analytics DuckDB."""
 
 from __future__ import annotations
@@ -12,7 +12,7 @@ from app.theme import (ACCENT, ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING,
                        apply_theme, fmt_int, fmt_lei, kpi_card, page_header,
                        sidebar_brand)
 
-st.set_page_config(page_title="Bugete · ROMEGA", page_icon="💶", layout="wide")
+st.set_page_config(page_title="Bugete · SOLOMONAR", page_icon="💶", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Bugete",

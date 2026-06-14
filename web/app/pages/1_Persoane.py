@@ -1,4 +1,4 @@
-"""Persoane — căutare/filtrare în graful de persoane ROMEGA (56k) + fișă detaliu."""
+"""Persoane — căutare/filtrare în graful de persoane SOLOMONAR (56k) + fișă detaliu."""
 
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,
                        fmt_int, fmt_lei, kpi_card, page_header, party_color,
                        sidebar_brand)
 
-st.set_page_config(page_title="Persoane · ROMEGA", page_icon="📋", layout="wide")
+st.set_page_config(page_title="Persoane · SOLOMONAR", page_icon="📋", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Persoane",

@@ -12,7 +12,7 @@ from connectors.parlament.senat import (
     parse_senators,
     to_person as senat_to_person,
 )
-from romega_core.resolve import MatchStatus, PersonRegistry
+from solomonar_core.resolve import MatchStatus, PersonRegistry
 
 FIX = Path(__file__).parent / "fixtures"
 

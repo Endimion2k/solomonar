@@ -11,7 +11,7 @@ from __future__ import annotations
 
 import re
 
-from romega_core.http import Client
+from solomonar_core.http import Client
 
 WS = "http://legislatie.just.ro/apiws"
 

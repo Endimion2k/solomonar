@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import time
 
-from romega_core.http import HostThrottle
+from solomonar_core.http import HostThrottle
 
 
 def test_throttle_same_host_waits():

@@ -1,4 +1,4 @@
-"""Follow the money — legături persoane ↔ firme cu contracte de stat (ROMEGA).
+"""Follow the money — legături persoane ↔ firme cu contracte de stat (SOLOMONAR).
 
 Două niveluri de încredere:
   • CONFIRMATE — firma apare explicit în declarația de interese a persoanei (defensabil).
@@ -15,7 +15,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, DANGER, SUCCESS, WARNING, TEXT_DIM,
                        apply_theme, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Follow the money · ROMEGA", page_icon="🔎", layout="wide")
+st.set_page_config(page_title="Follow the money · SOLOMONAR", page_icon="🔎", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Follow the money",

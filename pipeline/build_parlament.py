@@ -12,10 +12,10 @@ from pathlib import Path
 
 from connectors.institutie.generic import org_id
 from connectors.parlament.cdep import PROFILE_URL, CdepConnector, parse_profile, to_person
-from romega_core.io import export_collection
-from romega_core.models import Edge, EdgeType
-from romega_core.provenance import SourceRef
-from romega_core.resolve import PersonRegistry
+from solomonar_core.io import export_collection
+from solomonar_core.models import Edge, EdgeType
+from solomonar_core.provenance import SourceRef
+from solomonar_core.resolve import PersonRegistry
 
 DEFAULT_OUT = Path(__file__).resolve().parents[1] / "data" / "v1"
 

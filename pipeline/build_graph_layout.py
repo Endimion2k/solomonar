@@ -1,4 +1,4 @@
-"""Construiește layout-ul grafului ROMEGA (persoane ↔ companii) pentru vizualizare web.
+"""Construiește layout-ul grafului SOLOMONAR (persoane ↔ companii) pentru vizualizare web.
 
 Sursă: data/v1/graf/persoane_gold.json (persoane cu lista `companii`, fiecare
 companie cu `contracte_stat` și flagul `parlamentar`). NU folosim toate cele 56k

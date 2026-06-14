@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from connectors.companii.amepip import parse_amepip_rows, parse_master_list
-from romega_core.models import Company
+from solomonar_core.models import Company
 
 CSV = (
     "cui,denumire,autoritate_tutelara\n"

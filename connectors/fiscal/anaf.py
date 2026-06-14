@@ -9,9 +9,9 @@ Sursă gratuită și programatică — coloana vertebrală pentru îmbogățirea
 
 from __future__ import annotations
 
-from romega_core.http import Client
-from romega_core.models import Company, CompanyStatus
-from romega_core.provenance import SourceRef
+from solomonar_core.http import Client
+from solomonar_core.models import Company, CompanyStatus
+from solomonar_core.provenance import SourceRef
 
 # Endpoint v9 (verificat live iunie 2026). Atenție: calea v8 documentată dă 404 — v9 are
 # structură diferită: /api/PlatitorTvaRest/v9/tva (nu /PlatitorTvaRest/api/v8/ws/tva).

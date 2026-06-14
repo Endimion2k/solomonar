@@ -25,7 +25,7 @@ numele fișierului. Reținem deci un PDF dacă: e în folderul /2024/ SAU data l
 (începutul mandatului). Cele două reguli se completează → acoperire 134/134 senatori din roster.
 
 Rezultat: checkpoint {pdf_url: "Senator <nume>"} dat apoi lui `harvest_reprocess`
-(ROMEGA_SRC=parlament_senat) pentru avere ȘI interese.
+(SOLOMONAR_SRC=parlament_senat) pentru avere ȘI interese.
 """
 
 from __future__ import annotations
@@ -41,10 +41,10 @@ from urllib.parse import urljoin
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
 
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 OUT = os.path.join(V, "declaratii/_parlament_senat_pdfs.json")

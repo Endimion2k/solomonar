@@ -1,4 +1,4 @@
-"""Cross-ref DNA ↔ graful ROMEGA — inculpați DNA care sunt declaranți/parlamentari/conduc companii.
+"""Cross-ref DNA ↔ graful SOLOMONAR — inculpați DNA care sunt declaranți/parlamentari/conduc companii.
 
 Cel mai puternic semnal de accountability: o persoană numită într-un comunicat DNA (trimitere în
 judecată) care apare ȘI în graful nostru (declarație de avere / mandat / administrator de companie
@@ -16,9 +16,9 @@ import os
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
 sys.path.insert(0, ROOT)
-from romega_core.names import name_key  # noqa: E402
+from solomonar_core.names import name_key  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 
@@ -71,7 +71,7 @@ def main() -> dict:
     matches.sort(key=lambda x: (x["incredere"] != "high", -x["n_companii"], -x["n_declaratii"]))
 
     os.makedirs(os.path.join(ROOT, "_local"), exist_ok=True)
-    json.dump({"nota": "Inculpați/menționați în comunicate DNA care apar ȘI în graful ROMEGA "
+    json.dump({"nota": "Inculpați/menționați în comunicate DNA care apar ȘI în graful SOLOMONAR "
                "(declarație de avere / mandat / administrator companie). Match pe NUME (fără CNP) → "
                "'med' = posibil omonim (2 tokeni); 'high' = 3+ tokeni sau parlamentar. NU sunt verdicte; "
                "comunicatele DNA pot fi trimiteri în judecată, NU condamnări — prezumția de nevinovăție.",

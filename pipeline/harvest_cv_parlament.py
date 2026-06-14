@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 from pipeline.process_cv import _sections  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")

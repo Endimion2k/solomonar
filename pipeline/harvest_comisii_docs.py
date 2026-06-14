@@ -15,8 +15,8 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1/comisii")
 

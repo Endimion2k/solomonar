@@ -39,6 +39,15 @@
       "n_firme": 1
     },
     {
+      "nume": "calin radu rosian",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 10,
+      "contracte_firme": 225438871.0,
+      "n_firme": 1
+    },
+    {
       "nume": "dana gaiseanu",
       "incredere": "context",
       "camera": null,
@@ -57,16 +66,7 @@
       "n_firme": 1
     },
     {
-      "nume": "calin radu rosian",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 10,
-      "contracte_firme": 225438871.0,
-      "n_firme": 1
-    },
-    {
-      "nume": "alexie bodolan constantin cotan",
+      "nume": "bogdan costas",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -75,7 +75,7 @@
       "n_firme": 1
     },
     {
-      "nume": "bogdan costas",
+      "nume": "dan mihail stan",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -93,7 +93,7 @@
       "n_firme": 1
     },
     {
-      "nume": "dan mihail stan",
+      "nume": "alexie bodolan constantin cotan",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -111,16 +111,16 @@
       "n_firme": 1
     },
     {
-      "nume": "condrea dragos",
+      "nume": "gambuteanu horia marian",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 4,
+      "n_declaratii": 2,
       "contracte_firme": 36231907.0,
       "n_firme": 1
     },
     {
-      "nume": "gambuteanu horia marian",
+      "nume": "alina dragota laura raluca",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -138,11 +138,11 @@
       "n_firme": 1
     },
     {
-      "nume": "alina dragota laura raluca",
+      "nume": "condrea dragos",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 2,
+      "n_declaratii": 4,
       "contracte_firme": 36231907.0,
       "n_firme": 1
     },
@@ -201,34 +201,7 @@
       "n_firme": 1
     },
     {
-      "nume": "gabriel radu",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 1,
-      "contracte_firme": 454800.0,
-      "n_firme": 1
-    },
-    {
-      "nume": "madalina mustafa",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 2,
-      "contracte_firme": 454800.0,
-      "n_firme": 1
-    },
-    {
       "nume": "gorneanu mihaela",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 2,
-      "contracte_firme": 454800.0,
-      "n_firme": 1
-    },
-    {
-      "nume": "alexandrescu duca mihaela oana",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -246,6 +219,33 @@
       "n_firme": 1
     },
     {
+      "nume": "madalina mustafa",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "gabriel radu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alexandrescu duca mihaela oana",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
       "nume": "constantin cosmin trufelea",
       "incredere": "context",
       "camera": null,
@@ -255,11 +255,11 @@
       "n_firme": 1
     },
     {
-      "nume": "dan iulius plaveti",
+      "nume": "georgeta luminita popescu",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 2,
+      "n_declaratii": 1,
       "contracte_firme": 269863.0,
       "n_firme": 1
     },
@@ -273,11 +273,11 @@
       "n_firme": 1
     },
     {
-      "nume": "georgeta luminita popescu",
+      "nume": "dan iulius plaveti",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 1,
+      "n_declaratii": 2,
       "contracte_firme": 269863.0,
       "n_firme": 1
     },

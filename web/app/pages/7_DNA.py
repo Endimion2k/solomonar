@@ -1,4 +1,4 @@
-"""ROMEGA · DNA — comunicate publice DNA (8.998). Căutare text, filtru an, link sursă.
+"""SOLOMONAR · DNA — comunicate publice DNA (8.998). Căutare text, filtru an, link sursă.
 
 PREZUMȚIA DE NEVINOVĂȚIE: comunicatele DNA descriu trimiteri în judecată / urmăriri penale,
 NU condamnări definitive. Orice persoană este nevinovată până la o hotărâre judecătorească definitivă.
@@ -14,7 +14,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, DANGER, TEXT_DIM, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="DNA · ROMEGA", page_icon="⚖️", layout="wide")
+st.set_page_config(page_title="DNA · SOLOMONAR", page_icon="⚖️", layout="wide")
 apply_theme()
 sidebar_brand()
 

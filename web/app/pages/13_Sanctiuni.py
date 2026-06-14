@@ -8,7 +8,7 @@ from app import data
 from app.theme import (ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Sancțiuni & PEP · ROMEGA", page_icon="🌐", layout="wide")
+st.set_page_config(page_title="Sancțiuni & PEP · SOLOMONAR", page_icon="🌐", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Sancțiuni & PEP",
@@ -61,8 +61,8 @@ kpi_card(c2, "Sancționați (liste oficiale)", fmt_int(meta["sanctiuni"]),
          help="Persoane/entități pe liste internaționale de sancțiuni (EU/OFAC/UN ș.a.).")
 kpi_card(c3, "PEP (expunere politică)", fmt_int(meta["pep"]),
          help="Politically Exposed Persons — demnitari/funcții publice. NU este o acuzație.")
-kpi_card(c4, "În graful ROMEGA", fmt_int(meta["in_graf"]),
-         help="Apar și în datele ROMEGA (match pe nume — posibil omonim).")
+kpi_card(c4, "În graful SOLOMONAR", fmt_int(meta["in_graf"]),
+         help="Apar și în datele SOLOMONAR (match pe nume — posibil omonim).")
 
 # ---------------- Disclaimer ----------------
 st.markdown(
@@ -91,7 +91,7 @@ else:
         tari = tari_str(r["tara"])
         liste = liste_str(r["liste"])
         graf_badge = (f"<span class='badge' style='border-color:{ACCENT_2};color:{ACCENT_2}'>"
-                      f"în graful ROMEGA</span>" if r["in_graf"] else "")
+                      f"în graful SOLOMONAR</span>" if r["in_graf"] else "")
         schema_lbl = {"Person": "Persoană", "Organization": "Organizație",
                       "LegalEntity": "Entitate juridică"}.get(r["schema"], r["schema"])
         with st.container(border=True):
@@ -121,8 +121,8 @@ st.caption("Demnitari, parlamentari și funcționari publici. Expunerea politic�
            "pentru aceste funcții — apariția în listă NU înseamnă o problemă.")
 
 fcol1, fcol2 = st.columns([1, 2])
-doar_graf = fcol1.toggle(f"Doar cei din graful ROMEGA ({fmt_int(n_pep_graf)})", value=True,
-                         help="Persoane PEP care apar și în datele ROMEGA (match pe nume).")
+doar_graf = fcol1.toggle(f"Doar cei din graful SOLOMONAR ({fmt_int(n_pep_graf)})", value=True,
+                         help="Persoane PEP care apar și în datele SOLOMONAR (match pe nume).")
 q = fcol2.text_input("Caută nume", placeholder="ex: popescu, ionescu…",
                      label_visibility="collapsed")
 
@@ -153,7 +153,7 @@ else:
         use_container_width=True, hide_index=True,
         column_config={
             "nume": st.column_config.TextColumn("Nume", width="medium"),
-            "graf": st.column_config.TextColumn("ROMEGA", width="small"),
+            "graf": st.column_config.TextColumn("SOLOMONAR", width="small"),
             "pozitie_lbl": st.column_config.TextColumn("Poziție / funcție", width="large"),
             "tara_lbl": st.column_config.TextColumn("Țări", width="small"),
             "liste_lbl": st.column_config.TextColumn("Surse (liste)", width="medium"),
@@ -167,5 +167,5 @@ st.markdown(
     f"<div style='font-size:12px;color:{TEXT_DIM}'>"
     f"<b style='color:{SUCCESS}'>Sursă:</b> OpenSanctions (agregat al listelor oficiale de sancțiuni "
     f"și al pozițiilor PEP). Datele sunt filtrate la entitățile cu legătură România. "
-    f"„În graful ROMEGA” = potrivire pe nume cu persoanele din ROMEGA și poate fi un omonim."
+    f"„În graful SOLOMONAR” = potrivire pe nume cu persoanele din SOLOMONAR și poate fi un omonim."
     f"</div>", unsafe_allow_html=True)

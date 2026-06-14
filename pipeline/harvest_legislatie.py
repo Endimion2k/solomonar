@@ -6,7 +6,7 @@ script cheamă SOAP-ul real FreeWebService.svc (GetToken -> Search), parsează <
 
 Note pe SOAP-ul live (verificat pe 2026-06-10 din RO):
 - endpoint real: .../apiws/FreeWebService.svc/SOAP  (WS din connector e doar baza /apiws)
-- serverul cere User-Agent de browser (UA-ul bot ROMEGA primește 403 de la nginx)
+- serverul cere User-Agent de browser (UA-ul bot SOLOMONAR primește 403 de la nginx)
 - soapAction: http://tempuri.org/IFreeWebService/{GetToken,Search}
 - Search: SearchModel{NumarPagina, RezultatePagina, SearchAn, SearchNumar, SearchText,
   SearchTitlu} + tokenKey -> ArrayOfLegi{Legi{DataVigoare, Emitent, LinkHtml, Numar,

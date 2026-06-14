@@ -21,8 +21,8 @@ from connectors.institutie.generic import (  # noqa: E402
     find_institution_sections,
 )
 from pipeline.config import iter_sources, load_sources  # noqa: E402
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 
 def main() -> dict:

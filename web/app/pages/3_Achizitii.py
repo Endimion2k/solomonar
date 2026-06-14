@@ -1,4 +1,4 @@
-"""Achiziții publice — firmele câștigătoare de contracte cu statul (ROMEGA)."""
+"""Achiziții publice — firmele câștigătoare de contracte cu statul (SOLOMONAR)."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Achiziții · ROMEGA", page_icon="📑", layout="wide")
+st.set_page_config(page_title="Achiziții · SOLOMONAR", page_icon="📑", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Achiziții publice — firme câștigătoare",

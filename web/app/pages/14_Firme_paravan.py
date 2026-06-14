@@ -1,4 +1,4 @@
-"""Firme noi cu bani de stat — lead-uri de verificat (posibil paravan) (ROMEGA).
+"""Firme noi cu bani de stat — lead-uri de verificat (posibil paravan) (SOLOMONAR).
 
 FILTRU: firmele cu flag 'firmă nouă cu bani de stat' (înființate cu ≤1 an înainte de
 prima achiziție) ȘI care au contracte (canalul mare). Restul firmelor noi ajung la stat
@@ -16,7 +16,7 @@ from app import data
 from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Firme noi cu bani de stat · ROMEGA", page_icon="🚩",
+st.set_page_config(page_title="Firme noi cu bani de stat · SOLOMONAR", page_icon="🚩",
                    layout="wide")
 apply_theme()
 sidebar_brand()

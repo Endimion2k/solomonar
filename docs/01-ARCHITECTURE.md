@@ -83,7 +83,7 @@ publicat e trasabil înapoi la artefactul bronze + URL + dată.
 
 ## 3. Componentele sistemului
 
-### 3.1 `packages/romega_core` — biblioteca comună
+### 3.1 `packages/solomonar_core` — biblioteca comună
 Extrasă din `cdep-api-poc`, generalizată:
 
 | Modul | Responsabilitate |

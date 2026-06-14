@@ -5,7 +5,7 @@ Generalizează CFR: pentru fiecare sursă, BFS pe pagină (depth ≤3, același 
 - fișiere FileBird (POST /wp-json/filebird/v1/get-attachments cu folder ID din data-json)
 - urmărește sub-pagini (linkuri 'declaratii-*' / an / regiune)
 
-Scrie _soe_pdfs.json {url: 'NumeEntitate'}. Pas 2: ROMEGA_SRC=soe harvest_reprocess text/ocr.
+Scrie _soe_pdfs.json {url: 'NumeEntitate'}. Pas 2: SOLOMONAR_SRC=soe harvest_reprocess text/ocr.
 """
 
 from __future__ import annotations
@@ -22,7 +22,7 @@ import requests
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-from romega_core.parse import selector  # noqa: E402
+from solomonar_core.parse import selector  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 FB_EP_PATH = "/wp-json/filebird/v1/get-attachments"
@@ -126,7 +126,7 @@ def main(limit: int = 0) -> dict:
     json.dump(all_pdfs, open(os.path.join(V, "declaratii/_soe_pdfs.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print(f"\nPUBLICAT _soe_pdfs.json: {len(all_pdfs)} PDF-uri din {len(surse)} surse", flush=True)
-    print("Pas 2: ROMEGA_SRC=soe python -m pipeline.harvest_reprocess text 8", flush=True)
+    print("Pas 2: SOLOMONAR_SRC=soe python -m pipeline.harvest_reprocess text 8", flush=True)
     return {"pdfs": len(all_pdfs), "surse": len(surse)}
 
 

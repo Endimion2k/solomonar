@@ -1,4 +1,4 @@
-"""ROMEGA · Alerte & semnale — semnale de interes generate automat (NU acuzații).
+"""SOLOMONAR · Alerte & semnale — semnale de interes generate automat (NU acuzații).
 
 Sursă: data/v1/alerte.json. Semnalele sunt produse prin reguli deterministe peste date
 deschise. Singurele defensabile fără verificare suplimentară sunt cele de tip
@@ -14,7 +14,7 @@ from app import data
 from app.theme import (DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Alerte · ROMEGA", page_icon="🚨", layout="wide")
+st.set_page_config(page_title="Alerte · SOLOMONAR", page_icon="🚨", layout="wide")
 apply_theme()
 sidebar_brand()
 
@@ -264,5 +264,5 @@ else:
 
 st.divider()
 st.caption("Sursă: data/v1/alerte.json — semnale deterministe peste date deschise (ONRC, SICAP, "
-           "declarații de interese, romega.duckdb). Legăturile pe nume pot fi omonime; verifică "
+           "declarații de interese, solomonar.duckdb). Legăturile pe nume pot fi omonime; verifică "
            "întotdeauna în sursele originale. Acestea sunt indicii de verificat, nu acuzații.")

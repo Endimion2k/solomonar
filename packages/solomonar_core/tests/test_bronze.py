@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from romega_core.bronze import BronzeStore
+from solomonar_core.bronze import BronzeStore
 
 
 def test_put_and_get(tmp_path):

@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 from pipeline.gold.registry import SqlitePersonRegistry
-from romega_core.resolve import MatchStatus
+from solomonar_core.resolve import MatchStatus
 
 
 def test_registry_persists_and_matches_after_reopen(tmp_path):

@@ -7,9 +7,9 @@ deci poți vedea „toate firmele legate de o persoană".
 
 from __future__ import annotations
 
-from romega_core.models import Company, Edge, EdgeType, Person
-from romega_core.provenance import SourceRef
-from romega_core.resolve import PersonRegistry
+from solomonar_core.models import Company, Edge, EdgeType, Person
+from solomonar_core.provenance import SourceRef
+from solomonar_core.resolve import PersonRegistry
 
 
 def resolve_legal_reps(

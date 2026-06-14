@@ -1,4 +1,4 @@
-"""Construiește ALERTE / semnale de interes din datele ROMEGA (data/v1/alerte.json).
+"""Construiește ALERTE / semnale de interes din datele SOLOMONAR (data/v1/alerte.json).
 
 Inspirat de cdep-alerts, dar pe datele noastre: reguli DETERMINISTE, fiecare cu
 severitate + titlu + explicație + provenance (sursa exactă din care a rezultat semnalul).
@@ -35,7 +35,7 @@ except Exception:  # pragma: no cover
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = os.path.join(ROOT, "data/v1")
-DB = os.path.join(ROOT, "data/gold/romega.duckdb")
+DB = os.path.join(ROOT, "data/gold/solomonar.duckdb")
 
 # ---- praguri (constante, fără magic numbers în logică) ----
 PRAG_OUTLIER_AVG_RON = 50_000_000      # valoare medie / contract peste care e outlier
@@ -153,7 +153,7 @@ def regula2_parlamentar_soe(con) -> list:
                 "tutela": tutela or None,
                 "procent_stat": ps,
             },
-            "provenance": "romega.duckdb: person(camera) JOIN person_company(rol) JOIN company(is_soe=TRUE)",
+            "provenance": "solomonar.duckdb: person(camera) JOIN person_company(rol) JOIN company(is_soe=TRUE)",
         })
     return alerte
 
@@ -190,7 +190,7 @@ def regula3_soe_pierdere_contracte(con, cui_fin: dict) -> list:
                 "contracte_nr": nr,
                 "tutela": tutela or None,
             },
-            "provenance": "romega.duckdb company(is_soe,contracte_ron) + financials.profit_net din persoane_gold.json",
+            "provenance": "solomonar.duckdb company(is_soe,contracte_ron) + financials.profit_net din persoane_gold.json",
         })
     return alerte
 
@@ -221,7 +221,7 @@ def regula4_outlier_contracte(con) -> list:
                 "tutela": tutela or None,
                 "nota": "Valoare medie mare pe contract poate indica acord-cadru, valoare cumulată multianuală sau un singur contract major — de verificat în SICAP.",
             },
-            "provenance": "romega.duckdb company(contracte_ron/contracte_nr)",
+            "provenance": "solomonar.duckdb company(contracte_ron/contracte_nr)",
         })
     return alerte
 
@@ -260,7 +260,7 @@ def regula5_concentrare_persoana(con) -> list:
                 "n_companii": n,
                 "firme": [{"cui": c[0], "nume": c[1], "rol": c[2]} for c in firme],
             },
-            "provenance": "romega.duckdb person_company GROUP BY romega_id HAVING count>3",
+            "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
         })
     return alerte
 
@@ -290,7 +290,7 @@ def regula6_partid_subventie_fara_parlamentari(con) -> list:
                 "nr_rvc": nrvc,
                 "nota": "Subvenția poate fi istorică/cumulată; 0 deputați+senatori în mandatul curent. De corelat cu legislatura.",
             },
-            "provenance": "romega.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
+            "provenance": "solomonar.duckdb party(subventie_lei, nr_deputati, nr_senatori)",
         })
     return alerte
 

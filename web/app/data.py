@@ -1,6 +1,6 @@
-"""Data-layer ROMEGA pentru clientul Streamlit — citește JSON-urile statice din data/v1 (cache).
+"""Data-layer SOLOMONAR pentru clientul Streamlit — citește JSON-urile statice din data/v1 (cache).
 
-Sursa = data/v1 local (sau ROMEGA_DATA = director / URL bază GitHub Pages). Funcțiile întorc
+Sursa = data/v1 local (sau SOLOMONAR_DATA = director / URL bază GitHub Pages). Funcțiile întorc
 DataFrame-uri/dict-uri memoizate (@st.cache_data). Contractul stabil folosit de toate paginile.
 """
 
@@ -14,7 +14,7 @@ import pandas as pd
 import streamlit as st
 
 _HERE = os.path.dirname(os.path.abspath(__file__))
-DATA = os.environ.get("ROMEGA_DATA") or os.path.normpath(os.path.join(_HERE, "..", "..", "data", "v1"))
+DATA = os.environ.get("SOLOMONAR_DATA") or os.path.normpath(os.path.join(_HERE, "..", "..", "data", "v1"))
 LIVE = DATA.startswith("http")
 
 

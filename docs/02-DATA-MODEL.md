@@ -134,7 +134,7 @@ Ministerul X), „Ion Popescu" (membru CA Hidroelectrica) — **aceeași persoan
 (redactat), dezambiguizăm pe **nume normalizat + dată naștere + context**.
 
 ### Pași
-1. **Normalizare** (`romega_core.resolve.normalize`)
+1. **Normalizare** (`solomonar_core.resolve.normalize`)
    - elimină diacritice, lowercase, colapsează spații;
    - detectează ordinea NUME/Prenume (heuristici + dicționar de prenume RO);
    - scoate titluri (dr., ing., prof., av.);

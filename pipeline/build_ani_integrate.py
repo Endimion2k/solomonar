@@ -17,8 +17,8 @@ from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
-from romega_core.names import name_key  # noqa: E402
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
+from solomonar_core.names import name_key  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 

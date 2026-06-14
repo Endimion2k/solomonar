@@ -1,10 +1,10 @@
-"""Server MCP ROMEGA — expune datele de transparență pentru interogare conversațională.
+"""Server MCP SOLOMONAR — expune datele de transparență pentru interogare conversațională.
 
 Orice agent MCP (Claude Desktop / Cursor / Continue) poate întreba natural despre persoane, companii
 de stat, follow-the-money, contracte, partide, DNA, comisii. Citește JSON-urile statice din data/v1.
 
-Rulare:  romega-mcp   (sau: python -m romega_mcp.server)
-Config Claude Desktop:  {"mcpServers": {"romega": {"command": "romega-mcp"}}}
+Rulare:  solomonar-mcp   (sau: python -m solomonar_mcp.server)
+Config Claude Desktop:  {"mcpServers": {"solomonar": {"command": "solomonar-mcp"}}}
 """
 
 from __future__ import annotations
@@ -17,11 +17,11 @@ from functools import lru_cache
 
 from mcp.server.fastmcp import FastMCP
 
-DATA = os.environ.get("ROMEGA_DATA") or os.path.normpath(
+DATA = os.environ.get("SOLOMONAR_DATA") or os.path.normpath(
     os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", "data", "v1"))
 
-mcp = FastMCP("romega", instructions=(
-    "ROMEGA — transparența aparatului de stat român. Date publice agregate: declarații de avere/interese, "
+mcp = FastMCP("solomonar", instructions=(
+    "SOLOMONAR — transparența aparatului de stat român. Date publice agregate: declarații de avere/interese, "
     "companii de stat (bilanț, acționariat, reprezentanți), achiziții publice, follow-the-money, partide "
     "(subvenții), bugete, DNA, comisii parlamentare. IMPORTANT: legăturile persoană↔firmă sunt pe NUME "
     "(fără CNP) → 'candidat' poate fi omonim; doar 'confirmat'/auto-declarat e defensabil. Comunicatele DNA "
@@ -41,7 +41,7 @@ def _norm(s: str) -> str:
 # ---------------- TOOLS ----------------
 @mcp.tool()
 def stats() -> dict:
-    """Sumarul global ROMEGA: câte declarații, persoane, companii, contracte, CV, partide, bugete, DNA."""
+    """Sumarul global SOLOMONAR: câte declarații, persoane, companii, contracte, CV, partide, bugete, DNA."""
     return _load("stats.json")
 
 

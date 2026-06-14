@@ -10,7 +10,7 @@ from connectors.achizitii.sicap import (
     total_by_supplier,
 )
 from pipeline.gold.graph import GraphStore
-from romega_core.models import Company, EdgeType, make_id
+from solomonar_core.models import Company, EdgeType, make_id
 
 CSV = (
     "autoritate_contractanta,cui_castigator,valoare_ron,obiect_contract,data_atribuire,cod_cpv\n"

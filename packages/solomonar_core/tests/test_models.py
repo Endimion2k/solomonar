@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import datetime
 
-from romega_core.models import (
+from solomonar_core.models import (
     Company,
     CompanyStatus,
     Edge,
@@ -15,7 +15,7 @@ from romega_core.models import (
     Tier,
     make_id,
 )
-from romega_core.provenance import SourceRef
+from solomonar_core.provenance import SourceRef
 
 
 def _src() -> SourceRef:

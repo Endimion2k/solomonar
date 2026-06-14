@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from datetime import date
 
-from romega_core.dates import RE_BIRTH, parse_ro_date
+from solomonar_core.dates import RE_BIRTH, parse_ro_date
 
 
 def test_parse_ro_date_variants():

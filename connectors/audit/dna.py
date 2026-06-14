@@ -10,7 +10,7 @@ from __future__ import annotations
 import re
 from urllib.parse import urljoin
 
-from romega_core.http import Client
+from solomonar_core.http import Client
 
 BASE = "https://www.dna.ro"
 LIST_URL = BASE + "/comunicate.xhtml"
@@ -40,7 +40,7 @@ class DnaConnector:
         self.client = client or Client()
 
     def fetch_comunicate(self) -> list[dict]:  # pragma: no cover - live/SSL
-        from romega_core.parse import selector
+        from solomonar_core.parse import selector
 
         content, _ = self.client.fetch(LIST_URL, self.source_id, ext=".html")
         hrefs = selector(content).css("a::attr(href)").getall()

@@ -1,4 +1,4 @@
-# 00 — MASTERPLAN ROMEGA
+# 00 — MASTERPLAN SOLOMONAR
 
 > Planul de implementare pas-cu-pas, organizat pe **faze** (valuri). Fiecare fază are:
 > scop, livrabile, pași atomici, criterii „done" și surse (din `03-SOURCES.md`).
@@ -52,7 +52,7 @@ a lega membrii CA de declarațiile lor).
 instituții — doar infrastructura + portarea `cdep`.
 
 ### Livrabile
-- `packages/romega_core` — bibliotecă comună.
+- `packages/solomonar_core` — bibliotecă comună.
 - `pipeline/` — build bronze→silver→gold pe DuckDB + registre SQLite.
 - Entity resolution v0 (normalizare nume + tabel de aliasuri + `romega_id` stabil).
 - Framework de connector (3 arhetipuri: `api`, `bulk`, `scrape`/`headless`).
@@ -62,10 +62,10 @@ instituții — doar infrastructura + portarea `cdep`.
   output identic cu `cdep-api-poc`.
 
 ### Pași atomici
-1. **`romega_core/http`** — extrage clientul `requests`+`truststore` cu adaptor SSL legacy din `cdep-api-poc`. Adaugă: retry/backoff, cache pe disc (bronze), user-agent + rate-limit per host.
-2. **`romega_core/parse`** — helpers parsel (CSS/XPath), conversie encoding (ISO-8859-2), extractor PDF (text + fallback OCR hook).
-3. **`romega_core/models`** — modele Pydantic v2 canonice (vezi `02-DATA-MODEL.md`): `Person`, `Organization`, `Company`, `Position`, `Declaration`, `OwnershipStake`, `Contract`, `Document`, `SourceRef`.
-4. **`romega_core/io`** — exporter JSON versionat + generator Pagefind + feed Atom/JSON (portate din `cdep`).
+1. **`solomonar_core/http`** — extrage clientul `requests`+`truststore` cu adaptor SSL legacy din `cdep-api-poc`. Adaugă: retry/backoff, cache pe disc (bronze), user-agent + rate-limit per host.
+2. **`solomonar_core/parse`** — helpers parsel (CSS/XPath), conversie encoding (ISO-8859-2), extractor PDF (text + fallback OCR hook).
+3. **`solomonar_core/models`** — modele Pydantic v2 canonice (vezi `02-DATA-MODEL.md`): `Person`, `Organization`, `Company`, `Position`, `Declaration`, `OwnershipStake`, `Contract`, `Document`, `SourceRef`.
+4. **`solomonar_core/io`** — exporter JSON versionat + generator Pagefind + feed Atom/JSON (portate din `cdep`).
 5. **`pipeline/bronze`** — registru de artefacte brute: `{source_id, url, fetched_at, sha256, path}`.
 6. **`pipeline/silver`** — încarcă brut → modele → tabele staging DuckDB, cu coloane de provenance pe fiecare rând.
 7. **`pipeline/gold/resolve`** — entity resolution v0: normalizare (diacritice, ordine nume, titluri), blocking, tabel `person_alias`, atribuire `romega_id` (SQLite, commit-abil).
@@ -122,7 +122,7 @@ resolution capătă putere reală — ANI leagă persoane din tot statul.
 ### Pași atomici
 1. `connectors/ani/portal` — driver headless (Playwright) pe SPA-ul de căutare: enumerare după instituție/an → index de declarații + URL-uri PDF.
 2. `.../archive` — arhiva 2008–2022 (`old-declaratii` / `depozitar`).
-3. `romega_core/pdf` — extractor: ramură text (2022+) + ramură OCR (Tesseract RO, pre-2022).
+3. `solomonar_core/pdf` — extractor: ramură text (2022+) + ramură OCR (Tesseract RO, pre-2022).
 4. `.../parse` — parser pe template-ul legal standardizat: secțiuni imobile, vehicule, active financiare, datorii, venituri, cadouri (avere) + acțiuni, funcții CA, contracte (interese).
 5. **Link la Person** — fiecare declarație → `romega_id` (ANI dă funcția+instituția → context puternic pentru rezoluție).
 6. **Delta de avere** — diferențe an-la-an per persoană (conceptul există deja în `cdep-api-poc declaratii-avere`).

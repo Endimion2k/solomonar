@@ -1,7 +1,7 @@
 # DEPLOY — publicare API static + runner
 
 ## GitHub Pages (API static + client)
-ROMEGA servește `data/v1/*.json` și `web/` ca site static (filozofia cdep-api-poc).
+SOLOMONAR servește `data/v1/*.json` și `web/` ca site static (filozofia cdep-api-poc).
 
 1. **Repo public sau GitHub Pro** — Pages pe repo privat necesită plan plătit. Pentru un
    proiect de transparență, recomandarea e **public** (datele sunt publice oricum).

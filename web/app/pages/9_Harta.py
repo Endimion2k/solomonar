@@ -1,4 +1,4 @@
-"""ROMEGA — Harta companiilor de stat pe județe (distribuție geografică)."""
+"""SOLOMONAR — Harta companiilor de stat pe județe (distribuție geografică)."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Harta · ROMEGA", page_icon="🗺️", layout="wide")
+st.set_page_config(page_title="Harta · SOLOMONAR", page_icon="🗺️", layout="wide")
 apply_theme()
 sidebar_brand()
 

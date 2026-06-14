@@ -6,7 +6,7 @@ noduri `Organization` în graf, 100% din config (zero cod per instituție). Plus
 - find_declaration_links: detectează linkuri PDF de declarații (pattern comun pe site-urile .gov.ro)
 
 `build_organizations` primește lista APLATIZATĂ (pipeline.config.iter_sources), deci acest
-modul NU depinde de pipeline — doar de romega_core.
+modul NU depinde de pipeline — doar de solomonar_core.
 
 NOTĂ: rezoluția autorității tutelare a SOE (nume → org id slug) e un pas ulterior — momentan
 CONTROLS folosește make_id pe NUMELE autorității, distinct de org-ul cu id-slug.
@@ -17,10 +17,10 @@ from __future__ import annotations
 import re
 from urllib.parse import urljoin, urlparse
 
-from romega_core.models import Edge, EdgeType, Organization, OrgType, Tier, make_id
-from romega_core.names import name_key
-from romega_core.parse import selector
-from romega_core.provenance import SourceRef
+from solomonar_core.models import Edge, EdgeType, Organization, OrgType, Tier, make_id
+from solomonar_core.names import name_key
+from solomonar_core.parse import selector
+from solomonar_core.provenance import SourceRef
 
 CATEGORY_TYPE = {
     "government": OrgType.GOVERNMENT,

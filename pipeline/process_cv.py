@@ -19,9 +19,9 @@ from urllib.parse import unquote
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
-from romega_core.parse import selector  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
+from solomonar_core.parse import selector  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))

@@ -48,3 +48,8 @@ data/v1/companii/_cv_*
 # Output sensibil - DOAR local (decizie user 2026-06-10: cross-ref DNA nepublicat)
 _local/
 data/v1/declaratii/_*
+
+pipeline/err.txt
+pipeline/*.js
+pipeline/_[!_]*
+/pipeline/_achizitii_map.json

@@ -17,8 +17,8 @@ sys.path.insert(0, ROOT)
 from connectors.ani.declaratii import extract_pdf_text, parse_avere_text  # noqa: E402
 from connectors.ani.redaction import find_pii  # noqa: E402
 from connectors.institutie.generic import crawl_declaration_pdfs  # noqa: E402
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 

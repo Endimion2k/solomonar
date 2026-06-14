@@ -34,7 +34,7 @@ import sys
 from collections import defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
 sys.path.insert(0, ROOT)
 sys.path.insert(0, os.path.join(ROOT, "pipeline"))
 from build_gold import _distinct_tokens, UF  # noqa: E402  (reuse aceeași normalizare ca gold)

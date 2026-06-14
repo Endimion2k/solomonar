@@ -1,6 +1,6 @@
 # 04 — LEGAL & GDPR
 
-> ROMEGA agregă **date publice** despre **oficiali în calitatea lor oficială** și despre
+> SOLOMONAR agregă **date publice** despre **oficiali în calitatea lor oficială** și despre
 > **entități juridice**. Acest document fixează baza legală, redactările obligatorii și
 > regulile de conformare per sursă. Nu e consultanță juridică — e politica de proiect.
 
@@ -21,7 +21,7 @@
 ## 2. Redactări OBLIGATORII (rămân redactate)
 
 Legea 176/2010 **art. 6** impune anonimizarea la sursă a anumitor câmpuri din declarații.
-ROMEGA **nu** le publică și **nu** le reconstruiește:
+SOLOMONAR **nu** le publică și **nu** le reconstruiește:
 
 - ❌ **CNP** (cod numeric personal)
 - ❌ **adresa completă** a imobilelor (păstrăm doar localitatea/județul)

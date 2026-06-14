@@ -1,0 +1,7 @@
+{
+  "nota": "Persoane/firme din graful ROMEGA care apar în OpenSanctions (sancțiuni internaționale SAU Politically Exposed Persons), filtrate la entități cu legătură RO. Match pe nume (fără CNP) → posibil omonim; PEP pt. demnitari e așteptat (sunt expuși prin definiție). Verifică listele sursă pentru cazurile de SANCȚIUNE.",
+  "total": 0,
+  "sanctiuni": 0,
+  "pep": 0,
+  "matches": []
+}

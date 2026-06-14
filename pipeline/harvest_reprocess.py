@@ -27,15 +27,15 @@ from connectors.ani.declaratii import (  # noqa: E402
     parse_avere_ocr, parse_avere_text, parse_interese_text,
 )
 from connectors.ani.redaction import find_pii  # noqa: E402
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
-# ROMEGA_SRC selectează sursa (deconcentrate=implicit, sau ministere/anpm/parlament...) →
+# SOLOMONAR_SRC selectează sursa (deconcentrate=implicit, sau ministere/anpm/parlament...) →
 # refolosim ACELAȘI pipeline (uncapped + OCR + avere&interese) pe orice listă de PDF-uri.
-SRC = os.environ.get("ROMEGA_SRC", "")
+SRC = os.environ.get("SOLOMONAR_SRC", "")
 if SRC:
-    CKPT = os.environ.get("ROMEGA_CKPT", os.path.join(V, f"declaratii/_{SRC}_pdfs.json"))
+    CKPT = os.environ.get("SOLOMONAR_CKPT", os.path.join(V, f"declaratii/_{SRC}_pdfs.json"))
     JSONL = os.path.join(V, f"declaratii/_{SRC}_reproc.jsonl")
     OUT_AV = os.path.join(V, f"declaratii/avere_{SRC}.json")
     OUT_IT = os.path.join(V, f"declaratii/interese_{SRC}.json")
@@ -44,7 +44,7 @@ else:  # implicit = deconcentrate (păstrează căile rulării curente pentru re
     JSONL = os.path.join(V, "declaratii/_reproc.jsonl")
     OUT_AV = os.path.join(V, "declaratii/avere_deconcentrate.json")
     OUT_IT = os.path.join(V, "declaratii/interese_deconcentrate.json")
-BATCH = int(os.environ.get("ROMEGA_BATCH", "400"))
+BATCH = int(os.environ.get("SOLOMONAR_BATCH", "400"))
 
 
 def _detect_workers() -> int:
@@ -52,7 +52,7 @@ def _detect_workers() -> int:
     Fără GPU → ~1 proces/core (OCR e 1-thread/proces, vezi _ocr_engine)."""
     try:
         import nvidia  # noqa: F401
-        return int(os.environ.get("ROMEGA_OCR_WORKERS", "4"))
+        return int(os.environ.get("SOLOMONAR_OCR_WORKERS", "4"))
     except Exception:
         return max(2, min(14, (os.cpu_count() or 4) - 2))
 
@@ -136,7 +136,7 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
     workers = workers or WORKERS
     bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))
     dl_client = Client(bronze=bronze, throttle_seconds=0.2,
-                       timeout=int(os.environ.get("ROMEGA_DL_TIMEOUT", "12")))
+                       timeout=int(os.environ.get("SOLOMONAR_DL_TIMEOUT", "12")))
     pdf_to_inst = json.load(open(CKPT, encoding="utf-8"))
     done = _load_done()
     remaining = [u for u in pdf_to_inst if u not in done]
@@ -150,7 +150,7 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
     t0 = time.time()
     proc_this_run = 0
     timeouts = 0
-    batch_timeout = int(os.environ.get("ROMEGA_BATCH_TIMEOUT", "1800"))  # un PDF agățat > atât → skip
+    batch_timeout = int(os.environ.get("SOLOMONAR_BATCH_TIMEOUT", "1800"))  # un PDF agățat > atât → skip
     pool = ProcessPoolExecutor(max_workers=workers)
     with open(JSONL, "a", encoding="utf-8") as jf:
         for bi, batch in enumerate(_chunks(remaining, BATCH), 1):

@@ -12,8 +12,8 @@ from __future__ import annotations
 import csv
 import io
 
-from romega_core.models import Company
-from romega_core.provenance import SourceRef
+from solomonar_core.models import Company
+from solomonar_core.provenance import SourceRef
 
 
 def _to_int(s: str | None) -> int | None:

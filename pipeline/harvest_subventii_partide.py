@@ -1,4 +1,4 @@
-"""Harvest subvenții de stat per partid politic → ROMEGA.
+"""Harvest subvenții de stat per partid politic → SOLOMONAR.
 
 Sursa: EFOR / banipartide.ro/subventii — un raport public Google Looker Studio
 (report id b0177427-ae62-4d70-8c27-0215005733b4). Pagina banipartide.ro doar

@@ -1,4 +1,4 @@
-"""ROMEGA — Analytics: vitrina view-urilor analitice din stratul gold (DuckDB)."""
+"""SOLOMONAR — Analytics: vitrina view-urilor analitice din stratul gold (DuckDB)."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, WARNING, TEXT_DIM, CONF_COLORS,
                        apply_theme, fmt_int, fmt_lei, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Analytics · ROMEGA", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Analytics · SOLOMONAR", page_icon="📊", layout="wide")
 apply_theme()
 sidebar_brand()
 

@@ -1,4 +1,4 @@
-"""romega_core — biblioteca partajată ROMEGA.
+"""solomonar_core — biblioteca partajată SOLOMONAR.
 
 Extrasă și generalizată din cdep-api-poc. Module:
 - names      — normalizare nume RO (diacritice, ordine, titluri) + similaritate
@@ -9,7 +9,7 @@ Extrasă și generalizată din cdep-api-poc. Module:
 
 from __future__ import annotations
 
-from romega_core.names import (
+from solomonar_core.names import (
     canonical_name,
     fix_ro_diacritics,
     name_key,
@@ -17,8 +17,8 @@ from romega_core.names import (
     split_name,
     strip_diacritics,
 )
-from romega_core.provenance import Meta, SourceRef
-from romega_core.resolve import MatchResult, MatchStatus, PersonRegistry
+from solomonar_core.provenance import Meta, SourceRef
+from solomonar_core.resolve import MatchResult, MatchStatus, PersonRegistry
 
 __all__ = [
     "strip_diacritics",

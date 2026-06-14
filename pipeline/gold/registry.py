@@ -1,6 +1,6 @@
 """SqlitePersonRegistry — entity resolution persistent.
 
-Înfășoară romega_core.resolve.PersonRegistry și persistă starea în SQLite, astfel încât
+Înfășoară solomonar_core.resolve.PersonRegistry și persistă starea în SQLite, astfel încât
 `romega_id`-urile rămân STABILE între rulări (un URL public de persoană nu se schimbă).
 Fișierul SQLite se comite în repo (vezi .gitignore — excepție registry.sqlite).
 """
@@ -11,7 +11,7 @@ import sqlite3
 from datetime import date
 from pathlib import Path
 
-from romega_core.resolve import MatchResult, PersonRegistry
+from solomonar_core.resolve import MatchResult, PersonRegistry
 
 _SCHEMA = """
 CREATE TABLE IF NOT EXISTS person (

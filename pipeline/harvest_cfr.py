@@ -6,7 +6,7 @@ data-json="..."> cu folder ID-ul; datele vin prin POST la /wp-json/filebird/v1/g
 
 Pas 1 (acest script): BFS pe paginile declarații → extrage folder ID-uri → POST endpoint →
 toate URL-urile PDF → scrie _cfr_pdfs.json {url: instituție}.
-Pas 2: `ROMEGA_SRC=cfr python -m pipeline.harvest_reprocess text/ocr` → download+parse+OCR+nume.
+Pas 2: `SOLOMONAR_SRC=cfr python -m pipeline.harvest_reprocess text/ocr` → download+parse+OCR+nume.
 """
 
 from __future__ import annotations
@@ -22,7 +22,7 @@ import requests
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-from romega_core.parse import selector  # noqa: E402
+from solomonar_core.parse import selector  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1/declaratii")
 EP = "https://cfr.ro/wp-json/filebird/v1/get-attachments"
@@ -122,7 +122,7 @@ def main() -> dict:
     json.dump(pdf_to_inst, open(os.path.join(V, "_cfr_pdfs.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print(f"\nPUBLICAT _cfr_pdfs.json: {len(pdf_to_inst)} PDF-uri (DA~{n_da} DI~{n_di})", flush=True)
-    print("Pas 2: ROMEGA_SRC=cfr python -m pipeline.harvest_reprocess text 8", flush=True)
+    print("Pas 2: SOLOMONAR_SRC=cfr python -m pipeline.harvest_reprocess text 8", flush=True)
     return {"pdfs": len(pdf_to_inst), "folders": len(all_folders)}
 
 

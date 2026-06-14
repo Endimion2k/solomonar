@@ -33,16 +33,16 @@
       "salariati": 3463
     },
     {
-      "judet": "Dolj",
-      "n_companii": 49,
-      "cifra_afaceri": 641040493.0,
-      "salariati": 4181
-    },
-    {
       "judet": "Prahova",
       "n_companii": 49,
       "cifra_afaceri": 1369783722.0,
       "salariati": 4673
+    },
+    {
+      "judet": "Dolj",
+      "n_companii": 49,
+      "cifra_afaceri": 641040493.0,
+      "salariati": 4181
     },
     {
       "judet": "Ilfov",
@@ -81,12 +81,6 @@
       "salariati": 2454
     },
     {
-      "judet": "Gorj",
-      "n_companii": 32,
-      "cifra_afaceri": 312418527.0,
-      "salariati": 3549
-    },
-    {
       "judet": "Cluj",
       "n_companii": 32,
       "cifra_afaceri": 1236271666.0,
@@ -97,6 +91,12 @@
       "n_companii": 32,
       "cifra_afaceri": 393827013.0,
       "salariati": 2250
+    },
+    {
+      "judet": "Gorj",
+      "n_companii": 32,
+      "cifra_afaceri": 312418527.0,
+      "salariati": 3549
     },
     {
       "judet": "Giurgiu",
@@ -135,16 +135,16 @@
       "salariati": 790
     },
     {
-      "judet": "Vâlcea",
-      "n_companii": 22,
-      "cifra_afaceri": 229765096.0,
-      "salariati": 1688
-    },
-    {
       "judet": "Satu Mare",
       "n_companii": 22,
       "cifra_afaceri": 169324835.0,
       "salariati": 798
+    },
+    {
+      "judet": "Vâlcea",
+      "n_companii": 22,
+      "cifra_afaceri": 229765096.0,
+      "salariati": 1688
     },
     {
       "judet": "Dâmbovița",
@@ -171,22 +171,16 @@
       "salariati": 484
     },
     {
-      "judet": "Mureș",
-      "n_companii": 17,
-      "cifra_afaceri": 288505744.0,
-      "salariati": 1482
-    },
-    {
       "judet": "Maramureș",
       "n_companii": 17,
       "cifra_afaceri": 232451913.0,
       "salariati": 1297
     },
     {
-      "judet": "Bistrița-Năsăud",
-      "n_companii": 16,
-      "cifra_afaceri": 181043876.0,
-      "salariati": 941
+      "judet": "Mureș",
+      "n_companii": 17,
+      "cifra_afaceri": 288505744.0,
+      "salariati": 1482
     },
     {
       "judet": "Vrancea",
@@ -195,10 +189,10 @@
       "salariati": 1270
     },
     {
-      "judet": "Galați",
-      "n_companii": 15,
-      "cifra_afaceri": 572480067.0,
-      "salariati": 3366
+      "judet": "Bistrița-Năsăud",
+      "n_companii": 16,
+      "cifra_afaceri": 181043876.0,
+      "salariati": 941
     },
     {
       "judet": "Călărași",
@@ -207,10 +201,16 @@
       "salariati": 734
     },
     {
-      "judet": "Bacău",
+      "judet": "Galați",
+      "n_companii": 15,
+      "cifra_afaceri": 572480067.0,
+      "salariati": 3366
+    },
+    {
+      "judet": "Alba",
       "n_companii": 14,
-      "cifra_afaceri": 328243293.0,
-      "salariati": 1652
+      "cifra_afaceri": 841463145.0,
+      "salariati": 3448
     },
     {
       "judet": "Neamț",
@@ -219,10 +219,10 @@
       "salariati": 1043
     },
     {
-      "judet": "Alba",
+      "judet": "Bacău",
       "n_companii": 14,
-      "cifra_afaceri": 841463145.0,
-      "salariati": 3448
+      "cifra_afaceri": 328243293.0,
+      "salariati": 1652
     },
     {
       "judet": "Vaslui",

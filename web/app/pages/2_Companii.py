@@ -1,4 +1,4 @@
-"""ROMEGA — Companii de stat. Explorare a celor 1.256 companii cu capital de stat:
+"""SOLOMONAR — Companii de stat. Explorare a celor 1.256 companii cu capital de stat:
 filtre pe sector / minister tutelar / județ / BVB / contracte, tabel financiar,
 top contracte și fișă detaliată per companie."""
 
@@ -12,7 +12,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, apply_theme, fmt_int,
                        fmt_lei, fmt_pct, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Companii · ROMEGA", page_icon="🏢", layout="wide")
+st.set_page_config(page_title="Companii · SOLOMONAR", page_icon="🏢", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Companii de stat",

@@ -1,4 +1,4 @@
-# STATE.md — ROMEGA
+# STATE.md — SOLOMONAR
 
 > Memorie de proiect: decizii, blocaje, tensiuni, poziția curentă.
 > Actualizează ÎNAINTE de orice `/compact` sau la final de sesiune.
@@ -9,10 +9,10 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 
 ## Poziția curentă
 
-> **🟢 RUNDA 2026-06-11e (commit 153) — CLIENT STREAMLIT (ROMEGA Insights):** `web/app/` — dashboard
+> **🟢 RUNDA 2026-06-11e (commit 153) — CLIENT STREAMLIT (SOLOMONAR Insights):** `web/app/` — dashboard
 > 11 pagini adaptat din cdep-client: Overview/Persoane(56k+fișă)/Companii/Achiziții/Follow-the-money/
 > Partide/Bugete/DNA/Comisii/Hartă/Analytics(DuckDB). data.py = data-layer cache pe data/v1 (sau
-> ROMEGA_DATA=URL live). Rulare: `streamlit run web/app/Overview.py`. Smoke test HTTP 200.
+> SOLOMONAR_DATA=URL live). Rulare: `streamlit run web/app/Overview.py`. Smoke test HTTP 200.
 >
 > **🟢 RUNDA 2026-06-11d (commit 151) — LEGISLATIV:** **PLx↔inițiatori** (`harvest_plx_initiatori`): 1.852 PLx
 > → inițiatorii (idm) + flag guvern. 1.234 cu inițiatori parlamentari, **709 inițiate de Guvern**. Integrat în
@@ -51,7 +51,7 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > `graf/follow_the_money.json` separă clar CONFIRMATE vs leaduri_neverificate (NU acuzații). Gold v2 institution-aware
 > (omonimi separați pe organizație). RĂMAS: verificare interese pe toți + dată naștere ONRC + promovare DuckDB.
 >
-> **✅ STRAT GOLD (2026-06-10) — rezoluție canonică:** `pipeline/build_gold.py` pe `romega_core.resolve`
+> **✅ STRAT GOLD (2026-06-10) — rezoluție canonică:** `pipeline/build_gold.py` pe `solomonar_core.resolve`
 > → 21.058 persoane canonice cu **romega_id stabil** în `data/gold/registry.sqlite`. Parlamentarii
 > rezolvați cu data nașterii (332 high-conf) ancorează registrul. Cross-links **stratificate pe încredere**:
 > 45 HIGH fiabile vs candidați med/low. Omonimii fără CNP flag-uiți LOW (nu ascunși). `persoane_gold.json`
@@ -124,8 +124,8 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > Fix-uri: skip rânduri prost-aliniate, calamine pt. XLSX cu dimensiuni greșite, VALOARE_RON, cap 2M. Integrat în gold:
 > **11.348 persoane** cu firme cu achiziții directe (al 2-lea canal, lângă contractele SICAP — Păval/Dedeman 283M etc.).
 >
-> **🟢 RUNDA 2026-06-12 (commit 156) — TOOLING din cercetare GitHub:** **MCP server** (`romega-mcp-core`,
-> FastMCP/DuckDB read-only, 10 tool-uri cu provenance+etică — Claude interoghează ROMEGA conversațional) ·
+> **🟢 RUNDA 2026-06-12 (commit 156) — TOOLING din cercetare GitHub:** **MCP server** (`solomonar-mcp-core`,
+> FastMCP/DuckDB read-only, 10 tool-uri cu provenance+etică — Claude interoghează SOLOMONAR conversațional) ·
 > **export FollowTheMoney** (10.024 entități NDJSON, interoperabil Aleph/OCCRP) · **graf sigma.js**
 > (`web/graf.html`, layout precalculat 2.996 noduri) · **alerte** (34 semnale deterministe, 6 tipuri).
 >
@@ -225,9 +225,9 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 ---
 
 **Faza 0 — Fundație: COMPLETĂ (cod) — 44/44 teste verzi.** `cdep-api-poc` clonat sparse la
-`../cdep-api-poc` ca referință. venv la `.venv`, `romega-core` instalat editable.
+`../cdep-api-poc` ca referință. venv la `.venv`, `solomonar-core` instalat editable.
 
-`romega_core` (bibliotecă):
+`solomonar_core` (bibliotecă):
 - ✅ `names.py` — normalizare nume RO (cedilă vs virgulă-jos, ordine NUME/Prenume, titluri) + Jaro-Winkler
 - ✅ `provenance.py` — `SourceRef` + `Meta`
 - ✅ `models.py` — entități canonice + enums + `make_id`
@@ -254,7 +254,7 @@ CI: ✅ `.github/workflows/source.yml` (generic) + `schedule.yml` (cron daily/we
 - [~] CI end-to-end — workflows + CLI gata; **necesită înregistrarea runner-ului self-hosted RO**
 
 **Faza 1 — Senat: COMPLETĂ (cod) — 50/50 teste.**
-- ✅ `romega_core/dates.py` — parsare date RO factorizată (partajat cdep + senat)
+- ✅ `solomonar_core/dates.py` — parsare date RO factorizată (partajat cdep + senat)
 - ✅ `connectors/parlament/senat.py` — listă + profil (GUID), `to_person` cu crosswalk `senat`
 - ✅ **Unificare bicamerală testată**: aceeași persoană deputat(cdep)+senator(senat) → un singur `romega_id` cu ambele ID-uri externe
 - ✅ `senat` înregistrat în CLI; fixture-uri sintetice (selectorii live de validat pe runner)
@@ -342,7 +342,7 @@ De făcut:
   - cdep e bicameral-dominant + multe PLx partajate au deja avizele Senatului în documentele indexate.
 - ⬜ Model canonic în graf: `Committee`/`CommitteeSession`/`LegislativeProject`/`LegislativeDocument`
   + muchii comisie→ședință→PLx→documente (acum sunt JSON-index; de promovat în DuckDB/graf)
-- ⬜ Leagă PLx ↔ inițiatori (deputați/senatori din ROMEGA) → graf „cine a inițiat / avizat ce"
+- ⬜ Leagă PLx ↔ inițiatori (deputați/senatori din SOLOMONAR) → graf „cine a inițiat / avizat ce"
 - ⬜ Opțional: parsare conținut documente (expunere de motive etc.) + reducere „alt" (7.178 neclasif.)
 
 **Mediu de validare:** ești în RO → scraping/API live funcționează de pe mașina ta (cdep.ro, ANAF, data.gov.ro confirmate). Runner self-hosted = pentru rulări programate/volum.
@@ -354,7 +354,7 @@ De făcut:
 | D1 | **Arhitectură hibridă** (JSON static public + DuckDB/SQLite la build) | Păstrează costul zero și provenance-ul imuabil din `cdep-api-poc`, dar adaugă putere relațională/graf pentru entity resolution și acționariat. DB doar la build (în CI), nu server de operat. |
 | D2 | **Ordinea valurilor:** Senat → ANI (declarații) → Companii de stat + acționariat → SICAP → restul | Senat = quick win (refolosește scraperele de tip parlament). ANI = valoare civică maximă (sursă centrală pentru toți demnitarii). Companii+acționariat = follow-the-money. SICAP = contractele. |
 | D3 | **DuckDB la build, SQLite pentru registre canonice** | DuckDB: embedded, citește CSV/Parquet direct, CTE recursive pentru graf, rulează în CI. SQLite: stabil, commit-abil, ține `romega_id`-urile și aliasurile între rulări. |
-| D4 | **Monorepo `romega`** la `C:\Users\Maia\Downloads\python\altele\romega` | Proiect umbrelă care înglobează cdep + restul; `sources.yaml` ca single source of truth. |
+| D4 | **Monorepo `solomonar`** la `C:\Users\Maia\Downloads\python\altele\romega` | Proiect umbrelă care înglobează cdep + restul; `sources.yaml` ca single source of truth. |
 | D5 | **`sources.yaml` = single source of truth** pentru connectors | Lista de surse (deliverable) și config-ul de execuție sunt același fișier — nu diverg. |
 | D6 | **Redactările legale rămân redactate** (CNP, adrese, semnături) | Legea 176/2010 art. 6 + GDPR. Publicăm doar ce e deja public și anonimizat la sursă. |
 
@@ -374,7 +374,7 @@ De făcut:
 0. **Faza 7 — Activitatea comisiilor (PRIORITAR, cerut 2026-06-06)** — vezi secțiunea dedicată:
    connector `parlament/comisii`, crawl 2024→prezent (comisii → ședințe → ordini de zi PDF → PLx
    → documente), deputați apoi senat. Rulează după ce se eliberează GPU/CPU (OCR + ministere în curs).
-1. **Faza 0 continuare:** `romega_core/http.py` — port `_http.py` din cdep + rate-limit
+1. **Faza 0 continuare:** `solomonar_core/http.py` — port `_http.py` din cdep + rate-limit
    per-host + `BronzeStore` (cache content-addressed) + teste offline (throttle/cache).
 2. **Faza 0:** `pipeline/` pe DuckDB (bronze→silver→gold) + `io.py` (export JSON/Pagefind/feeds).
 3. **Faza 0:** portează `connectors/parlament/cdep` pe noul core → test de regresie (diff gol vs cdep-api-poc).

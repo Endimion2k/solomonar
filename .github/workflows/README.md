@@ -11,5 +11,5 @@ cdep.ro/senat.ro geo-blochează IP-urile de cloud → CI rulează pe runner self
   - săptămânal: declarații ANI, board-uri SOE;
   - lunar: dump-uri ONRC/MF, XLSX SICAP, bugete.
 
-Pași tipici: checkout → setup Python → `pip install -e .` → `python -m romega run --source $SOURCE`
+Pași tipici: checkout → setup Python → `pip install -e .` → `python -m solomonar run --source $SOURCE`
 → commit `data/v1/` + `registry.sqlite`.

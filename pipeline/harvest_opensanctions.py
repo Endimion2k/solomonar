@@ -1,4 +1,4 @@
-"""Cross-ref ROMEGA ↔ OpenSanctions — persoane/firme din graf care sunt SANCȚIONATE sau PEP.
+"""Cross-ref SOLOMONAR ↔ OpenSanctions — persoane/firme din graf care sunt SANCȚIONATE sau PEP.
 
 OpenSanctions publică date FtM gratis (data.opensanctions.org). Streamuim datasetul (sanctions /
 peps), păstrăm DOAR entitățile cu legătură RO (country/nationality/jurisdiction = ro/Romania) ca să
@@ -19,11 +19,11 @@ urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
-from romega_core.names import name_key  # noqa: E402
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
+from solomonar_core.names import name_key  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
-H = {"User-Agent": "Mozilla/5.0 (ROMEGA transparency)"}
+H = {"User-Agent": "Mozilla/5.0 (SOLOMONAR transparency)"}
 DATASETS = {
     "sanctions": "https://data.opensanctions.org/datasets/latest/sanctions/entities.ftm.json",
     "peps": "https://data.opensanctions.org/datasets/latest/peps/entities.ftm.json",
@@ -51,7 +51,7 @@ def main() -> dict:
         nk = p.get("nume_key", "")
         if nk and len(nk.split()) >= 2:
             pkeys.setdefault(nk, p)
-    print(f"chei persoane ROMEGA: {len(pkeys)}", flush=True)
+    print(f"chei persoane SOLOMONAR: {len(pkeys)}", flush=True)
 
     ro_entities = []
     for ds, url in DATASETS.items():
@@ -102,7 +102,7 @@ def main() -> dict:
     ro_entities.sort(key=lambda x: (x["dataset"] != "sanctions", not x["in_graf"], x["nume"]))
     pers = [e for e in ro_entities if e["schema"] == "Person"]
     json.dump({"nota": "Entități cu legătură ROMÂNIA din OpenSanctions (sancțiuni internaționale EU/OFAC/UN "
-               "SAU Politically Exposed Persons). Lista e o REFERINȚĂ; 'in_graf'=apare și în ROMEGA "
+               "SAU Politically Exposed Persons). Lista e o REFERINȚĂ; 'in_graf'=apare și în SOLOMONAR "
                "(match pe nume, posibil omonim). Sancțiunile sunt măsuri internaționale documentate; "
                "PEP = expunere politică (așteptat pt. demnitari).",
                "total": len(ro_entities), "persoane": len(pers),

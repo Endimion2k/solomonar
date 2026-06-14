@@ -1,4 +1,4 @@
-"""ROMEGA Insights — pagina principală (Overview). Rulează: streamlit run web/app/Overview.py"""
+"""SOLOMONAR Insights — pagina principală (Overview). Rulează: streamlit run web/app/Overview.py"""
 
 from __future__ import annotations
 
@@ -9,12 +9,12 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, apply_theme, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="ROMEGA Insights", page_icon="🏛️", layout="wide",
+st.set_page_config(page_title="SOLOMONAR Insights", page_icon="🏛️", layout="wide",
                    initial_sidebar_state="expanded")
 apply_theme()
 sidebar_brand()
 
-page_header("ROMEGA — transparența aparatului de stat",
+page_header("SOLOMONAR — transparența aparatului de stat",
             "Declarații de avere · companii de stat · achiziții · partide · bugete · graf "
             "follow-the-money. Date publice agregate și interconectate.")
 

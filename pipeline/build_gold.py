@@ -1,7 +1,7 @@
 """Stratul GOLD v2 — rezoluție canonică INSTITUTION-AWARE (romega_id stabil).
 
 v1 contopea omonimii fără dată naștere pe nume identic (Mocanu DSVSA Brașov + Brăila = 1). v2:
-  - PARLAMENTARI (dată naștere + ext id) → romega_core.resolve.PersonRegistry → identitate certă.
+  - PARLAMENTARI (dată naștere + ext id) → solomonar_core.resolve.PersonRegistry → identitate certă.
   - Mențiuni FĂRĂ dată naștere (declarații/reps/CV) → union-find pe (nume + token de organizație
     DISTINCTIV partajat). Separă același-nume la organizații diferite; PĂSTREAZĂ legăturile
     context-consistente (persoana declară LA și conduce ACEEAȘI companie = follow-the-money tare).
@@ -26,10 +26,10 @@ from collections import defaultdict
 from datetime import date
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
 sys.path.insert(0, ROOT)
-from romega_core.resolve import PersonRegistry  # noqa: E402
-from romega_core.names import name_key  # noqa: E402
+from solomonar_core.resolve import PersonRegistry  # noqa: E402
+from solomonar_core.names import name_key  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 GOLD = os.path.join(ROOT, "data/gold")

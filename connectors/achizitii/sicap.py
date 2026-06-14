@@ -16,9 +16,9 @@ import io
 from collections import defaultdict
 from datetime import date
 
-from romega_core.http import Client
-from romega_core.models import Company, Contract, Edge, EdgeType, make_id
-from romega_core.provenance import SourceRef
+from solomonar_core.http import Client
+from solomonar_core.models import Company, Contract, Edge, EdgeType, make_id
+from solomonar_core.provenance import SourceRef
 
 UNKNOWN_AUTHORITY = "o:autoritate-necunoscuta"
 

@@ -3,7 +3,7 @@
 Vechiul harvest_declaratii_deep rula cu cap=150 + fără OCR + doar avere. Aici re-crawl-uim
 uncapped (max_pdfs=5000, depth 3) toate secțiunile de declarații din sectiuni.json + agentii_
 sectiuni.json și salvăm lista de PDF-uri → _ministere_pdfs.json, care apoi e dat lui
-harvest_reprocess (ROMEGA_SRC=ministere) pentru avere&interese + OCR pe scanate.
+harvest_reprocess (SOLOMONAR_SRC=ministere) pentru avere&interese + OCR pe scanate.
 """
 
 from __future__ import annotations
@@ -16,8 +16,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
 from connectors.institutie.generic import crawl_declaration_pdfs  # noqa: E402
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 OUT = os.path.join(V, "declaratii/_ministere_pdfs.json")

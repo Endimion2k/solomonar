@@ -1,4 +1,4 @@
-# ROMEGA — Romania Open Mega-Graph of the State
+# SOLOMONAR — Romania Open Mega-Graph of the State
 
 > Platformă de transparență care agregă, normalizează și interconectează datele publice
 > ale întregului aparat de stat românesc: Parlament, Guvern, ministere, agenții, servicii
@@ -9,15 +9,15 @@
 
 ---
 
-## Ce este ROMEGA
+## Ce este SOLOMONAR
 
 `cdep-api-poc` a demonstrat că datele Camerei Deputaților pot fi transformate din HTML/PDF
-într-un **API JSON static**, gratuit, servit prin CDN. ROMEGA generalizează acel model și
+într-un **API JSON static**, gratuit, servit prin CDN. SOLOMONAR generalizează acel model și
 adaugă ceea ce un singur parlament nu cerea: **rezoluție de entități** (aceeași persoană e
 deputat *și* ministru *și* membru CA la o companie de stat) și un **graf de relații**
 (persoană → funcție → instituție → companie → contract → acționariat).
 
-Întrebări la care ROMEGA răspunde și pe care surse izolate nu le pot acoperi:
+Întrebări la care SOLOMONAR răspunde și pe care surse izolate nu le pot acoperi:
 
 - *Cine conduce compania de stat X și ce a declarat în declarația de avere?*
 - *Ce firme deținute de rude/asociați ai unui demnitar au câștigat contracte publice?*
@@ -53,11 +53,11 @@ SURSE → connectors → raw/ (bronze)  → staging DuckDB (silver)
 ## Structura repo
 
 ```
-romega/
+solomonar/
 ├── docs/              # Documentația de arhitectură și plan
 ├── config/            # sources.yaml — registrul de surse (single source of truth)
 ├── packages/
-│   └── romega_core/   # Bibliotecă comună: HTTP, parsing, modele Pydantic, exporter, resolution
+│   └── solomonar_core/   # Bibliotecă comună: HTTP, parsing, modele Pydantic, exporter, resolution
 ├── connectors/        # Un modul per familie de surse
 │   ├── parlament/     #   Camera Deputaților (cdep) + Senat
 │   ├── ani/           #   Declarații de avere/interese (integritate.eu)
@@ -94,7 +94,7 @@ romega/
 ### Cum rulezi
 ```bash
 python -m venv .venv && .venv/Scripts/python -m pip install -r requirements.txt
-.venv/Scripts/python -m pip install -e packages/romega_core
+.venv/Scripts/python -m pip install -e packages/solomonar_core
 .venv/Scripts/python -m pytest .                       # 93 teste
 .venv/Scripts/python -m pipeline.run --list            # listează sursele
 .venv/Scripts/python -m pipeline.run --build           # generează data/v1/*.json

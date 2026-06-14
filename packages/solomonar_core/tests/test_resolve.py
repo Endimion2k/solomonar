@@ -6,7 +6,7 @@ from datetime import date
 
 import pytest
 
-from romega_core.resolve import MatchStatus, PersonRegistry
+from solomonar_core.resolve import MatchStatus, PersonRegistry
 
 
 def test_same_person_different_order_same_id():

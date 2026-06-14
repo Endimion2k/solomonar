@@ -3,9 +3,9 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "romega-core"
+name = "solomonar-core"
 version = "0.1.0"
-description = "ROMEGA shared core: HTTP, parsing, canonical models, entity resolution, IO"
+description = "SOLOMONAR shared core: HTTP, parsing, canonical models, entity resolution, IO"
 requires-python = ">=3.11"
 license = { text = "OGL-3.0" }
 dependencies = [
@@ -21,11 +21,11 @@ mcp = ["mcp[cli]>=1.2", "duckdb>=1.0"]
 dev = ["pytest>=8.0"]
 
 [project.scripts]
-romega-mcp-core = "romega_core.mcp_server:run"
+solomonar-mcp-core = "solomonar_core.mcp_server:run"
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["romega_core*"]
+include = ["solomonar_core*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

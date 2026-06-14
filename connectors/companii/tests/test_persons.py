@@ -3,8 +3,8 @@
 from __future__ import annotations
 
 from connectors.companii.persons import resolve_legal_reps
-from romega_core.models import Company, EdgeType
-from romega_core.resolve import PersonRegistry
+from solomonar_core.models import Company, EdgeType
+from solomonar_core.resolve import PersonRegistry
 
 
 def test_resolve_legal_reps_links_and_dedup():

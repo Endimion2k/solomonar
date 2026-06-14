@@ -15,7 +15,7 @@ from connectors.institutie.generic import (
     subordinate_edges,
 )
 from pipeline.config import iter_sources, load_sources
-from romega_core.models import EdgeType
+from solomonar_core.models import EdgeType
 
 
 def _flat():

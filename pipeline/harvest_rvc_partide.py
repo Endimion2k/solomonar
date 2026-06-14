@@ -1,4 +1,4 @@
-"""Harvest rapoarte financiare anuale ale partidelor (RVC — venituri/cheltuieli) → ROMEGA.
+"""Harvest rapoarte financiare anuale ale partidelor (RVC — venituri/cheltuieli) → SOLOMONAR.
 
 Sursa: Portal Legislativ (legislatie.just.ro). Partidele publică anual în Monitorul Oficial,
 în temeiul art. 16 din Legea 334/2006, situația cuantumului total al veniturilor și
@@ -38,7 +38,7 @@ urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
-sys.path.insert(0, os.path.join(ROOT, "packages", "romega_core"))
+sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
 
 V = os.path.join(ROOT, "data", "v1", "partide")
 BASE = "https://legislatie.just.ro"

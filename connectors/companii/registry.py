@@ -7,7 +7,7 @@ is_soe + autoritate; ANAF → status/CAEN/TVA; ONRC → reg_com + reprezentanți
 
 from __future__ import annotations
 
-from romega_core.models import Company, Edge, EdgeType, make_id
+from solomonar_core.models import Company, Edge, EdgeType, make_id
 
 STATE_ORG_ID = "o:stat-roman"
 

@@ -7,7 +7,7 @@ import json
 from connectors.companii.soe_seed import SOE_SEED
 from connectors.institutie.generic import org_id
 from pipeline.build import build_all
-from romega_core.models import Company
+from solomonar_core.models import Company
 
 
 def test_build_all(tmp_path):

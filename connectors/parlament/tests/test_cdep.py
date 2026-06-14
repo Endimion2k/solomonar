@@ -6,7 +6,7 @@ from datetime import date
 from pathlib import Path
 
 from connectors.parlament.cdep import parse_profile, to_person
-from romega_core.resolve import MatchStatus, PersonRegistry
+from solomonar_core.resolve import MatchStatus, PersonRegistry
 
 FIX = Path(__file__).parent / "fixtures"
 

@@ -1,10 +1,10 @@
-"""Server MCP ROMEGA — interogare conversațională a aparatului de stat român.
+"""Server MCP SOLOMONAR — interogare conversațională a aparatului de stat român.
 
-Expune datele gold ROMEGA (DuckDB read-only) pentru orice client MCP
+Expune datele gold SOLOMONAR (DuckDB read-only) pentru orice client MCP
 (Claude Desktop / Cursor / Continue). Întrebări naturale despre persoane,
 companii de stat, follow-the-money, contracte publice, partide, comisii.
 
-Sursa primară: ``data/gold/romega.duckdb`` (tabele curate, dedublicate).
+Sursa primară: ``data/gold/solomonar.duckdb`` (tabele curate, dedublicate).
 Enrichment (declarații, CV, comisii nominale): ``data/v1/graf/*.json``.
 
 ETICĂ — citește înainte de a trage concluzii din răspunsuri:
@@ -17,9 +17,9 @@ ETICĂ — citește înainte de a trage concluzii din răspunsuri:
   * CNP-ul este redactat din toate sursele; nu există în acest dataset.
 Fiecare răspuns include un câmp ``_provenance`` cu sursa și avertismentele.
 
-Rulare:   romega-mcp-core        (sau: python -m romega_core.mcp_server)
+Rulare:   solomonar-mcp-core        (sau: python -m solomonar_core.mcp_server)
 Config Claude Desktop:
-  {"mcpServers": {"romega": {"command": "romega-mcp-core"}}}
+  {"mcpServers": {"solomonar": {"command": "solomonar-mcp-core"}}}
 """
 
 from __future__ import annotations
@@ -34,14 +34,14 @@ import duckdb
 from mcp.server.fastmcp import FastMCP
 
 # ----------------------------------------------------------------------------
-# Localizare date (override prin env ROMEGA_DUCKDB / ROMEGA_DATA)
+# Localizare date (override prin env SOLOMONAR_DUCKDB / SOLOMONAR_DATA)
 # ----------------------------------------------------------------------------
 _HERE = os.path.dirname(os.path.abspath(__file__))
 _ROOT = os.path.normpath(os.path.join(_HERE, "..", "..", ".."))
 
-DUCKDB_PATH = os.environ.get("ROMEGA_DUCKDB") or os.path.join(
-    _ROOT, "data", "gold", "romega.duckdb")
-DATA_V1 = os.environ.get("ROMEGA_DATA") or os.path.join(_ROOT, "data", "v1")
+DUCKDB_PATH = os.environ.get("SOLOMONAR_DUCKDB") or os.path.join(
+    _ROOT, "data", "gold", "solomonar.duckdb")
+DATA_V1 = os.environ.get("SOLOMONAR_DATA") or os.path.join(_ROOT, "data", "v1")
 
 # Avertismente standard refolosite în provenance.
 WARN_OMONIM = (
@@ -50,11 +50,11 @@ WARN_OMONIM = (
 WARN_DNA = (
     "Eventualele referințe DNA sunt TRIMITERI ÎN JUDECATĂ, nu condamnări "
     "(prezumția de nevinovăție).")
-SOURCE = "ROMEGA gold (DuckDB) — date publice agregate: ANI, CDEP/Senat, "\
+SOURCE = "SOLOMONAR gold (DuckDB) — date publice agregate: ANI, CDEP/Senat, "\
     "ONRC, SICAP, BVB, AEP."
 
-mcp = FastMCP("romega", instructions=(
-    "ROMEGA — transparența aparatului de stat român. Date publice agregate din "
+mcp = FastMCP("solomonar", instructions=(
+    "SOLOMONAR — transparența aparatului de stat român. Date publice agregate din "
     "DuckDB gold: declarații de avere/interese (ANI), parlamentari și comisii "
     "(CDEP/Senat), companii de stat (bilanț, % stat, contracte SICAP), partide "
     "(subvenții AEP), participații BVB. IMPORTANT pentru interpretare: legăturile "
@@ -71,8 +71,8 @@ def _con() -> duckdb.DuckDBPyConnection:
     """Conexiune DuckDB read-only, deschisă o singură dată și refolosită."""
     if not os.path.exists(DUCKDB_PATH):
         raise FileNotFoundError(
-            f"Baza DuckDB ROMEGA lipsește: {DUCKDB_PATH}. "
-            "Setează ROMEGA_DUCKDB sau rulează pipeline-ul gold.")
+            f"Baza DuckDB SOLOMONAR lipsește: {DUCKDB_PATH}. "
+            "Setează SOLOMONAR_DUCKDB sau rulează pipeline-ul gold.")
     return duckdb.connect(DUCKDB_PATH, read_only=True)
 
 
@@ -109,7 +109,7 @@ def _persoane_by_id() -> dict[str, dict]:
 
 def _prov(extra: dict | None = None, omonim: bool = False) -> dict:
     """Construiește blocul _provenance atașat fiecărui răspuns."""
-    p = {"sursa": SOURCE, "baza": "data/gold/romega.duckdb (read_only)"}
+    p = {"sursa": SOURCE, "baza": "data/gold/solomonar.duckdb (read_only)"}
     if omonim:
         p["avertisment"] = WARN_OMONIM
     if extra:
@@ -122,7 +122,7 @@ def _prov(extra: dict | None = None, omonim: bool = False) -> dict:
 # ----------------------------------------------------------------------------
 @mcp.tool()
 def search_persoana(nume: str, limit: int = 15) -> dict:
-    """Caută persoane în registrul ROMEGA după nume (parțial, fără diacritice).
+    """Caută persoane în registrul SOLOMONAR după nume (parțial, fără diacritice).
 
     Întoarce pentru fiecare: romega_id, nume, nivel de încredere al identității
     ('high' = parlamentar/declarant cert, 'context', 'candidat' = posibil
@@ -457,7 +457,7 @@ def comisie_membri(nume: str) -> dict:
 
 @mcp.tool()
 def stats_globale() -> dict:
-    """Sumarul global ROMEGA: dimensiunile dataset-ului (persoane, companii,
+    """Sumarul global SOLOMONAR: dimensiunile dataset-ului (persoane, companii,
     legături, partide, comisii, participații) + câteva agregate-cheie.
 
     Util pentru a înțelege acoperirea și scara datelor înainte de interogări

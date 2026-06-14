@@ -5,7 +5,7 @@ from __future__ import annotations
 from connectors.companii.amepip import parse_master_list
 from connectors.companii.registry import CompanyRegistry, control_edges
 from connectors.fiscal.anaf import to_company
-from romega_core.models import Company, EdgeType, make_id
+from solomonar_core.models import Company, EdgeType, make_id
 
 
 def test_merge_amepip_then_anaf_by_cui():

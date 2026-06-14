@@ -1,4 +1,4 @@
-"""Harvest activitatea comisiilor Camerei Deputaților (2024→prezent) → index ROMEGA.
+"""Harvest activitatea comisiilor Camerei Deputaților (2024→prezent) → index SOLOMONAR.
 
 Produce INDEXUL (nu descarcă încă documentele-PDF în masă):
 - comisii.json   : [{tip, nume}]
@@ -24,11 +24,11 @@ from connectors.parlament.comisii import (  # noqa: E402
     COMISII_URL, CO_BASE, agenda_plx_links, parse_committee_name,
     parse_committee_tips, parse_plx_page, parse_session_agendas,
 )
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1/comisii")
-YEARS = [int(y) for y in os.environ.get("ROMEGA_COMISII_ANI", "2024,2025,2026").split(",")]
+YEARS = [int(y) for y in os.environ.get("SOLOMONAR_COMISII_ANI", "2024,2025,2026").split(",")]
 
 
 def _idp(url: str) -> str | None:

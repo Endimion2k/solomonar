@@ -1,4 +1,4 @@
-"""Achiziții directe — cumpărările directe SICAP 2007-2025, agregate pe furnizor (ROMEGA)."""
+"""Achiziții directe — cumpărările directe SICAP 2007-2025, agregate pe furnizor (SOLOMONAR)."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Achiziții directe · ROMEGA", page_icon="🧾", layout="wide")
+st.set_page_config(page_title="Achiziții directe · SOLOMONAR", page_icon="🧾", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Achiziții directe — cumpărări directe SICAP",
@@ -92,7 +92,7 @@ if not f.empty:
     comp = data.companii_df()
     hit = comp[comp["cui"].astype(str) == str(r["cui"])]
     if not hit.empty:
-        st.info("Această firmă apare și în registrul companiilor ROMEGA (administratori cunoscuți) — "
+        st.info("Această firmă apare și în registrul companiilor SOLOMONAR (administratori cunoscuți) — "
                 "vezi pagina Companii / Persoane pentru cine o conduce.")
 
 st.caption("⚠️ Achizițiile directe sunt cumpărări legale sub pragul de licitație. Volumul mare la un "

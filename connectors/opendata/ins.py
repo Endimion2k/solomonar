@@ -6,7 +6,7 @@ Notă: endpoint-ul poate fi restricționat din unele rețele; se validează pe r
 
 from __future__ import annotations
 
-from romega_core.http import Client
+from solomonar_core.http import Client
 
 BASE = "http://statistici.insse.ro:8077/tempo-ins"
 

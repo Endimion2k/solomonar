@@ -11,7 +11,7 @@ from typing import Protocol, runtime_checkable
 
 from pydantic import BaseModel
 
-from romega_core.bronze import BronzeArtifact
+from solomonar_core.bronze import BronzeArtifact
 
 
 @runtime_checkable

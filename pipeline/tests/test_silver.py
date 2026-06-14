@@ -5,7 +5,7 @@ from __future__ import annotations
 import duckdb
 
 from pipeline.silver import stage
-from romega_core.models import Person
+from solomonar_core.models import Person
 
 
 def test_stage_inserts_models():

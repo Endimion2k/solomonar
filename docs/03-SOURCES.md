@@ -1,6 +1,6 @@
 # 03 — CATALOG DE SURSE
 
-> Inventarul complet al surselor de date pentru ROMEGA, verificat (iunie 2026).
+> Inventarul complet al surselor de date pentru SOLOMONAR, verificat (iunie 2026).
 > Coloana **Acces:** `api` (REST/SOAP) · `bulk` (fișiere descărcabile) · `scrape` (HTML/PDF) ·
 > `headless` (SPA JS) · `paid` (comercial). **Fază** = valul din `00-MASTERPLAN.md`.
 >

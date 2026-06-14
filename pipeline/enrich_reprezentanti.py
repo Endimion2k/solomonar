@@ -1,4 +1,4 @@
-"""Îmbogățește companiile ROMEGA cu REPREZENTANȚI LEGALI din dump-ul ONRC (gratis, data.gov.ro).
+"""Îmbogățește companiile SOLOMONAR cu REPREZENTANȚI LEGALI din dump-ul ONRC (gratis, data.gov.ro).
 
 Reps file e cheiat pe COD_INMATRICULARE (J40/.../...), nu CUI → punte via OD_FIRME (are CUI +
 COD_INMATRICULARE). Stream filtrat (nu încărcăm ~1GB în RAM):

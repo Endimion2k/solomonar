@@ -42,11 +42,11 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
-from romega_core.names import fix_ro_diacritics  # noqa: E402
+from solomonar_core.names import fix_ro_diacritics  # noqa: E402
 
 BASE = "https://old-declaratii.integritate.eu"
 SEARCH_URL = BASE + "/search.html"
-UA = "ROMEGA-research/1.0 (civic transparency; contact catalinpopa2k@gmail.com)"
+UA = "SOLOMONAR-research/1.0 (civic transparency; contact catalinpopa2k@gmail.com)"
 
 OUT_DIR = os.path.join(ROOT, "data", "v1", "declaratii")
 INDEX_PATH = os.path.join(OUT_DIR, "_ani_index.json")

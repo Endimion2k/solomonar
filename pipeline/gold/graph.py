@@ -1,6 +1,6 @@
 """GraphStore — noduri + muchii în DuckDB, cu traversări recursive.
 
-Activează exact interogările care diferențiază ROMEGA (vezi docs/02-DATA-MODEL.md §3):
+Activează exact interogările care diferențiază SOLOMONAR (vezi docs/02-DATA-MODEL.md §3):
 - control_chain: lanțul de proprietate stat → SOE → subsidiare (recursiv);
 - boards_with_public_office: persoane care sunt și membri CA și dețin funcție publică
   (semnal de potențial conflict de interese).

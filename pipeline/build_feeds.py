@@ -1,4 +1,4 @@
-"""Construiește feed-urile temporale publicate pentru ROMEGA (data/v1/).
+"""Construiește feed-urile temporale publicate pentru SOLOMONAR (data/v1/).
 
 Trei livrabile, servite prin GitHub Pages CDN:
   1. data/v1/feed.json        — JSON Feed 1.1 (https://jsonfeed.org/version/1.1),
@@ -12,9 +12,9 @@ e dată de `id` (id mai mare = mai recent — corespunde ordinii de publicare dn
 `data` ("11 iunie 2026") se derivă în ISO 8601 când se poate.
 
 Idee pentru index.html (NU se modifică aici — doar notă):
-  <link rel="alternate" type="application/atom+xml" title="ROMEGA — comunicate DNA"
+  <link rel="alternate" type="application/atom+xml" title="SOLOMONAR — comunicate DNA"
         href="./data/v1/feed.xml">
-  <link rel="alternate" type="application/json" title="ROMEGA — comunicate DNA"
+  <link rel="alternate" type="application/json" title="SOLOMONAR — comunicate DNA"
         href="./data/v1/feed.json">
 """
 
@@ -134,15 +134,15 @@ def build_dna_jsonfeed(items: list[dict]) -> dict:
 
     return {
         "version": "https://jsonfeed.org/version/1.1",
-        "title": "ROMEGA — comunicate DNA",
+        "title": "SOLOMONAR — comunicate DNA",
         "home_page_url": SITE,
         "feed_url": FEED_JSON_URL,
         "description": (
             "Cele mai recente comunicate ale Direcției Naționale Anticorupție, "
-            "agregate de ROMEGA. Text neoficial, destinat mass-media."
+            "agregate de SOLOMONAR. Text neoficial, destinat mass-media."
         ),
         "language": "ro",
-        "authors": [{"name": "ROMEGA", "url": SITE}],
+        "authors": [{"name": "SOLOMONAR", "url": SITE}],
         "items": out_items,
     }
 
@@ -154,14 +154,14 @@ def build_dna_atom(items: list[dict]) -> str:
     parts = [
         '<?xml version="1.0" encoding="utf-8"?>',
         '<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ro">',
-        "  <title>ROMEGA — comunicate DNA</title>",
+        "  <title>SOLOMONAR — comunicate DNA</title>",
         "  <subtitle>Cele mai recente comunicate ale Direcției Naționale "
-        "Anticorupție, agregate de ROMEGA.</subtitle>",
+        "Anticorupție, agregate de SOLOMONAR.</subtitle>",
         f'  <link href="{escape(SITE)}"/>',
         f'  <link rel="self" type="application/atom+xml" href="{escape(FEED_ATOM_URL)}"/>',
         f"  <id>{escape(FEED_ATOM_URL)}</id>",
         f"  <updated>{feed_updated}</updated>",
-        "  <author><name>ROMEGA</name></author>",
+        "  <author><name>SOLOMONAR</name></author>",
     ]
 
     for c in items:
@@ -170,7 +170,7 @@ def build_dna_atom(items: list[dict]) -> str:
         dt = _parse_data(c.get("data"))
         updated = (dt or datetime.now(timezone.utc)).isoformat()
         # id Atom: URN stabil bazat pe id-ul comunicatului
-        entry_id = f"urn:romega:dna:{cid}"
+        entry_id = f"urn:solomonar:dna:{cid}"
         parts += [
             "  <entry>",
             f"    <title>{escape(_short_title(c.get('titlu', ''), c.get('nr')))}</title>",
@@ -222,7 +222,7 @@ def build_alerte_jsonfeed() -> dict:
         # id stabil: romega_id dacă există, altfel index
         rid = det.get("romega_id") or f"idx{i}"
         out_items.append({
-            "id": f"romega:alerta:conflict_confirmat:{rid}",
+            "id": f"solomonar:alerta:conflict_confirmat:{rid}",
             "url": ALERTE_HTML_URL,
             "title": x.get("titlu", "Conflict confirmat"),
             "content_text": "\n".join(lines),
@@ -238,7 +238,7 @@ def build_alerte_jsonfeed() -> dict:
 
     return {
         "version": "https://jsonfeed.org/version/1.1",
-        "title": "ROMEGA — conflicte de interese confirmate",
+        "title": "SOLOMONAR — conflicte de interese confirmate",
         "home_page_url": SITE,
         "feed_url": ALERTE_FEED_URL,
         "description": (
@@ -247,7 +247,7 @@ def build_alerte_jsonfeed() -> dict:
             + (a.get("disclaimer") or "")
         ).strip(),
         "language": "ro",
-        "authors": [{"name": "ROMEGA", "url": SITE}],
+        "authors": [{"name": "SOLOMONAR", "url": SITE}],
         "items": out_items,
     }
 

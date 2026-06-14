@@ -19,13 +19,13 @@ from urllib.parse import parse_qs, urljoin, urlparse
 
 from pydantic import BaseModel
 
-from romega_core.dates import RE_BIRTH, parse_ro_date
-from romega_core.http import Client
-from romega_core.models import Person
-from romega_core.names import fix_ro_diacritics
-from romega_core.parse import selector
-from romega_core.provenance import SourceRef
-from romega_core.resolve import PersonRegistry
+from solomonar_core.dates import RE_BIRTH, parse_ro_date
+from solomonar_core.http import Client
+from solomonar_core.models import Person
+from solomonar_core.names import fix_ro_diacritics
+from solomonar_core.parse import selector
+from solomonar_core.provenance import SourceRef
+from solomonar_core.resolve import PersonRegistry
 
 BASE = "https://www.senat.ro"
 LIST_URL = BASE + "/FisaSenatori.aspx"

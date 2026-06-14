@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from romega_core.names import (
+from solomonar_core.names import (
     canonical_name,
     name_key,
     name_similarity,

@@ -9,7 +9,7 @@ from __future__ import annotations
 
 from urllib.parse import urlencode
 
-from romega_core.http import Client
+from solomonar_core.http import Client
 
 BASE = "https://data.gov.ro/api/3/action"
 

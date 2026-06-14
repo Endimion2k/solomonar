@@ -1,4 +1,4 @@
-# Client ROMEGA Insights (Streamlit) — citește data/v1/*.json
+# Client SOLOMONAR Insights (Streamlit) — citește data/v1/*.json
 streamlit>=1.36
 plotly>=5.22
 pandas>=2.1

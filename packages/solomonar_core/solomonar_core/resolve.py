@@ -21,7 +21,7 @@ from dataclasses import dataclass, field
 from datetime import date
 from enum import StrEnum
 
-from romega_core.names import canonical_name, name_key, name_similarity
+from solomonar_core.names import canonical_name, name_key, name_similarity
 
 
 class MatchStatus(StrEnum):

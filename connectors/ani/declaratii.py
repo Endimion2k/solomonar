@@ -21,7 +21,7 @@ import re
 
 from pydantic import BaseModel
 
-from romega_core.http import Client
+from solomonar_core.http import Client
 
 # --- Regex & rate (portate din analiza_avere_pdf.py) ---
 RE_AMOUNT = re.compile(
@@ -199,13 +199,13 @@ _RE_ENTITY = re.compile(
 
 def _norm_ns(s: str) -> str:
     """Normalizare agresivă pt. detecție markeri: fără diacritice, lower, fără spații."""
-    from romega_core.names import strip_diacritics
+    from solomonar_core.names import strip_diacritics
     return strip_diacritics(s).lower().replace(" ", "")
 
 
 def _norm_sp(s: str) -> str:
     """Normalizare pt. potrivire linii boilerplate: fără diacritice, lower, spații colapsate."""
-    from romega_core.names import strip_diacritics
+    from solomonar_core.names import strip_diacritics
     return " ".join(strip_diacritics(s).lower().split())
 
 
@@ -330,7 +330,7 @@ def parse_avere_ocr(text: str) -> AvereParsed:
     if len(text.strip()) < 80:
         return AvereParsed(text_extracted=False, needs_ocr=True)
     res = AvereParsed(text_extracted=True, needs_ocr=True)
-    from romega_core.names import strip_diacritics
+    from solomonar_core.names import strip_diacritics
     n = strip_diacritics(text).lower()
     imob = _ocr_section(n, "bunuri imobile", ["bunuri mobile", "active financiare", "datorii"])
     fin = _ocr_section(n, "active financiare", ["datorii", "venituri", "bunuri", "cadouri"])
@@ -424,7 +424,7 @@ def _ocr_engine():
                 if _OCR_CUDA:  # GPU cu PLAFON pe arenă (gpu_mem_limit): cache rapid SUB plafon,
                     # 6000MB: suficient ca detectorul să NU se înfometeze (3300 era prea mic → 0 boxe
                     # = empty). 1 worker la 6000 = sigur (6.5GB<8); 2 workeri ar depăși 8GB → thrash.
-                    _mem = int(os.environ.get("ROMEGA_GPU_MEM_MB", "6000")) * 1024 * 1024
+                    _mem = int(os.environ.get("SOLOMONAR_GPU_MEM_MB", "6000")) * 1024 * 1024
                     k["providers"] = [   # fără kSameAsRequested (ăla dezactiva cache-ul → lent)
                         ("CUDAExecutionProvider", {"gpu_mem_limit": _mem}),
                         "CPUExecutionProvider",

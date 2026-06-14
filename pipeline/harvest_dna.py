@@ -2,7 +2,7 @@
 
 Homepage arată doar 5, dar ID-urile `comunicat.xhtml?id=N` sunt DENSE (fiecare id = un comunicat
 real). Enumerăm înapoi de la cel mai recent până la un cutoff de an. Extragem data, nr., titlu,
-corp + NUMELE inculpaților (secvențe ALL-CAPS) pentru cross-ref cu graful ROMEGA.
+corp + NUMELE inculpaților (secvențe ALL-CAPS) pentru cross-ref cu graful SOLOMONAR.
 Resume-safe: JSONL de id-uri procesate. Output data/v1/audit/dna.json.
 """
 
@@ -25,7 +25,7 @@ JL = os.path.join(ROOT, "pipeline", "_dna_reproc.jsonl")
 H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120"}
 BASE = "https://www.dna.ro/comunicat.xhtml?id="
 
-MAX_IDS = int(os.environ.get("ROMEGA_DNA_MAX", "3000"))   # câte id-uri înapoi (data publicării nu e fiabilă per-pagină)
+MAX_IDS = int(os.environ.get("SOLOMONAR_DNA_MAX", "3000"))   # câte id-uri înapoi (data publicării nu e fiabilă per-pagină)
 
 LUNI = {"ianuarie": 1, "februarie": 2, "martie": 3, "aprilie": 4, "mai": 5, "iunie": 6,
         "iulie": 7, "august": 8, "septembrie": 9, "octombrie": 10, "noiembrie": 11, "decembrie": 12}

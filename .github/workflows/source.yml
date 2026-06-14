@@ -31,15 +31,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
-          python -m pip install -e packages/romega_core
+          python -m pip install -e packages/solomonar_core
 
       - name: Run connector + pipeline
         run: python -m pipeline.run --source ${{ inputs.source }}
 
       - name: Commit refreshed data
         run: |
-          git config user.name "romega-bot"
-          git config user.email "bot@romega.local"
+          git config user.name "solomonar-bot"
+          git config user.email "bot@solomonar.local"
           git add data/v1 data/build/registry.sqlite || true
           git commit -m "data: refresh ${{ inputs.source }}" || echo "nimic de comis"
           git push || true

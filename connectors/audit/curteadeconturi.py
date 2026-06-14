@@ -10,8 +10,8 @@ from __future__ import annotations
 import re
 from urllib.parse import urljoin
 
-from romega_core.http import Client
-from romega_core.parse import selector
+from solomonar_core.http import Client
+from solomonar_core.parse import selector
 
 BASE = "https://www.curteadeconturi.ro"
 RE_REPORT = re.compile(r"/rapoarte-de-audit|/raport(?:-|/)", re.IGNORECASE)

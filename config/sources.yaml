@@ -1,5 +1,5 @@
 # ============================================================================
-# ROMEGA — Registrul de surse (single source of truth pentru connectors)
+# SOLOMONAR — Registrul de surse (single source of truth pentru connectors)
 # ----------------------------------------------------------------------------
 # Acest fișier e CONSUMAT de connectors (pipeline-ul citește de aici) ȘI e
 # echivalentul machine-readable al docs/03-SOURCES.md. Nu lăsa cele două să
@@ -18,7 +18,7 @@ meta:
   note: "Verificat iunie 2026. Vezi docs/03-SOURCES.md pentru context."
 
 defaults:
-  user_agent: "ROMEGA-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
+  user_agent: "SOLOMONAR-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
   rate_limit_per_host: "1/s"
   respect_robots: true
   cache_bronze: true
@@ -418,6 +418,19 @@ sources:
     priority: low
     connector: opendata/ins
     status: planned
+
+  - id: budget
+    name: "Bugete & salarii sector public (data.gov.ro)"
+    category: enrichment
+    base_url: "https://data.gov.ro/api/3/action"
+    access: bulk
+    format: xlsx
+    auth: none
+    phase: 5
+    priority: medium
+    connector: opendata/budget
+    status: planned
+    key_datasets: [drepturi-salariale, buget, buget-sinteza]
 
 # ----------------------------------------------------------------------------
 # L. TIER 3 — SERVICII DECONCENTRATE (templated: tip × 42 unități)

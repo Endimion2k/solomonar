@@ -1,4 +1,4 @@
-"""ROMEGA pipeline — orchestrarea build-ului bronze → silver → gold → export.
+"""SOLOMONAR pipeline — orchestrarea build-ului bronze → silver → gold → export.
 
 - silver        : modele → tabele staging DuckDB
 - gold.graph    : noduri + muchii în DuckDB (traversări recursive)

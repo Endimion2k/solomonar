@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "connector": "BudgetConnector",
+    "source": "data.gov.ro (CKAN package_search q=buget)",
+    "generated_at": "2026-06-10T19:28:06.642316+00:00",
+    "count": 0,
+    "resources_fetched": [
+      {
+        "dataset": "buget",
+        "resource": "Buget Ministerul Justitiei mai 2018 ",
+        "url": "https://data.gov.ro/dataset/522aed87-7eb9-4084-ad5c-d1cda4620c71/resource/2922e337-4228-4df3-a99d-1910a4255640/download/buget-ministerul-justitiei-2018.xlsx",
+        "rows_read": 226,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL JUSTITIEI",
+          "",
+          "Aprob,"
+        ]
+      },
+      {
+        "dataset": "buget",
+        "resource": "Buget Ministerul Justitiei 2018",
+        "url": "https://data.gov.ro/dataset/522aed87-7eb9-4084-ad5c-d1cda4620c71/resource/24620750-71cb-4104-aa5a-8e85cc6f00df/download/buget-aparat-propriu-septembrie-2018.xlsx",
+        "rows_read": 399,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL JUSTITIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget",
+        "resource": "Buget Ministerul Justitiei 2020",
+        "url": "https://data.gov.ro/dataset/522aed87-7eb9-4084-ad5c-d1cda4620c71/resource/9adce361-d66f-4549-9d5d-3e24c314aa15/download/buget-2020-mj.xlsx",
+        "rows_read": 387,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL JUSTITIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget",
+        "resource": "Bugetul de stat Centralizat 2022",
+        "url": "https://data.gov.ro/dataset/522aed87-7eb9-4084-ad5c-d1cda4620c71/resource/3693b89d-9b3d-4d3b-b579-00ef2ebe0c21/download/bugetul-de-stat-centralizat-2022.xlsx",
+        "rows_read": 313,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL JUSTITIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget-dlaf",
+        "resource": "Buget DLAF 2018",
+        "url": "https://data.gov.ro/dataset/85aea55f-d1da-45c8-9d75-61c84c3da6ba/resource/40d42f94-26b5-421d-95d5-ed147ddc0a43/download/buget-2018.xlsx",
+        "rows_read": 51,
+        "budget_lines": 0,
+        "first_cols": [
+          "",
+          "DEPARTAMENTUL PENTRU LUPTA ANTIFRAUDĂ – DLAF SUME ALOCATE DE LA BUGETUL DE STAT PE ANUL 2018"
+        ]
+      },
+      {
+        "dataset": "buget-2017",
+        "resource": "buget-2017",
+        "url": "https://data.gov.ro/dataset/75cfaadb-392b-409e-8a7a-8139d7edb99a/resource/668a8105-a1fd-41f1-a39a-97df1ece985f/download/buget-2017.xlsx",
+        "rows_read": 179,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL JUSTIŢIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget-anul-2022",
+        "resource": "Buget anul 2022",
+        "url": "https://data.gov.ro/dataset/cccf5553-97b2-4e3e-820c-114f40ab26fc/resource/95facb2d-641d-4ad5-bafc-c9f35d6d07ab/download/ianuarie-buget.xlsx",
+        "rows_read": 240,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          "",
+          ","
+        ]
+      },
+      {
+        "dataset": "buget-ina-2021",
+        "resource": "buget iulie.xlsx",
+        "url": "https://data.gov.ro/dataset/64394faf-b564-42a0-aeb0-25ba2a63bbc2/resource/e81dfe76-9406-4948-8b0f-27a39c064ded/download/buget-iulie.xlsx",
+        "rows_read": 237,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          "",
+          ","
+        ]
+      },
+      {
+        "dataset": "buget-ina-luna-iulie",
+        "resource": "iulie buget.xlsx",
+        "url": "https://data.gov.ro/dataset/3fa94517-a85b-436f-9ba8-2fc4ebe4f877/resource/2b20842a-5982-41c6-8d19-b80eb407637e/download/iulie-buget.xlsx",
+        "rows_read": 234,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          "",
+          ","
+        ]
+      },
+      {
+        "dataset": "buget-anul-2021-septembrie",
+        "resource": "septembrie-buget.xlsx",
+        "url": "https://data.gov.ro/dataset/701d8ae6-0723-4ac0-ada3-0f50889f0baa/resource/6ca0b422-2ea0-4c71-989b-e3349b62b48d/download/septembrie-buget.xlsx",
+        "rows_read": 240,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget-ina-v3",
+        "resource": "V3Buget_INA_2024_-26.03.2024.xlsx",
+        "url": "https://data.gov.ro/dataset/fc76bb31-73f7-48c0-907e-571ed2ddb4fe/resource/a9859990-d638-4e6c-afba-f98e1e2de75f/download/v3buget_ina_2024_-26.03.2024.xlsx",
+        "rows_read": 238,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget-ina-v1",
+        "resource": "Buget INA v1",
+        "url": "https://data.gov.ro/dataset/acfced45-046f-4cf7-bde7-660d4bcc17e7/resource/e8d25060-90bc-451e-b774-c98914533df2/download/v1buget_ina_2024_-04.01.xlsx",
+        "rows_read": 238,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "buget-ina-noiembrie-2021",
+        "resource": "noiembrie buget.xlsx",
+        "url": "https://data.gov.ro/dataset/cb5e7139-1873-4341-a474-f43d1f917b82/resource/5c6978fa-f77f-45e9-8d13-7dad017b102d/download/noiembrie-buget.xlsx",
+        "rows_read": 240,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          "",
+          ","
+        ]
+      },
+      {
+        "dataset": "buget-anc-2016",
+        "resource": "Buget ANC 2016",
+        "url": "https://data.gov.ro/dataset/2cd8d2bf-f01b-4faa-9d57-96597b9fe47e/resource/b3c28959-549e-4673-be22-f8ac7ac0ee93/download/anc-fila-buget-2016-csv.csv",
+        "rows_read": 204,
+        "budget_lines": 0,
+        "first_cols": [
+          ";;;;;;;;"
+        ]
+      },
+      {
+        "dataset": "buget-ina-v2",
+        "resource": "V2.Buget_INA_2024_-29.01.xlsx",
+        "url": "https://data.gov.ro/dataset/8623e853-69cc-4288-a5b4-e03fcd4e9913/resource/af10110d-e60c-47c3-b573-2ce71ed33209/download/v2.buget_ina_2024_-29.01.xlsx",
+        "rows_read": 238,
+        "budget_lines": 0,
+        "first_cols": [
+          "MINISTERUL  DEZVOLTĂRII, LUCRĂRILOR PUBLICE ȘI ADMINISTRAȚIEI",
+          ""
+        ]
+      },
+      {
+        "dataset": "map",
+        "resource": "Buget MAP 2018",
+        "url": "https://data.gov.ro/dataset/d1dd9bab-b20d-441f-90a5-f147ea20f11c/resource/d9ca0372-9f78-4173-bba3-90dc506ea4df/download/buget-2018.xlsx",
+        "rows_read": 484,
+        "budget_lines": 0,
+        "first_cols": [
+          "Ministerul Apelor şi Pădurilor",
+          ""
+        ]
+      }
+    ],
+    "diagnostic": "CKAN discovery + download live OK. parse_budget_rows a extras 0 linii din 16 resurse tabulare. Fisierele de buget data.gov.ro sunt rapoarte umane (banner titlu pe randul 0, celule imbinate, header real ingropat mid-sheet), nu tabele cu header plat pe randul 0 -> parserul connectorului (header-keys exacte) nu le mapeaza. Legacy .XLS = nesuportat (xlrd 2.x a scos suportul XLS).",
+    "errors_sample": [
+      "read_resource(buget-dlaf/Buget DLAF 2019, .XLSX): BadZipFile: File is not a zip file"
+    ]
+  },
+  "lines": []
+}

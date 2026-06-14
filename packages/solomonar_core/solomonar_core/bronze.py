@@ -28,7 +28,7 @@ class BronzeArtifact:
     path: str        # relativ la rădăcina store-ului
 
     def source_ref(self):
-        from romega_core.provenance import SourceRef
+        from solomonar_core.provenance import SourceRef
 
         return SourceRef(
             source_id=self.source_id,

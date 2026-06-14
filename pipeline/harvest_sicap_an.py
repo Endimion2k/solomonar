@@ -83,7 +83,7 @@ TOP_N_AUTORITATI = 3
 
 TIMEOUT = 300
 CHUNK = 65536
-USER_AGENT = "Mozilla/5.0 (ROMEGA-bot; transparenta date publice)"
+USER_AGENT = "Mozilla/5.0 (SOLOMONAR-bot; transparenta date publice)"
 
 
 def _stream_lines(url: str) -> Iterator[str]:

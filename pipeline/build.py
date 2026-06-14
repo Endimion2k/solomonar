@@ -21,7 +21,7 @@ from connectors.institutie.generic import (
     subordinate_edges,
 )
 from pipeline.config import iter_sources, load_sources
-from romega_core.io import export_collection
+from solomonar_core.io import export_collection
 
 DEFAULT_OUT = Path(__file__).resolve().parents[1] / "data" / "v1"
 

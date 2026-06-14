@@ -1,6 +1,6 @@
-"""Temă vizuală ROMEGA — tokens de culoare, template Plotly, paletă partide, helpers UI.
+"""Temă vizuală SOLOMONAR — tokens de culoare, template Plotly, paletă partide, helpers UI.
 
-Adaptat din cdep-client, rebrand ROMEGA (transparența întregului aparat de stat).
+Adaptat din cdep-client, rebrand SOLOMONAR (transparența întregului aparat de stat).
 """
 
 from __future__ import annotations
@@ -73,8 +73,8 @@ def apply_theme() -> None:
         yaxis=dict(gridcolor=BORDER, zerolinecolor=BORDER, linecolor=BORDER),
         margin=dict(l=40, r=20, t=40, b=40), hoverlabel=dict(bgcolor=SURFACE_2),
     )
-    pio.templates["romega"] = tmpl
-    pio.templates.default = "romega"
+    pio.templates["solomonar"] = tmpl
+    pio.templates.default = "solomonar"
     st.markdown(f"""<style>
       .stApp {{ background:{BG}; color:{TEXT}; }}
       section[data-testid="stSidebar"] {{ background:{SURFACE}; border-right:1px solid {BORDER}; }}
@@ -83,7 +83,7 @@ def apply_theme() -> None:
       [data-testid="stMetricValue"] {{ color:{TEXT}; font-size:26px; }}
       [data-testid="stMetricLabel"] {{ color:{TEXT_DIM}; }}
       h1,h2,h3 {{ color:{TEXT}; letter-spacing:-.01em; }}
-      .romega-hero {{ font-size:13px; color:{TEXT_DIM}; margin:-6px 0 14px; }}
+      .solomonar-hero {{ font-size:13px; color:{TEXT_DIM}; margin:-6px 0 14px; }}
       .stDataFrame {{ border:1px solid {BORDER}; border-radius:10px; }}
       a {{ color:{ACCENT_2}; }}
       .badge {{ display:inline-block; padding:2px 9px; border-radius:999px; font-size:11px;
@@ -94,7 +94,7 @@ def apply_theme() -> None:
 def page_header(title: str, subtitle: str = "") -> None:
     st.markdown(f"## {title}")
     if subtitle:
-        st.markdown(f"<div class='romega-hero'>{subtitle}</div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='solomonar-hero'>{subtitle}</div>", unsafe_allow_html=True)
 
 
 def kpi_card(col, label: str, value: str, help: str = "") -> None:

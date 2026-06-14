@@ -1,14 +1,14 @@
-# romega-mcp — server MCP ROMEGA
+# solomonar-mcp — server MCP SOLOMONAR
 
-Expune datele ROMEGA (`data/v1/*.json`) ca **Model Context Protocol** — orice agent compatibil
+Expune datele SOLOMONAR (`data/v1/*.json`) ca **Model Context Protocol** — orice agent compatibil
 (Claude Desktop / Cursor / Continue) le poate interoga conversațional.
 
 ## Instalare + rulare
 
 ```bash
-pip install -e packages/romega_mcp
-romega-mcp          # server stdio
-# sau:  ROMEGA_DATA=/cale/la/data/v1 python -m romega_mcp.server
+pip install -e packages/solomonar_mcp
+solomonar-mcp          # server stdio
+# sau:  SOLOMONAR_DATA=/cale/la/data/v1 python -m solomonar_mcp.server
 ```
 
 ## Config Claude Desktop (`claude_desktop_config.json`)
@@ -16,9 +16,9 @@ romega-mcp          # server stdio
 ```json
 {
   "mcpServers": {
-    "romega": {
-      "command": "romega-mcp",
-      "env": { "ROMEGA_DATA": "C:/Users/Maia/Downloads/python/altele/romega/data/v1" }
+    "solomonar": {
+      "command": "solomonar-mcp",
+      "env": { "SOLOMONAR_DATA": "C:/Users/Maia/Downloads/python/altele/romega/data/v1" }
     }
   }
 }

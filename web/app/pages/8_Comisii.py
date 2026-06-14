@@ -1,4 +1,4 @@
-"""ROMEGA · Comisii & Legislativ — comisiile Senatului (23) + inițiatori PLx (1.852).
+"""SOLOMONAR · Comisii & Legislativ — comisiile Senatului (23) + inițiatori PLx (1.852).
 
 Comisii Senat: selectează o comisie -> membri + rol. Legislativ: distribuția inițiativelor
 (guvern vs. parlamentar) și un tabel filtrabil al proiectelor PLx.
@@ -14,7 +14,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Comisii & Legislativ · ROMEGA", page_icon="🏛️", layout="wide")
+st.set_page_config(page_title="Comisii & Legislativ · SOLOMONAR", page_icon="🏛️", layout="wide")
 apply_theme()
 sidebar_brand()
 

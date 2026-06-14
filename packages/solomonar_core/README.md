@@ -1,4 +1,4 @@
-# romega_core — biblioteca comună
+# solomonar_core — biblioteca comună
 
 Codul partajat de toate connectoarele și de pipeline. Extras și generalizat din `cdep-api-poc`.
 
@@ -18,9 +18,9 @@ Codul partajat de toate connectoarele și de pipeline. Extras și generalizat di
 
 ---
 
-## Server MCP — `romega_core.mcp_server`
+## Server MCP — `solomonar_core.mcp_server`
 
-Expune datele gold ROMEGA (DuckDB read-only) pentru orice client MCP
+Expune datele gold SOLOMONAR (DuckDB read-only) pentru orice client MCP
 (Claude Desktop / Cursor / Continue). 10 tool-uri cu provenance pe fiecare răspuns:
 
 | Tool | Ce întoarce |
@@ -45,21 +45,21 @@ Expune datele gold ROMEGA (DuckDB read-only) pentru orice client MCP
 ### Instalare (în .venv-ul proiectului)
 
 ```bash
-.venv/Scripts/python.exe -m pip install -e packages/romega_core[mcp]
-# instalează: mcp[cli], duckdb și înregistrează scriptul `romega-mcp-core`
+.venv/Scripts/python.exe -m pip install -e packages/solomonar_core[mcp]
+# instalează: mcp[cli], duckdb și înregistrează scriptul `solomonar-mcp-core`
 ```
 
 ### Rulare
 
 ```bash
-romega-mcp-core                       # scriptul instalat
+solomonar-mcp-core                       # scriptul instalat
 # sau, fără instalare:
-.venv/Scripts/python.exe -m romega_core.mcp_server
+.venv/Scripts/python.exe -m solomonar_core.mcp_server
 ```
 
-Localizarea datelor se autodetectează (`data/gold/romega.duckdb`,
+Localizarea datelor se autodetectează (`data/gold/solomonar.duckdb`,
 `data/v1/graf/*.json`). Override prin variabile de mediu:
-`ROMEGA_DUCKDB=/cale/romega.duckdb` și `ROMEGA_DATA=/cale/data/v1`.
+`SOLOMONAR_DUCKDB=/cale/solomonar.duckdb` și `SOLOMONAR_DATA=/cale/data/v1`.
 
 ### Configurare în Claude Desktop
 
@@ -70,8 +70,8 @@ macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`):
 ```jsonc
 {
   "mcpServers": {
-    "romega": {
-      "command": "romega-mcp-core"
+    "solomonar": {
+      "command": "solomonar-mcp-core"
     }
   }
 }
@@ -82,16 +82,16 @@ Dacă scriptul nu e pe `PATH`, indică explicit interpretorul din venv și modul
 ```jsonc
 {
   "mcpServers": {
-    "romega": {
+    "solomonar": {
       "command": "C:/Users/<user>/Downloads/python/altele/romega/.venv/Scripts/python.exe",
-      "args": ["-m", "romega_core.mcp_server"],
+      "args": ["-m", "solomonar_core.mcp_server"],
       "env": {
-        "ROMEGA_DUCKDB": "C:/Users/<user>/Downloads/python/altele/romega/data/gold/romega.duckdb",
-        "ROMEGA_DATA": "C:/Users/<user>/Downloads/python/altele/romega/data/v1"
+        "SOLOMONAR_DUCKDB": "C:/Users/<user>/Downloads/python/altele/romega/data/gold/solomonar.duckdb",
+        "SOLOMONAR_DATA": "C:/Users/<user>/Downloads/python/altele/romega/data/v1"
       }
     }
   }
 }
 ```
 
-Repornește Claude Desktop; uneltele `romega` apar în lista de tool-uri MCP.
+Repornește Claude Desktop; uneltele `solomonar` apar în lista de tool-uri MCP.

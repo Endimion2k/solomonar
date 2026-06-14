@@ -1,20 +1,20 @@
-# ROMEGA Insights — client Streamlit
+# SOLOMONAR Insights — client Streamlit
 
-Dashboard interactiv peste datele ROMEGA (declarații, companii de stat, achiziții, partide, bugete,
+Dashboard interactiv peste datele SOLOMONAR (declarații, companii de stat, achiziții, partide, bugete,
 graf follow-the-money, DNA, comisii). Citește JSON-urile statice din `data/v1/`.
 
 ## Rulare
 
 ```bash
 pip install -r web/app/requirements.txt
-cd <rădăcina romega>
+cd <rădăcina solomonar>
 streamlit run web/app/Overview.py
 ```
 
 Sursa de date: implicit `data/v1` local. Pentru datele LIVE (GitHub Pages):
 
 ```bash
-ROMEGA_DATA=https://endimion2k.github.io/romega/data/v1 streamlit run web/app/Overview.py
+SOLOMONAR_DATA=https://endimion2k.github.io/romega/data/v1 streamlit run web/app/Overview.py
 ```
 
 ## Pagini

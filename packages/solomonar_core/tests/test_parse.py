@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from romega_core.parse import all_texts, decode, first_text, selector
+from solomonar_core.parse import all_texts, decode, first_text, selector
 
 _HTML = "<table><tr><td class='n'>Ion Popescu</td><td class='n'>Maria Ionescu</td></tr></table>"
 

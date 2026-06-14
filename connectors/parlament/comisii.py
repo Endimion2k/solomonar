@@ -16,7 +16,7 @@ from __future__ import annotations
 import re
 from urllib.parse import urljoin
 
-from romega_core.parse import selector
+from solomonar_core.parse import selector
 
 CO_BASE = "https://www.cdep.ro/ords/co/"
 COMISII_URL = CO_BASE + "sedinte2015.comisii"

@@ -8,7 +8,7 @@ Discovery prin CKAN (live); parserul e tolerant (numele exact al coloanelor vine
 from __future__ import annotations
 
 from connectors.opendata.datagov import CkanClient
-from romega_core.models import FinancialYear
+from solomonar_core.models import FinancialYear
 
 
 def _to_int(v) -> int | None:

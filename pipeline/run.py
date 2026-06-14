@@ -46,6 +46,10 @@ def _build_connector(source_id: str):
         from connectors.opendata.ins import InsConnector
 
         return InsConnector()
+    if source_id == "budget":
+        from connectors.opendata.budget import BudgetConnector
+
+        return BudgetConnector()
     if source_id == "ccr":
         from connectors.audit.curteadeconturi import CurteaDeConturiConnector
 
@@ -58,7 +62,7 @@ def _build_connector(source_id: str):
 
 
 def main(argv: list[str] | None = None) -> int:
-    ap = argparse.ArgumentParser(prog="romega")
+    ap = argparse.ArgumentParser(prog="solomonar")
     ap.add_argument("--source", help="source_id din config/sources.yaml")
     ap.add_argument("--list", action="store_true", help="listează toate sursele")
     ap.add_argument("--build", action="store_true", help="build gold → data/v1/*.json")

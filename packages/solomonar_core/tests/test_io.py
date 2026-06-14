@@ -4,8 +4,8 @@ from __future__ import annotations
 
 import json
 
-from romega_core.io import export_collection
-from romega_core.models import Person
+from solomonar_core.io import export_collection
+from solomonar_core.models import Person
 
 
 def test_export_collection(tmp_path):

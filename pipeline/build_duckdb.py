@@ -4,7 +4,7 @@
 permite interogări relaționale + CTE recursive (expandare de rețea persoană↔companie), și exportă
 VIEW-URI ANALITICE noi ca JSON în API static (agregări greu de produs în Python).
 
-DuckDB (data/gold/romega.duckdb) e EFEMER (gitignored, regenerabil). Deliverable = build script +
+DuckDB (data/gold/solomonar.duckdb) e EFEMER (gitignored, regenerabil). Deliverable = build script +
 data/v1/analytics/*.json.
 """
 
@@ -53,7 +53,7 @@ def _export(con, name, sql):
 def main() -> dict:
     os.makedirs(GOLD, exist_ok=True)
     os.makedirs(ANALYTICS, exist_ok=True)
-    db = os.path.join(GOLD, "romega.duckdb")
+    db = os.path.join(GOLD, "solomonar.duckdb")
     if os.path.exists(db):
         os.remove(db)
     con = duckdb.connect(db)

@@ -17,7 +17,7 @@ from __future__ import annotations
 import os
 import time
 
-from romega_core.http import Client
+from solomonar_core.http import Client
 
 CAPSOLVER_BASE = "https://api.capsolver.com"
 ANI_URL = "https://declaratii.integritate.eu"

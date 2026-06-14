@@ -7,8 +7,8 @@ graful CONTROLS să fie populat și demonstrabil. CUI-urile se verifică LIVE pr
 
 from __future__ import annotations
 
-from romega_core.models import Company
-from romega_core.provenance import SourceRef
+from solomonar_core.models import Company
+from solomonar_core.provenance import SourceRef
 
 SOE_SEED = [
     {"cui": 14056826, "name": "S.N.G.N. Romgaz S.A.", "tutelary": "Ministerul Energiei"},

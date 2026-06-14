@@ -18,10 +18,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
 from connectors.institutie.generic import find_institution_sections  # noqa: E402
-from romega_core.bronze import BronzeStore  # noqa: E402
-from romega_core.http import Client  # noqa: E402
-from romega_core.names import strip_diacritics  # noqa: E402
-from romega_core.parse import selector  # noqa: E402
+from solomonar_core.bronze import BronzeStore  # noqa: E402
+from solomonar_core.http import Client  # noqa: E402
+from solomonar_core.names import strip_diacritics  # noqa: E402
+from solomonar_core.parse import selector  # noqa: E402
 
 # județ -> cod auto (ISO 3166-2:RO) — folosit de subdomeniile ANPM (apm{cod}.anpm.ro) etc.
 COUNTY_CODE = {

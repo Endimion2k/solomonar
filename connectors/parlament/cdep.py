@@ -1,9 +1,9 @@
-"""Connector parlament/cdep — portare a scraperului de deputați din cdep-api-poc pe romega_core.
+"""Connector parlament/cdep — portare a scraperului de deputați din cdep-api-poc pe solomonar_core.
 
 Diferențe față de original (scrapers/deputati.py):
-- folosește romega_core.http.Client (throttle per-host + bronze) în loc de _http global;
+- folosește solomonar_core.http.Client (throttle per-host + bronze) în loc de _http global;
 - mapează `Deputat` (model cdep) → `Person` canonic prin PersonRegistry (romega_id + crosswalk);
-- parsarea de date RO e factorizată în romega_core.dates (partajat cu connectorul senat);
+- parsarea de date RO e factorizată în solomonar_core.dates (partajat cu connectorul senat);
 - normalizează diacriticele de afișare (cedilă → virgulă-jos) și atașează provenance (SourceRef).
 
 Regexurile și logica de parsare sunt păstrate fidel (parsare identică pe HTML-ul cdep.ro).
@@ -17,19 +17,19 @@ from datetime import date
 from parsel import Selector
 from pydantic import BaseModel
 
-from romega_core.dates import RE_BIRTH, parse_ro_date
-from romega_core.http import Client
-from romega_core.models import Person
-from romega_core.names import fix_ro_diacritics
-from romega_core.parse import selector
-from romega_core.provenance import SourceRef
-from romega_core.resolve import PersonRegistry
+from solomonar_core.dates import RE_BIRTH, parse_ro_date
+from solomonar_core.http import Client
+from solomonar_core.models import Person
+from solomonar_core.names import fix_ro_diacritics
+from solomonar_core.parse import selector
+from solomonar_core.provenance import SourceRef
+from solomonar_core.resolve import PersonRegistry
 
 BASE = "https://www.cdep.ro"
 LIST_URL = BASE + "/ords/pls/parlam/structura2015.de?cam={cam}&leg={leg}&idl=1"
 PROFILE_URL = BASE + "/ords/pls/parlam/structura2015.mp?idm={idm}&cam={cam}&leg={leg}"
 
-# --- Regex cdep-specifice (RE_BIRTH e în romega_core.dates) ---
+# --- Regex cdep-specifice (RE_BIRTH e în solomonar_core.dates) ---
 RE_CIRC = re.compile(
     r"circumscripti(?:a|ia|ţia|ția)\s+electoral(?:a|ă)\s+nr\.\s*(\d+)\s+"
     r"([A-ZĂÂÎȘŞȚŢ\- ]+?)(?=\s+data|\s+Grup|\s+Forma|$)",
