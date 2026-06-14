@@ -137,5 +137,11 @@
       "concentrare_persoana": 5,
       "firma_mama_straina": 35
     }
+  },
+  "ani_central": {
+    "metadate": 16498,
+    "persoane_in_graf": 353,
+    "sursa": "portal vechi fara captcha (2008-2023)",
+    "tinta": "parlamentari (iterare pe nume)"
   }
 }
