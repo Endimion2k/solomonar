@@ -64,6 +64,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-14c (commit 178) — REPS PT. FURNIZORII DIRECȚI (graf 2×):** enrich_reprezentanti extins
+> cu cele 50k CUI-uri de achiziții directe (ONRC dump gratis): **12.777→49.571 companii cu reps** (70.873 reps),
+> 44k furnizori direcți acum cu administratori. Rebuild gold: **56k→102.452 persoane**; persoane cu firme cu
+> achiziții directe **11.348→57.656** (acum știm CINE conduce furnizorii direcți). Follow-the-money complet pe
+> ambele canale. search 103.725 entități (12,8MB), duckdb 70.873 muchii. Acționariat %: confirmat că nu există
+> gratis bulk (doc 05) — avem reps(administratori) pt. firmele-țintă + BVB% pt. listate.
+>
 > **🟢 RUNDA 2026-06-14b (commit 175) — ANI CENTRAL HARVEST ȚINTIT:** `harvest_ani_parlament` iterează pe
 > cele 469 nume de parlamentari (primitiva robustă sub 10k) → **16.498 metadate ANI** (2008-2023, 73% hit
 > rate). `build_ani_integrate`: publică `ani_central.json` (curat, 0 PII) + patch post-process pe gold
