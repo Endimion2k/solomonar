@@ -64,6 +64,16 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-14 (commit 173) — FEEDS + SPLINK APPLY + ANI CENTRAL DEBLOCAT:**
+> - **Feeds** (MASTERPLAN ✓): `feed.json` (JSON Feed, 60 comunicate DNA) + `feed.xml` (Atom) + `alerte.feed.json`.
+> - **Splink apply**: `build_splink_apply` colapsează 24 duplicate SIGURE (nume subset-tokeni + org comună),
+>   56.296→56.272; fals-merge-uri respinse; backup în _local.
+> - **🎯 ANI CENTRAL — NU mai e blocat!** Descoperire: `old-declaratii.integritate.eu` = **ZERO captcha**
+>   (CCR 297/2025 oprește doar publicarea NOUĂ; arhiva 2008-2023 publică). `harvest_ani.py` (Playwright
+>   search JSF + requests download PDF). Pilot: 418 metadate + 6 PDF. Constrângere: căutare instituție >10k
+>   refuzată → primitivă robustă = **căutare pe NUME** (iterare pe cele 56k nume din graf). 17/17 teste.
+>   **Singurul „blocat" rămas confirmat doar: acționariat firme NElistate (plătit) + UBO (L.86/2025).**
+>
 > **🟢 RUNDA 2026-06-12g (commit 170) — CLIENT 15 PAGINI:** 3 pagini noi care expun datele construite:
 > **12_Alerte** (1.412 semnale, 12 conflicte confirmate sus), **13_Sanctiuni** (22 sancționați + 6.761 PEP,
 > 978 în graf), **14_Firme_paravan** (1.343 firme noi cu contracte). Toate cu disclaimere etice. data.alerte/
