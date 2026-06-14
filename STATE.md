@@ -64,6 +64,13 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-12f (commit 168) — ENRICHMENT ONRC (vs info-firme):** info-firme = aceeași sursă
+> ONRC data.gov.ro (nimic nou). În schimb am derivat **ANALIZA**: `harvest_firme_onrc` îmbogățește 50.799
+> firme (graf+furnizori) cu formă juridică, an înființare, CAEN domeniu, țară-mamă (OD_FIRME/OD_CAEN/
+> OD_REPREZENTANTI_IF). 2 reguli noi de alertă: **firma_noua_bani_stat** (10.175 firme înființate ≤1 an
+> înainte de bani publici = posibile paravane; 1.343 cu contracte listate) + firma_mama_straina (35).
+> Alerte: 34→1.412. `firme_onrc.json`.
+>
 > **🟢 RUNDA 2026-06-12e (commit 166) — COSMOS.GL (graful complet GPU) — BACKLOG GITHUB ÎNCHIS:**
 > `build_graph_full` + `web/graf_full.html` — **33.005 noduri** (toate persoanele↔companiile, conflicte/
 > parlamentari evidențiați) cu force-layout **pe GPU în browser** (cosmos.gl 2.6.4, typed arrays, fără
