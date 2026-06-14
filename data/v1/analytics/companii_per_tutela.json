@@ -51,18 +51,6 @@
       "salariati": 602
     },
     {
-      "tutela": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
-      "n_companii": 2,
-      "contracte": null,
-      "salariati": 1194
-    },
-    {
-      "tutela": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE",
-      "n_companii": 2,
-      "contracte": null,
-      "salariati": 9
-    },
-    {
       "tutela": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE",
       "n_companii": 2,
       "contracte": null,
@@ -87,16 +75,34 @@
       "salariati": 15187
     },
     {
-      "tutela": "CAMERA DEPUTATILOR",
-      "n_companii": 1,
+      "tutela": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE",
+      "n_companii": 2,
       "contracte": null,
-      "salariati": 287
+      "salariati": 9
+    },
+    {
+      "tutela": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
+      "n_companii": 2,
+      "contracte": null,
+      "salariati": 1194
     },
     {
       "tutela": "SERVICIUL ROMAN DE INFORMATII",
       "n_companii": 1,
       "contracte": 69061534.0,
       "salariati": 283
+    },
+    {
+      "tutela": "MINISTERUL CULTURII",
+      "n_companii": 1,
+      "contracte": null,
+      "salariati": null
+    },
+    {
+      "tutela": "CAMERA DEPUTATILOR",
+      "n_companii": 1,
+      "contracte": null,
+      "salariati": 287
     },
     {
       "tutela": "MINISTERUL EDUCATIEI",
@@ -109,12 +115,6 @@
       "n_companii": 1,
       "contracte": null,
       "salariati": 271
-    },
-    {
-      "tutela": "MINISTERUL CULTURII",
-      "n_companii": 1,
-      "contracte": null,
-      "salariati": null
     }
   ]
 }

@@ -1,0 +1,220 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "ROMEGA — conflicte de interese confirmate",
+  "home_page_url": "https://endimion2k.github.io/romega",
+  "feed_url": "https://endimion2k.github.io/romega/data/v1/alerte.feed.json",
+  "description": "Conflicte de interese documentate (severitate mare): persoane care au în propria declarație de interese firme cu contracte de stat. ⚠️ SEMNALE DE INTERES, NU ACUZAȚII. Aceste alerte sunt generate automat din date deschise prin reguli deterministe. Legăturile firmă↔persoană sunt în mare parte pe NUME (fără CNP) => candidații pe nume pot fi OMONIMI, mai ales la companii mari. Singurele defensabile fără verificare suplimentară sunt cele de tip 'conflict_confirmat' (firma apare în PROPRIA declarație de interese). Restul necesită verificare manuală (ONRC + declarații de interese + SICAP). Cifrele de contracte pot fi cumulate multianual.",
+  "language": "ro",
+  "authors": [
+    {
+      "name": "ROMEGA",
+      "url": "https://endimion2k.github.io/romega"
+    }
+  ],
+  "items": [
+    {
+      "id": "romega:alerta:conflict_confirmat:g:ff1ff43339127f07",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Catalin Lungu are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Catalin Lungu are în declarația de interese firmă cu contracte de stat\nFirme: COMPANIA NATIONALA UNIFARM SA (CUI 11653560. 3.797.294.049 RON)\nTotal contracte: 3.797.294.049 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Catalin Lungu",
+        "este_parlamentar": false,
+        "total_contracte_ron": 3797294049.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:d3a282b69c66a4a1",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Alina Costea Sanda are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Alina Costea Sanda are în declarația de interese firmă cu contracte de stat\nFirme: COMPANIA NATIONALA UNIFARM SA (CUI 11653560. 3.797.294.049 RON)\nTotal contracte: 3.797.294.049 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Alina Costea Sanda",
+        "este_parlamentar": false,
+        "total_contracte_ron": 3797294049.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:p:112ac4ccab0922c1",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Gherasim Laura are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Gherasim Laura are în declarația de interese firmă cu contracte de stat\nFirme: ACG CONSTRUCTION & PROJECTS (CUI 17351537. 263.537.595 RON); ACG CONSTRUCTION & PROJECTS (CUI 17351537. 263.537.595 RON)\nTotal contracte: 527.075.190 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Gherasim Laura",
+        "este_parlamentar": true,
+        "total_contracte_ron": 527075190.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:40d58e523e945881",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Ion Sterian are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Ion Sterian are în declarația de interese firmă cu contracte de stat\nFirme: SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA (CUI 13068733. 459.124.537 RON)\nTotal contracte: 459.124.537 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Ion Sterian",
+        "este_parlamentar": false,
+        "total_contracte_ron": 459124537.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:b4679da7b3ac4d7b",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat\nFirme: DRUMURI SI PODURI LOCALE ALBA SA (CUI 4331392. 225.438.871 RON)\nTotal contracte: 225.438.871 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Crisan Vasile",
+        "este_parlamentar": false,
+        "total_contracte_ron": 225438871.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:c06dfa2e659ea635",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Dana Gaiseanu are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Dana Gaiseanu are în declarația de interese firmă cu contracte de stat\nFirme: DRUMURI SI PODURI LOCALE ALBA SA (CUI 4331392. 225.438.871 RON)\nTotal contracte: 225.438.871 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Dana Gaiseanu",
+        "este_parlamentar": false,
+        "total_contracte_ron": 225438871.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:21c3c8805d91e3d9",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Calin Radu Rosian are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Calin Radu Rosian are în declarația de interese firmă cu contracte de stat\nFirme: DRUMURI SI PODURI LOCALE ALBA SA (CUI 4331392. 225.438.871 RON)\nTotal contracte: 225.438.871 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Calin Radu Rosian",
+        "este_parlamentar": false,
+        "total_contracte_ron": 225438871.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:e38f19509eadfa59",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Dan Mihail Stan are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Dan Mihail Stan are în declarația de interese firmă cu contracte de stat\nFirme: COMPANIA NATIONALA ROMARM SA (CUI 13554423. 133.427.590 RON)\nTotal contracte: 133.427.590 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Dan Mihail Stan",
+        "este_parlamentar": false,
+        "total_contracte_ron": 133427590.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:a99dfe912a45a891",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Liviu Stanoiu are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Liviu Stanoiu are în declarația de interese firmă cu contracte de stat\nFirme: RO-ARMYSECURITY SA (CUI 29136150. 19.886.698 RON)\nTotal contracte: 19.886.698 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Liviu Stanoiu",
+        "este_parlamentar": false,
+        "total_contracte_ron": 19886698.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:60f7d79d2e8172c6",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Ion Octavian Tache are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Ion Octavian Tache are în declarația de interese firmă cu contracte de stat\nFirme: TERMO PLOIEȘTI S.R.L. (CUI 46877331. 14.986.076 RON)\nTotal contracte: 14.986.076 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Ion Octavian Tache",
+        "este_parlamentar": false,
+        "total_contracte_ron": 14986076.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:g:7f61cc1a5574aaa9",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Gabriela Stanga are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Gabriela Stanga are în declarația de interese firmă cu contracte de stat\nFirme: SERVICE CICLOP SA (CUI 11573879. 454.800 RON)\nTotal contracte: 454.800 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Gabriela Stanga",
+        "este_parlamentar": false,
+        "total_contracte_ron": 454800.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "romega:alerta:conflict_confirmat:p:aea9a2c0d15198cd",
+      "url": "https://endimion2k.github.io/romega/web/#alerte",
+      "title": "Conflict documentat: Andrei Vidra Vlad are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Andrei Vidra Vlad are în declarația de interese firmă cu contracte de stat\nFirme: COPROT (CUI 62461. 419.526 RON)\nTotal contracte: 419.526 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-06-14T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Andrei Vidra Vlad",
+        "este_parlamentar": true,
+        "total_contracte_ron": 419526.0,
+        "scor": 3
+      }
+    }
+  ]
+}

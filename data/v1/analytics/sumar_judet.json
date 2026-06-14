@@ -57,16 +57,16 @@
       "salariati": 1431
     },
     {
-      "judet": "Olt",
-      "n_companii": 45,
-      "cifra_afaceri": 154335592.0,
-      "salariati": 1182
-    },
-    {
       "judet": "Argeș",
       "n_companii": 45,
       "cifra_afaceri": 650755146.0,
       "salariati": 3867
+    },
+    {
+      "judet": "Olt",
+      "n_companii": 45,
+      "cifra_afaceri": 154335592.0,
+      "salariati": 1182
     },
     {
       "judet": "Harghita",
@@ -81,10 +81,10 @@
       "salariati": 2454
     },
     {
-      "judet": "Sibiu",
+      "judet": "Gorj",
       "n_companii": 32,
-      "cifra_afaceri": 393827013.0,
-      "salariati": 2250
+      "cifra_afaceri": 312418527.0,
+      "salariati": 3549
     },
     {
       "judet": "Cluj",
@@ -93,10 +93,10 @@
       "salariati": 5362
     },
     {
-      "judet": "Gorj",
+      "judet": "Sibiu",
       "n_companii": 32,
-      "cifra_afaceri": 312418527.0,
-      "salariati": 3549
+      "cifra_afaceri": 393827013.0,
+      "salariati": 2250
     },
     {
       "judet": "Giurgiu",
@@ -147,16 +147,16 @@
       "salariati": 798
     },
     {
+      "judet": "Dâmbovița",
+      "n_companii": 19,
+      "cifra_afaceri": 461046801.0,
+      "salariati": 2541
+    },
+    {
       "judet": "Covasna",
       "n_companii": 19,
       "cifra_afaceri": 215021456.0,
       "salariati": 1024
-    },
-    {
-      "judet": "Mehedinți",
-      "n_companii": 19,
-      "cifra_afaceri": 58567094.0,
-      "salariati": 484
     },
     {
       "judet": "Iași",
@@ -165,10 +165,10 @@
       "salariati": 5140
     },
     {
-      "judet": "Dâmbovița",
+      "judet": "Mehedinți",
       "n_companii": 19,
-      "cifra_afaceri": 461046801.0,
-      "salariati": 2541
+      "cifra_afaceri": 58567094.0,
+      "salariati": 484
     },
     {
       "judet": "Mureș",
@@ -195,22 +195,16 @@
       "salariati": 1270
     },
     {
-      "judet": "Călărași",
-      "n_companii": 15,
-      "cifra_afaceri": 100230606.0,
-      "salariati": 734
-    },
-    {
       "judet": "Galați",
       "n_companii": 15,
       "cifra_afaceri": 572480067.0,
       "salariati": 3366
     },
     {
-      "judet": "Alba",
-      "n_companii": 14,
-      "cifra_afaceri": 841463145.0,
-      "salariati": 3448
+      "judet": "Călărași",
+      "n_companii": 15,
+      "cifra_afaceri": 100230606.0,
+      "salariati": 734
     },
     {
       "judet": "Bacău",
@@ -225,22 +219,28 @@
       "salariati": 1043
     },
     {
+      "judet": "Alba",
+      "n_companii": 14,
+      "cifra_afaceri": 841463145.0,
+      "salariati": 3448
+    },
+    {
       "judet": "Vaslui",
       "n_companii": 13,
       "cifra_afaceri": 202696291.0,
       "salariati": 1387
     },
     {
-      "judet": "Sălaj",
-      "n_companii": 11,
-      "cifra_afaceri": 79784574.0,
-      "salariati": 709
-    },
-    {
       "judet": "Botoșani",
       "n_companii": 11,
       "cifra_afaceri": 177418413.0,
       "salariati": 1060
+    },
+    {
+      "judet": "Sălaj",
+      "n_companii": 11,
+      "cifra_afaceri": 79784574.0,
+      "salariati": 709
     },
     {
       "judet": "Suceava",
