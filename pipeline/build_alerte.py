@@ -305,6 +305,43 @@ DISCLAIMER = (
 )
 
 
+def regula7_firma_noua_bani_stat(firme: list) -> list:
+    """Firme nou-înființate (≤1 an înainte) care au luat CONTRACTE de stat — posibile firme-paravan.
+
+    Doar canalul contracte (mai mare); cele doar cu achiziții directe mici rămân ca agregat în sumar
+    (vezi meta), ca să nu îneace alertele de conflict de mare valoare.
+    """
+    alerte = []
+    for f in firme:
+        if not any("nou" in str(x).lower() for x in (f.get("flaguri") or [])):
+            continue
+        if not f.get("are_contracte"):     # doar contracte (nu achiziții directe mici)
+            continue
+        canal = "contracte"
+        alerte.append({
+            "tip": "firma_noua_bani_stat", "severitate": "medie",
+            "titlu": f"Firmă nou-înființată ({f.get('an_infiintare', '?')}) cu bani de stat — {f.get('forma_juridica', '')} {f.get('judet', '')}".strip(),
+            "entitate": {"cui": f.get("cui"), "forma_juridica": f.get("forma_juridica"),
+                         "an_infiintare": f.get("an_infiintare"), "caen": f.get("caen_domeniu")},
+            "detalii": {"canal": canal, "an_infiintare": f.get("an_infiintare")},
+            "provenance": "ONRC OD_FIRME (an înființare) × SICAP — LEAD, nu probă (poate fi firmă tânără legitimă)"})
+    return alerte
+
+
+def regula8_firma_mama_straina(firme: list) -> list:
+    """Firme cu firmă-mamă în alt stat, care iau bani de stat."""
+    alerte = []
+    for f in firme:
+        if f.get("tara_mama") and (f.get("are_contracte") or f.get("are_achizitii_directe")):
+            alerte.append({
+                "tip": "firma_mama_straina", "severitate": "mica",
+                "titlu": f"Firmă cu mamă în {f.get('tara_mama')} cu bani de stat — CUI {f.get('cui')}",
+                "entitate": {"cui": f.get("cui"), "tara_mama": f.get("tara_mama")},
+                "detalii": {"tara_mama": f.get("tara_mama")},
+                "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă"})
+    return alerte
+
+
 def main() -> dict:
     if duckdb is None:
         raise RuntimeError("duckdb nu este instalat")
@@ -313,6 +350,7 @@ def main() -> dict:
     gold = _load(os.path.join(V, "graf/persoane_gold.json"))
     persoane = gold.get("persoane", []) if isinstance(gold, dict) else []
     cui_fin = _build_cui_financials(persoane)
+    firme = _load(os.path.join(V, "companii/firme_onrc.json")).get("firme", [])
 
     con = duckdb.connect(DB, read_only=True)
     try:
@@ -323,6 +361,8 @@ def main() -> dict:
         alerte += regula4_outlier_contracte(con)
         alerte += regula5_concentrare_persoana(con)
         alerte += regula6_partid_subventie_fara_parlamentari(con)
+        alerte += regula7_firma_noua_bani_stat(firme)
+        alerte += regula8_firma_mama_straina(firme)
     finally:
         con.close()
 
@@ -349,12 +389,23 @@ def main() -> dict:
         pe_sev[a["severitate"]] = pe_sev.get(a["severitate"], 0) + 1
         pe_tip[a["tip"]] = pe_tip.get(a["tip"], 0) + 1
 
+    # agregate (semnale prea voluminoase pt. listă individuală)
+    noi_total = sum(1 for f in firme if any("nou" in str(x).lower() for x in (f.get("flaguri") or [])))
+    noi_directe = sum(1 for f in firme
+                      if any("nou" in str(x).lower() for x in (f.get("flaguri") or []))
+                      and f.get("are_achizitii_directe") and not f.get("are_contracte"))
     out = {
         "disclaimer": DISCLAIMER,
         "generat": datetime.date.today().isoformat(),
         "total": len(alerte),
         "pe_severitate": pe_sev,
         "pe_tip": pe_tip,
+        "agregate": {
+            "firme_noi_cu_bani_stat_total": noi_total,
+            "firme_noi_doar_achizitii_directe": noi_directe,
+            "nota_agregat": "Firmele noi cu doar achiziții directe mici NU sunt listate individual "
+                            "(prea multe); doar cele cu contracte. Vezi firme_onrc.json pentru toate.",
+        },
         "alerte": alerte,
     }
 

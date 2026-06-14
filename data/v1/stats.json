@@ -119,5 +119,23 @@
     "clustere_splink": 55543,
     "persoane_gold": 56296,
     "acord_pct": 98.7
+  },
+  "firme_onrc": {
+    "total": 50799,
+    "cu_caen": 49130,
+    "firme_noi_cu_bani_stat": 10175
+  },
+  "alerte": {
+    "total": 1412,
+    "pe_tip": {
+      "conflict_confirmat": 12,
+      "soe_pierdere_contracte_mari": 4,
+      "partid_subventie_fara_parlamentari": 6,
+      "parlamentar_conduce_soe": 3,
+      "firma_noua_bani_stat": 1343,
+      "outlier_valoare_contract": 4,
+      "concentrare_persoana": 5,
+      "firma_mama_straina": 35
+    }
   }
 }
