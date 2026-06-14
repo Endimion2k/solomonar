@@ -64,6 +64,12 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > RĂMAS (opțional): extindere RVC la toți anii/partidele (~500), subvenții lunare (necesită spreadsheet EFOR sursă),
 > data.gov.ro index, FOREXEBUG granular per-entitate, bugete locale ani vechi.
 >
+> **🟢 RUNDA 2026-06-14b (commit 175) — ANI CENTRAL HARVEST ȚINTIT:** `harvest_ani_parlament` iterează pe
+> cele 469 nume de parlamentari (primitiva robustă sub 10k) → **16.498 metadate ANI** (2008-2023, 73% hit
+> rate). `build_ani_integrate`: publică `ani_central.json` (curat, 0 PII) + patch post-process pe gold
+> (păstrează splink) → **353 parlamentari cu istoric ANI central** {n, ani, funcții} = cross-validare +
+> provenance. Scalare viitoare: aceeași iterare pe nume pt. directori SOE / persoanele follow-the-money.
+>
 > **🟢 RUNDA 2026-06-14 (commit 173) — FEEDS + SPLINK APPLY + ANI CENTRAL DEBLOCAT:**
 > - **Feeds** (MASTERPLAN ✓): `feed.json` (JSON Feed, 60 comunicate DNA) + `feed.xml` (Atom) + `alerte.feed.json`.
 > - **Splink apply**: `build_splink_apply` colapsează 24 duplicate SIGURE (nume subset-tokeni + org comună),
