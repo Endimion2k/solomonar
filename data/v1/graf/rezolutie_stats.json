@@ -1,8 +1,552 @@
 {
   "nota": "v2 institution-aware. incredere: high=dată naștere (parlamentari), context=declară LA + conduce ACEEAȘI organizație (nume+org, fără CNP), candidat=doar nume.",
-  "cross_links_total": 277,
-  "cross_links_confirmate": 263,
+  "cross_links_total": 304,
+  "cross_links_confirmate": 287,
   "confirmate": [
+    {
+      "romega_id": "p:78896aeb00895d99",
+      "nume_key": "ion iordache",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Gorj",
+        "legislatura": 2024,
+        "birth_date": "1974-05-05",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 5,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 5013188.0,
+      "total_achizitii_directe_ron": 4435745.21,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Iordache Ion",
+          "venituri_ron": 2022830
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Iordache Ion",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 1605884,
+          "nume": "SECOM SA",
+          "rol": "administrator",
+          "sector": "Apă-canal · salubritate",
+          "financials": {
+            "an": 2023,
+            "cifra_afaceri": 50360329,
+            "profit_net": 4193671,
+            "datorii": 35055228,
+            "nr_salariati": 379
+          }
+        },
+        {
+          "cui": 3928652,
+          "nume": "ATLANTIC SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 672074.06,
+            "nr": 1400
+          }
+        },
+        {
+          "cui": 16208742,
+          "nume": "MELENTARII",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 5013188.0,
+            "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 3024787.29,
+            "nr": 45
+          }
+        },
+        {
+          "cui": 6770718,
+          "nume": "SC.Amiabil.SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 201623.5,
+            "nr": 4
+          }
+        },
+        {
+          "cui": 12105418,
+          "nume": "S.C.IORDICOM 99 S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 537260.36,
+            "nr": 1493
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | Asociaţia Centrul pentru Formare Profesională şi Dezvoltare Regională | Facultatea de &#536;tiinte Economice &#8217;&#8217;Titu Maiorescu&#8217;&#8217; | Liceul Industrial Energetic Turceni",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Senator - 2020-2024 | 2013 - 2020 | 2012 - 2020 | 2002 - 2008 | 2001 - 2020 | 1994 - 2000 | Manager de proiect | Economist licenţiat | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tab"
+      }
+    },
+    {
+      "romega_id": "p:c48281895105d022",
+      "nume_key": "alexandru popa",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Brăila",
+        "legislatura": 2024,
+        "birth_date": "1990-08-06",
+        "plx_initiate": 39
+      },
+      "n_declaratii": 2,
+      "n_companii": 4,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 1795508.0,
+      "total_achizitii_directe_ron": 5745238.26,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Popa Alexandru",
+          "venituri_ron": 1022189
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Popa Alexandru",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 29025461,
+          "nume": "SC EDITURA DELFIN SRL",
+          "rol": "administrator special",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 815532.02,
+            "nr": 247
+          }
+        },
+        {
+          "cui": 38027313,
+          "nume": "GRUP EDITORIAL DZC SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 2473696.01,
+            "nr": 1568
+          }
+        },
+        {
+          "cui": 21241885,
+          "nume": "ELECTRO-SERVICE DISTRIBUTIE",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 1795508.0,
+            "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 855858.71,
+            "nr": 114
+          }
+        },
+        {
+          "cui": 21241885,
+          "nume": "ELECTRO-SERVICE DISTRIBUTIE",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 1795508.0,
+            "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 855858.71,
+            "nr": 114
+          }
+        },
+        {
+          "cui": 13145089,
+          "nume": "DINAMIC INSTAL S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 744292.81,
+            "nr": 12
+          }
+        }
+      ],
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove"
+      }
+    },
+    {
+      "romega_id": "p:121fb5355da0dbf2",
+      "nume_key": "bodea marius",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Uniunii Salvați România",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+          "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală",
+          "Comisia pentru transporturi şi infrastructură"
+        ]
+      },
+      "n_declaratii": 3,
+      "n_companii": 3,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 883632.73,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Bodea Marius",
+          "venituri_ron": 472480
+        },
+        {
+          "tip": "avere",
+          "institutie": "Senator Bodea Marius",
+          "venituri_ron": 647402
+        },
+        {
+          "tip": "avere",
+          "institutie": "Senator Bodea Marius",
+          "venituri_ron": 647402
+        }
+      ],
+      "companii": [
+        {
+          "cui": 37023836,
+          "nume": "REZIDENTIAL DELUXE",
+          "rol": "lichidator judiciar",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 446071.15,
+            "nr": 2
+          }
+        },
+        {
+          "cui": 19224068,
+          "nume": "FINISH CONSTRUCT SRL",
+          "rol": "reprezentant al persoanei juridice",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 277112.79,
+            "nr": 14
+          }
+        },
+        {
+          "cui": 5833419,
+          "nume": "COMPUTER FORCE S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 160448.79,
+            "nr": 68
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | 2005 - 2007  - Diploma Master, Managementul Resurselor Umane - Universitatea \" Al.I. Cuza\" Iasi  - Facultatea de Economie si Administrarea Afacerilor, Iasi | 1995 - 1999  - Diploma de Licenta, Management - Universitatea \" Al.I.Cuza\" Iasi - Facultatea de Economie si Administrarea Afacerilor | Specializări | Diverse specializari si calificari in comunicare, negociere, vanzari, evaluator competente profesionale, atestate tehnice aviatie civila,",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2016 - 2020 | Legislatura 2020 - 2024 | Legislatura 2024 - 2028 | - 2020 -2024 - Senator - Parlamentul României, membru în Comisia pentru transporturi și I"
+      }
+    },
+    {
+      "romega_id": "g:9871a1233ee8f7f1",
+      "nume_key": "alexandru popescu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 3,
+      "n_companii": 3,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 2043035.24,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "APA SERVICE SA",
+          "venituri_ron": 267590
+        },
+        {
+          "tip": "avere",
+          "institutie": "APA SERVICE SA",
+          "venituri_ron": 257761
+        },
+        {
+          "tip": "interese",
+          "institutie": "APA SERVICE SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 32649260,
+          "nume": "ECOREFILL SERVICE SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 202994.01,
+            "nr": 286
+          }
+        },
+        {
+          "cui": 31357969,
+          "nume": "FLI INSTAL SERVICE",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 222761.41,
+            "nr": 83
+          }
+        },
+        {
+          "cui": 18830,
+          "nume": "S.C.FUTURE LINE INSTAL S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 1617279.82,
+            "nr": 158
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "p:72590c43edb37aaa",
+      "nume_key": "marian vasile",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar Alianța pentru Unirea Românilor",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru administraţie publică",
+          "Comisia pentru comunicații, tehnologia informației și inteligență artificială"
+        ]
+      },
+      "n_declaratii": 12,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 2514106.83,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2024-01bucuresti-2 2024",
+          "venituri_ron": 160361
+        },
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2023-01bucuresti 2023",
+          "venituri_ron": 136000
+        },
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2022-01bucuresti 2023",
+          "venituri_ron": 124070
+        },
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2021-01-bucuresti 2023",
+          "venituri_ron": 5000
+        },
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2020-01bucuresti 2023",
+          "venituri_ron": 5000
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2024-01bucuresti 2024",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2023-01bucuresti 2023",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2022-01bucuresti 2023",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2021-01-bucuresti 2023",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2020-01bucuresti 2023",
+          "venituri_ron": null
+        },
+        {
+          "tip": "avere",
+          "institutie": "Senator Vasile Marian",
+          "venituri_ron": 120128
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Vasile Marian",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 36266853,
+          "nume": "SC DUO SAL CONSTRUCT SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 377655.87,
+            "nr": 4
+          }
+        },
+        {
+          "cui": 6365251,
+          "nume": "GECOMAR '60 EXIM S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 2136450.96,
+            "nr": 1614
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | [ 2010 ] Diploma Master in Managementul Institutiilor Publice Facultatea de Economie si Administrarea Afacerilor, Universitatea din Craiova Localitatea: Craiova | [ 2010 ] Inginer Diplomat in domeniul calculatoarelor Facultatea de Automatica, Calculatoare si Electronica, Universitatea din Craiova Localitatea: Craiova | [ 2008 ] Licentiat in Informatica Facultatea de Matematica si Informatica, Universitatea din Craiova Localitatea: Craiova | Manager de proiect - diploma acreditata ANC | Expert fonduri europene - diploma acreditata ANC",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | Decembrie 2024 - prezent - Senator al României | [ 2008 – În curs ] Consilier local  - Consiliul Local Craiova Localitatea: Craiova | [ 2022 "
+      }
+    },
+    {
+      "romega_id": "p:fed219c45a7a885b",
+      "nume_key": "ion samoila",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Social Democrat",
+        "judet": "Călărași",
+        "legislatura": 2024,
+        "birth_date": "1959-11-26",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 7,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 1050114.9,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ITM Argeș",
+          "venituri_ron": 181657
+        },
+        {
+          "tip": "avere",
+          "institutie": "ITM Argeș",
+          "venituri_ron": 195893
+        },
+        {
+          "tip": "interese",
+          "institutie": "ITM Argeș",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "ITM Argeș",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "ITM Argeș",
+          "venituri_ron": null
+        },
+        {
+          "tip": "avere",
+          "institutie": "Deputat Samoila Ion",
+          "venituri_ron": 420743
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Samoila Ion",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 17976951,
+          "nume": "SAM GARDEN SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 884059.5,
+            "nr": 42
+          }
+        },
+        {
+          "cui": 30782324,
+          "nume": "Sam Garden Concept Srl",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 166055.4,
+            "nr": 3
+          }
+        }
+      ],
+      "cv": {
+        "studii": "SC POHA SA - Societate specializată în domeniul construcţiilor - Călăraşi | SC TERMOSTAL SRL - Societate comercială specializată în comercializarea echipamentelor de instalaţii - Călăraşi | Licenţa , Inginerie economică , Universitatea de &#536;tiinţe Agronomice - Bucureşti | Liceul Industrial de Construcţii - Slobozia, Ialomiţa",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Politician cu o vastă experienţă în administraţia publică şi activitate politică, activ în partid din anul 1996. De-a lungul carierei, am deţinut funcţia de consilier judeţean şi am ocupat postul de v | Manager executiv | Consilier Judeţean | Licenţa , Inginerie economică , Universitatea de &#536;tiinţe Agronomice - Bucureşti | window.addEventListener(\"load\", function(){ | onInitialise: function (s"
+      }
+    },
     {
       "romega_id": "g:60f7d79d2e8172c6",
       "nume_key": "ion octavian tache",
@@ -80,6 +624,215 @@
         }
       ],
       "cv": null
+    },
+    {
+      "romega_id": "p:afd212565443eb77",
+      "nume_key": "catalin graur",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Social Democrat (Secretar)",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru sănătate",
+          "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi",
+          "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții"
+        ]
+      },
+      "n_declaratii": 4,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 7356631.42,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Graur Cătălin",
+          "venituri_ron": 108856
+        },
+        {
+          "tip": "avere",
+          "institutie": "Senator Graur Cătălin",
+          "venituri_ron": 102735
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Graur Cătălin",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Graur Cătălin",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11666323,
+          "nume": "LA FANTANA S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 6992005.42,
+            "nr": 1380
+          }
+        },
+        {
+          "cui": 1417120,
+          "nume": "SC ULMUSA PROD COM SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 182313.0,
+            "nr": 4
+          }
+        },
+        {
+          "cui": 1417120,
+          "nume": "SC ULMUSA PROD COM SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 182313.0,
+            "nr": 4
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | Universitatea de Medicina si Farmacie \"Gr. T. Popa\", Iasi, Romania | 2005-2007, Master Protetica Dentara | Facultatea de Fizica, Universitatea Bucuresti | Universitatea de Medicina si Farmacie, Carol Davila, Bucuersti",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | 21.12.2024 - Prezent, Senator | Director Executiv | 2020-2022, Medic stomatolog | 2009-2020, Director executiv | 2005-2009, Medic stomatolog "
+      }
+    },
+    {
+      "romega_id": "p:525e780e2e560c4d",
+      "nume_key": "daniela stefanescu",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar Alianța pentru Unirea Românilor",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null,
+        "comisii": [
+          "Comisia juridică, de numiri, disciplină, imunităţi şi validări",
+          "Comisia pentru afaceri europene",
+          "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală"
+        ]
+      },
+      "n_declaratii": 2,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 553986.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Ștefănescu Daniela",
+          "venituri_ron": 262556
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Ștefănescu Daniela",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 15973541,
+          "nume": "Sanevit 2003 S.A.",
+          "rol": "administrator special",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 402581.0,
+            "nr": 585
+          }
+        },
+        {
+          "cui": 2795744,
+          "nume": "LUDOCRIS AGENTIE DE IMPORT EXPORT SI SERVICII S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 151405.0,
+            "nr": 6
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | Elemente de logică a limbajului pentru determinarea comportamentelor simulate UNIVERSITATEA BUCURESTI - Centrul de Cercetare Tehnologii ale Limbajului [ 2022 ] | Formator - Formator pentru studii superioare DITHE ROM [ 2016 ] Piatra Neamț | Licență în drept Universitatea Spiru Haret - facultatea de drept [ 2006 – 2010 ] București | MBA Universitatea Alexandru-Ioan Cuza [ 1996 – 1997 ] Iași | Management financiar Open University [ 1994 – 1995 ] București | Specializare - control nedistructiv Institutul de Cercetare Fizică și Inginerie Nucleară Măgurele [ 1986 ] Mă",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | Decembrie 2024 - prezent - Senator al României | Membru Consiliul de Administrație UM SADU S.A. [ 2021 – 2022 ] | Control și urmărire a activ"
+      }
+    },
+    {
+      "romega_id": "p:c181bbfab8605ac2",
+      "nume_key": "bogdan ionel ovidiu",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Maramureș",
+        "legislatura": 2024,
+        "birth_date": "1987-01-25",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 7721078.78,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Bogdan Ionel-Ovidiu",
+          "venituri_ron": 338899
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Bogdan Ionel-Ovidiu",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 31205006,
+          "nume": "BRINGO VISION SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 318869.86,
+            "nr": 6
+          }
+        },
+        {
+          "cui": 24353239,
+          "nume": "KUBO INTERNATIONAL CONSULTING",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 7402208.92,
+            "nr": 93
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCAŢIE ŞI FORMARE | Universitatea Tehnică din Cluj-Napoca, Centrul Universitar Nord din Baia Mare, Facultatea de &#536;tiinţe, Programul de Studii Management, Baia Mare (România) | competenţe de leadership, dezvoltate prin formarea şi coordonarea de echipe multidisciplinare;",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | 12/2024 - prezent | 06/2018-2019 | Director general | 08/2017-2019 | Manager marketing | Director vânzări | 2011-2015 | Principalele competenţe dobândite: dezvoltarea şi implementarea sistemului managerial şi a subsistemelor sale (alocare şi realocare de resurse şi activităţi); fundamentarea, adoptarea şi implementarea | 2021 - prezent | 03/2017 - prezent | 2016-2017 | 2015-2017 | 2013-2015 | 2012-"
+      }
     },
     {
       "romega_id": "g:fb2ab398ce9a63cb",
@@ -201,69 +954,190 @@
       }
     },
     {
-      "romega_id": "p:78896aeb00895d99",
-      "nume_key": "ion iordache",
+      "romega_id": "p:0009dc24d4a005da",
+      "nume_key": "adrian mocanu",
       "incredere": "high",
       "parlamentar": {
         "camera": "deputat",
         "partid": "Partidul Național Liberal",
-        "judet": "Gorj",
+        "judet": "Buzău",
         "legislatura": 2024,
-        "birth_date": "1974-05-05",
-        "plx_initiate": 50
+        "birth_date": "1983-05-12",
+        "plx_initiate": 29
       },
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 5013188.0,
-      "total_achizitii_directe_ron": 3024787.29,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 669075.06,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
-          "institutie": "Deputat Iordache Ion",
-          "venituri_ron": 2022830
+          "institutie": "Deputat Mocanu Adrian",
+          "venituri_ron": 1332652
         },
         {
           "tip": "interese",
-          "institutie": "Deputat Iordache Ion",
+          "institutie": "Deputat Mocanu Adrian",
           "venituri_ron": null
         }
       ],
       "companii": [
         {
-          "cui": 1605884,
-          "nume": "SECOM SA",
-          "rol": "administrator",
-          "sector": "Apă-canal · salubritate",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 50360329,
-            "profit_net": 4193671,
-            "datorii": 35055228,
-            "nr_salariati": 379
-          }
-        },
-        {
-          "cui": 16208742,
-          "nume": "MELENTARII",
+          "cui": 32199280,
+          "nume": "Nemo Global System",
           "rol": "administrator",
           "sector": "",
           "financials": null,
-          "contracte_stat": {
-            "total_ron": 5013188.0,
-            "nr": 2
-          },
           "achizitii_directe": {
-            "total_ron": 3024787.29,
+            "total_ron": 409875.06,
             "nr": 45
+          }
+        },
+        {
+          "cui": 17171544,
+          "nume": "AGRIANCA PRODSERV  SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 259200.0,
+            "nr": 4
           }
         }
       ],
       "cv": {
-        "studii": "EDUCA&#538;IE &#536;I FORMARE PROFESIONALĂ | Asociaţia Centrul pentru Formare Profesională şi Dezvoltare Regională | Facultatea de &#536;tiinte Economice &#8217;&#8217;Titu Maiorescu&#8217;&#8217; | Liceul Industrial Energetic Turceni",
-        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Senator - 2020-2024 | 2013 - 2020 | 2012 - 2020 | 2002 - 2008 | 2001 - 2020 | 1994 - 2000 | Manager de proiect | Economist licenţiat | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tab"
+        "studii": "Studii şi specializări | 2006 - Academia de Studii Economice Bucureşti - Facultatea Comerţ | 2010 - Universitatea Carol I - Colegiul Naţional de Apărare | 2011 - prezent - Doctorand (an II) - Universitatea Valahia - Târgovişte",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2016-2020 | Deputat - 2012-2016 | Deputat - 2008-2012 | 2011 - prezent - Doctorand (an II) - Universitatea Valahia - Târgovişte | Activitate profesională | 2004 - 2008 - manager | 2008 - 2012 - deputat | 2011 - 2012 - vicepreşedinte PSD Buzău | 2008 - 2012 - Comisia buget finaţe, Parlamentul României | 2010 - 2012 - vicepreşedinte Crucea Roşie Română | window.addEventListener(\"load\", func"
+      }
+    },
+    {
+      "romega_id": "p:b6b8cd775e5cb874",
+      "nume_key": "lucian marginean",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Social Democrat",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru muncă, familie şi protecţie socială",
+          "Comisia pentru sănătate",
+          "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi"
+        ]
+      },
+      "n_declaratii": 2,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 57120822.0,
+      "total_achizitii_directe_ron": 845437.17,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Mărginean Lucian",
+          "venituri_ron": 725808
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Mărginean Lucian",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 36535617,
+          "nume": "VELSTAND LOGISTIC S.R.L",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 607053.6,
+            "nr": 27
+          }
+        },
+        {
+          "cui": 28553116,
+          "nume": "Group Velstand",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 57120822.0,
+            "nr": 104
+          },
+          "achizitii_directe": {
+            "total_ron": 238383.57,
+            "nr": 9
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | tudii doctorale",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | {\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Person\",\"name\":\"Lucian MĂRGINEAN\",\"jobTitle\":\"senator\",\"url\":\"https:\\/\\/www.senat.ro\\/FisaSenator.aspx?ParlamentarID=FEE99943-2379-4151-8E9A-7B15D1F04A4F\",\" | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | fu"
+      }
+    },
+    {
+      "romega_id": "p:a7f51cc1b834fc12",
+      "nume_key": "daniela mihai",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Social Democrat",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null,
+        "comisii": [
+          "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
+          "Comisia economică, industrii, servicii, turism și antreprenoriat",
+          "Comisia pentru agricultură, industrie alimentară si dezvoltare rurală"
+        ]
+      },
+      "n_declaratii": 1,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 2017083.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Mihai Daniela",
+          "venituri_ron": 145590
+        }
+      ],
+      "companii": [
+        {
+          "cui": 38160629,
+          "nume": "ADTRUE COMPANY",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 312685.0,
+            "nr": 9
+          }
+        },
+        {
+          "cui": 39619852,
+          "nume": "CEREAL IVANOV MAXIM",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 1704398.0,
+            "nr": 16
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii | Leadership in diplomație și guvernare | Institutul Diplomatic Român",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2024 - 2028 | Decembrie 2024 - prezent, | $(function () { | $(document).ready(function () { | Proiect cofinanţat din Fondul Social European prin Programul "
       }
     },
     {
@@ -1580,6 +2454,85 @@
       "cv": null
     },
     {
+      "romega_id": "g:8042a5b5848faf42",
+      "nume_key": "cornel muntean",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 10,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 491730.91,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": 39000
+        },
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": 35000
+        },
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": 30000
+        },
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": 65000
+        },
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": 5000
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Sibiu",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 20605503,
+          "nume": "CENTRUL UTILAJE CONSTRUCTII SIBIU SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 491730.91,
+            "nr": 26
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:42308db4bf0040a4",
       "nume_key": "andrei mihai paunescu",
       "incredere": "context",
@@ -2852,6 +3805,164 @@
         }
       ],
       "cv": null
+    },
+    {
+      "romega_id": "p:b5533843dd23c032",
+      "nume_key": "ionel stancu",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": null,
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": "1978-10-15",
+        "plx_initiate": 48
+      },
+      "n_declaratii": 8,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 5546954.63,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2024-01bucuresti-2 2024",
+          "venituri_ron": 45600
+        },
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2023-01bucuresti 2023",
+          "venituri_ron": 45600
+        },
+        {
+          "tip": "avere",
+          "institutie": "CFR SA - 2023-01bucuresti 2023",
+          "venituri_ron": 45600
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2024-01bucuresti 2024",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2023-01bucuresti 2023",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CFR SA - 2023-01bucuresti 2023",
+          "venituri_ron": null
+        },
+        {
+          "tip": "avere",
+          "institutie": "Deputat Stancu Ionel",
+          "venituri_ron": 238420
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Stancu Ionel",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 15045965,
+          "nume": "ARTELECTRO S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 5546954.63,
+            "nr": 4341
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Studii şi specializări | - Facultatea de Drept şi ştiinţe administrative Titulescu | - Facultatea de Ştiinţe Economoce - Specializarea Analiză, diagnostic şi evaluarea afacerilor - MASTERAT | - Facultatea de Educaţie Fizică şi Sport - Specializarea Management în sport | - Liceul Economic &#8222;Gh. Chiţu&#8221; - Profilul Finanţe Contabilitate | - Preşedinte Asociaţia Studenţilor din Facultatea de Educaţie Fizică şi Sport | - Grefier studii superioare în cadrul Ministerului Justiţiei, la Judecătoria Craiova",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Deputat - 2012-2016 | 2005 - 2009 | 2004 - 2006 | 1993 - 1997 | Activitate profesională | - Consilier la Primăria Municipiului Craiova pe probleme studenţeşti | 2006 - 2012 | 2020 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tab"
+      }
+    },
+    {
+      "romega_id": "p:883d67b8027c4c2a",
+      "nume_key": "mircea rosca",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Prahova",
+        "legislatura": 2024,
+        "birth_date": "1974-02-25",
+        "plx_initiate": 29
+      },
+      "n_declaratii": 8,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 397443.5,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Arad",
+          "venituri_ron": 69480
+        },
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Arad",
+          "venituri_ron": 79751
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Arad",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Arad",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Arad",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Arad",
+          "venituri_ron": null
+        },
+        {
+          "tip": "avere",
+          "institutie": "Deputat Rosca Mircea",
+          "venituri_ron": 239793
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Rosca Mircea",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13615610,
+          "nume": "PROIECTARE DRUMURI & CONSULTANTA S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 397443.5,
+            "nr": 14
+          }
+        }
+      ],
+      "cv": {
+        "studii": "- Responsabil, &#536;ef Colegiul I Valea Prahovei | Studii şi specializări | - Liceul Teoretic Comarnic / Diplomă de Bacalaureat | - Academia de Studii Economice - Facultatea de Ştiinţe Economice / Management / Diplomă de Licenţă | - Master în Administraţie Publică / Universitatea Petrol şi Gaze Ploieşti / Facultatea Stiinte Economice / Diplomă de masterat | - Deputat în Colegiul 1 - Valea Prahovei",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Deputat - 2012-2016 | Activitate profesională | 2007 - 2012 | Director general | 2004 - 2007 | 1997 - prezent | 1997 - 2000 | 1998 - 2000 | 2004 - 2012 | 2009 - 2011 | 2011 - prezent | 1988 - 1992 | 1993 - 1997 | 2007 - 2009 | 2000 - 2008 | - Consilier local în cadrul Consiliului Local Comarnic | - Consilier Judeţean în cadrul Consiliului Judeţean Prahova | Dec. 2012 - prezent"
+      }
     },
     {
       "romega_id": "g:59a11bfc97b4c710",
@@ -5724,6 +6835,64 @@
       }
     },
     {
+      "romega_id": "p:bb221922ba3ba0ab",
+      "nume_key": "neagu nicolae",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "senator",
+        "partid": "Grupul parlamentar al Partidului Național Liberal (Vicelider)",
+        "judet": null,
+        "legislatura": 2024,
+        "birth_date": null
+      },
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 195452.34,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Senator Neagu Nicolae",
+          "venituri_ron": 141636
+        },
+        {
+          "tip": "avere",
+          "institutie": "Senator Neagu Nicolae",
+          "venituri_ron": 141636
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Neagu Nicolae",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "Senator Neagu Nicolae",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 13361740,
+          "nume": "S. C. M.S. Marine Service International S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 195452.34,
+            "nr": 322
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educaţie şi formare | Studii",
+        "experienta": "function gtag() { dataLayer.push(arguments); } | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | function endRequest(sender, args) { | Legislatura 2004 - 2008 | Legislatura 2012 - 2016 | Legislatura 2016 - 2020 | Legislatura 2020 - 2024 | Legislatura 2024 - 2028 | $(function () { | $(document).ready(f"
+      }
+    },
+    {
       "romega_id": "p:cf099c6acd23f7ee",
       "nume_key": "gabriela horga maria",
       "incredere": "high",
@@ -6180,6 +7349,153 @@
         }
       ],
       "cv": null
+    },
+    {
+      "romega_id": "p:1b32879612af216d",
+      "nume_key": "cimpean ovidiu vasile",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Cluj",
+        "legislatura": 2024,
+        "birth_date": "1985-01-18",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 686205.81,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Cimpean Ovidiu-Vasile",
+          "venituri_ron": 562570
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Cimpean Ovidiu-Vasile",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 21647078,
+          "nume": "OTI DISTRIBUTION CLUJ S.R.L.",
+          "rol": "reprezentant al persoanei juridice",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 686205.81,
+            "nr": 3500
+          }
+        }
+      ],
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });"
+      }
+    },
+    {
+      "romega_id": "p:fd73516b7ce8313c",
+      "nume_key": "balan ioan",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
+        "judet": "Suceava",
+        "legislatura": 2024,
+        "birth_date": "1967-01-22",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 4130392.71,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Balan Ioan",
+          "venituri_ron": 447818
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Balan Ioan",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 12510160,
+          "nume": "SALSERV ECOSISTEM S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 4130392.71,
+            "nr": 247
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Deputat ales în Circumscripţia Electorală nr. 35 - Colegiul Uninominal nr. 2 Suceava | 2008 - Deputat în Circumscripţia Electorală nr. 35 - Colegiul Uninominal nr. 2 Suceava; - procent alegeri | 2008 - Consilier judeţean - Preşedinte a comisiei pentru studii, programe, prognoze, buget finanţe, societăţi comerciale, regii autonome şi servicii. | Educaţie şi formare | \"Diplomaţie şi securitate\" | - Institutul Diplomatic Român. | 2011- Doctor în Management - Universitatea \"Dunărea de Jos\" din Galaţi. | 2009 - Certificat de absolvire al cursurilor postuniversitare de perfecţionare în specializarea",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Deputat - 2016-2020 | Deputat - 2012-2016 | Deputat - 2008-2012 | Perioada | 1992 - 2008 | Manager | Numele angajatorului | decembrie 2008 - prezent | 2012 - prezent - Chestor al Camerei Deputaţilor | 2012 - prezent - Pre&#537;edinte B.P.L. - P.N.L Suceava | 2012 - prezent - Prim-vicepre&#537;edinte B.P.J. - P.N.L. Suceava | 2008 - 2009 - Comisia pentru buget, finanţe şi bănci"
+      }
+    },
+    {
+      "romega_id": "p:fb03f6b7e66a1d41",
+      "nume_key": "andrei bogdan toader",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Social Democrat",
+        "judet": "Prahova",
+        "legislatura": 2024,
+        "birth_date": "1983-06-07",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 308225.82,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Toader Bogdan-Andrei",
+          "venituri_ron": 227520
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Toader Bogdan-Andrei",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 6432490,
+          "nume": "DRUMURI SI PODURI PRAHOVA S.A.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 308225.82,
+            "nr": 53
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCAŢIE ŞI FORMARE | 2014-2016- Academia de Studii Economice Bucureşti- Diplomă de Masterat-specializare Administrarea Afacerii | 2002-2006- Universitatea de Petrol şi Gaze- Facultatea de Ştiinţe Economice- Diplomă de Licenţă în Management | 1998-2002 - Colegiul National &#8222;Mihai Viteazul&#8221; Ploiesti | 2002 - 2006 - Facultatea Management -ASE - Universitatea &#8222;Petrol si Gaze&#8221; Ploiesti | 2013 - Curs &#8222;Protocol si eticheta in diplomatie&#8221; - Institutul Diplomatic Roman",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Perioada | 6 decembrie 2020 - prezent | Consilier Judeţean Prahova | Consilier Cabinet Preşedinte | Economist | 2014-2016- Academia de Studii Economice Bucureşti- Diplomă de Masterat-specializare Administrarea Afacerii | 2002-2006- Universitatea de Petrol şi Gaze- Facultatea de Ştiinţe Economice- Diplomă de Licenţă în Management | 1998-2002 - Colegiul National &#8222;Mihai Vit"
+      }
     },
     {
       "romega_id": "g:ff1ff43339127f07",
@@ -8774,74 +10090,6 @@
       }
     },
     {
-      "romega_id": "p:c48281895105d022",
-      "nume_key": "alexandru popa",
-      "incredere": "high",
-      "parlamentar": {
-        "camera": "deputat",
-        "partid": "Partidul Național Liberal",
-        "judet": "Brăila",
-        "legislatura": 2024,
-        "birth_date": "1990-08-06",
-        "plx_initiate": 39
-      },
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 1795508.0,
-      "total_achizitii_directe_ron": 1711717.42,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "Deputat Popa Alexandru",
-          "venituri_ron": 1022189
-        },
-        {
-          "tip": "interese",
-          "institutie": "Deputat Popa Alexandru",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 21241885,
-          "nume": "ELECTRO-SERVICE DISTRIBUTIE",
-          "rol": "administrator",
-          "sector": "",
-          "financials": null,
-          "contracte_stat": {
-            "total_ron": 1795508.0,
-            "nr": 2
-          },
-          "achizitii_directe": {
-            "total_ron": 855858.71,
-            "nr": 114
-          }
-        },
-        {
-          "cui": 21241885,
-          "nume": "ELECTRO-SERVICE DISTRIBUTIE",
-          "rol": "administrator",
-          "sector": "",
-          "financials": null,
-          "contracte_stat": {
-            "total_ron": 1795508.0,
-            "nr": 2
-          },
-          "achizitii_directe": {
-            "total_ron": 855858.71,
-            "nr": 114
-          }
-        }
-      ],
-      "cv": {
-        "studii": "",
-        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove"
-      }
-    },
-    {
       "romega_id": "g:208e7a59961e0c73",
       "nume_key": "cristocea gabriela lucia pirvulescu",
       "incredere": "context",
@@ -9494,6 +10742,55 @@
       "cv": null
     },
     {
+      "romega_id": "p:7af48b845a64ca8e",
+      "nume_key": "adrian enache mihai",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Alianța pentru Unirea Românilor",
+        "judet": "București",
+        "legislatura": 2024,
+        "birth_date": "1988-09-28",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 146091.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Enache Mihai-Adrian",
+          "venituri_ron": 231174
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Enache Mihai-Adrian",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 35037045,
+          "nume": "ATEMED SOLUTIONS",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 146091.0,
+            "nr": 12
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Am coordonat realizarea Spitalului Mobil AUR, proiect desfăşurat în perioada martie-iunie 2023. Proiectul constă în 5 cabinete medicale mobile în autovehicule speciale, iar activitatea a cuprins urmăr | Universitatea Nicolae Titulescu, Bucureşti | Managementul activităţilor administrative şi logistice în vederea bunei funcţionări a bazei tehnicomateriale a universităţii; | Coordonarea şi supervizarea personalului administrativ al universităţii. | EDUCAŢIE ŞI FORMARE PROFESIONALĂ | Diplomă de master în Administraţie Publică şi Dezvoltare Comunitară | Universitatea Nicolae Titulescu din Bucureşt",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | 12/2024- prezent | Manager proiect | Am coordonat realizarea Spitalului Mobil AUR, proiect desfăşurat în perioada martie-iunie 2023. Proiectul constă în 5 cabinete medicale mobile în autovehicule speciale, iar activitatea a cuprins urmăr | Director Executiv, Direcţia de Dezvoltare | Verificarea documentaţiilor tehnice şi economice în vederea asigurării conformităţii cu ghidurile de finanţate din PO"
+      }
+    },
+    {
       "romega_id": "g:c716470c684a4cf7",
       "nume_key": "ionela vilculescu",
       "incredere": "context",
@@ -10087,818 +11384,7 @@
         }
       ],
       "cv": null
-    },
-    {
-      "romega_id": "g:69fe6ab92a6e08cf",
-      "nume_key": "benedek nagy",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1335741.85,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "HARVIZ SA",
-          "venituri_ron": 214579
-        },
-        {
-          "tip": "interese",
-          "institutie": "HARVIZ SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 24499588,
-          "nume": "HARVIZ SA",
-          "rol": "administrator",
-          "sector": "Apă-canal · salubritate",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 43204399,
-            "profit_net": 3280241,
-            "datorii": 10089766,
-            "nr_salariati": 229
-          },
-          "achizitii_directe": {
-            "total_ron": 1335741.85,
-            "nr": 107
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:01e60a007882ee4b",
-      "nume_key": "csaba varga",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1335741.85,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "HARVIZ SA",
-          "venituri_ron": 444478
-        },
-        {
-          "tip": "interese",
-          "institutie": "HARVIZ SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 24499588,
-          "nume": "HARVIZ SA",
-          "rol": "administrator",
-          "sector": "Apă-canal · salubritate",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 43204399,
-            "profit_net": 3280241,
-            "datorii": 10089766,
-            "nr_salariati": 229
-          },
-          "achizitii_directe": {
-            "total_ron": 1335741.85,
-            "nr": 107
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:5090814175a173c8",
-      "nume_key": "bodor zsolt",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1335741.85,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "HARVIZ SA",
-          "venituri_ron": 390439
-        },
-        {
-          "tip": "interese",
-          "institutie": "HARVIZ SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 24499588,
-          "nume": "HARVIZ SA",
-          "rol": "administrator",
-          "sector": "Apă-canal · salubritate",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 43204399,
-            "profit_net": 3280241,
-            "datorii": 10089766,
-            "nr_salariati": 229
-          },
-          "achizitii_directe": {
-            "total_ron": 1335741.85,
-            "nr": 107
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:0e1eee03f30bd970",
-      "nume_key": "constantin coroama radu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
-          "venituri_ron": 211599
-        },
-        {
-          "tip": "interese",
-          "institutie": "COMPANIA NAŢIONALĂ ROMARM S.A. BUCUREŞTI FILIALA SOCIETATEA UZINA MECANICĂ CUGIR S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 14963620,
-          "nume": "PARCUL INDUSTRIAL CUGIR SA",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 1543735,
-            "profit_net": 69102,
-            "datorii": 1270297,
-            "nr_salariati": 6
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:0ca5ab04b4919cea",
-      "nume_key": "aureliana monica petcu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "venituri_ron": 225270
-        },
-        {
-          "tip": "interese",
-          "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 1590040,
-          "nume": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "rol": "administrator",
-          "sector": "Alte sectoare",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46352749,
-            "profit_net": 2736230,
-            "datorii": 9466588,
-            "nr_salariati": 123
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:61151a9218e8f0d8",
-      "nume_key": "lucaci sorin",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "venituri_ron": 238940
-        },
-        {
-          "tip": "interese",
-          "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 1590040,
-          "nume": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "rol": "administrator",
-          "sector": "Alte sectoare",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46352749,
-            "profit_net": 2736230,
-            "datorii": 9466588,
-            "nr_salariati": 123
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:41d2575470779faa",
-      "nume_key": "constantin gabriel gheorghe",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "venituri_ron": 43674
-        },
-        {
-          "tip": "interese",
-          "institutie": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 1590040,
-          "nume": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "rol": "administrator",
-          "sector": "Alte sectoare",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46352749,
-            "profit_net": 2736230,
-            "datorii": 9466588,
-            "nr_salariati": 123
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:57fe851819f3f596",
-      "nume_key": "ciprian cristian george soare",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": 179868
-        },
-        {
-          "tip": "interese",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 27515874,
-          "nume": "AMENAJARE EDILITARA S5 S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46037138,
-            "profit_net": 1624361,
-            "datorii": 43616058,
-            "nr_salariati": 363
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:930d600e2521f3ac",
-      "nume_key": "alin gutu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": 126000
-        },
-        {
-          "tip": "interese",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 27515874,
-          "nume": "AMENAJARE EDILITARA S5 S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46037138,
-            "profit_net": 1624361,
-            "datorii": 43616058,
-            "nr_salariati": 363
-          }
-        }
-      ],
-      "cv": {
-        "studii": "EDUCATIE �I FORMARE PROFESIONALA | DIPLOMA DE MASTER-$coala Nationalade Studii Politice $i Administrative | Masterat Puterea Executiva$i Administratia Publica | DIPLOMADE UCENTA-Universitatea Spiru Haret | DIPLOMA DE BACALAUREAT-Colegiul National Ion Maiorescu | CERTIFICAT DE ABSOLVIRE -FORMATOR -S.C. DAROMET S.R.L",
-        "experienta": "EXPERIENTA PROFESIONALA | 17/ 01.201.2 -In curs -CNTEE TRANSELECTRICA SoA. -Inspector sef adjunct·-Directia Management lntegrat | MANAGER Spitalul \"IZVORU\" -Giurgiu (17/08/2020 - 16.0L2022 -Judetul Giurgiu, Romania) | Asigura buna functionare a spitalului prin respectarea legislatiei in domeniul sanitar, a tuturor ordinelor | CONSILIER SUPERIOR -CONSILIUL JUDETEAN (16/01/2020 - 15/08/2020 -Giurgiu, Romania) | DIRECTOR GENERAL -SOCIETATEA NATIONAL.A.A APELOR MINERALE S.A. 09/07/2019-15/01/2020-Bucuresti, Romania | In calitate de manager am coordonat activitatile de administrare , de cercetare-d"
-      }
-    },
-    {
-      "romega_id": "g:d5618ac091821716",
-      "nume_key": "anca anghel mihaela",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": 2176486
-        },
-        {
-          "tip": "interese",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 27515874,
-          "nume": "AMENAJARE EDILITARA S5 S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46037138,
-            "profit_net": 1624361,
-            "datorii": 43616058,
-            "nr_salariati": 363
-          }
-        }
-      ],
-      "cv": {
-        "studii": "• elaborarea de studii si analize privind profitabilitatea actrvitat1lor. efioenta utihzani cap,talului de lucrn, evolutia",
-        "experienta": "15.03.2016-PREZENT DIRECTOR GENERAL | ECONOMIST SEF"
-      }
-    },
-    {
-      "romega_id": "g:5332fba16f69e60a",
-      "nume_key": "antoaneta crisanda nastase",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": 277726
-        },
-        {
-          "tip": "avere",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": 277726
-        }
-      ],
-      "companii": [
-        {
-          "cui": 27515874,
-          "nume": "AMENAJARE EDILITARA S5 S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46037138,
-            "profit_net": 1624361,
-            "datorii": 43616058,
-            "nr_salariati": 363
-          }
-        }
-      ],
-      "cv": {
-        "studii": "",
-        "experienta": "03.2023 • present Consilier superior | Re ,pon 1b1litat1 consultana juridica asigurata structurilor functionale, intocmirea si | 12.2021 -12.2022 Consilier superior"
-      }
-    },
-    {
-      "romega_id": "g:f4621032a47da994",
-      "nume_key": "adrian maiorescu mircea",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": 434039
-        },
-        {
-          "tip": "interese",
-          "institutie": "AMENAJARE EDILITARA S5 S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 27515874,
-          "nume": "AMENAJARE EDILITARA S5 S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 46037138,
-            "profit_net": 1624361,
-            "datorii": 43616058,
-            "nr_salariati": 363
-          }
-        }
-      ],
-      "cv": {
-        "studii": "",
-        "experienta": "Experientl pe Audit/ Consultanta: 14 ani | Noi 2015 -prezent Auditor/Consultant -Contractor privat UL Solutions (Underwriters | Sep 201 S -prezent Director General - Escape Arena SRL | Ian 2012 -prezent Director General -Cotroceni Snatch Pub SRL"
-      }
-    },
-    {
-      "romega_id": "g:2558fa3296f96703",
-      "nume_key": "andrea elisabeta henter",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "COMPANIA DE APA SOMES SA",
-          "venituri_ron": 10000
-        },
-        {
-          "tip": "interese",
-          "institutie": "COMPANIA DE APA SOMES SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 201217,
-          "nume": "COMPANIA DE APA SOMES SA",
-          "rol": "administrator",
-          "sector": "Apă-canal · salubritate",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 350204598,
-            "profit_net": 17775939,
-            "datorii": 303836276,
-            "nr_salariati": 1927
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:a963a69789363685",
-      "nume_key": "gorneanu mihaela",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 454800.0,
-      "total_achizitii_directe_ron": 1377612.71,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": 0
-        },
-        {
-          "tip": "interese",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 11573879,
-          "nume": "SERVICE CICLOP SA",
-          "rol": "administrator",
-          "sector": "Comerț",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4243606,
-            "profit_net": -1501181,
-            "datorii": 1469800,
-            "nr_salariati": 40
-          },
-          "contracte_stat": {
-            "total_ron": 454800.0,
-            "nr": 1
-          },
-          "achizitii_directe": {
-            "total_ron": 1377612.71,
-            "nr": 490
-          }
-        }
-      ],
-      "cv": {
-        "studii": "Educatie si formare | 2019-2021- Facultatea Dimitrie Cantemir - Finante, banci, contabilitate | Calificarea / diploma obtinuta | 06.02.1994 - 07.04.1995 - Contabilitate ,diploma de absolvire nr. | 134/07.04.1995, eliberata cu avizul Ministerului Educatiei si Invatamantului | lunie 1995 - Liceul Teoretic Autel Vlaicu!",
-        "experienta": "Activitate Profesionala | Septembrie 2024 - prezent - Consilier Local Primaria Sector 5 | Septembrie 2020 - septembrie 2024 - Consilier Local Primaria Sector 5 | Experienta in coordonare echipe de lucru si proiecte | Abilitate si experienta in stabilirea si incadrarea in buget si la termen a | Perioada | 21.11.2023 - prezent - New Market Ideea SRL - director economic | 01.08.2020 - prezent - Administrator Mapemi Inovation SRL - ativitate de | Functia sau postul ocupat | 17.02.2020 - 20.11.2023 - MTA Top Impex SRL - director econonic | 01.10.2022 - prezent - Marcom Pro 2002 SRL - director econo"
-      }
-    },
-    {
-      "romega_id": "g:7f61cc1a5574aaa9",
-      "nume_key": "gabriela stanga",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 454800.0,
-      "total_achizitii_directe_ron": 1377612.71,
-      "firme_contracte_autodeclarate": [
-        {
-          "cui": 11573879,
-          "nume": "SERVICE CICLOP SA",
-          "total_ron": 454800.0
-        }
-      ],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": 103320
-        },
-        {
-          "tip": "interese",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 11573879,
-          "nume": "SERVICE CICLOP SA",
-          "rol": "administrator",
-          "sector": "Comerț",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4243606,
-            "profit_net": -1501181,
-            "datorii": 1469800,
-            "nr_salariati": 40
-          },
-          "contracte_stat": {
-            "total_ron": 454800.0,
-            "nr": 1
-          },
-          "achizitii_directe": {
-            "total_ron": 1377612.71,
-            "nr": 490
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:d83a77de8a07ca32",
-      "nume_key": "alexandrescu duca mihaela oana",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 454800.0,
-      "total_achizitii_directe_ron": 1377612.71,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": 22300
-        },
-        {
-          "tip": "interese",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 11573879,
-          "nume": "SERVICE CICLOP SA",
-          "rol": "administrator",
-          "sector": "Comerț",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4243606,
-            "profit_net": -1501181,
-            "datorii": 1469800,
-            "nr_salariati": 40
-          },
-          "contracte_stat": {
-            "total_ron": 454800.0,
-            "nr": 1
-          },
-          "achizitii_directe": {
-            "total_ron": 1377612.71,
-            "nr": 490
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:8b33ad8dc53d1de4",
-      "nume_key": "madalina mustafa",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 454800.0,
-      "total_achizitii_directe_ron": 1377612.71,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": 49949
-        },
-        {
-          "tip": "interese",
-          "institutie": "SERVICE CICLOP SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 11573879,
-          "nume": "SERVICE CICLOP SA",
-          "rol": "administrator",
-          "sector": "Comerț",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4243606,
-            "profit_net": -1501181,
-            "datorii": 1469800,
-            "nr_salariati": 40
-          },
-          "contracte_stat": {
-            "total_ron": 454800.0,
-            "nr": 1
-          },
-          "achizitii_directe": {
-            "total_ron": 1377612.71,
-            "nr": 490
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:447f1271b4fb3145",
-      "nume_key": "alina dragota laura raluca",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 1167942.97,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
-          "venituri_ron": 843116
-        },
-        {
-          "tip": "interese",
-          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 2351555,
-          "nume": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 407409533,
-            "profit_net": -2598131,
-            "datorii": 151830885,
-            "nr_salariati": 2009
-          },
-          "contracte_stat": {
-            "total_ron": 36231907.0,
-            "nr": 5
-          },
-          "achizitii_directe": {
-            "total_ron": 1167942.97,
-            "nr": 168
-          }
-        }
-      ],
-      "cv": null
     }
   ],
-  "parlamentari_companii": 13
+  "parlamentari_companii": 35
 }

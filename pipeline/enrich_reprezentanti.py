@@ -46,16 +46,18 @@ def _target_cuis() -> tuple[set, dict]:
     for f in frr:
         if f.get("cui"):
             cuis.add(int(f["cui"]))
-    # furnizori SICAP (follow-the-money) — firmele care au câștigat contracte de stat
-    cf = _load(os.path.join(V, "achizitii/contracte_firme.json"))
-    for r in ((cf.get("firme") if isinstance(cf, dict) else cf) or []):
-        if isinstance(r, dict) and r.get("cui"):
-            try:
-                cui = int(r["cui"])
-                cuis.add(cui)
-                names.setdefault(cui, r.get("nume", ""))
-            except (ValueError, TypeError):
-                pass
+    # furnizori SICAP (follow-the-money) — firmele care au câștigat contracte de stat + achiziții directe
+    for fn, key in [("achizitii/contracte_firme.json", "firme"),
+                    ("companii/achizitii_directe.json", "furnizori")]:
+        d = _load(os.path.join(V, fn))
+        for r in ((d.get(key) if isinstance(d, dict) else d) or []):
+            if isinstance(r, dict) and r.get("cui"):
+                try:
+                    cui = int(r["cui"])
+                    cuis.add(cui)
+                    names.setdefault(cui, r.get("nume", ""))
+                except (ValueError, TypeError):
+                    pass
     return cuis, names
 
 

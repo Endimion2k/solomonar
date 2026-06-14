@@ -45,7 +45,7 @@
   },
   "gold": {
     "versiune": "v2 institution-aware",
-    "persoane_canonice": 56296,
+    "persoane_canonice": 102452,
     "parlamentari": 465,
     "incredere": {
       "high": 465,
@@ -63,7 +63,7 @@
     "achizitii_directe_total": 21886015,
     "furnizori_directe": 149243,
     "valoare_directe_mld": 59.7,
-    "persoane_cu_achizitii_directe": 11348
+    "persoane_cu_achizitii_directe": 57656
   },
   "audit": {
     "dna_comunicate": 8998,
@@ -83,7 +83,7 @@
     "sursa": "BVB (gratis, listate)"
   },
   "search": {
-    "entitati": 57569
+    "entitati": 103725
   },
   "coverage": {
     "companii_cu_declaratii": 834,
@@ -143,5 +143,10 @@
     "persoane_in_graf": 353,
     "sursa": "portal vechi fara captcha (2008-2023)",
     "tinta": "parlamentari (iterare pe nume)"
+  },
+  "companii": {},
+  "reprezentanti": {
+    "companii_cu_reps": 49571,
+    "total_reps": 70873
   }
 }

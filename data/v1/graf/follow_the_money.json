@@ -1851,11 +1851,11 @@
         ]
       },
       "n_declaratii": 2,
-      "n_companii": 1,
+      "n_companii": 2,
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 57120822.0,
-      "total_achizitii_directe_ron": 238383.57,
+      "total_achizitii_directe_ron": 845437.17,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1870,6 +1870,17 @@
         }
       ],
       "companii": [
+        {
+          "cui": 36535617,
+          "nume": "VELSTAND LOGISTIC S.R.L",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 607053.6,
+            "nr": 27
+          }
+        },
         {
           "cui": 28553116,
           "nume": "Group Velstand",
@@ -2437,11 +2448,11 @@
         "plx_initiate": 50
       },
       "n_declaratii": 2,
-      "n_companii": 2,
+      "n_companii": 5,
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 5013188.0,
-      "total_achizitii_directe_ron": 3024787.29,
+      "total_achizitii_directe_ron": 4435745.21,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2470,6 +2481,17 @@
           }
         },
         {
+          "cui": 3928652,
+          "nume": "ATLANTIC SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 672074.06,
+            "nr": 1400
+          }
+        },
+        {
           "cui": 16208742,
           "nume": "MELENTARII",
           "rol": "administrator",
@@ -2482,6 +2504,28 @@
           "achizitii_directe": {
             "total_ron": 3024787.29,
             "nr": 45
+          }
+        },
+        {
+          "cui": 6770718,
+          "nume": "SC.Amiabil.SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 201623.5,
+            "nr": 4
+          }
+        },
+        {
+          "cui": 12105418,
+          "nume": "S.C.IORDICOM 99 S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 537260.36,
+            "nr": 1493
           }
         }
       ],
@@ -2673,11 +2717,11 @@
         "plx_initiate": 39
       },
       "n_declaratii": 2,
-      "n_companii": 1,
+      "n_companii": 4,
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 1795508.0,
-      "total_achizitii_directe_ron": 1711717.42,
+      "total_achizitii_directe_ron": 5745238.26,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2692,6 +2736,28 @@
         }
       ],
       "companii": [
+        {
+          "cui": 29025461,
+          "nume": "SC EDITURA DELFIN SRL",
+          "rol": "administrator special",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 815532.02,
+            "nr": 247
+          }
+        },
+        {
+          "cui": 38027313,
+          "nume": "GRUP EDITORIAL DZC SRL",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 2473696.01,
+            "nr": 1568
+          }
+        },
         {
           "cui": 21241885,
           "nume": "ELECTRO-SERVICE DISTRIBUTIE",
@@ -2720,6 +2786,17 @@
           "achizitii_directe": {
             "total_ron": 855858.71,
             "nr": 114
+          }
+        },
+        {
+          "cui": 13145089,
+          "nume": "DINAMIC INSTAL S.R.L.",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 744292.81,
+            "nr": 12
           }
         }
       ],
