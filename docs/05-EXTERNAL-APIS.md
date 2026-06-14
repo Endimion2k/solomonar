@@ -28,3 +28,23 @@
 **Implicație practică:** ROMEGA nu ratează niciun shortcut major. Efortul de scraping (OCR per-instituție,
 postback ASP.NET, FileBird, bulk streaming) e justificat — datele de transparență din RO sunt în mare
 parte „în sălbăticie", nu în API-uri.
+
+## Acționariat firme NELISTATE — cercetare gratuit (2026-06-14)
+
+**Verdict: NU există sursă gratuită bulk + legală pentru asociați/acționari cu % la firme RO nelistate.**
+Verificat exhaustiv (5 unghiuri + teste fetch directe):
+
+| Sursă | Are %? | Gratis? | Concluzie |
+|---|---|---|---|
+| ONRC data.gov.ro (OD_*) | ❌ doar reps | DA | 6 fișiere, niciun OD_ASOCIATI |
+| ONRC RECOM / BRIS / e-justice | ❌ | DA | declară OFICIAL că % NU e în accesul gratuit |
+| Monitorul Oficial P.IV | ⚠️ fragmentar | DA | publică AGA/bilanțuri/dizolvări, NU sistematic structura % |
+| ONRC InfoCert / Certificat constatator | ✅ | ❌ ~8-37 lei/firmă | singura cale oficială cu %, plătită per-firmă |
+| RBR (beneficiari reali) | ⚠️ doar >25% | ❌ taxă+semnătură; **GRATIS pt. jurnaliști** | loophole legal: cerere formală ca proiect de interes public |
+| infocui.ro | ⚠️ | tier free **600 CUI/lună** | legitim, lent — pt. firme-țintă (necesită cheie) |
+| GLEIF Level 2 (Relationships) | ⚠️ parent-child | DA bulk | doar firme cu cod LEI (mari, ~acoperite de BVB) |
+| Agregatori (termene/listafirme/risco/confidas) | ✅ | ❌ paywall/ToS | au % dar contra-cost; scraping = încalcă ToS |
+| OpenCorporates RO | ❌ | tier | mort (2020, 0 officers RO) |
+
+**Ce avem deja (gratis):** BVB pt. SOE listate (% exact, cele importante) + reprezentanți legali (administratori) pt. toate.
+**Căi legitime limitate pt. țintit:** (1) RBR cu cerere de jurnalist (>25%); (2) infocui free 600/lună pt. firmele-cheie; (3) GLEIF pt. firme cu LEI. **Nu există soluție gratis-la-scară** — doar advocacy ca ONRC să publice asociații ca open-data.
