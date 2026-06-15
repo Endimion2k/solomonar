@@ -152,6 +152,30 @@ def firma_profil(cui) -> dict:
     return out
 
 
+@st.cache_data(show_spinner=False)
+def firme_nume_map() -> dict:
+    """Hartă cui (int) -> denumire firmă. firme_onrc.json (dump ONRC) nu are denumirea; o luăm din
+    reprezentanții legali (denumire), cu fallback pe numele din contracte / achiziții directe."""
+    out: dict = {}
+    for c in _load_raw("companii/reprezentanti.json").get("companii", []) or []:
+        try:
+            cui = int(c.get("cui"))
+        except (TypeError, ValueError):
+            continue
+        if c.get("denumire"):
+            out[cui] = c["denumire"]
+    for path, key in (("achizitii/contracte_firme.json", "firme"),
+                      ("companii/achizitii_directe.json", "furnizori")):
+        for r in _load_raw(path).get(key, []) or []:
+            try:
+                cui = int(r.get("cui"))
+            except (TypeError, ValueError):
+                continue
+            if cui not in out and r.get("nume"):
+                out[cui] = r["nume"]
+    return out
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:
@@ -175,6 +199,7 @@ def firme_onrc() -> pd.DataFrame:
     df["flaguri_txt"] = df["flaguri"].apply(lambda fl: " · ".join(fl))
     tm = df["tara_mama"].fillna("").str.strip()
     df["mama_straina"] = (tm != "") & (tm.str.lower() != "românia")
+    df["nume"] = df["cui"].map(firme_nume_map()).fillna("")
     return df
 
 

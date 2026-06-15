@@ -91,6 +91,8 @@ else:
     sel_an = (an_min, an_max)
     st.caption(f"An înființare: toate firmele sunt din {an_min}.")
 
+q = st.text_input("Caută firmă (nume sau CUI)", placeholder="ex: Classicbuild, 51161591…").strip()
+
 view = core.copy()
 if sel_judet:
     view = view[view["judet"].isin(sel_judet)]
@@ -99,6 +101,10 @@ if sel_forma:
 if doar_mama:
     view = view[view["mama_straina"]]
 view = view[view["an_infiintare"].fillna(-1).astype(int).between(sel_an[0], sel_an[1])]
+if q:
+    ql = q.lower()
+    view = view[view["nume"].fillna("").str.lower().str.contains(ql, regex=False, na=False)
+                | view["cui"].astype(str).str.contains(ql, regex=False, na=False)]
 
 st.caption(f"{fmt_int(len(view))} firme afișate din {fmt_int(len(core))} firme noi cu contracte.")
 
@@ -133,12 +139,13 @@ else:
             ([f"contracte"] if r.get("are_contracte") else [])
             + (["achiziții directe"] if r.get("are_achizitii_directe") else [])
         ) or "—", axis=1)
-    cols = ["cui", "forma_juridica", "an_infiintare", "judet", "caen_domeniu",
+    cols = ["nume", "cui", "forma_juridica", "an_infiintare", "judet", "caen_domeniu",
             "tara_mama", "canale"]
     show = show[cols].sort_values("an_infiintare", ascending=False, na_position="last").head(1000)
     st.dataframe(
         show, use_container_width=True, hide_index=True,
         column_config={
+            "nume": st.column_config.TextColumn("Firmă", width="large"),
             "cui": st.column_config.NumberColumn("CUI", format="%d"),
             "forma_juridica": st.column_config.TextColumn("Formă"),
             "an_infiintare": st.column_config.NumberColumn("An", format="%d"),
