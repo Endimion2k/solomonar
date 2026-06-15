@@ -10,7 +10,7 @@ from __future__ import annotations
 import pandas as pd
 import streamlit as st
 
-from app import data
+from app import data, ui
 from app.theme import (DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
@@ -60,8 +60,10 @@ SEV_LABEL = {"mare": "MARE", "medie": "medie", "mica": "mică"}
 def entitate_text(ent) -> str:
     """entitate poate fi string sau dict (ex. {cui, forma_juridica, an_infiintare, caen})."""
     if isinstance(ent, dict):
-        cui = ent.get("cui")
         bits = []
+        if ent.get("nume"):
+            bits.append(str(ent["nume"]))
+        cui = ent.get("cui")
         if cui:
             bits.append(f"CUI {cui}")
         for k in ("forma_juridica", "caen", "tara_mama", "an_infiintare"):
@@ -72,6 +74,16 @@ def entitate_text(ent) -> str:
 
 
 # ---------------- normalizare în DataFrame ----------------
+def _an_infiintare(a) -> int | None:
+    ent = a.get("entitate") if isinstance(a.get("entitate"), dict) else {}
+    det = a.get("detalii") if isinstance(a.get("detalii"), dict) else {}
+    v = ent.get("an_infiintare") or det.get("an_infiintare")
+    try:
+        return int(v) if v is not None else None
+    except (TypeError, ValueError):
+        return None
+
+
 rows = []
 for i, a in enumerate(alerte):
     sev = a.get("severitate", "")
@@ -83,6 +95,7 @@ for i, a in enumerate(alerte):
         "_sev_rank": SEV_ORDER.get(sev, 9),
         "titlu": (a.get("titlu") or "").strip(),
         "entitate": entitate_text(a.get("entitate")),
+        "an_inf": _an_infiintare(a),
         "provenance": (a.get("provenance") or "").strip(),
         "scor": a.get("scor"),
     })
@@ -186,6 +199,17 @@ if q:
             | flt["entitate"].str.lower().str.contains(ql, regex=False, na=False))
     flt = flt[mask]
 
+# filtru pe an înființare firmă — selectează mai noi sau mai vechi
+ani = df["an_inf"].dropna()
+if not ani.empty:
+    an_lo, an_hi = int(ani.min()), int(ani.max())
+    if an_lo < an_hi:
+        an_sel = st.slider("An înființare firmă (mai vechi ↔ mai noi)", an_lo, an_hi, (an_lo, an_hi),
+                           help="Se aplică alertelor de firmă (firmă nou-înființată / cu mamă străină). "
+                                "La interval complet nu filtrează nimic.")
+        if tuple(an_sel) != (an_lo, an_hi):
+            flt = flt[flt["an_inf"].notna() & flt["an_inf"].between(an_sel[0], an_sel[1])]
+
 flt = flt.sort_values(["_sev_rank", "tip", "titlu"])
 
 st.caption(f"{fmt_int(len(flt))} semnale afișate (din {fmt_int(len(df))})"
@@ -198,8 +222,8 @@ if flt.empty:
 else:
     show = flt.head(CAP).copy()
     show["sev_afis"] = show["severitate"].map(lambda s: SEV_LABEL.get(s, s or "—"))
-    table = show[["sev_afis", "titlu", "tip_lbl", "entitate", "provenance"]].rename(columns={
-        "sev_afis": "severitate", "tip_lbl": "tip", "provenance": "sursă",
+    table = show[["sev_afis", "titlu", "tip_lbl", "entitate", "an_inf", "provenance"]].rename(columns={
+        "sev_afis": "severitate", "tip_lbl": "tip", "an_inf": "an înf.", "provenance": "sursă",
     })
 
     def _sev_style(col):
@@ -214,6 +238,7 @@ else:
             "titlu": st.column_config.TextColumn(width="large"),
             "tip": st.column_config.TextColumn(width="medium"),
             "entitate": st.column_config.TextColumn(width="medium"),
+            "an înf.": st.column_config.NumberColumn("an înf.", format="%d", width="small"),
             "sursă": st.column_config.TextColumn("sursă / provenance", width="medium"),
         },
     )
@@ -242,6 +267,26 @@ else:
                 unsafe_allow_html=True)
 
             ent = full.get("entitate")
+            det0 = full.get("detalii") or {}
+            # firmă + administratori, lizibil (răspunde la „ce firmă e și cine o conduce")
+            if isinstance(ent, dict) and (ent.get("nume") or ent.get("cui")):
+                nume_f = ent.get("nume") or f"CUI {ent.get('cui')}"
+                st.markdown(f"**Firmă:** {nume_f}"
+                            + (f" · CUI {ent.get('cui')}" if ent.get("nume") and ent.get("cui") else ""))
+            reps = det0.get("reprezentanti") or []
+            if reps:
+                liste = "  \n".join(
+                    f"- {rp.get('nume', '')}" + (f" — *{rp.get('calitate')}*" if rp.get("calitate") else "")
+                    for rp in reps)
+                st.markdown("**Administratori / reprezentanți (ONRC):**  \n" + liste)
+            elif isinstance(ent, dict) and ent.get("cui"):
+                st.caption("Fără administratori în registrul ONRC pentru această firmă.")
+
+            # contracte + achiziții cu statul (agregat per firmă) — component comun
+            cui_f = (ent.get("cui") if isinstance(ent, dict) else None) or det0.get("cui")
+            if cui_f:
+                ui.firma_bani_stat(cui_f)
+
             st.markdown("**Entitate**")
             if isinstance(ent, dict):
                 st.json(ent)

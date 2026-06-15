@@ -74,6 +74,38 @@ def _e_rol_conducere(rol: str) -> bool:
     return any(k in r for k in ROLURI_CONDUCERE)
 
 
+def _build_firme_lookup() -> dict:
+    """Hartă cui (int) -> {nume, reprezentanti}. firme_onrc.json (dump ONRC) NU are denumirea,
+    deci o luăm din reprezentanți legali (denumire + administratori), cu fallback pe numele din
+    contracte / achiziții directe. Așa fiecare alertă de firmă arată CE firmă e și CINE o conduce."""
+    out: dict = {}
+    reps = _load(os.path.join(V, "companii/reprezentanti.json")).get("companii", []) or []
+    for c in reps:
+        try:
+            cui = int(c.get("cui"))
+        except (TypeError, ValueError):
+            continue
+        out[cui] = {"nume": c.get("denumire"), "reprezentanti": c.get("reprezentanti") or []}
+    for path, key in (("achizitii/contracte_firme.json", "firme"),
+                      ("companii/achizitii_directe.json", "furnizori")):
+        for r in _load(os.path.join(V, path)).get(key, []) or []:
+            try:
+                cui = int(r.get("cui"))
+            except (TypeError, ValueError):
+                continue
+            cur = out.setdefault(cui, {"nume": None, "reprezentanti": []})
+            if not cur.get("nume"):
+                cur["nume"] = r.get("nume")
+    return out
+
+
+def _cui_int(v):
+    try:
+        return int(v)
+    except (TypeError, ValueError):
+        return None
+
+
 def _build_cui_financials(persoane: list) -> dict:
     """Hartă cui -> financials (profit_net etc.). DuckDB are profit_ron NULL,
     datele financiare reale sunt în companii[].financials din persoane_gold.json."""
@@ -305,11 +337,11 @@ DISCLAIMER = (
 )
 
 
-def regula7_firma_noua_bani_stat(firme: list) -> list:
+def regula7_firma_noua_bani_stat(firme: list, fl: dict) -> list:
     """Firme nou-înființate (≤1 an înainte) care au luat CONTRACTE de stat — posibile firme-paravan.
 
     Doar canalul contracte (mai mare); cele doar cu achiziții directe mici rămân ca agregat în sumar
-    (vezi meta), ca să nu îneace alertele de conflict de mare valoare.
+    (vezi meta), ca să nu îneace alertele de conflict de mare valoare. Îmbogățit cu nume + administratori.
     """
     alerte = []
     for f in firme:
@@ -317,27 +349,37 @@ def regula7_firma_noua_bani_stat(firme: list) -> list:
             continue
         if not f.get("are_contracte"):     # doar contracte (nu achiziții directe mici)
             continue
-        canal = "contracte"
+        info = fl.get(_cui_int(f.get("cui"))) or {}
+        nume = info.get("nume")
+        reps = info.get("reprezentanti") or []
+        firma_lbl = nume or f"{f.get('forma_juridica', '')} {f.get('judet', '')}".strip()
         alerte.append({
             "tip": "firma_noua_bani_stat", "severitate": "medie",
-            "titlu": f"Firmă nou-înființată ({f.get('an_infiintare', '?')}) cu bani de stat — {f.get('forma_juridica', '')} {f.get('judet', '')}".strip(),
-            "entitate": {"cui": f.get("cui"), "forma_juridica": f.get("forma_juridica"),
-                         "an_infiintare": f.get("an_infiintare"), "caen": f.get("caen_domeniu")},
-            "detalii": {"canal": canal, "an_infiintare": f.get("an_infiintare")},
-            "provenance": "ONRC OD_FIRME (an înființare) × SICAP — LEAD, nu probă (poate fi firmă tânără legitimă)"})
+            "titlu": f"Firmă nou-înființată ({f.get('an_infiintare', '?')}) cu bani de stat — {firma_lbl}",
+            "entitate": {"cui": f.get("cui"), "nume": nume,
+                         "forma_juridica": f.get("forma_juridica"),
+                         "an_infiintare": f.get("an_infiintare"), "caen": f.get("caen_domeniu"),
+                         "judet": f.get("judet")},
+            "detalii": {"canal": "contracte", "an_infiintare": f.get("an_infiintare"),
+                        "reprezentanti": reps},
+            "provenance": "ONRC OD_FIRME (an înființare) × SICAP — LEAD, nu probă (poate fi firmă tânără "
+                          "legitimă). Nume + administratori din reprezentanții legali ONRC."})
     return alerte
 
 
-def regula8_firma_mama_straina(firme: list) -> list:
+def regula8_firma_mama_straina(firme: list, fl: dict) -> list:
     """Firme cu firmă-mamă în alt stat, care iau bani de stat."""
     alerte = []
     for f in firme:
         if f.get("tara_mama") and (f.get("are_contracte") or f.get("are_achizitii_directe")):
+            info = fl.get(_cui_int(f.get("cui"))) or {}
+            nume = info.get("nume")
             alerte.append({
                 "tip": "firma_mama_straina", "severitate": "mica",
-                "titlu": f"Firmă cu mamă în {f.get('tara_mama')} cu bani de stat — CUI {f.get('cui')}",
-                "entitate": {"cui": f.get("cui"), "tara_mama": f.get("tara_mama")},
-                "detalii": {"tara_mama": f.get("tara_mama")},
+                "titlu": f"Firmă cu mamă în {f.get('tara_mama')} cu bani de stat — "
+                         f"{nume or ('CUI ' + str(f.get('cui')))}",
+                "entitate": {"cui": f.get("cui"), "nume": nume, "tara_mama": f.get("tara_mama")},
+                "detalii": {"tara_mama": f.get("tara_mama"), "reprezentanti": info.get("reprezentanti") or []},
                 "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă"})
     return alerte
 
@@ -351,6 +393,7 @@ def main() -> dict:
     persoane = gold.get("persoane", []) if isinstance(gold, dict) else []
     cui_fin = _build_cui_financials(persoane)
     firme = _load(os.path.join(V, "companii/firme_onrc.json")).get("firme", [])
+    firme_lookup = _build_firme_lookup()
 
     con = duckdb.connect(DB, read_only=True)
     try:
@@ -361,8 +404,8 @@ def main() -> dict:
         alerte += regula4_outlier_contracte(con)
         alerte += regula5_concentrare_persoana(con)
         alerte += regula6_partid_subventie_fara_parlamentari(con)
-        alerte += regula7_firma_noua_bani_stat(firme)
-        alerte += regula8_firma_mama_straina(firme)
+        alerte += regula7_firma_noua_bani_stat(firme, firme_lookup)
+        alerte += regula8_firma_mama_straina(firme, firme_lookup)
     finally:
         con.close()
 

@@ -8,7 +8,7 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-from app import data
+from app import data, ui
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, apply_theme, fmt_int,
                        fmt_lei, fmt_pct, kpi_card, page_header, sidebar_brand)
 
@@ -123,9 +123,9 @@ if pick != "—":
     st.markdown(f"### {row['nume']}")
 
     badges = []
-    if row["sector"]:
+    if isinstance(row["sector"], str) and row["sector"].strip():
         badges.append(f"<span class='badge'>{row['sector']}</span>")
-    if row["judet"]:
+    if isinstance(row["judet"], str) and row["judet"].strip():
         badges.append(f"<span class='badge'>{row['judet']}</span>")
     if row["bvb"]:
         badges.append(f"<span class='badge'>listată BVB</span>")
@@ -156,18 +156,9 @@ if pick != "—":
         st.dataframe(info, use_container_width=True, hide_index=True)
 
     with dr:
-        st.markdown("**Contracte cu statul**")
-        ctr = row["contracte_ron"]
-        if pd.notna(ctr):
-            cc1, cc2 = st.columns(2)
-            kpi_card(cc1, "Valoare totală", fmt_lei(ctr))
-            kpi_card(cc2, "Nr. contracte",
-                     fmt_int(row["contracte_nr"]) if pd.notna(row["contracte_nr"]) else "—")
-            if pd.notna(row["contracte_nr"]) and row["contracte_nr"] > 0:
-                medie = ctr / row["contracte_nr"]
-                st.caption(f"Valoare medie per contract: {fmt_lei(medie)}")
-        else:
-            st.info("Nu sunt înregistrate contracte cu statul pentru această companie.")
+        st.markdown("**Contracte și achiziții cu statul**")
+        if not ui.firma_bani_stat(row["cui"], use_columns=False, titlu=""):
+            st.info("Nu sunt înregistrate contracte sau achiziții directe pentru această companie.")
 
     if pd.notna(pct):
         st.markdown("**Structură acționariat**")

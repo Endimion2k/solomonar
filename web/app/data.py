@@ -119,6 +119,39 @@ def achizitii_directe_meta() -> dict:
             "valoare_totala_ron": d.get("valoare_totala_ron", 0), "sursa": d.get("sursa", "")}
 
 
+@st.cache_data(show_spinner=False)
+def firma_profil(cui) -> dict:
+    """Profil 'bani de la stat' al unei firme după CUI: contracte (licitații) + achiziții directe.
+
+    Datele sunt AGREGATE per firmă (total, număr, ani, top autorități) — nu contract-cu-contract;
+    obiectul fiecărui contract nu e în setul public. Întoarce {} dacă CUI invalid.
+    """
+    try:
+        cui_i = int(cui)
+    except (TypeError, ValueError):
+        return {}
+    out: dict = {"cui": cui_i}
+    for r in _load_raw("achizitii/contracte_firme.json").get("firme", []):
+        if str(r.get("cui")) == str(cui_i):
+            out["contracte"] = {"total_ron": r.get("total_ron"), "nr": r.get("nr_contracte"),
+                                "ani": r.get("ani") or [], "nume": r.get("nume")}
+            break
+    for r in _load_raw("companii/achizitii_directe.json").get("furnizori", []):
+        if str(r.get("cui")) == str(cui_i):
+            out["achizitii_directe"] = {"total_ron": r.get("total_ron"), "nr": r.get("nr"),
+                                        "ani_activi": r.get("ani_activi") or [],
+                                        "top_autoritati": r.get("top_autoritati") or [],
+                                        "nume": r.get("nume")}
+            break
+    for r in _load_raw("companii/firme_onrc.json").get("firme", []):
+        if str(r.get("cui")) == str(cui_i):
+            out["onrc"] = {"caen": r.get("caen"), "caen_domeniu": r.get("caen_domeniu"),
+                           "forma_juridica": r.get("forma_juridica"), "judet": r.get("judet"),
+                           "localitate": r.get("localitate"), "an_infiintare": r.get("an_infiintare")}
+            break
+    return out
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:

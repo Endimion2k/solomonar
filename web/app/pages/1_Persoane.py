@@ -8,7 +8,7 @@ import re
 import pandas as pd
 import streamlit as st
 
-from app import data
+from app import data, ui
 from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,
                        fmt_int, fmt_lei, kpi_card, page_header, party_color,
                        sidebar_brand)
@@ -163,10 +163,12 @@ opts = f.head(1000)
 labels = {}
 for _, r in opts.iterrows():
     extra = []
-    if r["camera"]:
-        extra.append(r["camera"])
-    if r["partid"]:
-        extra.append(str(r["partid"])[:28])
+    cam = r["camera"]
+    if isinstance(cam, str) and cam.strip():
+        extra.append(cam.strip())
+    par = r["partid"]
+    if isinstance(par, str) and par.strip():
+        extra.append(par.strip()[:28])
     suffix = f"  ·  {' · '.join(extra)}" if extra else ""
     labels[r["romega_id"]] = f"{r['nume']}{suffix}"
 
@@ -290,6 +292,16 @@ with right:
         )
     else:
         st.caption("Nu apare ca administrator/asociat la nicio companie.")
+
+# --- contracte & achiziții ale unei firme conduse (component comun, full-width) ---
+firme_cu_cui = [c for c in (p.get("companii") or []) if c.get("cui")]
+if firme_cu_cui:
+    st.markdown("##### Contracte & achiziții ale unei firme conduse")
+    opts = {f"{(c.get('nume') or '').strip()} · CUI {c.get('cui')}": c.get("cui")
+            for c in firme_cu_cui}
+    pick = st.selectbox("Alege firma", list(opts.keys()), key="pers_firma_bani")
+    if not ui.firma_bani_stat(opts[pick]):
+        st.caption("Această firmă nu are contracte sau achiziții directe înregistrate în set.")
 
 # --- conflicte confirmate: firme din propria declarație de interese cu contracte de stat ---
 fa = p.get("firme_contracte_autodeclarate") or []
