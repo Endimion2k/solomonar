@@ -31,7 +31,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = os.path.join(ROOT, "data/v1")
 
 # Baza canonică a site-ului publicat (GitHub Pages).
-SITE = "https://endimion2k.github.io/romega"
+SITE = "https://endimion2k.github.io/solomonar"
 FEED_JSON_URL = f"{SITE}/data/v1/feed.json"
 FEED_ATOM_URL = f"{SITE}/data/v1/feed.xml"
 ALERTE_FEED_URL = f"{SITE}/data/v1/alerte.feed.json"

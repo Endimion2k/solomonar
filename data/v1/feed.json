@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "ROMEGA — comunicate DNA",
-  "home_page_url": "https://endimion2k.github.io/romega",
-  "feed_url": "https://endimion2k.github.io/romega/data/v1/feed.json",
+  "home_page_url": "https://endimion2k.github.io/solomonar",
+  "feed_url": "https://endimion2k.github.io/solomonar/data/v1/feed.json",
   "description": "Cele mai recente comunicate ale Direcției Naționale Anticorupție, agregate de ROMEGA. Text neoficial, destinat mass-media.",
   "language": "ro",
   "authors": [
     {
       "name": "ROMEGA",
-      "url": "https://endimion2k.github.io/romega"
+      "url": "https://endimion2k.github.io/solomonar"
     }
   ],
   "items": [

@@ -14,7 +14,7 @@ streamlit run web/app/Overview.py
 Sursa de date: implicit `data/v1` local. Pentru datele LIVE (GitHub Pages):
 
 ```bash
-SOLOMONAR_DATA=https://endimion2k.github.io/romega/data/v1 streamlit run web/app/Overview.py
+SOLOMONAR_DATA=https://endimion2k.github.io/solomonar/data/v1 streamlit run web/app/Overview.py
 ```
 
 ## Pagini

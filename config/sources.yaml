@@ -18,7 +18,7 @@ meta:
   note: "Verificat iunie 2026. Vezi docs/03-SOURCES.md pentru context."
 
 defaults:
-  user_agent: "SOLOMONAR-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
+  user_agent: "SOLOMONAR-bot/0.1 (+https://github.com/Endimion2k/solomonar; transparenta date publice)"
   rate_limit_per_host: "1/s"
   respect_robots: true
   cache_bronze: true

@@ -198,11 +198,11 @@ Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
 > **42 commit-uri · 102 teste verzi · API LIVE.**
 
 > **SUMAR (2026-06-03, sesiuni autonome):** Faze 0–6 + coverage · **98 teste verzi** · 22
-> commit-uri pe `Endimion2k/romega` (PUBLIC) · **API STATIC LIVE** pe GitHub Pages.
+> commit-uri pe `Endimion2k/solomonar` (PUBLIC) · **API STATIC LIVE** pe GitHub Pages.
 > Validat LIVE din RO: cdep.ro, senat.ro, ANAF v9, data.gov.ro, BNR, INS, SICAP, Curtea de Conturi, DNA, ANI portal.
 >
 > **🟢 Item 1 (deploy): LIVE** — repo public, Pages "built". API la
-> `https://endimion2k.github.io/romega/data/v1/status.json` (HTTP 200), client la `/romega/web/`.
+> `https://endimion2k.github.io/solomonar/data/v1/status.json` (HTTP 200), client la `/romega/web/`.
 >
 > **🟢 Item 2 (rulări live):** cdep → **335 deputați** (335 unici, 0 erori) + senat → **134 senatori**
 > (133 unici) publicați în `data/v1/parlament/` (cu birth_date din profile → omonimi separați la cdep;

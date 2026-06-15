@@ -31,7 +31,7 @@ from solomonar_core.bronze import BronzeArtifact, BronzeStore
 truststore.inject_into_ssl()
 
 DEFAULT_USER_AGENT = (
-    "SOLOMONAR-bot/0.1 (+https://github.com/Endimion2k/romega; transparenta date publice)"
+    "SOLOMONAR-bot/0.1 (+https://github.com/Endimion2k/solomonar; transparenta date publice)"
 )
 
 

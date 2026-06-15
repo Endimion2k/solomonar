@@ -8,9 +8,9 @@ SOLOMONAR servește `data/v1/*.json` și `web/` ca site static (filozofia cdep-a
 2. Settings → Pages → Source: `Deploy from a branch` → `main` / root.
 3. `.nojekyll` (prezent) dezactivează procesarea Jekyll (servește fișierele ca atare).
 4. URL-uri rezultate:
-   - API: `https://endimion2k.github.io/romega/data/v1/status.json`
+   - API: `https://endimion2k.github.io/solomonar/data/v1/status.json`
    - Organizații: `.../data/v1/organizatii/_index.json`
-   - Client: `https://endimion2k.github.io/romega/web/`
+   - Client: `https://endimion2k.github.io/solomonar/web/`
 5. În `web/index.html`, `DATA` e setat la `../data/v1` (corect când Pages servește din root).
 
 ## Runner self-hosted (scraping programat)
