@@ -176,6 +176,12 @@ def firme_nume_map() -> dict:
     return out
 
 
+# ---------------- analiză de rețea (inele / huburi / poduri) ----------------
+@st.cache_data(show_spinner=False)
+def network_metrics() -> dict:
+    return _load_raw("graf/network_metrics.json")
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:
