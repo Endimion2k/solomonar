@@ -52,7 +52,7 @@ ale demnitarilor au luat bani publici?*, *cum s-a schimbat averea unui oficial p
 - **🔍 Căutare (oricine, din browser):** pagina de căutare indexează **103.725 entități** (persoane,
   companii, partide). Scrii un nume → vezi instant declarațiile, companiile conduse, contractele,
   subvenția partidului, eventuale conflicte — totul pe o singură fișă.
-- **🖥️ Aplicația „SOLOMONAR Insights"** — dashboard interactiv cu **15 pagini** (filtre, grafice, fișe
+- **🖥️ Aplicația „SOLOMONAR Insights"** — dashboard interactiv cu **18 pagini** (filtre, grafice, fișe
   de detaliu) — rulează local sau online pe Streamlit Cloud; detalii mai jos.
 - **🕸️ Grafuri interactive** — `graf.html` (rețeaua follow-the-money, layout precalculat) și
   `graf_full.html` (graful complet de 33.000 de noduri, randat pe GPU în browser).
@@ -62,12 +62,13 @@ ale demnitarilor au luat bani publici?*, *cum s-a schimbat averea unui oficial p
 - **🤖 Interogare conversațională (MCP):** un server Model Context Protocol expune datele pentru
   asistenți AI (Claude Desktop / Cursor) — întrebi în limbaj natural, primești răspuns cu proveniență.
 
-## Dashboard-ul complet „SOLOMONAR Insights" (15 pagini)
+## Dashboard-ul complet „SOLOMONAR Insights" (18 pagini)
 
 Pe lângă stratul public din browser (căutare, grafuri, API), platforma include un dashboard interactiv
-**Streamlit** cu cele **15 pagini**: Persoane · Companii · Achiziții · Achiziții directe ·
-Follow-the-money · Partide · Bugete · DNA · Comisii · Hartă · Analytics · Alerte · Sancțiuni ·
-Firme-paravan (+ Overview) — fiecare cu filtre, grafice și fișe de detaliu.
+**Streamlit** cu cele **18 pagini**: Persoane · Companii · Achiziții · Achiziții directe ·
+Follow-the-money · Partide · Bugete · DNA · Comisii · Hartă (choropleth) · Analytics · Alerte · Sancțiuni ·
+Firme-paravan · **Rețele** · **Red-flags** · **Anomalii avere** (+ Overview) — fiecare cu filtre, grafice
+și fișe de detaliu.
 
 - **Local:** `streamlit run web/app/Overview.py` (Python) — rulează pe calculatorul tău, cu toate datele.
 - **Online (gratuit):** publicabil pe **Streamlit Community Cloud** prin conectarea repo-ului → URL
@@ -118,6 +119,16 @@ curl https://endimion2k.github.io/solomonar/data/v1/graf/persoane_gold.json
 ```
 Sau interoghezi conversațional prin serverul **MCP**: „Listează firmele cu contracte de stat ale
 persoanei X", direct dintr-un asistent AI.
+
+## Instrumente de investigație (analiză avansată)
+
+- **🕸️ Rețele & inele de control** — graf de administratori comuni (ONRC): detectează automat grupuri de
+  firme controlate de aceiași oameni (identifică corect grupuri reale: Erbașu, UMB/Tehnostrade,
+  distribuitori farma), plus administratori-hub și firme-pod, cu graf interactiv.
+- **🚩 Red-flags achiziții (metodologie OCDS)** — din datele per-linie SICAP: **58.717 contracte
+  single-bid** (o singură ofertă) și **29.518 perechi de fragmentare** (atribuiri directe repetate).
+- **💰 Anomalii de avere (machine learning)** — scor de anomalie (PyOD/ECOD) pe **76.838 declarații**:
+  profiluri de avere statistic neobișnuite (venituri vs conturi/terenuri/clădiri) — lead-uri de verificat.
 
 ## Linkuri
 
