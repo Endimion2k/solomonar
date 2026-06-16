@@ -142,7 +142,8 @@ def main() -> dict:
             admins |= cui_admins.get(cu, set())
         firme = sorted(
             ({"cui": cu, "nume": nume_by_cui.get(cu, ""), "bani_stat": has_bani(cu),
-              "total_ron": round(bani_by_cui.get(cu, 0))} for cu in cuis),
+              "total_ron": round(bani_by_cui.get(cu, 0)),
+              "admini": sorted(cui_admins.get(cu, set()))[:6]} for cu in cuis),
             key=lambda x: -x["total_ron"])
         n_bani = sum(1 for f in firme if f["bani_stat"])
         total = sum(f["total_ron"] for f in firme)

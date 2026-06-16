@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import pandas as pd
 import streamlit as st
+from st_link_analysis import EdgeStyle, NodeStyle, st_link_analysis
 
 from app import data, ui
 from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, fmt_int,
@@ -95,6 +96,33 @@ with tab_inele:
                 pick = st.selectbox("Vezi contractele unei firme din inel", list(opts.keys()),
                                     key=f"ring_{r['companii'][0]['cui']}")
                 ui.firma_bani_stat(opts[pick], titlu="")
+
+    # ---- graf interactiv al unui inel (administratori <-> firme) ----
+    st.divider()
+    st.markdown("##### 🕸️ Graf interactiv (administratori ↔ firme)")
+    if flt:
+        ropts = {f"{', '.join(a.title() for a in r['admini'][:2])} · {r['n_companii']} firme · "
+                 f"{fmt_lei(r['total_bani_stat_ron'])}": i for i, r in enumerate(flt[:40])}
+        rk = st.selectbox("Alege un inel pentru graf", list(ropts.keys()), key="ring_graph_sel")
+        ring = flt[ropts[rk]]
+        nodes, edges, aid_of = [], [], {}
+        for fr in ring["companii"]:
+            cid = f"c{fr['cui']}"
+            nodes.append({"data": {"id": cid, "label": "FIRMA",
+                                   "name": (fr.get("nume") or str(fr["cui"]))[:36]}})
+            for adm in fr.get("admini", []):
+                if adm not in aid_of:
+                    aid_of[adm] = f"a{len(aid_of)}"
+                    nodes.append({"data": {"id": aid_of[adm], "label": "ADMIN", "name": adm.title()}})
+                edges.append({"data": {"id": f"{aid_of[adm]}_{cid}", "source": aid_of[adm],
+                                       "target": cid, "label": "admin"}})
+        node_styles = [NodeStyle("FIRMA", "#8b5cf6", "name", "business"),
+                       NodeStyle("ADMIN", "#22d3ee", "name", "person")]
+        edge_styles = [EdgeStyle("admin", caption="label", directed=True)]
+        st_link_analysis({"nodes": nodes, "edges": edges}, "cose",
+                         node_styles, edge_styles, key="ring_net")
+        st.caption("Cyan = administrator · violet = firmă. Un administrator conectat la mai multe firme "
+                   "= nodul care leagă inelul. Poți trage nodurile și da zoom.")
 
 # ============================ HUBURI ============================
 with tab_hub:
