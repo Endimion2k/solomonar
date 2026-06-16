@@ -7,6 +7,7 @@ import re
 
 import pandas as pd
 import streamlit as st
+from streamlit_searchbox import st_searchbox
 
 from app import data, ui
 from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,
@@ -154,29 +155,53 @@ st.divider()
 # ============================ FIȘĂ DETALIU ============================
 st.markdown("#### Fișă persoană")
 
-if f.empty:
-    st.info("Niciun rezultat. Relaxează filtrele pentru a deschide o fișă.")
+
+def _search_all_persoane(term: str):
+    """Caută live în TOATE persoanele (nu doar tabelul filtrat). -> [(label, romega_id)]."""
+    term = (term or "").strip().lower()
+    if len(term) < 2:
+        return []
+    d = data.persoane_df()
+    sub = d[d["nume"].str.lower().str.contains(term, na=False, regex=False)]
+    sub = sub.sort_values("contracte_ron", ascending=False).head(25)
+    out = []
+    for _, r in sub.iterrows():
+        bits = []
+        if isinstance(r.get("partid"), str) and r["partid"].strip():
+            bits.append(r["partid"])
+        if r.get("contracte_ron"):
+            bits.append(fmt_lei(r["contracte_ron"]))
+        lbl = r["nume"] + (" · " + " · ".join(bits) if bits else "")
+        out.append((lbl, r["romega_id"]))
+    return out
+
+
+picked = st_searchbox(_search_all_persoane, key="pers_global_search",
+                      placeholder="🔍 Caută orice persoană din cele 102.452 (după nume)…")
+
+if picked:
+    sel_id = picked
+elif f.empty:
+    st.info("Caută un nume mai sus, sau relaxează filtrele pentru a deschide o fișă.")
     st.stop()
-
-opts = f.head(1000)
-# etichetă lizibilă în selector
-labels = {}
-for _, r in opts.iterrows():
-    extra = []
-    cam = r["camera"]
-    if isinstance(cam, str) and cam.strip():
-        extra.append(cam.strip())
-    par = r["partid"]
-    if isinstance(par, str) and par.strip():
-        extra.append(par.strip()[:28])
-    suffix = f"  ·  {' · '.join(extra)}" if extra else ""
-    labels[r["romega_id"]] = f"{r['nume']}{suffix}"
-
-sel_id = st.selectbox(
-    "Alege o persoană din rezultatele filtrate",
-    options=list(labels.keys()),
-    format_func=lambda i: labels.get(i, i),
-)
+else:
+    opts = f.head(1000)
+    labels = {}
+    for _, r in opts.iterrows():
+        extra = []
+        cam = r["camera"]
+        if isinstance(cam, str) and cam.strip():
+            extra.append(cam.strip())
+        par = r["partid"]
+        if isinstance(par, str) and par.strip():
+            extra.append(par.strip()[:28])
+        suffix = f"  ·  {' · '.join(extra)}" if extra else ""
+        labels[r["romega_id"]] = f"{r['nume']}{suffix}"
+    sel_id = st.selectbox(
+        "…sau alege din rezultatele filtrate",
+        options=list(labels.keys()),
+        format_func=lambda i: labels.get(i, i),
+    )
 
 p = data.persoana(sel_id)
 if not p:
