@@ -20,5 +20,6 @@ python-calamine>=0.2
 splink>=4.0  # optional: rezolutie probabilistica (build_splink_resolution)
 python-igraph>=0.11  # analiză de graf (build_network: inele de control, huburi, firme-pod)
 deepdiff>=7.0        # changelog între rebuild-uri (build_changelog)
+pyod>=2.0            # anomaly detection avere (build_avere_anomalii, ECOD)
 shapely>=2.0         # simplificare GeoJSON județe (one-time, build geo)
 # cdlib>=0.4         # optional: comunități suprapuse (faza 2 — firme-pod fuzzy)

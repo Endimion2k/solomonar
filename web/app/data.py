@@ -200,6 +200,12 @@ def redflags() -> dict:
     return _load_raw("redflags.json")
 
 
+@st.cache_data(show_spinner=False)
+def avere_anomalii() -> dict:
+    """Anomalii de avere (PyOD/ECOD) — profiluri statistic neobișnuite. Vezi build_avere_anomalii.py."""
+    return _load_raw("avere_anomalii.json")
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:
