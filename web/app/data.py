@@ -182,6 +182,12 @@ def network_metrics() -> dict:
     return _load_raw("graf/network_metrics.json")
 
 
+@st.cache_data(show_spinner=False)
+def ro_judete_geojson() -> dict:
+    """GeoJSON cu județele RO (simplificat). proprietăți: judet (cheie normalizată), nume (afișare)."""
+    return _load_raw("geo/ro_judete.geojson")
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:

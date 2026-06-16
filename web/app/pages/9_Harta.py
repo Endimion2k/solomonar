@@ -2,11 +2,20 @@
 
 from __future__ import annotations
 
+import re
+import unicodedata
+
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
 from app import data
+
+
+def _norm_judet(s: str) -> str:
+    s = unicodedata.normalize("NFKD", str(s or ""))
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return re.sub(r"[\s\-]+", " ", s.strip().upper())
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
@@ -61,6 +70,31 @@ with ctrl2:
 metric_col = metric_options[metric_label]
 plot_df = df.dropna(subset=[metric_col]).sort_values(metric_col, ascending=False).head(top_n)
 
+# ---- choropleth pe județe ----
+st.markdown(f"#### Harta județelor — {metric_label.lower()}")
+geojson = data.ro_judete_geojson()
+if geojson and geojson.get("features"):
+    mdf = df.dropna(subset=[metric_col]).copy()
+    mdf["_key"] = mdf["judet"].apply(_norm_judet)
+    mdf["_lbl"] = mdf["judet"].astype(str)
+    figm = go.Figure(go.Choroplethmapbox(
+        geojson=geojson, locations=mdf["_key"], featureidkey="properties.judet",
+        z=mdf[metric_col], colorscale="Plasma",
+        marker_line_color="#0b0d12", marker_line_width=0.5, marker_opacity=0.85,
+        text=mdf["_lbl"], hovertemplate="%{text}<br>%{z:,.0f}<extra></extra>",
+        colorbar=dict(thickness=12),
+    ))
+    figm.update_layout(
+        mapbox_style="carto-darkmatter", mapbox_zoom=5.1,
+        mapbox_center={"lat": 45.9, "lon": 25.0},
+        height=520, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)")
+    st.plotly_chart(figm, use_container_width=True)
+    st.caption("Culoarea = intensitatea metricii alese pe județ. Treci cu mouse-ul pentru valori.")
+else:
+    st.caption("GeoJSON-ul județelor nu e disponibil — vezi clasamentul de mai jos.")
+
+st.divider()
+
 # ---- bar chart orizontal ----
 st.markdown(f"#### Top {len(plot_df)} județe după {metric_label.lower()}")
 if plot_df.empty:
@@ -83,8 +117,7 @@ else:
     )
     st.plotly_chart(fig, use_container_width=True)
 
-st.caption("Notă: nu folosim hartă choropleth (lipsesc granițele GeoJSON ale județelor) — "
-           "reprezentarea este un clasament orizontal.")
+st.caption("Clasament orizontal — complementar hărții de mai sus.")
 
 st.divider()
 
