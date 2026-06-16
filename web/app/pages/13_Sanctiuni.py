@@ -4,6 +4,11 @@ from __future__ import annotations
 
 import streamlit as st
 
+import sys as _sys, pathlib as _pl  # bootstrap: import 'app' fără PYTHONPATH (rulare directă/deploy)
+for _a in _pl.Path(__file__).resolve().parents:
+    if (_a / 'app').is_dir():
+        _sys.path.insert(0, str(_a)); break
+
 from app import data
 from app.theme import (ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)

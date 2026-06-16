@@ -9,6 +9,11 @@ import pandas as pd
 import streamlit as st
 from streamlit_searchbox import st_searchbox
 
+import sys as _sys, pathlib as _pl  # bootstrap: import 'app' fără PYTHONPATH (rulare directă/deploy)
+for _a in _pl.Path(__file__).resolve().parents:
+    if (_a / 'app').is_dir():
+        _sys.path.insert(0, str(_a)); break
+
 from app import data, ui
 from app.dossier import persoana_docx
 from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,

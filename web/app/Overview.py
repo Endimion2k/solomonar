@@ -5,6 +5,11 @@ from __future__ import annotations
 import plotly.graph_objects as go
 import streamlit as st
 
+import sys as _sys, pathlib as _pl  # bootstrap: import 'app' fără PYTHONPATH (rulare directă/deploy)
+for _a in _pl.Path(__file__).resolve().parents:
+    if (_a / 'app').is_dir():
+        _sys.path.insert(0, str(_a)); break
+
 from app import data
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, apply_theme, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)

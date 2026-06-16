@@ -13,6 +13,24 @@ SOLOMONAR servește `data/v1/*.json` și `web/` ca site static (filozofia cdep-a
    - Client: `https://endimion2k.github.io/solomonar/web/`
 5. În `web/index.html`, `DATA` e setat la `../data/v1` (corect când Pages servește din root).
 
+## Client Streamlit — local + Streamlit Community Cloud
+
+Aplicația „SOLOMONAR Insights" (18 pagini) e auto-conținută (bootstrap de `sys.path` în fiecare
+pagină → nu mai cere `PYTHONPATH`).
+
+**Local:**
+```bash
+.venv/Scripts/python -m streamlit run web/app/Overview.py
+```
+
+**Streamlit Community Cloud (URL public, gratuit):**
+1. share.streamlit.io → New app → conectează repo-ul `Endimion2k/solomonar`.
+2. **Main file path:** `web/app/Overview.py`
+3. **Requirements:** `web/requirements.txt` (Advanced settings → sau redenumește în root dacă cere).
+4. (Opțional) ca să citească datele live de pe Pages în loc de cele din repo, setează secret/env
+   `SOLOMONAR_DATA = https://endimion2k.github.io/solomonar/data/v1`.
+5. Tema dark e în `.streamlit/config.toml` (aplicată automat).
+
 ## Runner self-hosted (scraping programat)
 `cdep.ro` / `senat.ro` geo-blochează IP-urile de cloud → scraping-ul programat rulează pe un
 runner self-hosted în România (PC Windows, ca la cdep-api-poc).
