@@ -194,6 +194,12 @@ def changelog() -> dict:
     return _load_raw("changelog.json")
 
 
+@st.cache_data(show_spinner=False)
+def redflags() -> dict:
+    """Red-flags achiziții (single-bid + fragmentare), metodologie OCDS. Vezi harvest_redflags.py."""
+    return _load_raw("redflags.json")
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:
