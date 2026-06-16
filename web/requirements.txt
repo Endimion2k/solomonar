@@ -1,0 +1,9 @@
+# SOLOMONAR — client Streamlit (web/app). Deploy: Streamlit Community Cloud sau local.
+# Citește doar JSON-uri statice din data/v1 (sau SOLOMONAR_DATA = URL GitHub Pages).
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.0
+python-docx>=1.1          # dosar per entitate (DOCX în memorie)
+streamlit-searchbox>=0.1  # căutare globală live pe persoane
+streamlit-aggrid>=1.0     # tabele paginate cu filtre (achiziții directe)
+st-link-analysis>=0.4     # graf interactiv de rețea (inele)

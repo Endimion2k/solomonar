@@ -188,6 +188,12 @@ def ro_judete_geojson() -> dict:
     return _load_raw("geo/ro_judete.geojson")
 
 
+@st.cache_data(show_spinner=False)
+def changelog() -> dict:
+    """Modificări față de rebuild-ul anterior (deepdiff). Gol până la al 2-lea rebuild."""
+    return _load_raw("changelog.json")
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:

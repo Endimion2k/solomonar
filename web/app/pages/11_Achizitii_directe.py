@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import plotly.graph_objects as go
 import streamlit as st
+from st_aggrid import AgGrid, GridOptionsBuilder, JsCode
 
 from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
@@ -60,19 +61,23 @@ if min_nr:
 if min_val:
     f = f[f["total_ron"] >= min_val]
 f = f.sort_values("total_ron", ascending=False)
-st.caption(f"{fmt_int(len(f))} furnizori — afișați primii 500.")
+st.caption(f"{fmt_int(len(f))} furnizori — tabel paginat (primii 5.000 după valoare), sortare + "
+           "filtre pe fiecare coloană.")
 
-show = f.head(500)[["nume", "cui", "total_ron", "nr", "ani_activi", "top_autoritati"]]
-st.dataframe(
-    show, use_container_width=True, hide_index=True, height=480,
-    column_config={
-        "nume": st.column_config.TextColumn("Furnizor"),
-        "cui": st.column_config.TextColumn("CUI"),
-        "total_ron": st.column_config.NumberColumn("Total (lei)", format="%.0f"),
-        "nr": st.column_config.NumberColumn("Achiziții", format="%d"),
-        "ani_activi": st.column_config.TextColumn("Ani activi"),
-        "top_autoritati": st.column_config.TextColumn("Top autorități contractante"),
-    })
+show = f.head(5000)[["nume", "cui", "total_ron", "nr", "ani_activi", "top_autoritati"]].rename(
+    columns={"nume": "Furnizor", "cui": "CUI", "total_ron": "Total (lei)", "nr": "Achiziții",
+             "ani_activi": "Ani activi", "top_autoritati": "Top autorități"})
+_lei_fmt = JsCode("function(p){return p.value==null?'':Math.round(p.value).toLocaleString('ro-RO');}")
+gob = GridOptionsBuilder.from_dataframe(show)
+gob.configure_default_column(filter=True, sortable=True, resizable=True, floatingFilter=True)
+gob.configure_pagination(paginationAutoPageSize=False, paginationPageSize=20)
+gob.configure_column("Furnizor", width=240)
+gob.configure_column("Total (lei)", type=["numericColumn"], valueFormatter=_lei_fmt, width=130)
+gob.configure_column("Achiziții", type=["numericColumn"], width=110)
+gob.configure_column("Top autorități", width=300)
+AgGrid(show, gridOptions=gob.build(), theme="streamlit", height=520,
+       fit_columns_on_grid_load=False, allow_unsafe_jscode=True,
+       enable_enterprise_modules=False)
 
 # ---------------- detaliu furnizor ----------------
 if not f.empty:

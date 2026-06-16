@@ -10,6 +10,7 @@ import streamlit as st
 from streamlit_searchbox import st_searchbox
 
 from app import data, ui
+from app.dossier import persoana_docx
 from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,
                        fmt_int, fmt_lei, kpi_card, page_header, party_color,
                        sidebar_brand)
@@ -227,6 +228,13 @@ kpi_card(d1, "Declarații", fmt_int(p.get("n_declaratii", 0)))
 kpi_card(d2, "Companii conduse", fmt_int(p.get("n_companii", 0)))
 kpi_card(d3, "Contracte de stat", fmt_lei(p.get("total_contracte_ron") or 0))
 kpi_card(d4, "Firme cu contracte", fmt_int(p.get("n_firme_cu_contracte", 0)))
+
+st.download_button(
+    "📄 Descarcă dosar (DOCX)", data=persoana_docx(p),
+    file_name=f"dosar_{(nume or 'persoana').replace(' ', '_')}.docx",
+    mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    help="Dosar complet (declarații, companii, contracte, conflicte, CV). "
+         "Deschizi în Word / Google Docs → exporți PDF.")
 
 # --- mandat parlamentar ---
 if pl:

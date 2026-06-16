@@ -142,6 +142,29 @@ if isinstance(agregate, dict) and agregate:
             msg += f" {nota}"
         st.info(msg, icon="📌")
 
+# ---------------- monitorizare: modificări față de rebuild-ul anterior ----------------
+cl = data.changelog()
+if isinstance(cl, dict) and cl:
+    if not cl.get("are_baza_anterioara"):
+        st.caption("📋 Monitorizare activată — bază de referință creată; modificările apar de la "
+                   "următorul rebuild.")
+    elif cl.get("n_modificari") or cl.get("n_persoane_noi"):
+        with st.expander(f"📋 Modificări față de rebuild-ul anterior — "
+                         f"{fmt_int(cl.get('n_modificari', 0))} modificări · "
+                         f"{fmt_int(cl.get('n_persoane_noi', 0))} persoane noi cu bani de stat"):
+            mods = cl.get("modificari") or []
+            if mods:
+                mdf = pd.DataFrame([{"Persoană": m.get("nume"), "Câmp": m.get("camp"),
+                                     "Vechi": m.get("vechi"), "Nou": m.get("nou"),
+                                     "Δ": m.get("delta")} for m in mods[:100]])
+                st.dataframe(mdf, use_container_width=True, hide_index=True,
+                             column_config={
+                                 "Vechi": st.column_config.NumberColumn(format="%.0f"),
+                                 "Nou": st.column_config.NumberColumn(format="%.0f"),
+                                 "Δ": st.column_config.NumberColumn(format="%.0f")})
+    else:
+        st.caption("📋 Monitorizare: nicio modificare față de rebuild-ul anterior.")
+
 st.divider()
 
 # ---------------- conflict_confirmat — sus, separat ----------------
