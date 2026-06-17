@@ -63,7 +63,12 @@ def _grid(df, page=20, height=520, numeric_cols=()):
            enable_enterprise_modules=False)
 
 
-tab_sb, tab_fr = st.tabs(["🅰 Single-bid (o singură ofertă)", "🧩 Fragmentare (atribuiri directe repetate)"])
+pr = rf.get("procedura_necompetitiva") or {}
+pr_items = pr.get("items") or []
+tab_sb, tab_pr, tab_fr = st.tabs([
+    "🅰 Single-bid (o singură ofertă)",
+    "🅱 Procedură necompetitivă",
+    "🧩 Fragmentare (atribuiri directe repetate)"])
 
 with tab_sb:
     st.caption(sb.get("nota", ""))
@@ -78,6 +83,18 @@ with tab_sb:
         _grid(df, numeric_cols=["Valoare (lei)"])
     else:
         st.info("Niciun contract single-bid în setul curent.")
+
+with tab_pr:
+    st.caption(pr.get("nota", "") + "  Relevant mai ales pe anii .xls recenți (fără nr. ofertanți).")
+    if pr_items:
+        df = pd.DataFrame(pr_items).rename(columns={
+            "valoare_ron": "Valoare (lei)", "autoritate": "Autoritate", "castigator": "Câștigător",
+            "obiect": "Obiect", "procedura": "Procedură", "cui": "CUI", "an": "An", "data": "Dată"})
+        keep = [c for c in ["Autoritate", "Câștigător", "CUI", "Valoare (lei)", "Obiect",
+                            "Procedură", "Dată"] if c in df.columns]
+        _grid(df[keep], numeric_cols=["Valoare (lei)"])
+    else:
+        st.info("Nicio procedură necompetitivă în setul curent.")
 
 with tab_fr:
     st.caption(fr.get("nota", ""))

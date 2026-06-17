@@ -16,6 +16,7 @@ import json
 import os
 import re
 import time
+import unicodedata
 
 import requests
 import urllib3
@@ -35,21 +36,30 @@ YEARS = (set(int(y) for y in _Y.split(",") if y.strip())
 
 # praguri
 PRAG_SINGLE_BID = 200_000.0     # contracte single-bid peste atât = semnal
+PRAG_PROC = 500_000.0           # procedură necompetitivă peste atât = semnal
 FRAG_MIN_NR = 10                # ≥ atâtea cumpărări directe pe pereche (autoritate→furnizor) = fragmentare
 FRAG_MIN_TOTAL = 100_000.0      # și total minim
 MAX_DIRECT = 2_000_000.0        # plafon legal cumpărare directă
 MAX_CONTRACT = 50_000_000_000.0  # sanitizare garbage la contracte
+PROC_RISC = ("negociere fara", "fara public", "fara invitatie")  # proceduri necompetitive
 
-COL_CUI = ["castigatorcui", "cuicastigator", "cuiofertant"]
-COL_VAL = ["valoareron", "valoarecontractron"]
-COL_NUME = ["castigator", "denumirecastigator", "ofertant"]
+COL_CUI = ["castigatorcui", "cuicastigator", "cuiofertant", "cuiofertantcastigator"]
+COL_VAL = ["valoareron", "valoarecontractron", "valoareatribuitaron", "valoareatribuita",
+           "valoareachizitieron", "valoareachizitie"]
+COL_NUME = ["castigator", "denumirecastigator", "ofertant", "ofertantcastigator"]
 COL_AUT = ["autoritatecontractanta", "denumireac"]
-COL_AUTCUI = ["autoritatecontractantacui", "autoritatecontractantacu"]
+COL_AUTCUI = ["autoritatecontractantacui", "autoritatecontractantacu", "cuiautoritatecontractanta"]
 COL_OFERTE = ["numaroferteprimite", "numaroferte", "oferteprimite"]
-COL_TITLU = ["titlucontract", "obiectcontract", "titlu", "obiect"]
-COL_CPV = ["cpvcode", "cpv"]
+COL_TITLU = ["titlucontract", "obiectcontract", "denumirecpv", "titlu", "obiect"]
+COL_CPV = ["cpvcode", "cpv", "codcpv"]
 COL_PROC = ["tipprocedura", "procedura"]
-COL_DATA = ["datacontract", "dataanunt"]
+COL_DATA = ["datacontract", "dataanunt", "dataanuntatribuire"]
+
+
+def _proc_riscanta(s: str) -> bool:
+    s = unicodedata.normalize("NFKD", str(s or "").lower())
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return any(p in s for p in PROC_RISC)
 
 
 def _norm(s):
@@ -96,10 +106,11 @@ def _raw_rows(url, fmt):
     """Yield rânduri (list[str]) dintr-o resursă CSV sau XLS/XLSX."""
     if "XLS" in (fmt or "").upper():
         from python_calamine import CalamineWorkbook
-        b = requests.get(url, headers=H, verify=False, timeout=600).content
-        ws = CalamineWorkbook.from_filelike(io.BytesIO(b)).get_sheet_by_index(0)
-        for row in ws.to_python(skip_empty_area=True):
-            yield [("" if c is None else str(c)) for c in row]
+        b = requests.get(url, headers=H, verify=False, timeout=900).content
+        wb = CalamineWorkbook.from_filelike(io.BytesIO(b))
+        for sn in wb.sheet_names:                         # .xls vechi: date pe 4 foi (limită 65k/foaie)
+            for row in wb.get_sheet_by_name(sn).to_python(skip_empty_area=True):
+                yield [("" if c is None else str(c)) for c in row]
     else:
         r = requests.get(url, headers=H, verify=False, timeout=300, stream=True)
         r.raise_for_status()
@@ -146,7 +157,7 @@ def _process(url, fmt, tip, an, ck):
     it_, icpv, idt, iproc = (_pick(cols, COL_TITLU), _pick(cols, COL_CPV),
                              _pick(cols, COL_DATA), _pick(cols, COL_PROC))
     mx = max(x for x in (ic, iv, inm, ia, iac, iof, it_, icpv, idt, iproc) if x is not None)
-    is_contract = iof is not None  # NumarOfertePrimite => resursă de contracte (licitații)
+    is_contract = (tip == "contracte")  # din harta de resurse (nu din prezența ofertelor)
     n = 0
     for p in rows:
         if len(p) <= mx:
@@ -157,21 +168,26 @@ def _process(url, fmt, tip, an, ck):
             continue
         if is_contract:
             val = _num(p[iv], MAX_CONTRACT)
-            if _oferte(p[iof]) == 1 and val >= PRAG_SINGLE_BID:
-                ck["single"].append({
+            sb = iof is not None and _oferte(p[iof]) == 1 and val >= PRAG_SINGLE_BID
+            pr = (not sb) and iproc is not None and val >= PRAG_PROC and _proc_riscanta(p[iproc])
+            if sb or pr:
+                item = {
                     "an": an, "valoare_ron": round(val),
                     "autoritate": (p[ia][:70] if ia is not None else ""),
                     "castigator": (p[inm][:70] if inm is not None else ""), "cui": cui,
                     "obiect": (p[it_][:90] if it_ is not None and p[it_] else ""),
                     "cpv": (p[icpv][:14] if icpv is not None and p[icpv] else ""),
-                    "procedura": (p[iproc][:40] if iproc is not None and p[iproc] else ""),
+                    "procedura": (p[iproc][:50] if iproc is not None and p[iproc] else ""),
                     "data": (p[idt][:10] if idt is not None and p[idt] else str(an)),
-                })
+                }
+                (ck["single"] if sb else ck["proc"]).append(item)
         else:
             val = _num(p[iv], MAX_DIRECT)
             if val <= 0:
                 continue
             autcui = _cui(p[iac]) if iac is not None else ""
+            if not autcui:    # fără CUI-autoritate nu putem atribui perechea (evită over-merge pe furnizor)
+                continue
             key = f"{autcui}>{cui}"
             fr = ck["frag"].get(key)
             if fr is None:
@@ -187,19 +203,53 @@ def _process(url, fmt, tip, an, ck):
     return n
 
 
+def _write_output(ck, ani_proc) -> dict:
+    """Scrie data/v1/redflags.json din starea curentă (non-mutant — apelabil incremental)."""
+    single = sorted(ck["single"], key=lambda x: -x["valoare_ron"])
+    proc = sorted(ck["proc"], key=lambda x: -x["valoare_ron"])
+    frag = [{"autoritate": f["autoritate"], "autoritate_cui": f["autoritate_cui"],
+             "castigator": f["castigator"], "cui": f["cui"], "nr": f["nr"],
+             "total": round(f["total"]), "ani_activi": sorted(f.get("ani", []))}
+            for f in ck["frag"].values()
+            if f["nr"] >= FRAG_MIN_NR and f["total"] >= FRAG_MIN_TOTAL]
+    frag.sort(key=lambda x: (x["nr"], x["total"]), reverse=True)
+    out = {
+        "generat": time.strftime("%Y-%m-%d"),
+        "ani": ani_proc,
+        "acoperire": "Toate resursele SICAP (CSV + .xls). Single-bid (nr. ofertanți) doar pe anii cu acea "
+                     "coloană (format CSV bogat); pe anii .xls recenți se folosește în loc indicatorul "
+                     "„procedură necompetitivă”. Fragmentarea acoperă toate cumpărările directe.",
+        "disclaimer": "Red-flags = indicatori de RISC din date deschise (metodologie OCDS/open-tender-watch). "
+                      "NU sunt dovezi de ilegalitate — sunt lead-uri de verificat. Single-bid, procedurile "
+                      "necompetitive și atribuirile directe repetate pot fi perfect legale.",
+        "single_bid": {
+            "nota": f"Contracte (licitații) cu o singură ofertă primită, peste {int(PRAG_SINGLE_BID):,} lei.",
+            "total": len(single), "items": single[:1500]},
+        "procedura_necompetitiva": {
+            "nota": f"Contracte prin negociere fără publicare / fără invitație, peste {int(PRAG_PROC):,} lei "
+                    "(competiție absentă — relevant pe anii fără nr. ofertanți).",
+            "total": len(proc), "items": proc[:1500]},
+        "fragmentare": {
+            "nota": f"Perechi autoritate→furnizor cu ≥{FRAG_MIN_NR} cumpărări directe (posibilă evitare a licitației).",
+            "total": len(frag), "items": frag[:1500]},
+    }
+    json.dump(out, open(os.path.join(V, "redflags.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+    return {"single": len(single), "proc": len(proc), "frag": len(frag)}
+
+
 def main() -> dict:
     res = json.load(open(os.path.join(P, "_achizitii_map.json"), encoding="utf-8"))
     res = res if isinstance(res, list) else [v for k, v in res.items() if k != "_meta"][0]
-    todo = [r for r in res if r.get("url")
-            and (YEARS is None or r.get("an") in YEARS)
-            and "XLS" not in (r.get("format") or "").upper()]  # CSV (format bogat, rapid)
+    todo = [r for r in res if r.get("url") and (YEARS is None or r.get("an") in YEARS)]
     todo.sort(key=lambda x: (x.get("an", 0), str(x.get("perioada", ""))))
     ani_proc = sorted({r.get("an") for r in todo if r.get("an")})
 
-    ck = {"single": [], "frag": {}}    # un singur pas (fără checkpoint greu pe dict-ul frag)
-    print(f"red-flags ani {ani_proc} | resurse CSV: {len(todo)}", flush=True)
-    os.makedirs(LOCAL, exist_ok=True)
+    ck = {"single": [], "proc": [], "frag": {}}    # un singur pas (fără checkpoint greu pe frag)
+    print(f"red-flags ani {ani_proc} | resurse: {len(todo)}", flush=True)
+    os.makedirs(V, exist_ok=True)
 
+    n_done = 0
     for r in todo:
         url, an, tip, fmt = r["url"], r.get("an"), r.get("tip"), r.get("format")
         t0 = time.time()
@@ -208,36 +258,18 @@ def main() -> dict:
         except Exception as e:
             print(f"   FAIL {an} {tip} {r.get('perioada')}: {type(e).__name__} {str(e)[:40]}", flush=True)
             continue
+        if len(ck["frag"]) > 1_000_000:   # bound memorie: scapă de cumpărările one-off (nr==1)
+            ck["frag"] = {k: v for k, v in ck["frag"].items() if v["nr"] >= 2}
         print(f"   {an} {tip} {r.get('perioada')}: {n} rânduri, {round(time.time()-t0)}s | "
-              f"single={len(ck['single'])} frag_pairs={len(ck['frag'])}", flush=True)
+              f"single={len(ck['single'])} proc={len(ck['proc'])} frag_pairs={len(ck['frag'])}", flush=True)
+        n_done += 1
+        if n_done % 6 == 0:               # output incremental — rezilient la crash/OOM
+            _write_output(ck, ani_proc)
 
-    # ---- finalizare: filtrează + sortează ----
-    single = sorted(ck["single"], key=lambda x: -x["valoare_ron"])
-    frag = [dict(f, total=round(f["total"]), ani_activi=sorted(f.pop("ani", [])))
-            for f in ck["frag"].values()
-            if f["nr"] >= FRAG_MIN_NR and f["total"] >= FRAG_MIN_TOTAL]
-    frag.sort(key=lambda x: (x["nr"], x["total"]), reverse=True)
-
-    out = {
-        "generat": time.strftime("%Y-%m-%d"),
-        "ani": ani_proc,
-        "acoperire": "Resurse cu format CSV bogat (cu nr. ofertanți). Resursele .xls recente (2019-2020, "
-                     "2025 etc.) au alt format, fără nr. oferte — neacoperite la single-bid.",
-        "disclaimer": "Red-flags = indicatori de RISC din date deschise (metodologie OCDS/open-tender-watch). "
-                      "NU sunt dovezi de ilegalitate — sunt lead-uri de verificat. Single-bid și atribuirile "
-                      "directe repetate pot fi perfect legale.",
-        "single_bid": {
-            "nota": f"Contracte (licitații) cu o singură ofertă primită, peste {int(PRAG_SINGLE_BID):,} lei.",
-            "total": len(single), "items": single[:1500]},
-        "fragmentare": {
-            "nota": f"Perechi autoritate→furnizor cu ≥{FRAG_MIN_NR} cumpărări directe (posibilă evitare a licitației).",
-            "total": len(frag), "items": frag[:1500]},
-    }
-    os.makedirs(V, exist_ok=True)
-    json.dump(out, open(os.path.join(V, "redflags.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=1)
-    print(f"PUBLICAT redflags.json: single-bid={len(single)}, fragmentare={len(frag)}", flush=True)
-    return {"single": len(single), "frag": len(frag)}
+    res = _write_output(ck, ani_proc)
+    print(f"PUBLICAT redflags.json: single-bid={res['single']}, procedura={res['proc']}, "
+          f"fragmentare={res['frag']}", flush=True)
+    return res
 
 
 if __name__ == "__main__":
