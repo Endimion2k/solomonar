@@ -1,7 +1,7 @@
-"""SOLOMONAR · Comisii & Legislativ — comisiile Senatului (23) + inițiatori PLx (1.852).
+"""SOLOMONAR · Comisii & Legislativ — activitate recentă + comisiile Senatului + inițiatori PLx.
 
-Comisii Senat: selectează o comisie -> membri + rol. Legislativ: distribuția inițiativelor
-(guvern vs. parlamentar) și un tabel filtrabil al proiectelor PLx.
+Trei tab-uri: (1) activitatea recentă a comisiilor Camerei Deputaților (ședințe din ultima lună,
+PLx discutate + actele de bază), (2) componența comisiilor Senatului, (3) inițiatorii PLx.
 """
 
 from __future__ import annotations
@@ -16,7 +16,7 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
-from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, WARNING, apply_theme,
+from app.theme import (ACCENT, ACCENT_2, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Comisii & Legislativ · SOLOMONAR", page_icon="🏛️", layout="wide")
@@ -24,19 +24,95 @@ apply_theme()
 sidebar_brand()
 
 page_header("Comisii & Legislativ",
-            "Comisiile permanente ale Senatului și componența lor · inițiatorii proiectelor "
-            "legislative (PLx). Date publice, agregate.")
+            "Activitatea recentă a comisiilor Camerei Deputaților (ședințe + proiecte discutate), "
+            "componența comisiilor Senatului și inițiatorii proiectelor legislative (PLx).")
+
 
 # ====================================================================
-# SECȚIUNEA 1 — Comisiile Senatului
+# TAB 1 — Activitate recentă a comisiilor (Camera Deputaților)
 # ====================================================================
-st.markdown("### Comisiile Senatului")
+def _render_activitate() -> None:
+    ac = data.comisii_recent()
+    if not ac or not ac.get("sedinte"):
+        st.warning("Nu există date de activitate recentă. Rulează `python -m pipeline.harvest_comisii` "
+                   "apoi `python -m pipeline.build_comisii_recent`.")
+        return
 
-comisii = data.comisii_senat()
+    per = ac.get("perioada", {})
+    c1, c2, c3, c4 = st.columns(4)
+    kpi_card(c1, "Ședințe", fmt_int(ac.get("n_sedinte")))
+    kpi_card(c2, "Comisii active", fmt_int(ac.get("n_comisii_active")))
+    kpi_card(c3, "PLx discutate (unice)", fmt_int(ac.get("n_plx_unice")))
+    kpi_card(c4, "Perioada", f"{per.get('de_la', '')} → {per.get('pana_la', '')}")
+    st.caption("„Acte de bază” = documentele fundamentale ale proiectului (forma inițiatorului, expunere "
+               "de motive, aviz Consiliul Legislativ, punct de vedere Guvern), nu rapoartele comisiei.")
 
-if not comisii:
-    st.info("Nu există comisii în setul de date.")
-else:
+    sub_sed, sub_plx = st.tabs(["🗓️ Ședințe (cronologic)", "📜 PLx discutate + acte de bază"])
+
+    with sub_sed:
+        cf1, cf2 = st.columns([2, 1])
+        q = cf1.text_input("Caută comisie sau PLx", placeholder="ex: sănătate, buget…",
+                           key="act_q").strip().lower()
+        doar_plx = cf2.checkbox("Doar ședințe cu PLx", value=True, key="act_doar")
+        sed = ac["sedinte"]
+        if doar_plx:
+            sed = [s for s in sed if s.get("n_plx")]
+        if q:
+            sed = [s for s in sed if q in (s.get("comisie") or "").lower()
+                   or any(q in (p.get("titlu") or "").lower() for p in s.get("plx", []))]
+        st.caption(f"{fmt_int(len(sed))} ședințe afișate.")
+        for s in sed[:80]:
+            head = f"{s['data']} · {s['comisie']} · {s.get('n_plx', 0)} PLx"
+            with st.expander(head):
+                if s.get("agenda_url"):
+                    st.markdown(f"📄 [Ordinea de zi (PDF)]({s['agenda_url']})")
+                if not s.get("plx"):
+                    st.caption("Agenda nu listează PLx (sau nu a putut fi parsată).")
+                for p in s.get("plx", []):
+                    line = f"- **[{p['titlu']}]({p['url']})**" if p.get("url") else f"- **{p['titlu']}**"
+                    acte = p.get("acte_baza", [])
+                    if acte:
+                        line += ("  \n  ↳ *acte de bază:* "
+                                 + " · ".join(f"[{a['tip']}]({a['url']})" for a in acte))
+                    elif p.get("n_documente"):
+                        line += f"  \n  ↳ *{p['n_documente']} documente la dosar (fără acte de bază marcate)*"
+                    st.markdown(line)
+
+    with sub_plx:
+        st.caption("Proiectele discutate în perioadă (deduplicate), cu numărul de documente la dosar.")
+        plx = ac.get("plx_unice", [])
+        if not plx:
+            st.info("Niciun PLx în perioadă.")
+        else:
+            rows = [{
+                "PLx / titlu": p.get("titlu"),
+                "Comisii": ", ".join(p.get("comisii", [])),
+                "Acte de bază": ", ".join(a["tip"] for a in p.get("acte_baza", [])) or "—",
+                "Documente": p.get("n_documente", 0),
+                "Link": p.get("url"),
+            } for p in plx]
+            st.dataframe(
+                pd.DataFrame(rows), use_container_width=True, hide_index=True, height=520,
+                column_config={
+                    "PLx / titlu": st.column_config.TextColumn(width="medium"),
+                    "Comisii": st.column_config.TextColumn(width="medium"),
+                    "Acte de bază": st.column_config.TextColumn(width="medium"),
+                    "Documente": st.column_config.NumberColumn(format="%d"),
+                    "Link": st.column_config.LinkColumn("cdep.ro", display_text="deschide"),
+                })
+
+    st.caption(f"Sursă: cdep.ro (ordini de zi comisii + dosare PLx). Generat: {ac.get('generat', '')}.")
+
+
+# ====================================================================
+# TAB 2 — Comisiile Senatului
+# ====================================================================
+def _render_senat() -> None:
+    comisii = data.comisii_senat()
+    if not comisii:
+        st.info("Nu există comisii în setul de date.")
+        return
+
     total_membri = sum(int(c.get("n_membri") or len(c.get("membri") or [])) for c in comisii)
     c1, c2, c3 = st.columns(3)
     kpi_card(c1, "Comisii Senat", fmt_int(len(comisii)))
@@ -51,20 +127,16 @@ else:
     if comisia:
         membri = comisia.get("membri") or []
         st.markdown(f"**{sel}** — {fmt_int(len(membri))} membri")
-
         if membri:
             mdf = pd.DataFrame(membri)
             for col in ("nume", "rol", "parlamentar_id"):
                 if col not in mdf.columns:
                     mdf[col] = ""
             mdf["rol"] = mdf["rol"].fillna("Membru").replace("", "Membru")
-
-            # ordine birou comisie întâi
             ord_rol = {"Președinte": 0, "Preşedinte": 0, "Vicepreședinte": 1,
                        "Vicepreşedinte": 1, "Secretar": 2, "Membru": 3}
             mdf["_o"] = mdf["rol"].map(lambda r: ord_rol.get(r, 9))
             mdf = mdf.sort_values(["_o", "nume"]).drop(columns="_o")
-
             col_t, col_g = st.columns([3, 2])
             with col_t:
                 show = mdf[["nume", "rol"]].rename(columns={"nume": "membru", "rol": "rol"})
@@ -82,29 +154,24 @@ else:
         else:
             st.caption("Comisia nu are membri înregistrați în setul de date.")
 
-    # privire de ansamblu peste toate comisiile
     st.markdown("#### Mărimea comisiilor")
     ov = pd.DataFrame([{"comisie": c.get("nume", ""),
                         "membri": int(c.get("n_membri") or len(c.get("membri") or []))}
                        for c in comisii]).sort_values("membri", ascending=True)
-    fig = go.Figure(go.Bar(x=ov["membri"], y=ov["comisie"], orientation="h",
-                           marker_color=ACCENT))
-    fig.update_layout(height=max(320, 22 * len(ov)), xaxis_title="număr membri",
-                      margin=dict(l=10))
+    fig = go.Figure(go.Bar(x=ov["membri"], y=ov["comisie"], orientation="h", marker_color=ACCENT))
+    fig.update_layout(height=max(320, 22 * len(ov)), xaxis_title="număr membri", margin=dict(l=10))
     st.plotly_chart(fig, use_container_width=True)
 
-st.divider()
 
 # ====================================================================
-# SECȚIUNEA 2 — Inițiatori legislativi (PLx)
+# TAB 3 — Inițiative legislative (PLx)
 # ====================================================================
-st.markdown("### Inițiative legislative (PLx)")
+def _render_legislativ() -> None:
+    plx = data.plx_initiatori_df()
+    if plx.empty:
+        st.info("Nu există date PLx în setul de date.")
+        return
 
-plx = data.plx_initiatori_df()
-
-if plx.empty:
-    st.info("Nu există date PLx în setul de date.")
-else:
     plx = plx.copy()
     for col in ("titlu", "idp"):
         if col not in plx.columns:
@@ -117,10 +184,8 @@ else:
     n_parl = len(plx) - n_guvern
     k1, k2, k3, k4 = st.columns(4)
     kpi_card(k1, "Proiecte PLx", fmt_int(len(plx)))
-    kpi_card(k2, "Inițiative guvern", fmt_int(n_guvern),
-             help=f"{n_guvern/len(plx)*100:.0f}% din total")
-    kpi_card(k3, "Inițiative parlamentare", fmt_int(n_parl),
-             help=f"{n_parl/len(plx)*100:.0f}% din total")
+    kpi_card(k2, "Inițiative guvern", fmt_int(n_guvern), help=f"{n_guvern/len(plx)*100:.0f}% din total")
+    kpi_card(k3, "Inițiative parlamentare", fmt_int(n_parl), help=f"{n_parl/len(plx)*100:.0f}% din total")
     medie_init = plx.loc[~plx["guvern"], "n_initiatori"]
     medie_init = medie_init[medie_init > 0]
     kpi_card(k4, "Inițiatori / proiect parlamentar",
@@ -163,26 +228,39 @@ else:
 
     st.caption(f"{fmt_int(len(flt))} proiecte găsite"
                + (f" · sursă: {sursa.lower()}" if sursa != "Toate" else ""))
-
     if flt.empty:
         st.info("Niciun proiect nu corespunde criteriilor.")
-    else:
-        out = flt.copy()
-        out["tip"] = out["guvern"].map({True: "Guvern", False: "Parlamentar"})
-        show = out[["idp", "titlu", "tip", "n_initiatori"]].rename(columns={
-            "idp": "id PLx", "titlu": "titlu", "tip": "sursă", "n_initiatori": "nr. inițiatori",
-        }).sort_values("nr. inițiatori", ascending=False)
-        st.dataframe(
-            show.head(1000), use_container_width=True, hide_index=True,
-            column_config={
-                "id PLx": st.column_config.TextColumn(width="small"),
-                "titlu": st.column_config.TextColumn(width="large"),
-                "sursă": st.column_config.TextColumn(width="small"),
-                "nr. inițiatori": st.column_config.NumberColumn(format="%d", width="small"),
-            },
-        )
-        if len(flt) > 1000:
-            st.caption(f"Se afișează primele 1.000 din {fmt_int(len(flt))}.")
+        return
 
-st.caption("Sursă: componența comisiilor Senatului și fișele de inițiatori ale proiectelor "
-           "legislative (PLx). Date publice agregate.")
+    out = flt.copy()
+    out["tip"] = out["guvern"].map({True: "Guvern", False: "Parlamentar"})
+    show = out[["idp", "titlu", "tip", "n_initiatori"]].rename(columns={
+        "idp": "id PLx", "titlu": "titlu", "tip": "sursă", "n_initiatori": "nr. inițiatori",
+    }).sort_values("nr. inițiatori", ascending=False)
+    st.dataframe(
+        show.head(1000), use_container_width=True, hide_index=True,
+        column_config={
+            "id PLx": st.column_config.TextColumn(width="small"),
+            "titlu": st.column_config.TextColumn(width="large"),
+            "sursă": st.column_config.TextColumn(width="small"),
+            "nr. inițiatori": st.column_config.NumberColumn(format="%d", width="small"),
+        },
+    )
+    if len(flt) > 1000:
+        st.caption(f"Se afișează primele 1.000 din {fmt_int(len(flt))}.")
+
+
+tab_act, tab_sen, tab_leg = st.tabs([
+    "🗓️ Activitate recentă (Camera)",
+    "🏛️ Comisiile Senatului",
+    "📜 Inițiative legislative (PLx)"])
+with tab_act:
+    _render_activitate()
+with tab_sen:
+    _render_senat()
+with tab_leg:
+    _render_legislativ()
+
+st.divider()
+st.caption("Sursă: cdep.ro (activitatea comisiilor Camerei) · componența comisiilor Senatului · "
+           "fișele de inițiatori ale proiectelor legislative (PLx). Date publice agregate.")
