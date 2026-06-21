@@ -6,6 +6,8 @@ PLx discutate + actele de bază), (2) componența comisiilor Senatului, (3) ini�
 
 from __future__ import annotations
 
+import collections
+
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
@@ -26,6 +28,15 @@ sidebar_brand()
 page_header("Comisii & Legislativ",
             "Activitatea recentă a comisiilor Camerei Deputaților (ședințe + proiecte discutate), "
             "componența comisiilor Senatului și inițiatorii proiectelor legislative (PLx).")
+
+# etichete + ordinea de afișare a tipurilor de documente la dosarul unui PLx
+DOC_LABEL = {
+    "forma_initiator": "📜 Forma inițiatorului", "expunere_motive": "📝 Expunere de motive",
+    "aviz_consiliu_legislativ": "⚖️ Aviz Consiliul Legislativ", "punct_vedere_guvern": "🏛️ Punct de vedere Guvern",
+    "sesizare": "✉️ Sesizare", "aviz_comisie": "✅ Aviz comisie", "raport": "📄 Raport",
+    "raport_suplimentar": "📄 Raport suplimentar", "aviz_csm": "⚖️ Aviz CSM", "alt": "📎 Alt document"}
+DOC_ORDER = ["forma_initiator", "expunere_motive", "aviz_consiliu_legislativ", "punct_vedere_guvern",
+             "sesizare", "aviz_comisie", "raport", "raport_suplimentar", "aviz_csm", "alt"]
 
 
 # ====================================================================
@@ -168,6 +179,7 @@ def _render_senat() -> None:
 # ====================================================================
 def _render_legislativ() -> None:
     plx = data.plx_initiatori_df()
+    docmap = data.plx_docs_by_idp()
     if plx.empty:
         st.info("Nu există date PLx în setul de date.")
         return
@@ -180,16 +192,18 @@ def _render_legislativ() -> None:
     plx["guvern"] = plx.get("guvern", False).fillna(False).astype(bool)
     plx["n_initiatori"] = pd.to_numeric(plx.get("n_initiatori"), errors="coerce").fillna(0).astype(int)
 
+    plx["nr_docs"] = plx["idp"].astype(str).map(lambda i: len(docmap.get(i, {}).get("documente", [])))
+
     n_guvern = int(plx["guvern"].sum())
     n_parl = len(plx) - n_guvern
+    total_docs = int(plx["nr_docs"].sum())
     k1, k2, k3, k4 = st.columns(4)
     kpi_card(k1, "Proiecte PLx", fmt_int(len(plx)))
     kpi_card(k2, "Inițiative guvern", fmt_int(n_guvern), help=f"{n_guvern/len(plx)*100:.0f}% din total")
     kpi_card(k3, "Inițiative parlamentare", fmt_int(n_parl), help=f"{n_parl/len(plx)*100:.0f}% din total")
-    medie_init = plx.loc[~plx["guvern"], "n_initiatori"]
-    medie_init = medie_init[medie_init > 0]
-    kpi_card(k4, "Inițiatori / proiect parlamentar",
-             f"{medie_init.mean():.1f}" if not medie_init.empty else "—")
+    kpi_card(k4, "Documente la dosar (total)", fmt_int(total_docs),
+             help="Suma documentelor pentru toate cele "
+                  f"{fmt_int((plx['nr_docs'] > 0).sum())} de proiecte cu dosar complet.")
 
     col_a, col_b = st.columns(2)
     with col_a:
@@ -234,8 +248,11 @@ def _render_legislativ() -> None:
 
     out = flt.copy()
     out["tip"] = out["guvern"].map({True: "Guvern", False: "Parlamentar"})
-    show = out[["idp", "titlu", "tip", "n_initiatori"]].rename(columns={
+    out["cdep"] = out["idp"].astype(str).map(
+        lambda i: f"https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp={i}")
+    show = out[["idp", "titlu", "tip", "n_initiatori", "nr_docs", "cdep"]].rename(columns={
         "idp": "id PLx", "titlu": "titlu", "tip": "sursă", "n_initiatori": "nr. inițiatori",
+        "nr_docs": "documente", "cdep": "pagina",
     }).sort_values("nr. inițiatori", ascending=False)
     st.dataframe(
         show.head(1000), use_container_width=True, hide_index=True,
@@ -244,10 +261,44 @@ def _render_legislativ() -> None:
             "titlu": st.column_config.TextColumn(width="large"),
             "sursă": st.column_config.TextColumn(width="small"),
             "nr. inițiatori": st.column_config.NumberColumn(format="%d", width="small"),
+            "documente": st.column_config.NumberColumn(format="%d", width="small",
+                                                       help="Documente la dosarul PLx (toate tipurile)."),
+            "pagina": st.column_config.LinkColumn("cdep.ro", display_text="deschide", width="small"),
         },
     )
     if len(flt) > 1000:
         st.caption(f"Se afișează primele 1.000 din {fmt_int(len(flt))}.")
+
+    # ---- dosarul complet al unui PLx (toate documentele, grupate pe tip) ----
+    st.markdown("#### Dosarul unui proiect — toate documentele")
+    opts = flt.sort_values("n_initiatori", ascending=False)
+    labels = {f"{r['titlu']} · {int(r['nr_docs'])} documente": str(r["idp"])
+              for _, r in opts.iterrows()}
+    if not labels:
+        st.caption("Niciun PLx în selecție.")
+        return
+    sel_lbl = st.selectbox("Alege un PLx din rezultatele filtrate", list(labels.keys()))
+    idp = labels[sel_lbl]
+    rec = docmap.get(idp, {})
+    docs = rec.get("documente", [])
+    cdep = f"https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp={idp}"
+    st.markdown(f"**{rec.get('titlu', sel_lbl)}** · [pagina cdep.ro]({cdep}) · {len(docs)} documente")
+    if not docs:
+        st.caption("Fără documente la dosar pentru acest proiect.")
+        return
+    by_tip = collections.defaultdict(list)
+    for d in docs:
+        by_tip[d.get("tip", "alt")].append(d.get("url"))
+    for tip in DOC_ORDER + [t for t in by_tip if t not in DOC_ORDER]:
+        urls = by_tip.get(tip)
+        if not urls:
+            continue
+        lbl = DOC_LABEL.get(tip, tip)
+        if len(urls) == 1:
+            links = f"[deschide]({urls[0]})"
+        else:
+            links = " · ".join(f"[{i + 1}]({u})" for i, u in enumerate(urls))
+        st.markdown(f"- {lbl}: {links}")
 
 
 tab_act, tab_sen, tab_leg = st.tabs([

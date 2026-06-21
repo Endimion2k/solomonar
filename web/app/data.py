@@ -302,6 +302,17 @@ def plx_initiatori_df() -> pd.DataFrame:
     return pd.DataFrame(_load_raw("comisii/plx_initiatori.json").get("plx", []))
 
 
+@st.cache_data(show_spinner=False)
+def plx_docs_by_idp() -> dict:
+    """Map idp(str) -> {titlu, camera, documente:[{tip,url}]} din plx.json (toate cele ~1920 PLx)."""
+    out = {}
+    for p in _load_raw("comisii/plx.json").get("plx", []):
+        out[str(p.get("idp"))] = {
+            "titlu": p.get("titlu"), "camera": p.get("camera"),
+            "documente": p.get("documente", [])}
+    return out
+
+
 # ---------------- analytics (DuckDB views) ----------------
 @st.cache_data(show_spinner=False)
 def analytics(name: str) -> pd.DataFrame:
