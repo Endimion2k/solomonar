@@ -206,6 +206,12 @@ def avere_anomalii() -> dict:
     return _load_raw("avere_anomalii.json")
 
 
+@st.cache_data(show_spinner=False)
+def comisii_recent() -> dict:
+    """Activitatea recentă a comisiilor (ședințe + PLx + acte de bază). Vezi build_comisii_recent.py."""
+    return _load_raw("comisii/activitate_recenta.json")
+
+
 # ---------------- firme ONRC (profil firme cu bani de stat) ----------------
 @st.cache_data(show_spinner=False)
 def firme_onrc() -> pd.DataFrame:

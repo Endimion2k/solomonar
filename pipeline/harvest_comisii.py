@@ -29,6 +29,8 @@ from solomonar_core.http import Client  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1/comisii")
 YEARS = [int(y) for y in os.environ.get("SOLOMONAR_COMISII_ANI", "2024,2025,2026").split(",")]
+# SOLOMONAR_COMISII_FRESH=1 → listele de ședințe se iau mereu live (ședințe noi); agendele/PLx rămân din cache
+FRESH = os.environ.get("SOLOMONAR_COMISII_FRESH") == "1"
 
 
 def _idp(url: str) -> str | None:
@@ -55,7 +57,7 @@ def main() -> dict:
         for an in YEARS:
             url = f"{CO_BASE}sedinte2015.lista?tip={tip}&an={an}"
             try:
-                h, _ = client.fetch(url, "co_sess", ".html")
+                h, _ = client.fetch(url, "co_sess", ".html", use_cache=not (FRESH and an == max(YEARS)))
             except Exception:
                 continue
             if not name:

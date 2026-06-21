@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T19:18:50.711999+00:00",
+  "generated_at": "2026-06-21T19:27:00.997722+00:00",
   "ani": [
     2024,
     2025,
     2026
   ],
-  "total": 2971,
+  "total": 3031,
   "sedinte": [
     {
       "tip": 1,
@@ -3049,6 +3049,130 @@
       "tip": 1,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F292894882/OZ%2015_18.06.2026.pdf",
+      "plx_idps": [
+        "22946",
+        "22962",
+        "22963",
+        "23212",
+        "23254",
+        "23268",
+        "23298",
+        "23300"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1953252515/OZ%2015_18.06.2026.pdf",
+      "plx_idps": [
+        "22946",
+        "22962",
+        "22963",
+        "23212",
+        "23254",
+        "23268",
+        "23298",
+        "23300"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1690071991/OZ%2015_18.06.2026.pdf",
+      "plx_idps": [
+        "22946",
+        "22962",
+        "22963",
+        "23212",
+        "23254",
+        "23268",
+        "23298",
+        "23300"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F154249370/OZ%2015_18.06.2026.pdf",
+      "plx_idps": [
+        "22946",
+        "22962",
+        "22963",
+        "23212",
+        "23254",
+        "23268",
+        "23298",
+        "23300"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F673783155/OZ%2008_11.06.2026.pdf",
+      "plx_idps": [
+        "21497",
+        "22915",
+        "22917",
+        "22942",
+        "22943",
+        "22963",
+        "23176"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F2054721162/OZ%2008_11.06.2026.pdf",
+      "plx_idps": [
+        "21497",
+        "22915",
+        "22917",
+        "22942",
+        "22943",
+        "22963",
+        "23176"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1956156889/OZ%2008_11.06.2026.pdf",
+      "plx_idps": [
+        "21497",
+        "22915",
+        "22917",
+        "22942",
+        "22943",
+        "22963",
+        "23176"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1241328161/OZ%2008_11.06.2026.pdf",
+      "plx_idps": [
+        "21497",
+        "22915",
+        "22917",
+        "22942",
+        "22943",
+        "22963",
+        "23176"
+      ]
+    },
+    {
+      "tip": 1,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1781643137/OZ%2002_04.06.2026.pdf",
       "plx_idps": [
         "22946",
@@ -4907,10 +5031,43 @@
       "tip": 2,
       "an": 2026,
       "data": null,
-      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1314173589/OZ%209%20iunie.pdf",
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F41844531/OZ%2023%20iunie.pdf",
+      "plx_idps": [
+        "19768",
+        "22023",
+        "22176",
+        "23096",
+        "23173",
+        "23176",
+        "23214",
+        "23310",
+        "23311"
+      ]
+    },
+    {
+      "tip": 2,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1562554757/OZ%2016%20iunie.pdf",
       "plx_idps": [
         "21015",
-        "22015",
+        "22023",
+        "22120",
+        "22282",
+        "22283",
+        "22943",
+        "23096",
+        "23182",
+        "23214",
+        "23280"
+      ]
+    },
+    {
+      "tip": 2,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1521603098/OZ%209%20iunie.pdf",
+      "plx_idps": [
         "22120",
         "22176",
         "22282",
@@ -5972,6 +6129,27 @@
       "an": 2025,
       "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F-1854996006/oz122325.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 3,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F437005391/oz062326.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 3,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F571601369/ozs061626.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 3,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F605671034/oz061626.pdf",
       "plx_idps": []
     },
     {
@@ -7297,6 +7475,27 @@
         "22660",
         "22704",
         "22734"
+      ]
+    },
+    {
+      "tip": 4,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1799835679/Ord%20zi%2023.06.2026.pdf",
+      "plx_idps": [
+        "23069",
+        "23303",
+        "23305"
+      ]
+    },
+    {
+      "tip": 4,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1491616148/Ord%20zi%2016.06.2026.pdf",
+      "plx_idps": [
+        "21264",
+        "23322"
       ]
     },
     {
@@ -8638,6 +8837,34 @@
       "tip": 5,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1373596188/06_22;%2024;%2025.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 5,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F392178136/06_23.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 5,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1559141218/06_15;%2017;%2018.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 5,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F288492668/06_16.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 5,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1977917827/06_08;%2009;%2010;%2011.pdf",
       "plx_idps": []
     },
@@ -9366,6 +9593,43 @@
       "tip": 6,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1543090125/oz22iunie.pdf",
+      "plx_idps": [
+        "20204",
+        "20327",
+        "22730",
+        "22971",
+        "23031",
+        "23049",
+        "23182",
+        "23196",
+        "23319"
+      ]
+    },
+    {
+      "tip": 6,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1548792723/oz15iunie.pdf",
+      "plx_idps": [
+        "22516",
+        "22897",
+        "22925",
+        "23060",
+        "23192",
+        "23216",
+        "23280",
+        "23297",
+        "23310",
+        "23311",
+        "23315",
+        "23316"
+      ]
+    },
+    {
+      "tip": 6,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F2080183300/oz8iunie.pdf",
       "plx_idps": [
         "19984",
@@ -10036,6 +10300,27 @@
       "an": 2025,
       "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F-2004611788/oz%2012.22%20munca.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 7,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1167840568/oz%2006.22.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 7,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F2140783775/oz%2006.17.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 7,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1202144704/oz%2006.16.pdf",
       "plx_idps": []
     },
     {
@@ -11260,6 +11545,27 @@
       "tip": 8,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1221321194/oz0622.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 8,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1829775593/oz0616-18.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 8,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F514099826/oz0615.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 8,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1207697063/oz0608.pdf",
       "plx_idps": []
     },
@@ -12142,7 +12448,14 @@
       "tip": 9,
       "an": 2026,
       "data": null,
-      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F815532713/oz06_08_09_10_11.pdf",
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1367616715/oz06_15_16_17_18.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 9,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1806173099/oz06_08_09_10_11.pdf",
       "plx_idps": []
     },
     {
@@ -12626,6 +12939,20 @@
       "an": 2025,
       "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F-1816084861/ordine%20de%20zi%202025-12-23.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 10,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F642193570/ordine%20de%20zi%202026-06-23.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 10,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1050774649/orinde%20de%20zi%202026-06-16.pdf",
       "plx_idps": []
     },
     {
@@ -14694,6 +15021,88 @@
       "tip": 11,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F45818046/oz16.06.pdf",
+      "plx_idps": [
+        "19678",
+        "19927",
+        "21705",
+        "21977",
+        "22505",
+        "22590",
+        "22605",
+        "22815",
+        "22828",
+        "22898",
+        "22971",
+        "22975",
+        "23025",
+        "23030",
+        "23052",
+        "23059",
+        "23096",
+        "23116",
+        "23173",
+        "23181",
+        "23201",
+        "23205",
+        "23211",
+        "23228",
+        "23234",
+        "23243",
+        "23253",
+        "23258",
+        "23274",
+        "23276",
+        "23279",
+        "23298",
+        "23299",
+        "23300",
+        "23301",
+        "23310",
+        "23311"
+      ]
+    },
+    {
+      "tip": 11,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F781536171/oz.09.06%20scurta.pdf",
+      "plx_idps": [
+        "19308",
+        "20592",
+        "22549",
+        "22615",
+        "22672",
+        "22838",
+        "22850",
+        "22938",
+        "22998",
+        "23024",
+        "23066",
+        "23075",
+        "23077",
+        "23080",
+        "23102",
+        "23113",
+        "23115",
+        "23134",
+        "23144",
+        "23170",
+        "23225",
+        "23226",
+        "23233",
+        "23236",
+        "23242",
+        "23247",
+        "23248",
+        "23257",
+        "23263"
+      ]
+    },
+    {
+      "tip": 11,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F238071063/oz26.05.pdf",
       "plx_idps": [
         "17094",
@@ -16356,6 +16765,13 @@
       "an": 2025,
       "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F58847327/ordzi1217.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 13,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F834310554/ordzi0610.pdf",
       "plx_idps": []
     },
     {
@@ -18427,6 +18843,62 @@
       "tip": 14,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1250698282/oz06,15,16,18.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F510247351/oz06,17.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F705645807/oz06,15,16,18.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1240198916/oz06,15,16,18.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F298911810/oz06,8,9,10,11.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1145791936/oz06,8,9,10,11.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F919509934/oz06,8,9,10,11.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F359134937/oz06,8,9,10,11.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 14,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F650437579/oz06,2,4.pdf",
       "plx_idps": []
     },
@@ -20258,6 +20730,55 @@
     {
       "tip": 19,
       "an": 2026,
+      "data": "2026-06-23",
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F43583880/Ordinea%20de%20zi%2023%20iunie%202026.pdf",
+      "plx_idps": [
+        "23046",
+        "23239",
+        "23279",
+        "23281",
+        "23337",
+        "23338",
+        "23344"
+      ]
+    },
+    {
+      "tip": 19,
+      "an": 2026,
+      "data": "2026-06-16",
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F115293590/Ordinea%20de%20zi%2016%20iunie%202026.pdf",
+      "plx_idps": [
+        "22210",
+        "23054",
+        "23247",
+        "23248",
+        "23255",
+        "23296",
+        "23315"
+      ]
+    },
+    {
+      "tip": 19,
+      "an": 2026,
+      "data": "2026-06-09",
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1458961482/Ordinea%20de%20zi%209%20iunie%202026.pdf",
+      "plx_idps": [
+        "22834",
+        "22862",
+        "23060",
+        "23159",
+        "23176",
+        "23192",
+        "23204",
+        "23209",
+        "23235",
+        "23259",
+        "23260"
+      ]
+    },
+    {
+      "tip": 19,
+      "an": 2026,
       "data": "2026-06-02",
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1606199231/Ordinea%20de%20zi%202%20iunie%202026.pdf",
       "plx_idps": [
@@ -21573,6 +22094,13 @@
         "22792",
         "22800"
       ]
+    },
+    {
+      "tip": 20,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F700434103/OZ%20%2017.06.pdf",
+      "plx_idps": []
     },
     {
       "tip": 20,
@@ -23023,6 +23551,62 @@
       "tip": 33,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F2022543021/oz062225.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F691518077/oz062225.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F929204737/oz062225.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F998041423/oz062225.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1032593345/oz061518.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F667239075/oz061518.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F792890952/oz061518.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F2095802026/oz061518.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 33,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1621643666/oz060811.pdf",
       "plx_idps": []
     },
@@ -24169,6 +24753,30 @@
       "tip": 34,
       "an": 2026,
       "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1562402880/Oz%200623.pdf",
+      "plx_idps": [
+        "22772",
+        "22893",
+        "22954",
+        "23320"
+      ]
+    },
+    {
+      "tip": 34,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F51962938/Oz0616.pdf",
+      "plx_idps": [
+        "22601",
+        "22718",
+        "22796",
+        "23173"
+      ]
+    },
+    {
+      "tip": 34,
+      "an": 2026,
+      "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1836257830/Oz0609.pdf",
       "plx_idps": [
         "22216",
@@ -24699,6 +25307,17 @@
     {
       "tip": 46,
       "an": 2026,
+      "data": "2026-06-16",
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F2014753907/ord%20de%20zi%2016%20iunie%202026.pdf",
+      "plx_idps": [
+        "20029",
+        "20980",
+        "23260"
+      ]
+    },
+    {
+      "tip": 46,
+      "an": 2026,
       "data": "2026-06-09",
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1335135452/Oz%20site_9%20iunie%202026.pdf",
       "plx_idps": []
@@ -24974,6 +25593,15 @@
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F-1089332/oz-%2017%20dec.pdf",
       "plx_idps": [
         "19455"
+      ]
+    },
+    {
+      "tip": 71,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F436186684/oz-17.06.2026.pdf",
+      "plx_idps": [
+        "22199"
       ]
     },
     {
@@ -25339,6 +25967,13 @@
       "an": 2025,
       "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F-1809371375/oz%20-%2022.12.2025.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 72,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F876812144/oz%20-%2017.6.2026.pdf",
       "plx_idps": []
     },
     {
@@ -26061,6 +26696,19 @@
         "22793",
         "22800",
         "22843"
+      ]
+    },
+    {
+      "tip": 78,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F767322865/Oz%2016.06.2026.pdf",
+      "plx_idps": [
+        "22730",
+        "23070",
+        "23274",
+        "23282",
+        "23306"
       ]
     },
     {
@@ -26830,6 +27478,13 @@
       "an": 2025,
       "data": null,
       "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F1718198181/ordzi1216.pdf",
+      "plx_idps": []
+    },
+    {
+      "tip": 252,
+      "an": 2026,
+      "data": null,
+      "agenda_pdf_url": "https://www.cdep.ro/ords/co/docs?F716110632/OZ0616.pdf",
       "plx_idps": []
     },
     {
