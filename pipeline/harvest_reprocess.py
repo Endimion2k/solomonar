@@ -16,8 +16,9 @@ import json
 import os
 import sys
 import time
-from concurrent.futures import ProcessPoolExecutor, wait
+from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, wait
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
@@ -26,7 +27,7 @@ from connectors.ani.declaratii import (  # noqa: E402
     classify_declaration, extract_pdf_text, extract_pdf_text_ocr,
     parse_avere_ocr, parse_avere_text, parse_interese_text,
 )
-from connectors.ani.redaction import find_pii  # noqa: E402
+from connectors.ani.redaction import pii_kinds, redact_text  # noqa: E402
 from solomonar_core.bronze import BronzeStore  # noqa: E402
 from solomonar_core.http import Client  # noqa: E402
 
@@ -45,6 +46,15 @@ else:  # implicit = deconcentrate (păstrează căile rulării curente pentru re
     OUT_AV = os.path.join(V, "declaratii/avere_deconcentrate.json")
     OUT_IT = os.path.join(V, "declaratii/interese_deconcentrate.json")
 BATCH = int(os.environ.get("SOLOMONAR_BATCH", "400"))
+# host-uri servite cu un certificat valid doar pe alt nume: descărcăm prin alias (TLS verificat în continuare),
+# dar păstrăm în bronze URL-ul original (cheia din checkpoint). www.rowater.ro = „hostname mismatch”.
+HOST_ALIAS = {"www.rowater.ro": "rowater.ro"}
+# statusuri reluate la rularea curentă (ex. "pii" după trecerea la mascare, "timeout,fail" la retry)
+RETRY = {s.strip() for s in os.environ.get("SOLOMONAR_RETRY", "").split(",") if s.strip()}
+SURSA = {"": "servicii deconcentrate", "cfr": "grupul CFR", "soe": "companii de stat",
+         "soe2": "companii de stat (lot 2)", "localsoe": "companii de stat locale",
+         "ministere": "ministere", "anpm": "ANPM", "parlament": "Camera Deputaților",
+         "parlament_senat": "Senat"}.get(SRC, SRC)
 
 
 def _detect_workers() -> int:
@@ -86,11 +96,14 @@ def _process(task: tuple) -> dict:
             return {"pdf_url": url, "status": "ocr_fail", "ocr": True}
     if len(txt.strip()) < 50:
         return {"pdf_url": url, "status": "empty", "ocr": ocr}
-    if find_pii(txt):
-        return {"pdf_url": url, "status": "pii", "ocr": ocr}
+    # PII (CNP, telefoane personale, serii CI, IBAN) se MASCHEAZĂ înainte de parsare, nu mai blochează
+    # tot documentul: publicăm doar agregate + entități, iar un CNP rămas în text putea fi citit ca sumă.
+    red = redact_text(txt)
+    masked = red != txt
+    txt = red
 
     kinds = classify_declaration(txt)
-    rec = {"pdf_url": url, "status": "empty", "ocr": ocr}
+    rec = {"pdf_url": url, "status": "empty", "ocr": ocr, **({"mascat": True} if masked else {})}
     if "avere" in kinds:
         av = parse_avere_ocr(txt) if ocr else parse_avere_text(txt)  # OCR-tolerant pe scanate
         if av.text_extracted and (av.terenuri_count + av.cladiri_count
@@ -110,21 +123,54 @@ def _process(task: tuple) -> dict:
                          "valoare_actiuni_ron": round(it.valoare_actiuni_ron),
                          "valoare_contracte_ron": round(it.valoare_contracte_ron),
                          "entitati": it.entitati}
+    # plasă de siguranță: câmpurile publicate nu pot conține PII rămas după mascare
+    if pii_kinds(json.dumps([rec.get("av"), rec.get("it")], ensure_ascii=False)):
+        return {"pdf_url": url, "status": "pii", "ocr": ocr}
     if "av" in rec or "it" in rec:
         rec["status"] = "ok"
     return rec
 
 
-def _load_done() -> set:
-    done = set()
+def _alias(url: str) -> str | None:
+    p = urlparse(url)
+    return p._replace(netloc=HOST_ALIAS[p.netloc.lower()]).geturl() if p.netloc.lower() in HOST_ALIAS else None
+
+
+def _download(client, bronze, urls: list[str]) -> None:
+    """Descarcă PDF-urile lipsă în bronze; cele de pe host-uri cu alias, prin alias, sub URL-ul original."""
+    client.fetch_many([(u, "src_pdf", ".pdf") for u in urls if not _alias(u)], workers=8)
+
+    def _via_alias(u: str) -> None:
+        try:
+            r = client.get(_alias(u))
+            r.raise_for_status()
+            bronze.put("src_pdf", u, r.content, ".pdf")
+        except Exception:
+            pass                               # rămâne nedescărcat → status fail, reluabil
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        list(ex.map(_via_alias, [u for u in urls if _alias(u)]))
+
+
+def _latest() -> dict:
+    """pdf_url → ultima înregistrare din JSONL (o reluare suprascrie rezultatul anterior),
+    cu excepția unei reluări eșuate peste un rezultat ok — acoperirea nu scade."""
+    last = {}
     if os.path.exists(JSONL):
         with open(JSONL, encoding="utf-8") as f:
             for line in f:
                 try:
-                    done.add(json.loads(line)["pdf_url"])
+                    r = json.loads(line)
+                    u = r["pdf_url"]
                 except Exception:
                     continue
-    return done
+                if last.get(u, {}).get("status") == "ok" and r.get("status") != "ok":
+                    continue
+                last[u] = r
+    return last
+
+
+def _load_done(retry=frozenset()) -> set:
+    return {u for u, r in _latest().items() if r.get("status") not in retry}
 
 
 def _chunks(seq, n):
@@ -138,12 +184,13 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
     dl_client = Client(bronze=bronze, throttle_seconds=0.2,
                        timeout=int(os.environ.get("SOLOMONAR_DL_TIMEOUT", "12")))
     pdf_to_inst = json.load(open(CKPT, encoding="utf-8"))
-    done = _load_done()
+    done = _load_done(RETRY)
     remaining = [u for u in pdf_to_inst if u not in done]
     if limit:
         remaining = remaining[:limit]
     print(f"[reproc mode={mode}] total={len(pdf_to_inst)} done={len(done)} ramase={len(remaining)} "
-          f"| {workers} procese, batch={BATCH}", flush=True)
+          f"| {workers} procese, batch={BATCH}" + (f" | retry={','.join(sorted(RETRY))}" if RETRY else ""),
+          flush=True)
 
     n_done = len(done)
     deferred = 0
@@ -157,7 +204,7 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
             # descarcă PDF-urile încă necache-uite (surse fără crawl prealabil, ex. parlament)
             missing = [u for u in batch if not bronze.has_url(u)]
             if missing:
-                dl_client.fetch_many([(u, "src_pdf", ".pdf") for u in missing], workers=8)
+                _download(dl_client, bronze, missing)
             tasks, miss = [], []
             for u in batch:
                 art = bronze.artifact_for_url(u)
@@ -209,31 +256,29 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
 
 
 def _finalize() -> None:
-    seen_av, seen_it, av, it = set(), set(), [], []
-    stats = {"pii": 0, "empty": 0, "fail": 0, "ocr_fail": 0, "ocr_used": 0}
-    with open(JSONL, encoding="utf-8") as f:
-        for line in f:
-            try:
-                r = json.loads(line)
-            except Exception:
-                continue
-            stats["ocr_used"] += 1 if r.get("ocr") else 0
-            st = r.get("status")
-            if st in stats:
-                stats[st] += 1
-            if r.get("av") and r["av"]["pdf_url"] not in seen_av:
-                seen_av.add(r["av"]["pdf_url"]); av.append(r["av"])
-            if r.get("it") and r["it"]["pdf_url"] not in seen_it:
-                seen_it.add(r["it"]["pdf_url"]); it.append(r["it"])
+    av, it = [], []
+    stats = {"pii": 0, "empty": 0, "fail": 0, "ocr_fail": 0, "ocr_used": 0, "mascat": 0}
+    for r in _latest().values():
+        stats["ocr_used"] += 1 if r.get("ocr") else 0
+        stats["mascat"] += 1 if r.get("mascat") else 0
+        st = r.get("status")
+        if st in stats:
+            stats[st] += 1
+        if r.get("av"):
+            av.append(r["av"])
+        if r.get("it"):
+            it.append(r["it"])
     now = datetime.now(timezone.utc).isoformat()
-    json.dump({"generated_at": now, "sursa": "servicii deconcentrate, text+OCR, Legea 176/2010",
+    json.dump({"generated_at": now, "sursa": f"{SURSA}, text+OCR, Legea 176/2010",
                "total": len(av), "ocr_in_corpus": stats["ocr_used"], "pii_blocate": stats["pii"],
+               "pii_mascate": stats["mascat"],
                "declaratii": av}, open(OUT_AV, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    json.dump({"generated_at": now, "sursa": "servicii deconcentrate, declaratii de INTERESE, text+OCR",
+    json.dump({"generated_at": now, "sursa": f"{SURSA}, declaratii de INTERESE, text+OCR",
                "total": len(it), "declaratii": it},
               open(OUT_IT, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     print(f"PUBLICAT: avere={len(av)} interese={len(it)} | OCR folosit={stats['ocr_used']} "
-          f"PII={stats['pii']} empty={stats['empty']} fail={stats['fail']+stats['ocr_fail']}", flush=True)
+          f"PII blocate={stats['pii']} mascate={stats['mascat']} empty={stats['empty']} "
+          f"fail={stats['fail']+stats['ocr_fail']}", flush=True)
 
 
 if __name__ == "__main__":
