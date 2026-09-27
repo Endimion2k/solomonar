@@ -304,6 +304,34 @@ def plx_initiatori_df() -> pd.DataFrame:
 
 
 @st.cache_data(show_spinner=False)
+def guvernanta() -> dict:
+    """Registrul oficial guvernanta.gov.ro: conducerea companiilor de stat centrale (CA, directori),
+    remunerație brută lunară, afiliere politică, mandat, CV oficial. Vezi pipeline/harvest_guvernanta.py."""
+    try:
+        return _load_raw("guvernanta/registry.json") or {}
+    except Exception:   # LIVE: fișierul poate lipsi înainte de publicare
+        return {}
+
+
+def guvernanta_companie(cui) -> dict:
+    """Conducerea oficială a unei companii (după CUI) + numirile ei; {} dacă nu e în registru."""
+    try:
+        cui_i = int(cui)
+    except (TypeError, ValueError):
+        return {}
+    g = guvernanta()
+    comp = next((c for c in g.get("companii", []) if c.get("cui") == cui_i), None)
+    if not comp:
+        return {}
+    return {**comp, "numiri": [n for n in g.get("numiri", []) if n.get("cui") == cui_i]}
+
+
+def guvernanta_persoana(romega_id: str) -> list:
+    """Numirile oficiale legate de o persoană din graf (potrivire 'confirmat' sau 'candidat')."""
+    return [n for n in guvernanta().get("numiri", []) if romega_id and n.get("romega_id") == romega_id]
+
+
+@st.cache_data(show_spinner=False)
 def plx_docs_by_idp() -> dict:
     """Map idp(str) -> {titlu, camera, documente:[{tip,url}]} din plx.json (toate cele ~1920 PLx)."""
     out = {}

@@ -179,7 +179,8 @@ semnături — rămân redactate. *Fază 2.*
 | G1 | **AMEPIP — Raport anual, Anexa 1** | **master list**: CUI + nume + autoritate tutelară | bulk | PDF (68 p.) | sursa autoritativă; ~146 centrale + 1.174 locale = **1.320 monitorizate** | 3 |
 | G2 | AMEPIP — dashboard / tablou de bord | indicatori per companie, liste administratori | scrape | HTML | fără API | 3 |
 | G3 | **companiidestat.ro** (independent) | 1.247 indexate / 1.502 urmărite, salarii execubtivi (143 centrale), subvenții, 2019–2024 | scrape/api? | web | cel mai bun agregator gata-făcut; API menționat, nedocumentat | 3 |
-| G4 | OUG 109/2011 Art. 51 — site-uri proprii SOE | CA/directorat + CV + remunerație, decizii, rapoarte | scrape | HTML/PDF | conformare **inegală**; per companie | 3 |
+| G4 | OUG 109/2011 Art. 51 — site-uri proprii SOE | CA/directorat + CV + remunerație, decizii, rapoarte | scrape | HTML/PDF | conformare **inegală**; per companie — pentru SOE centrale înlocuit de G4a | 3 |
+| G4a | **guvernanta.gov.ro** (Guvernul României, 2026-09) | registrul oficial: 121 SOE centrale, 697 numiri CA/directorat, remunerație brută lunară, afiliere politică, mandat, CV oficial, rapoarte anuale de remunerare | bulk | JSON (`/data/registry.json`) | **Date deschise**; integrat: `pipeline/harvest_guvernanta.py` → `data/v1/guvernanta/registry.json` | 3 |
 | G5 | **BVB** | `bvb.ro` | board, hotărâri AGA, financiare pentru SOE listate | scrape | filings | Hidroelectrica, Romgaz, Nuclearelectrica, Transgaz, Transelectrica, Conpet, Oil Terminal | 3 |
 
 **Master list (2024 AMEPIP):** `https://amepip.gov.ro/wp-content/uploads/2025/10/RAPORT-ANUAL-PRIVIND-ACTIVITATEA-INTREPRINDERILOR-PUBLICE-IN-ANUL-2024.pdf`.

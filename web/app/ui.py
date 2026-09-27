@@ -60,3 +60,35 @@ def firma_bani_stat(cui, *, use_columns: bool = True,
         + "Cifrele sunt agregate per firmă (valoare, număr, ani, top autorități). Obiectul fiecărui "
           "contract nu e în setul public — verifică după CUI în SICAP / e-licitatie.ro.")
     return True
+
+
+GUV_SURSA = "guvernanta.gov.ro (Guvernul României, OUG 109/2011 art. 51)"
+
+
+def guvernanta_numiri(numiri: list, *, cu_companie: bool = True, key: str = "guv") -> None:
+    """Tabel cu numiri oficiale (guvernanta.gov.ro): rol, persoană/companie, partid, brut lunar,
+    mandat, CV oficial și legătura cu graful SOLOMONAR."""
+    import pandas as pd
+
+    if not numiri:
+        st.caption("Nicio numire în registrul oficial.")
+        return
+    rows = [{
+        **({"Companie": n.get("companie")} if cu_companie else {}),
+        "Rol": n.get("rol"),
+        "Persoană": n.get("nume"),
+        "Afiliere politică": n.get("partid") or "nedeclarat",
+        "Brut lunar (lei)": n.get("brut_lunar_ron"),
+        "Mandat până la": n.get("mandat_pana_la") or "—",
+        "În graf": {"confirmat": "✓ confirmat", "candidat": "? omonim posibil"}.get(n.get("potrivire"), "—"),
+        "CV oficial": n.get("cv_url"),
+    } for n in numiri]
+    st.dataframe(
+        pd.DataFrame(rows), use_container_width=True, hide_index=True, key=key,
+        column_config={
+            "Brut lunar (lei)": st.column_config.NumberColumn(format="%d"),
+            "CV oficial": st.column_config.LinkColumn("CV oficial", display_text="PDF"),
+            "În graf": st.column_config.TextColumn(
+                help="✓ = același nume și aceeași companie în graful SOLOMONAR; "
+                     "? = un singur om cu acest nume în graf, fără confirmare pe companie"),
+        })

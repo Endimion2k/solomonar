@@ -11,7 +11,7 @@ for _a in _pl.Path(__file__).resolve().parents:
     if (_a / 'app').is_dir():
         _sys.path.insert(0, str(_a)); break
 
-from app import data
+from app import data, ui
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, party_color, sidebar_brand)
 
@@ -116,12 +116,15 @@ st.divider()
 
 # ---------------- Tabel partide ----------------
 st.markdown("#### Detaliu partide")
-tbl = (p[["cod", "total_subventie_lei", "nr_deputati", "nr_senatori", "nr_rapoarte_rvc"]]
+guv = data.guvernanta()
+guv_afil = guv.get("afiliere_politica") or {}
+p = p.assign(nr_soe=p["cod"].map(lambda c: guv_afil.get(c, 0)))
+tbl = (p[["cod", "total_subventie_lei", "nr_deputati", "nr_senatori", "nr_rapoarte_rvc", "nr_soe"]]
        .sort_values("total_subventie_lei", ascending=False)
        .rename(columns={
            "cod": "Partid", "total_subventie_lei": "Subvenție totală (lei)",
            "nr_deputati": "Deputați", "nr_senatori": "Senatori",
-           "nr_rapoarte_rvc": "Rapoarte RVC",
+           "nr_rapoarte_rvc": "Rapoarte RVC", "nr_soe": "Numiți în conducere SOE",
        }))
 st.dataframe(
     tbl, use_container_width=True, hide_index=True,
@@ -131,7 +134,22 @@ st.dataframe(
         "Senatori": st.column_config.NumberColumn(format="%d"),
         "Rapoarte RVC": st.column_config.NumberColumn(
             format="%d", help="Rapoarte de venituri și cheltuieli depuse la AEP."),
+        "Numiți în conducere SOE": st.column_config.NumberColumn(
+            format="%d", help="Persoane din CA / conducerea companiilor de stat centrale care și-au declarat "
+                              "afilierea la partid (guvernanta.gov.ro)."),
     },
 )
+
+# ---------------- afiliere politică în conducerea SOE ----------------
+if guv.get("numiri"):
+    st.divider()
+    st.markdown("#### Afiliere politică în conducerea companiilor de stat")
+    st.caption(f"Sursă: {ui.GUV_SURSA} · registru generat la {str(guv.get('source_generated_at'))[:10]}. "
+               "Afilierea e cea declarată în registrul oficial.")
+    partide_soe = [k for k in guv_afil if k not in ("Fără apartenență politică", "nedeclarat")]
+    if partide_soe:
+        alege = st.selectbox("Partid", partide_soe,
+                             format_func=lambda k: f"{k} — {guv_afil[k]} persoane")
+        ui.guvernanta_numiri([n for n in guv["numiri"] if n.get("partid") == alege], key="guv_partid")
 st.caption("Surse: subvenții de la bugetul de stat (AEP) și rapoartele de venituri/cheltuieli ale partidelor. "
            "Numărul de deputați/senatori reflectă mandatul curent.")

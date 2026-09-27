@@ -234,6 +234,16 @@ kpi_card(d2, "Companii conduse", fmt_int(p.get("n_companii", 0)))
 kpi_card(d3, "Contracte de stat", fmt_lei(p.get("total_contracte_ron") or 0))
 kpi_card(d4, "Firme cu contracte", fmt_int(p.get("n_firme_cu_contracte", 0)))
 
+# --- numiri oficiale în conducerea companiilor de stat (guvernanta.gov.ro) ---
+numiri_oficiale = data.guvernanta_persoana(sel_id)
+if numiri_oficiale:
+    st.markdown("##### Numiri oficiale în conducerea companiilor de stat")
+    if all(n.get("potrivire") == "candidat" for n in numiri_oficiale):
+        st.warning("Legătură doar pe nume: în graf există un singur om cu acest nume, dar numirea nu e "
+                   "confirmată pe aceeași companie — poate fi o altă persoană (omonimie).", icon="⚠️")
+    ui.guvernanta_numiri(numiri_oficiale, key="guv_pers")
+    st.caption(f"Sursă: {ui.GUV_SURSA}. Remunerația = brut lunar declarat.")
+
 st.download_button(
     "📄 Descarcă dosar (DOCX)", data=persoana_docx(p),
     file_name=f"dosar_{(nume or 'persoana').replace(' ', '_')}.docx",

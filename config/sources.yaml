@@ -246,6 +246,19 @@ sources:
     status: planned
     notes: "Board, hotărâri AGA, financiare: Hidroelectrica, Romgaz, Nuclearelectrica, Transgaz, Transelectrica, Conpet, Oil Terminal."
 
+  - id: guvernanta_gov
+    name: "guvernanta.gov.ro — registrul oficial al conducerii companiilor de stat"
+    category: soe
+    base_url: "https://guvernanta.gov.ro"
+    access: bulk
+    format: json
+    phase: 3
+    priority: high
+    connector: pipeline/harvest_guvernanta
+    status: active
+    endpoint: "https://guvernanta.gov.ro/data/registry.json"
+    notes: "Guvernul României, Date deschise (OUG 109/2011 art. 51): 121 SOE centrale — CA/directorat, remunerație brută lunară, afiliere politică, mandat, CV oficial, rapoarte anuale de remunerare. Publicat 2026-09-25."
+
   - id: soe_boards
     name: "Board-uri SOE (OUG 109/2011 Art. 51, site-uri proprii)"
     category: soe
@@ -254,7 +267,7 @@ sources:
     priority: medium
     connector: companii/boards
     status: planned
-    notes: "CA/directorat + CV + remunerație. Conformare inegală; crawl per companie."
+    notes: "CA/directorat + CV + remunerație. Conformare inegală; crawl per companie. SOE centrale acoperite acum de guvernanta_gov; rămân relevante SOE-urile locale."
 
   - id: mf_bilanturi
     name: "Ministerul Finanțelor — bilanțuri (bulk via data.gov.ro)"
