@@ -25,12 +25,37 @@ from solomonar_core.io import export_collection
 
 DEFAULT_OUT = Path(__file__).resolve().parents[1] / "data" / "v1"
 
+# Fișierele scrise de build_all. În data/v1 ele sunt ÎMBOGĂȚITE ulterior de alte pipeline-uri
+# (enrich_reprezentanti, enrich_financials, harvest_deconcentrate): companii/_index.json are
+# ~1.256 companii cu reprezentanți + bilanțuri, pe când build_all le rescrie din seed (7 companii).
+PROTECTED_OUTPUTS = (
+    "organizatii/_index.json",
+    "organizatii/centrale.json",
+    "companii/_index.json",
+    "graph_edges.json",
+    "status.json",
+)
+
 
 def build_all(
-    output_dir: str | Path = DEFAULT_OUT, version: str = "0.1.0", enrich_live: bool = False
+    output_dir: str | Path = DEFAULT_OUT,
+    version: str = "0.1.0",
+    enrich_live: bool = False,
+    force: bool = False,
 ) -> dict:
-    """Construiește și exportă stratul gold. enrich_live=True interoghează ANAF (necesită rețea)."""
+    """Construiește și exportă stratul gold. enrich_live=True interoghează ANAF (necesită rețea).
+
+    E un BOOTSTRAP (config + seed), nu refresh-ul datelor publicate: refuză să suprascrie fișierele
+    existente din `output_dir` (pierdere de enrichment) — `force=True` doar pe un director gol/de test.
+    """
     out = Path(output_dir)
+    existing = [p for p in PROTECTED_OUTPUTS if (out / p).exists()]
+    if existing and not force:
+        raise FileExistsError(
+            f"build_all ar suprascrie date îmbogățite în {out}: {', '.join(existing)}. "
+            "E doar bootstrap (config + seed de companii) — rulează-l pe un director gol, "
+            "sau cu force=True / `--force` dacă chiar vrei să pierzi enrichment-ul."
+        )
     (out / "organizatii").mkdir(parents=True, exist_ok=True)
     (out / "companii").mkdir(parents=True, exist_ok=True)
 

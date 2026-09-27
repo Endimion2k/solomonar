@@ -65,13 +65,21 @@ def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="solomonar")
     ap.add_argument("--source", help="source_id din config/sources.yaml")
     ap.add_argument("--list", action="store_true", help="listează toate sursele")
-    ap.add_argument("--build", action="store_true", help="build gold → data/v1/*.json")
+    ap.add_argument("--build", action="store_true",
+                    help="BOOTSTRAP din config + seed (refuză să suprascrie data/v1 existent)")
+    ap.add_argument("--out", help="director de output pt. --build (implicit data/v1)")
+    ap.add_argument("--force", action="store_true",
+                    help="cu --build: suprascrie oricum (pierde enrichment-ul companiilor/organizațiilor)")
     args = ap.parse_args(argv)
 
     if args.build:
-        from pipeline.build import build_all
+        from pipeline.build import DEFAULT_OUT, build_all
 
-        status = build_all()
+        try:
+            status = build_all(args.out or DEFAULT_OUT, force=args.force)
+        except FileExistsError as e:
+            print(f"[build] OPRIT: {e}", file=sys.stderr)
+            return 2
         print(f"[build] {status['collections']}")
         return 0
 

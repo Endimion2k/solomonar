@@ -95,11 +95,15 @@ solomonar/
 ```bash
 python -m venv .venv && .venv/Scripts/python -m pip install -r requirements.txt
 .venv/Scripts/python -m pip install -e packages/solomonar_core
-.venv/Scripts/python -m pytest .                       # 93 teste
+.venv/Scripts/python -m pytest .                       # suita de teste
 .venv/Scripts/python -m pipeline.run --list            # listează sursele
-.venv/Scripts/python -m pipeline.run --build           # generează data/v1/*.json
-# client: deschide web/index.html
+.venv/Scripts/python -m pipeline.scrub_pii --check     # OBLIGATORIU înainte de commit: 0 PII în data/v1
+# client: streamlit run web/app/Overview.py  (sau web/index.html pt. varianta statică)
 ```
+
+> `pipeline.run --build` e doar **bootstrap** (config + seed de 7 companii) pe un director gol
+> (`--out <dir>`): refuză să suprascrie `data/v1` existent, care e îmbogățit de alte pipeline-uri.
+> Refresh-ul real al datelor = harvest-urile + `build_*` (vezi `docs/AUDIT-2026-09.md`).
 
 > Validat live de pe o mașină din RO: cdep.ro (SSL legacy), ANAF API (v9), data.gov.ro, BNR, INS, SICAP.
 > Rularea programată/la volum → runner self-hosted (geo-block cloud).

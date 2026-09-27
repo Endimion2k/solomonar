@@ -44,8 +44,11 @@ runner self-hosted în România (PC Windows, ca la cdep-api-poc).
 > validate live de pe mașina de dezvoltare. Runner-ul e necesar pentru volum + geo-block parlament.
 
 ## Build local
+> ⚠️ `pipeline.run --build` / `build_all()` sunt **bootstrap** (config + seed de 7 companii), nu
+> refresh: pe `data/v1` existent ar rescrie `companii/_index.json` (1.256 companii îmbogățite → 7).
+> De aceea refuză să suprascrie fișiere existente; rulează-le doar pe un director gol.
 ```bash
-.venv/Scripts/python -m pipeline.run --build              # data/v1 din config (offline)
-# build cu îmbogățire live (ANAF) pentru companii:
-.venv/Scripts/python -c "import sys;sys.path.insert(0,'.');from pipeline.build import build_all;build_all(enrich_live=True)"
+.venv/Scripts/python -m pipeline.run --build --out _local/bootstrap   # bootstrap offline într-un dir gol
+# înainte de ORICE commit în data/v1 (gardă PII — Legea 176/2010 + GDPR):
+.venv/Scripts/python -m pipeline.scrub_pii --check     # exit 1 = PII găsit → rulează fără --check ca să mascheze
 ```

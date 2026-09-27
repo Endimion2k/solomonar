@@ -23,6 +23,30 @@ def test_build_all(tmp_path):
     assert status["collections"]["graph_edges"] == 16 + len(SOE_SEED)
 
 
+def test_build_refuses_to_overwrite_enriched_outputs(tmp_path):
+    """build_all e bootstrap: pe un data/v1 existent ar rescrie companiile îmbogățite cu seed-ul."""
+    import pytest
+
+    comp = tmp_path / "companii" / "_index.json"
+    comp.parent.mkdir(parents=True)
+    comp.write_text('{"data": ["1256 companii imbogatite"]}', encoding="utf-8")
+    with pytest.raises(FileExistsError):
+        build_all(tmp_path)
+    assert "1256" in comp.read_text(encoding="utf-8")      # neatins
+    assert not (tmp_path / "status.json").exists()        # nimic scris parțial
+
+    build_all(tmp_path, force=True)                         # suprascriere explicită
+    assert "1256" not in comp.read_text(encoding="utf-8")
+
+
+def test_run_build_cli_exits_2_on_existing_output(tmp_path, capsys):
+    from pipeline.run import main
+
+    (tmp_path / "status.json").write_text("{}", encoding="utf-8")
+    assert main(["--build", "--out", str(tmp_path)]) == 2
+    assert "OPRIT" in capsys.readouterr().err
+
+
 def test_build_control_edges_resolve_to_org_node(tmp_path):
     build_all(tmp_path)
     edges = json.loads((tmp_path / "graph_edges.json").read_text(encoding="utf-8"))
