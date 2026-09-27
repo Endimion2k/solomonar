@@ -1,7 +1,7 @@
 {
   "nota": "v2 institution-aware. incredere: high=dată naștere (parlamentari), context=declară LA + conduce ACEEAȘI organizație (nume+org, fără CNP), candidat=doar nume.",
-  "cross_links_total": 304,
-  "cross_links_confirmate": 287,
+  "cross_links_total": 306,
+  "cross_links_confirmate": 289,
   "confirmate": [
     {
       "romega_id": "p:78896aeb00895d99",
@@ -16,11 +16,11 @@
         "plx_initiate": 50
       },
       "n_declaratii": 2,
-      "n_companii": 5,
+      "n_companii": 6,
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 5013188.0,
-      "total_achizitii_directe_ron": 4435745.21,
+      "total_achizitii_directe_ron": 12538253.83,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -35,6 +35,28 @@
         }
       ],
       "companii": [
+        {
+          "cui": 35123510,
+          "nume": "PRO SISTEM EXPERT CONSULT",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 1318488.97,
+            "nr": 36
+          }
+        },
+        {
+          "cui": 35123510,
+          "nume": "PRO SISTEM EXPERT CONSULT",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 1318488.97,
+            "nr": 36
+          }
+        },
         {
           "cui": 1605884,
           "nume": "SECOM SA",
@@ -55,8 +77,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 672074.06,
-            "nr": 1400
+            "total_ron": 673359.06,
+            "nr": 1405
           }
         },
         {
@@ -70,8 +92,8 @@
             "nr": 2
           },
           "achizitii_directe": {
-            "total_ron": 3024787.29,
-            "nr": 45
+            "total_ron": 8181793.93,
+            "nr": 100
           }
         },
         {
@@ -81,8 +103,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 201623.5,
-            "nr": 4
+            "total_ron": 499880.54,
+            "nr": 9
           }
         },
         {
@@ -92,8 +114,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 537260.36,
-            "nr": 1493
+            "total_ron": 546242.36,
+            "nr": 1499
           }
         }
       ],
@@ -112,14 +134,14 @@
         "judet": "Brăila",
         "legislatura": 2024,
         "birth_date": "1990-08-06",
-        "plx_initiate": 39
+        "plx_initiate": 41
       },
       "n_declaratii": 2,
       "n_companii": 4,
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 1795508.0,
-      "total_achizitii_directe_ron": 5745238.26,
+      "total_achizitii_directe_ron": 12292993.73,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -152,8 +174,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 2473696.01,
-            "nr": 1568
+            "total_ron": 5480730.65,
+            "nr": 2779
           }
         },
         {
@@ -167,8 +189,8 @@
             "nr": 2
           },
           "achizitii_directe": {
-            "total_ron": 855858.71,
-            "nr": 114
+            "total_ron": 2067956.8,
+            "nr": 205
           }
         },
         {
@@ -182,8 +204,8 @@
             "nr": 2
           },
           "achizitii_directe": {
-            "total_ron": 855858.71,
-            "nr": 114
+            "total_ron": 2067956.8,
+            "nr": 205
           }
         },
         {
@@ -193,8 +215,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 744292.81,
-            "nr": 12
+            "total_ron": 1860817.46,
+            "nr": 25
           }
         }
       ],
@@ -224,7 +246,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 883632.73,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -249,33 +271,21 @@
           "nume": "REZIDENTIAL DELUXE",
           "rol": "lichidator judiciar",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 446071.15,
-            "nr": 2
-          }
+          "financials": null
         },
         {
           "cui": 19224068,
           "nume": "FINISH CONSTRUCT SRL",
           "rol": "reprezentant al persoanei juridice",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 277112.79,
-            "nr": 14
-          }
+          "financials": null
         },
         {
           "cui": 5833419,
           "nume": "COMPUTER FORCE S.R.L.",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 160448.79,
-            "nr": 68
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -293,7 +303,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 2043035.24,
+      "total_achizitii_directe_ron": 8824313.52,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -318,11 +328,7 @@
           "nume": "ECOREFILL SERVICE SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 202994.01,
-            "nr": 286
-          }
+          "financials": null
         },
         {
           "cui": 31357969,
@@ -331,8 +337,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 222761.41,
-            "nr": 83
+            "total_ron": 2138528.82,
+            "nr": 153
           }
         },
         {
@@ -342,8 +348,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 1617279.82,
-            "nr": 158
+            "total_ron": 6685784.7,
+            "nr": 664
           }
         }
       ],
@@ -361,7 +367,7 @@
         "birth_date": null,
         "comisii": [
           "Comisia pentru administraţie publică",
-          "Comisia pentru comunicații, tehnologia informației și inteligență artificială"
+          "Comisia pentru cercetarea abuzurilor, combaterea corupției și petiții"
         ]
       },
       "n_declaratii": 12,
@@ -369,7 +375,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 2514106.83,
+      "total_achizitii_directe_ron": 3244701.48,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -439,11 +445,7 @@
           "nume": "SC DUO SAL CONSTRUCT SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 377655.87,
-            "nr": 4
-          }
+          "financials": null
         },
         {
           "cui": 6365251,
@@ -452,8 +454,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 2136450.96,
-            "nr": 1614
+            "total_ron": 3244701.48,
+            "nr": 1972
           }
         }
       ],
@@ -479,7 +481,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1050114.9,
+      "total_achizitii_directe_ron": 1634901.5,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -526,8 +528,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 884059.5,
-            "nr": 42
+            "total_ron": 1634901.5,
+            "nr": 84
           }
         },
         {
@@ -535,11 +537,7 @@
           "nume": "Sam Garden Concept Srl",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 166055.4,
-            "nr": 3
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -557,7 +555,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 14986076.0,
-      "total_achizitii_directe_ron": 591810.63,
+      "total_achizitii_directe_ron": 1652511.92,
       "firme_contracte_autodeclarate": [
         {
           "cui": 46877331,
@@ -594,15 +592,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 45699368,
-            "profit_net": 4802667,
-            "datorii": 8796841,
-            "nr_salariati": 520
+            "an": 2025,
+            "cifra_afaceri": 42614336,
+            "profit_net": 391073,
+            "datorii": 10598595,
+            "nr_salariati": 495
           },
           "achizitii_directe": {
-            "total_ron": 591810.63,
-            "nr": 85
+            "total_ron": 1061529.28,
+            "nr": 116
           }
         },
         {
@@ -611,15 +609,19 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 321627383,
-            "profit_net": 5835085,
-            "datorii": 177327509,
-            "nr_salariati": 311
+            "an": 2025,
+            "cifra_afaceri": 355776371,
+            "profit_net": 946993,
+            "datorii": 423506550,
+            "nr_salariati": 312
           },
           "contracte_stat": {
             "total_ron": 14986076.0,
             "nr": 1
+          },
+          "achizitii_directe": {
+            "total_ron": 590982.64,
+            "nr": 51
           }
         }
       ],
@@ -646,7 +648,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 7356631.42,
+      "total_achizitii_directe_ron": 6992005.42,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -687,22 +689,14 @@
           "nume": "SC ULMUSA PROD COM SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 182313.0,
-            "nr": 4
-          }
+          "financials": null
         },
         {
           "cui": 1417120,
           "nume": "SC ULMUSA PROD COM SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 182313.0,
-            "nr": 4
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -731,7 +725,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 553986.0,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -751,22 +745,14 @@
           "nume": "Sanevit 2003 S.A.",
           "rol": "administrator special",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 402581.0,
-            "nr": 585
-          }
+          "financials": null
         },
         {
           "cui": 2795744,
           "nume": "LUDOCRIS AGENTIE DE IMPORT EXPORT SI SERVICII S.R.L.",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 151405.0,
-            "nr": 6
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -791,7 +777,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 7721078.78,
+      "total_achizitii_directe_ron": 7492208.92,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -811,11 +797,7 @@
           "nume": "BRINGO VISION SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 318869.86,
-            "nr": 6
-          }
+          "financials": null
         },
         {
           "cui": 24353239,
@@ -824,8 +806,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 7402208.92,
-            "nr": 93
+            "total_ron": 7492208.92,
+            "nr": 94
           }
         }
       ],
@@ -844,7 +826,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 591810.63,
+      "total_achizitii_directe_ron": 1061529.28,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -865,11 +847,11 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 15058823,
-            "profit_net": -5806604,
-            "datorii": 1453142,
-            "nr_salariati": 98
+            "an": 2025,
+            "cifra_afaceri": 14815395,
+            "profit_net": -16130366,
+            "datorii": 12014846,
+            "nr_salariati": 90
           }
         },
         {
@@ -878,15 +860,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 45699368,
-            "profit_net": 4802667,
-            "datorii": 8796841,
-            "nr_salariati": 520
+            "an": 2025,
+            "cifra_afaceri": 42614336,
+            "profit_net": 391073,
+            "datorii": 10598595,
+            "nr_salariati": 495
           },
           "achizitii_directe": {
-            "total_ron": 591810.63,
-            "nr": 85
+            "total_ron": 1061529.28,
+            "nr": 116
           }
         }
       ],
@@ -902,7 +884,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 217534.9,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -923,11 +905,11 @@
           "rol": "administrator",
           "sector": "Industrie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 50659462,
-            "profit_net": -11344772,
-            "datorii": 120385482,
-            "nr_salariati": 666
+            "an": 2025,
+            "cifra_afaceri": 7544112,
+            "profit_net": -16624268,
+            "datorii": 149312877,
+            "nr_salariati": 537
           }
         },
         {
@@ -936,15 +918,11 @@
           "rol": "administrator",
           "sector": "Industrie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 14883551,
-            "profit_net": -11903992,
-            "datorii": 66309632,
-            "nr_salariati": 302
-          },
-          "achizitii_directe": {
-            "total_ron": 217534.9,
-            "nr": 112
+            "an": 2025,
+            "cifra_afaceri": 12046406,
+            "profit_net": -18001015,
+            "datorii": 97396756,
+            "nr_salariati": 276
           }
         }
       ],
@@ -963,14 +941,14 @@
         "judet": "Buzău",
         "legislatura": 2024,
         "birth_date": "1983-05-12",
-        "plx_initiate": 29
+        "plx_initiate": 32
       },
       "n_declaratii": 2,
       "n_companii": 2,
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 669075.06,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -990,22 +968,14 @@
           "nume": "Nemo Global System",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 409875.06,
-            "nr": 45
-          }
+          "financials": null
         },
         {
           "cui": 17171544,
           "nume": "AGRIANCA PRODSERV  SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 259200.0,
-            "nr": 4
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -1034,7 +1004,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 57120822.0,
-      "total_achizitii_directe_ron": 845437.17,
+      "total_achizitii_directe_ron": 2628194.64,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1056,8 +1026,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 607053.6,
-            "nr": 27
+            "total_ron": 1101479.36,
+            "nr": 39
           }
         },
         {
@@ -1071,14 +1041,73 @@
             "nr": 104
           },
           "achizitii_directe": {
-            "total_ron": 238383.57,
-            "nr": 9
+            "total_ron": 1526715.28,
+            "nr": 34
           }
         }
       ],
       "cv": {
         "studii": "Educaţie şi formare | Studii | tudii doctorale",
         "experienta": "function gtag() { dataLayer.push(arguments); } | {\"@context\":\"https:\\/\\/schema.org\",\"@type\":\"Person\",\"name\":\"Lucian MĂRGINEAN\",\"jobTitle\":\"senator\",\"url\":\"https:\\/\\/www.senat.ro\\/FisaSenator.aspx?ParlamentarID=FEE99943-2379-4151-8E9A-7B15D1F04A4F\",\" | function testul(tipSedinta, tipSubiect, vorbitor, LegislaturaID) { | Sys.WebForms.PageRequestManager.getInstance().add_beginRequest(beginRequest); | Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequest); | //Sys.WebForms.PageRequestManager.getInstance().add_pageLoaded(Pannel_OnLoad); | function beginRequest(sender, args) { | fu"
+      }
+    },
+    {
+      "romega_id": "p:c34d4e921e02bf48",
+      "nume_key": "dorin popa",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Partidul Oamenilor Tineri - până în mai 2025 Fără adeziune la formațiunea politică pentru care a candidat la alegeri - din mai 2025 - până în iun. 2025 Indep.",
+        "judet": "Argeș",
+        "legislatura": 2024,
+        "birth_date": "1960-04-19",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 1,
+      "n_companii": 2,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 563528.0,
+      "total_achizitii_directe_ron": 3859864.49,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Popa Dorin",
+          "venituri_ron": 23420
+        }
+      ],
+      "companii": [
+        {
+          "cui": 5859982,
+          "nume": "BIAS TEHNOCOM",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 563528.0,
+            "nr": 2
+          },
+          "achizitii_directe": {
+            "total_ron": 1262447.42,
+            "nr": 410
+          }
+        },
+        {
+          "cui": 30825034,
+          "nume": "DOPO DESIGN",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 2597417.07,
+            "nr": 4
+          }
+        }
+      ],
+      "cv": {
+        "studii": "EDUCAŢIE ŞI FORMARE PROFESIONALĂ | Calificarea / diploma obţinută | Diploma absolvire | Modulul postuniversitar cu durata de 1 an &#8222;Jean Monnet&#8221; specializarea &#8220;History of the European idea, civilization and construction&#8221; | Numele şi tipul instituţiei de învăţământ / furnizorului de formare | Universitatea de Stat din Piteşti | Diploma Master | Universitatea de Stat din Piteşti, Facultatea de Ştiinţe Economice, Juridice şi Administrative | Modulul postuniversitar cu durata de 1 an &#8222;Jean Monnet&#8221; specializarea &#8222;European Policies in the field of sustainable",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | Perioada | 2002 - prezent | Numele şi adresa angajatorului | 1995 - prezent | 2024 - PREZENT | 2007 - 2008 | 2004 - 2006 | 2004 - 2005 | 1986 - 1988 | 1981 - 1986 | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListen"
       }
     },
     {
@@ -1102,7 +1131,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 2017083.0,
+      "total_achizitii_directe_ron": 1704398.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1117,11 +1146,7 @@
           "nume": "ADTRUE COMPANY",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 312685.0,
-            "nr": 9
-          }
+          "financials": null
         },
         {
           "cui": 39619852,
@@ -1150,7 +1175,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 830570.19,
+      "total_achizitii_directe_ron": 1281382.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1261,15 +1286,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 11919961,
-            "profit_net": 290811,
-            "datorii": 952650,
-            "nr_salariati": 155
+            "an": 2025,
+            "cifra_afaceri": 14248815,
+            "profit_net": 296135,
+            "datorii": 1053612,
+            "nr_salariati": 149
           },
           "achizitii_directe": {
-            "total_ron": 830570.19,
-            "nr": 1162
+            "total_ron": 1281382.19,
+            "nr": 1202
           }
         }
       ],
@@ -1523,7 +1548,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
+      "total_achizitii_directe_ron": 664329.1,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1604,11 +1629,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 381392045,
-            "profit_net": 33046067,
-            "datorii": 223529635,
-            "nr_salariati": 1470
+            "an": 2025,
+            "cifra_afaceri": 530587249,
+            "profit_net": 61764047,
+            "datorii": 201189046,
+            "nr_salariati": 1616
+          },
+          "achizitii_directe": {
+            "total_ron": 664329.1,
+            "nr": 255
           }
         }
       ],
@@ -1624,7 +1653,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
+      "total_achizitii_directe_ron": 664329.1,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1705,11 +1734,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 381392045,
-            "profit_net": 33046067,
-            "datorii": 223529635,
-            "nr_salariati": 1470
+            "an": 2025,
+            "cifra_afaceri": 530587249,
+            "profit_net": 61764047,
+            "datorii": 201189046,
+            "nr_salariati": 1616
+          },
+          "achizitii_directe": {
+            "total_ron": 664329.1,
+            "nr": 255
           }
         }
       ],
@@ -1801,11 +1834,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 19975256,
-            "profit_net": 3556210,
-            "datorii": 6089021,
-            "nr_salariati": 120
+            "an": 2025,
+            "cifra_afaceri": 23323988,
+            "profit_net": 9997462,
+            "datorii": 4135121,
+            "nr_salariati": 114
           }
         }
       ],
@@ -1821,7 +1854,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 225438871.0,
-      "total_achizitii_directe_ron": 1468810.83,
+      "total_achizitii_directe_ron": 3702517.89,
       "firme_contracte_autodeclarate": [
         {
           "cui": 4331392,
@@ -1898,19 +1931,19 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 40466328,
-            "profit_net": 4781908,
-            "datorii": 14103207,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 62093616,
+            "profit_net": 3248831,
+            "datorii": 13824462,
+            "nr_salariati": 130
           },
           "contracte_stat": {
             "total_ron": 225438871.0,
             "nr": 21
           },
           "achizitii_directe": {
-            "total_ron": 1468810.83,
-            "nr": 38
+            "total_ron": 3702517.89,
+            "nr": 64
           }
         }
       ],
@@ -1926,7 +1959,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 225438871.0,
-      "total_achizitii_directe_ron": 1468810.83,
+      "total_achizitii_directe_ron": 3702517.89,
       "firme_contracte_autodeclarate": [
         {
           "cui": 4331392,
@@ -2003,19 +2036,19 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 40466328,
-            "profit_net": 4781908,
-            "datorii": 14103207,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 62093616,
+            "profit_net": 3248831,
+            "datorii": 13824462,
+            "nr_salariati": 130
           },
           "contracte_stat": {
             "total_ron": 225438871.0,
             "nr": 21
           },
           "achizitii_directe": {
-            "total_ron": 1468810.83,
-            "nr": 38
+            "total_ron": 3702517.89,
+            "nr": 64
           }
         }
       ],
@@ -2031,7 +2064,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
+      "total_achizitii_directe_ron": 664329.1,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2092,11 +2125,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 381392045,
-            "profit_net": 33046067,
-            "datorii": 223529635,
-            "nr_salariati": 1470
+            "an": 2025,
+            "cifra_afaceri": 530587249,
+            "profit_net": 61764047,
+            "datorii": 201189046,
+            "nr_salariati": 1616
+          },
+          "achizitii_directe": {
+            "total_ron": 664329.1,
+            "nr": 255
           }
         }
       ],
@@ -2173,11 +2210,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 19975256,
-            "profit_net": 3556210,
-            "datorii": 6089021,
-            "nr_salariati": 120
+            "an": 2025,
+            "cifra_afaceri": 23323988,
+            "profit_net": 9997462,
+            "datorii": 4135121,
+            "nr_salariati": 114
           }
         },
         {
@@ -2186,11 +2223,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 19975256,
-            "profit_net": 3556210,
-            "datorii": 6089021,
-            "nr_salariati": 120
+            "an": 2025,
+            "cifra_afaceri": 23323988,
+            "profit_net": 9997462,
+            "datorii": 4135121,
+            "nr_salariati": 114
           }
         }
       ],
@@ -2267,11 +2304,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 19975256,
-            "profit_net": 3556210,
-            "datorii": 6089021,
-            "nr_salariati": 120
+            "an": 2025,
+            "cifra_afaceri": 23323988,
+            "profit_net": 9997462,
+            "datorii": 4135121,
+            "nr_salariati": 114
           }
         }
       ],
@@ -2348,11 +2385,11 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 153565246,
-            "profit_net": 851185,
-            "datorii": 80171360,
-            "nr_salariati": 338
+            "an": 2025,
+            "cifra_afaceri": 177828457,
+            "profit_net": 3562121,
+            "datorii": 104031601,
+            "nr_salariati": 333
           }
         }
       ],
@@ -2368,7 +2405,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 225438871.0,
-      "total_achizitii_directe_ron": 1468810.83,
+      "total_achizitii_directe_ron": 3702517.89,
       "firme_contracte_autodeclarate": [
         {
           "cui": 4331392,
@@ -2435,19 +2472,19 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 40466328,
-            "profit_net": 4781908,
-            "datorii": 14103207,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 62093616,
+            "profit_net": 3248831,
+            "datorii": 13824462,
+            "nr_salariati": 130
           },
           "contracte_stat": {
             "total_ron": 225438871.0,
             "nr": 21
           },
           "achizitii_directe": {
-            "total_ron": 1468810.83,
-            "nr": 38
+            "total_ron": 3702517.89,
+            "nr": 64
           }
         }
       ],
@@ -2463,7 +2500,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 491730.91,
+      "total_achizitii_directe_ron": 888392.71,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2525,8 +2562,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 491730.91,
-            "nr": 26
+            "total_ron": 888392.71,
+            "nr": 34
           }
         }
       ],
@@ -2542,7 +2579,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 830570.19,
+      "total_achizitii_directe_ron": 1281382.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2603,15 +2640,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 11919961,
-            "profit_net": 290811,
-            "datorii": 952650,
-            "nr_salariati": 155
+            "an": 2025,
+            "cifra_afaceri": 14248815,
+            "profit_net": 296135,
+            "datorii": 1053612,
+            "nr_salariati": 149
           },
           "achizitii_directe": {
-            "total_ron": 830570.19,
-            "nr": 1162
+            "total_ron": 1281382.19,
+            "nr": 1202
           }
         }
       ],
@@ -2627,7 +2664,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 830570.19,
+      "total_achizitii_directe_ron": 1281382.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2688,15 +2725,94 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 11919961,
-            "profit_net": 290811,
-            "datorii": 952650,
-            "nr_salariati": 155
+            "an": 2025,
+            "cifra_afaceri": 14248815,
+            "profit_net": 296135,
+            "datorii": 1053612,
+            "nr_salariati": 149
           },
           "achizitii_directe": {
-            "total_ron": 830570.19,
-            "nr": 1162
+            "total_ron": 1281382.19,
+            "nr": 1202
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:4ceb4227914101a6",
+      "nume_key": "marilena ungureanu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 10,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 9519425.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": 63955
+        },
+        {
+          "tip": "avere",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": 60349
+        },
+        {
+          "tip": "avere",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": 63361
+        },
+        {
+          "tip": "avere",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": 76911
+        },
+        {
+          "tip": "avere",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": 74862
+        },
+        {
+          "tip": "interese",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DGASPC Buzău",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 14474420,
+          "nume": "BIAN S.R.L. Buzau",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 9519425.0,
+            "nr": 1050
           }
         }
       ],
@@ -2768,10 +2884,10 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 714666,
-            "profit_net": 6557321,
-            "datorii": 727319,
+            "an": 2025,
+            "cifra_afaceri": 402795,
+            "profit_net": 2220547,
+            "datorii": 1414446,
             "nr_salariati": 7
           }
         }
@@ -2844,11 +2960,11 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 153565246,
-            "profit_net": 851185,
-            "datorii": 80171360,
-            "nr_salariati": 338
+            "an": 2025,
+            "cifra_afaceri": 177828457,
+            "profit_net": 3562121,
+            "datorii": 104031601,
+            "nr_salariati": 333
           }
         }
       ],
@@ -2943,7 +3059,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 661517.16,
+      "total_achizitii_directe_ron": 1781935.84,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2999,15 +3115,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 10913048,
-            "profit_net": 1499015,
-            "datorii": 4322555,
-            "nr_salariati": 53
+            "an": 2025,
+            "cifra_afaceri": 5847563,
+            "profit_net": 597,
+            "datorii": 5023223,
+            "nr_salariati": 38
           },
           "achizitii_directe": {
-            "total_ron": 661517.16,
-            "nr": 8
+            "total_ron": 1781935.84,
+            "nr": 20
           }
         }
       ],
@@ -3026,7 +3142,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1097000.0,
+      "total_achizitii_directe_ron": 1405635.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3077,15 +3193,15 @@
           "rol": "administrator",
           "sector": "Agricultură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3415650,
-            "profit_net": 10581,
-            "datorii": 2174514,
-            "nr_salariati": 22
+            "an": 2025,
+            "cifra_afaceri": 3913579,
+            "profit_net": 135268,
+            "datorii": 3036943,
+            "nr_salariati": 20
           },
           "achizitii_directe": {
-            "total_ron": 1097000.0,
-            "nr": 15
+            "total_ron": 1405635.0,
+            "nr": 20
           }
         }
       ],
@@ -3152,11 +3268,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6892969,
-            "profit_net": 2008834,
-            "datorii": 1280276,
-            "nr_salariati": 15
+            "an": 2025,
+            "cifra_afaceri": 7639122,
+            "profit_net": 1156774,
+            "datorii": 2203370,
+            "nr_salariati": 17
           }
         }
       ],
@@ -3308,7 +3424,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 149993.81,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3359,15 +3475,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6658629,
-            "profit_net": 464093,
-            "datorii": 1218533,
-            "nr_salariati": 84
-          },
-          "achizitii_directe": {
-            "total_ron": 149993.81,
-            "nr": 68
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
           }
         }
       ],
@@ -3437,11 +3549,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 15177956,
-            "profit_net": -274369,
-            "datorii": 1563460,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 17382662,
+            "profit_net": 898814,
+            "datorii": 1527238,
+            "nr_salariati": 125
           }
         }
       ],
@@ -3508,11 +3620,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 15177956,
-            "profit_net": -274369,
-            "datorii": 1563460,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 17382662,
+            "profit_net": 898814,
+            "datorii": 1527238,
+            "nr_salariati": 125
           }
         }
       ],
@@ -3528,7 +3640,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 429000.17,
+      "total_achizitii_directe_ron": 697680.92,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3579,15 +3691,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 42394347,
-            "profit_net": 3459944,
-            "datorii": 7657848,
-            "nr_salariati": 179
+            "an": 2025,
+            "cifra_afaceri": 43073529,
+            "profit_net": 1560881,
+            "datorii": 16949975,
+            "nr_salariati": 169
           },
           "achizitii_directe": {
-            "total_ron": 429000.17,
-            "nr": 34
+            "total_ron": 697680.92,
+            "nr": 44
           }
         }
       ],
@@ -3654,11 +3766,11 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 120610312,
-            "profit_net": -3003149,
-            "datorii": 66258475,
-            "nr_salariati": 242
+            "an": 2025,
+            "cifra_afaceri": 118981261,
+            "profit_net": -787695,
+            "datorii": 77421918,
+            "nr_salariati": 189
           }
         }
       ],
@@ -3725,11 +3837,11 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 153565246,
-            "profit_net": 851185,
-            "datorii": 80171360,
-            "nr_salariati": 338
+            "an": 2025,
+            "cifra_afaceri": 177828457,
+            "profit_net": 3562121,
+            "datorii": 104031601,
+            "nr_salariati": 333
           }
         }
       ],
@@ -3796,11 +3908,11 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 153565246,
-            "profit_net": 851185,
-            "datorii": 80171360,
-            "nr_salariati": 338
+            "an": 2025,
+            "cifra_afaceri": 177828457,
+            "profit_net": 3562121,
+            "datorii": 104031601,
+            "nr_salariati": 333
           }
         }
       ],
@@ -3816,14 +3928,14 @@
         "judet": null,
         "legislatura": 2024,
         "birth_date": "1978-10-15",
-        "plx_initiate": 48
+        "plx_initiate": 50
       },
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 5546954.63,
+      "total_achizitii_directe_ron": 7426006.28,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3875,14 +3987,93 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 5546954.63,
-            "nr": 4341
+            "total_ron": 7426006.28,
+            "nr": 4897
           }
         }
       ],
       "cv": {
         "studii": "Studii şi specializări | - Facultatea de Drept şi ştiinţe administrative Titulescu | - Facultatea de Ştiinţe Economoce - Specializarea Analiză, diagnostic şi evaluarea afacerilor - MASTERAT | - Facultatea de Educaţie Fizică şi Sport - Specializarea Management în sport | - Liceul Economic &#8222;Gh. Chiţu&#8221; - Profilul Finanţe Contabilitate | - Preşedinte Asociaţia Studenţilor din Facultatea de Educaţie Fizică şi Sport | - Grefier studii superioare în cadrul Ministerului Justiţiei, la Judecătoria Craiova",
         "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Deputat - 2012-2016 | 2005 - 2009 | 2004 - 2006 | 1993 - 1997 | Activitate profesională | - Consilier la Primăria Municipiului Craiova pe probleme studenţeşti | 2006 - 2012 | 2020 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tab"
+      }
+    },
+    {
+      "romega_id": "p:83ac679d7e071fdd",
+      "nume_key": "gheorghe ionel",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Alianța pentru Unirea Românilor",
+        "judet": "Dolj",
+        "legislatura": 2024,
+        "birth_date": "1970-09-05",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 8,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 559390.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Călărași",
+          "venituri_ron": 173808
+        },
+        {
+          "tip": "avere",
+          "institutie": "DSVSA Călărași",
+          "venituri_ron": 172522
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Călărași",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Călărași",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Călărași",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DSVSA Călărași",
+          "venituri_ron": null
+        },
+        {
+          "tip": "avere",
+          "institutie": "Deputat Gheorghe Ionel",
+          "venituri_ron": 427996
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Gheorghe Ionel",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 33518417,
+          "nume": "CONSTRUCT CONFORT MGA",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "achizitii_directe": {
+            "total_ron": 559390.0,
+            "nr": 3
+          }
+        }
+      ],
+      "cv": {
+        "studii": "",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat 2024 - prezent | window.addEventListener(\"load\", function(){ | onInitialise: function (status) { | document.addEventListener(\"DOMContentLoaded\", function() { | allBoxGroups.forEach(function(group) { | tabBtns.forEach(function(btn) { | btn.addEventListener(\"click\", function() { | tabBtns.forEach(function(b) { b.classList.remove(\"active\"); }); | boxes.forEach(function(box) { box.classList.remove(\"active\"); });"
       }
     },
     {
@@ -3895,14 +4086,14 @@
         "judet": "Prahova",
         "legislatura": 2024,
         "birth_date": "1974-02-25",
-        "plx_initiate": 29
+        "plx_initiate": 31
       },
       "n_declaratii": 8,
       "n_companii": 1,
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 397443.5,
+      "total_achizitii_directe_ron": 804209.67,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -3954,8 +4145,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 397443.5,
-            "nr": 14
+            "total_ron": 804209.67,
+            "nr": 19
           }
         }
       ],
@@ -3974,7 +4165,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 943921.68,
+      "total_achizitii_directe_ron": 2157567.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4020,15 +4211,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 63190152,
-            "profit_net": 649264,
-            "datorii": 41650027,
-            "nr_salariati": 382
+            "an": 2025,
+            "cifra_afaceri": 74641083,
+            "profit_net": 281897,
+            "datorii": 45728731,
+            "nr_salariati": 372
           },
           "achizitii_directe": {
-            "total_ron": 943921.68,
-            "nr": 28
+            "total_ron": 2157567.19,
+            "nr": 60
           }
         }
       ],
@@ -4047,7 +4238,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 149993.81,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4093,15 +4284,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6658629,
-            "profit_net": 464093,
-            "datorii": 1218533,
-            "nr_salariati": 84
-          },
-          "achizitii_directe": {
-            "total_ron": 149993.81,
-            "nr": 68
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
           }
         }
       ],
@@ -4117,7 +4304,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 149993.81,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4163,15 +4350,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6658629,
-            "profit_net": 464093,
-            "datorii": 1218533,
-            "nr_salariati": 84
-          },
-          "achizitii_directe": {
-            "total_ron": 149993.81,
-            "nr": 68
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
           }
         }
       ],
@@ -4190,7 +4373,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1651970.94,
+      "total_achizitii_directe_ron": 2886816.67,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4236,15 +4419,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 32104269,
-            "profit_net": 1907983,
-            "datorii": 4142320,
-            "nr_salariati": 108
+            "an": 2025,
+            "cifra_afaceri": 26960040,
+            "profit_net": 781481,
+            "datorii": 2709300,
+            "nr_salariati": 102
           },
           "achizitii_directe": {
-            "total_ron": 1651970.94,
-            "nr": 65
+            "total_ron": 2886816.67,
+            "nr": 113
           }
         }
       ],
@@ -4260,7 +4443,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 661517.16,
+      "total_achizitii_directe_ron": 1781935.84,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4306,15 +4489,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 10913048,
-            "profit_net": 1499015,
-            "datorii": 4322555,
-            "nr_salariati": 53
+            "an": 2025,
+            "cifra_afaceri": 5847563,
+            "profit_net": 597,
+            "datorii": 5023223,
+            "nr_salariati": 38
           },
           "achizitii_directe": {
-            "total_ron": 661517.16,
-            "nr": 8
+            "total_ron": 1781935.84,
+            "nr": 20
           }
         }
       ],
@@ -4374,10 +4557,10 @@
           "rol": "director general unic",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 714666,
-            "profit_net": 6557321,
-            "datorii": 727319,
+            "an": 2025,
+            "cifra_afaceri": 402795,
+            "profit_net": 2220547,
+            "datorii": 1414446,
             "nr_salariati": 7
           }
         }
@@ -4438,10 +4621,10 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 714666,
-            "profit_net": 6557321,
-            "datorii": 727319,
+            "an": 2025,
+            "cifra_afaceri": 402795,
+            "profit_net": 2220547,
+            "datorii": 1414446,
             "nr_salariati": 7
           }
         }
@@ -4502,11 +4685,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 264230908,
-            "profit_net": 17706024,
-            "datorii": 163159672,
-            "nr_salariati": 981
+            "an": 2025,
+            "cifra_afaceri": 383276593,
+            "profit_net": 69140553,
+            "datorii": 133791729,
+            "nr_salariati": 1027
           }
         }
       ],
@@ -4676,11 +4859,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5772702,
-            "profit_net": 204748,
-            "datorii": 895573,
-            "nr_salariati": 81
+            "an": 2025,
+            "cifra_afaceri": 7328310,
+            "profit_net": 256231,
+            "datorii": 1219478,
+            "nr_salariati": 87
           }
         }
       ],
@@ -4696,7 +4879,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 2324538.0,
-      "total_achizitii_directe_ron": 1822840.85,
+      "total_achizitii_directe_ron": 3164594.04,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -4742,8 +4925,8 @@
             "nr": 12
           },
           "achizitii_directe": {
-            "total_ron": 1822840.85,
-            "nr": 596
+            "total_ron": 3164594.04,
+            "nr": 871
           }
         }
       ],
@@ -4803,11 +4986,11 @@
           "rol": "administrator",
           "sector": "Sănătate · educație",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 25258320,
-            "profit_net": -1329028,
-            "datorii": 3296703,
-            "nr_salariati": 237
+            "an": 2025,
+            "cifra_afaceri": 29368266,
+            "profit_net": -2969269,
+            "datorii": 6989933,
+            "nr_salariati": 235
           }
         }
       ],
@@ -4864,11 +5047,11 @@
           "rol": "administrator",
           "sector": "Sănătate · educație",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 25258320,
-            "profit_net": -1329028,
-            "datorii": 3296703,
-            "nr_salariati": 237
+            "an": 2025,
+            "cifra_afaceri": 29368266,
+            "profit_net": -2969269,
+            "datorii": 6989933,
+            "nr_salariati": 235
           }
         }
       ],
@@ -4925,11 +5108,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 16537422,
-            "profit_net": 54327,
-            "datorii": 3448038,
-            "nr_salariati": 126
+            "an": 2025,
+            "cifra_afaceri": 17701066,
+            "profit_net": -1537772,
+            "datorii": 5137484,
+            "nr_salariati": 118
           }
         }
       ],
@@ -4986,10 +5169,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4244992,
-            "profit_net": 665376,
-            "datorii": 1821096,
+            "an": 2025,
+            "cifra_afaceri": 5417823,
+            "profit_net": 502140,
+            "datorii": 2475577,
             "nr_salariati": 21
           }
         }
@@ -5047,11 +5230,11 @@
           "rol": "administrator provizoriu",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 7892480,
-            "profit_net": 182695,
-            "datorii": 1351742,
-            "nr_salariati": 36
+            "an": 2025,
+            "cifra_afaceri": 8245960,
+            "profit_net": 57919,
+            "datorii": 3092485,
+            "nr_salariati": 38
           }
         }
       ],
@@ -5067,7 +5250,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 830570.19,
+      "total_achizitii_directe_ron": 1281382.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5108,15 +5291,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 11919961,
-            "profit_net": 290811,
-            "datorii": 952650,
-            "nr_salariati": 155
+            "an": 2025,
+            "cifra_afaceri": 14248815,
+            "profit_net": 296135,
+            "datorii": 1053612,
+            "nr_salariati": 149
           },
           "achizitii_directe": {
-            "total_ron": 830570.19,
-            "nr": 1162
+            "total_ron": 1281382.19,
+            "nr": 1202
           }
         }
       ],
@@ -5132,7 +5315,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 830570.19,
+      "total_achizitii_directe_ron": 1281382.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -5173,15 +5356,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 11919961,
-            "profit_net": 290811,
-            "datorii": 952650,
-            "nr_salariati": 155
+            "an": 2025,
+            "cifra_afaceri": 14248815,
+            "profit_net": 296135,
+            "datorii": 1053612,
+            "nr_salariati": 149
           },
           "achizitii_directe": {
-            "total_ron": 830570.19,
-            "nr": 1162
+            "total_ron": 1281382.19,
+            "nr": 1202
           }
         }
       ],
@@ -5361,11 +5544,11 @@
           "rol": "administrator",
           "sector": "Sănătate · educație",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 25258320,
-            "profit_net": -1329028,
-            "datorii": 3296703,
-            "nr_salariati": 237
+            "an": 2025,
+            "cifra_afaceri": 29368266,
+            "profit_net": -2969269,
+            "datorii": 6989933,
+            "nr_salariati": 235
           }
         }
       ],
@@ -5417,10 +5600,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4244992,
-            "profit_net": 665376,
-            "datorii": 1821096,
+            "an": 2025,
+            "cifra_afaceri": 5417823,
+            "profit_net": 502140,
+            "datorii": 2475577,
             "nr_salariati": 21
           }
         }
@@ -5473,11 +5656,11 @@
           "rol": "administrator",
           "sector": "Agricultură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 620260,
-            "profit_net": 32770,
-            "datorii": 62430,
-            "nr_salariati": 6
+            "an": 2025,
+            "cifra_afaceri": 827950,
+            "profit_net": 58095,
+            "datorii": 172974,
+            "nr_salariati": 4
           }
         }
       ],
@@ -5527,11 +5710,11 @@
           "rol": "administrator provizoriu",
           "sector": "Industrie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 33083188,
-            "profit_net": 1196801,
-            "datorii": 4204308,
-            "nr_salariati": 314
+            "an": 2025,
+            "cifra_afaceri": 76084439,
+            "profit_net": 3735768,
+            "datorii": 8141018,
+            "nr_salariati": 679
           }
         }
       ],
@@ -5738,11 +5921,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 264230908,
-            "profit_net": 17706024,
-            "datorii": 163159672,
-            "nr_salariati": 981
+            "an": 2025,
+            "cifra_afaceri": 383276593,
+            "profit_net": 69140553,
+            "datorii": 133791729,
+            "nr_salariati": 1027
           }
         }
       ],
@@ -5789,11 +5972,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 264230908,
-            "profit_net": 17706024,
-            "datorii": 163159672,
-            "nr_salariati": 981
+            "an": 2025,
+            "cifra_afaceri": 383276593,
+            "profit_net": 69140553,
+            "datorii": 133791729,
+            "nr_salariati": 1027
           }
         }
       ],
@@ -5975,11 +6158,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5772702,
-            "profit_net": 204748,
-            "datorii": 895573,
-            "nr_salariati": 81
+            "an": 2025,
+            "cifra_afaceri": 7328310,
+            "profit_net": 256231,
+            "datorii": 1219478,
+            "nr_salariati": 87
           }
         }
       ],
@@ -6026,10 +6209,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 1834825,
-            "profit_net": 63452,
-            "datorii": 320886,
+            "an": 2025,
+            "cifra_afaceri": 1813820,
+            "profit_net": 293130,
+            "datorii": 184800,
             "nr_salariati": 14
           }
         }
@@ -6083,11 +6266,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 30100141,
-            "profit_net": 369682,
-            "datorii": 3932313,
-            "nr_salariati": 511
+            "an": 2025,
+            "cifra_afaceri": 40112721,
+            "profit_net": 736762,
+            "datorii": 4056374,
+            "nr_salariati": 516
           },
           "contracte_stat": {
             "total_ron": 19886698.0,
@@ -6142,11 +6325,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 30100141,
-            "profit_net": 369682,
-            "datorii": 3932313,
-            "nr_salariati": 511
+            "an": 2025,
+            "cifra_afaceri": 40112721,
+            "profit_net": 736762,
+            "datorii": 4056374,
+            "nr_salariati": 516
           },
           "contracte_stat": {
             "total_ron": 19886698.0,
@@ -6163,11 +6346,11 @@
           "rol": "administrator provizoriu",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 30100141,
-            "profit_net": 369682,
-            "datorii": 3932313,
-            "nr_salariati": 511
+            "an": 2025,
+            "cifra_afaceri": 40112721,
+            "profit_net": 736762,
+            "datorii": 4056374,
+            "nr_salariati": 516
           },
           "contracte_stat": {
             "total_ron": 19886698.0,
@@ -6194,7 +6377,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 149993.81,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6225,15 +6408,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6658629,
-            "profit_net": 464093,
-            "datorii": 1218533,
-            "nr_salariati": 84
-          },
-          "achizitii_directe": {
-            "total_ron": 149993.81,
-            "nr": 68
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
           }
         }
       ],
@@ -6249,7 +6428,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 149993.81,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6280,15 +6459,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6658629,
-            "profit_net": 464093,
-            "datorii": 1218533,
-            "nr_salariati": 84
-          },
-          "achizitii_directe": {
-            "total_ron": 149993.81,
-            "nr": 68
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
           }
         }
       ],
@@ -6338,11 +6513,11 @@
           "rol": "administrator",
           "sector": "Sănătate · educație",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 25258320,
-            "profit_net": -1329028,
-            "datorii": 3296703,
-            "nr_salariati": 237
+            "an": 2025,
+            "cifra_afaceri": 29368266,
+            "profit_net": -2969269,
+            "datorii": 6989933,
+            "nr_salariati": 235
           }
         }
       ],
@@ -6358,7 +6533,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1651970.94,
+      "total_achizitii_directe_ron": 2886816.67,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6389,15 +6564,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 32104269,
-            "profit_net": 1907983,
-            "datorii": 4142320,
-            "nr_salariati": 108
+            "an": 2025,
+            "cifra_afaceri": 26960040,
+            "profit_net": 781481,
+            "datorii": 2709300,
+            "nr_salariati": 102
           },
           "achizitii_directe": {
-            "total_ron": 1651970.94,
-            "nr": 65
+            "total_ron": 2886816.67,
+            "nr": 113
           }
         }
       ],
@@ -6489,11 +6664,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
+            "an": 2025,
             "cifra_afaceri": 0,
-            "profit_net": 781174,
-            "datorii": 2142361,
-            "nr_salariati": 35
+            "profit_net": 1598509,
+            "datorii": 1129604822,
+            "nr_salariati": 50
           }
         }
       ],
@@ -6509,7 +6684,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 1748681.07,
+      "total_achizitii_directe_ron": 2574648.73,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6551,8 +6726,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 1748681.07,
-            "nr": 39
+            "total_ron": 2574648.73,
+            "nr": 68
           }
         }
       ],
@@ -6571,7 +6746,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1335741.85,
+      "total_achizitii_directe_ron": 2633188.39,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6602,15 +6777,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 43204399,
-            "profit_net": 3280241,
-            "datorii": 10089766,
-            "nr_salariati": 229
+            "an": 2025,
+            "cifra_afaceri": 52802001,
+            "profit_net": 893025,
+            "datorii": 19573512,
+            "nr_salariati": 240
           },
           "achizitii_directe": {
-            "total_ron": 1335741.85,
-            "nr": 107
+            "total_ron": 2633188.39,
+            "nr": 184
           }
         }
       ],
@@ -6657,11 +6832,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 12276247,
-            "profit_net": 710742,
-            "datorii": 14379717,
-            "nr_salariati": 90
+            "an": 2025,
+            "cifra_afaceri": 7608923,
+            "profit_net": 517890,
+            "datorii": 52159669,
+            "nr_salariati": 84
           }
         }
       ],
@@ -6677,7 +6852,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 1167942.97,
+      "total_achizitii_directe_ron": 2801924.46,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6708,19 +6883,19 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 407409533,
-            "profit_net": -2598131,
-            "datorii": 151830885,
-            "nr_salariati": 2009
+            "an": 2025,
+            "cifra_afaceri": 415580003,
+            "profit_net": 23313359,
+            "datorii": 106004955,
+            "nr_salariati": 1914
           },
           "contracte_stat": {
             "total_ron": 36231907.0,
             "nr": 5
           },
           "achizitii_directe": {
-            "total_ron": 1167942.97,
-            "nr": 168
+            "total_ron": 2801924.46,
+            "nr": 309
           }
         }
       ],
@@ -6821,11 +6996,11 @@
           "rol": "administrator",
           "sector": "Agricultură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 620260,
-            "profit_net": 32770,
-            "datorii": 62430,
-            "nr_salariati": 6
+            "an": 2025,
+            "cifra_afaceri": 827950,
+            "profit_net": 58095,
+            "datorii": 172974,
+            "nr_salariati": 4
           }
         }
       ],
@@ -6850,7 +7025,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 195452.34,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -6880,11 +7055,7 @@
           "nume": "S. C. M.S. Marine Service International S.R.L.",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 195452.34,
-            "nr": 322
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -6988,11 +7159,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5772702,
-            "profit_net": 204748,
-            "datorii": 895573,
-            "nr_salariati": 81
+            "an": 2025,
+            "cifra_afaceri": 7328310,
+            "profit_net": 256231,
+            "datorii": 1219478,
+            "nr_salariati": 87
           }
         }
       ],
@@ -7034,11 +7205,11 @@
           "rol": "director general unic",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 19975256,
-            "profit_net": 3556210,
-            "datorii": 6089021,
-            "nr_salariati": 120
+            "an": 2025,
+            "cifra_afaceri": 23323988,
+            "profit_net": 9997462,
+            "datorii": 4135121,
+            "nr_salariati": 114
           }
         }
       ],
@@ -7054,7 +7225,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 572147.42,
+      "total_achizitii_directe_ron": 628828.71,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7080,15 +7251,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 33339831,
-            "profit_net": 1595119,
-            "datorii": 12693982,
-            "nr_salariati": 347
+            "an": 2025,
+            "cifra_afaceri": 48874766,
+            "profit_net": 1199131,
+            "datorii": 14205782,
+            "nr_salariati": 363
           },
           "achizitii_directe": {
-            "total_ron": 572147.42,
-            "nr": 20
+            "total_ron": 628828.71,
+            "nr": 30
           }
         }
       ],
@@ -7130,11 +7301,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 15177956,
-            "profit_net": -274369,
-            "datorii": 1563460,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 17382662,
+            "profit_net": 898814,
+            "datorii": 1527238,
+            "nr_salariati": 125
           }
         }
       ],
@@ -7150,7 +7321,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 448852.13,
+      "total_achizitii_directe_ron": 1555421.57,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7176,15 +7347,15 @@
           "rol": "administrator provizoriu",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 13730267,
-            "profit_net": 503556,
-            "datorii": 12283448,
-            "nr_salariati": 141
+            "an": 2025,
+            "cifra_afaceri": 14106360,
+            "profit_net": 957334,
+            "datorii": 11199160,
+            "nr_salariati": 145
           },
           "achizitii_directe": {
-            "total_ron": 448852.13,
-            "nr": 122
+            "total_ron": 1555421.57,
+            "nr": 487
           }
         }
       ],
@@ -7203,7 +7374,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 2099062.82,
+      "total_achizitii_directe_ron": 2462596.58,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7229,15 +7400,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 17921371,
-            "profit_net": -2834799,
-            "datorii": 10374172,
-            "nr_salariati": 178
+            "an": 2025,
+            "cifra_afaceri": 23948092,
+            "profit_net": 2948467,
+            "datorii": 3185349,
+            "nr_salariati": 146
           },
           "achizitii_directe": {
-            "total_ron": 2099062.82,
-            "nr": 309
+            "total_ron": 2462596.58,
+            "nr": 399
           }
         }
       ],
@@ -7256,7 +7427,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 834089.0,
-      "total_achizitii_directe_ron": 241639.28,
+      "total_achizitii_directe_ron": 727805.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7282,19 +7453,19 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 84918996,
-            "profit_net": 9069112,
-            "datorii": 45982000,
-            "nr_salariati": 220
+            "an": 2025,
+            "cifra_afaceri": 57799865,
+            "profit_net": 2861171,
+            "datorii": 49751869,
+            "nr_salariati": 173
           },
           "contracte_stat": {
             "total_ron": 834089.0,
             "nr": 1
           },
           "achizitii_directe": {
-            "total_ron": 241639.28,
-            "nr": 2
+            "total_ron": 727805.85,
+            "nr": 8
           }
         }
       ],
@@ -7310,7 +7481,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1326510.6,
+      "total_achizitii_directe_ron": 2258520.88,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7336,15 +7507,15 @@
           "rol": "administrator provizoriu",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 10642223,
-            "profit_net": 162983,
-            "datorii": 3708011,
-            "nr_salariati": 183
+            "an": 2025,
+            "cifra_afaceri": 11075685,
+            "profit_net": 314754,
+            "datorii": 2933754,
+            "nr_salariati": 142
           },
           "achizitii_directe": {
-            "total_ron": 1326510.6,
-            "nr": 20
+            "total_ron": 2258520.88,
+            "nr": 28
           }
         }
       ],
@@ -7367,7 +7538,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 686205.81,
+      "total_achizitii_directe_ron": 1204345.61,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7389,8 +7560,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 686205.81,
-            "nr": 3500
+            "total_ron": 1204345.61,
+            "nr": 5034
           }
         }
       ],
@@ -7416,7 +7587,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 4130392.71,
+      "total_achizitii_directe_ron": 5772988.19,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7438,8 +7609,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 4130392.71,
-            "nr": 247
+            "total_ron": 5772988.19,
+            "nr": 277
           }
         }
       ],
@@ -7465,7 +7636,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 308225.82,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7485,11 +7656,7 @@
           "nume": "DRUMURI SI PODURI PRAHOVA S.A.",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 308225.82,
-            "nr": 53
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -7507,7 +7674,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 3797294049.0,
-      "total_achizitii_directe_ron": 94712776.57,
+      "total_achizitii_directe_ron": 118231189.03,
       "firme_contracte_autodeclarate": [
         {
           "cui": 11653560,
@@ -7534,19 +7701,19 @@
           "rol": "administrator",
           "sector": "Comerț",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 174635087,
-            "profit_net": -54404402,
-            "datorii": 1447205499,
-            "nr_salariati": 59
+            "an": 2025,
+            "cifra_afaceri": 274425570,
+            "profit_net": 1000031406,
+            "datorii": 116955483,
+            "nr_salariati": 68
           },
           "contracte_stat": {
             "total_ron": 3797294049.0,
             "nr": 5913
           },
           "achizitii_directe": {
-            "total_ron": 94712776.57,
-            "nr": 19280
+            "total_ron": 118231189.03,
+            "nr": 25640
           }
         }
       ],
@@ -7562,7 +7729,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 3797294049.0,
-      "total_achizitii_directe_ron": 94712776.57,
+      "total_achizitii_directe_ron": 118231189.03,
       "firme_contracte_autodeclarate": [
         {
           "cui": 11653560,
@@ -7589,19 +7756,19 @@
           "rol": "administrator",
           "sector": "Comerț",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 174635087,
-            "profit_net": -54404402,
-            "datorii": 1447205499,
-            "nr_salariati": 59
+            "an": 2025,
+            "cifra_afaceri": 274425570,
+            "profit_net": 1000031406,
+            "datorii": 116955483,
+            "nr_salariati": 68
           },
           "contracte_stat": {
             "total_ron": 3797294049.0,
             "nr": 5913
           },
           "achizitii_directe": {
-            "total_ron": 94712776.57,
-            "nr": 19280
+            "total_ron": 118231189.03,
+            "nr": 25640
           }
         }
       ],
@@ -7730,7 +7897,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1097049.77,
+      "total_achizitii_directe_ron": 3123150.12,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7751,15 +7918,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 55525180,
-            "profit_net": 8251423,
-            "datorii": 52640579,
-            "nr_salariati": 300
+            "an": 2025,
+            "cifra_afaceri": 69470808,
+            "profit_net": 13463586,
+            "datorii": 50838722,
+            "nr_salariati": 288
           },
           "achizitii_directe": {
-            "total_ron": 1097049.77,
-            "nr": 66
+            "total_ron": 3123150.12,
+            "nr": 108
           }
         }
       ],
@@ -7775,7 +7942,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1097049.77,
+      "total_achizitii_directe_ron": 3123150.12,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7796,15 +7963,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 55525180,
-            "profit_net": 8251423,
-            "datorii": 52640579,
-            "nr_salariati": 300
+            "an": 2025,
+            "cifra_afaceri": 69470808,
+            "profit_net": 13463586,
+            "datorii": 50838722,
+            "nr_salariati": 288
           },
           "achizitii_directe": {
-            "total_ron": 1097049.77,
-            "nr": 66
+            "total_ron": 3123150.12,
+            "nr": 108
           }
         }
       ],
@@ -7823,7 +7990,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1097049.77,
+      "total_achizitii_directe_ron": 3123150.12,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -7844,15 +8011,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 55525180,
-            "profit_net": 8251423,
-            "datorii": 52640579,
-            "nr_salariati": 300
+            "an": 2025,
+            "cifra_afaceri": 69470808,
+            "profit_net": 13463586,
+            "datorii": 50838722,
+            "nr_salariati": 288
           },
           "achizitii_directe": {
-            "total_ron": 1097049.77,
-            "nr": 66
+            "total_ron": 3123150.12,
+            "nr": 108
           }
         }
       ],
@@ -7892,10 +8059,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3998374,
-            "profit_net": 288879,
-            "datorii": 2110673,
+            "an": 2025,
+            "cifra_afaceri": 5697214,
+            "profit_net": 422394,
+            "datorii": 2103590,
             "nr_salariati": 11
           }
         }
@@ -7933,11 +8100,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6892969,
-            "profit_net": 2008834,
-            "datorii": 1280276,
-            "nr_salariati": 15
+            "an": 2025,
+            "cifra_afaceri": 7639122,
+            "profit_net": 1156774,
+            "datorii": 2203370,
+            "nr_salariati": 17
           }
         }
       ],
@@ -7974,11 +8141,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6892969,
-            "profit_net": 2008834,
-            "datorii": 1280276,
-            "nr_salariati": 15
+            "an": 2025,
+            "cifra_afaceri": 7639122,
+            "profit_net": 1156774,
+            "datorii": 2203370,
+            "nr_salariati": 17
           }
         }
       ],
@@ -8018,11 +8185,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 114261931,
-            "profit_net": 10483921,
-            "datorii": 61779966,
-            "nr_salariati": 627
+            "an": 2025,
+            "cifra_afaceri": 156078795,
+            "profit_net": 21281724,
+            "datorii": 45812569,
+            "nr_salariati": 633
           }
         }
       ],
@@ -8059,11 +8226,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 114261931,
-            "profit_net": 10483921,
-            "datorii": 61779966,
-            "nr_salariati": 627
+            "an": 2025,
+            "cifra_afaceri": 156078795,
+            "profit_net": 21281724,
+            "datorii": 45812569,
+            "nr_salariati": 633
           }
         }
       ],
@@ -8100,11 +8267,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 114261931,
-            "profit_net": 10483921,
-            "datorii": 61779966,
-            "nr_salariati": 627
+            "an": 2025,
+            "cifra_afaceri": 156078795,
+            "profit_net": 21281724,
+            "datorii": 45812569,
+            "nr_salariati": 633
           }
         }
       ],
@@ -8144,11 +8311,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 114261931,
-            "profit_net": 10483921,
-            "datorii": 61779966,
-            "nr_salariati": 627
+            "an": 2025,
+            "cifra_afaceri": 156078795,
+            "profit_net": 21281724,
+            "datorii": 45812569,
+            "nr_salariati": 633
           }
         }
       ],
@@ -8185,10 +8352,10 @@
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 714666,
-            "profit_net": 6557321,
-            "datorii": 727319,
+            "an": 2025,
+            "cifra_afaceri": 402795,
+            "profit_net": 2220547,
+            "datorii": 1414446,
             "nr_salariati": 7
           }
         }
@@ -8229,10 +8396,10 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4426675,
-            "profit_net": 1746846,
-            "datorii": 150462,
+            "an": 2025,
+            "cifra_afaceri": 4324008,
+            "profit_net": 1340349,
+            "datorii": 104320,
             "nr_salariati": 19
           }
         }
@@ -8273,10 +8440,10 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4426675,
-            "profit_net": 1746846,
-            "datorii": 150462,
+            "an": 2025,
+            "cifra_afaceri": 4324008,
+            "profit_net": 1340349,
+            "datorii": 104320,
             "nr_salariati": 19
           }
         }
@@ -8317,10 +8484,10 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4426675,
-            "profit_net": 1746846,
-            "datorii": 150462,
+            "an": 2025,
+            "cifra_afaceri": 4324008,
+            "profit_net": 1340349,
+            "datorii": 104320,
             "nr_salariati": 19
           }
         }
@@ -8361,10 +8528,10 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4426675,
-            "profit_net": 1746846,
-            "datorii": 150462,
+            "an": 2025,
+            "cifra_afaceri": 4324008,
+            "profit_net": 1340349,
+            "datorii": 104320,
             "nr_salariati": 19
           }
         }
@@ -8566,11 +8733,11 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 38869315,
-            "profit_net": 7444785,
-            "datorii": 9832146,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 42546692,
+            "profit_net": 9977747,
+            "datorii": 2537372,
+            "nr_salariati": 123
           }
         }
       ],
@@ -8607,11 +8774,11 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 38869315,
-            "profit_net": 7444785,
-            "datorii": 9832146,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 42546692,
+            "profit_net": 9977747,
+            "datorii": 2537372,
+            "nr_salariati": 123
           }
         }
       ],
@@ -8648,11 +8815,11 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 38869315,
-            "profit_net": 7444785,
-            "datorii": 9832146,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 42546692,
+            "profit_net": 9977747,
+            "datorii": 2537372,
+            "nr_salariati": 123
           }
         }
       ],
@@ -8668,7 +8835,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 182052.8,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8689,15 +8856,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 83401282,
-            "profit_net": 7959820,
-            "datorii": 9935529,
-            "nr_salariati": 606
-          },
-          "achizitii_directe": {
-            "total_ron": 182052.8,
-            "nr": 4
+            "an": 2025,
+            "cifra_afaceri": 105303241,
+            "profit_net": 12790160,
+            "datorii": 41812904,
+            "nr_salariati": 603
           }
         }
       ],
@@ -8713,7 +8876,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 182052.8,
+      "total_achizitii_directe_ron": 0.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8734,15 +8897,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 83401282,
-            "profit_net": 7959820,
-            "datorii": 9935529,
-            "nr_salariati": 606
-          },
-          "achizitii_directe": {
-            "total_ron": 182052.8,
-            "nr": 4
+            "an": 2025,
+            "cifra_afaceri": 105303241,
+            "profit_net": 12790160,
+            "datorii": 41812904,
+            "nr_salariati": 603
           }
         }
       ],
@@ -8779,11 +8938,11 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 6407723,
-            "profit_net": 152821,
-            "datorii": 35964799,
-            "nr_salariati": 60
+            "an": 2025,
+            "cifra_afaceri": 8226119,
+            "profit_net": 614329,
+            "datorii": 32624047,
+            "nr_salariati": 62
           }
         }
       ],
@@ -8823,11 +8982,11 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 264230908,
-            "profit_net": 17706024,
-            "datorii": 163159672,
-            "nr_salariati": 981
+            "an": 2025,
+            "cifra_afaceri": 383276593,
+            "profit_net": 69140553,
+            "datorii": 133791729,
+            "nr_salariati": 1027
           }
         }
       ],
@@ -8850,7 +9009,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 11051677.0,
-      "total_achizitii_directe_ron": 8707509.19,
+      "total_achizitii_directe_ron": 16067249.79,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -8876,8 +9035,8 @@
             "nr": 11
           },
           "achizitii_directe": {
-            "total_ron": 8707509.19,
-            "nr": 1824
+            "total_ron": 16067249.79,
+            "nr": 2653
           }
         }
       ],
@@ -9449,10 +9608,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5721663,
-            "profit_net": 49344,
-            "datorii": 290985,
+            "an": 2025,
+            "cifra_afaceri": 7753767,
+            "profit_net": 301345,
+            "datorii": 447095,
             "nr_salariati": 68
           }
         }
@@ -9493,10 +9652,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5721663,
-            "profit_net": 49344,
-            "datorii": 290985,
+            "an": 2025,
+            "cifra_afaceri": 7753767,
+            "profit_net": 301345,
+            "datorii": 447095,
             "nr_salariati": 68
           }
         }
@@ -9537,10 +9696,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5721663,
-            "profit_net": 49344,
-            "datorii": 290985,
+            "an": 2025,
+            "cifra_afaceri": 7753767,
+            "profit_net": 301345,
+            "datorii": 447095,
             "nr_salariati": 68
           }
         }
@@ -9581,10 +9740,10 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5721663,
-            "profit_net": 49344,
-            "datorii": 290985,
+            "an": 2025,
+            "cifra_afaceri": 7753767,
+            "profit_net": 301345,
+            "datorii": 447095,
             "nr_salariati": 68
           }
         }
@@ -9625,11 +9784,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 5772702,
-            "profit_net": 204748,
-            "datorii": 895573,
-            "nr_salariati": 81
+            "an": 2025,
+            "cifra_afaceri": 7328310,
+            "profit_net": 256231,
+            "datorii": 1219478,
+            "nr_salariati": 87
           }
         }
       ],
@@ -9693,7 +9852,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 263537595.0,
-      "total_achizitii_directe_ron": 775861.86,
+      "total_achizitii_directe_ron": 3752234.6,
       "firme_contracte_autodeclarate": [
         {
           "cui": 17351537,
@@ -9730,8 +9889,8 @@
             "nr": 45
           },
           "achizitii_directe": {
-            "total_ron": 387930.93,
-            "nr": 2
+            "total_ron": 1876117.3,
+            "nr": 10
           }
         },
         {
@@ -9745,8 +9904,8 @@
             "nr": 45
           },
           "achizitii_directe": {
-            "total_ron": 387930.93,
-            "nr": 2
+            "total_ron": 1876117.3,
+            "nr": 10
           }
         }
       ],
@@ -9835,11 +9994,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 9075489,
-            "profit_net": 464029,
-            "datorii": 1310039,
-            "nr_salariati": 62
+            "an": 2025,
+            "cifra_afaceri": 10061005,
+            "profit_net": 677646,
+            "datorii": 1309249,
+            "nr_salariati": 60
           }
         }
       ],
@@ -9879,11 +10038,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 9075489,
-            "profit_net": 464029,
-            "datorii": 1310039,
-            "nr_salariati": 62
+            "an": 2025,
+            "cifra_afaceri": 10061005,
+            "profit_net": 677646,
+            "datorii": 1309249,
+            "nr_salariati": 60
           }
         }
       ],
@@ -9923,11 +10082,11 @@
           "rol": "administrator",
           "sector": "IT & comunicații",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 8718873,
-            "profit_net": 26021,
-            "datorii": 1415444,
-            "nr_salariati": 61
+            "an": 2025,
+            "cifra_afaceri": 6915113,
+            "profit_net": -2115428,
+            "datorii": 1488064,
+            "nr_salariati": 40
           }
         }
       ],
@@ -9943,7 +10102,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 591810.63,
+      "total_achizitii_directe_ron": 1061529.28,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -9964,15 +10123,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 45699368,
-            "profit_net": 4802667,
-            "datorii": 8796841,
-            "nr_salariati": 520
+            "an": 2025,
+            "cifra_afaceri": 42614336,
+            "profit_net": 391073,
+            "datorii": 10598595,
+            "nr_salariati": 495
           },
           "achizitii_directe": {
-            "total_ron": 591810.63,
-            "nr": 85
+            "total_ron": 1061529.28,
+            "nr": 116
           }
         }
       ],
@@ -9995,7 +10154,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 6802140.15,
+      "total_achizitii_directe_ron": 12336592.62,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10016,15 +10175,15 @@
           "rol": "administrator",
           "sector": "IT & comunicații",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 95013930,
-            "profit_net": 27260997,
-            "datorii": 8509006,
-            "nr_salariati": 287
+            "an": 2025,
+            "cifra_afaceri": 104584306,
+            "profit_net": 39755326,
+            "datorii": 10174072,
+            "nr_salariati": 264
           },
           "achizitii_directe": {
-            "total_ron": 6802140.15,
-            "nr": 3254
+            "total_ron": 12336592.62,
+            "nr": 5645
           }
         }
       ],
@@ -10053,7 +10212,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 4666734.0,
-      "total_achizitii_directe_ron": 57016216.83,
+      "total_achizitii_directe_ron": 83487801.06,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10079,8 +10238,8 @@
             "nr": 13
           },
           "achizitii_directe": {
-            "total_ron": 57016216.83,
-            "nr": 1731
+            "total_ron": 83487801.06,
+            "nr": 2256
           }
         }
       ],
@@ -10099,7 +10258,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1857372.35,
+      "total_achizitii_directe_ron": 3649234.86,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10120,15 +10279,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3923884,
-            "profit_net": 64292,
-            "datorii": 428043,
-            "nr_salariati": 45
+            "an": 2025,
+            "cifra_afaceri": 5091250,
+            "profit_net": 170933,
+            "datorii": 329425,
+            "nr_salariati": 46
           },
           "achizitii_directe": {
-            "total_ron": 1857372.35,
-            "nr": 70
+            "total_ron": 3649234.86,
+            "nr": 182
           }
         }
       ],
@@ -10144,7 +10303,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1857372.35,
+      "total_achizitii_directe_ron": 3649234.86,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10165,15 +10324,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3923884,
-            "profit_net": 64292,
-            "datorii": 428043,
-            "nr_salariati": 45
+            "an": 2025,
+            "cifra_afaceri": 5091250,
+            "profit_net": 170933,
+            "datorii": 329425,
+            "nr_salariati": 46
           },
           "achizitii_directe": {
-            "total_ron": 1857372.35,
-            "nr": 70
+            "total_ron": 3649234.86,
+            "nr": 182
           }
         }
       ],
@@ -10189,7 +10348,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1857372.35,
+      "total_achizitii_directe_ron": 3649234.86,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10210,15 +10369,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3923884,
-            "profit_net": 64292,
-            "datorii": 428043,
-            "nr_salariati": 45
+            "an": 2025,
+            "cifra_afaceri": 5091250,
+            "profit_net": 170933,
+            "datorii": 329425,
+            "nr_salariati": 46
           },
           "achizitii_directe": {
-            "total_ron": 1857372.35,
-            "nr": 70
+            "total_ron": 3649234.86,
+            "nr": 182
           }
         }
       ],
@@ -10234,7 +10393,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1857372.35,
+      "total_achizitii_directe_ron": 3649234.86,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10255,15 +10414,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3923884,
-            "profit_net": 64292,
-            "datorii": 428043,
-            "nr_salariati": 45
+            "an": 2025,
+            "cifra_afaceri": 5091250,
+            "profit_net": 170933,
+            "datorii": 329425,
+            "nr_salariati": 46
           },
           "achizitii_directe": {
-            "total_ron": 1857372.35,
-            "nr": 70
+            "total_ron": 3649234.86,
+            "nr": 182
           }
         }
       ],
@@ -10279,7 +10438,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1857372.35,
+      "total_achizitii_directe_ron": 3649234.86,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10300,15 +10459,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 3923884,
-            "profit_net": 64292,
-            "datorii": 428043,
-            "nr_salariati": 45
+            "an": 2025,
+            "cifra_afaceri": 5091250,
+            "profit_net": 170933,
+            "datorii": 329425,
+            "nr_salariati": 46
           },
           "achizitii_directe": {
-            "total_ron": 1857372.35,
-            "nr": 70
+            "total_ron": 3649234.86,
+            "nr": 182
           }
         }
       ],
@@ -10324,7 +10483,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 572147.42,
+      "total_achizitii_directe_ron": 628828.71,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10345,15 +10504,15 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 33339831,
-            "profit_net": 1595119,
-            "datorii": 12693982,
-            "nr_salariati": 347
+            "an": 2025,
+            "cifra_afaceri": 48874766,
+            "profit_net": 1199131,
+            "datorii": 14205782,
+            "nr_salariati": 363
           },
           "achizitii_directe": {
-            "total_ron": 572147.42,
-            "nr": 20
+            "total_ron": 628828.71,
+            "nr": 30
           }
         }
       ],
@@ -10390,11 +10549,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 15177956,
-            "profit_net": -274369,
-            "datorii": 1563460,
-            "nr_salariati": 128
+            "an": 2025,
+            "cifra_afaceri": 17382662,
+            "profit_net": 898814,
+            "datorii": 1527238,
+            "nr_salariati": 125
           }
         }
       ],
@@ -10445,7 +10604,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 414825.36,
+      "total_achizitii_directe_ron": 990697.56,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10466,15 +10625,15 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 2979777,
-            "profit_net": -1559774,
-            "datorii": 5831177,
-            "nr_salariati": 22
+            "an": 2025,
+            "cifra_afaceri": 4975080,
+            "profit_net": -2839684,
+            "datorii": 8994271,
+            "nr_salariati": 28
           },
           "achizitii_directe": {
-            "total_ron": 414825.36,
-            "nr": 67
+            "total_ron": 990697.56,
+            "nr": 129
           }
         }
       ],
@@ -10490,7 +10649,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 414825.36,
+      "total_achizitii_directe_ron": 990697.56,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10511,15 +10670,15 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 2979777,
-            "profit_net": -1559774,
-            "datorii": 5831177,
-            "nr_salariati": 22
+            "an": 2025,
+            "cifra_afaceri": 4975080,
+            "profit_net": -2839684,
+            "datorii": 8994271,
+            "nr_salariati": 28
           },
           "achizitii_directe": {
-            "total_ron": 414825.36,
-            "nr": 67
+            "total_ron": 990697.56,
+            "nr": 129
           }
         }
       ],
@@ -10535,7 +10694,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 414825.36,
+      "total_achizitii_directe_ron": 990697.56,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10556,15 +10715,15 @@
           "rol": "administrator",
           "sector": "Alte sectoare",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 2979777,
-            "profit_net": -1559774,
-            "datorii": 5831177,
-            "nr_salariati": 22
+            "an": 2025,
+            "cifra_afaceri": 4975080,
+            "profit_net": -2839684,
+            "datorii": 8994271,
+            "nr_salariati": 28
           },
           "achizitii_directe": {
-            "total_ron": 414825.36,
-            "nr": 67
+            "total_ron": 990697.56,
+            "nr": 129
           }
         }
       ],
@@ -10645,10 +10804,10 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 2195274,
-            "profit_net": 70886,
-            "datorii": 205701,
+            "an": 2025,
+            "cifra_afaceri": 2487190,
+            "profit_net": -176672,
+            "datorii": 553039,
             "nr_salariati": 21
           }
         }
@@ -10686,10 +10845,10 @@
           "rol": "administrator",
           "sector": "Apă-canal · salubritate",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 2195274,
-            "profit_net": 70886,
-            "datorii": 205701,
+            "an": 2025,
+            "cifra_afaceri": 2487190,
+            "profit_net": -176672,
+            "datorii": 553039,
             "nr_salariati": 21
           }
         }
@@ -10706,7 +10865,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 1088800.0,
+      "total_achizitii_directe_ron": 1388800.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10727,15 +10886,15 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 4949983,
-            "profit_net": 279439,
-            "datorii": 140122,
+            "an": 2025,
+            "cifra_afaceri": 5073513,
+            "profit_net": 307764,
+            "datorii": 238810,
             "nr_salariati": 14
           },
           "achizitii_directe": {
-            "total_ron": 1088800.0,
-            "nr": 12
+            "total_ron": 1388800.0,
+            "nr": 15
           }
         }
       ],
@@ -10758,7 +10917,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 146091.0,
+      "total_achizitii_directe_ron": 556761.0,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10780,8 +10939,8 @@
           "sector": "",
           "financials": null,
           "achizitii_directe": {
-            "total_ron": 146091.0,
-            "nr": 12
+            "total_ron": 556761.0,
+            "nr": 45
           }
         }
       ],
@@ -10800,7 +10959,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 429000.17,
+      "total_achizitii_directe_ron": 697680.92,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10821,15 +10980,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 42394347,
-            "profit_net": 3459944,
-            "datorii": 7657848,
-            "nr_salariati": 179
+            "an": 2025,
+            "cifra_afaceri": 43073529,
+            "profit_net": 1560881,
+            "datorii": 16949975,
+            "nr_salariati": 169
           },
           "achizitii_directe": {
-            "total_ron": 429000.17,
-            "nr": 34
+            "total_ron": 697680.92,
+            "nr": 44
           }
         }
       ],
@@ -10845,7 +11004,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 0,
       "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 429000.17,
+      "total_achizitii_directe_ron": 697680.92,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -10866,15 +11025,15 @@
           "rol": "administrator",
           "sector": "Infrastructură",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 42394347,
-            "profit_net": 3459944,
-            "datorii": 7657848,
-            "nr_salariati": 179
+            "an": 2025,
+            "cifra_afaceri": 43073529,
+            "profit_net": 1560881,
+            "datorii": 16949975,
+            "nr_salariati": 169
           },
           "achizitii_directe": {
-            "total_ron": 429000.17,
-            "nr": 34
+            "total_ron": 697680.92,
+            "nr": 44
           }
         }
       ],
@@ -10911,11 +11070,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 16537422,
-            "profit_net": 54327,
-            "datorii": 3448038,
-            "nr_salariati": 126
+            "an": 2025,
+            "cifra_afaceri": 17701066,
+            "profit_net": -1537772,
+            "datorii": 5137484,
+            "nr_salariati": 118
           }
         }
       ],
@@ -10952,11 +11111,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 16537422,
-            "profit_net": 54327,
-            "datorii": 3448038,
-            "nr_salariati": 126
+            "an": 2025,
+            "cifra_afaceri": 17701066,
+            "profit_net": -1537772,
+            "datorii": 5137484,
+            "nr_salariati": 118
           }
         }
       ],
@@ -10993,11 +11152,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 16537422,
-            "profit_net": 54327,
-            "datorii": 3448038,
-            "nr_salariati": 126
+            "an": 2025,
+            "cifra_afaceri": 17701066,
+            "profit_net": -1537772,
+            "datorii": 5137484,
+            "nr_salariati": 118
           }
         }
       ],
@@ -11034,11 +11193,11 @@
           "rol": "administrator",
           "sector": "Servicii",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 8739080,
-            "profit_net": 58276,
-            "datorii": 2597040,
-            "nr_salariati": 117
+            "an": 2025,
+            "cifra_afaceri": 7917310,
+            "profit_net": 3870,
+            "datorii": 2405513,
+            "nr_salariati": 102
           }
         }
       ],
@@ -11075,11 +11234,11 @@
           "rol": "administrator",
           "sector": "Transport",
           "financials": {
-            "an": 2023,
-            "cifra_afaceri": 165074142,
-            "profit_net": 575907,
-            "datorii": 135263188,
-            "nr_salariati": 1064
+            "an": 2025,
+            "cifra_afaceri": 188879805,
+            "profit_net": 3773547,
+            "datorii": 110508561,
+            "nr_salariati": 1071
           }
         }
       ],
@@ -11095,7 +11254,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 1748681.07,
+      "total_achizitii_directe_ron": 2574648.73,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -11127,8 +11286,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 1748681.07,
-            "nr": 39
+            "total_ron": 2574648.73,
+            "nr": 68
           }
         }
       ],
@@ -11147,7 +11306,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 1748681.07,
+      "total_achizitii_directe_ron": 2574648.73,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13554423,
@@ -11185,8 +11344,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 1748681.07,
-            "nr": 39
+            "total_ron": 2574648.73,
+            "nr": 68
           }
         }
       ],
@@ -11205,7 +11364,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 1748681.07,
+      "total_achizitii_directe_ron": 2574648.73,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -11237,8 +11396,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 1748681.07,
-            "nr": 39
+            "total_ron": 2574648.73,
+            "nr": 68
           }
         }
       ],
@@ -11246,145 +11405,7 @@
         "studii": "Absolvent al Academiei de Studi Economice din Bucuresti, Facultatea de Management, specializarea | EDUCATIE SIFORMARE | Certificat absolvire acreditat CNFPA, Bucuresti (Romania) | Diploma Licenta | Academia de Studi Economice Bucuresti, Facultatea de Management, Bucuresti (Romania) | Management, Specializarea Stinte administrative -- Administratie Publica | Diploma Bacalaureat",
         "experienta": "Experienta antreprenoriala, de afaceri, vanzari, marketing, publicitate in mediul privat ~ 10 ani. | Experienta in administratia publica locala si centrala ~ 11 ani. | Experienta in proiecte cu finantari exteme nerambursabile, fonduri europene - POR, POCA, POIM, | Experienta in domeniul guvemantei corporative si administrarea participatilor statului in societatile pe | Certificari: Manager de proiect, Expert achiziti publice, Fomator. | EXPERIENTAPROFESIONALA | 08/2018 - prezent | Consilier superior/Sef Serviciu/Director | si Tei\" finantat prin POR 2007-2013; | conservare Arcul de Triumf' fina"
       }
-    },
-    {
-      "romega_id": "g:2fdf0695e52ee921",
-      "nume_key": "bogdan costas",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 1748681.07,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "COMPANIA NATIONALA ROMARM SA",
-          "venituri_ron": 1621458
-        },
-        {
-          "tip": "interese",
-          "institutie": "COMPANIA NATIONALA ROMARM SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 13554423,
-          "nume": "COMPANIA NATIONALA ROMARM SA",
-          "rol": "administrator",
-          "sector": "Industrie",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 495120442,
-            "profit_net": 1328205,
-            "datorii": 624762281,
-            "nr_salariati": 72
-          },
-          "contracte_stat": {
-            "total_ron": 133427590.0,
-            "nr": 34
-          },
-          "achizitii_directe": {
-            "total_ron": 1748681.07,
-            "nr": 39
-          }
-        }
-      ],
-      "cv": {
-        "studii": "stabileste principile, cadrul general si procedurile privind formarea, administrarea, angajarea si | asigura stabilirea principilor, a cadrului general si a procedurilor privind formarea, | Educatie si formare | DOCTOR management | I fumizorului de formare | Calificarea / diploma obtinuta | Diploma de licenta- Stinte juridice | UNIVERSITATEATITUMAIORESCU BUCURESTI-FACULTATEADEDREPT | / fumizorului de formare | Diploma de licenta- Management | UNIVERSITATEA DE NORD BAIA MARE- FACULTATEA DE STINTE ECONOMICE | Diploma de licenta- Marketing | I furnizorului de formare | CURSURIDEFORMAREPROFESIONAL",
-        "experienta": "EXPERIENTAPROFESIONALA | Perioada | August 2023- prezent | Functia sau postul ocupat | DIRECTOR GENERAL | Numele si adresa angajatorului | Functia sau postui ocupat | supravegherea activitati directorilor; | lulie 2024- Prezent | CONSILIERPERSONALMINISTRU | activitati de consiliere pe linia proiectelor de finantare gestionate de minister | consiliere privind organizarea de proceduri intene pentru atribuirea de contracte de achizitie | consiliere privind gestionarea proiectelor finantate prin fonduri europene | consiliere pe linia relatiei cu asociatile patronale pe linia organizari si procedur"
-      }
-    },
-    {
-      "romega_id": "g:0128d1a29b69bcd4",
-      "nume_key": "cristian palade radu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 126869
-        },
-        {
-          "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 33620670,
-          "nume": "THERMOENERGY GROUP S.A.",
-          "rol": "administrator",
-          "sector": "Energie",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 153565246,
-            "profit_net": 851185,
-            "datorii": 80171360,
-            "nr_salariati": 338
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:96a0cd4bb7a4051d",
-      "nume_key": "butnaru radu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 838743.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
-          "venituri_ron": 10000
-        },
-        {
-          "tip": "interese",
-          "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 30750004,
-          "nume": "GOLDTERM MANGALIA S.A.",
-          "rol": "administrator",
-          "sector": "Energie",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 16156388,
-            "profit_net": -4789639,
-            "datorii": 10025546,
-            "nr_salariati": 88
-          },
-          "achizitii_directe": {
-            "total_ron": 838743.0,
-            "nr": 27
-          }
-        }
-      ],
-      "cv": null
     }
   ],
-  "parlamentari_companii": 35
+  "parlamentari_companii": 36
 }

@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-27T06:50:36.489139+00:00",
+ "generated_at": "2026-09-27T10:25:31.644177+00:00",
  "sursa": "guvernanta.gov.ro — Guvernul României, registrul companiilor de stat (OUG 109/2011 art. 51)",
  "source_url": "https://guvernanta.gov.ro/data/registry.json",
- "source_generated_at": "2026-09-25T12:49:57.422836Z",
- "source_published_at": "2026-09-25T14:12:31+00:00",
+ "source_generated_at": "2026-09-25T13:49:57.422836Z",
+ "source_published_at": "2026-09-25T14:13:31+00:00",
  "nota": "Date deschise publicate de Guvern. Remunerația = brut lunar declarat, așa cum e raportat (câteva valori par incomplete la sursă). Potrivirea cu graful SOLOMONAR: 'confirmat' = nume + aceeași companie; 'candidat' = nume unic, fără confirmare pe companie (posibilă omonimie). Comparația cu ONRC e un semnal de verificat: registrul ONRC poate fi mai vechi.",
  "n_companii": 121,
  "n_persoane": 586,
@@ -4377,7 +4377,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/5205651/CV_Eduard_Mike.pdf",
    "romega_id": "g:14ffe526ed04a683",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_58e38babf6e48367df",
@@ -4938,7 +4938,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/48790613/CV_Mihaela_Popovici.pdf",
    "romega_id": "g:26d999bdc586841d",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_b410678194f5f1b419",
@@ -5890,7 +5890,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/16054368/CV_Mirel_Alexandru_Marcu.pdf",
    "romega_id": "g:757848a1b163f2f6",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_99275c43021cb57b0a",
@@ -6876,7 +6876,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11054529/CV_Marian_Zamfir.pdf",
    "romega_id": "g:4fa3762e860cbcaa",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_0495e08f89923a128a",
@@ -7301,7 +7301,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/477647/CV_Mirel_Alexandru_Marcu.pdf",
    "romega_id": "g:95eae0120d76b20b",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_1e05043a401db39937",
@@ -7743,7 +7743,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/12397185/CV_Mihai_Constantin.pdf",
    "romega_id": "g:cd2660988b2edab4",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 7
+   "n_omonimi_graf": 8
   },
   {
    "id": "appt_ebbbff6c7a18b09388",
@@ -9613,7 +9613,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14966210/CV_Alexandru_Radu.pdf",
    "romega_id": "g:4dd48b6905affdbc",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 11
+   "n_omonimi_graf": 13
   },
   {
    "id": "appt_e3bf671f6bf69a290e",
@@ -10327,7 +10327,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14814483/CV_Oprea_Dumitru_Oprea.pdf",
    "romega_id": null,
    "potrivire": null,
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_9890de94507e9eb94f",
@@ -12960,9 +12960,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-14",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1590040/CV_Mihai_Ghinescu_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:50b3c54850a4ecf9",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_d8399abe3708d9a3c9",
@@ -13215,9 +13215,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-05-16",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14056826/CV_Razvan_Popescu_Redacted.pdf",
-   "romega_id": "g:7a4494675bda4c5c",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": null,
+   "potrivire": null,
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_9fd740e40ecf10679f",
@@ -13472,7 +13472,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11054545/CV_Gabriel_Popa.pdf",
    "romega_id": "g:284a5d702fdf738c",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 8
+   "n_omonimi_graf": 9
   },
   {
    "id": "appt_66baa0e624a7d83fe1",
@@ -14152,7 +14152,7 @@
    "cv_url": null,
    "romega_id": "g:859a470bb695a846",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 4
+   "n_omonimi_graf": 5
   },
   {
    "id": "appt_5f64edaf5ad40c5f51",
@@ -14305,7 +14305,7 @@
    "cv_url": null,
    "romega_id": "g:c70cf5cc1f13ef05",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 16
+   "n_omonimi_graf": 17
   },
   {
    "id": "appt_84d615b370b1040e1a",
@@ -14322,7 +14322,7 @@
    "cv_url": null,
    "romega_id": "g:c3e9877a280c67da",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_57ac49e53e7e748407",
@@ -14356,7 +14356,7 @@
    "cv_url": null,
    "romega_id": "g:c3e9877a280c67da",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_c8459a480a6aa77671",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:05:51.778301+00:00",
+  "generated_at": "2026-09-27T10:00:52.534263+00:00",
   "sursa": "EFOR / banipartide.ro/subventii (Google Looker Studio)",
   "report_id": "b0177427-ae62-4d70-8c27-0215005733b4",
   "metoda": "batchedDataV2 (createSnapshot:false) via Playwright",
@@ -24,7 +24,7 @@
     "2023": 227417122.82,
     "2024": 382424796.78,
     "2025": 232046000,
-    "2026": 60812603
+    "2026": 91752589
   },
   "subventii": [
     {
@@ -709,49 +709,49 @@
       "an": 2026,
       "luna": null,
       "partid": "AUR",
-      "suma_lei": 11931045
+      "suma_lei": 18001274
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "FDREPTEI",
-      "suma_lei": 271067
+      "suma_lei": 408979
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "PMP",
-      "suma_lei": 285466
+      "suma_lei": 430704
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "PNL",
-      "suma_lei": 10985115
+      "suma_lei": 16574076
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "POT",
-      "suma_lei": 4179091
+      "suma_lei": 6305312
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "PSD",
-      "suma_lei": 20177114
+      "suma_lei": 30442743
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "SOSRO",
-      "suma_lei": 5186559
+      "suma_lei": 7825355
     },
     {
       "an": 2026,
       "luna": null,
       "partid": "USR",
-      "suma_lei": 7797146
+      "suma_lei": 11764146
     }
   ]
 }

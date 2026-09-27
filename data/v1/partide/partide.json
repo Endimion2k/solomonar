@@ -23,9 +23,9 @@
         "2023": 88368577.44,
         "2024": 152956881.99,
         "2025": 76992250,
-        "2026": 20177114
+        "2026": 30442743
       },
-      "total_subventie_lei": 934343605.6200001,
+      "total_subventie_lei": 944609234.6200001,
       "rapoarte_rvc": [
         {
           "an": 2020,
@@ -77,6 +77,12 @@
         },
         {
           "an": 2025,
+          "doc_id": "311428",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/311428",
+          "venituri": null
+        },
+        {
+          "an": 2025,
           "doc_id": "311132",
           "url": "https://legislatie.just.ro/public/DetaliiDocument/311132",
           "venituri": null
@@ -90,7 +96,7 @@
       ],
       "nr_deputati": 89,
       "nr_senatori": 36,
-      "nr_rapoarte_rvc": 10
+      "nr_rapoarte_rvc": 11
     },
     {
       "cod": "PNL",
@@ -113,9 +119,9 @@
         "2023": 74914303.13,
         "2024": 122068753.35,
         "2025": 41917228,
-        "2026": 10985115
+        "2026": 16574076
       },
-      "total_subventie_lei": 618853252.12,
+      "total_subventie_lei": 624442213.12,
       "rapoarte_rvc": [
         {
           "an": 2020,
@@ -170,9 +176,9 @@
         "2023": 40384715.55,
         "2024": 65262218.25,
         "2025": 29752517,
-        "2026": 7797146
+        "2026": 11764146
       },
-      "total_subventie_lei": 284395344.47,
+      "total_subventie_lei": 288362344.47,
       "rapoarte_rvc": [
         {
           "an": 2020,
@@ -211,7 +217,7 @@
           "venituri": 97968.24
         }
       ],
-      "nr_deputati": 40,
+      "nr_deputati": 41,
       "nr_senatori": 19,
       "nr_rapoarte_rvc": 6
     },
@@ -223,9 +229,9 @@
         "2023": 17885105.18,
         "2024": 35751769.23,
         "2025": 45526732,
-        "2026": 11931045
+        "2026": 18001274
       },
-      "total_subventie_lei": 149363594.42000002,
+      "total_subventie_lei": 155433823.42000002,
       "rapoarte_rvc": [
         {
           "an": 2020,
@@ -280,9 +286,9 @@
         "2023": 2523839.23,
         "2024": 2637343.98,
         "2025": 1089287,
-        "2026": 285466
+        "2026": 430704
       },
-      "total_subventie_lei": 42692142.20999999,
+      "total_subventie_lei": 42837380.20999999,
       "rapoarte_rvc": [
         {
           "an": 2020,
@@ -344,9 +350,9 @@
       "cod": "SOS",
       "subventii_pe_an": {
         "2025": 19790977,
-        "2026": 5186559
+        "2026": 7825355
       },
-      "total_subventie_lei": 24977536,
+      "total_subventie_lei": 27616332,
       "rapoarte_rvc": [
         {
           "an": 2022,
@@ -381,9 +387,9 @@
       "cod": "POT",
       "subventii_pe_an": {
         "2025": 15946665,
-        "2026": 4179091
+        "2026": 6305312
       },
-      "total_subventie_lei": 20125756,
+      "total_subventie_lei": 22251977,
       "rapoarte_rvc": [
         {
           "an": 2023,

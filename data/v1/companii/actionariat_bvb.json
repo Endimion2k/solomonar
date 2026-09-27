@@ -28,7 +28,7 @@
         }
       ],
       "procent_stat": 87.7579,
-      "capitalizare_ron": "341.678.193,05",
+      "capitalizare_ron": "350.669.724,44",
       "capital_social_ron": "299.717.713,20"
     },
     {
@@ -43,19 +43,19 @@
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "40.872.803",
-          "procent": 13.5501,
+          "actiuni": "40.458.218",
+          "procent": 13.4127,
           "stat": false
         },
         {
           "actionar": "Pers. Fizice",
-          "actiuni": "11.920.615",
-          "procent": 3.9519,
+          "actiuni": "12.335.200",
+          "procent": 4.0893,
           "stat": false
         }
       ],
       "procent_stat": 82.498,
-      "capitalizare_ron": "20.964.250.633,00",
+      "capitalizare_ron": "15.956.961.992,60",
       "capital_social_ron": "3.016.438.940,00"
     },
     {
@@ -82,7 +82,7 @@
         }
       ],
       "procent_stat": 80.056,
-      "capitalizare_ron": "79.165.251.792,00",
+      "capitalizare_ron": "81.504.225.140,40",
       "capital_social_ron": "4.498.025.670,00"
     },
     {
@@ -109,7 +109,7 @@
         }
       ],
       "procent_stat": 70.0071,
-      "capitalizare_ron": "50.798.672.320,00",
+      "capitalizare_ron": "59.355.049.600,00",
       "capital_social_ron": "3.854.224.000,00"
     },
     {
@@ -136,7 +136,7 @@
         }
       ],
       "procent_stat": 58.7162,
-      "capitalizare_ron": "661.435.139,20",
+      "capitalizare_ron": "642.388.577,60",
       "capital_social_ron": "28.569.842,40"
     },
     {
@@ -163,7 +163,7 @@
         }
       ],
       "procent_stat": 58.6882,
-      "capitalizare_ron": "6.538.640.266,40",
+      "capitalizare_ron": "6.619.273.722,60",
       "capital_social_ron": "733.031.420,00"
     },
     {
@@ -171,26 +171,26 @@
       "nume": "Transgaz",
       "actionari": [
         {
-          "actionar": "STATUL ROMAN PRIN SECRETARIATUL GENERAL AL GUVERNULUI Loc. BUCURESTI, SECTOR 1",
+          "actionar": "STATUL ROMAN PRIN SECRETARIATUL GENERAL AL GUVERNULUI loc. BUCURESTI jud. SECTOR",
           "actiuni": "110.221.440",
           "procent": 58.5096,
           "stat": true
         },
         {
-          "actionar": "Pers. Juridice",
-          "actiuni": "62.922.152",
-          "procent": 33.4015,
+          "actionar": "Pers.Juridice",
+          "actiuni": "62.908.887",
+          "procent": 33.3945,
           "stat": false
         },
         {
-          "actionar": "Pers. Fizice",
-          "actiuni": "15.237.912",
-          "procent": 8.0889,
+          "actionar": "Pers.Fizice",
+          "actiuni": "15.251.177",
+          "procent": 8.0959,
           "stat": false
         }
       ],
       "procent_stat": 58.5096,
-      "capitalizare_ron": "16.558.734.201,60",
+      "capitalizare_ron": "14.015.583.897,60",
       "capital_social_ron": "1.883.815.040,00"
     },
     {
@@ -205,25 +205,25 @@
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "122.302.353",
-          "procent": 18.2179,
+          "actiuni": "123.164.496",
+          "procent": 18.3463,
           "stat": false
         },
         {
-          "actionar": "Pers. Fizice",
-          "actiuni": "120.424.799",
-          "procent": 17.938,
+          "actionar": "Pers.Fizice",
+          "actiuni": "119.852.773",
+          "procent": 17.8528,
           "stat": false
         },
         {
           "actionar": "INFINITY CAPITAL INVESTMENTS SA Loc. BUCURESTI SECTOR 1",
-          "actiuni": "72.685.753",
-          "procent": 10.8269,
+          "actiuni": "72.395.636",
+          "procent": 10.7837,
           "stat": false
         }
       ],
       "procent_stat": 53.0172,
-      "capitalizare_ron": "1.349.389.460,40",
+      "capitalizare_ron": "1.247.346.078,32",
       "capital_social_ron": "67.133.804,00"
     },
     {
@@ -238,19 +238,19 @@
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "156.431.367",
-          "procent": 46.0698,
+          "actiuni": "156.744.837",
+          "procent": 46.1622,
           "stat": false
         },
         {
           "actionar": "Pers. Fizice",
-          "actiuni": "14.075.338",
-          "procent": 4.1453,
+          "actiuni": "13.761.868",
+          "procent": 4.0529,
           "stat": false
         }
       ],
       "procent_stat": 49.7849,
-      "capitalizare_ron": "12.206.930.493,80",
+      "capitalizare_ron": "16.892.761.949,00",
       "capital_social_ron": "3.395.530.040,00"
     },
     {
@@ -265,25 +265,25 @@
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "15.169.128.205",
-          "procent": 24.344,
+          "actiuni": "14.990.576.805",
+          "procent": 24.0575,
           "stat": false
         },
         {
-          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc. BUCURESTI SECTOR 1",
+          "actionar": "STATUL ROMAN PRIN MINISTERUL ENERGIEI Loc BUCURESTI SECTOR 1",
           "actiuni": "12.897.296.810",
           "procent": 20.698,
           "stat": true
         },
         {
           "actionar": "Pers. Fizice",
-          "actiuni": "2.368.562.260",
-          "procent": 3.8012,
+          "actiuni": "2.547.113.660",
+          "procent": 4.0877,
           "stat": false
         }
       ],
       "procent_stat": 20.698,
-      "capitalizare_ron": "64.181.017.069,74",
+      "capitalizare_ron": "72.780.027.123,74",
       "capital_social_ron": "6.231.166.705,80"
     },
     {
@@ -291,26 +291,32 @@
       "nume": "Fondul Proprietatea",
       "actionari": [
         {
-          "actionar": "Pers. Fizice",
-          "actiuni": "1.929.189.247",
-          "procent": 60.2724,
+          "actionar": "Pers.Fizice",
+          "actiuni": "1.543.732.122",
+          "procent": 48.2298,
           "stat": false
         },
         {
-          "actionar": "Pers. Juridice",
-          "actiuni": "901.139.071",
-          "procent": 28.1537,
+          "actionar": "Pers.Juridice",
+          "actiuni": "707.730.649",
+          "procent": 22.1112,
           "stat": false
         },
         {
-          "actionar": "MINISTERUL FINANTELOR PUBLICE Loc. BUCURESTI, SECTOR 5",
+          "actionar": "LION CAPITAL S.A. loc. BUCURESTI jud. SECTOR 2",
+          "actiuni": "578.865.547",
+          "procent": 18.0851,
+          "stat": false
+        },
+        {
+          "actionar": "MINISTERUL FINANTELOR PUBLICE loc. BUCURESTI jud. SECTOR 5",
           "actiuni": "370.456.198",
           "procent": 11.5739,
           "stat": true
         }
       ],
       "procent_stat": 11.5739,
-      "capitalizare_ron": "1.878.860.510,89",
+      "capitalizare_ron": "1.904.466.787,02",
       "capital_social_ron": "1.664.407.948,32"
     },
     {
@@ -318,13 +324,13 @@
       "nume": "Alro",
       "actionari": [
         {
-          "actionar": "VIMETCO PLC Loc. NICOSIA CYP",
+          "actionar": "VIMETCO PLC. Loc. NICOSIA CYP",
           "actiuni": "386.795.344",
           "procent": 54.1897,
           "stat": false
         },
         {
-          "actionar": "S. PAVAL HOLDING SRL Loc. BACAU, Jud. BACAU",
+          "actionar": "PAVAL HOLDING SRL Loc. BACAU, Jud. BACAU",
           "actiuni": "165.679.915",
           "procent": 23.2116,
           "stat": false
@@ -336,20 +342,32 @@
           "stat": true
         },
         {
-          "actionar": "Pers. Juridice",
-          "actiuni": "66.494.502",
-          "procent": 9.316,
+          "actionar": "Pers. Fizice",
+          "actiuni": "27.443.978",
+          "procent": 3.8451,
           "stat": false
         },
         {
-          "actionar": "Pers. Fizice",
-          "actiuni": "21.924.660",
-          "procent": 3.0716,
+          "actionar": "FONDUL DE PENSII ADMINISTRAT PRIVAT NN Loc. BUCURESTI",
+          "actiuni": "26.249.590",
+          "procent": 3.6775,
+          "stat": false
+        },
+        {
+          "actionar": "AZT VIITORUL TAU FOND DE PENSII ADMINISTRAT PRIVAT Loc. BUCURESTI",
+          "actiuni": "22.076.265",
+          "procent": 3.0928,
+          "stat": false
+        },
+        {
+          "actionar": "Pers. Juridice",
+          "actiuni": "12.649.329",
+          "procent": 1.7722,
           "stat": false
         }
       ],
       "procent_stat": 10.2111,
-      "capitalizare_ron": "1.049.255.328,45",
+      "capitalizare_ron": "992.152.997,65",
       "capital_social_ron": "356.889.567,50"
     },
     {
@@ -357,15 +375,15 @@
       "nume": "Socep",
       "actionari": [
         {
-          "actionar": "GRUPUL DD SA Loc. CONSTANTA, Jud. CONSTANTA",
-          "actiuni": "391.617.924",
-          "procent": 61.2163,
+          "actionar": "GRUPUL DD S.A. loc. CONSTANTA jud. CONSTANTA",
+          "actiuni": "391.620.000",
+          "procent": 61.2166,
           "stat": false
         },
         {
-          "actionar": "Pers. Fizice",
-          "actiuni": "125.649.689",
-          "procent": 19.6412,
+          "actionar": "Pers.Fizice",
+          "actiuni": "125.672.613",
+          "procent": 19.6448,
           "stat": false
         },
         {
@@ -375,14 +393,14 @@
           "stat": false
         },
         {
-          "actionar": "Pers. Juridice",
-          "actiuni": "42.862.407",
-          "procent": 6.7001,
+          "actionar": "Pers.Juridice",
+          "actiuni": "42.837.407",
+          "procent": 6.6962,
           "stat": false
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "1.119.523.132,00",
+      "capitalizare_ron": "1.209.084.982,56",
       "capital_social_ron": "63.972.750,40"
     },
     {
@@ -390,9 +408,9 @@
       "nume": "Compa",
       "actionari": [
         {
-          "actionar": "Pers. Fizice",
-          "actiuni": "95.000.765",
-          "procent": 43.415,
+          "actionar": "Pers.Fizice",
+          "actiuni": "93.909.313",
+          "procent": 42.916,
           "stat": false
         },
         {
@@ -402,26 +420,26 @@
           "stat": false
         },
         {
-          "actionar": "TRANSILVANIA INVESTMENTS ALLIANCE SA Loc. BRASOV, Jud. BRASOV",
+          "actionar": "TRANSILVANIA INVESTMENTS ALLIANCE S.A. loc. BRASOV jud. BRASOV",
           "actiuni": "30.915.137",
           "procent": 14.128,
           "stat": false
         },
         {
-          "actionar": "Pers. Juridice",
-          "actiuni": "25.957.259",
-          "procent": 11.8623,
+          "actionar": "Pers.Juridice",
+          "actiuni": "27.048.711",
+          "procent": 12.3613,
           "stat": false
         },
         {
-          "actionar": "BAIASU VOICHITA MARIA",
+          "actionar": "BAIASU VOICHITA-MARIA",
           "actiuni": "25.002.625",
           "procent": 11.426,
           "stat": false
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "161.052.283,97",
+      "capitalizare_ron": "146.610.095,46",
       "capital_social_ron": "21.882.103,80"
     },
     {
@@ -436,25 +454,25 @@
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "718.815.432",
-          "procent": 23.9487,
+          "actiuni": "736.582.225",
+          "procent": 24.5406,
           "stat": false
         },
         {
           "actionar": "Pers. Fizice",
-          "actiuni": "516.412.327",
-          "procent": 17.2051,
+          "actiuni": "498.645.534",
+          "procent": 16.6132,
           "stat": false
         },
         {
-          "actionar": "FONDUL DE PENSII ADMINISTRAT PRIVA NN Loc. BUCURESTI",
+          "actionar": "FONDUL DE PENSII ADMINISTRAT PRIVAT NN Loc. BUCURESTI",
           "actiuni": "360.664.871",
           "procent": 12.0161,
           "stat": false
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "1.317.658.696,67",
+      "capitalizare_ron": "1.112.055.915,98",
       "capital_social_ron": "300.150.044,80"
     },
     {
@@ -487,7 +505,7 @@
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "193.620.866,40",
+      "capitalizare_ron": "180.824.085,00",
       "capital_social_ron": "27.819.090,00"
     }
   ]

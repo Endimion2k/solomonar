@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T14:52:35.264825Z",
+    "generated_at": "2026-09-27T09:10:58.985652Z",
     "source_url": "cdep.ro",
     "scraper_version": "0.1.0",
-    "count": 335
+    "count": 336
   },
   "data": [
     {
@@ -58,7 +58,7 @@
       "judet": "Bacău",
       "circumscriptie": 4,
       "current_party": "Alianța pentru Unirea Românilor - până în apr. 2025 Fără adeziune la formațiunea politică AUR pentru care a candidat la alegeri - din apr. 2025",
-      "current_group": "Grupul parlamentar AUR - membru până în apr. 2025 Deputați neafiliați - membru din apr. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) - membru până în apr. 2025 Deputați neafiliați - membru din apr. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=5&cam=2&leg=2024"
     },
@@ -86,7 +86,7 @@
       "judet": "Giurgiu",
       "circumscriptie": 19,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=7&cam=2&leg=2024"
     },
@@ -156,7 +156,7 @@
       "judet": "Prahova",
       "circumscriptie": 31,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=13&cam=2&leg=2024"
     },
@@ -175,6 +175,20 @@
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=14&cam=2&leg=2024"
     },
     {
+      "cdep_idm": 336,
+      "name": "Badea Mihai-Alexandru",
+      "given_name": "Mihai-Alexandru",
+      "family_name": "Badea",
+      "birth_date": "1985-09-25",
+      "gender": "male",
+      "judet": "București",
+      "circumscriptie": 42,
+      "current_party": "Uniunea Salvați România",
+      "current_group": null,
+      "legislatura": 2024,
+      "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=336&cam=2&leg=2024"
+    },
+    {
       "cdep_idm": 15,
       "name": "Badea Nelu-Valentin",
       "given_name": "Nelu-Valentin",
@@ -184,7 +198,7 @@
       "judet": "Teleorman",
       "circumscriptie": 36,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=15&cam=2&leg=2024"
     },
@@ -198,7 +212,7 @@
       "judet": "Vrancea",
       "circumscriptie": 41,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=16&cam=2&leg=2024"
     },
@@ -254,7 +268,7 @@
       "judet": "Hunedoara",
       "circumscriptie": 22,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=20&cam=2&leg=2024"
     },
@@ -296,7 +310,7 @@
       "judet": "București",
       "circumscriptie": 42,
       "current_party": "Alianța pentru Unirea Românilor - până în mar. 2025 Fără adeziune la formațiunea politică AUR pentru care a candidat la alegeri - din mar. 2025",
-      "current_group": "Grupul parlamentar AUR - membru până în mar. 2025 Deputați neafiliați - membru din mar. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) - membru până în mar. 2025 Deputați neafiliați - membru din mar. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=23&cam=2&leg=2024"
     },
@@ -352,7 +366,7 @@
       "judet": "Mureș",
       "circumscriptie": 28,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=27&cam=2&leg=2024"
     },
@@ -408,7 +422,7 @@
       "judet": "Maramureș",
       "circumscriptie": 26,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=31&cam=2&leg=2024"
     },
@@ -436,7 +450,7 @@
       "judet": "Galați",
       "circumscriptie": 18,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=33&cam=2&leg=2024"
     },
@@ -464,7 +478,7 @@
       "judet": "Bistrița-Năsăud",
       "circumscriptie": 6,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=35&cam=2&leg=2024"
     },
@@ -506,7 +520,7 @@
       "judet": "Cluj",
       "circumscriptie": 13,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider - din feb. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider - din feb. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=38&cam=2&leg=2024"
     },
@@ -632,7 +646,7 @@
       "judet": "Argeș",
       "circumscriptie": 3,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=47&cam=2&leg=2024"
     },
@@ -716,7 +730,7 @@
       "judet": "Maramureș",
       "circumscriptie": 26,
       "current_party": "Partidul Social Democrat",
-      "current_group": "Grupul parlamentar al Partidului Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat - membru din sep. 2026 Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=53&cam=2&leg=2024"
     },
@@ -800,7 +814,7 @@
       "judet": "Maramureș",
       "circumscriptie": 26,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=60&cam=2&leg=2024"
     },
@@ -897,8 +911,8 @@
       "gender": "female",
       "judet": "- Circumscriptia Electorala Pentru Cetatenii Români Cu Domiciliul În Afara Tarii",
       "circumscriptie": 43,
-      "current_party": "Partidul S.O.S. România",
-      "current_group": "Grupul parlamentar SOS România Vicelider - până în mar. 2025 Vicelider - din feb. 2026",
+      "current_party": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formațiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
+      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2026 Vicelider - până în mar. 2025 Vicelider - din feb. 2026 - până în iun. 2026 Deputați neafiliați - membru din iun. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=67&cam=2&leg=2024"
     },
@@ -912,7 +926,7 @@
       "judet": "Brăila",
       "circumscriptie": 9,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=68&cam=2&leg=2024"
     },
@@ -926,7 +940,7 @@
       "judet": "Botoșani",
       "circumscriptie": 7,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=69&cam=2&leg=2024"
     },
@@ -968,7 +982,7 @@
       "judet": "Cluj",
       "circumscriptie": 13,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=72&cam=2&leg=2024"
     },
@@ -996,7 +1010,7 @@
       "judet": "Călărași",
       "circumscriptie": 12,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=74&cam=2&leg=2024"
     },
@@ -1009,8 +1023,8 @@
       "gender": "female",
       "judet": "Brăila",
       "circumscriptie": 9,
-      "current_party": "Partidul S.O.S. România - până în sep. 2025 Fără adeziune la formațiunea politică pentru care a candidat la alegeri - din sep. 2025 Indep.",
-      "current_group": "Grupul parlamentar SOS România - membru până în sep. 2025 Grupul parlamentar AUR - membru afiliat din sep. 2025",
+      "current_party": "Partidul S.O.S. România - până în sep. 2025 Indep. Fără adeziune la formațiunea politică SOS pentru care a candidat la alegeri - din sep. 2025",
+      "current_group": "Grupul parlamentar SOS România - membru până în sep. 2025 Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) - membru afiliat din sep. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=75&cam=2&leg=2024"
     },
@@ -1052,9 +1066,23 @@
       "judet": "Giurgiu",
       "circumscriptie": 19,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider - din feb. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider - din feb. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=78&cam=2&leg=2024"
+    },
+    {
+      "cdep_idm": 116,
+      "name": "Cotea Aurora-Adela",
+      "given_name": "Aurora-Adela",
+      "family_name": "Cotea",
+      "birth_date": "1979-02-28",
+      "gender": "female",
+      "judet": "Dolj",
+      "circumscriptie": 17,
+      "current_party": "Partidul Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat",
+      "legislatura": 2024,
+      "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=116&cam=2&leg=2024"
     },
     {
       "cdep_idm": 79,
@@ -1206,7 +1234,7 @@
       "judet": "Iași",
       "circumscriptie": 24,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=89&cam=2&leg=2024"
     },
@@ -1234,7 +1262,7 @@
       "judet": "Tulcea",
       "circumscriptie": 38,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=91&cam=2&leg=2024"
     },
@@ -1248,7 +1276,7 @@
       "judet": "Mureș",
       "circumscriptie": 28,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=92&cam=2&leg=2024"
     },
@@ -1346,7 +1374,7 @@
       "judet": "Bacău",
       "circumscriptie": 4,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=99&cam=2&leg=2024"
     },
@@ -1360,7 +1388,7 @@
       "judet": "București",
       "circumscriptie": 42,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Lider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Lider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024"
     },
@@ -1374,7 +1402,7 @@
       "judet": "Vaslui",
       "circumscriptie": 39,
       "current_party": "Partidul S.O.S. România - până în aug. 2025 Fără adeziune la formațiunea politică SOS pentru care a candidat la alegeri - din aug. 2025",
-      "current_group": "Grupul parlamentar SOS România - membru până în aug. 2025 Vicelider Deputați neafiliați - membru din aug. 2025",
+      "current_group": "Grupul parlamentar SOS România - membru până în aug. 2025 Vicelider Deputați neafiliați - membru din aug. 2025 - membru până în iun. 2026 Grupul parlamentar Uniți pentru România - membru din iun. 2026 - membru până în sep. 2026 Deputați neafiliați - membru din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=101&cam=2&leg=2024"
     },
@@ -1402,7 +1430,7 @@
       "judet": "Constanța",
       "circumscriptie": 14,
       "current_party": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formațiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
-      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2025 Vicelider Deputați neafiliați - membru din iun. 2025",
+      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2025 Vicelider Deputați neafiliați - membru din iun. 2025 - membru până în iun. 2026 Grupul parlamentar Uniți pentru România - membru din iun. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=103&cam=2&leg=2024"
     },
@@ -1472,7 +1500,7 @@
       "judet": "Teleorman",
       "circumscriptie": 36,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024"
     },
@@ -1575,20 +1603,6 @@
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=115&cam=2&leg=2024"
     },
     {
-      "cdep_idm": 116,
-      "name": "Geamanu Aurora-Adela",
-      "given_name": "Aurora-Adela",
-      "family_name": "Geamanu",
-      "birth_date": "1979-02-28",
-      "gender": "female",
-      "judet": "Dolj",
-      "circumscriptie": 17,
-      "current_party": "Partidul Social Democrat",
-      "current_group": "Grupul parlamentar al Partidului Social Democrat",
-      "legislatura": 2024,
-      "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=116&cam=2&leg=2024"
-    },
-    {
       "cdep_idm": 117,
       "name": "Georgescu Gheorghe-Daniel",
       "given_name": "Gheorghe-Daniel",
@@ -1626,7 +1640,7 @@
       "judet": "Dolj",
       "circumscriptie": 17,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=119&cam=2&leg=2024"
     },
@@ -1640,7 +1654,7 @@
       "judet": "Călărași",
       "circumscriptie": 12,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=120&cam=2&leg=2024"
     },
@@ -1682,7 +1696,7 @@
       "judet": "Vaslui",
       "circumscriptie": 39,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=123&cam=2&leg=2024"
     },
@@ -1766,7 +1780,7 @@
       "judet": "Argeș",
       "circumscriptie": 3,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din feb. 2025",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din feb. 2025 - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=129&cam=2&leg=2024"
     },
@@ -1836,7 +1850,7 @@
       "judet": "Suceava",
       "circumscriptie": 35,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=134&cam=2&leg=2024"
     },
@@ -1864,7 +1878,7 @@
       "judet": "Iași",
       "circumscriptie": 24,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=136&cam=2&leg=2024"
     },
@@ -1878,7 +1892,7 @@
       "judet": "Prahova",
       "circumscriptie": 31,
       "current_party": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formațiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep. Alianța pentru Unirea Românilor - din sep. 2025",
-      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2025 Grupul parlamentar AUR - membru din sep. 2025 ( afiliat din iun. 2025 -până în sep. 2025 )",
+      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2025 Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) - membru din sep. 2025 ( afiliat din iun. 2025 -până în sep. 2025 )",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=137&cam=2&leg=2024"
     },
@@ -1948,7 +1962,7 @@
       "judet": "Constanța",
       "circumscriptie": 14,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=142&cam=2&leg=2024"
     },
@@ -1976,7 +1990,7 @@
       "judet": "Satu-Mare",
       "circumscriptie": 32,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=144&cam=2&leg=2024"
     },
@@ -2102,7 +2116,7 @@
       "judet": "Dolj",
       "circumscriptie": 17,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024"
     },
@@ -2214,7 +2228,7 @@
       "judet": "Mehedinți",
       "circumscriptie": 27,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=162&cam=2&leg=2024"
     },
@@ -2368,7 +2382,7 @@
       "judet": "- Circumscriptia Electorala Pentru Cetatenii Români Cu Domiciliul În Afara Tarii",
       "circumscriptie": 43,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=173&cam=2&leg=2024"
     },
@@ -2550,7 +2564,7 @@
       "judet": "Alba",
       "circumscriptie": 1,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=185&cam=2&leg=2024"
     },
@@ -2592,7 +2606,7 @@
       "judet": "Caraș-Severin",
       "circumscriptie": 11,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024"
     },
@@ -2662,7 +2676,7 @@
       "judet": "Olt",
       "circumscriptie": 30,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=193&cam=2&leg=2024"
     },
@@ -2746,7 +2760,7 @@
       "judet": "Neamț",
       "circumscriptie": 29,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=200&cam=2&leg=2024"
     },
@@ -2760,7 +2774,7 @@
       "judet": "Vâlcea",
       "circumscriptie": 40,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=201&cam=2&leg=2024"
     },
@@ -2886,7 +2900,7 @@
       "judet": "Buzău",
       "circumscriptie": 10,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=210&cam=2&leg=2024"
     },
@@ -2900,7 +2914,7 @@
       "judet": "Dâmbovița",
       "circumscriptie": 16,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024"
     },
@@ -2914,7 +2928,7 @@
       "judet": "Constanța",
       "circumscriptie": 14,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=212&cam=2&leg=2024"
     },
@@ -2956,7 +2970,7 @@
       "judet": "Sălaj",
       "circumscriptie": 33,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=215&cam=2&leg=2024"
     },
@@ -2997,8 +3011,8 @@
       "gender": "male",
       "judet": "Arad",
       "circumscriptie": 2,
-      "current_party": "Partidul S.O.S. România",
-      "current_group": "Grupul parlamentar SOS România Vicelider - din feb. 2025 - până în mar. 2025 Vicelider - din sep. 2025 - până în feb. 2026",
+      "current_party": "Partidul S.O.S. România - până în iun. 2026 Fără adeziune la formațiunea politică SOS pentru care a candidat la alegeri - din iun. 2026",
+      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2026 Vicelider - din feb. 2025 - până în mar. 2025 Vicelider - din sep. 2025 - până în feb. 2026 Deputați neafiliați - membru din iun. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024"
     },
@@ -3031,20 +3045,6 @@
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024"
     },
     {
-      "cdep_idm": 220,
-      "name": "Nasui Claudiu-Iulius-Gavril",
-      "given_name": "Claudiu-Iulius-Gavril",
-      "family_name": "Nasui",
-      "birth_date": "1985-05-05",
-      "gender": "male",
-      "judet": "București",
-      "circumscriptie": 42,
-      "current_party": "Uniunea Salvați România",
-      "current_group": "Grupul parlamentar al Uniunii Salvați România",
-      "legislatura": 2024,
-      "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=220&cam=2&leg=2024"
-    },
-    {
       "cdep_idm": 221,
       "name": "Neacsu Andreea-Firuta",
       "given_name": "Andreea-Firuta",
@@ -3054,7 +3054,7 @@
       "judet": "Neamț",
       "circumscriptie": 29,
       "current_party": "Alianța pentru Unirea Românilor - până în iun. 2025 Fără adeziune la formațiunea politică pentru care a candidat la alegeri - din iun. 2025 - până în sep. 2025 Indep.",
-      "current_group": "Grupul parlamentar AUR - membru până în iun. 2025 Deputați neafiliați - membru din iun. 2025 - membru până în sep. 2025 Grupul parlamentar al Partidului Național Liberal - membru din sep. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) - membru până în iun. 2025 Deputați neafiliați - membru din iun. 2025 - membru până în sep. 2025 Grupul parlamentar al Partidului Național Liberal - membru din sep. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=221&cam=2&leg=2024"
     },
@@ -3096,7 +3096,7 @@
       "judet": "Bihor",
       "circumscriptie": 5,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=224&cam=2&leg=2024"
     },
@@ -3138,7 +3138,7 @@
       "judet": "Timiș",
       "circumscriptie": 37,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=227&cam=2&leg=2024"
     },
@@ -3152,7 +3152,7 @@
       "judet": "Suceava",
       "circumscriptie": 35,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=228&cam=2&leg=2024"
     },
@@ -3180,7 +3180,7 @@
       "judet": "Ialomița",
       "circumscriptie": 23,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=230&cam=2&leg=2024"
     },
@@ -3250,7 +3250,7 @@
       "judet": "Iași",
       "circumscriptie": 24,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=235&cam=2&leg=2024"
     },
@@ -3292,7 +3292,7 @@
       "judet": "Arad",
       "circumscriptie": 2,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=238&cam=2&leg=2024"
     },
@@ -3320,7 +3320,7 @@
       "judet": "Constanța",
       "circumscriptie": 14,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider - până în feb. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider - până în feb. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=240&cam=2&leg=2024"
     },
@@ -3432,7 +3432,7 @@
       "judet": "Dâmbovița",
       "circumscriptie": 16,
       "current_party": "Partidul Social Democrat",
-      "current_group": "Grupul parlamentar al Partidului Social Democrat",
+      "current_group": "Grupul parlamentar al Partidului Social Democrat - membru până în iun. 2026 Grupul parlamentar Uniți pentru România - membru din iun. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=248&cam=2&leg=2024"
     },
@@ -3530,7 +3530,7 @@
       "judet": "Vâlcea",
       "circumscriptie": 40,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=255&cam=2&leg=2024"
     },
@@ -3544,7 +3544,7 @@
       "judet": "Timiș",
       "circumscriptie": 37,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024"
     },
@@ -3586,7 +3586,7 @@
       "judet": "Gorj",
       "circumscriptie": 20,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=258&cam=2&leg=2024"
     },
@@ -3628,7 +3628,7 @@
       "judet": "Suceava",
       "circumscriptie": 35,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Secretar",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Secretar - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=261&cam=2&leg=2024"
     },
@@ -3642,7 +3642,7 @@
       "judet": "Prahova",
       "circumscriptie": 31,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=262&cam=2&leg=2024"
     },
@@ -3656,7 +3656,7 @@
       "judet": "Sibiu",
       "circumscriptie": 34,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=263&cam=2&leg=2024"
     },
@@ -3880,7 +3880,7 @@
       "judet": "București",
       "circumscriptie": 42,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=279&cam=2&leg=2024"
     },
@@ -4006,7 +4006,7 @@
       "judet": "Dolj",
       "circumscriptie": 17,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=288&cam=2&leg=2024"
     },
@@ -4020,7 +4020,7 @@
       "judet": "București",
       "circumscriptie": 42,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - până în sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024"
     },
@@ -4118,7 +4118,7 @@
       "judet": "Ilfov",
       "circumscriptie": 25,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=296&cam=2&leg=2024"
     },
@@ -4146,7 +4146,7 @@
       "judet": "Brașov",
       "circumscriptie": 8,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=298&cam=2&leg=2024"
     },
@@ -4188,7 +4188,7 @@
       "judet": "Teleorman",
       "circumscriptie": 36,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=301&cam=2&leg=2024"
     },
@@ -4230,7 +4230,7 @@
       "judet": "Tulcea",
       "circumscriptie": 38,
       "current_party": "Partidul S.O.S. România",
-      "current_group": "Grupul parlamentar SOS România Secretar - din feb. 2026",
+      "current_group": "Grupul parlamentar SOS România Secretar - din feb. 2026 - până în sep. 2026 Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024"
     },
@@ -4286,7 +4286,7 @@
       "judet": "Sibiu",
       "circumscriptie": 34,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din sep. 2025",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din sep. 2025 - până în sep. 2026 Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024"
     },
@@ -4328,7 +4328,7 @@
       "judet": "Bihor",
       "circumscriptie": 5,
       "current_party": "Partidul Național Liberal",
-      "current_group": "Grupul parlamentar al Partidului Național Liberal",
+      "current_group": "Grupul parlamentar al Partidului Național Liberal Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=311&cam=2&leg=2024"
     },
@@ -4384,7 +4384,7 @@
       "judet": "București",
       "circumscriptie": 42,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=315&cam=2&leg=2024"
     },
@@ -4426,7 +4426,7 @@
       "judet": "Arad",
       "circumscriptie": 2,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=335&cam=2&leg=2024"
     },
@@ -4440,7 +4440,7 @@
       "judet": "București",
       "circumscriptie": 42,
       "current_party": "Partidul S.O.S. România - până în iun. 2025 Fără adeziune la formațiunea politică SOS pentru care a candidat la alegeri - din iun. 2025",
-      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2025 Vicelider - până în mar. 2025 Deputați neafiliați - membru din iun. 2025",
+      "current_group": "Grupul parlamentar SOS România - membru până în iun. 2025 Vicelider - până în mar. 2025 Deputați neafiliați - membru din iun. 2025 - membru până în iun. 2026 Grupul parlamentar Uniți pentru România - membru din iun. 2026 Vicelider - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=318&cam=2&leg=2024"
     },
@@ -4482,7 +4482,7 @@
       "judet": "Argeș",
       "circumscriptie": 3,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR Vicelider - din sep. 2025",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR) Vicelider - din sep. 2025",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=321&cam=2&leg=2024"
     },
@@ -4510,7 +4510,7 @@
       "judet": "Bihor",
       "circumscriptie": 5,
       "current_party": "Partidul S.O.S. România",
-      "current_group": "Grupul parlamentar SOS România Vicelider - din feb. 2026",
+      "current_group": "Grupul parlamentar SOS România Vicelider - din feb. 2026 - până în sep. 2026 Secretar - din sep. 2026",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=323&cam=2&leg=2024"
     },
@@ -4538,7 +4538,7 @@
       "judet": "Galați",
       "circumscriptie": 18,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=325&cam=2&leg=2024"
     },
@@ -4692,9 +4692,23 @@
       "judet": "Arad",
       "circumscriptie": 2,
       "current_party": "Alianța pentru Unirea Românilor",
-      "current_group": "Grupul parlamentar AUR",
+      "current_group": "Grupul parlamentar al Aliaței pentru Unirea Românilor (AUR)",
       "legislatura": 2024,
       "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=11&cam=2&leg=2024"
+    },
+    {
+      "cdep_idm": 220,
+      "name": "Nasui Claudiu-Iulius-Gavril",
+      "given_name": "Claudiu-Iulius-Gavril",
+      "family_name": "Nasui",
+      "birth_date": "1985-05-05",
+      "gender": "male",
+      "judet": "București",
+      "circumscriptie": 42,
+      "current_party": "Uniunea Salvați România",
+      "current_group": "Grupul parlamentar al Uniunii Salvați România",
+      "legislatura": 2024,
+      "profile_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=220&cam=2&leg=2024"
     }
   ]
 }

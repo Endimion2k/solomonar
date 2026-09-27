@@ -95,8 +95,8 @@
           "rol": "Membru"
         },
         {
-          "nume": "TĂNĂSESCU Alina-Elena",
-          "parlamentar_id": "BE0ED528-F7E8-43F5-A47E-E2F52E95A17C",
+          "nume": "PĂDURARU Răducu-Adrian",
+          "parlamentar_id": "57A5F4D6-EC10-4020-8424-958ED09FBF37",
           "rol": "Preşedinte"
         },
         {
@@ -326,8 +326,8 @@
       "nume": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
       "membri": [
         {
-          "nume": "PAULIUC Nicoleta",
-          "parlamentar_id": "737C18E7-C031-4D78-8808-9588B964E893",
+          "nume": "COȘA Silviu-Iulian",
+          "parlamentar_id": "C4A7837D-5479-4AAD-82BC-34C696B71339",
           "rol": "Membru"
         },
         {
@@ -336,8 +336,8 @@
           "rol": "Preşedinte"
         },
         {
-          "nume": "COȘA Silviu-Iulian",
-          "parlamentar_id": "C4A7837D-5479-4AAD-82BC-34C696B71339",
+          "nume": "MARIAN Călin-Petru",
+          "parlamentar_id": "509068B6-ECF9-4365-A022-74B77483CE14",
           "rol": "Vicepreşedinte"
         },
         {
@@ -396,13 +396,13 @@
           "rol": "Membru"
         },
         {
-          "nume": "TUROS Lóránd",
-          "parlamentar_id": "3354F56C-A3E7-4CEA-9DDE-E3BD730D7B7F",
+          "nume": "PAULIUC Nicoleta",
+          "parlamentar_id": "737C18E7-C031-4D78-8808-9588B964E893",
           "rol": "Membru"
         },
         {
-          "nume": "VEŞTEA Mihail",
-          "parlamentar_id": "70753DDE-D7A5-47B2-859D-EEE551CE150F",
+          "nume": "TUROS Lóránd",
+          "parlamentar_id": "3354F56C-A3E7-4CEA-9DDE-E3BD730D7B7F",
           "rol": "Membru"
         },
         {
@@ -418,8 +418,8 @@
       "nume": "Comisia pentru afaceri europene",
       "membri": [
         {
-          "nume": "CUȘNIR Rodica",
-          "parlamentar_id": "DD953B01-E89C-481C-88B9-40CBD8E43FEC",
+          "nume": "RUSU Petrică Lucian",
+          "parlamentar_id": "3F7D19D2-B8D0-4309-894C-B71561F01985",
           "rol": "Membru"
         },
         {
@@ -433,13 +433,13 @@
           "rol": "Vicepreşedinte"
         },
         {
-          "nume": "BLAGA Vasile",
-          "parlamentar_id": "33D88102-6E65-4934-9ECF-10102445C2C4",
+          "nume": "COTEȚ Mihai",
+          "parlamentar_id": "5DFB5F9B-9D25-40A4-9145-366AE2B2C04D",
           "rol": "Secretar"
         },
         {
-          "nume": "COTEȚ Mihai",
-          "parlamentar_id": "5DFB5F9B-9D25-40A4-9145-366AE2B2C04D",
+          "nume": "CUȘNIR Rodica",
+          "parlamentar_id": "DD953B01-E89C-481C-88B9-40CBD8E43FEC",
           "rol": "Membru"
         },
         {
@@ -1285,8 +1285,8 @@
           "rol": "Membru"
         },
         {
-          "nume": "VASILE Marian",
-          "parlamentar_id": "0460DBEB-6CAA-41F0-AEAD-EA380A592FDE",
+          "nume": "GHEORGHE Daniel-Paul-Romeo",
+          "parlamentar_id": "D2F51E91-D18A-431C-BC9D-6061101CE1D4",
           "rol": "Preşedinte"
         },
         {
@@ -1623,11 +1623,6 @@
           "rol": "Membru"
         },
         {
-          "nume": "GHEORGHE Daniel-Paul-Romeo",
-          "parlamentar_id": "D2F51E91-D18A-431C-BC9D-6061101CE1D4",
-          "rol": "Membru"
-        },
-        {
           "nume": "GHIȚĂ Robert-Daniel",
           "parlamentar_id": "AC8C9401-1A0D-478B-B367-62212ECAB1C5",
           "rol": "Membru"
@@ -1660,6 +1655,11 @@
         {
           "nume": "STAN Ioan",
           "parlamentar_id": "259A81F5-9971-4B56-B1B5-C4230980BCD3",
+          "rol": "Membru"
+        },
+        {
+          "nume": "VASILE Marian",
+          "parlamentar_id": "0460DBEB-6CAA-41F0-AEAD-EA380A592FDE",
           "rol": "Membru"
         }
       ],

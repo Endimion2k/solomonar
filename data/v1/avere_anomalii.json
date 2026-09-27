@@ -1,5 +1,5 @@
 {
- "generat": "2026-06-16",
+ "generat": "2026-09-27",
  "metoda": "PyOD ECOD (empirical CDF, parameter-free) pe [venituri, conturi, datorii, terenuri, clădiri, auto]",
  "disclaimer": "Scorul = cât de NEOBIȘNUIT statistic e profilul declarat față de restul (nu dovadă de îmbogățire ilicită). Poate fi și artefact de extragere (numărări imperfecte). Lead de verificat manual în declarația originală.",
  "n_persoane": 30791,

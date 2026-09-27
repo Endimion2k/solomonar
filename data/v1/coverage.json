@@ -5,7 +5,7 @@
     "cu_declaratii": 834,
     "cu_site": 91,
     "cu_reps": 1250,
-    "cu_financials": 1153,
+    "cu_financials": 1174,
     "cu_actionariat": 19,
     "GOL_nici_site_nici_declaratii": 398,
     "fara_declaratii": 422
@@ -13,7 +13,7 @@
   "organizatii": {
     "total": 1429,
     "cu_declaratii": 1384,
-    "cu_cv": 223,
+    "cu_cv": 387,
     "fara_declaratii": 45
   },
   "lista_companii_gol": [
@@ -365,7 +365,7 @@
       "cui": "49925930",
       "sector": "Apă-canal · salubritate",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "AQUAPREST ARMENIŞ SRL",
@@ -1128,7 +1128,7 @@
       "cui": "50867719",
       "sector": "Energie",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "ETA SA",
@@ -1597,7 +1597,7 @@
       "cui": "37101306",
       "sector": "Apă-canal · salubritate",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "OVERSET SERDIS SRL",
@@ -2409,7 +2409,7 @@
       "cui": "338819",
       "sector": "IT & comunicații",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "SOCIETATEA DE TRATAMENT BALNEAR SI RECUPERARE A CAPACITATII DE MUNCA T.B.R.C.M. SA",
@@ -2472,7 +2472,7 @@
       "cui": "50327441",
       "sector": "Transport",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "STATIUNEA OGLINZI SA",
@@ -2605,7 +2605,7 @@
       "cui": "39195234",
       "sector": "Transport",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "TRANSURBAN SA",

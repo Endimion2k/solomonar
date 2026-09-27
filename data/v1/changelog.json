@@ -1,9 +1,860 @@
 {
-  "generat": "2026-07-05",
+  "generat": "2026-09-27",
   "are_baza_anterioara": true,
-  "n_persoane_monitorizate": 102452,
-  "n_persoane_noi": 0,
-  "n_modificari": 0,
-  "persoane_noi": [],
-  "modificari": []
+  "n_persoane_monitorizate": 108825,
+  "n_persoane_noi": 55,
+  "n_modificari": 58,
+  "persoane_noi": [
+    {
+      "romega_id": "g:5303150e52c1828a",
+      "nume": "Asociatii Dinu Si Sprl Urse",
+      "contracte_ron": 4531698443,
+      "n_companii": 9,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5888dfe2c7755814",
+      "nume": "Ciprian Cozmanciuc Ilie",
+      "contracte_ron": 921552825,
+      "n_companii": 6,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:dfd96155b346294f",
+      "nume": "Bala Cristian Florin",
+      "contracte_ron": 59300,
+      "n_companii": 5,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a48f42c508679a66",
+      "nume": "Adelina Mirabela Podian",
+      "contracte_ron": 44640567,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1236b0c041b3e123",
+      "nume": "Dragos Ionut Samoila",
+      "contracte_ron": 960000,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7a8e335a76cb883d",
+      "nume": "Demirel Muresan",
+      "contracte_ron": 1063736,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0d22bf0f3c1aff8d",
+      "nume": "Bala Diana Elena",
+      "contracte_ron": 59300,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:cf2d9cf80c0a4aaf",
+      "nume": "Alexandru Ionut Vicolov",
+      "contracte_ron": 311344,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8958b5cc826e1508",
+      "nume": "Nicolae Ovidiu Palea",
+      "contracte_ron": 161789270,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:d35903c429083a9a",
+      "nume": "Iasi Lichidare Management Reorganizare Sprl",
+      "contracte_ron": 53690155,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:d1c607830f5943c2",
+      "nume": "Adrian Tivadar",
+      "contracte_ron": 4882042,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a4e32268cc7f2940",
+      "nume": "Daniel Enache",
+      "contracte_ron": 8510327,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:aae78c5f18eae41a",
+      "nume": "Grigore Pogonici Stanciu",
+      "contracte_ron": 3260661373,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:bd8cd871412785b0",
+      "nume": "Luncan Marcel",
+      "contracte_ron": 19576240,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e7e6b51551d5cef1",
+      "nume": "Florin Staicu",
+      "contracte_ron": 19576240,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9daac255f81a0560",
+      "nume": "Eliana Simona Spatacean",
+      "contracte_ron": 2972577,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9e574a7324dc813b",
+      "nume": "Tenea Tudor",
+      "contracte_ron": 574032726,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:fe86da71f3b7af3b",
+      "nume": "Biscovan Calin Florin",
+      "contracte_ron": 923582,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:698cec93143e3ede",
+      "nume": "Marin Vasile",
+      "contracte_ron": 858587,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4fb43aa7830b8fff",
+      "nume": "Florin Lazaroiu Raducu",
+      "contracte_ron": 1285055,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:194a3a3653d34a41",
+      "nume": "Ciobanu Sebastian",
+      "contracte_ron": 902624571,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6e624503928d62ae",
+      "nume": "Alexandru Marius Velea",
+      "contracte_ron": 867782,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:fd8e4441c183abb2",
+      "nume": "Costel Cucu",
+      "contracte_ron": 55237802,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:bfd94acec6f7e2c7",
+      "nume": "Negoita Niculina",
+      "contracte_ron": 31859821,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3c23d081df0e5a1d",
+      "nume": "Arpad Dosa",
+      "contracte_ron": 1787643,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6b88d7e0fa372cfd",
+      "nume": "Chita Dragos Ilie",
+      "contracte_ron": 2421662,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:f1e281f069877048",
+      "nume": "Degerat Manuela",
+      "contracte_ron": 26292723,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7fa748728ef9b0b8",
+      "nume": "Butucaru Razvan",
+      "contracte_ron": 19651668,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:061dc7bcb9a705ae",
+      "nume": "Daniel Ion Rauta",
+      "contracte_ron": 10100000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:34d5a61591f1690c",
+      "nume": "Iulian Matei Nicolae",
+      "contracte_ron": 2746824,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a53bd6c49fa433af",
+      "nume": "Ionut Raul Simionca",
+      "contracte_ron": 25310859,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:66bbc39782281426",
+      "nume": "Dorinel Gheorghe Mironescu",
+      "contracte_ron": 19146314,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6d84af088124da3a",
+      "nume": "El Feki Tarek",
+      "contracte_ron": 980712,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:54991d28bce216be",
+      "nume": "Claudiu Fandache Petrica",
+      "contracte_ron": 91952261,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6a133cda6d7a17dc",
+      "nume": "Alexandru George Musat",
+      "contracte_ron": 1509571,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:493298f31eed830a",
+      "nume": "Alexandru Vlad",
+      "contracte_ron": 1821181,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9025dd7eb43b2dd3",
+      "nume": "Constantin Seicaru Silviu",
+      "contracte_ron": 6427832,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9e53ebb128be0138",
+      "nume": "Pop Rares Silviu",
+      "contracte_ron": 168870118,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:d6e7aa967b15a202",
+      "nume": "Anca Elena Vasile",
+      "contracte_ron": 12173933,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9b97d5905be16122",
+      "nume": "Adrian Marculescu Octavian",
+      "contracte_ron": 3722602,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8fb2b1ab8f42e6bc",
+      "nume": "Ovidiu Sorin Stanislav",
+      "contracte_ron": 384000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:996d7c3cc4d11010",
+      "nume": "Alexandru Anghelina Madalin",
+      "contracte_ron": 818596,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:bb3872575325e384",
+      "nume": "Emanuel Murarasu",
+      "contracte_ron": 1986147,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c4fef5c4334c580b",
+      "nume": "Dragos Florin Rusu",
+      "contracte_ron": 634997,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3d21d62a979db944",
+      "nume": "Gavrila Mircea",
+      "contracte_ron": 121680740,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:35fa44334ae966bc",
+      "nume": "Adrian Danut Gradinariu",
+      "contracte_ron": 676268,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:ba784193aa827086",
+      "nume": "Anca Cristinel",
+      "contracte_ron": 32471627,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c98ebd9154ef3e3b",
+      "nume": "Onita Vasile Virgil",
+      "contracte_ron": 309523,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e44f24c1a594f752",
+      "nume": "Andrei Donose Mircea",
+      "contracte_ron": 14879082,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e6628e762817c5ae",
+      "nume": "Loredana Tirlea",
+      "contracte_ron": 328415,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:15d9506f8c720b07",
+      "nume": "Coman Dan Ionut",
+      "contracte_ron": 7850320,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8585f2913dada81c",
+      "nume": "Morar Sorin Vasile",
+      "contracte_ron": 227210,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2ce0a80b560c6c9a",
+      "nume": "Daniela Racanelu",
+      "contracte_ron": 62124757,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:d6fdf67d7465c94c",
+      "nume": "Mihai Onofrei Radu",
+      "contracte_ron": 353958,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0df06e1c0c6a9b1b",
+      "nume": "Izabel Musat Rebecca Sidonia",
+      "contracte_ron": 4073375,
+      "n_companii": 2,
+      "n_declaratii": 0
+    }
+  ],
+  "modificari": [
+    {
+      "romega_id": "g:7f49d1e8775b2964",
+      "nume": "Anamaria Busuioc Florina",
+      "camp": "companii conduse",
+      "vechi": 7,
+      "nou": 10,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:89ca9925e631df5b",
+      "nume": "Cristian Grigore Marcel",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:581d3e75538c24b5",
+      "nume": "Tugui Vasilica",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 5,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:78896aeb00895d99",
+      "nume": "Ion Iordache",
+      "camp": "companii conduse",
+      "vechi": 5,
+      "nou": 6,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:fc8e58c2d8125b41",
+      "nume": "Bultoc Gheorghita",
+      "camp": "companii conduse",
+      "vechi": 5,
+      "nou": 6,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:204bffe9ecf2edb6",
+      "nume": "Erghin Hagicalil",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:27c136067aa861a1",
+      "nume": "Dan Urse",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:bfdf6b52a1bc0d29",
+      "nume": "Alina Dimitriu",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:9235a02d8bb606fa",
+      "nume": "Sima Stan",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:86e32dcd5686a6ab",
+      "nume": "Jozsef Panea",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:4911788a1b47df20",
+      "nume": "Aldescu Ioana",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:d56d5938c247f75f",
+      "nume": "Andreev Mircea",
+      "camp": "companii conduse",
+      "vechi": 3,
+      "nou": 4,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:859c06176d23d567",
+      "nume": "Szilard Tussay",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:f4025439051749d8",
+      "nume": "Dobrogea Insolvency Ipurl",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:e8b0f55c976c9aa2",
+      "nume": "Andrian Vasile",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:ed8d27fb8aa0820d",
+      "nume": "Muntean Vasile",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:611c390a406507d7",
+      "nume": "Alexandru Gheorghita Silaghi",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:d159dbc3f747532b",
+      "nume": "Marius Murariu Silviu",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:4071fdb7ebff3bb9",
+      "nume": "Bunta Francisc Lorand",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:3d365af676d9deee",
+      "nume": "Constantin David",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:d20e255cd33ce9c0",
+      "nume": "Alexandru Cojocaru",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:58e88a56ae942803",
+      "nume": "Cristian Gozob Iulian",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:7234e317394e18f4",
+      "nume": "Lungu Stefan",
+      "camp": "companii conduse",
+      "vechi": 2,
+      "nou": 3,
+      "delta": 1
+    },
+    {
+      "romega_id": "p:c34d4e921e02bf48",
+      "nume": "Dorin Popa",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:5dc9a7b717f52839",
+      "nume": "Enso Sprl",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:7134bd641a91e260",
+      "nume": "Coroama Lacrimioara Olguta",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:75503b1afe3f42ea",
+      "nume": "Balaiban Elena Madalina",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:44bb8d75f073e7b2",
+      "nume": "Gabriela Irinel Tudorache",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:edc9771a54457203",
+      "nume": "Pocora Stelica",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:2a155973941b5a86",
+      "nume": "Corolea Nicoleta Podariu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:d8dc7936e00c262d",
+      "nume": "Florin Mihai Trofinov",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:14995e2177bb0155",
+      "nume": "Csete Zoltan",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:52eafb4174a54f36",
+      "nume": "Csaba Salamon",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:8c3e644c3f53f400",
+      "nume": "Attila Jacint Juhasz",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:5323183cb90f7d2b",
+      "nume": "Nedelcu Sergiu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:44b49e8159ef588c",
+      "nume": "Croitoru Lucian",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:fa0787e8abd2168b",
+      "nume": "George Nastase",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:e361fbcedb9f3192",
+      "nume": "Bogdan Stefan Topologeanu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:cf206be61b91f10e",
+      "nume": "Adrian Micu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:9c064961bfd7fdef",
+      "nume": "Cornel Tiorean Vasile",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:b2f8a94da78e9343",
+      "nume": "Claudiu Dumitru Rotaru",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:7e83ce253c32306f",
+      "nume": "Constantin Ispas",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:02f8daf4d4fae8f6",
+      "nume": "Drobot Sorin Valentin",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:2ae88eb8c8f6df39",
+      "nume": "Carmen Cosconea Izabela",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:0dbc08c07cc3f30d",
+      "nume": "Alexandru Cristian Parvu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:a45d11a8b073dfc9",
+      "nume": "Bogdan Marin",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:6ddc5d3b298ed838",
+      "nume": "Dan Mircea Mosneagu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:fb7295c0d5820ba2",
+      "nume": "Rucovina Stanescu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:5723961e66205fd9",
+      "nume": "Stelica Zangur",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:e100e9bab2ced2a6",
+      "nume": "Donciu Irina",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:423245ef3e05ca32",
+      "nume": "Ion Lucian",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:2900eb50113466e5",
+      "nume": "Buga Florin",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:43d738ad6ca1afac",
+      "nume": "Costea Paul Solomon",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:7e1de3494188bf06",
+      "nume": "Corneliu Ioan Jivan",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:262f57eaf92df573",
+      "nume": "Pleniceanu Virgil",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:37b504f9ca924888",
+      "nume": "Butnariu Cristinel Laurentiu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "g:3d46517852caa566",
+      "nume": "Marius Micu",
+      "camp": "companii conduse",
+      "vechi": 1,
+      "nou": 2,
+      "delta": 1
+    },
+    {
+      "romega_id": "p:83ac679d7e071fdd",
+      "nume": "Gheorghe Ionel",
+      "camp": "companii conduse",
+      "vechi": 0,
+      "nou": 1,
+      "delta": 1
+    }
+  ]
 }
