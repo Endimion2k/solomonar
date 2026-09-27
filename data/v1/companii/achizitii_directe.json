@@ -449929,7 +449929,8 @@
    ]
   },
   {
-   "cui": "1511015113675",
+   "cui": null,
+   "pf": true,
    "nume": "BICHEA FLOREA PERSOANA FIZICA",
    "total_ron": 446800.0,
    "nr": 9,
@@ -509932,7 +509933,8 @@
    ]
   },
   {
-   "cui": "1730710140348",
+   "cui": null,
+   "pf": true,
    "nume": "BAGOLY ZSOLT LAJOS",
    "total_ron": 371877.75,
    "nr": 38,
@@ -696908,7 +696910,8 @@
    ]
   },
   {
-   "cui": "2740318382742",
+   "cui": null,
+   "pf": true,
    "nume": "PREDESCU GEORGETA",
    "total_ron": 218500.0,
    "nr": 3,
@@ -770745,7 +770748,8 @@
    ]
   },
   {
-   "cui": "1680627151772",
+   "cui": null,
+   "pf": true,
    "nume": "SANDA VALENTIN",
    "total_ron": 178866.6,
    "nr": 193,

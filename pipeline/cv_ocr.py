@@ -14,6 +14,8 @@ from concurrent.futures import ProcessPoolExecutor, as_completed
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
+from connectors.ani.redaction import redact_text  # noqa: E402
+
 V = os.path.join(ROOT, "data/v1")
 
 
@@ -44,7 +46,9 @@ def main(workers: int = 2) -> dict:
             url, res = f.result()
             if res and (res["studii"] or res["experienta"]):
                 r = by_url[url]
-                r["status"] = "ok_ocr"; r["studii"] = res["studii"]; r["experienta"] = res["experienta"]
+                r["status"] = "ok_ocr"
+                r["studii"] = redact_text(res["studii"])          # fără CNP/telefon/CI din CV
+                r["experienta"] = redact_text(res["experienta"])
                 ok += 1
             if i % 25 == 0:
                 print(f"   {i}/{len(scan)} OCR-izate, {ok} cu date", flush=True)

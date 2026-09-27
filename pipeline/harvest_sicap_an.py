@@ -57,6 +57,7 @@ urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
+from connectors.ani.redaction import cnp_valid  # noqa: E402
 
 OUT_DIR = os.path.join(ROOT, "data/v1/achizitii")
 
@@ -193,6 +194,7 @@ def clean_suma(raw: str) -> float:
 
 
 _CUI_CLEAN_RE = re.compile(r"[^0-9A-Za-z]")
+PF_MARKER = "PF"  # ofertant persoana fizica: agregat pe nume (cheie "pf:<NUME>"), fara CNP
 
 
 def normalize_cui(raw: str) -> str | None:
@@ -212,6 +214,9 @@ def normalize_cui(raw: str) -> str | None:
         if rest.isdigit() or rest == "":  # 'RO' + cifre = CUI romanesc; altfel alt prefix
             s = rest
     if s.isdigit():
+        if cnp_valid(s):
+            # CNP de persoana fizica (PFA/II) -> NU se publica; agregat pe nume (Legea 176/2010 + GDPR)
+            return PF_MARKER
         s = s.lstrip("0") or "0"  # normalizeaza zerourile de inceput
     return s or None
 
@@ -234,6 +239,7 @@ def harvest_year(an: int, url: str | None = None) -> dict:
     nr_contracte = 0  # randuri de date (linii contract/ofertant), exclus antet
     nr_cu_cui = 0
     nr_fara_cui = 0
+    nr_pf = 0  # randuri cu ofertant persoana fizica (CNP in loc de CUI) -> agregate pe nume
     nr_cu_valoare = 0
     nr_malformate = 0
     total_brut = 0.0
@@ -281,6 +287,10 @@ def harvest_year(an: int, url: str | None = None) -> dict:
             proc_val[pk] = suma
         nume = (row[i_nume] or "").strip().strip('"').strip()
         autoritate = (row[i_aut] or "").strip().strip('"').strip()
+        if cui == PF_MARKER:
+            nr_cu_cui -= 1
+            nr_pf += 1
+            cui = f"pf:{nume.upper()[:80] or 'NECUNOSCUT'}"
 
         entry = agg.get(cui)
         if entry is None:
@@ -341,9 +351,11 @@ def harvest_year(an: int, url: str | None = None) -> dict:
         "nr_contracte_cu_cui": nr_cu_cui,
         "nr_contracte_cu_valoare": nr_cu_valoare,
         "nr_randuri_fara_cui": nr_fara_cui,
+        "nr_randuri_persoane_fizice": nr_pf,
         "nr_randuri_malformate": nr_malformate,
         "nr_proceduri_lot_distincte": len(proc_val),
-        "nr_cui": len(furnizori),
+        "nr_cui": sum(1 for k in furnizori if not k.startswith("pf:")),
+        "nr_persoane_fizice": sum(1 for k in furnizori if k.startswith("pf:")),
         "total_ron_brut": round(total_brut, 2),
         "total_ron_real": round(total_real, 2),
         "furnizori": furnizori,

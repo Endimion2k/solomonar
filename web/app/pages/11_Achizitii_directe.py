@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 from st_aggrid import AgGrid, GridOptionsBuilder, JsCode
@@ -93,7 +94,8 @@ if not f.empty:
     kpi_card(d1, "Total achiziții directe", fmt_lei(r["total_ron"]))
     kpi_card(d2, "Număr achiziții", fmt_int(int(r["nr"])))
     kpi_card(d3, "Medie / achiziție", fmt_lei(r["total_ron"] / max(int(r["nr"]), 1)))
-    kpi_card(d4, "CUI", str(r["cui"]))
+    kpi_card(d4, "CUI", str(r["cui"]) if pd.notna(r["cui"])
+             else ("— (persoană fizică)" if r.get("pf") is True else "—"))
     if r["top_autoritati"]:
         st.markdown(f"**Top autorități contractante:** {r['top_autoritati']}")
     if r["ani_activi"]:

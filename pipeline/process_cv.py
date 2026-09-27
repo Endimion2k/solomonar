@@ -22,6 +22,7 @@ sys.path.insert(0, ROOT)
 from solomonar_core.bronze import BronzeStore  # noqa: E402
 from solomonar_core.http import Client  # noqa: E402
 from solomonar_core.parse import selector  # noqa: E402
+from connectors.ani.redaction import redact_fields, redact_text  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 bronze = BronzeStore(os.path.join(ROOT, "data", "raw"))
@@ -48,7 +49,8 @@ def _name_from_url(url):
 
 
 def _sections(text):
-    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    # redactare pe textul COMPLET, înainte de trunchieri (un CNP tăiat la limită ar scăpa)
+    lines = [l.strip() for l in redact_text(text).splitlines() if l.strip()]
     edu = [l[:200] for l in lines if RE_EDU.search(l)]
     exp = [l[:200] for l in lines if RE_EXP.search(l)]
     return " | ".join(dict.fromkeys(edu))[:1400], " | ".join(dict.fromkeys(exp))[:1600]
@@ -88,7 +90,7 @@ def _proc_inline(item):
         return None
     # scoate script/style/nav/header/footer (sursa de zgomot: meniuri + JS)
     t2 = re.sub(r"(?is)<(script|style|nav|header|footer)[^>]*>.*?</\1>", " ", t)
-    body = re.sub(r"[ \t]+", " ", re.sub(r"<[^>]+>", "\n", t2))
+    body = redact_text(re.sub(r"[ \t]+", " ", re.sub(r"<[^>]+>", "\n", t2)))
     lines = [l.strip() for l in body.splitlines() if l.strip() and len(l.strip()) > 15]
     # markeri STRICȚI (instituție/an reali, nu cuvinte de meniu)
     edu = [l[:220] for l in lines if _RE_EDU_STRICT.search(l)]
@@ -120,6 +122,8 @@ def main() -> dict:
             if r:
                 out_inl.append(r)
 
+    for r in out_pdf + out_inl:          # PII (CNP/telefon/CI) din textul CV nu se publică
+        redact_fields(r)
     out_pdf.sort(key=lambda x: (x["entitate"], x["nume"]))
     ok = sum(1 for r in out_pdf if r["status"] == "ok")
     scan = sum(1 for r in out_pdf if r["status"] == "scanat")

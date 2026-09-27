@@ -53,3 +53,7 @@ pipeline/err.txt
 pipeline/*.js
 pipeline/_[!_]*
 /pipeline/_achizitii_map.json
+
+# lock-file-uri Office (conțin username-ul Windows) + artefacte de automatizare browser
+~$*
+.playwright-mcp/

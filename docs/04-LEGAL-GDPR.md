@@ -29,8 +29,23 @@ SOLOMONAR **nu** le publică și **nu** le reconstruiește:
 - ❌ **semnătura**
 - ❌ date despre minori
 
-> Test automat în pipeline (`pipeline/gold/derive` + guard la export): orice câmp din lista de
-> mai sus detectat în output → build **eșuează**. Vezi Faza 2, criteriu „done".
+> **Gardă PII implementată** (`connectors/ani/redaction.py` + `pipeline/scrub_pii.py`):
+> - ce se maschează: CNP valid (cifră de control + lună/zi/județ), telefon mobil (orice format uzual),
+>   telefon fix doar lângă o etichetă personală („domiciliu”, „personal”) sau lipit de un mobil
+>   (antet de CV) — numerele fixe ale instituțiilor sunt publice și rămân —, serie/număr CI
+>   (inclusiv „CI XX - NNNNNN”; nu diplome/bancnote), IBAN RO valid, e-mail în câmpul `web`;
+> - la sursă: harvesterele de declarații, CV-uri (`process_cv`/`_sections`, `cv_ocr`,
+>   `harvest_cv_parlament`, `harvest_cv_senatori`), rapoarte RVC și ONRC maschează înainte de
+>   trunchiere; harvesterele SICAP tratează ca persoană fizică DOAR un CNP valid (agregare pe nume
+>   `pf:<NUME>`, `cui` null, `pf: true`); alți identificatori lungi rămân în `cui_nevalid`;
+> - la publicare: `python -m pipeline.scrub_pii --check` scanează tot `data/v1` și iese cu cod 1
+>   la PII sau la un fișier care nu poate fi verificat → **pas obligatoriu înainte de orice commit
+>   de date**; fără `--check` maschează in-place, păstrând formatarea;
+> - test de regresie: `pipeline/tests/test_scrub_pii.py::test_published_data_has_no_pii`.
+>
+> Limite cunoscute: adresele complete din text liber (ex. donatori în rapoartele RVC) nu sunt încă
+> detectate automat; URL-urile către documentele-sursă nu se modifică (sunt doar raportate);
+> istoricul git anterior curățării conține încă valorile (rescriere de istoric = decizie separată).
 
 ---
 

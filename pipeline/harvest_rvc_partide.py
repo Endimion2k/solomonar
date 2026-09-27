@@ -39,6 +39,7 @@ urllib3.disable_warnings()
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 sys.path.insert(0, os.path.join(ROOT, "packages", "solomonar_core"))
+from connectors.ani.redaction import redact_text  # noqa: E402
 
 V = os.path.join(ROOT, "data", "v1", "partide")
 BASE = "https://legislatie.just.ro"
@@ -244,10 +245,13 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
     if mr:
         reprezentant = re.sub(r"\s+", " ", mr.group(1)).strip()
     # text relevant pentru audit (primele ~3500 caractere din corpul tabelar, fara navigatie)
-    body_start = flat_clean.find("Denumirea partidului politic")
+    # rapoartele listează donatori persoane fizice: CI / telefon / IBAN-ul lor nu se republică
+    # (redactare pe textul complet, înainte de tăiere; indexul se calculează pe textul redactat)
+    red = redact_text(flat_clean)
+    body_start = red.find("Denumirea partidului politic")
     if body_start < 0:
-        body_start = flat_clean.find("Situa")
-    detalii_text = flat_clean[max(0, body_start):body_start + 3500].strip()
+        body_start = red.find("Situa")
+    detalii_text = red[max(0, body_start):body_start + 3500].strip()
     mo_nr, an_pub, data_iso = _parse_pub_date(
         re.search(r"MONITORUL OFICIAL nr\. \d+ din [^<]+", h).group(0)
         if re.search(r"MONITORUL OFICIAL", h) else "")

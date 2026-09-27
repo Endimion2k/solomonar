@@ -22,6 +22,7 @@ urllib3.disable_warnings()
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 from pipeline.process_cv import _sections  # noqa: E402
+from connectors.ani.redaction import redact_text  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 
@@ -56,7 +57,8 @@ def _fetch_cv(sen):
         return None
     return {"nume": sen.get("name", ""), "senat_guid": sen.get("senat_guid"),
             "legislatura": sen.get("legislatura"), "partid": sen.get("party"),
-            "judet": sen.get("judet"), "studii": edu, "experienta": exp, "url": purl}
+            "judet": sen.get("judet"), "studii": redact_text(edu), "experienta": redact_text(exp),
+            "url": purl}
 
 
 def main() -> dict:

@@ -67,8 +67,8 @@ def main() -> dict:
             judet VARCHAR, bvb BOOLEAN, is_soe BOOLEAN, ca_ron DOUBLE, profit_ron DOUBLE,
             salariati INT, procent_stat DOUBLE, contracte_ron DOUBLE, contracte_nr INT,
             directe_ron DOUBLE, directe_nr INT);
-        CREATE TABLE direct_supplier(cui VARCHAR PRIMARY KEY, nume VARCHAR, total_ron DOUBLE,
-            nr INT, ani_activi VARCHAR, top_autoritati VARCHAR);
+        CREATE TABLE direct_supplier(id VARCHAR PRIMARY KEY, cui VARCHAR, nume VARCHAR, total_ron DOUBLE,
+            nr INT, ani_activi VARCHAR, top_autoritati VARCHAR, pf BOOLEAN);
         CREATE TABLE person_company(romega_id VARCHAR, cui BIGINT, rol VARCHAR);
         CREATE TABLE party(cod VARCHAR PRIMARY KEY, subventie_lei DOUBLE, nr_deputati INT,
             nr_senatori INT, nr_rvc INT);
@@ -96,7 +96,9 @@ def main() -> dict:
     # ---------- load: companii (+ financials + contracte + BVB) ----------
     cf = {int(r["cui"]): r for r in _load(os.path.join(V, "achizitii/contracte_firme.json")).get("firme", [])
           if str(r.get("cui", "")).isdigit()}
-    ad = {str(r["cui"]): r for r in _load(os.path.join(V, "companii/achizitii_directe.json")).get("furnizori", [])}
+    furnizori_ad = _load(os.path.join(V, "companii/achizitii_directe.json")).get("furnizori", [])
+    # join pe CUI doar pt. furnizorii cu CUI (persoanele fizice au cui=null → nu se leagă de companii)
+    ad = {str(r["cui"]): r for r in furnizori_ad if r.get("cui")}
     bvb = {b["nume"].lower(): b for b in _load(os.path.join(V, "companii/actionariat_bvb.json")).get("companii", [])}
     comps, seen = [], set()
     for c in _load(os.path.join(V, "companii/_index.json")).get("data", []):
@@ -117,12 +119,20 @@ def main() -> dict:
                       bv.get("procent_stat"), ctr.get("total_ron"), ctr.get("nr_contracte"),
                       adr.get("total_ron"), adr.get("nr")))
     _bulk(con, "company", comps, ["cui","nume","sector","tutela","judet","bvb","is_soe","ca_ron","profit_ron","salariati","procent_stat","contracte_ron","contracte_nr","directe_ron","directe_nr"])
-    # furnizorii de achiziții directe (toți publicații — top 50k)
-    _bulk(con, "direct_supplier",
-          [(str(r["cui"]), r.get("nume", ""), r.get("total_ron"), r.get("nr"),
-            ",".join(r.get("ani_activi", [])), " | ".join(r.get("top_autoritati", [])))
-           for r in ad.values()],
-          ["cui","nume","total_ron","nr","ani_activi","top_autoritati"])
+    # furnizorii de achiziții directe (toți publicații — top 50k); cheie surogat: persoanele fizice
+    # (cui=null) nu au CUI, deci nu pot fi cheie primară pe cui
+    ds_rows, ds_ids = [], set()
+    for i, r in enumerate(furnizori_ad):
+        cui = str(r["cui"]) if r.get("cui") else None
+        sid = cui or (f"pf:{r.get('nume', '')}" if r.get("pf") else f"x:{r.get('cui_nevalid') or r.get('nume', '')}")
+        if sid in ds_ids:
+            sid = f"{sid}#{i}"
+        ds_ids.add(sid)
+        ds_rows.append((sid, cui, r.get("nume", ""), r.get("total_ron"), r.get("nr"),
+                        ",".join(r.get("ani_activi", [])), " | ".join(r.get("top_autoritati", [])),
+                        bool(r.get("pf"))))
+    _bulk(con, "direct_supplier", ds_rows,
+          ["id","cui","nume","total_ron","nr","ani_activi","top_autoritati","pf"])
 
     # ---------- load: partide, comisii, state holdings ----------
     con.executemany("INSERT INTO party VALUES (?,?,?,?,?)",

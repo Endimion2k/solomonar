@@ -21,6 +21,8 @@ urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = os.path.join(ROOT, "data/v1")
+# câmpul WEB din dump-ul ONRC conține uneori un telefon (al asociatului) în loc de site → îl golim
+_WEB_OK = re.compile(r"^(?:https?://)?(?:www\.)?(?:[a-z0-9-]+\.)+[a-z]{2,}(?:[/:?#].*)?$", re.I)
 DS = "https://data.gov.ro/dataset/02a76fa6-70ef-47ed-8237-333f9b6b5939/resource"
 URL_FIRME = f"{DS}/e5b53db7-525c-4366-aeb2-fb721446e6d1/download/od_firme.csv"
 URL_CAEN = f"{DS}/bd4675cf-d3f1-402d-a750-16fcc9b0b9f2/download/od_caen_autorizat.csv"
@@ -40,6 +42,12 @@ def _load(p):
         return json.load(open(p, encoding="utf-8"))
     except Exception:
         return None
+
+
+def _web(raw: str) -> str:
+    """Păstrează WEB doar dacă arată ca un site/domeniu (nu telefon sau alt text liber)."""
+    s = (raw or "").strip()
+    return s if _WEB_OK.match(s) else ""
 
 
 def _targets():
@@ -82,7 +90,7 @@ def main() -> dict:
             cui = int(p[idx["CUI"]])
         except (ValueError, IndexError, KeyError):
             continue
-        if cui not in cuis or cui in firme:
+        if cui not in cuis or cui in firme or cui >= 10**10:   # >10 cifre = nu e CUI (ex. CNP)
             continue
         reg = p[idx["COD_INMATRICULARE"]].strip() if "COD_INMATRICULARE" in idx else ""
         data = p[idx.get("DATA_INMATRICULARE", -1)].strip() if "DATA_INMATRICULARE" in idx else ""
@@ -93,7 +101,7 @@ def main() -> dict:
             "judet": p[idx["ADR_JUDET"]].strip() if "ADR_JUDET" in idx else "",
             "localitate": p[idx["ADR_LOCALITATE"]].strip() if "ADR_LOCALITATE" in idx else "",
             "an_infiintare": int(an.group(1)) if an else None,
-            "web": p[idx["WEB"]].strip() if "WEB" in idx and len(p) > idx["WEB"] else "",
+            "web": _web(p[idx["WEB"]]) if "WEB" in idx and len(p) > idx["WEB"] else "",
             "tara_mama": p[idx["TARA_FIRMA_MAMA"]].strip() if "TARA_FIRMA_MAMA" in idx and len(p) > idx["TARA_FIRMA_MAMA"] else "",
         }
         if reg:

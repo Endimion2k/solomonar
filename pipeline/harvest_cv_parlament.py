@@ -16,6 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 from solomonar_core.http import Client  # noqa: E402
 from pipeline.process_cv import _sections  # noqa: E402
+from connectors.ani.redaction import redact_text  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 client = Client(throttle_seconds=0.15, timeout=15)
@@ -42,7 +43,8 @@ def _fetch_cv(dep):
         return None
     return {"nume": dep.get("name", ""), "cdep_idm": dep.get("cdep_idm"),
             "legislatura": dep.get("legislatura"), "partid": dep.get("current_party"),
-            "judet": dep.get("judet"), "studii": edu, "experienta": exp, "url": _cv_url(purl)}
+            "judet": dep.get("judet"), "studii": redact_text(edu), "experienta": redact_text(exp),
+            "url": _cv_url(purl)}
 
 
 def main() -> dict:

@@ -24,6 +24,9 @@ import urllib3
 urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT)
+from connectors.ani.redaction import clean_cui, is_pf_cnp  # noqa: E402
+
 P = os.path.join(ROOT, "pipeline")
 V = os.path.join(ROOT, "data/v1")
 AGG = os.path.join(P, "_achizitii_directe_agg.json")   # CUI -> agregat (checkpoint)
@@ -67,11 +70,52 @@ def _num(s):
     return v if 0 < v <= MAX_VAL else 0.0   # sanitizare: skip garbage/outlieri imposibili
 
 
+def _ident(raw: str, nume: str) -> tuple[str | None, dict]:
+    """(cheie de agregare, câmpuri de identitate) pentru un identificator fiscal brut.
+
+    CUI RO valid (2-10 cifre) → cheia = CUI. CNP valid (PFA/II) → NU se publică (Legea 176/2010 +
+    GDPR): agregare pe nume, cui=None, pf=True. Alt identificator lung (străin / șiruri lipite) nu e
+    PII → păstrat în `cui_nevalid`, fără eticheta de persoană fizică.
+    """
+    cui = clean_cui(raw)
+    if cui:
+        return cui, {"cui": cui}
+    if is_pf_cnp(raw):
+        n = nume.strip().upper()[:80]
+        return (f"pf:{n}" if n else None), {"cui": None, "pf": True}
+    return raw, {"cui": None, "cui_nevalid": raw}
+
+
+def _rekey_checkpoint(agg: dict) -> dict:
+    """Checkpoint-uri scrise înainte de filtru pot avea CNP-uri drept chei → recheiere + unire."""
+    out: dict = {}
+    for k, a in agg.items():
+        if str(k).startswith("pf:"):
+            nk, ident = k, {"cui": None, "pf": True}
+        else:
+            nk, ident = _ident(re.sub(r"\D", "", str(k)), a.get("nume") or "")
+        if nk is None:
+            continue
+        cur = out.get(nk)
+        if cur is None:
+            out[nk] = {**a, **ident}
+            continue
+        cur["total_ron"] += a.get("total_ron", 0.0)
+        cur["nr"] += a.get("nr", 0)
+        for fld in ("ani", "aut"):
+            for kk, vv in (a.get(fld) or {}).items():
+                cur[fld][kk] = cur[fld].get(kk, 0) + vv
+    return out
+
+
 def _add(agg, cui, nume, val, an, aut):
-    cui = re.sub(r"\D", "", str(cui))
-    if not cui or val <= 0:
+    raw = re.sub(r"\D", "", str(cui))
+    if not raw or val <= 0:
         return
-    a = agg.setdefault(cui, {"cui": cui, "nume": nume[:80], "total_ron": 0.0, "nr": 0, "ani": {}, "aut": {}})
+    key, ident = _ident(raw, nume)
+    if key is None:
+        return
+    a = agg.setdefault(key, {**ident, "nume": nume[:80], "total_ron": 0.0, "nr": 0, "ani": {}, "aut": {}})
     a["total_ron"] += val
     a["nr"] += 1
     if nume and not a["nume"]:
@@ -151,7 +195,7 @@ def main() -> dict:
     directe = [r for r in res if r.get("tip") == "directe" and r.get("url")]
     directe.sort(key=lambda x: (x.get("an", 0), str(x.get("perioada", ""))))
 
-    agg = json.load(open(AGG, encoding="utf-8")) if os.path.exists(AGG) else {}
+    agg = _rekey_checkpoint(json.load(open(AGG, encoding="utf-8"))) if os.path.exists(AGG) else {}
     done = set(open(CKPT, encoding="utf-8").read().splitlines()) if os.path.exists(CKPT) else set()
     print(f"resurse directe: {len(directe)} | deja={len(done)} | CUI agregate={len(agg)}", flush=True)
 

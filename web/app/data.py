@@ -235,6 +235,7 @@ def firme_onrc() -> pd.DataFrame:
     df["flaguri_txt"] = df["flaguri"].apply(lambda fl: " · ".join(fl))
     tm = df["tara_mama"].fillna("").str.strip()
     df["mama_straina"] = (tm != "") & (tm.str.lower() != "românia")
+    df["cui"] = pd.to_numeric(df["cui"], errors="coerce").astype("Int64")   # null (PF) nu mai face float
     df["nume"] = df["cui"].map(firme_nume_map()).fillna("")
     return df
 
