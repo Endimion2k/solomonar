@@ -7,7 +7,8 @@ Până acum ordinea trăia doar în docstring-uri (docs/AUDIT-2026-09.md, F05/F1
   derivate — gold → splink → ANI → sancțiuni/guvernanță → grafuri → DuckDB → rețele → alerte → căutare
   final    — stats/status, mascare PII, gărzi: 0 PII și niciun fișier > 90 MiB
 
-Declarațiile de avere/interese (OCR, ~o zi de GPU) NU sunt incluse — pas separat, la cerere.
+Declarațiile de avere/interese (OCR, ~o zi de GPU) NU sunt incluse — pas separat, la cerere. La fel
+OCR-ul documentelor PLx scanate: `python -m pipeline.build_comisii_docs ocr` (ore de GPU, reluabil).
 
     python -m pipeline.refresh --list
     python -m pipeline.refresh --groups surse
@@ -40,6 +41,9 @@ STEPS: list[tuple[str, str, list[str], dict, str]] = [
     ("comisii_senat", "surse", ["-m", "pipeline.harvest_comisii_senat"], {}, "componența comisiilor Senatului"),
     ("plx_initiatori", "surse", ["-m", "pipeline.harvest_plx_initiatori"], {}, "inițiatorii PLx"),
     ("comisii_recent", "surse", ["-m", "pipeline.build_comisii_recent"], {}, "activitatea din ultima lună"),
+    ("comisii_docs", "surse", ["-m", "pipeline.harvest_comisii_docs"], {}, "arhivează documentele PLx noi"),
+    ("comisii_docs_text", "surse", ["-m", "pipeline.build_comisii_docs", "text"], {},
+     "text documente PLx + verdicte + index căutare (OCR separat)"),
     ("dna", "surse", ["-m", "pipeline.harvest_dna"], {}, "comunicate DNA (+ re-parsare versiuni EN)"),
     ("legislatie", "surse", ["-m", "pipeline.harvest_legislatie_full"], {}, "legislație (bounded)"),
     ("subventii", "surse", ["-m", "pipeline.harvest_subventii_partide"], {}, "subvenții partide (Playwright)"),

@@ -37,6 +37,49 @@ DOC_LABEL = {
     "raport_suplimentar": "📄 Raport suplimentar", "aviz_csm": "⚖️ Aviz CSM", "alt": "📎 Alt document"}
 DOC_ORDER = ["forma_initiator", "expunere_motive", "aviz_consiliu_legislativ", "punct_vedere_guvern",
              "sesizare", "aviz_comisie", "raport", "raport_suplimentar", "aviz_csm", "alt"]
+DOC_LABEL.update({"aviz_ces": "🤝 Aviz CES", "ordonanta": "📜 Ordonanță (text)"})
+DOC_ORDER.insert(DOC_ORDER.index("sesizare"), "aviz_ces")
+DOC_ORDER.insert(DOC_ORDER.index("alt"), "ordonanta")
+VERDICT_LABEL = {"favorabil": "🟢 favorabil", "negativ": "🔴 negativ",
+                 "adoptare": "🟢 adoptare", "respingere": "🔴 respingere",
+                 "sustine": "🟢 susține", "nu_sustine": "🔴 nu susține",
+                 "latitudine": "⚪ la latitudinea Parlamentului"}
+
+
+def _fmt_verdict(v: dict | None) -> str:
+    """„🟢 favorabil · cu amendamente · unanimitate” din verdictul extras dintr-un aviz/raport/punct de vedere."""
+    if not v:
+        return ""
+    bits = [VERDICT_LABEL.get(v.get("verdict"), v.get("verdict", ""))]
+    if v.get("amendamente") is True:
+        bits.append("cu amendamente")
+    elif v.get("amendamente") is False:
+        bits.append("fără amendamente")
+    if v.get("observatii"):
+        bits.append("cu observații")
+    if v.get("vot"):
+        bits.append(v["vot"])
+    return " · ".join(bits)
+
+
+def _fmt_avize(c: dict) -> str:
+    fav, neg = c.get("comisie:favorabil", 0), c.get("comisie:negativ", 0)
+    return " · ".join(p for p in (f"{fav} fav" if fav else "", f"{neg} neg" if neg else "") if p)
+
+
+def _fmt_raport(c: dict) -> str:
+    ad, rs = c.get("raport:adoptare", 0), c.get("raport:respingere", 0)
+    if ad and rs:
+        return "mixt"
+    return "adoptare" if ad else ("respingere" if rs else "")
+
+
+def _fmt_guvern(c: dict) -> str:
+    for k, lbl in (("guvern:nu_sustine", "nu susține"), ("guvern:sustine", "susține"),
+                   ("guvern:latitudine", "latitudine")):
+        if c.get(k):
+            return lbl
+    return ""
 
 
 # ====================================================================
@@ -227,22 +270,40 @@ def _render_legislativ() -> None:
         else:
             st.caption("Fără date de inițiatori pentru proiecte parlamentare.")
 
+    verd = data.plx_verdicts()
+    plx["avize"] = plx["idp"].map(lambda i: _fmt_avize(verd.get(i, {})))
+    plx["raport"] = plx["idp"].map(lambda i: _fmt_raport(verd.get(i, {})))
+    plx["guvern_pv"] = plx["idp"].map(lambda i: _fmt_guvern(verd.get(i, {})))
+
     st.markdown("#### Proiecte PLx")
     fc1, fc2 = st.columns([3, 1])
     with fc1:
-        q = st.text_input("Caută în titlu", placeholder="ex: PL nr. 201, cod fiscal…").strip()
+        q = st.text_input("Caută în titlu și în documente",
+                          placeholder="ex: cod fiscal, pensii speciale, 227/2015, Hidroelectrica…").strip()
     with fc2:
         sursa = st.selectbox("Sursă inițiativă", ["Toate", "Guvern", "Parlamentar"])
+    in_docs = st.checkbox("Caută și în textul documentelor (avize, rapoarte, expuneri de motive)", value=True,
+                          help="Toți termenii trebuie să apară în dosarul proiectului (început de cuvânt, fără "
+                               "diacritice). Documentele scanate sunt incluse pe măsură ce trec prin OCR.")
 
     flt = plx
     if sursa == "Guvern":
         flt = flt[flt["guvern"]]
     elif sursa == "Parlamentar":
         flt = flt[~flt["guvern"]]
+    n_doc_only = 0
     if q:
-        flt = flt[flt["titlu"].str.lower().str.contains(q.lower(), regex=False, na=False)]
+        in_title = flt["titlu"].str.lower().str.contains(q.lower(), regex=False, na=False)
+        if in_docs:
+            hits = data.plx_search(q)
+            in_text = flt["idp"].isin(hits)
+            n_doc_only = int((in_text & ~in_title).sum())
+            flt = flt[in_title | in_text]
+        else:
+            flt = flt[in_title]
 
     st.caption(f"{fmt_int(len(flt))} proiecte găsite"
+               + (f" ({fmt_int(n_doc_only)} doar în textul documentelor)" if n_doc_only else "")
                + (f" · sursă: {sursa.lower()}" if sursa != "Toate" else ""))
     if flt.empty:
         st.info("Niciun proiect nu corespunde criteriilor.")
@@ -252,10 +313,10 @@ def _render_legislativ() -> None:
     out["tip"] = out["guvern"].map({True: "Guvern", False: "Parlamentar"})
     out["cdep"] = out["idp"].astype(str).map(
         lambda i: f"https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp={i}")
-    show = out[["idp", "titlu", "tip", "n_initiatori", "nr_docs", "cdep"]].rename(columns={
-        "idp": "id PLx", "titlu": "titlu", "tip": "sursă", "n_initiatori": "nr. inițiatori",
-        "nr_docs": "documente", "cdep": "pagina",
-    }).sort_values("nr. inițiatori", ascending=False)
+    show = out[["idp", "titlu", "tip", "n_initiatori", "nr_docs", "avize", "raport", "guvern_pv", "cdep"]].rename(
+        columns={"idp": "id PLx", "titlu": "titlu", "tip": "sursă", "n_initiatori": "nr. inițiatori",
+                 "nr_docs": "documente", "avize": "avize comisii", "guvern_pv": "Guvernul", "cdep": "pagina",
+                 }).sort_values("nr. inițiatori", ascending=False)
     st.dataframe(
         show.head(1000), use_container_width=True, hide_index=True,
         column_config={
@@ -265,6 +326,12 @@ def _render_legislativ() -> None:
             "nr. inițiatori": st.column_config.NumberColumn(format="%d", width="small"),
             "documente": st.column_config.NumberColumn(format="%d", width="small",
                                                        help="Documente la dosarul PLx (toate tipurile)."),
+            "avize comisii": st.column_config.TextColumn(
+                width="small", help="Avizele comisiilor Camerei: favorabile / negative (extrase automat din text)."),
+            "raport": st.column_config.TextColumn(
+                width="small", help="Soluția propusă plenului în raportul comisiei sesizate în fond."),
+            "Guvernul": st.column_config.TextColumn(
+                width="small", help="Punctul de vedere al Guvernului (inițiative parlamentare), extras automat."),
             "pagina": st.column_config.LinkColumn("cdep.ro", display_text="deschide", width="small"),
         },
     )
@@ -288,19 +355,34 @@ def _render_legislativ() -> None:
     if not docs:
         st.caption("Fără documente la dosar pentru acest proiect.")
         return
+    txt = data.plx_docs_text()
     by_tip = collections.defaultdict(list)
-    for d in docs:
-        by_tip[d.get("tip", "alt")].append(d.get("url"))
+    for d in docs:    # „alt” rafinat după numele fișierului (k): punct de vedere Guvern, aviz CES, ordonanță
+        by_tip[txt.get(d.get("url"), {}).get("k") or d.get("tip", "alt")].append(d.get("url"))
+    extrase = []
     for tip in DOC_ORDER + [t for t in by_tip if t not in DOC_ORDER]:
         urls = by_tip.get(tip)
         if not urls:
             continue
         lbl = DOC_LABEL.get(tip, tip)
-        if len(urls) == 1:
-            links = f"[deschide]({urls[0]})"
-        else:
-            links = " · ".join(f"[{i + 1}]({u})" for i, u in enumerate(urls))
-        st.markdown(f"- {lbl}: {links}")
+        parts = []
+        for i, u in enumerate(urls):
+            name = "deschide" if len(urls) == 1 else str(i + 1)
+            v = _fmt_verdict(txt.get(u, {}).get("v"))
+            parts.append(f"[{name}]({u})" + (f" — {v}" if v else ""))
+            if txt.get(u, {}).get("x"):
+                extrase.append((f"{lbl}" + (f" {name}" if len(urls) > 1 else ""), u, txt[u]))
+        st.markdown(f"- {lbl}: " + " · ".join(parts))
+    n_txt = sum(1 for d in docs if txt.get(d.get("url"), {}).get("s") == "ok")
+    n_scan = sum(1 for d in docs if txt.get(d.get("url"), {}).get("s") == "scanat")
+    st.caption(f"Text extras din {n_txt} din {len(docs)} documente"
+               + (f" · {n_scan} scanate (OCR în curs)" if n_scan else "")
+               + ". Verdictele sunt extrase automat din fraza de decizie — verifică documentul original.")
+    if extrase:
+        with st.expander(f"Extrase din documente ({len(extrase)})"):
+            for lbl, u, rec in extrase:
+                ocr = " · OCR" if rec.get("o") else ""
+                st.markdown(f"**{lbl}**{ocr} · [PDF]({u})  \n{rec['x']}…")
 
 
 tab_act, tab_sen, tab_leg = st.tabs([

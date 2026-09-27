@@ -6,8 +6,10 @@ DataFrame-uri/dict-uri memoizate (@st.cache_data). Contractul stabil folosit de 
 
 from __future__ import annotations
 
+import collections
 import json
 import os
+import re
 from functools import lru_cache
 
 import pandas as pd
@@ -359,6 +361,48 @@ def plx_docs_by_idp() -> dict:
         out[str(p.get("idp"))] = {
             "titlu": p.get("titlu"), "camera": p.get("camera"),
             "documente": p.get("documente", [])}
+    return out
+
+
+@st.cache_data(show_spinner=False)
+def plx_docs_text() -> dict:
+    """url -> {s: stare (ok/scanat/...), x: extras, v: {verdict, amendamente, vot}, p: pagini, o: 1=OCR}."""
+    return _load_raw("comisii/documente_text.json").get("documente", {})
+
+
+@st.cache_data(show_spinner=False)
+def plx_search_terms() -> dict:
+    """idp -> termenii normalizați (fără diacritice) din titlul și documentele PLx."""
+    return _load_raw("comisii/cautare_documente.json").get("termeni", {})
+
+
+_TR_RO = str.maketrans("ăâîșşțţĂÂÎȘŞȚŢ", "aaisstt" "AAISSTT")
+
+
+def plx_search(q: str) -> set:
+    """idp-urile PLx în care TOȚI termenii interogării apar (ca început de cuvânt) în titlu sau documente.
+    „pensii speciale” găsește și „pensiile speciale”; „227/2015” găsește referința la lege."""
+    toks = re.findall(r"[a-z0-9/]{2,}", q.translate(_TR_RO).lower())
+    if not toks:
+        return set()
+    pats = [re.compile(r"(?:^| )" + re.escape(t)) for t in toks]
+    return {idp for idp, s in plx_search_terms().items() if all(p.search(s) for p in pats)}
+
+
+@st.cache_data(show_spinner=False)
+def plx_verdicts() -> dict:
+    """idp -> {"sursa:verdict": n} — ex. comisie:favorabil, raport:respingere, guvern:nu_sustine, cl:favorabil.
+    Deciziile sunt extrase automat din avize, rapoarte și punctele de vedere ale Guvernului."""
+    txt = plx_docs_text()
+    out = {}
+    for idp, rec in plx_docs_by_idp().items():
+        c = collections.Counter()
+        for d in rec["documente"]:
+            v = txt.get(d["url"], {}).get("v")
+            if v:
+                c[f"{v.get('sursa')}:{v.get('verdict')}"] += 1
+        if c:
+            out[idp] = dict(c)
     return out
 
 

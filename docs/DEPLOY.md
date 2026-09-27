@@ -71,5 +71,8 @@ Ordinea pașilor e codificată în `pipeline/refresh.py` (41 de pași, 4 grupuri
 .venv/Scripts/python -m pipeline.refresh --from gold      # reluare după un pas eșuat
 ```
 Declarațiile de avere/interese (OCR, ~o zi de GPU) nu fac parte din refresh — se rulează separat
-(`harvest_declaratii*`, apoi `harvest_reprocess`). Commit-ul de date se face doar dacă garda finală
-(`scrub_pii --check`) iese 0.
+(`harvest_declaratii*`, apoi `harvest_reprocess`; `SOLOMONAR_RETRY=pii,timeout` reia doar statusurile
+indicate). La fel OCR-ul documentelor PLx scanate (~70% din dosare), care alimentează căutarea din
+pagina Comisii: `python -m pipeline.build_comisii_docs ocr` (ore de GPU, reluabil; textul integral
+rămâne în `data/build/`, se publică doar extrase + index). Commit-ul de date se face doar dacă garda
+finală (`scrub_pii --check`) iese 0.
