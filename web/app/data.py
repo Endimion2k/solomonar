@@ -68,12 +68,31 @@ def persoana(romega_id: str) -> dict:
 
 
 # ---------------- companii ----------------
+def _words(s) -> str:
+    """Nume normalizat pe cuvinte (fără diacritice/punctuație), pt. potriviri pe cuvinte întregi."""
+    import re
+    import unicodedata
+    flat = unicodedata.normalize("NFKD", str(s or "")).encode("ascii", "ignore").decode().lower()
+    return " " + re.sub(r"[^a-z0-9]+", " ", flat).strip() + " "
+
+
+def bvb_pentru(company: dict, bvb: list) -> dict:
+    """Acționariatul BVB al unei companii: doar dacă e marcată ca listată ȘI numele BVB apare ca
+    cuvinte întregi în denumire (altfel „Compa” se lipea de orice „Compania Națională…”, iar
+    filialele primeau procentul companiei-mamă). La mai multe potriviri, cea mai lungă."""
+    if not company.get("bvb_listed"):
+        return {}
+    name = _words(company.get("name"))
+    hits = [b for b in bvb if _words(b.get("nume")).strip() and _words(b.get("nume")) in name]
+    return max(hits, key=lambda b: len(b.get("nume") or ""), default={})
+
+
 @st.cache_data(show_spinner=False)
 def companii_df() -> pd.DataFrame:
     idx = _load_raw("companii/_index.json").get("data", [])
     cf = {int(r["cui"]): r for r in _load_raw("achizitii/contracte_firme.json").get("firme", [])
           if str(r.get("cui", "")).isdigit()}
-    bvb = {b["nume"].lower(): b for b in _load_raw("companii/actionariat_bvb.json").get("companii", [])}
+    bvb = _load_raw("companii/actionariat_bvb.json").get("companii", [])
     rows = []
     for c in idx:
         try:
@@ -82,7 +101,7 @@ def companii_df() -> pd.DataFrame:
             continue
         fin = c.get("financials") or {}
         ctr = cf.get(cui, {})
-        bv = next((b for k, b in bvb.items() if k in (c.get("name", "").lower())), {})
+        bv = bvb_pentru(c, bvb)
         rows.append({
             "cui": cui, "nume": c.get("name", ""), "sector": c.get("sector"),
             "tutela": c.get("tutelary_authority"), "judet": c.get("county"),

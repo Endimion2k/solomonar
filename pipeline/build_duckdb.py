@@ -29,6 +29,23 @@ def _load(p):
         return {}
 
 
+def _words(s) -> str:
+    import re
+    import unicodedata
+    flat = unicodedata.normalize("NFKD", str(s or "")).encode("ascii", "ignore").decode().lower()
+    return " " + re.sub(r"[^a-z0-9]+", " ", flat).strip() + " "
+
+
+def _bvb_pentru(company: dict, bvb: list) -> dict:
+    """Acționariat BVB doar pt. companii listate, cu numele BVB ca cuvinte întregi (cea mai lungă
+    potrivire). Aceeași regulă ca web/app/data.bvb_pentru — altfel „Compa” se lipea de „Compania…”."""
+    if not company.get("bvb_listed"):
+        return {}
+    name = _words(company.get("name"))
+    hits = [b for b in bvb if _words(b.get("nume")).strip() and _words(b.get("nume")) in name]
+    return max(hits, key=lambda b: len(b.get("nume") or ""), default={})
+
+
 def _bulk(con, table, rows, cols):
     """Insert rapid: scrie ndjson temp (Python) → read_json_auto (DuckDB nativ). executemany e prea lent."""
     if not rows:
@@ -99,7 +116,7 @@ def main() -> dict:
     furnizori_ad = _load(os.path.join(V, "companii/achizitii_directe.json")).get("furnizori", [])
     # join pe CUI doar pt. furnizorii cu CUI (persoanele fizice au cui=null → nu se leagă de companii)
     ad = {str(r["cui"]): r for r in furnizori_ad if r.get("cui")}
-    bvb = {b["nume"].lower(): b for b in _load(os.path.join(V, "companii/actionariat_bvb.json")).get("companii", [])}
+    bvb = _load(os.path.join(V, "companii/actionariat_bvb.json")).get("companii", [])
     comps, seen = [], set()
     for c in _load(os.path.join(V, "companii/_index.json")).get("data", []):
         try:
@@ -112,7 +129,7 @@ def main() -> dict:
         fin = c.get("financials") or {}
         ctr = cf.get(cui, {})
         adr = ad.get(str(cui), {})
-        bv = next((b for k, b in bvb.items() if k in (c.get("name", "").lower())), {})
+        bv = _bvb_pentru(c, bvb)
         comps.append((cui, c.get("name", ""), c.get("sector") or "", str(c.get("tutelary_authority") or ""),
                       c.get("county") or "", bool(c.get("bvb_listed")), bool(c.get("is_soe")),
                       fin.get("cifra_afaceri"), fin.get("profit_net"), fin.get("nr_salariati"),
