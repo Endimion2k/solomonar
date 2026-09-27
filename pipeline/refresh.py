@@ -132,6 +132,9 @@ def select(args) -> list[tuple]:
 
 
 def main(argv=None) -> int:
+    # ieșirea redirecționată într-un fișier ar folosi cp1252 pe Windows → diacriticele ar opri rularea
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
     ap = argparse.ArgumentParser(prog="refresh", description=__doc__.splitlines()[0])
     ap.add_argument("--groups", default=",".join(GROUPS), type=lambda s: s.split(","))
     ap.add_argument("--only", help="doar acești pași (id-uri separate prin virgulă)")
