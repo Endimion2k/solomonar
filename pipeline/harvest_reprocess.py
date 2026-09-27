@@ -28,6 +28,7 @@ from connectors.ani.declaratii import (  # noqa: E402
     parse_avere_ocr, parse_avere_text, parse_interese_text,
 )
 from connectors.ani.redaction import pii_kinds, redact_text  # noqa: E402
+from pipeline.extract_declarant_names import extract_from_institutie, extract_name, norm_name  # noqa: E402
 from solomonar_core.bronze import BronzeStore  # noqa: E402
 from solomonar_core.http import Client  # noqa: E402
 
@@ -255,6 +256,13 @@ def main(mode: str = "auto", workers: int | None = None, limit: int | None = Non
     return {"done": n_done, "deferred": deferred, "timeouts": timeouts}
 
 
+def _with_name(rec: dict) -> dict:
+    """Numele declarantului (din numele PDF-ului / câmpul institutie la parlamentari) — cheia cu care
+    build_gold leagă declarația de persoană. Fără el, gold pierde ~35.000 de persoane."""
+    nm = extract_name(rec.get("pdf_url", "")) or extract_from_institutie(rec.get("institutie", ""))
+    return {**rec, "nume": nm, "nume_norm": norm_name(nm)} if nm else rec
+
+
 def _finalize() -> None:
     av, it = [], []
     stats = {"pii": 0, "empty": 0, "fail": 0, "ocr_fail": 0, "ocr_used": 0, "mascat": 0}
@@ -265,9 +273,9 @@ def _finalize() -> None:
         if st in stats:
             stats[st] += 1
         if r.get("av"):
-            av.append(r["av"])
+            av.append(_with_name(r["av"]))
         if r.get("it"):
-            it.append(r["it"])
+            it.append(_with_name(r["it"]))
     now = datetime.now(timezone.utc).isoformat()
     json.dump({"generated_at": now, "sursa": f"{SURSA}, text+OCR, Legea 176/2010",
                "total": len(av), "ocr_in_corpus": stats["ocr_used"], "pii_blocate": stats["pii"],

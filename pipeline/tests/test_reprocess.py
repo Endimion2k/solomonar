@@ -122,3 +122,15 @@ def test_finalize_counts_each_pdf_once(tmp_path, monkeypatch):
     av = json.loads((tmp_path / "av.json").read_text(encoding="utf-8"))
     it = json.loads((tmp_path / "it.json").read_text(encoding="utf-8"))
     assert av["total"] == 1 and av["pii_blocate"] == 0 and av["pii_mascate"] == 1 and it["total"] == 1
+
+
+def test_finalize_adds_declarant_name_used_by_gold(tmp_path, monkeypatch):
+    url = "https://x.ro/declaratii/POPESCU-I.-ION-DA-2025.pdf"
+    _jsonl(tmp_path, monkeypatch, [{"pdf_url": url, "status": "ok", "av": {"pdf_url": url, "institutie": "X"},
+                                    "it": {"pdf_url": "https://x.ro/da_ba.pdf", "institutie": "X"}}])
+    monkeypatch.setattr(hr, "OUT_AV", str(tmp_path / "av.json"))
+    monkeypatch.setattr(hr, "OUT_IT", str(tmp_path / "it.json"))
+    hr._finalize()
+    rec = json.loads((tmp_path / "av.json").read_text(encoding="utf-8"))["declaratii"][0]
+    assert rec["nume"] == "POPESCU ION" and rec["nume_norm"] == "ION POPESCU"
+    assert "nume" not in json.loads((tmp_path / "it.json").read_text(encoding="utf-8"))["declaratii"][0]
