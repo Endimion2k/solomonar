@@ -287,7 +287,8 @@ def main() -> dict:
     json.dump({"total_persoane": len(out), "parlamentari": len(mp),
                "incredere": {t: sum(1 for r in out if r["incredere"] == t) for t in ("high", "context", "candidat")},
                "rezolutie_parlament": stats, "persoane": out},
-              open(os.path.join(V, "graf/persoane_gold.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+              open(os.path.join(V, "graf/persoane_gold.json"), "w", encoding="utf-8", newline="\n"), ensure_ascii=False,
+              separators=(",", ":"))   # compact: indent=2 aducea fișierul la 82% din limita GitHub
     json.dump({"nota": "v2 institution-aware. incredere: high=dată naștere (parlamentari), "
                "context=declară LA + conduce ACEEAȘI organizație (nume+org, fără CNP), candidat=doar nume.",
                "cross_links_total": len(cross), "cross_links_confirmate": len(confirmed),

@@ -72,7 +72,8 @@ def main() -> dict:
                                 "functii": sorted(s["functii"])[:5], "institutii": sorted(s["institutii"])[:5]}
             patched += 1
     g["cu_ani_central"] = patched
-    json.dump(g, open(gp, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    json.dump(g, open(gp, "w", encoding="utf-8", newline="\n"), ensure_ascii=False,
+              separators=(",", ":"))   # compact (limita GitHub 100 MiB)
 
     print(f"PUBLICAT ani_central.json: {len(clean)} metadate | persoane patch-uite cu ani_central: {patched} "
           f"| nume distincte ANI: {len(by_nk)}", flush=True)

@@ -52,3 +52,24 @@ runner self-hosted în România (PC Windows, ca la cdep-api-poc).
 # înainte de ORICE commit în data/v1 (gardă PII — Legea 176/2010 + GDPR):
 .venv/Scripts/python -m pipeline.scrub_pii --check     # exit 1 = PII găsit → rulează fără --check ca să mascheze
 ```
+
+## Refresh date (local, mașină din România)
+Ordinea pașilor e codificată în `pipeline/refresh.py` (41 de pași, 4 grupuri). Log-urile fiecărui pas:
+`_local/refresh/<timestamp>/<pas>.log`.
+
+| Grup | Ce face | Durată orientativă |
+|---|---|---|
+| `surse` | parlament, comisii, DNA, legislație, partide, bugete, BVB, catalog SICAP | 1-2 h |
+| `mari` | achiziții directe (~22M rânduri, cu checkpoint), red-flags, ONRC, bilanțuri MF | câteva ore |
+| `derivate` | gold → Splink → ANI → sancțiuni / guvernanță → grafuri → DuckDB → rețele → alerte → căutare | 30-60 min |
+| `final` | `stats.json` + `status.json`, mascare PII, gărzi (0 PII, niciun fișier > 90 MiB, JSON valid) | minute |
+
+```bash
+.venv/Scripts/python -m pipeline.refresh --groups surse --continue-on-error
+.venv/Scripts/python -m pipeline.refresh --groups mari
+.venv/Scripts/python -m pipeline.refresh --groups derivate,final
+.venv/Scripts/python -m pipeline.refresh --from gold      # reluare după un pas eșuat
+```
+Declarațiile de avere/interese (OCR, ~o zi de GPU) nu fac parte din refresh — se rulează separat
+(`harvest_declaratii*`, apoi `harvest_reprocess`). Commit-ul de date se face doar dacă garda finală
+(`scrub_pii --check`) iese 0.

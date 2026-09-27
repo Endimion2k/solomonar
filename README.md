@@ -97,6 +97,8 @@ python -m venv .venv && .venv/Scripts/python -m pip install -r requirements.txt
 .venv/Scripts/python -m pip install -e packages/solomonar_core
 .venv/Scripts/python -m pytest .                       # suita de teste
 .venv/Scripts/python -m pipeline.run --list            # listează sursele
+.venv/Scripts/python -m pipeline.refresh --list        # pașii de refresh a datelor, în ordine
+.venv/Scripts/python -m pipeline.refresh               # refresh complet (ore; vezi docs/DEPLOY.md)
 .venv/Scripts/python -m pipeline.scrub_pii --check     # OBLIGATORIU înainte de commit: 0 PII în data/v1
 # client: streamlit run web/app/Overview.py  (sau web/index.html pt. varianta statică)
 ```

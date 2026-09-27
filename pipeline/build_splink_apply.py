@@ -254,7 +254,8 @@ def main() -> dict:
     else:
         backup_note = "există deja (nu suprascris)"
 
-    json.dump(gold, open(GOLD_PATH, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
+    json.dump(gold, open(GOLD_PATH, "w", encoding="utf-8", newline="\n"), ensure_ascii=False,
+              separators=(",", ":"))   # compact (limita GitHub 100 MiB)
 
     print(f"backup: {BACKUP_PATH} ({backup_note})", flush=True)
     print(f"perechi de revizuit (input): {len(pairs)}", flush=True)
