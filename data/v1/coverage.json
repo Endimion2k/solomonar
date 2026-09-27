@@ -2,13 +2,13 @@
   "generat": "2026-06-11",
   "companii": {
     "total": 1256,
-    "cu_declaratii": 834,
+    "cu_declaratii": 844,
     "cu_site": 91,
     "cu_reps": 1250,
     "cu_financials": 1174,
     "cu_actionariat": 19,
-    "GOL_nici_site_nici_declaratii": 398,
-    "fara_declaratii": 422
+    "GOL_nici_site_nici_declaratii": 388,
+    "fara_declaratii": 412
   },
   "organizatii": {
     "total": 1429,
@@ -721,13 +721,6 @@
       "name": "COMPLEX TURISTIC LUGHET S.R.L.",
       "cui": "45286361",
       "sector": "Servicii",
-      "reps": true,
-      "financials": true
-    },
-    {
-      "name": "COMUNALE CRIŞTIOR SRL",
-      "cui": "27965160",
-      "sector": "Apă-canal · salubritate",
       "reps": true,
       "financials": true
     },
@@ -1467,13 +1460,6 @@
       "financials": true
     },
     {
-      "name": "LOCTRANS SA",
-      "cui": "1517006",
-      "sector": "Transport",
-      "reps": true,
-      "financials": true
-    },
-    {
       "name": "LUNCA CIGHERULUI-TAUŢ S.R.L.",
       "cui": "43388543",
       "sector": "Alte sectoare",
@@ -1705,13 +1691,6 @@
       "financials": true
     },
     {
-      "name": "PLATFORMA INDUSTRIALĂ IMM SLOBOZIA S.R.L.",
-      "cui": "32571412",
-      "sector": "Servicii",
-      "reps": true,
-      "financials": true
-    },
-    {
       "name": "PLOPCONSTRUCT SRL",
       "cui": "18543689",
       "sector": "Infrastructură",
@@ -1820,13 +1799,6 @@
       "name": "PRESTĂRI SERVICII PRIMAPREST COM BEZDEAD S.R.L.",
       "cui": "31293598",
       "sector": "Servicii",
-      "reps": true,
-      "financials": true
-    },
-    {
-      "name": "PRESTĂRI SERVICII SLOBOZIA BRADULUI S.R.L.",
-      "cui": "43476130",
-      "sector": "Apă-canal · salubritate",
       "reps": true,
       "financials": true
     },
@@ -2153,13 +2125,6 @@
       "financials": true
     },
     {
-      "name": "SERVICII COMUNALE TÂRGŞORU VECHI S.R.L.",
-      "cui": "40119192",
-      "sector": "Servicii",
-      "reps": true,
-      "financials": true
-    },
-    {
       "name": "SERVICII EDILITAR - GOSPODĂREŞTI RÎCIU SRL",
       "cui": "31980931",
       "sector": "Apă-canal · salubritate",
@@ -2405,13 +2370,6 @@
       "financials": true
     },
     {
-      "name": "SOCIETATEA COMERCIALA STUDIOUL CINEMATOGRAFIC ANIMAFILM SA",
-      "cui": "338819",
-      "sector": "IT & comunicații",
-      "reps": true,
-      "financials": true
-    },
-    {
       "name": "SOCIETATEA DE TRATAMENT BALNEAR SI RECUPERARE A CAPACITATII DE MUNCA T.B.R.C.M. SA",
       "cui": "15619634",
       "sector": "Servicii",
@@ -2468,13 +2426,6 @@
       "financials": true
     },
     {
-      "name": "SPTL SLOBOZIA S.R.L.",
-      "cui": "50327441",
-      "sector": "Transport",
-      "reps": true,
-      "financials": true
-    },
-    {
       "name": "STATIUNEA OGLINZI SA",
       "cui": "12530884",
       "sector": "Servicii",
@@ -2508,13 +2459,6 @@
       "sector": "Servicii",
       "reps": true,
       "financials": false
-    },
-    {
-      "name": "TEHNOPOLIS SRL",
-      "cui": "16704673",
-      "sector": "Servicii",
-      "reps": true,
-      "financials": true
     },
     {
       "name": "TELEVOL SYSTEMS SA",
@@ -2615,13 +2559,6 @@
       "financials": true
     },
     {
-      "name": "TRANSURBIS SA",
-      "cui": "10683385",
-      "sector": "Transport",
-      "reps": true,
-      "financials": true
-    },
-    {
       "name": "TRIMEC SA",
       "cui": "1960487",
       "sector": "Servicii",
@@ -2687,13 +2624,6 @@
     {
       "name": "UTIL-ADSIC FÂNTÂNELE SRL",
       "cui": "32743593",
-      "sector": "Apă-canal · salubritate",
-      "reps": true,
-      "financials": true
-    },
-    {
-      "name": "UTILITĂŢI COMUNALE OSTRA SRL",
-      "cui": "27256656",
       "sector": "Apă-canal · salubritate",
       "reps": true,
       "financials": true

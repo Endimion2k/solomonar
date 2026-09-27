@@ -1,860 +1,4025 @@
 {
   "generat": "2026-09-27",
   "are_baza_anterioara": true,
-  "n_persoane_monitorizate": 108825,
-  "n_persoane_noi": 55,
-  "n_modificari": 58,
+  "n_persoane_monitorizate": 109339,
+  "n_persoane_noi": 2,
+  "n_modificari": 938,
   "persoane_noi": [
     {
-      "romega_id": "g:5303150e52c1828a",
-      "nume": "Asociatii Dinu Si Sprl Urse",
-      "contracte_ron": 4531698443,
-      "n_companii": 9,
-      "n_declaratii": 0
+      "romega_id": "g:2c272ce5e8eb98a8",
+      "nume": "Alin Panait Radu",
+      "contracte_ron": 834089,
+      "n_companii": 1,
+      "n_declaratii": 3
     },
     {
-      "romega_id": "g:5888dfe2c7755814",
-      "nume": "Ciprian Cozmanciuc Ilie",
-      "contracte_ron": 921552825,
-      "n_companii": 6,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:dfd96155b346294f",
-      "nume": "Bala Cristian Florin",
-      "contracte_ron": 59300,
-      "n_companii": 5,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:a48f42c508679a66",
-      "nume": "Adelina Mirabela Podian",
-      "contracte_ron": 44640567,
-      "n_companii": 4,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:1236b0c041b3e123",
-      "nume": "Dragos Ionut Samoila",
-      "contracte_ron": 960000,
-      "n_companii": 3,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:7a8e335a76cb883d",
-      "nume": "Demirel Muresan",
-      "contracte_ron": 1063736,
-      "n_companii": 3,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:0d22bf0f3c1aff8d",
-      "nume": "Bala Diana Elena",
-      "contracte_ron": 59300,
-      "n_companii": 3,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:cf2d9cf80c0a4aaf",
-      "nume": "Alexandru Ionut Vicolov",
-      "contracte_ron": 311344,
-      "n_companii": 3,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:8958b5cc826e1508",
-      "nume": "Nicolae Ovidiu Palea",
-      "contracte_ron": 161789270,
-      "n_companii": 3,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:d35903c429083a9a",
-      "nume": "Iasi Lichidare Management Reorganizare Sprl",
-      "contracte_ron": 53690155,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:d1c607830f5943c2",
-      "nume": "Adrian Tivadar",
-      "contracte_ron": 4882042,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:a4e32268cc7f2940",
-      "nume": "Daniel Enache",
-      "contracte_ron": 8510327,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:aae78c5f18eae41a",
-      "nume": "Grigore Pogonici Stanciu",
-      "contracte_ron": 3260661373,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:bd8cd871412785b0",
-      "nume": "Luncan Marcel",
-      "contracte_ron": 19576240,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:e7e6b51551d5cef1",
-      "nume": "Florin Staicu",
-      "contracte_ron": 19576240,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:9daac255f81a0560",
-      "nume": "Eliana Simona Spatacean",
-      "contracte_ron": 2972577,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:9e574a7324dc813b",
-      "nume": "Tenea Tudor",
-      "contracte_ron": 574032726,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:fe86da71f3b7af3b",
-      "nume": "Biscovan Calin Florin",
-      "contracte_ron": 923582,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:698cec93143e3ede",
-      "nume": "Marin Vasile",
-      "contracte_ron": 858587,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:4fb43aa7830b8fff",
-      "nume": "Florin Lazaroiu Raducu",
-      "contracte_ron": 1285055,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:194a3a3653d34a41",
-      "nume": "Ciobanu Sebastian",
-      "contracte_ron": 902624571,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:6e624503928d62ae",
-      "nume": "Alexandru Marius Velea",
-      "contracte_ron": 867782,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:fd8e4441c183abb2",
-      "nume": "Costel Cucu",
-      "contracte_ron": 55237802,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:bfd94acec6f7e2c7",
-      "nume": "Negoita Niculina",
-      "contracte_ron": 31859821,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:3c23d081df0e5a1d",
-      "nume": "Arpad Dosa",
-      "contracte_ron": 1787643,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:6b88d7e0fa372cfd",
-      "nume": "Chita Dragos Ilie",
-      "contracte_ron": 2421662,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:f1e281f069877048",
-      "nume": "Degerat Manuela",
-      "contracte_ron": 26292723,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:7fa748728ef9b0b8",
-      "nume": "Butucaru Razvan",
-      "contracte_ron": 19651668,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:061dc7bcb9a705ae",
-      "nume": "Daniel Ion Rauta",
-      "contracte_ron": 10100000,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:34d5a61591f1690c",
-      "nume": "Iulian Matei Nicolae",
-      "contracte_ron": 2746824,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:a53bd6c49fa433af",
-      "nume": "Ionut Raul Simionca",
-      "contracte_ron": 25310859,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:66bbc39782281426",
-      "nume": "Dorinel Gheorghe Mironescu",
-      "contracte_ron": 19146314,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:6d84af088124da3a",
-      "nume": "El Feki Tarek",
-      "contracte_ron": 980712,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:54991d28bce216be",
-      "nume": "Claudiu Fandache Petrica",
-      "contracte_ron": 91952261,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:6a133cda6d7a17dc",
-      "nume": "Alexandru George Musat",
-      "contracte_ron": 1509571,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:493298f31eed830a",
-      "nume": "Alexandru Vlad",
-      "contracte_ron": 1821181,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:9025dd7eb43b2dd3",
-      "nume": "Constantin Seicaru Silviu",
-      "contracte_ron": 6427832,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:9e53ebb128be0138",
-      "nume": "Pop Rares Silviu",
-      "contracte_ron": 168870118,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:d6e7aa967b15a202",
-      "nume": "Anca Elena Vasile",
-      "contracte_ron": 12173933,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:9b97d5905be16122",
-      "nume": "Adrian Marculescu Octavian",
-      "contracte_ron": 3722602,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:8fb2b1ab8f42e6bc",
-      "nume": "Ovidiu Sorin Stanislav",
-      "contracte_ron": 384000,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:996d7c3cc4d11010",
-      "nume": "Alexandru Anghelina Madalin",
-      "contracte_ron": 818596,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:bb3872575325e384",
-      "nume": "Emanuel Murarasu",
-      "contracte_ron": 1986147,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:c4fef5c4334c580b",
-      "nume": "Dragos Florin Rusu",
-      "contracte_ron": 634997,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:3d21d62a979db944",
-      "nume": "Gavrila Mircea",
-      "contracte_ron": 121680740,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:35fa44334ae966bc",
-      "nume": "Adrian Danut Gradinariu",
-      "contracte_ron": 676268,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:ba784193aa827086",
-      "nume": "Anca Cristinel",
-      "contracte_ron": 32471627,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:c98ebd9154ef3e3b",
-      "nume": "Onita Vasile Virgil",
-      "contracte_ron": 309523,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:e44f24c1a594f752",
-      "nume": "Andrei Donose Mircea",
-      "contracte_ron": 14879082,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:e6628e762817c5ae",
-      "nume": "Loredana Tirlea",
-      "contracte_ron": 328415,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:15d9506f8c720b07",
-      "nume": "Coman Dan Ionut",
-      "contracte_ron": 7850320,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:8585f2913dada81c",
-      "nume": "Morar Sorin Vasile",
-      "contracte_ron": 227210,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:2ce0a80b560c6c9a",
-      "nume": "Daniela Racanelu",
-      "contracte_ron": 62124757,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:d6fdf67d7465c94c",
-      "nume": "Mihai Onofrei Radu",
-      "contracte_ron": 353958,
-      "n_companii": 2,
-      "n_declaratii": 0
-    },
-    {
-      "romega_id": "g:0df06e1c0c6a9b1b",
-      "nume": "Izabel Musat Rebecca Sidonia",
-      "contracte_ron": 4073375,
-      "n_companii": 2,
-      "n_declaratii": 0
+      "romega_id": "g:7d74c2cab0d7716d",
+      "nume": "Alexie Bodolan Constantin Cotan",
+      "contracte_ron": 133427590,
+      "n_companii": 1,
+      "n_declaratii": 2
     }
   ],
   "modificari": [
     {
-      "romega_id": "g:7f49d1e8775b2964",
-      "nume": "Anamaria Busuioc Florina",
-      "camp": "companii conduse",
-      "vechi": 7,
+      "romega_id": "g:a82365d5f4f940b0",
+      "nume": "Marian Radut",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 27,
+      "delta": 27
+    },
+    {
+      "romega_id": "g:49d41b2f6e369ee8",
+      "nume": "Becheanu Ilie Romi",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 23,
+      "delta": 23
+    },
+    {
+      "romega_id": "g:a61d5ed7361c791f",
+      "nume": "Elena Olteanu Zinica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 22,
+      "delta": 22
+    },
+    {
+      "romega_id": "g:a947116a44c4f4ae",
+      "nume": "Adrian Diaconescu Dorin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 21,
+      "delta": 21
+    },
+    {
+      "romega_id": "g:cd0e261217e3f8ca",
+      "nume": "Andras Attila",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 21,
+      "delta": 20
+    },
+    {
+      "romega_id": "g:2283c326b9bdc574",
+      "nume": "Calian Petru",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 18,
+      "delta": 18
+    },
+    {
+      "romega_id": "g:ac6b9541cb573015",
+      "nume": "Bruma Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 18,
+      "delta": 18
+    },
+    {
+      "romega_id": "g:32a26249582fc25f",
+      "nume": "Daniela Vintilescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 16,
+      "delta": 16
+    },
+    {
+      "romega_id": "g:349efdf71ae71077",
+      "nume": "Focsaneanu Mariana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 15,
+      "delta": 15
+    },
+    {
+      "romega_id": "g:4435c1072686912c",
+      "nume": "Cecilia Erzsebet Lazar",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 16,
+      "delta": 15
+    },
+    {
+      "romega_id": "g:66bc5ed3e675f0a1",
+      "nume": "Arvinte Elena",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 14,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:341f8cdac57c8ef1",
+      "nume": "Dorus Mihail",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 14,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:d784ef223cebce14",
+      "nume": "Balazs Botond",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 14,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:7f877c33d72ef8b0",
+      "nume": "Maria Vulcan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 14,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:5e732df3a766e2bb",
+      "nume": "Erika Lukacs",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 16,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:e5c0d936b302317e",
+      "nume": "Elod Vass",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 15,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:88979f40e5b22963",
+      "nume": "Gyongyi Tar",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 15,
+      "delta": 14
+    },
+    {
+      "romega_id": "g:b4204e534aa13d65",
+      "nume": "Costea Daniela Marcela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 13,
+      "delta": 13
+    },
+    {
+      "romega_id": "g:c06dfa2e659ea635",
+      "nume": "Dana Gaiseanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 13,
+      "delta": 13
+    },
+    {
+      "romega_id": "g:c41e1ad1a19fb8f0",
+      "nume": "Antal Zsofia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 14,
+      "delta": 13
+    },
+    {
+      "romega_id": "g:2fe38da4060b1fe5",
+      "nume": "Florin Paval",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 12,
+      "delta": 12
+    },
+    {
+      "romega_id": "g:670fe8d6671010c1",
+      "nume": "Ion Popa",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 12,
+      "delta": 12
+    },
+    {
+      "romega_id": "g:b4679da7b3ac4d7b",
+      "nume": "Crisan Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 12,
+      "delta": 12
+    },
+    {
+      "romega_id": "g:650c063fb07da0f0",
+      "nume": "Ferenczy Zsuzsa",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 13,
+      "delta": 12
+    },
+    {
+      "romega_id": "g:8098072555b98bde",
+      "nume": "Lucian Zaharia",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 11,
+      "delta": 11
+    },
+    {
+      "romega_id": "g:6278f175a230744e",
+      "nume": "Cornelia Miron",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 12,
+      "delta": 11
+    },
+    {
+      "romega_id": "g:323a1ea2fb32af27",
+      "nume": "Csiki Irma",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 12,
+      "delta": 11
+    },
+    {
+      "romega_id": "p:72590c43edb37aaa",
+      "nume": "Marian Vasile",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 12,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:d0ae1d70397e1126",
+      "nume": "Aprodu Catalin",
+      "camp": "declarații",
+      "vechi": 0,
       "nou": 10,
-      "delta": 3
+      "delta": 10
     },
     {
-      "romega_id": "g:89ca9925e631df5b",
-      "nume": "Cristian Grigore Marcel",
-      "camp": "companii conduse",
+      "romega_id": "g:040b97e81f6c2cb7",
+      "nume": "Carmen Teodosiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:e46018c8e64fbafd",
+      "nume": "Carmen Fatu Simona",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:44f4f671b1fd2004",
+      "nume": "Brinza Vladut",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:21c3c8805d91e3d9",
+      "nume": "Calin Radu Rosian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:8042a5b5848faf42",
+      "nume": "Cornel Muntean",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:42308db4bf0040a4",
+      "nume": "Andrei Mihai Paunescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:9c688c06ddb617e4",
+      "nume": "Oana Silvia Vladuca",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:4ceb4227914101a6",
+      "nume": "Marilena Ungureanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 10,
+      "delta": 10
+    },
+    {
+      "romega_id": "g:ca223a4b15c6b14d",
+      "nume": "Ibolya Sarig",
+      "camp": "declarații",
       "vechi": 1,
-      "nou": 4,
-      "delta": 3
+      "nou": 11,
+      "delta": 10
     },
     {
-      "romega_id": "g:581d3e75538c24b5",
-      "nume": "Tugui Vasilica",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 5,
-      "delta": 2
-    },
-    {
-      "romega_id": "p:78896aeb00895d99",
-      "nume": "Ion Iordache",
-      "camp": "companii conduse",
-      "vechi": 5,
-      "nou": 6,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:fc8e58c2d8125b41",
-      "nume": "Bultoc Gheorghita",
-      "camp": "companii conduse",
-      "vechi": 5,
-      "nou": 6,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:204bffe9ecf2edb6",
-      "nume": "Erghin Hagicalil",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:27c136067aa861a1",
-      "nume": "Dan Urse",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:bfdf6b52a1bc0d29",
-      "nume": "Alina Dimitriu",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:9235a02d8bb606fa",
-      "nume": "Sima Stan",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:86e32dcd5686a6ab",
-      "nume": "Jozsef Panea",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:4911788a1b47df20",
-      "nume": "Aldescu Ioana",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:d56d5938c247f75f",
-      "nume": "Andreev Mircea",
-      "camp": "companii conduse",
-      "vechi": 3,
-      "nou": 4,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:859c06176d23d567",
-      "nume": "Szilard Tussay",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:f4025439051749d8",
-      "nume": "Dobrogea Insolvency Ipurl",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:e8b0f55c976c9aa2",
-      "nume": "Andrian Vasile",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:ed8d27fb8aa0820d",
-      "nume": "Muntean Vasile",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:611c390a406507d7",
-      "nume": "Alexandru Gheorghita Silaghi",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:d159dbc3f747532b",
-      "nume": "Marius Murariu Silviu",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:4071fdb7ebff3bb9",
-      "nume": "Bunta Francisc Lorand",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:3d365af676d9deee",
-      "nume": "Constantin David",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:d20e255cd33ce9c0",
-      "nume": "Alexandru Cojocaru",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:58e88a56ae942803",
-      "nume": "Cristian Gozob Iulian",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:7234e317394e18f4",
-      "nume": "Lungu Stefan",
-      "camp": "companii conduse",
-      "vechi": 2,
-      "nou": 3,
-      "delta": 1
-    },
-    {
-      "romega_id": "p:c34d4e921e02bf48",
-      "nume": "Dorin Popa",
-      "camp": "companii conduse",
+      "romega_id": "g:9623dedca9c1f562",
+      "nume": "Fuleki Ildiko",
+      "camp": "declarații",
       "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "nou": 11,
+      "delta": 10
     },
     {
-      "romega_id": "g:5dc9a7b717f52839",
-      "nume": "Enso Sprl",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:e0b533fc805c8e98",
+      "nume": "Luiza Marian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 9,
+      "delta": 9
     },
     {
-      "romega_id": "g:7134bd641a91e260",
-      "nume": "Coroama Lacrimioara Olguta",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:34bf7269d74c0460",
+      "nume": "Focsaneanu Mariana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 9,
+      "delta": 9
     },
     {
-      "romega_id": "g:75503b1afe3f42ea",
-      "nume": "Balaiban Elena Madalina",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:df916ea9fc06f57c",
+      "nume": "Gali Izabella",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 9,
+      "delta": 9
     },
     {
-      "romega_id": "g:44bb8d75f073e7b2",
-      "nume": "Gabriela Irinel Tudorache",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:7e442f4a178b9d01",
+      "nume": "Hira Stere",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 9,
+      "delta": 9
     },
     {
-      "romega_id": "g:edc9771a54457203",
-      "nume": "Pocora Stelica",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:9ad115da6365d6f7",
+      "nume": "Gelu Marian Mihai",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 9,
+      "delta": 9
     },
     {
-      "romega_id": "g:2a155973941b5a86",
-      "nume": "Corolea Nicoleta Podariu",
-      "camp": "companii conduse",
+      "romega_id": "g:ff54e320d9e50a6c",
+      "nume": "Eliza Eva Miklos",
+      "camp": "declarații",
       "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "nou": 10,
+      "delta": 9
     },
     {
-      "romega_id": "g:d8dc7936e00c262d",
-      "nume": "Florin Mihai Trofinov",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:3397d7ccb72023db",
+      "nume": "Cristian Paraschiv",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:14995e2177bb0155",
-      "nume": "Csete Zoltan",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:bdcb833af3cff62d",
+      "nume": "Catalin Chimirel Lucian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:52eafb4174a54f36",
-      "nume": "Csaba Salamon",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:e250d65f18ac9b0f",
+      "nume": "Sichitiu Valentin Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:8c3e644c3f53f400",
-      "nume": "Attila Jacint Juhasz",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:8f57cdee6e99532d",
+      "nume": "Emanoil Marius Vacaru",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:5323183cb90f7d2b",
-      "nume": "Nedelcu Sergiu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:7bd5e87ae8126995",
+      "nume": "Catalin Novac",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:44b49e8159ef588c",
-      "nume": "Croitoru Lucian",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:9360dd072a8fa1a9",
+      "nume": "Constantin Serban",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:fa0787e8abd2168b",
-      "nume": "George Nastase",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "g:e8cea20dd27871c4",
+      "nume": "Mariana Zamfir",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
-      "romega_id": "g:e361fbcedb9f3192",
-      "nume": "Bogdan Stefan Topologeanu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:cf206be61b91f10e",
-      "nume": "Adrian Micu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:9c064961bfd7fdef",
-      "nume": "Cornel Tiorean Vasile",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:b2f8a94da78e9343",
-      "nume": "Claudiu Dumitru Rotaru",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:7e83ce253c32306f",
-      "nume": "Constantin Ispas",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:02f8daf4d4fae8f6",
-      "nume": "Drobot Sorin Valentin",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:2ae88eb8c8f6df39",
-      "nume": "Carmen Cosconea Izabela",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:0dbc08c07cc3f30d",
-      "nume": "Alexandru Cristian Parvu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:a45d11a8b073dfc9",
-      "nume": "Bogdan Marin",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:6ddc5d3b298ed838",
-      "nume": "Dan Mircea Mosneagu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:fb7295c0d5820ba2",
-      "nume": "Rucovina Stanescu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:5723961e66205fd9",
-      "nume": "Stelica Zangur",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:e100e9bab2ced2a6",
-      "nume": "Donciu Irina",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:423245ef3e05ca32",
-      "nume": "Ion Lucian",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:2900eb50113466e5",
-      "nume": "Buga Florin",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:43d738ad6ca1afac",
-      "nume": "Costea Paul Solomon",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:7e1de3494188bf06",
-      "nume": "Corneliu Ioan Jivan",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:262f57eaf92df573",
-      "nume": "Pleniceanu Virgil",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:37b504f9ca924888",
-      "nume": "Butnariu Cristinel Laurentiu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
-    },
-    {
-      "romega_id": "g:3d46517852caa566",
-      "nume": "Marius Micu",
-      "camp": "companii conduse",
-      "vechi": 1,
-      "nou": 2,
-      "delta": 1
+      "romega_id": "p:b5533843dd23c032",
+      "nume": "Ionel Stancu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
     },
     {
       "romega_id": "p:83ac679d7e071fdd",
       "nume": "Gheorghe Ionel",
-      "camp": "companii conduse",
+      "camp": "declarații",
       "vechi": 0,
-      "nou": 1,
-      "delta": 1
+      "nou": 8,
+      "delta": 8
+    },
+    {
+      "romega_id": "p:883d67b8027c4c2a",
+      "nume": "Mircea Rosca",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 8,
+      "delta": 8
+    },
+    {
+      "romega_id": "g:0a1cd373ac210944",
+      "nume": "Avram Liliana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 9,
+      "delta": 8
+    },
+    {
+      "romega_id": "g:492da7fbd04f5a07",
+      "nume": "Darvas David",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 9,
+      "delta": 8
+    },
+    {
+      "romega_id": "p:fed219c45a7a885b",
+      "nume": "Ion Samoila",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 7,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:59a11bfc97b4c710",
+      "nume": "Eugenia Ranete",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 7,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:408fda0e6ee876ac",
+      "nume": "Ion Pavel Sorin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 7,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:a41531520e8391fe",
+      "nume": "Szabolcs Toth",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 7,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:51ecaeb3a2dbc375",
+      "nume": "Mariana Oprea",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 7,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:203ab607fa65159a",
+      "nume": "Cornel Medris",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 8,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:c4b8a138f6611331",
+      "nume": "Finta Hajnal",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 8,
+      "delta": 7
+    },
+    {
+      "romega_id": "p:5d98b51d3822a2a5",
+      "nume": "Andronache Gabriel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 7,
+      "delta": 7
+    },
+    {
+      "romega_id": "g:e42691c41b08846e",
+      "nume": "Iulian Offenberg",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:ec3a11b859a9f04b",
+      "nume": "Georgescu Ionel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:72b05c86a1379bc3",
+      "nume": "Ilie Vlaicu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:b252ae00494c7bac",
+      "nume": "Mihaela Popescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:ed820478910818af",
+      "nume": "Bogdan Corneliu Marcu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:23878211f8041759",
+      "nume": "Banciu Leila Mihaela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:8faca07e16babcf2",
+      "nume": "Adrian Craiu Florin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:dfb987b8f747376a",
+      "nume": "Emilia Paraschivescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:726f472648cdcbc2",
+      "nume": "Coman George",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:bd47c420d0d93b3d",
+      "nume": "Florin Jianu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:4342adf3e6f8b205",
+      "nume": "Istvan Kali",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:8476d084872f3632",
+      "nume": "Adrian Ioan Sinkievici",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:ccdbd0778018bbd5",
+      "nume": "Catalin Coman Florin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:7096ce67d7957a50",
+      "nume": "Florin Ioan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:5a2b4fd3340da8fb",
+      "nume": "Mihaela Zarcu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:a32445518e97a2c2",
+      "nume": "Damian Ionel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 6,
+      "delta": 6
+    },
+    {
+      "romega_id": "p:6cb2286379f71a89",
+      "nume": "Levente Novak",
+      "camp": "declarații",
+      "vechi": 4,
+      "nou": 10,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:c0bc3bcc448bdb3a",
+      "nume": "Loloiu Petronela",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 9,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:f23bb9a28550d075",
+      "nume": "Claudia Micu",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 9,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:38e08510ff392ace",
+      "nume": "Ildiko Salamon",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 7,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:4027f52f4adb56ef",
+      "nume": "Gabriela Terea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 7,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:40096155d77be788",
+      "nume": "Mihai Niculae",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 7,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:9afcbab636c264e3",
+      "nume": "Bacila Mariana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 7,
+      "delta": 6
+    },
+    {
+      "romega_id": "g:6ca712e14cc298dd",
+      "nume": "Alin Ioan Moldoveanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 5,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:8562e32eb61b1d38",
+      "nume": "Daniel Ghita",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 5,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:0510a16d7867b75b",
+      "nume": "Adam Bianca Rodica",
+      "camp": "declarații",
+      "vechi": 5,
+      "nou": 10,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:0b0f6bb9c9ca7d47",
+      "nume": "Cretu Iuliana",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 8,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:f91c17195c7dd431",
+      "nume": "Aurel Dindareanu",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 8,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:a633f045f8447da5",
+      "nume": "Georgeta Raducanu",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 8,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:7cccf1a41b9de8b2",
+      "nume": "Maria Rosu",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 8,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:4825bc202b4dd8f4",
+      "nume": "Ileana Vacaru",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 6,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:8716bfc6aacdb534",
+      "nume": "Iulica Tanase",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 6,
+      "delta": 5
+    },
+    {
+      "romega_id": "g:60f7d79d2e8172c6",
+      "nume": "Ion Octavian Tache",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:77ea05c1426f5c1b",
+      "nume": "Ionut Purica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:40d58e523e945881",
+      "nume": "Ion Sterian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:d49ca9994ed83237",
+      "nume": "Colcer Dorel Razvan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:1658a4bf0a2a981c",
+      "nume": "Adrian Marcut",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:b06dd7bf9a29ed77",
+      "nume": "Bogdan Gheorghiu Valentin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:c8a264d181965e8d",
+      "nume": "Canea Iancu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:c4bceb3473173086",
+      "nume": "Catalin Tiuch",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:e6e10448b50c1e11",
+      "nume": "Claudiu Constantin Nastasa",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:c7da2b3d22f07205",
+      "nume": "Anghel Ovidiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:b11d2a5977ebda4e",
+      "nume": "Cristian Florin Tataru",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:19ad3d5a1697a432",
+      "nume": "Avram Gica Rusu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:a99dfe912a45a891",
+      "nume": "Liviu Stanoiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:6e6f0a27025fccfb",
+      "nume": "Cojocaru Simona",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:d6f3a4779cc8dde1",
+      "nume": "Alin Calin Marius",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:d6d7c3cbf2b68ce5",
+      "nume": "Bogdan Seicean",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:f4b054fc37be33b9",
+      "nume": "Ionica Mandreanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:446eeb45a64d123d",
+      "nume": "Boboaca Cornel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:e10ce9dfc93d6a7f",
+      "nume": "Camelia Luchian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:1365fc2130cd4e19",
+      "nume": "Ana Irina Smarandita",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:b6e8f9e67112b96c",
+      "nume": "Gorun Laurentiu Nicusor",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:814094bb669b5f6e",
+      "nume": "Arpad Pall",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:25496014c1fb7736",
+      "nume": "Domokos Zoltan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:153c35056b8a216e",
+      "nume": "Condrea Dragos",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:6defa7a064f97b54",
+      "nume": "Caliminte Horia Marius",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:874179a00bdd84b2",
+      "nume": "Avramescu Roxana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:6d1dca760d6ba13b",
+      "nume": "Marinescu Mihail",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:035edf0e53e316da",
+      "nume": "Ioan Stan",
+      "camp": "declarații",
+      "vechi": 6,
+      "nou": 10,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:ed079f9025a1acb7",
+      "nume": "Anisie Cristina Monica",
+      "camp": "declarații",
+      "vechi": 6,
+      "nou": 10,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:27877f10b11f901a",
+      "nume": "Barbu Georgiana Laura",
+      "camp": "declarații",
+      "vechi": 4,
+      "nou": 8,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:d803014c83f4621d",
+      "nume": "Bardos Carmen Mihaela",
+      "camp": "declarații",
+      "vechi": 4,
+      "nou": 8,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:0fc031bfe02fab3d",
+      "nume": "Adriana Rosca",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 7,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:bb27ba35af3a6615",
+      "nume": "Marilena Rosca",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 7,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:7b0e97195dbc4ea5",
+      "nume": "Ardeleanu Olga Valentina",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 7,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:1323a90c30e604d8",
+      "nume": "Ciurtin Elena Mihaela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 6,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:07287aa7df88b6a2",
+      "nume": "Duminecianu Gabriela Raluca",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 6,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:90fc9f23dc89078c",
+      "nume": "Flavius Vasile",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 6,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:fcd7bdc4999e85e0",
+      "nume": "Badicu Cornel",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 6,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:9b686125a74e3ccd",
+      "nume": "Anglitoiu Claudiu George",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 6,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:fd621256166f95ee",
+      "nume": "Alina Arva",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 6,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:b00ff42002e9807f",
+      "nume": "Mihaela Presecan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:432076eadf81218c",
+      "nume": "Ioana Presecan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:87ebe9a1328256e8",
+      "nume": "Ioana Stef",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:3824fab906adce6c",
+      "nume": "Dana Gabriela Todea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:582dabb853641c39",
+      "nume": "Ramona Turus",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:e9a82c1631aee6f6",
+      "nume": "Curcan Mihaela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:ce1a9ac88d0e848c",
+      "nume": "Loredana Zamfirescu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:f338211306a3cf1b",
+      "nume": "Angelica Vlaicu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:09b2e427c4e162fb",
+      "nume": "Carstea Catalin",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:a1118ea7e415797e",
+      "nume": "Bratu Cristina",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:521c0d6c4de83bd9",
+      "nume": "Buga Florentina",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:0a644c09745ddaa5",
+      "nume": "Mihaela Poenaru",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:4e465a46dbe61dbf",
+      "nume": "Georgian Iuliana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:e6706de1fe125ea1",
+      "nume": "Dumitru Florenta",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 5,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:da4f2a191eef41fe",
+      "nume": "Cezar Dragoescu Mihail",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:2b4dbbf76edf173e",
+      "nume": "Sandu Viorica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:6f11cc17c7f4746c",
+      "nume": "Alexandru Rafila",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:8f8251412d93d61b",
+      "nume": "Alexandru Florin Rogobete",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:b0793bcc725901cc",
+      "nume": "Ariana Bucur Oana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:3b02ce8e915cd8b9",
+      "nume": "Burduja Ioan Sebastian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "p:48dfc24d4005b656",
+      "nume": "Alin Bogdan Stoica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 4,
+      "delta": 4
+    },
+    {
+      "romega_id": "g:9871a1233ee8f7f1",
+      "nume": "Alexandru Popescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:fdc4865541584162",
+      "nume": "Dan Nicolae Tivilichi",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:9e8bc797989c42a9",
+      "nume": "Buciu Nelu Sandu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:25adbb3e08e1fb6f",
+      "nume": "Ceausescu Cosmin Mihai",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:432a0c60cf50d35a",
+      "nume": "Cristina Manolache Marcela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:79547af008c70ee3",
+      "nume": "Eugen Gavan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:69fe6ab92a6e08cf",
+      "nume": "Benedek Nagy",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:3c0e9318f8bbe59f",
+      "nume": "Constantin Hristov",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:e4acc65bd3657077",
+      "nume": "Coman Marilena Sorina",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:83ba8ccd0f4a99ed",
+      "nume": "Chicheanu George",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:8d84c65bf7797eed",
+      "nume": "Calin Gheorghe Pop",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:8b52e0765b01f14d",
+      "nume": "Carmen Mihaela Oglakci",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 6,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:968987090fb551ef",
+      "nume": "Angela Balan",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 6,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:cf4fb77bc57e7363",
+      "nume": "Apostol Ionela",
+      "camp": "declarații",
+      "vechi": 3,
+      "nou": 6,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:910a73b4b2afbb2e",
+      "nume": "Jinaru Magdalena Mihaela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:77cda15c5361ea91",
+      "nume": "Cristiana Lungu Mirela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:e4ac2ee588fde5a5",
+      "nume": "Magdalena Marcut Nicoleta",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:a412c1aba515e032",
+      "nume": "Florentina Stanciu",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:167fab6ccaa0b00a",
+      "nume": "Aurelia Cristina Stoica",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:95d55f2d32aca147",
+      "nume": "Bibu Ion Razvan",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:8f0f0abb5fcd470a",
+      "nume": "Demeter",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:2d050dee09a14e9d",
+      "nume": "Ariciu Iulia Maria",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:7b0b5fdd5fb7460d",
+      "nume": "Anghel Claudia Ionela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:d50f608e98e53c3c",
+      "nume": "Ana Antonache Maria",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 5,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:50ce2a42852aa0e9",
+      "nume": "Andreea Avram Iulia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:42236e22c4ed3e3b",
+      "nume": "Chincisan Cornelia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:16f85a285539e82f",
+      "nume": "Elena Emilia Sava",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:19f0fa12e34d7969",
+      "nume": "Andreea Avram",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:a9e6058352942e04",
+      "nume": "Mihaly Szombati",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:222b0281acc7303d",
+      "nume": "Cserei Maria",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:7e0c7b79e3b2cff6",
+      "nume": "Albert Lizuca",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:3dc0ca893b94d583",
+      "nume": "Delia Padureanu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:60cff26f5bd1b960",
+      "nume": "Dutu Mihaela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:6f3a9385c8a2d2c5",
+      "nume": "Daniela Jitea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "g:cae838313162496e",
+      "nume": "Ana Antonache Dapmpofpfm Maria",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 4,
+      "delta": 3
+    },
+    {
+      "romega_id": "p:37d3bd224e47994a",
+      "nume": "Geanina Pistru Popa Simona",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 3,
+      "delta": 3
+    },
+    {
+      "romega_id": "p:78896aeb00895d99",
+      "nume": "Ion Iordache",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:c48281895105d022",
+      "nume": "Alexandru Popa",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:c181bbfab8605ac2",
+      "nume": "Bogdan Ionel Ovidiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fb2ab398ce9a63cb",
+      "nume": "Manuela Maria Scarlat",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:751c1e4cd5833523",
+      "nume": "Dumitru Mischie",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:0009dc24d4a005da",
+      "nume": "Adrian Mocanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:1b32879612af216d",
+      "nume": "Cimpean Ovidiu Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:fd73516b7ce8313c",
+      "nume": "Balan Ioan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:fb03f6b7e66a1d41",
+      "nume": "Andrei Bogdan Toader",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:d286fe20e4342666",
+      "nume": "Miklos Zoltan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ff1ff43339127f07",
+      "nume": "Catalin Lungu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d3a282b69c66a4a1",
+      "nume": "Alina Costea Sanda",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2a28511bdc38ddf4",
+      "nume": "Dan Iulius Plaveti",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c3eeca60465ffcb9",
+      "nume": "Adrian Constantin Marinescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4caf61e4612519a4",
+      "nume": "Cazan Laurentiu Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a325d6633acc3764",
+      "nume": "Cristian Pop Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a1cd7dbd002b09db",
+      "nume": "Dita Mihai Serban",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9805fcd14a4c0a54",
+      "nume": "Farcas Traian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:44b8d70bce62aa12",
+      "nume": "Delia Negoita",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4f1ba817c92ae272",
+      "nume": "Cuza Dan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bf1ddf1ebb6c97af",
+      "nume": "Hinta Petrus",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:5bec1ff002d5ca7b",
+      "nume": "Dan Macovei Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:77ff6c2bfc462fd1",
+      "nume": "Cornel Spatar",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e1fa10d796460642",
+      "nume": "Eleonora Ghete",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:998a4c7f1936d7b4",
+      "nume": "Elena Grama",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8496a51ebbe50cee",
+      "nume": "Rusu Tudor",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:0d86449c4be710ff",
+      "nume": "Ionescu Mirela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3d1c4461340cb049",
+      "nume": "Gyorgy Peter",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c15d5046ee9bfa13",
+      "nume": "Anca Sarbu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:97604371a12fa885",
+      "nume": "Costache Laurentiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bcd0701c2d7f801e",
+      "nume": "Cosmin Filip",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:80e564ec36f4e927",
+      "nume": "Ioan Tudor Turcu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b13be81bcfe25c04",
+      "nume": "Alina Irimia Roxana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f3140fffb261ffae",
+      "nume": "Alin Dumitru Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8910294401a9695e",
+      "nume": "Alin Chitu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8bc8cd7bf602ac7c",
+      "nume": "Dumitru Pirvulescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1ba2d4dadb027075",
+      "nume": "Ancuta Lidia Sarbu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4cef5d1c1cf5f6a4",
+      "nume": "Corpodean Dorel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:39d0104b9db07062",
+      "nume": "Dragos Filip Mihai",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c693bdd28970dbc6",
+      "nume": "Ioan Tibulca",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:906e45d4ec923bbd",
+      "nume": "Costachescu Ioana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c444bfdccab367e0",
+      "nume": "Adrian Duicu Ovidiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c25439839ebc2eec",
+      "nume": "Alina Dumitrel Gabriela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:7624c0fe68a5542b",
+      "nume": "Gabriel Lapusan Remus",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ce765e759b24c684",
+      "nume": "Ilasi Liviu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:5864099ab1d4eb30",
+      "nume": "Constantin Saragea",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:dad40d1b5d2ceef2",
+      "nume": "Marius Morariu Vasile",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:264339eff7d8c35b",
+      "nume": "Andrei Catalin Dascal",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:79443d94b2fa5c43",
+      "nume": "Adina Dogaru Loredana Tulica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1bd3aabcba0148c6",
+      "nume": "Catalin Constantin Nadolu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bca0edc7359f1c25",
+      "nume": "Badila Ionica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:092ce05187ec3028",
+      "nume": "Adrian Savu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b3b5db6e25f4507b",
+      "nume": "Mihaela Toader Virginia",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:65b253242f4d08c7",
+      "nume": "Adrian Blajan Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:108892f8149be3b4",
+      "nume": "Adrian Mitroi",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6541a94b0a5ee89b",
+      "nume": "Luminita Zezeanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:676af5fd307389e2",
+      "nume": "Dumitriu Florin Victor",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e49ab8754658a4fb",
+      "nume": "Dumitru Orlandea Virgil",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4e3096dfb77dda6e",
+      "nume": "Cernov Radu Stefan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1c9758b44c0d465a",
+      "nume": "Augustin Negrut",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:358858c716010561",
+      "nume": "Daniela Gogean Nicoleta",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8a387b0eac3cc5c5",
+      "nume": "Bizna Iulian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:06c62692bf436e6a",
+      "nume": "Adrian Ciuperca",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c1ede8a40a0dcddf",
+      "nume": "Alexandru Camelia Violeta",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9216a6ff8b02ad3e",
+      "nume": "Iuliana Musat",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:112ac4ccab0922c1",
+      "nume": "Gherasim Laura",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:bee5b9f39d84d7d2",
+      "nume": "Mindrescu Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2fa3699d360e7b60",
+      "nume": "Podianu Viviana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bdddf82e044729e2",
+      "nume": "Andrei Racoti",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:237ca22bc4a9b7ee",
+      "nume": "Munteanu Petronel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:886767c361339abf",
+      "nume": "Ana Pirvu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a931e7f6adc8ed77",
+      "nume": "Ovidiu Pietraru",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:fafdd16ae87e5b14",
+      "nume": "Ioan Mihalcea",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:208e7a59961e0c73",
+      "nume": "Cristocea Gabriela Lucia Pirvulescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e40c947a45b4c366",
+      "nume": "Boatca Victor",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c89f26e31a5ed151",
+      "nume": "Barac Maria",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6e995d6f7009c62f",
+      "nume": "Ion Paducel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b8154348d807dc5f",
+      "nume": "Nicolae Preda",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f4d3101458eba498",
+      "nume": "Elvis Florentin Toma",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8c02ad2cf70deb02",
+      "nume": "Pirvulescu Victor",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e561884ba5e77b0f",
+      "nume": "Popescu Radu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d5fbc2bfd6cd25c2",
+      "nume": "Adrian Pintea",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e0cfc9c97f0c0318",
+      "nume": "Alina Mihaela Toma",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:baa641954d0e0be6",
+      "nume": "Baka Erno",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:38607f947639f29a",
+      "nume": "Sandor Torok",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:95ddf993a760ace6",
+      "nume": "Arpad Barcsa",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:7d8a637f4dd57ad6",
+      "nume": "Marian Pircalabescu Razvan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8f8d2dc97d0d6b8d",
+      "nume": "Catalin Musat Razvan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:091f80b685c5e340",
+      "nume": "Eduard Rotaru",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:eba321bb2bdea87e",
+      "nume": "Eugeniu Olimpiu Tanase",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:7af48b845a64ca8e",
+      "nume": "Adrian Enache Mihai",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c716470c684a4cf7",
+      "nume": "Ionela Vilculescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e8b1ca156c4b740a",
+      "nume": "Jighereanu Mihai",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:180b6f2b01bdcb6e",
+      "nume": "Catalin Costel Vlad",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1eff238420ca6f5c",
+      "nume": "Petru Stoichici Valentin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4ee3e659db45a539",
+      "nume": "Minel Nelu Stancu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:cab9fc382fa55401",
+      "nume": "Butunoi Daniel Ionel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e38f19509eadfa59",
+      "nume": "Dan Mihail Stan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2fdf0695e52ee921",
+      "nume": "Bogdan Costas",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:0128d1a29b69bcd4",
+      "nume": "Cristian Palade Radu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:410e0f80d7d68025",
+      "nume": "Ionescu Mihaela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:da028dc6c5f0da58",
+      "nume": "Scurtu Viorel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:01e60a007882ee4b",
+      "nume": "Csaba Varga",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:5090814175a173c8",
+      "nume": "Bodor Zsolt",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:0ca5ab04b4919cea",
+      "nume": "Aureliana Monica Petcu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:69997cd1b771343d",
+      "nume": "Braniste Felix Florin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4448a29169522596",
+      "nume": "Alexandru Cordos",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:61151a9218e8f0d8",
+      "nume": "Lucaci Sorin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:41d2575470779faa",
+      "nume": "Constantin Gabriel Gheorghe",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:cbad4f5af8d1e14c",
+      "nume": "Laurentiu Stanciu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:57fe851819f3f596",
+      "nume": "Ciprian Cristian George Soare",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:930d600e2521f3ac",
+      "nume": "Alin Gutu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d5618ac091821716",
+      "nume": "Anca Anghel Mihaela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:5332fba16f69e60a",
+      "nume": "Antoaneta Crisanda Nastase",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f4621032a47da994",
+      "nume": "Adrian Maiorescu Mircea",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2558fa3296f96703",
+      "nume": "Andrea Elisabeta Henter",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a963a69789363685",
+      "nume": "Gorneanu Mihaela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:7f61cc1a5574aaa9",
+      "nume": "Gabriela Stanga",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d83a77de8a07ca32",
+      "nume": "Alexandrescu Duca Mihaela Oana",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8b33ad8dc53d1de4",
+      "nume": "Madalina Mustafa",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:447f1271b4fb3145",
+      "nume": "Alina Dragota Laura Raluca",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:615ff41379a3acbb",
+      "nume": "Niculae Teodorescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bf22f7b71e50388d",
+      "nume": "Gambuteanu Horia Marian",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:34a5d337e11efef0",
+      "nume": "Dumitru Marin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:cdaf12e8a83e069a",
+      "nume": "Alexandru Marius Timofte",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:ed6de9deab2d6cc9",
+      "nume": "Adrian Giurgiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:563aa877ef206205",
+      "nume": "Carmen Felicia Lazar",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8753f69bf512c7fc",
+      "nume": "Olimpia Popescu Simona",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fa1021a8983e0706",
+      "nume": "Burcea Eugen",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9cb876b876f5f43c",
+      "nume": "Ana Bud Maria",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a386c4a3d7609805",
+      "nume": "Ciobanu Ionel",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:5877a0d1acdd0e92",
+      "nume": "Nagy Szabolcs",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:0b2df7a6df8af8b6",
+      "nume": "Cristian Paraschiv",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:7fbdfceee8290d45",
+      "nume": "Soare Veronica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:03090c7649a49b9a",
+      "nume": "Cojocaru Teodor",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9eb1c99d3d490e3d",
+      "nume": "Alin Ene",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f76c59cef4d12def",
+      "nume": "Mariana Oprea",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:03af6dbeb1f9a1cd",
+      "nume": "Adrian Mihai Simion",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:7a5622235d60a24b",
+      "nume": "Chitu Gabriel Valentin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:aea9a2c0d15198cd",
+      "nume": "Andrei Vidra Vlad",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e5724be8f3c14961",
+      "nume": "Gheorghe Maior",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:1e6ab4db28d408e1",
+      "nume": "Dumitru Vaduva",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:0b72693545f709a6",
+      "nume": "Chirita Mirel Razvan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:5639806a47efc4a4",
+      "nume": "Bardas Maria Mihaela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:91b6dcd4a61d4943",
+      "nume": "Calangiu Lucia",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6223dbbb108101b4",
+      "nume": "Ana Dascalu Maria",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9f670226cdf22260",
+      "nume": "Petre Ungureanu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:80c6e4f37ade0c02",
+      "nume": "Dumitru Nancu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c9658c74e02d446b",
+      "nume": "Bogdan Constantinescu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:88c1444501d49173",
+      "nume": "Cristina Mildner Simona",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:b48f62b1a2eb0954",
+      "nume": "Nicolae Paun",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:5258c39818404142",
+      "nume": "Catalin Ciornei Daniel",
+      "camp": "declarații",
+      "vechi": 7,
+      "nou": 9,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:f7f58224ae00b6af",
+      "nume": "Grindeanu Mihai Sorin",
+      "camp": "declarații",
+      "vechi": 4,
+      "nou": 6,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e8de59579377ee33",
+      "nume": "Avram Ciubotea",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a1567955634fb3a2",
+      "nume": "Boboc Irina Oana",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:50ae8a6d9f0c344f",
+      "nume": "Elisabeta Emilia Oancea",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:4e9c261c6971b2e2",
+      "nume": "Lucian Petrica Rusu",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:253ce45aa088c43c",
+      "nume": "Achimescu Ion",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3329f1d8e90896da",
+      "nume": "Al Ana Bugaru Hasoon Maria",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3aca4e9d720b6719",
+      "nume": "Albu Constantina",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4aeb1105d67ebae2",
+      "nume": "Alecu Andreea Ileana",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b9da3d55b391980b",
+      "nume": "Alexandrescu Daniela Florentina",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:64d763ad56d29d13",
+      "nume": "Alexandrescu Sorin Tiberiu",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2a6afbfd57aff250",
+      "nume": "Amza Ileana Monica",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f73d6b961f170a29",
+      "nume": "Andra Daniel Marius",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2322e175aeb33ba9",
+      "nume": "Andreescu Dragos Valentin",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c8280e3bea285ada",
+      "nume": "Angelescu Mirela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:473ae20be2adeb87",
+      "nume": "Anghelache Victorita",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fafede9ceeb59697",
+      "nume": "Angheloiu Gabriela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fd40e80edf3ff2a7",
+      "nume": "Apostol Gabriela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:691f8fa9811f5f2a",
+      "nume": "Adrian Ardelean Cristian",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:97b664db8bd6349c",
+      "nume": "Badila Danut",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b80c85ee052abfd8",
+      "nume": "Balcescu Constantina Dora",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1bbdf03ec3ab5f8b",
+      "nume": "Aura Batranu Petrica",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f1d1c9b05cdc9aa0",
+      "nume": "Badea Ionela Ramona",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:dbbe1f17f867babb",
+      "nume": "Barbu Gabriela Valentina",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9caa2ba2cf486258",
+      "nume": "Andreea Baron Elena",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d92e45ebb241a343",
+      "nume": "Bica Gabriela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:49adf55743b124e6",
+      "nume": "Bobe Fabiela Gratiela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e18ce0ba63f40636",
+      "nume": "Antal Atila Bacso",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b42194c2a833da42",
+      "nume": "Anghel Ionela",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:6e75f1d843fb64c6",
+      "nume": "Moise Sorin",
+      "camp": "declarații",
+      "vechi": 2,
+      "nou": 4,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3b224c0b0068dda4",
+      "nume": "Alexandru Dumitru Sinea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fa881ea38e9acacc",
+      "nume": "Bota Maria",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2eacb556439e685e",
+      "nume": "Cristina Fatasan Mariana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bfa52e577d3698ce",
+      "nume": "Gabriela Manea Olivia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8db3884b325c6fbf",
+      "nume": "Dan Emanuel Manolescu Tudor",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d2737744169517e9",
+      "nume": "Ana Elena Marcu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8eee2d30ed895716",
+      "nume": "Bianca Seredean",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:89762be887a2eac8",
+      "nume": "Paul Singalievici Stefan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:5e6acff03d9ba5b2",
+      "nume": "Anca Pompilia Zdranc",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b940d65e69dd1a5c",
+      "nume": "Luminta Vilcan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c35cf3f930a3cd33",
+      "nume": "Alin Dradne Razvan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b11b8b07000adda1",
+      "nume": "Florentina Int Stanculescu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6b8a7ff1d11eaff5",
+      "nume": "Dragne Razvan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ea0073f7251b8c4f",
+      "nume": "Diana Gusatu Iuliana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a8374ce3aba80785",
+      "nume": "Jinaru Magdalena",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4c33bbfb5078fa7f",
+      "nume": "Lungu Mirela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3138923b85882a29",
+      "nume": "Daniela Marin",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8b4a46a82498e082",
+      "nume": "Gabriela Marilena Spirici",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:47781cdca5e351fa",
+      "nume": "Ionela Mariana Stavaraiche",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d37dc908922b9ef3",
+      "nume": "Agarbiceanu Marcela Simona",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:15befaaf3aa5f14c",
+      "nume": "Aldea Gabriela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8de8a48a006ece5a",
+      "nume": "Bacila Mirela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8f5c020a92a16bf8",
+      "nume": "Baila Irina",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c6ebda1ed9e1040b",
+      "nume": "Barb Bianca Maria",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:bc08464842621013",
+      "nume": "Andreea Barbu Ioana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:927a1edb0eb9b93e",
+      "nume": "Branga Carmencita",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6728b95c99ae3c6a",
+      "nume": "Caraiman Delia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:0028e2c3a1c683f9",
+      "nume": "Ceplinschi Diana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d0217f5a03ceb083",
+      "nume": "Chetroni Florin",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:647838fd18cfa75c",
+      "nume": "Chioran Mariana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ba4318de9b56e2ae",
+      "nume": "Cindea Maria Tatiana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4a1a058f29201c40",
+      "nume": "Cojocaru Horatiu Nicolae",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:86c40b02928235fa",
+      "nume": "Cosar Petru Viorel",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:26e121a56fb932c1",
+      "nume": "Alexandru Damianovschi Dan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3bc8d107e7da0a95",
+      "nume": "Dorina Dragota Maria",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:7d32fd6650d82cfa",
+      "nume": "Dumitras Maria Monica",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:92311776aa9475af",
+      "nume": "Gabriela Ghiliman",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fe55fae983c2961b",
+      "nume": "Iesire Marcu Mihaela Uip",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9502281769da4a8a",
+      "nume": "Marcu Mihaela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:7c56393d3f5b7d3f",
+      "nume": "Mezdrea Violina",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b0a73fa3eb962592",
+      "nume": "Adela Monica Morar",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4026f71abc5e4df1",
+      "nume": "Nartea Remus",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:eb57b98fc35e0524",
+      "nume": "Carmen Florentina Nita",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1204c6bff16dcd27",
+      "nume": "Cristina Elena Oancea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ce9df2b5f9937914",
+      "nume": "Alexandra Denisa Paraschiv",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:806191414f9e0139",
+      "nume": "Magda Romascan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3e6bd49b9fd2c711",
+      "nume": "Mariana Sosa",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ced135e71f0d5845",
+      "nume": "Madalina Tirhas",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9941e067a8074dbe",
+      "nume": "Mihaela Vancea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2188813cc8c80aac",
+      "nume": "Cristina Lavinia Voicu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3c79c53e470c1117",
+      "nume": "Diana Zagan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:57fb7ba593c2a5ca",
+      "nume": "Anca Antonescu Stefania",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8caf36c9008acc1b",
+      "nume": "Buliga Toader",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b27b445e7178f4d9",
+      "nume": "Daniel Dumitrescu Gheorghe",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e5b3490884da2f34",
+      "nume": "Marasescu Mihaela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:027a3a2acf7d5c5e",
+      "nume": "Mica Oprea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:632a1cbd11459516",
+      "nume": "Alexandru Otulescu Tudor",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:8a45fd28825e5bb5",
+      "nume": "Mihail Pocora Silviu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4fba85fd478b009b",
+      "nume": "Anca Maria Stan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:66297293973d950a",
+      "nume": "Maria Roxana Vida",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:e7808d1c95d93746",
+      "nume": "Cajal",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3010ab7597867a9b",
+      "nume": "Abalasei Constantin Incetarepdf Laurentiu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a55802b7269d338f",
+      "nume": "Acatinca Corina Elena",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f7cd92c11cfaec40",
+      "nume": "Abalasei Constantin Laurentiu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:f4274bd7d10902cb",
+      "nume": "Adamescu Gheorghe",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3c917bbc6b26e290",
+      "nume": "Agapi Verginia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:df7dc6d392bc327e",
+      "nume": "Aflorei Radu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6ca4fff94242bac0",
+      "nume": "Abrudan Gabriela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d4dd62565c2ef6af",
+      "nume": "Anghel Daniel Liviu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:fe236673f2a0dba3",
+      "nume": "Gasca Nicoleta",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:42afb95f233cdf71",
+      "nume": "Bianca Feraru",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1fea9e7530386f53",
+      "nume": "Ghe Nan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:576b9c5ed447b1b1",
+      "nume": "Adrian Dumitru",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3dcb8aef3d9298e8",
+      "nume": "Conceatu Raluca",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:755fbd2d36da219d",
+      "nume": "Lepar Zoe",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:41b96451af054492",
+      "nume": "Dulau Rectificativa",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:12630d859e07b465",
+      "nume": "Florin Lapte",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a59eeebd4d5cf61f",
+      "nume": "Annemarie Blidaru",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:46876dedffd2ea74",
+      "nume": "Laura Zabulic",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:0608ec6dbb2b5239",
+      "nume": "Adina Margarit",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:60137b035e8f5023",
+      "nume": "Cojocariu Ioana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3ad5c5adde33c18c",
+      "nume": "Alecu Rectificativa",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:3b594818893c60cf",
+      "nume": "Culda Gabriela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:438dff8c2669d23a",
+      "nume": "Craciun Elena",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:27e4f74756218053",
+      "nume": "Garjoaba Rectificativa",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:9f9c3c9e0fdfe944",
+      "nume": "Valeriu Velea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:973c1a2d4ebc7d16",
+      "nume": "Ioana Popa",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:4200cd426a0e5874",
+      "nume": "Nicusor Pdg Tita Tr",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:b6a3a4f723791e43",
+      "nume": "Bica Laura",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:018bdf37c9e573e4",
+      "nume": "Cs Mirela Pdg Zeman",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:a8cbb3cddaafc7d2",
+      "nume": "Brusten Daniela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:c1a9ba6b7f48e9c4",
+      "nume": "Cornelia Ionescu Teodora",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:df3323fa3e92e19b",
+      "nume": "Duta Sorin",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:49a8c5f7b8b77cb9",
+      "nume": "Luminita Virlan",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:165b88ff566da401",
+      "nume": "Berendei Elia Florescu Monica",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:46c023edc12880e1",
+      "nume": "Br Camelia Nedelcu Tamara",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:41f37c7964bf5350",
+      "nume": "Mihaela Toma",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:2a45badd8112e1ad",
+      "nume": "Gabriel Iavorschi",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:79db8d4e58ad0fd9",
+      "nume": "Alexandru Iorga",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:1152b71655daf774",
+      "nume": "Mandache Nadia",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:25f7bc75a1958f8c",
+      "nume": "Ct Pdg",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:113ff3a773ab268e",
+      "nume": "Dona Lozer",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:ac8b6465113899bb",
+      "nume": "Catalin Maguleanu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:03d1bfa89542da00",
+      "nume": "Georgeta Ghintuiala",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:cab3c2a1a3a18dc8",
+      "nume": "Maricica Ochiana",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:6aedbccc944b00f7",
+      "nume": "Iulia Stoea",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d3b5d4094ec64c99",
+      "nume": "Ca Nedelcu",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:08dfcde71b224393",
+      "nume": "Ca Manolache",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:32176b6656f85c7b",
+      "nume": "Alexandru Angheluta Ionel Viorel",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "g:d4606dade71eca87",
+      "nume": "Badea Gabriela Mihaela",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:45c674beb36bc2c0",
+      "nume": "Ciprian Constantin Serban",
+      "camp": "declarații",
+      "vechi": 1,
+      "nou": 3,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:e6bc6c9f25efc311",
+      "nume": "Alecsandru Marius Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:7965740be4fe3ad0",
+      "nume": "Alecu Robert",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:c402357c8359b67c",
+      "nume": "Amet Varol",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:5bb08599a4c3a7cb",
+      "nume": "Alexandru Andrei Ioan",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:d16ee54778d9c85f",
+      "nume": "Andrei Cosmin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:ae19ba73249d7c4e",
+      "nume": "Andrusca Lucian Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:b840856cc7ceba81",
+      "nume": "Atanasiu Corina",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:5ff2b952dc77f903",
+      "nume": "Andrei Baciu Romica",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:62419388ab92e726",
+      "nume": "Badea Nelu Valentin",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:f81b33fc5304f5de",
+      "nume": "Adrian Bara Nicolae",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:84380436c6f2ce49",
+      "nume": "Barbu Florin Ionut",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:206ab0c91773cb55",
+      "nume": "Barstan Claudiu Tiberiu",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
+    },
+    {
+      "romega_id": "p:3b757192d319e6e7",
+      "nume": "Ana Bas Marcela",
+      "camp": "declarații",
+      "vechi": 0,
+      "nou": 2,
+      "delta": 2
     }
   ]
 }

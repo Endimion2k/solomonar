@@ -119,10 +119,10 @@
     {
       "tip": "conflict_confirmat",
       "severitate": "mare",
-      "titlu": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat",
-      "entitate": "Crisan Vasile",
+      "titlu": "Conflict documentat: Dana Gaiseanu are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Dana Gaiseanu",
       "detalii": {
-        "romega_id": "g:b4679da7b3ac4d7b",
+        "romega_id": "g:c06dfa2e659ea635",
         "este_parlamentar": false,
         "incredere_link": "context",
         "firme": [
@@ -133,7 +133,7 @@
           }
         ],
         "total_contracte_ron": 225438871.0,
-        "n_declaratii": 12
+        "n_declaratii": 13
       },
       "provenance": "data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
       "scor": 3
@@ -141,10 +141,10 @@
     {
       "tip": "conflict_confirmat",
       "severitate": "mare",
-      "titlu": "Conflict documentat: Dana Gaiseanu are în declarația de interese firmă cu contracte de stat",
-      "entitate": "Dana Gaiseanu",
+      "titlu": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat",
+      "entitate": "Crisan Vasile",
       "detalii": {
-        "romega_id": "g:c06dfa2e659ea635",
+        "romega_id": "g:b4679da7b3ac4d7b",
         "este_parlamentar": false,
         "incredere_link": "context",
         "firme": [
@@ -45104,40 +45104,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 6 companii: Denisa Maria Radulescu",
-      "entitate": "Denisa Maria Radulescu",
-      "detalii": {
-        "romega_id": "g:8fc1de4f6cb9b351",
-        "camera": null,
-        "partid": "",
-        "n_companii": 6,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
       "titlu": "Persoană prezentă în 6 companii: Buzuleciu Dorin Gheorghe",
       "entitate": "Buzuleciu Dorin Gheorghe",
       "detalii": {
         "romega_id": "g:eecb7e47ad1f3b30",
-        "camera": null,
-        "partid": "",
-        "n_companii": 6,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 6 companii: Bultoc Gheorghita",
-      "entitate": "Bultoc Gheorghita",
-      "detalii": {
-        "romega_id": "g:fc8e58c2d8125b41",
         "camera": null,
         "partid": "",
         "n_companii": 6,
@@ -45170,6 +45140,21 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
+      "titlu": "Persoană prezentă în 6 companii: Bultoc Gheorghita",
+      "entitate": "Bultoc Gheorghita",
+      "detalii": {
+        "romega_id": "g:fc8e58c2d8125b41",
+        "camera": null,
+        "partid": "",
+        "n_companii": 6,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
       "titlu": "Persoană prezentă în 6 companii: Ciprian Cozmanciuc Ilie",
       "entitate": "Ciprian Cozmanciuc Ilie",
       "detalii": {
@@ -45185,13 +45170,13 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 5 companii: Bala Cristian Florin",
-      "entitate": "Bala Cristian Florin",
+      "titlu": "Persoană prezentă în 6 companii: Denisa Maria Radulescu",
+      "entitate": "Denisa Maria Radulescu",
       "detalii": {
-        "romega_id": "g:dfd96155b346294f",
+        "romega_id": "g:8fc1de4f6cb9b351",
         "camera": null,
         "partid": "",
-        "n_companii": 5,
+        "n_companii": 6,
         "firme": []
       },
       "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
@@ -45200,55 +45185,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 5 companii: Alexandru Grecu Tudor",
-      "entitate": "Alexandru Grecu Tudor",
+      "titlu": "Persoană prezentă în 5 companii: Jurubita Ramona",
+      "entitate": "Jurubita Ramona",
       "detalii": {
-        "romega_id": "g:c71463fa09d1e85e",
-        "camera": null,
-        "partid": "",
-        "n_companii": 5,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 5 companii: Ali Madadi",
-      "entitate": "Ali Madadi",
-      "detalii": {
-        "romega_id": "g:28f67966f614dfd8",
-        "camera": null,
-        "partid": "",
-        "n_companii": 5,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 5 companii: Paula Raluca Soare",
-      "entitate": "Paula Raluca Soare",
-      "detalii": {
-        "romega_id": "g:7c34d082c0bdb06d",
-        "camera": null,
-        "partid": "",
-        "n_companii": 5,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 5 companii: Angelescu Floarea",
-      "entitate": "Angelescu Floarea",
-      "detalii": {
-        "romega_id": "g:3fd276329a4c0dc0",
+        "romega_id": "g:1c085db14d8e05a1",
         "camera": null,
         "partid": "",
         "n_companii": 5,
@@ -45279,6 +45219,66 @@
       "entitate": "Corduneanu Gabriela Imperia Maria",
       "detalii": {
         "romega_id": "g:28a459a92bf43c76",
+        "camera": null,
+        "partid": "",
+        "n_companii": 5,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 5 companii: Ali Madadi",
+      "entitate": "Ali Madadi",
+      "detalii": {
+        "romega_id": "g:28f67966f614dfd8",
+        "camera": null,
+        "partid": "",
+        "n_companii": 5,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 5 companii: Angelescu Floarea",
+      "entitate": "Angelescu Floarea",
+      "detalii": {
+        "romega_id": "g:3fd276329a4c0dc0",
+        "camera": null,
+        "partid": "",
+        "n_companii": 5,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 5 companii: Alexandru Grecu Tudor",
+      "entitate": "Alexandru Grecu Tudor",
+      "detalii": {
+        "romega_id": "g:c71463fa09d1e85e",
+        "camera": null,
+        "partid": "",
+        "n_companii": 5,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 5 companii: Bala Cristian Florin",
+      "entitate": "Bala Cristian Florin",
+      "detalii": {
+        "romega_id": "g:dfd96155b346294f",
         "camera": null,
         "partid": "",
         "n_companii": 5,
@@ -45335,10 +45335,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 5 companii: Jurubita Ramona",
-      "entitate": "Jurubita Ramona",
+      "titlu": "Persoană prezentă în 5 companii: Paula Raluca Soare",
+      "entitate": "Paula Raluca Soare",
       "detalii": {
-        "romega_id": "g:1c085db14d8e05a1",
+        "romega_id": "g:7c34d082c0bdb06d",
         "camera": null,
         "partid": "",
         "n_companii": 5,
@@ -45350,10 +45350,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Iacob Ovidiu Turcu",
-      "entitate": "Iacob Ovidiu Turcu",
+      "titlu": "Persoană prezentă în 4 companii: Aktiv Insolventa Lex Sprl",
+      "entitate": "Aktiv Insolventa Lex Sprl",
       "detalii": {
-        "romega_id": "g:a41e3553b1f2a126",
+        "romega_id": "g:c74fd6ee7abff5a1",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45365,145 +45365,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Alexandru Popa",
-      "entitate": "Alexandru Popa",
+      "titlu": "Persoană prezentă în 4 companii: Andra Florina Pancu",
+      "entitate": "Andra Florina Pancu",
       "detalii": {
-        "romega_id": "p:c48281895105d022",
-        "camera": "deputat",
-        "partid": "Partidul Național Liberal",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Catalin Florin Neacsu",
-      "entitate": "Catalin Florin Neacsu",
-      "detalii": {
-        "romega_id": "g:2e3c6ae436bbaf72",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Gherghe Vlad",
-      "entitate": "Gherghe Vlad",
-      "detalii": {
-        "romega_id": "g:1f72d2ccb6ef9ad4",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Alin Negrescu Vasile",
-      "entitate": "Alin Negrescu Vasile",
-      "detalii": {
-        "romega_id": "g:c8a5f15780b2c222",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Andreev Mircea",
-      "entitate": "Andreev Mircea",
-      "detalii": {
-        "romega_id": "g:d56d5938c247f75f",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Calutu Stefanita",
-      "entitate": "Calutu Stefanita",
-      "detalii": {
-        "romega_id": "g:92d59e47d944f1f1",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Rene Schob",
-      "entitate": "Rene Schob",
-      "detalii": {
-        "romega_id": "g:c1f0f205b5c6c7d5",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Dan Urse",
-      "entitate": "Dan Urse",
-      "detalii": {
-        "romega_id": "g:27c136067aa861a1",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Sima Stan",
-      "entitate": "Sima Stan",
-      "detalii": {
-        "romega_id": "g:9235a02d8bb606fa",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Expresss Ipurl Lichidator",
-      "entitate": "Expresss Ipurl Lichidator",
-      "detalii": {
-        "romega_id": "g:a0e6076e4c2d4166",
+        "romega_id": "g:fce298fd8d9096f5",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45530,10 +45395,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Jozsef Panea",
-      "entitate": "Jozsef Panea",
+      "titlu": "Persoană prezentă în 4 companii: Gheorghe Stanescu",
+      "entitate": "Gheorghe Stanescu",
       "detalii": {
-        "romega_id": "g:86e32dcd5686a6ab",
+        "romega_id": "g:9b7a66d3e7ee5177",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45560,10 +45425,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Gheorghe Stanescu",
-      "entitate": "Gheorghe Stanescu",
+      "titlu": "Persoană prezentă în 4 companii: Ion Radu",
+      "entitate": "Ion Radu",
       "detalii": {
-        "romega_id": "g:9b7a66d3e7ee5177",
+        "romega_id": "g:89b9181851021973",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45575,55 +45440,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Andreescu Crisan Rudolf",
-      "entitate": "Andreescu Crisan Rudolf",
+      "titlu": "Persoană prezentă în 4 companii: Merica Radu",
+      "entitate": "Merica Radu",
       "detalii": {
-        "romega_id": "g:b552711eafce6807",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Iftime Serban",
-      "entitate": "Iftime Serban",
-      "detalii": {
-        "romega_id": "g:a9bd4b30c40bb3f4",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Alina Dimitriu",
-      "entitate": "Alina Dimitriu",
-      "detalii": {
-        "romega_id": "g:bfdf6b52a1bc0d29",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Ardeleanu Petra Silvana",
-      "entitate": "Ardeleanu Petra Silvana",
-      "detalii": {
-        "romega_id": "g:fe6708cc97a744a7",
+        "romega_id": "g:6dce5115b807ff76",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45666,10 +45486,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Merica Radu",
-      "entitate": "Merica Radu",
+      "titlu": "Persoană prezentă în 4 companii: Alin Negrescu Vasile",
+      "entitate": "Alin Negrescu Vasile",
       "detalii": {
-        "romega_id": "g:6dce5115b807ff76",
+        "romega_id": "g:c8a5f15780b2c222",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45681,72 +45501,12 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Ion Radu",
-      "entitate": "Ion Radu",
+      "titlu": "Persoană prezentă în 4 companii: Alexandru Popa",
+      "entitate": "Alexandru Popa",
       "detalii": {
-        "romega_id": "g:89b9181851021973",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Ileana Iuliana",
-      "entitate": "Ileana Iuliana",
-      "detalii": {
-        "romega_id": "g:af0cb34bcc734cff",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Adrian Anita Mihai",
-      "entitate": "Adrian Anita Mihai",
-      "detalii": {
-        "romega_id": "g:14fe2e9859a5717b",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Andra Florina Pancu",
-      "entitate": "Andra Florina Pancu",
-      "detalii": {
-        "romega_id": "g:fce298fd8d9096f5",
-        "camera": null,
-        "partid": "",
-        "n_companii": 4,
-        "firme": []
-      },
-      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
-      "scor": 1
-    },
-    {
-      "tip": "concentrare_persoana",
-      "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Aldescu Ioana",
-      "entitate": "Aldescu Ioana",
-      "detalii": {
-        "romega_id": "g:4911788a1b47df20",
-        "camera": null,
-        "partid": "",
+        "romega_id": "p:c48281895105d022",
+        "camera": "deputat",
+        "partid": "Partidul Național Liberal",
         "n_companii": 4,
         "firme": []
       },
@@ -45777,10 +45537,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Ipurl Rim Trust",
-      "entitate": "Ipurl Rim Trust",
+      "titlu": "Persoană prezentă în 4 companii: Andreev Mircea",
+      "entitate": "Andreev Mircea",
       "detalii": {
-        "romega_id": "g:8ebc68167b8311d7",
+        "romega_id": "g:d56d5938c247f75f",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45792,10 +45552,175 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Baltes Eugen Severius",
-      "entitate": "Baltes Eugen Severius",
+      "titlu": "Persoană prezentă în 4 companii: Asociatii Si Sprl Tanasa",
+      "entitate": "Asociatii Si Sprl Tanasa",
       "detalii": {
-        "romega_id": "g:0d0a75f44d54e6ca",
+        "romega_id": "g:d9707004503a0b3d",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Gabriel Ghindea Marcel",
+      "entitate": "Gabriel Ghindea Marcel",
+      "detalii": {
+        "romega_id": "g:30459f4f12e1aa7a",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Jani Zamfir",
+      "entitate": "Jani Zamfir",
+      "detalii": {
+        "romega_id": "g:05fb66ab9a61c577",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Jozsef Panea",
+      "entitate": "Jozsef Panea",
+      "detalii": {
+        "romega_id": "g:86e32dcd5686a6ab",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Catalin Florin Neacsu",
+      "entitate": "Catalin Florin Neacsu",
+      "detalii": {
+        "romega_id": "g:2e3c6ae436bbaf72",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Gherghe Vlad",
+      "entitate": "Gherghe Vlad",
+      "detalii": {
+        "romega_id": "g:1f72d2ccb6ef9ad4",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Sima Stan",
+      "entitate": "Sima Stan",
+      "detalii": {
+        "romega_id": "g:9235a02d8bb606fa",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Dan Urse",
+      "entitate": "Dan Urse",
+      "detalii": {
+        "romega_id": "g:27c136067aa861a1",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Calutu Stefanita",
+      "entitate": "Calutu Stefanita",
+      "detalii": {
+        "romega_id": "g:92d59e47d944f1f1",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Rene Schob",
+      "entitate": "Rene Schob",
+      "detalii": {
+        "romega_id": "g:c1f0f205b5c6c7d5",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Iasi Lichidare Management Reorganizare Sprl",
+      "entitate": "Iasi Lichidare Management Reorganizare Sprl",
+      "detalii": {
+        "romega_id": "g:c03328414737147c",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Iacob Ovidiu Turcu",
+      "entitate": "Iacob Ovidiu Turcu",
+      "detalii": {
+        "romega_id": "g:a41e3553b1f2a126",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45852,10 +45777,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Aktiv Insolventa Lex Sprl",
-      "entitate": "Aktiv Insolventa Lex Sprl",
+      "titlu": "Persoană prezentă în 4 companii: Adrian Anita Mihai",
+      "entitate": "Adrian Anita Mihai",
       "detalii": {
-        "romega_id": "g:c74fd6ee7abff5a1",
+        "romega_id": "g:14fe2e9859a5717b",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45867,10 +45792,85 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Dinca Mircea Valentin",
-      "entitate": "Dinca Mircea Valentin",
+      "titlu": "Persoană prezentă în 4 companii: Andreescu Crisan Rudolf",
+      "entitate": "Andreescu Crisan Rudolf",
       "detalii": {
-        "romega_id": "g:a5f1ca87a40a9c08",
+        "romega_id": "g:b552711eafce6807",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Ardeleanu Petra Silvana",
+      "entitate": "Ardeleanu Petra Silvana",
+      "detalii": {
+        "romega_id": "g:fe6708cc97a744a7",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Alina Dimitriu",
+      "entitate": "Alina Dimitriu",
+      "detalii": {
+        "romega_id": "g:bfdf6b52a1bc0d29",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Iftime Serban",
+      "entitate": "Iftime Serban",
+      "detalii": {
+        "romega_id": "g:a9bd4b30c40bb3f4",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Aldescu Ioana",
+      "entitate": "Aldescu Ioana",
+      "detalii": {
+        "romega_id": "g:4911788a1b47df20",
+        "camera": null,
+        "partid": "",
+        "n_companii": 4,
+        "firme": []
+      },
+      "provenance": "solomonar.duckdb person_company GROUP BY romega_id HAVING count>3",
+      "scor": 1
+    },
+    {
+      "tip": "concentrare_persoana",
+      "severitate": "mica",
+      "titlu": "Persoană prezentă în 4 companii: Ileana Iuliana",
+      "entitate": "Ileana Iuliana",
+      "detalii": {
+        "romega_id": "g:af0cb34bcc734cff",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45897,10 +45897,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Iasi Lichidare Management Reorganizare Sprl",
-      "entitate": "Iasi Lichidare Management Reorganizare Sprl",
+      "titlu": "Persoană prezentă în 4 companii: Dinca Mircea Valentin",
+      "entitate": "Dinca Mircea Valentin",
       "detalii": {
-        "romega_id": "g:c03328414737147c",
+        "romega_id": "g:a5f1ca87a40a9c08",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45912,10 +45912,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Gabriel Ghindea Marcel",
-      "entitate": "Gabriel Ghindea Marcel",
+      "titlu": "Persoană prezentă în 4 companii: Ipurl Rim Trust",
+      "entitate": "Ipurl Rim Trust",
       "detalii": {
-        "romega_id": "g:30459f4f12e1aa7a",
+        "romega_id": "g:8ebc68167b8311d7",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45927,10 +45927,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Asociatii Si Sprl Tanasa",
-      "entitate": "Asociatii Si Sprl Tanasa",
+      "titlu": "Persoană prezentă în 4 companii: Baltes Eugen Severius",
+      "entitate": "Baltes Eugen Severius",
       "detalii": {
-        "romega_id": "g:d9707004503a0b3d",
+        "romega_id": "g:0d0a75f44d54e6ca",
         "camera": null,
         "partid": "",
         "n_companii": 4,
@@ -45942,10 +45942,10 @@
     {
       "tip": "concentrare_persoana",
       "severitate": "mica",
-      "titlu": "Persoană prezentă în 4 companii: Jani Zamfir",
-      "entitate": "Jani Zamfir",
+      "titlu": "Persoană prezentă în 4 companii: Expresss Ipurl Lichidator",
+      "entitate": "Expresss Ipurl Lichidator",
       "detalii": {
-        "romega_id": "g:05fb66ab9a61c577",
+        "romega_id": "g:a0e6076e4c2d4166",
         "camera": null,
         "partid": "",
         "n_companii": 4,

@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-09-27T10:25:31.644177+00:00",
+ "generated_at": "2026-09-27T14:58:39.546430+00:00",
  "sursa": "guvernanta.gov.ro — Guvernul României, registrul companiilor de stat (OUG 109/2011 art. 51)",
  "source_url": "https://guvernanta.gov.ro/data/registry.json",
- "source_generated_at": "2026-09-25T13:49:57.422836Z",
- "source_published_at": "2026-09-25T14:13:31+00:00",
+ "source_generated_at": "2026-09-25T12:49:57.422836Z",
+ "source_published_at": "2026-09-25T14:12:31+00:00",
  "nota": "Date deschise publicate de Guvern. Remunerația = brut lunar declarat, așa cum e raportat (câteva valori par incomplete la sursă). Potrivirea cu graful SOLOMONAR: 'confirmat' = nume + aceeași companie; 'candidat' = nume unic, fără confirmare pe companie (posibilă omonimie). Comparația cu ONRC e un semnal de verificat: registrul ONRC poate fi mai vechi.",
  "n_companii": 121,
  "n_persoane": 586,
  "n_numiri": 697,
  "n_potrivite": {
   "confirmat": 506,
-  "candidat": 50
+  "candidat": 52
  },
  "afiliere_politica": {
   "Fără apartenență politică": 371,
@@ -9118,9 +9118,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-08-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/5439903/CV_Ciprian_Chiorean.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:1a56bb6855216694",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_d2e29697f90025f488",
@@ -9917,9 +9917,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2028-11-07",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1890659/CV_Carmen_Ursu-redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:478322a8b3a09519",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_0c3e07943f2d0b5611",

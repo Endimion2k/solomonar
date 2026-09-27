@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-09T07:12:53.326489+00:00",
-  "sursa": "servicii deconcentrate, declaratii de INTERESE, text+OCR",
-  "total": 6961,
+  "generated_at": "2026-09-27T13:25:27.708878+00:00",
+  "sursa": "companii de stat, declaratii de INTERESE, text+OCR",
+  "total": 7035,
   "declaratii": [
     {
       "institutie": "ACMVOL DESIGN S.A.",
@@ -1374,6 +1374,24 @@
       "nume_norm": "BADEA MARIAN"
     },
     {
+      "institutie": "APĂ CANAL BOBICEŞTI SRL",
+      "pdf_url": "https://www.bobicesti.ro/wp-content/uploads/2025/06/Ilie-CHITEZ-Declaratie-de-interese-iun-2025.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Asociația Comunelor din România - Președinte interimar al filialei Olt",
+        "4.1 Partidul Social Democrat - Președinte Organizația locală comuna Bobicești"
+      ],
+      "nume": "ILIE CHITEZ IUN",
+      "nume_norm": "CHITEZ ILIE IUN"
+    },
+    {
       "institutie": "ECO - SAL SA",
       "pdf_url": "https://eco-sal.ro/wp-content/uploads/2023/08/Tiplea-Mircea.pdf",
       "ocr": false,
@@ -1423,6 +1441,24 @@
       ],
       "nume": "BADEA MARIAN",
       "nume_norm": "BADEA MARIAN"
+    },
+    {
+      "institutie": "APĂ CANAL BOBICEŞTI SRL",
+      "pdf_url": "https://www.bobicesti.ro/wp-content/uploads/2023/06/decl-interes-Chitez-Ilie.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Asociația Comunelor din România - Vicepreședinte al filialei Olt",
+        "4.1 Partidul Social Democrat - Președinte Organizația locală comuna Bobicești"
+      ],
+      "nume": "CHITEZ ILIE",
+      "nume_norm": "CHITEZ ILIE"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -2067,6 +2103,24 @@
       ],
       "nume": "DIACU CODRUTA",
       "nume_norm": "CODRUTA DIACU"
+    },
+    {
+      "institutie": "GUGULANIA LAND SRL",
+      "pdf_url": "https://gugulania-land.ro/wp-content/uploads/2025/02/DI-Nicolae-Selner.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 SC GUGULANIA LAND SRL",
+        "1.1 SC Selvinder Jobs SRL"
+      ],
+      "nume": "NICOLAE SELNER",
+      "nume_norm": "NICOLAE SELNER"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -5935,6 +5989,40 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-CATRINA-2024.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "4.1 PARTIDUL NATIONAL LIBERAL Organizatia Locala Priboieni - PRESEDINTE"
+      ],
+      "nume": "CATRINA",
+      "nume_norm": "CATRINA"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-STANCIU-2024.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICATUL LIBER INDEPENDENT COMPONENTE AUTO - MEMBRU"
+      ],
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DI-Iordache-Constantin.pdf",
       "ocr": false,
       "actionariat": 4,
@@ -6062,6 +6150,24 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-2022-CATRINA.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 Salubritate 2000 SA - Pitesti",
+        "4.1 PARTIDUL NATIONAL LIBERAL Organizatia Locala Priboieni - PRESEDINTE"
+      ],
+      "nume": "CATRINA",
+      "nume_norm": "CATRINA"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-CLOSCAN-2022.pdf",
       "ocr": false,
       "actionariat": 2,
@@ -6098,6 +6204,23 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-STANCIU-2022.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICATUL LIBER INDEPENDENT COMPONENTE AUTO - MEMBRU"
+      ],
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DI-Lupu-Sorin.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -6116,6 +6239,24 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-LUPU-2022.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 30120,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 SC LUP MARIS MARKET SRL LUPU",
+        "4.1 PSD PRIBOIENI - PRESEDINTE"
+      ],
+      "nume": "LUPU",
+      "nume_norm": "LUPU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DI-Iliescu-Florica-Lilieana.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -6128,6 +6269,23 @@
       "entitati": [],
       "nume": "ILIESCU FLORICA LILIEANA",
       "nume_norm": "FLORICA ILIESCU LILIEANA"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-INTERESE-LUPU-2024.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "4.1 PSD PRIBOIENI - PRESEDINTE"
+      ],
+      "nume": "LUPU",
+      "nume_norm": "LUPU"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -7350,6 +7508,46 @@
       ],
       "nume": "DRAGOMIR SAVU",
       "nume_norm": "DRAGOMIR SAVU"
+    },
+    {
+      "institutie": "SALUBRITATE 2000 SA",
+      "pdf_url": "http://www.salubritate-2000.ro/wp-content/uploads/2017/D2/Declaratie%20de%20interese%20Dragomir%20Savu.PDF",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 4,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 ...... GENERAL PREST SA actionar 41% 256.250",
+        "2.1 ...... GENERAL PREST SA administrator",
+        "DRAGON CONSULT SRL administrator",
+        "SC SALUBRIT ATE 2000 SA Pre$edinte CA 25.068",
+        "ad€sa contactul",
+        "economic, ale asociatiilor sau fundatiilor ori-ale altor organizatii ne!!Uvem,am"
+      ],
+      "nume": "DRAGOMIR SAVU",
+      "nume_norm": "DRAGOMIR SAVU"
+    },
+    {
+      "institutie": "SALUBRITATE 2000 SA",
+      "pdf_url": "http://www.salubritate-2000.ro/wp-content/uploads/2017/D2/Declaratie%20de%20interese%20Becheanu%20Romi.PDF",
+      "ocr": false,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "SALUBRITATE 2000 SA Pitqti Administrator",
+        "�_:..!_: SC ROFEXIIVI SRL Pite�ti asocial 80% 160"
+      ],
+      "nume": "BECHEANU ROMI",
+      "nume_norm": "BECHEANU ROMI"
     },
     {
       "institutie": "SALUBRITATE 2000 SA",
@@ -9221,6 +9419,22 @@
     },
     {
       "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/DunoseMDI_201021.pdf",
+      "ocr": false,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 380,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 VEGMAR INDUSTRY S.R.L.",
+        "1.2 MED PHARM SUPPLY S.R.L."
+      ]
+    },
+    {
+      "institutie": "IOR SA",
       "pdf_url": "https://www.ior.ro/wp-content/uploads/2024/07/DI Radu.pdf",
       "ocr": false,
       "actionariat": 3,
@@ -9241,6 +9455,19 @@
       ],
       "nume": "RADU",
       "nume_norm": "RADU"
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/DobrinODI_261021.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": []
     },
     {
       "institutie": "IOR SA",
@@ -9277,6 +9504,22 @@
     },
     {
       "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/FlorescuADI_021121.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 1000,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 Asociatia TU DECIZI",
+        "2.1 IOR SA Sectorul 4 Bucuresti"
+      ]
+    },
+    {
+      "institutie": "IOR SA",
       "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/FloricaCCDI_1094205.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -9288,6 +9531,21 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "3.1 Sindicatul Independent IOR - Membru"
+      ]
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/EnuicaMDI_051121.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 SC Kudonex SRL - Sectorul 2"
       ]
     },
     {
@@ -9500,6 +9758,46 @@
         "1.2 BAITA SA - Bihor Membru Consiliul de",
         "1.3 ASOCIATIA INSTITUTUL",
         "1.4 FUNDATIA COLEGIULUI"
+      ]
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/MacoveiciucADI_291021.pdf",
+      "ocr": false,
+      "actionariat": 2,
+      "conducere": 3,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 200,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 Knowlability SRL",
+        "1.2 Blowout SRL - Sectorul",
+        "2.1 SC IOR SA Sectorul 3",
+        "2.2 CNCAF Minvest Deva SA Deva Altele Membru in Consiliul de",
+        "2.3 CNU SA Sectorul 2 Bucuresti Altele Membru in Consiliul de"
+      ]
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/ManafuADI_111121.pdf",
+      "ocr": false,
+      "actionariat": 4,
+      "conducere": 3,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 200,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 ANTIC NOI SRL - Sectorul 4",
+        "1.2 Asociația municipala de",
+        "1.3 Asociația Institutul cultural",
+        "1.4 FUNDATIA COLEGIULUI",
+        "2.1 FUNDAȚIA POST PRIVATIZARE",
+        "2.2 IOR SA Sectorul 3 Bucuresti",
+        "2.3 BAITA SA Stei Bihor STR CUZA"
       ]
     },
     {
@@ -9925,6 +10223,22 @@
       ],
       "nume": "VARSENDAN",
       "nume_norm": "VARSENDAN"
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/VoicuVDI_161121.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1 IOR SA Sectorul 6 Bucuresti Membru presedinte consiliu de",
+        "2.2 Cuprumin SA Abrud Alba Membru presedinte consiliu de"
+      ]
     },
     {
       "institutie": "IOR SA",
@@ -11697,6 +12011,23 @@
       ],
       "nume": "NAE EUGEN",
       "nume_norm": "EUGEN NAE"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/16703954/Declaratie_interese_2023_Bosca_Claudiu_Valeriu.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICAT ELECTRO-ENERGETICA CLUJ - MEMBRU"
+      ],
+      "nume": "BOSCA CLAUDIU VALERIU",
+      "nume_norm": "BOSCA CLAUDIU VALERIU"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -15073,6 +15404,24 @@
       ],
       "nume": "SIMON CATALIN",
       "nume_norm": "CATALIN SIMON"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/11463444/Declaratie_Avere_2020_Mogos-Daniela.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizată/ Asociaţii familiale/ Cabinete",
+        "neguvernamentale/ Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "MOGOS DANIELA",
+      "nume_norm": "DANIELA MOGOS"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -29017,6 +29366,24 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DRAGHICI_Ghe_iunie_2022.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 23,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 90414,
+      "entitati": [
+        "3.1 Sindicatul salariatilor din ANCOM - membru",
+        "SC Cristal SRL Carei,"
+      ],
+      "nume": "DRAGHICI GHE",
+      "nume_norm": "DRAGHICI GHE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_Dragoiu_Gheorghe.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -33688,6 +34055,23 @@
       ],
       "nume": "MARICA SORIN ADRIAN",
       "nume_norm": "ADRIAN MARICA SORIN"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_interese_Margineanu_Bogdan_30_zile_de_la_numire_Sef_Serviciu.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 3,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.2 Sindicatul liber al salariatilor din ANC - Membru"
+      ],
+      "nume": "MARGINEANU BOGDAN SEF SERVICIU",
+      "nume_norm": "BOGDAN MARGINEANU SEF SERVICIU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -45834,6 +46218,25 @@
       "nume_norm": "CRISTINA FLOREA"
     },
     {
+      "institutie": "ACMVOL DESIGN S.A.",
+      "pdf_url": "https://acmvol.ro/wp-content/uploads/DECLARATIE-DE-INTERESE-GHINCEA-ADRIANA-2023-2.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 SC EURO APAVOL SA",
+        "Societati comerciale/Persoana fizica autorizata/ Asociatii familiale/Cabineteind",
+        "interes economic, ale asociatiilor sau fundatiilor oriale altor organizatii negu"
+      ],
+      "nume": "GHINCEA ADRIANA",
+      "nume_norm": "ADRIANA GHINCEA"
+    },
+    {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
       "pdf_url": "https://mangalia.ro/wp-content/uploads/2016/09/CRISTEA-IRINA-CAMELIA-1.pdf",
       "ocr": true,
@@ -49015,6 +49418,24 @@
       ],
       "nume": "POPESCU NICOLETA",
       "nume_norm": "NICOLETA POPESCU"
+    },
+    {
+      "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
+      "pdf_url": "http://www.mangalia.ro/wp-content/uploads/2016/09/PREDESEL-ADRIAN.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociati",
+        "fundatii/ asociatii ?"
+      ],
+      "nume": "PREDESEL ADRIAN",
+      "nume_norm": "ADRIAN PREDESEL"
     },
     {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
@@ -55086,6 +55507,24 @@
     },
     {
       "institutie": "SALUBRIS SA",
+      "pdf_url": "https://salubris.ro/wp-content/uploads/2020/08/OANA-STEFANIA-BULARDA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "aulorizata/ Asociati faniliale/ Cabinete",
+        "neguvernamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "OANA STEFANIA BULARDA",
+      "nume_norm": "BULARDA OANA STEFANIA"
+    },
+    {
+      "institutie": "SALUBRIS SA",
       "pdf_url": "https://salubris.ro/wp-content/uploads/2020/06/RADU-FILIMON.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -60335,6 +60774,28 @@
     },
     {
       "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-Avere-Mihai-Marian-2018.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 5,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1. S.C Gospodarire Urbana S.R.L Galati",
+        "2.2.S.C Industrial Parc S.R.L.Galati",
+        "2.3. S.C Transurb S.A Vaslui",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "imteres economic ale asociatilor sau fumdatiiloror alealtororganizati neguvernam",
+        "neguvemamentale/Fundati/Asociatir?"
+      ],
+      "nume": "MIHAI MARIAN",
+      "nume_norm": "MARIAN MIHAI"
+    },
+    {
+      "institutie": "TRANSURB SA",
       "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/declaratia-de-avere-si-interese-2021-Placinta-Mariana.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -60368,6 +60829,28 @@
       ],
       "nume": "BOGOS VALERIU",
       "nume_norm": "BOGOS VALERIU"
+    },
+    {
+      "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-avere-Aprodu-Catalin-2018.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 26,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 298077,
+      "entitati": [
+        "3.1 membru in cadrul Sindicatului Salariatilor din Societatile Feroviare Regiona",
+        "BCR SA",
+        "SC Transurb SA",
+        "SC Transurb SA Vaslui,",
+        "autorizata/Asociatiifamiliale/Cabi",
+        "vernamentale/Fundati/Asociatii *2)"
+      ],
+      "nume": "APRODU CATALIN",
+      "nume_norm": "APRODU CATALIN"
     },
     {
       "institutie": "TRANSURB SA",
@@ -60482,6 +60965,24 @@
     },
     {
       "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-avere-si-interese-Moldoveanu-Ioan-Alin-2021.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 2,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "PARTIDUL UNIUNEA SALVATI ROMANIA VASLUI - MEMBRU IN BIROUL FILIALEI LOCALE",
+        "neguvemameatale/Fundati/ Asociati?"
+      ],
+      "nume": "MOLDOVEANU IOAN ALIN",
+      "nume_norm": "ALIN IOAN MOLDOVEANU"
+    },
+    {
+      "institutie": "TRANSURB SA",
       "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-Avere-si-interese-Avram-Rusu-Gica-2021.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -60499,6 +61000,26 @@
       ],
       "nume": "AVRAM RUSU GICA",
       "nume_norm": "AVRAM GICA RUSU"
+    },
+    {
+      "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-avere-si-interese-Aprodu-Catalin-2021.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 membru in cadrul Sindicatului Miscare Feroviara Regionala lasi.",
+        "SC Transurb SA",
+        "autorizata/ Asociatiifamiliale/Cabi",
+        "vernamentale/Fundati/ Asociatii *2)"
+      ],
+      "nume": "APRODU CATALIN",
+      "nume_norm": "APRODU CATALIN"
     },
     {
       "institutie": "TRANSURB SA",
@@ -61639,6 +62160,25 @@
       ],
       "nume": "MANEA LIVIU FLORIN",
       "nume_norm": "FLORIN LIVIU MANEA"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/11463432/Declaratie_Avere_2020_Matei-Nicolae.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.2 Membru sindicat Executiv - Transelectrica",
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguvenamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "MATEI NICOLAE",
+      "nume_norm": "MATEI NICOLAE"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -63615,6 +64155,25 @@
       ],
       "nume": "BORUZ ADRIAN LIVIU",
       "nume_norm": "ADRIAN BORUZ LIVIU"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/11463432/Declaratie_Avere_Interese_2020_Strutu-Georgiana (2).pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Membru in Sindicatul D.E.N.",
+        "autorizata/ Asociatii familiale/ Cabinete",
+        "neguvenamentale/Fundati Asociafir"
+      ],
+      "nume": "STRUTU GEORGIANA",
+      "nume_norm": "GEORGIANA STRUTU"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -71586,6 +72145,24 @@
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/8136138/Declaratie_Avere_2018_Codreanu-Cezarina.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Metbru Federatia Nationala a Sindicatelor din Electricitate ,UNIVERS\"",
+        "at touizatal Asociati familiale/ Cabinete"
+      ],
+      "nume": "CODREANU CEZARINA",
+      "nume_norm": "CEZARINA CODREANU"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
       "pdf_url": "https://www.transelectrica.ro/documents/10179/8136138/Declaratie_Avere_2018_Danciulescu-Mirela.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -72049,6 +72626,24 @@
       ],
       "nume": "APOSTOL SILVIU DANIEL",
       "nume_norm": "APOSTOL DANIEL SILVIU"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/8136138/Declaratie_Avere_2018_Raducu-Marian-Augustin.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociatii familiale/ Cabinete",
+        "neguvemamentale/ Fundaji/ Asociati?"
+      ],
+      "nume": "RADUCU MARIAN AUGUSTIN",
+      "nume_norm": "AUGUSTIN MARIAN RADUCU"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -74373,6 +74968,24 @@
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
+      "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/09/Chifor-Vasile-1.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "CHIFOR VASILE",
+      "nume_norm": "CHIFOR VASILE"
+    },
+    {
+      "institutie": "URBI-SERV PECICA S.A.",
       "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/12/Demeter-Nicolae-1.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -74421,6 +75034,26 @@
       "entitati": [
         "4. 1 ......VICE PRESEDINTE PNL PECICA-neremunerat",
         "autorizat/ Asociati familiale/ Cabinete"
+      ],
+      "nume": "BAGUT CIPRIAN",
+      "nume_norm": "BAGUT CIPRIAN"
+    },
+    {
+      "institutie": "URBI-SERV PECICA S.A.",
+      "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/09/Bagut-Ciprian-1-2.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......SC BAGUT COMPANY SRL",
+        "SC CINA COMIMPEX SRL",
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvernamentale/ Fundafi/ Asociati?)"
       ],
       "nume": "BAGUT CIPRIAN",
       "nume_norm": "BAGUT CIPRIAN"
@@ -74560,6 +75193,32 @@
         "ASOCIATIA UMANITARA ELIORA",
         "autorizat Asociati familiale/ Cabinete",
         "neguvemamentale/FundatiAsociair"
+      ],
+      "nume": "ANTAL PETRU",
+      "nume_norm": "ANTAL PETRU"
+    },
+    {
+      "institutie": "URBI-SERV PECICA S.A.",
+      "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/09/Antal-Petru-1-1.pdf",
+      "ocr": true,
+      "actionariat": 5,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......SC ANTAL SERV COMIMPEX SRL PECICA",
+        "2.1......ASOCIATIA PENSIONARILOR",
+        "4.1......PRESEDINTE IN BIROUL PERMANENT LOCAL PNL PECICA",
+        "ASOCIATIA UMANITARA ELIORA",
+        "PECICA SRL",
+        "SC FRESH VEGETABLE GARDEN SRL",
+        "SC NOBLESSE FANTASY SRL",
+        "SC PITA TRADITIONALA DE CASA DE LA",
+        "autorizata/ Asociati famniliale/ Cabinete",
+        "neguvemamentale/Fundafi/ Asociati?"
       ],
       "nume": "ANTAL PETRU",
       "nume_norm": "ANTAL PETRU"
@@ -76288,6 +76947,25 @@
       "entitati": [
         "Fundati/ Asociati2)",
         "autorizata/ Asociatii familiale/"
+      ],
+      "nume": "BRASTIN BENIAMIN",
+      "nume_norm": "BENIAMIN BRASTIN"
+    },
+    {
+      "institutie": "URBI-SERV PECICA S.A.",
+      "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/09/Brastin-Beniamin-1.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Fundatii/ Asociati2)",
+        "autorizata/ Asociatii familiale/",
+        "deinteres economic,ale asociatiilor sau fundatiilor oriale altor organizatii neg"
       ],
       "nume": "BRASTIN BENIAMIN",
       "nume_norm": "BENIAMIN BRASTIN"
@@ -81682,6 +82360,43 @@
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-INTERESE-IVAN-FLORIN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 5,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "JC COMPANY AL-DA SRL",
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "IVAN FLORIN",
+      "nume_norm": "FLORIN IVAN"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-INTERESE-MEZEI-KAROLY.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "MEZEI KAROLY",
+      "nume_norm": "KAROLY MEZEI"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
       "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-INTERESE-CALOTESCU-VIORICA.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -81697,6 +82412,24 @@
       ],
       "nume": "CALOTESCU VIORICA",
       "nume_norm": "CALOTESCU VIORICA"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-INTERESE-GROZA-DANUT.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "GROZA DANUT",
+      "nume_norm": "DANUT GROZA"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -82101,6 +82834,24 @@
       ],
       "nume": "STAMATE CRISTIAN",
       "nume_norm": "CRISTIAN STAMATE"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-INTERESE-MANOLE-MARIA-.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "MANOLE MARIA",
+      "nume_norm": "MANOLE MARIA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -82550,6 +83301,23 @@
       "nume_norm": "BIANCA VINTAN"
     },
     {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-INTERESE-VASILCIN-GHEORGHE.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizatalAsociatifamiliale/Cabinete"
+      ],
+      "nume": "VASILCIN GHEORGHE",
+      "nume_norm": "GHEORGHE VASILCIN"
+    },
+    {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
       "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2021/06/beiu-laura-di.pdf",
       "ocr": true,
@@ -82830,6 +83598,25 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "autorizatalAsociatiifamiliale/Cabinete"
+      ],
+      "nume": "BAJAN ANCA",
+      "nume_norm": "ANCA BAJAN"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2020/07/bajan-anca-di.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1......SNFP  MEMBRU SINDICAT",
+        "autorizata/ Asociatii familiale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
       ],
       "nume": "BAJAN ANCA",
       "nume_norm": "ANCA BAJAN"
@@ -84612,6 +85399,22 @@
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2019/08/SKM_C22719080613591.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ]
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
       "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2018/12/ignat_elena_di_2018.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -85060,6 +85863,25 @@
       ],
       "nume": "GOGU STEFAN",
       "nume_norm": "GOGU STEFAN"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2019/11/gogu-stefan-inlocuire-DI.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "economic,ale asociatiilor sau fundatilor oriale altor organizatii neguvernamenta",
+        "neguvenamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "GOGU STEFAN INLOCUIRE",
+      "nume_norm": "GOGU INLOCUIRE STEFAN"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -86413,6 +87235,24 @@
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2020/07/neacsu-liliana-di.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/Asociatifamiliale/Cabinete",
+        "neguvenamentale/ Fundati/ Asociatif?)"
+      ],
+      "nume": "NEACSU LILIANA",
+      "nume_norm": "LILIANA NEACSU"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
       "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2021/06/neacsu-liliana-di.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -87110,6 +87950,24 @@
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2021/06/smahon-antonela-di.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Fundatii/Asociatii2)",
+        "zata/Asociatii familiale"
+      ],
+      "nume": "SMAHON ANTONELA",
+      "nume_norm": "ANTONELA SMAHON"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
       "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2021/06/simion-aurelia-di.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -87441,6 +88299,25 @@
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/ Fundati/ Asociati?"
       ]
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2021/06/toghia-alexandru-di.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRUINCADRULSINDICATULUINATIONALALFUNCTIONARILOR PUBLICI",
+        "autorizata/Asociati familiale/Cabinete",
+        "neguvenamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "TOGHIA ALEXANDRU",
+      "nume_norm": "ALEXANDRU TOGHIA"
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
@@ -88029,6 +88906,24 @@
         "autorizata/Asociatifamiliale/Cabinete",
         "economic,ale asociatilor sau fundatiilor oriale altor organizafii neguvernamenta",
         "neguvemamentale/Fundatil Asociati2"
+      ],
+      "nume": "VALEANU DORU",
+      "nume_norm": "DORU VALEANU"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2020/07/valeanu-doru-di.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizatalAsociatiifamiliale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
       ],
       "nume": "VALEANU DORU",
       "nume_norm": "DORU VALEANU"
@@ -93278,6 +94173,26 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratii_Bruma_Vlad.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 26,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 196226,
+      "entitati": [
+        "Asociatia DDB",
+        "Sindicat ANCOM",
+        "altor'izata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "DECLARATII BRUMA VLAD",
+      "nume_norm": "BRUMA DECLARATII VLAD"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_branici_dan_iunie_2011.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -94455,6 +95370,28 @@
       "valoare_actiuni_ron": 0,
       "valoare_contracte_ron": 0,
       "entitati": [],
+      "nume": "CHILIBAN OVIDIU",
+      "nume_norm": "CHILIBAN OVIDIU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Chiliban_ovidiu_mai_2014.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 27,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 240033,
+      "entitati": [
+        "3.1...... Membru in Sindicatul Liber al Salariatilor ANCOM.",
+        "Targu-Jiu, Aleea Energeticienilor, nr. 9, bl. 9, sc. 2, et. 3,",
+        "autorizata/ Asociati familiale/ Cabinete",
+        "bl. 10, sc. 1, et. 1, ap. 124, Jud.JApartament",
+        "negivenamentale/ Fundati/ Asociati?",
+        "sc. 2, et. 3, ap. 34, Judetul Gorj"
+      ],
       "nume": "CHILIBAN OVIDIU",
       "nume_norm": "CHILIBAN OVIDIU"
     },
@@ -97642,6 +98579,25 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/carinic_adrian_mai_2015.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 24,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "/Fundati/Asociatii2)",
+        "3.1. Sindicatul iber din autoritatea de reglementare in comunicati.",
+        "fizica autorizata/ Asociati"
+      ],
+      "nume": "CARINIC ADRIAN",
+      "nume_norm": "ADRIAN CARINIC"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_crainic_adrian_mai_2013.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -99344,6 +100300,23 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_interese_30_zile_numire_Dospinescu_Bogdan.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Sindicatul Salariatilor din ANCOM - membru"
+      ],
+      "nume": "DOSPINESCU BOGDAN",
+      "nume_norm": "BOGDAN DOSPINESCU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Dragoiu_Gheorghe_Ilie_mai_2019.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -100233,6 +101206,25 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DUMITRESCU_VAL.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 25,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1.....membru - Sindicatul salariatilor din Autoritatea de Reglementare tn Comu",
+        ":autorizata/ Asociatii familiale/Cabinete",
+        "neguvemamentale/ Furdativ Asociati?)"
+      ],
+      "nume": "DUMITRESCU VAL",
+      "nume_norm": "DUMITRESCU VAL"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratii_Enache_Cezar_Petru.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -101056,6 +102048,26 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/filip_victoria_iunie_2015.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 21,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 436108,
+      "entitati": [
+        "/Fundatit/Asociati2)",
+        "3.1. Membru al sindicatului ANcoOM",
+        "iasociatilor sau fundatilor ori aie aitor organizati neguvernamentale:",
+        "ifizica autorizata/ Asociatii"
+      ],
+      "nume": "FILIP VICTORIA",
+      "nume_norm": "FILIP VICTORIA"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/filip_victoria_iunie_2017.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -101072,6 +102084,25 @@
       ],
       "nume": "FILIP VICTORIA",
       "nume_norm": "FILIP VICTORIA"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/filip_victoria_iun2016.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 21,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 420958,
+      "entitati": [
+        "/Fundati/Asociati2)",
+        "3.1, Membru al sindicatului ANcoM",
+        "Ifizicautorizata/Asociati"
+      ],
+      "nume": "FILIP VICTORIA IUN",
+      "nume_norm": "FILIP IUN VICTORIA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -103762,6 +104793,26 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/humita_mihai_nov_2017.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 27,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 263768,
+      "entitati": [
+        "3.1 Membru de sindicat, in Sindicatul Salariatilor din ANCOM",
+        "altorizata/ Asociatii familiale/ Cabinete",
+        "economic ale asociatilor sau fundatilor or ale altor organizatf neguvernamentale",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "HUMITA MIHAI NOV",
+      "nume_norm": "HUMITA MIHAI NOV"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Huja_Adrian_mai_2012.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -105150,6 +106201,24 @@
       ],
       "nume": "IORDACHE GRIGORE",
       "nume_norm": "GRIGORE IORDACHE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/iordache_gabi.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 27,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundatfi/ Asociati?)"
+      ],
+      "nume": "IORDACHE GABI",
+      "nume_norm": "GABI IORDACHE"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -106869,6 +107938,28 @@
         "/Fundati/Asociati2)",
         "SC Aura Best Trip",
         "fizica autorizatä/ Asociatii"
+      ],
+      "nume": "MARGINEAN NICOLAE",
+      "nume_norm": "MARGINEAN NICOLAE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_marginean_nicolae_mai_2014.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 5,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 29,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3. Calitatea de membru n cadrul asociatilor profesonales/sau",
+        "SC Aura Best Trip SRL",
+        "SC Bancpost SA",
+        "auitorizata/ Asociati familiale/ Cabinete",
+        "interes ecomomc ale asociatilor sau fundatiilor or t ale altor organizat neguver",
+        "neguvemamentale/ Fundati/ Asociatir?"
       ],
       "nume": "MARGINEAN NICOLAE",
       "nume_norm": "MARGINEAN NICOLAE"
@@ -108712,6 +109803,37 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Mocanu_Gabriel_iunie_2019.pdf",
+      "ocr": true,
+      "actionariat": 11,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 41,
+      "valoare_actiuni_ron": 1030,
+      "valoare_contracte_ron": 1109922,
+      "entitati": [
+        "/Fundatii/Asociati2)",
+        "1.1 S.C. ANA PLANT & CONSULTING",
+        "1.2. S.C. ELECTROMAGNETICA S.A.",
+        "1.8. S.C. PROCETEL S.A.",
+        "Asociatii",
+        "Banca Romaneasca S.A. - Suc. Domeni",
+        "Banca Romaneasca S.A. - Suc. Domenit [Depozit bancar",
+        "Banca Transiivania S.A. - Agentia",
+        "Banca Transiivania S.A. -- Agentia",
+        "Banca Transilvania S.A. - Agentia",
+        "Banca Transilvania S.A. -- Agentia",
+        "Eurolife ERB Asigurari de Viata S.A..",
+        "OTP Bank Romania S.A. -- Agentia",
+        "S.R.L.",
+        "sc. , et."
+      ],
+      "nume": "MOCANU GABRIEL",
+      "nume_norm": "GABRIEL MOCANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/mocanu_gabriel_iun2016.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -109007,6 +110129,23 @@
       ],
       "nume": "MOLDOVAN PASCAR COSMIN",
       "nume_norm": "COSMIN MOLDOVAN PASCAR"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_moldovan_cosmin_iunie_2011.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 21,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Sa iat"
+      ],
+      "nume": "MOLDOVAN COSMIN",
+      "nume_norm": "COSMIN MOLDOVAN"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -109969,6 +111108,25 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Muresan_George_mai_2013.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 23,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 5905,
+      "entitati": [
+        "/Fundatii/Asociatii?)",
+        "3.1. Membru tn Sindicatul Liber al salariatilor ANC",
+        "Ifizica autorizata/ Asociatii"
+      ],
+      "nume": "MURESAN GEORGE",
+      "nume_norm": "GEORGE MURESAN"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Muresan_George_octombrie_2011.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -110892,6 +112050,25 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Nemet_Sorin_mai_2013.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 19,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.l, Membu de sindicae in Sindicatul Uber al Salerigtllor din Ahc.",
+        "Fondurlor de Pensl Prirata sA",
+        "sc wua Pensll Private"
+      ],
+      "nume": "NEMET SORIN",
+      "nume_norm": "NEMET SORIN"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Nemet_Sorin_iunie_2012.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -111413,6 +112590,24 @@
       ],
       "nume": "NICULESCU DORIN IUN",
       "nume_norm": "DORIN IUN NICULESCU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/niculescu_dorin_mai_2015.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 24,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/ Asociatii farmiliale/ Cabinete",
+        "neguvemamentake/ Fundati/ Asociati?"
+      ],
+      "nume": "NICULESCU DORIN",
+      "nume_norm": "DORIN NICULESCU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -112105,6 +113300,27 @@
       ],
       "nume": "ONET IMOLA",
       "nume_norm": "IMOLA ONET"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/OPREAN_LILIANA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 26,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1. Contractul Colectiv de Munca incheiat intre ANCOM si Sindicatul",
+        "3.1...... Membru in Sindicatul Liber al Salariatilor ANCOM",
+        "Avand in vedere motivele expuse in continuare, va rog sa dispuneti anonimizarea",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundati Asociati?)"
+      ],
+      "nume": "OPREAN LILIANA",
+      "nume_norm": "LILIANA OPREAN"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -115763,6 +116979,23 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Saceanu_Marius_iunie_2012.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 19,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "/Fundati/Aseciat"
+      ],
+      "nume": "SACEANU MARIUS",
+      "nume_norm": "MARIUS SACEANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratii_Saceanu_Marius.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -115977,6 +117210,27 @@
       ],
       "nume": "SAMAREANU CRISTIAN",
       "nume_norm": "CRISTIAN SAMAREANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Sandor_cristian_mai_2013.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 24,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 313200,
+      "entitati": [
+        "/Fundatii/Asociati*)",
+        "3,1.\"membru sindicatANcoM",
+        "[SRL Oradea",
+        "fizica autorizata/ Asociatif",
+        "sc Angelique&Stefi"
+      ],
+      "nume": "SANDOR CRISTIAN",
+      "nume_norm": "CRISTIAN SANDOR"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -118990,6 +120244,23 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_tanos_mihaela_iunie_2011.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 21,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3alte actlue producatoare de venituri nete, care insumate depasesc echivalentul "
+      ],
+      "nume": "TANOS MIHAELA",
+      "nume_norm": "MIHAELA TANOS"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Taslaoanu_iun2020.pdf",
       "ocr": true,
       "actionariat": 8,
@@ -121765,6 +123036,27 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/ZAMFIR_ADRIAN_mai_2018.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 30,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 9070,
+      "entitati": [
+        ",sc ,et.",
+        "3.1 Sindicatul Salariatilor din Autoritatea de Reglementare in Comunicatii",
+        "acjonar sau asociatibeneniciar deinprunut",
+        "autorizata/Asociati familiale/Cabinete",
+        "neguvenamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "ZAMFIR ADRIAN",
+      "nume_norm": "ADRIAN ZAMFIR"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/ZAMFIR_ADRIAN.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -122722,6 +124014,24 @@
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
+      "pdf_url": "https://www.adjud.ro/assets/media/2016/12/Sibisan_Andra_Genoveva-3.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "fizica autorizata autorizatalasociatii",
+        "neguvernamentale/fundati/asociati"
+      ],
+      "nume": "SIBISAN ANDRA GENOVEVA",
+      "nume_norm": "ANDRA GENOVEVA SIBISAN"
+    },
+    {
+      "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
       "pdf_url": "https://www.adjud.ro/assets/media/2025/05/ROMILA-MARICELA-1.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -123529,6 +124839,24 @@
     },
     {
       "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2020/07/Andrei-Ion.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/Asociatiifamiliale/Cabinele",
+        "neguvenamentale/Fundati Asociatif?)"
+      ],
+      "nume": "ANDREI ION",
+      "nume_norm": "ANDREI ION"
+    },
+    {
+      "institutie": "ISJ Gorj",
       "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2020/07/Alexandrescu-Grigore.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -123911,6 +125239,23 @@
       ],
       "nume": "ANDREI ION",
       "nume_norm": "ANDREI ION"
+    },
+    {
+      "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2019/07/IVAN-LUMINITA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizatalAsociatifamiliale/Cabinete"
+      ],
+      "nume": "IVAN LUMINITA",
+      "nume_norm": "IVAN LUMINITA"
     },
     {
       "institutie": "ISJ Gorj",
@@ -124536,6 +125881,24 @@
     },
     {
       "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2021/07/Todea-Sorin-Matei.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "TODEA SORIN MATEI",
+      "nume_norm": "MATEI SORIN TODEA"
+    },
+    {
+      "institutie": "ISJ Gorj",
       "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2020/07/Stoicoiu-Simona.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -124878,6 +126241,24 @@
       ],
       "nume": "PATRASCU CODRUTA TEODORA",
       "nume_norm": "CODRUTA PATRASCU TEODORA"
+    },
+    {
+      "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2021/07/Stanciulescu-Neofit-Catalin.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguveinamentale/Fundativ Asociati?)"
+      ],
+      "nume": "STANCIULESCU NEOFIT CATALIN",
+      "nume_norm": "CATALIN NEOFIT STANCIULESCU"
     },
     {
       "institutie": "ISJ Gorj",

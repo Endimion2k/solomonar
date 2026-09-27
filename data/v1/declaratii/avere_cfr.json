@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-08T13:26:40.464793+00:00",
-  "sursa": "servicii deconcentrate, text+OCR, Legea 176/2010",
-  "total": 11763,
+  "generated_at": "2026-09-27T11:58:33.045265+00:00",
+  "sursa": "grupul CFR, text+OCR, Legea 176/2010",
+  "total": 11782,
   "ocr_in_corpus": 7029,
-  "pii_blocate": 91,
+  "pii_blocate": 0,
+  "pii_mascate": 65,
   "declaratii": [
     {
       "institutie": "CFR SA - 2025-central 2025",
@@ -9806,6 +9807,19 @@
       "auto": 5,
       "nume": "IONITA VIRGIL",
       "nume_norm": "IONITA VIRGIL"
+    },
+    {
+      "institutie": "CFR SA - 2024-01bucuresti-2 2024",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2024/06/DA-MARIN-VASILE.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 86439,
+      "datorii_ron": 50000,
+      "auto": 4,
+      "nume": "MARIN VASILE",
+      "nume_norm": "MARIN VASILE"
     },
     {
       "institutie": "CFR SA - 2024-01bucuresti-2 2024",
@@ -66222,6 +66236,19 @@
       "nume_norm": "ADRIAN ZUBA"
     },
     {
+      "institutie": "CFR SA - 2023-08timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/07/DA_POPA-FLORIN.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 105298,
+      "datorii_ron": 0,
+      "auto": 10,
+      "nume": "POPA FLORIN",
+      "nume_norm": "FLORIN POPA"
+    },
+    {
       "institutie": "CFR SA - 2023-08timisoara 2024",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2024/01/DA-VRANCUTA-TRAIAN.pdf",
       "ocr": false,
@@ -79757,6 +79784,19 @@
     {
       "institutie": "CFR SA - 2022-03constanta 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Caruntu-Lucian-declaratie-de-avere-2.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 140523,
+      "datorii_ron": 140523,
+      "auto": 0,
+      "nume": "CARUNTU LUCIAN",
+      "nume_norm": "CARUNTU LUCIAN"
+    },
+    {
+      "institutie": "CFR SA - 2022-03constanta 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Caruntu-Lucian-declaratie-de-avere.pdf",
       "ocr": false,
       "terenuri": 0,
       "cladiri": 0,
@@ -96707,6 +96747,19 @@
       "nume_norm": "CONSTANTIN DANILIUC"
     },
     {
+      "institutie": "CFR SA - 2020-00central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/FLORESCU-MARIA-1.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 135000,
+      "venituri_ron": 175551,
+      "datorii_ron": 0,
+      "auto": 6,
+      "nume": "FLORESCU MARIA",
+      "nume_norm": "FLORESCU MARIA"
+    },
+    {
       "institutie": "CFR SA - 2022-07galati 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/241_STOILESCU-V.-CRISTINEL-DORU-DA.pdf",
       "ocr": false,
@@ -96747,6 +96800,19 @@
     },
     {
       "institutie": "CFR SA - 2020-00central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/NICOLAOS-JEAN-1.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 219643,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "NICOLAOS JEAN",
+      "nume_norm": "JEAN NICOLAOS"
+    },
+    {
+      "institutie": "CFR SA - 2020-00central 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MITROI-VALENTIN-1.pdf",
       "ocr": false,
       "terenuri": 6,
@@ -96757,6 +96823,32 @@
       "auto": 5,
       "nume": "MITROI VALENTIN",
       "nume_norm": "MITROI VALENTIN"
+    },
+    {
+      "institutie": "CFR SA - 2020-00central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MIU-JEAN.pdf",
+      "ocr": false,
+      "terenuri": 4,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 471,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "MIU JEAN",
+      "nume_norm": "JEAN MIU"
+    },
+    {
+      "institutie": "CFR SA - 2020-04cluj 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Avram-Dorin-.pdf",
+      "ocr": false,
+      "terenuri": 7,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "AVRAM DORIN",
+      "nume_norm": "AVRAM DORIN"
     },
     {
       "institutie": "CFR SA - 2024-08timisoara 2024",
@@ -96822,6 +96914,19 @@
       "auto": 5,
       "nume": "TRENCHEA GETA",
       "nume_norm": "GETA TRENCHEA"
+    },
+    {
+      "institutie": "CFR SA - 2020-02craiova-economic-da 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/DA-Hertzog-2019_new.pdf",
+      "ocr": false,
+      "terenuri": 4,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 246280,
+      "datorii_ron": 246280,
+      "auto": 4,
+      "nume": "HERTZOG NEW",
+      "nume_norm": "HERTZOG NEW"
     },
     {
       "institutie": "CFR SA - 2010 2023",
@@ -101882,6 +101987,19 @@
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BURLACU-CRISTIAN_Redacted.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "BURLACU CRISTIAN",
+      "nume_norm": "BURLACU CRISTIAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Burtescu-Marian_Redacted.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -105249,6 +105367,19 @@
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Purcarea-Gabriela_Redacted.pdf",
+      "ocr": true,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "PURCAREA GABRIELA",
+      "nume_norm": "GABRIELA PURCAREA"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Radu-Ana-Iulia_Redacted.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -105561,6 +105692,19 @@
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/POPESCU-DRAGOS-DANIEL_Redacted.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 74140,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "POPESCU DRAGOS DANIEL",
+      "nume_norm": "DANIEL DRAGOS POPESCU"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Spatacean-Ioan.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -105571,6 +105715,19 @@
       "auto": 0,
       "nume": "SPATACEAN IOAN",
       "nume_norm": "IOAN SPATACEAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Ungurean-Marian-Cristian_Redacted.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "UNGUREAN MARIAN CRISTIAN",
+      "nume_norm": "CRISTIAN MARIAN UNGUREAN"
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
@@ -107532,6 +107689,19 @@
       "auto": 2,
       "nume": "IAURUM MARIETA",
       "nume_norm": "IAURUM MARIETA"
+    },
+    {
+      "institutie": "CFR SA - 2021-02-craiova 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Ion-Titus-Adelin.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 97938,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "ION TITUS ADELIN",
+      "nume_norm": "ADELIN ION TITUS"
     },
     {
       "institutie": "CFR SA - 2021-02-craiova 2023",
@@ -122212,6 +122382,19 @@
     },
     {
       "institutie": "CFR SA - 2021-07-galati 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/108-STERIAN-DUMITRU.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 133000,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "STERIAN DUMITRU",
+      "nume_norm": "DUMITRU STERIAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-07-galati 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/70-LIMBUTU-MIHAI.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -124055,6 +124238,19 @@
       "auto": 2,
       "nume": "BARANYI ROBERT",
       "nume_norm": "BARANYI ROBERT"
+    },
+    {
+      "institutie": "CFR SA - 2021-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BOBAILA-NICOLAE-ADRIAN.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "BOBAILA NICOLAE ADRIAN",
+      "nume_norm": "ADRIAN BOBAILA NICOLAE"
     },
     {
       "institutie": "CFR SA - 2021-08-timisoara 2023",
@@ -125943,6 +126139,19 @@
     },
     {
       "institutie": "CFR SA - 2021-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/RADU-DIANA.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 56013,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "RADU DIANA",
+      "nume_norm": "DIANA RADU"
+    },
+    {
+      "institutie": "CFR SA - 2021-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ROT-VOICU.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -126733,6 +126942,19 @@
       "auto": 4,
       "nume": "SERBAN CARMEN ECATERINA",
       "nume_norm": "CARMEN ECATERINA SERBAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/VLAD-MARCEL.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "VLAD MARCEL",
+      "nume_norm": "MARCEL VLAD"
     },
     {
       "institutie": "CFR SA - 2021-08-timisoara 2023",
@@ -128293,6 +128515,19 @@
       "auto": 2,
       "nume": "BLEOTU IULIAN DANUT",
       "nume_norm": "BLEOTU DANUT IULIAN"
+    },
+    {
+      "institutie": "CFR SA - 2020-00central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CERNESTEAN-MIHAI-FELICIAN.a.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 115589,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "CERNESTEAN MIHAI FELICIAN",
+      "nume_norm": "CERNESTEAN FELICIAN MIHAI"
     },
     {
       "institutie": "CFR SA - 2020-00central 2023",
@@ -143867,6 +144102,19 @@
       "auto": 0,
       "nume": "CUCULESCU GHEORGHE",
       "nume_norm": "CUCULESCU GHEORGHE"
+    },
+    {
+      "institutie": "CFR SA - 2020-07-galati 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Dragusanu-Ionel.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 137000,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "DRAGUSANU IONEL",
+      "nume_norm": "DRAGUSANU IONEL"
     },
     {
       "institutie": "CFR SA - 2020-07-galati 2023",

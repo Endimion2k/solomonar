@@ -81,23 +81,6 @@
       }
     },
     {
-      "id": "solomonar:alerta:conflict_confirmat:g:b4679da7b3ac4d7b",
-      "url": "https://endimion2k.github.io/solomonar/web/#alerte",
-      "title": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat",
-      "content_text": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat\nFirme: DRUMURI SI PODURI LOCALE ALBA SA (CUI 4331392. 225.438.871 RON)\nTotal contracte: 225.438.871 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
-      "date_published": "2026-09-27T00:00:00+00:00",
-      "tags": [
-        "conflict_confirmat",
-        "severitate:mare"
-      ],
-      "_meta": {
-        "entitate": "Crisan Vasile",
-        "este_parlamentar": false,
-        "total_contracte_ron": 225438871.0,
-        "scor": 3
-      }
-    },
-    {
       "id": "solomonar:alerta:conflict_confirmat:g:c06dfa2e659ea635",
       "url": "https://endimion2k.github.io/solomonar/web/#alerte",
       "title": "Conflict documentat: Dana Gaiseanu are în declarația de interese firmă cu contracte de stat",
@@ -109,6 +92,23 @@
       ],
       "_meta": {
         "entitate": "Dana Gaiseanu",
+        "este_parlamentar": false,
+        "total_contracte_ron": 225438871.0,
+        "scor": 3
+      }
+    },
+    {
+      "id": "solomonar:alerta:conflict_confirmat:g:b4679da7b3ac4d7b",
+      "url": "https://endimion2k.github.io/solomonar/web/#alerte",
+      "title": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat",
+      "content_text": "Conflict documentat: Crisan Vasile are în declarația de interese firmă cu contracte de stat\nFirme: DRUMURI SI PODURI LOCALE ALBA SA (CUI 4331392. 225.438.871 RON)\nTotal contracte: 225.438.871 RON\nSursă: data/v1/graf/follow_the_money.json#confirmate (firmă apare în PROPRIA declarație de interese a persoanei -> conflict documentat)",
+      "date_published": "2026-09-27T00:00:00+00:00",
+      "tags": [
+        "conflict_confirmat",
+        "severitate:mare"
+      ],
+      "_meta": {
+        "entitate": "Crisan Vasile",
         "este_parlamentar": false,
         "total_contracte_ron": 225438871.0,
         "scor": 3

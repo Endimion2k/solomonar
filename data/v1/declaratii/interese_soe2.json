@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T21:25:32.444402+00:00",
-  "sursa": "servicii deconcentrate, declaratii de INTERESE, text+OCR",
-  "total": 3643,
+  "generated_at": "2026-09-27T13:29:47.372717+00:00",
+  "sursa": "companii de stat (lot 2), declaratii de INTERESE, text+OCR",
+  "total": 3725,
   "declaratii": [
     {
       "institutie": "Antibiotice Iasi",
@@ -2228,6 +2228,23 @@
       ],
       "nume": "PERS ACTIVITATE CONTROL CORNEANU OANA",
       "nume_norm": "ACTIVITATE CONTROL CORNEANU OANA PERS"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA BD DSS 2-2025-DI-AGIU BOGDAN CLAUDIU.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 SC MABIT 83 SRL"
+      ],
+      "nume": "BD DSS AGIU BOGDAN CLAUDIU",
+      "nume_norm": "AGIU BD BOGDAN CLAUDIU DSS"
     },
     {
       "institutie": "Apele Romane",
@@ -13794,6 +13811,25 @@
     },
     {
       "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE COOPTARE DH-2023-DI-MOLNAR ERVIN.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 SC EMC2 ALL Solutions SRL",
+        "4.1 Partidul National Liberal-filiala Mures - Vicepresedinte",
+        "desf5goard profesia de avscat/ Organizalii neguvernamentale/ Fundatii/ Asociagii"
+      ],
+      "nume": "COOPTARE DH MOLNAR ERVIN",
+      "nume_norm": "COOPTARE DH ERVIN MOLNAR"
+    },
+    {
+      "institutie": "Apele Romane",
       "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE COOPTARE FSUE-2023-DI-DAMIAN IULIA.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -24270,6 +24306,23 @@
     },
     {
       "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/FSUE-2022-DI-DAMASCHIN IONELA CORINA.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICAT APEROM - MEMBRU"
+      ],
+      "nume": "FSUE DAMASCHIN IONELA CORINA",
+      "nume_norm": "CORINA DAMASCHIN FSUE IONELA"
+    },
+    {
+      "institutie": "Apele Romane",
       "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/FSUE-2022-DI-BRATU CORINA ALEXANDRA.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -29151,6 +29204,24 @@
     },
     {
       "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE DETASARE-2021-DAI-FLAVIU BOGDAN IOAN RADU.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizată/ Asociaţii familiale' Cabinete",
+        "ncguvejnamentale/ Fundaţii/ Asociaţi?"
+      ],
+      "nume": "DETASARE FLAVIU BOGDAN IOAN RADU",
+      "nume_norm": "BOGDAN DETASARE FLAVIU IOAN RADU"
+    },
+    {
+      "institutie": "Apele Romane",
       "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE DETASARE-2021-DI-TRUSCA DIANA.pdf",
       "ocr": false,
       "actionariat": 4,
@@ -31109,6 +31180,24 @@
     },
     {
       "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/COOPTARE POIM-2021-DAI-DUMITRAS ROXANA.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizată/ Asociaţii familial Cabinete",
+        "neguvemamentale/ Fundaţii/ Asociaţi r}"
+      ],
+      "nume": "COOPTARE POIM DUMITRAS ROXANA",
+      "nume_norm": "COOPTARE DUMITRAS POIM ROXANA"
+    },
+    {
+      "institutie": "Apele Romane",
       "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/COOPTARE POIM-2021-DAI-CACOVEANU CATALINA.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -31520,6 +31609,23 @@
     },
     {
       "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/COOPTARE FSUE-2021-DI-ALDEA ANA MARIA.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRU SINDICAT APEROM"
+      ],
+      "nume": "COOPTARE FSUE ALDEA ANA MARIA",
+      "nume_norm": "ALDEA ANA COOPTARE FSUE MARIA"
+    },
+    {
+      "institutie": "Apele Romane",
       "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/COOPTARE FSUE-2021-DAI-TODASCA ALICE CLAUDIA.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -31770,6 +31876,25 @@
       ],
       "nume": "SNMRI SACUIU DANIELA",
       "nume_norm": "DANIELA SACUIU SNMRI"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA SNMRI-2021-DAI-GALAN CEZAR.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 MEMBRU AL FEDERAŢIEI APEHID",
+        "autorizală/ Asociaţii familiale/ Cabinete",
+        "neguvemamentale/ Fundaţii/ Asociaţii21"
+      ],
+      "nume": "SNMRI GALAN CEZAR",
+      "nume_norm": "CEZAR GALAN SNMRI"
     },
     {
       "institutie": "Apele Romane",
@@ -32168,6 +32293,26 @@
       ],
       "nume": "ROFLOODS BAZGA CIPRIAN",
       "nume_norm": "BAZGA CIPRIAN ROFLOODS"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA ROFLOODS-2021-DAI-OLARU MIHAI.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 3,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2. S.C. Effect Cleaning S.R.L. Administrator 0 lei",
+        "3.1 Membru sindicat - APEROM",
+        "autorizată/ Asociaţii iâmiliab' Cabinete",
+        "neguvemamentaW Fundaţii/ AsodaţtiP"
+      ],
+      "nume": "ROFLOODS OLARU MIHAI",
+      "nume_norm": "MIHAI OLARU ROFLOODS"
     },
     {
       "institutie": "Apele Romane",
@@ -48648,6 +48793,24 @@
     },
     {
       "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/COOPTARE PROIECT SIPOCA 588-2019-DI-MARCHIDAN ELVIRA.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizată/ Asociaţii familiale7 Cabinete",
+        "neguvemamentale/ Fundaţii/ Asociaţii2’"
+      ],
+      "nume": "COOPTARE PROIECT SIPOCA MARCHIDAN ELVIRA",
+      "nume_norm": "COOPTARE ELVIRA MARCHIDAN PROIECT SIPOCA"
+    },
+    {
+      "institutie": "Apele Romane",
       "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/COOPTARE PROIECT SIPOCA 588-2019-DI-RUSU GHEORGHE CONSTANTIN.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -56563,6 +56726,25 @@
       "nume_norm": "FICEA GHEORGHE"
     },
     {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ROFLOODS-2022-DI-GHEORGHE MARCELA.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 200,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 S.C. Minix Service Computer",
+        "3.1 sindicat Libertatea Buzau - membru",
+        "S.R.L - Buzau Buzau Strada Bazalt"
+      ],
+      "nume": "ROFLOODS GHEORGHE MARCELA",
+      "nume_norm": "GHEORGHE MARCELA ROFLOODS"
+    },
+    {
       "institutie": "Posta Romana",
       "pdf_url": "http://www.posta-romana.ro/cnpr-data/_editor/files/2016-04/Declaratie%20de%20interese%20Chirita%20Gabriel%202016.pdf",
       "ocr": true,
@@ -56599,6 +56781,23 @@
       ],
       "nume": "ANGELA NADA",
       "nume_norm": "ANGELA NADA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/POIM-2022-DI-ASMARANDI IULIANA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
+      ],
+      "nume": "POIM ASMARANDI IULIANA",
+      "nume_norm": "ASMARANDI IULIANA POIM"
     },
     {
       "institutie": "Posta Romana",
@@ -57247,6 +57446,101 @@
       ],
       "nume": "BABUCA ALEXANDRINA",
       "nume_norm": "ALEXANDRINA BABUCA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-GHEORGHE ALEXANDRU FLORIN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1.....Membrudesindicat,.Aperom",
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguvemamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "PROIECT JOINTISZA GHEORGHE ALEXANDRU FLORIN",
+      "nume_norm": "ALEXANDRU FLORIN GHEORGHE JOINTISZA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-GALE MARINELA NICOLETA.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 200,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.l.Vicelider in Biroul Operativ al Sindicatului Apelor Crisuri",
+        "altorizata/ Asociati familiale' Cabinete",
+        "neguvenrame tale Fundati/ Asoxcia tif?"
+      ],
+      "nume": "PROIECT JOINTISZA GALE MARINELA NICOLETA",
+      "nume_norm": "GALE JOINTISZA MARINELA NICOLETA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-DUME DOREL MARCEL.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "FundatiaUmanitara TaraCrisurilor",
+        "I.1......SC AIFOS SRL",
+        "autortzata Asociati familiale Cabinete",
+        "neguvemamertale/ Furdaiv Asociatir)"
+      ],
+      "nume": "PROIECT JOINTISZA DUME DOREL MARCEL",
+      "nume_norm": "DOREL DUME JOINTISZA MARCEL PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-CROITORU GEORGE GABRIEL.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/ Asociati familiale/Cabinete",
+        "economic, ale asociatilor sau fundatilor oriale altor organizatii neguvernamenta",
+        "neguvenamentale/Fundativ AsociatiP?)"
+      ],
+      "nume": "PROIECT JOINTISZA CROITORU GEORGE GABRIEL",
+      "nume_norm": "CROITORU GABRIEL GEORGE JOINTISZA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-CRISAN CLAUDIA CORINA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatiifamiliale/Cabinete",
+        "neguvernamentale/Fundativ Asociatif?)"
+      ],
+      "nume": "PROIECT JOINTISZA CRISAN CLAUDIA CORINA",
+      "nume_norm": "CLAUDIA CORINA CRISAN JOINTISZA PROIECT"
     },
     {
       "institutie": "Apele Romane",
@@ -64492,6 +64786,1210 @@
       ],
       "nume": "ALDEA ANA MARIA",
       "nume_norm": "ALDEA ANA MARIA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-CROITORU GEORGE GABRIEL.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/Asociatii familiale Cabinete",
+        "neguvenamentale/FundatiAsociati?"
+      ],
+      "nume": "PROIECT DIANA CROITORU GEORGE GABRIEL",
+      "nume_norm": "CROITORU DIANA GABRIEL GEORGE PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EX SARCINI SI RESP DIR ABA O-2020-DI-PRALA STEFAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 5,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1 Asociatia Luptatorilor din Decembrie89, Rm.",
+        "2.2 Asociatia M.L.N.R., Bucuresti",
+        "2.3Fundatia Identitatea Romaneasca, Rm.Valcea",
+        "2.4AsociatiaRomanadeLuptaImpotrivaDrogurilor,",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundapi Asociati?"
+      ],
+      "nume": "EX SARCINI RESP DIR ABA PRALA STEFAN",
+      "nume_norm": "ABA DIR EX PRALA RESP SARCINI STEFAN"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA-2020-DI-PAL LAURA MARIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRUSINDICAT.APEROM",
+        "autorizataAsociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundaji/ Asociatif?"
+      ],
+      "nume": "PAL LAURA MARIA",
+      "nume_norm": "LAURA MARIA PAL"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-DUME DOREL MARCEL.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......SC AIFOS SRL",
+        "FundatiaUmanitaraTara Crisurilor",
+        "autrizatat Asociati Familiale' Cabinete"
+      ],
+      "nume": "PROIECT DIANA DUME DOREL MARCEL",
+      "nume_norm": "DIANA DOREL DUME MARCEL PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-ADAM RELU.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete"
+      ],
+      "nume": "PROIECT JOINTISZA ADAM RELU",
+      "nume_norm": "ADAM JOINTISZA PROIECT RELU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-IONICA DANIELA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociati familiale/Cabinete",
+        "neguvemamentale/Fundati/ Asociatif?)"
+      ],
+      "nume": "PROIECT DIANA IONICA DANIELA",
+      "nume_norm": "DANIELA DIANA IONICA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE NUMIRE DIR ABA-2020-DI-GORUNESCU BOGDAN FLORIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatif?",
+        "Asociatifamiliale/Cabinete",
+        "ale institutilor de credit, ale grupurilor de interes economic, ale asociatilor ",
+        "neguvernamentale/ Fundati/"
+      ],
+      "nume": "DIR ABA GORUNESCU BOGDAN FLORIAN",
+      "nume_norm": "ABA BOGDAN DIR FLORIAN GORUNESCU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA-2020-DI-POTIRNICHE ADRIAN GEORGICA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale Cabinete",
+        "neguvemamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "POTIRNICHE ADRIAN GEORGICA",
+      "nume_norm": "ADRIAN GEORGICA POTIRNICHE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EX SARCINI SI RESP DIR DMLH-2020-DI-CIOBANU DUMITRU.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguveinamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "EX SARCINI RESP DIR DMLH CIOBANU DUMITRU",
+      "nume_norm": "CIOBANU DIR DMLH DUMITRU EX RESP SARCINI"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-ALDESCU VIOREL CATALIN.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "AsociatiP?"
+      ],
+      "nume": "PROIECT JOINTISZA ALDESCU VIOREL CATALIN",
+      "nume_norm": "ALDESCU CATALIN JOINTISZA PROIECT VIOREL"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-MOLDOVAN CONSTANTA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati Asociati?)"
+      ],
+      "nume": "PROIECT DIANA MOLDOVAN CONSTANTA",
+      "nume_norm": "CONSTANTA DIANA MOLDOVAN PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE NUMIRE PE FCT DE DIR ABA C-2020-DI-DUME DOREL MARCEL.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1.....SC AIFOS SRL",
+        "Fundatia Umanitara Tara Crisurilor",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati/Asociatir?)"
+      ],
+      "nume": "PE FCT DIR ABA DUME DOREL MARCEL",
+      "nume_norm": "ABA DIR DOREL DUME FCT MARCEL PE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA-2020-DI-STANISTEANU LAURENTIU CRISTIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguvenamentale/Fundati/Asociati?)"
+      ],
+      "nume": "STANISTEANU LAURENTIU CRISTIAN",
+      "nume_norm": "CRISTIAN LAURENTIU STANISTEANU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-SACUIU DANIELA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguvenamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "PROIECT DIANA SACUIU DANIELA",
+      "nume_norm": "DANIELA DIANA PROIECT SACUIU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-ADAM BIANCA OTILIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociatii familiale/Cabinete",
+        "neguvenamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "PROIECT JOINTISZA ADAM BIANCA OTILIA",
+      "nume_norm": "ADAM BIANCA JOINTISZA OTILIA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-SELAGEA HOREA IOAN.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MembruinSindicatulLiberABASomesTisa-SEDIU"
+      ],
+      "nume": "PROIECT DIANA SELAGEA HOREA IOAN",
+      "nume_norm": "DIANA HOREA IOAN PROIECT SELAGEA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-ANDRONACHE MATEI.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale'Cabinete",
+        "neguvemamentale/Fundati/Asociati?)"
+      ],
+      "nume": "PROIECT JOINTISZA ANDRONACHE MATEI",
+      "nume_norm": "ANDRONACHE JOINTISZA MATEI PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DANUBE SEDIMENT-2020-DI-ALDEA ANA MARIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundati Asociatf?)"
+      ],
+      "nume": "DANUBE SEDIMENT ALDEA ANA MARIA",
+      "nume_norm": "ALDEA ANA DANUBE MARIA SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-SOARE FLORENTINA LORENA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguvemamentale/Fundati/ Asociatif?)"
+      ],
+      "nume": "PROIECT DIANA SOARE FLORENTINA LORENA",
+      "nume_norm": "DIANA FLORENTINA LORENA PROIECT SOARE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-BARBIERU ADRIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.l......MembrusindicatAPEROM",
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvemamentale/ Fundati Asociati?)"
+      ],
+      "nume": "PROIECT JOINTISZA BARBIERU ADRIAN",
+      "nume_norm": "ADRIAN BARBIERU JOINTISZA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-CAZAN DORU DRAGOS.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundati Asociati?"
+      ],
+      "nume": "PROIECT SEDIMENT CAZAN DORU DRAGOS",
+      "nume_norm": "CAZAN DORU DRAGOS PROIECT SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-BAZGA CIPRIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/AsociatifamilialeCabinete",
+        "neguvemamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "PROIECT JOINTISZA BAZGA CIPRIAN",
+      "nume_norm": "BAZGA CIPRIAN JOINTISZA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DANUBE SEDIMENT-2020-DI-CURELEA MARIN RAMONA ANCUTA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "[guvunamentale/ Furxdati/ Asociatir?",
+        "autorizataAsociati familiale/Cabinkete"
+      ],
+      "nume": "DANUBE SEDIMENT CURELEA MARIN RAMONA ANCUTA",
+      "nume_norm": "ANCUTA CURELEA DANUBE MARIN RAMONA SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-DAMIAN IULIA.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1.Asociatia Marral",
+        "3.1.MembruSindicatAperom",
+        "3.2.MembruAsociatia Romana de Mediu",
+        "auitorizata/Asociatifamiliale/Cabincte",
+        "neguvenamentale/Fundati/ Asociatir?"
+      ],
+      "nume": "PROIECT SEDIMENT DAMIAN IULIA",
+      "nume_norm": "DAMIAN IULIA PROIECT SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-ALDEA ANA MARIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "alitorizata/Asociatii familiale/Cabinete"
+      ],
+      "nume": "DIANA ALDEA ANA MARIA",
+      "nume_norm": "ALDEA ANA DIANA MARIA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-BOGZIANU RAZVAN DAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati/Asociati?)"
+      ],
+      "nume": "PROIECT JOINTISZA BOGZIANU RAZVAN DAN",
+      "nume_norm": "BOGZIANU DAN JOINTISZA PROIECT RAZVAN"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-GIRBEA RUXANDRA MARIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitoxizata/ Asociati farniliale/Cabinete",
+        "economic,aleasociatiilor saufundatilor oriale altor organizafi neguvernamentale:",
+        "neguvenamentale/ Fundativ/ Aso ciati??"
+      ],
+      "nume": "PROIECT SEDIMENT GIRBEA RUXANDRA MARIA",
+      "nume_norm": "GIRBEA MARIA PROIECT RUXANDRA SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE CIM-2020-DI-MOISE ALEXANDRU.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 200,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MezzannineSolutions SRL, Str.Crisul Repede",
+        "autoxizata/ Asociati familiale/Cabinete",
+        "neguvemamentale/FundativAsociatir)"
+      ],
+      "nume": "CIM MOISE ALEXANDRU",
+      "nume_norm": "ALEXANDRU CIM MOISE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-BOSCORNEA CORINA COSMINA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvenamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "PROIECT JOINTISZA BOSCORNEA CORINA COSMINA",
+      "nume_norm": "BOSCORNEA CORINA COSMINA JOINTISZA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-DUME DOREL MARCEL.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Fundatia UmanitaraTara Crisurilor",
+        "civile pipfesionale sa socictaj civile"
+      ],
+      "nume": "PROIECT SEDIMENT DUME DOREL MARCEL",
+      "nume_norm": "DOREL DUME MARCEL PROIECT SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-BARBIERU ADRIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1.....MembrusindicatAPEROM",
+        "autorizata/ Asociati familiale Cabinete",
+        "neguvemamentale/Fundativ Asociati?)"
+      ],
+      "nume": "DANUBE FLOODPLAIN BARBIERU ADRIAN",
+      "nume_norm": "ADRIAN BARBIERU DANUBE FLOODPLAIN"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-MANTA MARIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "altorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "PROIECT SEDIMENT MANTA MARIAN",
+      "nume_norm": "MANTA MARIAN PROIECT SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-COARNA LACRAMIOARA ILEANA MIRELA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvernamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "DIANA COARNA LACRAMIOARA ILEANA MIRELA",
+      "nume_norm": "COARNA DIANA ILEANA LACRAMIOARA MIRELA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT JOINTISZA-2020-DI-CALUIAN CATALIN FLORIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamertale/Fundafi/ Asociati?)"
+      ],
+      "nume": "PROIECT JOINTISZA CALUIAN CATALIN FLORIAN",
+      "nume_norm": "CALUIAN CATALIN FLORIAN JOINTISZA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-ARIESANU ANGELA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatiifamiliale/Cabinete",
+        "neguvemamentale/Fundati/ Asociatif?)"
+      ],
+      "nume": "DIANA ARIESANU ANGELA",
+      "nume_norm": "ANGELA ARIESANU DIANA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE CIM-2020-DI-RUSU GHEORGHE CONSTANTIN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "neguvemamentale/Fundati/Asociati?)"
+      ],
+      "nume": "CIM RUSU GHEORGHE CONSTANTIN",
+      "nume_norm": "CIM CONSTANTIN GHEORGHE RUSU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-MARCHIDAN ELVIRA.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/Asociati familiale/Cabinete",
+        "neguvemamentale/ Fundati Asociati?)"
+      ],
+      "nume": "PROIECT SEDIMENT MARCHIDAN ELVIRA",
+      "nume_norm": "ELVIRA MARCHIDAN PROIECT SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-NACU SIMION.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Membru sindicat APEROM",
+        "aulowizata/ Asociati familiale Cabinete"
+      ],
+      "nume": "DANUBE FLOODPLAIN NACU SIMION",
+      "nume_norm": "DANUBE FLOODPLAIN NACU SIMION"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-NEDELEA IOANA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1membru sindicatAPEROM",
+        "neguvemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "PROIECT SEDIMENT NEDELEA IOANA",
+      "nume_norm": "IOANA NEDELEA PROIECT SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-MAINERICI ANTOANETA MONICA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "DIANA MAINERICI ANTOANETA MONICA",
+      "nume_norm": "ANTOANETA DIANA MAINERICI MONICA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-CAPLESCU NICOLAE.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "neguvernarmentale/ Fundati/ Asociai?)"
+      ],
+      "nume": "DIANA CAPLESCU NICOLAE",
+      "nume_norm": "CAPLESCU DIANA NICOLAE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-BOEROSU GABRIELA ANDREEA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRUAGIR-ASOCIATIAGENERALAAINGINERILORDINROMANIA",
+        "MEMBRUSINDICATAPEROM",
+        "autorizata/Asociatifamiliale/Cabincte"
+      ],
+      "nume": "DANUBE FLOODPLAIN BOEROSU GABRIELA ANDREEA",
+      "nume_norm": "ANDREEA BOEROSU DANUBE FLOODPLAIN GABRIELA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-RUSU GHEORGHE CONSTANTIN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/Asociatifamiliale/Cabinete",
+        "neguvenamentale/Fundati/Asociati?)"
+      ],
+      "nume": "PROIECT SEDIMENT RUSU GHEORGHE CONSTANTIN",
+      "nume_norm": "CONSTANTIN GHEORGHE PROIECT RUSU SEDIMENT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-MERAI DANIELA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auttoriza a/ Asociati familiale/ Cabinete",
+        "neguvenameantale/ Fundapi/ Asociatir?"
+      ],
+      "nume": "DIANA MERAI DANIELA",
+      "nume_norm": "DANIELA DIANA MERAI"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-POTIRNICHE ADRIAN GEORGICA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvenamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "DANUBE FLOODPLAIN POTIRNICHE ADRIAN GEORGICA",
+      "nume_norm": "ADRIAN DANUBE FLOODPLAIN GEORGICA POTIRNICHE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P DIANA-2020-DI-LUCA ION LAURENTIU.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.lSindicatul Liber,ApeleRomane\"FilialaTimisoara"
+      ],
+      "nume": "DIANA LUCA ION LAURENTIU",
+      "nume_norm": "DIANA ION LAURENTIU LUCA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE CIM DFP-2020-DI-RUSU GHEORGHE CONSTANTIN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizataAsociatifamiliale/Cabinete",
+        "neguvenanentale/Fundati/Asociati?)"
+      ],
+      "nume": "CIM DFP RUSU GHEORGHE CONSTANTIN",
+      "nume_norm": "CIM CONSTANTIN DFP GHEORGHE RUSU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE CIM POCA ZC-2020-DI-RUSU GHEORGHE CONSTANTIN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvcmamentale/Fundati/Asociatir?)"
+      ],
+      "nume": "CIM POCA ZC RUSU GHEORGHE CONSTANTIN",
+      "nume_norm": "CIM CONSTANTIN GHEORGHE POCA RUSU ZC"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-PAL LAURA MARIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRUSINDICAT,APEROM\"",
+        "autorizata/ Asociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "DANUBE FLOODPLAIN PAL LAURA MARIA",
+      "nume_norm": "DANUBE FLOODPLAIN LAURA MARIA PAL"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-TALE DANIEL VALERIU.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MembrusindicatAPEROM",
+        "auitorizta/ Asociati farmiliale' Cabinle",
+        "neguvemamenale Fudati Asociatif?!"
+      ],
+      "nume": "DANUBE FLOODPLAIN TALE DANIEL VALERIU",
+      "nume_norm": "DANIEL DANUBE FLOODPLAIN TALE VALERIU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P JOINTISZA-2020-DI-CURELEA MARIN RAMONA ANCUTA.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete"
+      ],
+      "nume": "JOINTISZA CURELEA MARIN RAMONA ANCUTA",
+      "nume_norm": "ANCUTA CURELEA JOINTISZA MARIN RAMONA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DANUBE FLOODPLAIN-2020-DI-TERENTE IONUT.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRUSINDICAT.APEROM\"",
+        "autonizata/ Asociati familiale'Cabinete",
+        "neguvemamentale/ Fundativ Asociati?)"
+      ],
+      "nume": "DANUBE FLOODPLAIN TERENTE IONUT",
+      "nume_norm": "DANUBE FLOODPLAIN IONUT TERENTE"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT D SEDIMENT-2020-DI-TUCHIU ELENA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/ Asociati familiale/ Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "PROIECT SEDIMENT TUCHIU ELENA",
+      "nume_norm": "ELENA PROIECT SEDIMENT TUCHIU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA DFP-2020-DI-GORDUZA ANCA VERONICA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati faniliale Cabinete",
+        "economic,ale asociatiilor sau fundatiilor oriale altor organizatii neguvernament",
+        "neguveaanentake/ Fundatiy Asociatif?"
+      ],
+      "nume": "DFP GORDUZA ANCA VERONICA",
+      "nume_norm": "ANCA DFP GORDUZA VERONICA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE P JOINTISZA-2020-DI-ROSCULET ELENA LILIANA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvenamentale/Fundati Asociati?"
+      ],
+      "nume": "JOINTISZA ROSCULET ELENA LILIANA",
+      "nume_norm": "ELENA JOINTISZA LILIANA ROSCULET"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EX DGA-2020-DI-BRATANOVICI CRISTIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "EX DGA BRATANOVICI CRISTIAN",
+      "nume_norm": "BRATANOVICI CRISTIAN DGA EX"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EXERCITARE DIR ABA MURES-2020-DI-BRATANOVICI CRISTIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "aur crizaal Asociati famliale/ Cabirete"
+      ],
+      "nume": "DIR ABA MURES BRATANOVICI CRISTIAN",
+      "nume_norm": "ABA BRATANOVICI CRISTIAN DIR MURES"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-ADAM RELU.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/Fundati/Asociatif?)"
+      ],
+      "nume": "PROIECT DIANA ADAM RELU",
+      "nume_norm": "ADAM DIANA PROIECT RELU"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-APOSTU AMELIA.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/Cabinete",
+        "neguvemamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "PROIECT DIANA APOSTU AMELIA",
+      "nume_norm": "AMELIA APOSTU DIANA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EXERCITARE FCT SEF BIROU-2020-DI-DEACONU ION DANIEL.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1SCAXAINTEL 2009 SRL",
+        "auitorizata/ Asociatii familiale/ Cabinete",
+        "neguvemamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "FCT SEF BIROU DEACONU ION DANIEL",
+      "nume_norm": "BIROU DANIEL DEACONU FCT ION SEF"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-CAPRUCIU ELVIRA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati/ Asociati?",
+        "xMembru Sindicat,Aperom\""
+      ],
+      "nume": "PROIECT DIANA CAPRUCIU ELVIRA",
+      "nume_norm": "CAPRUCIU DIANA ELVIRA PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/ANUALA POCA ZONA COSTIERA-2020-DI-PULBERE CAMELIA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Membru Sindicatul Apele Dobrogea Litoral"
+      ],
+      "nume": "POCA ZONA COSTIERA PULBERE CAMELIA",
+      "nume_norm": "CAMELIA COSTIERA POCA PULBERE ZONA"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-CALUIAN CATALIN FLORIAN.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/Fundativ Asociatji?"
+      ],
+      "nume": "PROIECT DIANA CALUIAN CATALIN FLORIAN",
+      "nume_norm": "CALUIAN CATALIN DIANA FLORIAN PROIECT"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EX SARCINI SI RESP DIR ABA M-2020-DI-ZAHAN LUMINITA MARIA.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 2,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......SC LSM ALTERNATIVE SRL TG.",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "economic ale asociatilor sau fundatilor oriale altor organizatii neguvernamental",
+        "neguvemamentale/Fundati/Asociatif?"
+      ],
+      "nume": "EX SARCINI RESP DIR ABA ZAHAN LUMINITA MARIA",
+      "nume_norm": "ABA DIR EX LUMINITA MARIA RESP SARCINI ZAHAN"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE EX SARCINI SI ATRIBUTII DIR ABA C-2020-DI-DUME DOREL MARCEL.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......SC AIFOS SRL",
+        "FundatiaUmanitara Tara Crisurilor",
+        "auitorizata/Asociatiifamiliale/Cabinete",
+        "neguvemamentale/FundatiAsociatir?)"
+      ],
+      "nume": "EX SARCINI ATRIBUTII DIR ABA DUME DOREL MARCEL",
+      "nume_norm": "ABA ATRIBUTII DIR DOREL DUME EX MARCEL SARCINI"
+    },
+    {
+      "institutie": "Apele Romane",
+      "pdf_url": "https://www.rowater.ro/wp-content/uploads/avere_interese/INCETARE PROIECT DIANA-2020-DI-CAZAN DORU DRAGOS.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1. S.C. E.S.Z. Prahova, str. Gr. Cantacuzino, nr.",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati Asociati?)"
+      ],
+      "nume": "PROIECT DIANA CAZAN DORU DRAGOS",
+      "nume_norm": "CAZAN DIANA DORU DRAGOS PROIECT"
     }
   ]
 }

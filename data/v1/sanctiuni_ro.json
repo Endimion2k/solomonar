@@ -7,6 +7,32 @@
   "in_graf": 1452,
   "entitati": [
     {
+      "nume": "Cavcaliuc Gheorghe Petru",
+      "nume_key": "cavcaliuc gheorghe petru",
+      "schema": "Person",
+      "dataset": "sanctions",
+      "topics": [
+        "sanction"
+      ],
+      "tara": [
+        "md"
+      ],
+      "pozitie": "Président du parti politique “Construisons l'Europe à la maison” (“Building Europe at Home Party”) (PACE)",
+      "motiv": "2000033042660 (other-Other identification number) (State Identification Number (IDNP))",
+      "liste": [
+        "eu_journal_sanctions",
+        "ch_seco_sanctions",
+        "eu_travel_bans",
+        "eu_fsf",
+        "be_fod_sanctions",
+        "fr_tresor_gels_avoir"
+      ],
+      "in_graf": false,
+      "romega_id": null,
+      "n_declaratii": 0,
+      "n_companii": 0
+    },
+    {
       "nume": "Collecting Bee SRL",
       "nume_key": "bee collecting srl",
       "schema": "Organization",
@@ -31,57 +57,9 @@
       "n_companii": 0
     },
     {
-      "nume": "Furtună Victoria",
-      "nume_key": "furtuna victoria",
-      "schema": "Person",
-      "dataset": "sanctions",
-      "topics": [
-        "sanction"
-      ],
-      "tara": [
-        "md"
-      ],
-      "pozitie": "Politician – Leader of the ‘Moldova Mare’ political party",
-      "motiv": "Victoria Furtună est une femme politique de la République de Moldavie qui a reçu un soutien important de la part d’Ilan Shor et du bloc politique Victoire/Pobeda, successeur du parti politique ȘOR déclaré illégal, qui était dirigé par Ilan Shor. En particulier, lors de l’élection présidentielle de 2024, les membres du bloc politique Victoire/Pobeda ont été encouragés à voter pour Victoria Furtună, y compris au moyen de dispositifs de corruption. En outre, en violation des lois électorales interdisant de faire campagne le jour des élections, Ilan Shor, personne inscrite sur la liste, et ses associés ont donné pour instructions à leurs partisans de voter pour Victoria Furtună. Elle est donc associée au bloc politique Victoire/Pobeda. Elle est également associée à Ilan Shor.",
-      "liste": [
-        "eu_journal_sanctions",
-        "mc_fund_freezes",
-        "fr_tresor_gels_avoir",
-        "ca_dfatd_sema_sanctions",
-        "ua_nsdc_sanctions",
-        "eu_fsf"
-      ],
-      "in_graf": false,
-      "romega_id": null,
-      "n_declaratii": 0,
-      "n_companii": 0
-    },
-    {
       "nume": "GELERI IMPORT EXPORT S.R.L.",
       "nume_key": "export geleri import",
       "schema": "Organization",
-      "dataset": "sanctions",
-      "topics": [
-        "sanction"
-      ],
-      "tara": [
-        "ro"
-      ],
-      "pozitie": null,
-      "motiv": null,
-      "liste": [
-        "us_trade_csl",
-        "us_ofac_sdn"
-      ],
-      "in_graf": false,
-      "romega_id": null,
-      "n_declaratii": 0,
-      "n_companii": 0
-    },
-    {
-      "nume": "GELERI, Omer",
-      "nume_key": "geleri omer",
-      "schema": "Person",
       "dataset": "sanctions",
       "topics": [
         "sanction"
@@ -123,32 +101,6 @@
       "n_companii": 0
     },
     {
-      "nume": "Gheorghe Petru CAVCALIUC",
-      "nume_key": "cavcaliuc gheorghe petru",
-      "schema": "Person",
-      "dataset": "sanctions",
-      "topics": [
-        "sanction"
-      ],
-      "tara": [
-        "md"
-      ],
-      "pozitie": "president of the (Moldovan) political party “Building Europe at Home Party” (PACE, Partidul Acasă Construim Europa); former Deputy Head of the General Police Inspectorate",
-      "motiv": "Gheorghe Petru Cavcaliuc is the former Deputy Head of the General Police Inspectorate of the Republic of Moldova. He is known for having organised and participated in the violent protests of Oct 2022, alongside Ilan Shor. He has used his connections within the General Police Inspectorate to recruit former police officers and create a paramilitary group to “protect” the violent demonstrators against the Government of the Republic of Moldova. In this context, he has founded a so-called “shadow government” with the aim of replacing the democratically elected government of the Republic of Moldova. By directing and planning violent demonstrations, Gheorghe Cavcaliuc is responsible for actions which undermine and threaten the sovereignty and independence of the Republic of Moldova, and the democracy, the rule of law, stability and security in the Republic of Moldova.",
-      "liste": [
-        "eu_travel_bans",
-        "eu_journal_sanctions",
-        "mc_fund_freezes",
-        "fr_tresor_gels_avoir",
-        "ca_dfatd_sema_sanctions",
-        "eu_fsf"
-      ],
-      "in_graf": false,
-      "romega_id": null,
-      "n_declaratii": 0,
-      "n_companii": 0
-    },
-    {
       "nume": "Guzun Chiril",
       "nume_key": "chiril guzun",
       "schema": "Person",
@@ -159,15 +111,15 @@
       "tara": [
         "md"
       ],
-      "pozitie": "Ancien agent de la police aux frontières",
-      "motiv": "Former border police officer and the current leader of a paramilitary group, “SCUTUL POPORULUI”",
+      "pozitie": "Former border police officer, currently the leader of a paramilitary group, “SCUTUL POPORULUI”",
+      "motiv": "Chiril Guzun est le fondateur et le chef actuel de “Scutul Poporului”, une organisation paramilitaire en République de Moldavie, qui comprend d’anciens militaires, policiers et membres des services répressifs, qui recourt à la violence en assistant à des manifestations, en particulier pour déstabiliser la République de Moldavie. Lors des tentatives de déstabilisation du gouvernement national en février 2023, des groupes de manifestants affiliés au parti “ȘOR”, interdit par la suite, et au parti “Construisons l’Europe à la maison”, “Partidul Acasă Construim Europa” (PACE), étaient soutenus et entourés par des membres de “Scutul Poporului”, impliqués dans des émeutes et des manifestations violentes. Chiril Guzun est également une connaissance de longue date de Gheorghe Cavcaliuc„ une personne inscrite sur la liste et le chef du parti “PACE”. Cavcaliuc a reconnu sa concertation avec l’organisation de Chiril Guzun dans le cadre des manifestations violentes. En outre, Natalia Guzun, l’épouse de Chiril Guzun, est vice-présidente du parti “PACE”. En sa qualité de chef de “Scutul Poporului”, Chiril Guzun, en dirigeant et en soutenant des manifestations violentes, ainsi qu’en y participant, est responsable d’actions qui compromettent et menacent l’état de droit, la stabilité et la sécurité en République de Moldavie. En outre, Chiril Guzun est associé à Gheorghe Cavcaliuc et à “Scutul Poporului”.",
       "liste": [
-        "eu_travel_bans",
         "eu_journal_sanctions",
-        "mc_fund_freezes",
-        "fr_tresor_gels_avoir",
-        "ca_dfatd_sema_sanctions",
-        "eu_fsf"
+        "ch_seco_sanctions",
+        "eu_travel_bans",
+        "eu_fsf",
+        "be_fod_sanctions",
+        "fr_tresor_gels_avoir"
       ],
       "in_graf": false,
       "romega_id": null,
@@ -190,6 +142,42 @@
       "liste": [
         "us_trade_csl",
         "tw_shtc"
+      ],
+      "in_graf": false,
+      "romega_id": null,
+      "n_declaratii": 0,
+      "n_companii": 0
+    },
+    {
+      "nume": "Korolenko Alexander",
+      "nume_key": "alexander korolenko",
+      "schema": "Person",
+      "dataset": "sanctions",
+      "topics": [
+        "sanction"
+      ],
+      "tara": [],
+      "pozitie": null,
+      "motiv": null,
+      "liste": [
+        "ua_nsdc_sanctions"
+      ],
+      "in_graf": false,
+      "romega_id": null,
+      "n_declaratii": 0,
+      "n_companii": 0
+    },
+    {
+      "nume": "Lavinia Grumeza",
+      "nume_key": "grumeza lavinia",
+      "schema": "Person",
+      "dataset": "sanctions",
+      "topics": [],
+      "tara": [],
+      "pozitie": "співробітник відділу (департаменту) археології Інституту археології та історії мистецтв у м. Клуж-Напока Румунської академії (Румунія)",
+      "motiv": null,
+      "liste": [
+        "ua_nsdc_sanctions"
       ],
       "in_graf": false,
       "romega_id": null,
@@ -315,9 +303,9 @@
         "sanction"
       ],
       "tara": [
+        "ro",
         "ru",
-        "ae",
-        "ro"
+        "ae"
       ],
       "pozitie": null,
       "motiv": null,
@@ -331,51 +319,19 @@
       "n_companii": 0
     },
     {
-      "nume": "PLAHOTNIUC, Vladimir",
-      "nume_key": "plahotniuc vladimir",
+      "nume": "Omer GELERI",
+      "nume_key": "geleri omer",
       "schema": "Person",
       "dataset": "sanctions",
       "topics": [
         "sanction"
       ],
       "tara": [
-        "md",
-        "cy",
-        "ro"
-      ],
-      "pozitie": "businessman, politician",
-      "motiv": "Vladimir Plahotniuc is subject to numerous criminal proceedings in the Republic of Moldova related to crimes in connection with the embezzlement of State funds of the Republic of Moldova and their illegal transfer outside the Republic of Moldova. He was accused in the Republic of Moldova in the “Bank Fraud” case, the economic effects of which are still affecting the country. He is also being investigated for bribing the former president of the Republic of Moldova with a bag of cash in exchange for political favours. Furthermore, he has held meetings with the Kremlin to gain support for his interference in the 2025 parliamentary elections in the Republic of Moldova. Through his serious financial misconduct concerning public funds and the unauthorised export of capital and undermining the democratic political process in the Republic of Moldova, Vladimir Plahotniuc is responsible for actions and implementing policies which undermine and threaten democracy, the rule of law, stability or security in the Republic of Moldova.",
-      "liste": [
-        "eu_travel_bans",
-        "eu_journal_sanctions",
-        "mc_fund_freezes",
-        "fr_tresor_gels_avoir",
-        "us_ofac_sdn",
-        "lv_fiu_sanctions"
-      ],
-      "in_graf": false,
-      "romega_id": null,
-      "n_declaratii": 0,
-      "n_companii": 0
-    },
-    {
-      "nume": "Southeast Trading Oy",
-      "nume_key": "oy southeast trading",
-      "schema": "Organization",
-      "dataset": "sanctions",
-      "topics": [
-        "export.control",
-        "sanction"
-      ],
-      "tara": [
-        "ru",
-        "fi",
         "ro"
       ],
       "pozitie": null,
-      "motiv": "See also addresses under Romania and Russia",
+      "motiv": null,
       "liste": [
-        "ua_nsdc_sanctions",
         "us_trade_csl",
         "us_ofac_sdn"
       ],
@@ -406,27 +362,8 @@
       "n_companii": 0
     },
     {
-      "nume": "Єріміцюц Александру",
-      "nume_key": "",
-      "schema": "Person",
-      "dataset": "sanctions",
-      "topics": [
-        "sanction"
-      ],
-      "tara": [],
-      "pozitie": null,
-      "motiv": "до 14.04.2021 – громадянин України Єрімічук Олександр Володимирович",
-      "liste": [
-        "ua_nsdc_sanctions"
-      ],
-      "in_graf": false,
-      "romega_id": null,
-      "n_declaratii": 0,
-      "n_companii": 0
-    },
-    {
-      "nume": "Віктор Кожокару",
-      "nume_key": "",
+      "nume": "Victor Cojocaru",
+      "nume_key": "cojocaru victor",
       "schema": "Person",
       "dataset": "sanctions",
       "topics": [],
@@ -442,7 +379,61 @@
       "n_companii": 0
     },
     {
-      "nume": "Короленко Александр Анатольевич",
+      "nume": "Vlad Ulinici",
+      "nume_key": "ulinici vlad",
+      "schema": "Person",
+      "dataset": "sanctions",
+      "topics": [
+        "sanction"
+      ],
+      "tara": [
+        "ro",
+        "cy",
+        "md"
+      ],
+      "pozitie": "Homme politique",
+      "motiv": "Vladimir Plahotniuc is subject to numerous criminal proceedings in the Republic of Moldova related to crimes in connection with the embezzlement of State funds of the Republic of Moldova and their illegal transfer outside the Republic of Moldova. He was accused in the Republic of Moldova in the “Bank Fraud” case, the economic effects of which are still affecting the country. He is also being investigated for bribing the former president of the Republic of Moldova with a bag of cash in exchange for political favours. Furthermore, he has held meetings with the Kremlin to gain support for his interference in the 2025 parliamentary elections in the Republic of Moldova. Through his serious financial misconduct concerning public funds and the unauthorised export of capital and undermining the democratic political process in the Republic of Moldova, Vladimir Plahotniuc is responsible for actions and implementing policies which undermine and threaten democracy, the rule of law, stability or security in the Republic of Moldova.",
+      "liste": [
+        "eu_journal_sanctions",
+        "lv_fiu_sanctions",
+        "us_trade_csl",
+        "ch_seco_sanctions",
+        "us_ofac_sdn",
+        "eu_travel_bans"
+      ],
+      "in_graf": false,
+      "romega_id": null,
+      "n_declaratii": 0,
+      "n_companii": 0
+    },
+    {
+      "nume": "«Саусіст Трейдінг Лтд»",
+      "nume_key": "",
+      "schema": "Organization",
+      "dataset": "sanctions",
+      "topics": [
+        "export.control",
+        "sanction"
+      ],
+      "tara": [
+        "ro",
+        "fi",
+        "ru"
+      ],
+      "pozitie": null,
+      "motiv": "See also addresses under Romania and Russia",
+      "liste": [
+        "us_trade_csl",
+        "us_ofac_sdn",
+        "ua_nsdc_sanctions"
+      ],
+      "in_graf": false,
+      "romega_id": null,
+      "n_declaratii": 0,
+      "n_companii": 0
+    },
+    {
+      "nume": "Єріміцюц Александру",
       "nume_key": "",
       "schema": "Person",
       "dataset": "sanctions",
@@ -451,7 +442,7 @@
       ],
       "tara": [],
       "pozitie": null,
-      "motiv": null,
+      "motiv": "до 14.04.2021 – громадянин України Єрімічук Олександр Володимирович",
       "liste": [
         "ua_nsdc_sanctions"
       ],
@@ -480,16 +471,25 @@
       "n_companii": 0
     },
     {
-      "nume": "Лавінія Грумеза",
+      "nume": "Фуртуне Вікторія",
       "nume_key": "",
       "schema": "Person",
       "dataset": "sanctions",
-      "topics": [],
-      "tara": [],
-      "pozitie": "співробітник відділу (департаменту) археології Інституту археології та історії мистецтв у м. Клуж-Напока Румунської академії (Румунія)",
-      "motiv": null,
+      "topics": [
+        "sanction"
+      ],
+      "tara": [
+        "md"
+      ],
+      "pozitie": "Femme politique — chef du parti politique “Moldova Mare”",
+      "motiv": "Victoria Furtună is a politician from the Republic of Moldova who has received significant support from Ilan Shor and the Victory/Pobeda Political Bloc, which is the successor of the outlawed ȘOR political party, led by Ilan Shor. In particular, during the 2024 Presidential election, members of the Victory/Pobeda Political Bloc were encouraged to vote for Victoria Furtună, including through bribing schemes. Moreover, in breach of electoral laws prohibiting campaigning during the day of the elections, listed person Ilan Shor and his associates instructed their supporters to vote for Victoria Furtună. Therefore, she is associated with the Victory/Pobeda Political Bloc. She is also associated with Ilan Shor.",
       "liste": [
-        "ua_nsdc_sanctions"
+        "eu_journal_sanctions",
+        "ch_seco_sanctions",
+        "eu_fsf",
+        "be_fod_sanctions",
+        "ua_nsdc_sanctions",
+        "fr_tresor_gels_avoir"
       ],
       "in_graf": false,
       "romega_id": null,
@@ -1593,8 +1593,8 @@
         "wd_peps"
       ],
       "in_graf": true,
-      "romega_id": "g:bfb1681dde3965e3",
-      "n_declaratii": 0,
+      "romega_id": "g:4448a29169522596",
+      "n_declaratii": 2,
       "n_companii": 1
     },
     {
@@ -3010,8 +3010,8 @@
         "ro_senate"
       ],
       "in_graf": true,
-      "romega_id": "g:e7dbd2dfb69ab6d0",
-      "n_declaratii": 4,
+      "romega_id": "g:4de036348742e255",
+      "n_declaratii": 5,
       "n_companii": 0
     },
     {
@@ -3031,7 +3031,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:69fe6ab92a6e08cf",
-      "n_declaratii": 2,
+      "n_declaratii": 3,
       "n_companii": 1
     },
     {
@@ -3812,7 +3812,7 @@
       ],
       "in_graf": true,
       "romega_id": "p:93e4b6c2f1f6b56d",
-      "n_declaratii": 1,
+      "n_declaratii": 2,
       "n_companii": 0
     },
     {
@@ -6251,7 +6251,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:6c47489b90747ceb",
-      "n_declaratii": 1,
+      "n_declaratii": 2,
       "n_companii": 0
     },
     {
@@ -6560,7 +6560,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:24880b4101552bb4",
-      "n_declaratii": 6,
+      "n_declaratii": 10,
       "n_companii": 0
     },
     {
@@ -8869,7 +8869,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:29ef0f32e8a68be8",
-      "n_declaratii": 9,
+      "n_declaratii": 10,
       "n_companii": 0
     },
     {
@@ -10927,7 +10927,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:95cfe5ac7e807d50",
-      "n_declaratii": 24,
+      "n_declaratii": 26,
       "n_companii": 0
     },
     {
@@ -13599,7 +13599,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:ebed1dba4fbae0aa",
-      "n_declaratii": 6,
+      "n_declaratii": 8,
       "n_companii": 0
     },
     {
@@ -16530,7 +16530,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:670fe8d6671010c1",
-      "n_declaratii": 9,
+      "n_declaratii": 12,
       "n_companii": 1
     },
     {
@@ -19287,7 +19287,7 @@
       ],
       "in_graf": true,
       "romega_id": "p:d286fe20e4342666",
-      "n_declaratii": 1,
+      "n_declaratii": 2,
       "n_companii": 1
     },
     {
@@ -22866,7 +22866,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:23b28a9ab8113d52",
-      "n_declaratii": 5,
+      "n_declaratii": 8,
       "n_companii": 0
     },
     {
@@ -23257,7 +23257,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:e3ef117b4df0739e",
-      "n_declaratii": 13,
+      "n_declaratii": 15,
       "n_companii": 0
     },
     {
@@ -24355,7 +24355,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:d185e3e92b767f2a",
-      "n_declaratii": 11,
+      "n_declaratii": 12,
       "n_companii": 0
     },
     {
@@ -24398,7 +24398,7 @@
       ],
       "in_graf": true,
       "romega_id": "g:2283c326b9bdc574",
-      "n_declaratii": 8,
+      "n_declaratii": 18,
       "n_companii": 1
     },
     {
@@ -29649,7 +29649,7 @@
       ],
       "in_graf": true,
       "romega_id": "p:2b4dbbf76edf173e",
-      "n_declaratii": 2,
+      "n_declaratii": 4,
       "n_companii": 0
     },
     {

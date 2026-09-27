@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-09T19:37:19.633729+00:00",
-  "sursa": "servicii deconcentrate, text+OCR, Legea 176/2010",
-  "total": 9983,
+  "generated_at": "2026-09-27T14:22:15.726495+00:00",
+  "sursa": "ministere, text+OCR, Legea 176/2010",
+  "total": 10033,
   "ocr_in_corpus": 8912,
-  "pii_blocate": 79,
+  "pii_blocate": 0,
+  "pii_mascate": 53,
   "declaratii": [
     {
       "institutie": "Ministerul Afacerilor Externe",
@@ -17116,6 +17117,19 @@
     },
     {
       "institutie": "Ministerul Sănătății",
+      "pdf_url": "https://ms.ro/media/documents/Vlasceanu_Mircea_Emanuel.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 82514,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "VLASCEANU MIRCEA EMANUEL",
+      "nume_norm": "EMANUEL MIRCEA VLASCEANU"
+    },
+    {
+      "institutie": "Ministerul Sănătății",
       "pdf_url": "https://ms.ro/media/documents/Voiculescu_Gheorghe.pdf",
       "ocr": false,
       "terenuri": 7,
@@ -18078,6 +18092,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/CARAMAN%20DUMITRU.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "CARAMAN DUMITRU",
+      "nume_norm": "CARAMAN DUMITRU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/CERGAN%20LILIANA%20FLORINA.pdf",
       "ocr": false,
       "terenuri": 1,
@@ -18972,6 +18999,19 @@
       "auto": 0,
       "nume": "TATARU EMILIAN MARIAN",
       "nume_norm": "EMILIAN MARIAN TATARU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/TATARU%20MIHAELA.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "TATARU MIHAELA",
+      "nume_norm": "MIHAELA TATARU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -25072,6 +25112,17 @@
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2023/05/nedu.pdf",
+      "ocr": false,
+      "terenuri": 6,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 174818,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2023/05/pantilimon.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -28614,6 +28665,17 @@
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/06/TR.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 164664,
+      "datorii_ron": 0,
+      "auto": 6
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2024/06/atanasoaie.pdf",
       "ocr": false,
       "terenuri": 2,
@@ -29319,6 +29381,28 @@
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/GRECU.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 109271,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/IVASCU.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 114009,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/MOCANU.pdf",
       "ocr": false,
       "terenuri": 5,
@@ -29643,6 +29727,17 @@
       "auto": 4,
       "nume": "POPESCU VIOLETA",
       "nume_norm": "POPESCU VIOLETA"
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/adam.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 432154,
+      "datorii_ron": 0,
+      "auto": 4
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -30357,6 +30452,17 @@
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2025/03/BR-anuala.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 336720,
+      "datorii_ron": 100000,
+      "auto": 4
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/savencu.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -30674,6 +30780,17 @@
       "conturi_ron": 0,
       "venituri_ron": 211990,
       "datorii_ron": 363367,
+      "auto": 5
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/safta.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 79854,
+      "datorii_ron": 0,
       "auto": 5
     },
     {
@@ -32465,6 +32582,19 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Baboi.Elena/2020/Elena_Baboi_AV20200511_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "terenuri": 7,
+      "cladiri": 6,
+      "conturi_ron": 0,
+      "venituri_ron": 93849,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "ELENA BABOI AV DAPMPOFPFM",
+      "nume_norm": "AV BABOI DAPMPOFPFM ELENA"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Baboi.Elena/2022/DA_BABOI_ELENA.pdf",
       "ocr": false,
       "terenuri": 9,
@@ -32475,6 +32605,19 @@
       "auto": 5,
       "nume": "BABOI ELENA",
       "nume_norm": "BABOI ELENA"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Baboi.Elena/2021/Baboi_Elena_AV20210510_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "terenuri": 7,
+      "cladiri": 6,
+      "conturi_ron": 0,
+      "venituri_ron": 111567,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "BABOI ELENA AV DAPMPOFPFM",
+      "nume_norm": "AV BABOI DAPMPOFPFM ELENA"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -35728,6 +35871,19 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Iercosan.Iuliana/2020/Iercosan_Iuliana_AV20200508_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 146183,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "IERCOSAN IULIANA AV DAPMPOFPFM",
+      "nume_norm": "AV DAPMPOFPFM IERCOSAN IULIANA"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Iercosan.Iuliana/2022/DI_Iercosan_Iuliana.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -36079,6 +36235,19 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Lazar.Sorin%20Grigore/2022/DA_LAZAR_SORIN_GRIGORE_DIR_EX_ADJ_AJOFM_ALBA.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 5,
+      "conturi_ron": 0,
+      "venituri_ron": 152566,
+      "datorii_ron": 0,
+      "auto": 6,
+      "nume": "LAZAR SORIN GRIGORE DIR EX ADJ AJOFM ALBA",
+      "nume_norm": "ADJ AJOFM ALBA DIR EX GRIGORE LAZAR SORIN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/LUCAN.NATALIA_FLORINA/2024/DA_LUCAN_NATALIA_FLORINA.pdf",
       "ocr": false,
       "terenuri": 1,
@@ -36098,6 +36267,19 @@
       "cladiri": 3,
       "conturi_ron": 0,
       "venituri_ron": 57347,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "LANZOTTI TEODORA",
+      "nume_norm": "LANZOTTI TEODORA"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Lanzotti.Teodora/2023/Lanzotti_Teodora__DA.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 71700,
       "datorii_ron": 0,
       "auto": 5,
       "nume": "LANZOTTI TEODORA",
@@ -37275,6 +37457,19 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Nagy.Ibolya/2021/AJOFM_HG_NAGY_IBOLYA_AV20210518.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 78212,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "AJOFM HG NAGY IBOLYA AV",
+      "nume_norm": "AJOFM AV HG IBOLYA NAGY"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Neaga.Elena/2022/DA_NEAGA_ELENA.pdf",
       "ocr": false,
       "terenuri": 4,
@@ -37363,6 +37558,19 @@
       "auto": 4,
       "nume": "NICOLAE ELENA",
       "nume_norm": "ELENA NICOLAE"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Nicula.Marius%20Daniel/2020/AJOFM_GL_NICULA_MARIUS_DANIEL_AV.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 119655,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "AJOFM GL NICULA MARIUS DANIEL AV",
+      "nume_norm": "AJOFM AV DANIEL GL MARIUS NICULA"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -37700,6 +37908,19 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "AJOFM HG PANESCU TIBERIU AV",
+      "nume_norm": "AJOFM AV HG PANESCU TIBERIU"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Panescu.Tiberiu/2021/AJOFM_HG_TIBERIU_PANESCU_AV20210520.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 6,
+      "nume": "AJOFM HG TIBERIU PANESCU AV",
       "nume_norm": "AJOFM AV HG PANESCU TIBERIU"
     },
     {
@@ -39547,6 +39768,45 @@
       "auto": 6,
       "nume": "STIRBU SILVIA DANIELA",
       "nume_norm": "DANIELA SILVIA STIRBU"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stefan.Lenuta/2020/Stefan_Lenuta_AV20200520_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 114461,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "STEFAN LENUTA AV DAPMPOFPFM",
+      "nume_norm": "AV DAPMPOFPFM LENUTA STEFAN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stefan.Lenuta/2019/Lenuta_Stefan_DA20190517_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 71541,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "LENUTA STEFAN DA DAPMPOFPFM",
+      "nume_norm": "DA DAPMPOFPFM LENUTA STEFAN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stefan.Lenuta/2021/Lenuta_Stefan_AV20210524_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 127272,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "LENUTA STEFAN AV DAPMPOFPFM",
+      "nume_norm": "AV DAPMPOFPFM LENUTA STEFAN"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -54341,6 +54601,19 @@
       "venituri_ron": 202844,
       "datorii_ron": 0,
       "auto": 3
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/05/12f6740e398bd424086be2571129b3cf.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 55428,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "BD BE CF",
+      "nume_norm": "BD BE CF"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -76458,6 +76731,19 @@
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2020/12/9d1582da04c72ec43535ea988a8202ab.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 149193,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "DA EC EA AB",
+      "nume_norm": "AB DA EA EC"
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
       "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2020/12/e254206d52c832593b8726d83467712a.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -79018,6 +79304,19 @@
       "auto": 0,
       "nume": "DF AB DDF",
       "nume_norm": "AB DDF DF"
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2021/03/2fc40863a2ae7339f8826a1e6284a424.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 76900,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "FC AE",
+      "nume_norm": "AE FC"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -88874,6 +89173,19 @@
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2021/06/49fc1fb056ffd8af1edafb8787e03dc9.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "FC FB FFD AF EDAFB DC",
+      "nume_norm": "AF DC EDAFB FB FC FFD"
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
       "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2021/06/5814b7f721d65ef1b6cc6677d79506f0.pdf",
       "ocr": true,
       "terenuri": 4,
@@ -93775,6 +94087,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Dinu%20Marinela%20Nicoleta.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 162760,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "DINU MARINELA NICOLETA",
+      "nume_norm": "DINU MARINELA NICOLETA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Co%C5%9Fereanu%20Dominica.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -94188,6 +94513,19 @@
       "auto": 2,
       "nume": "GĂINĂ LILIANA",
       "nume_norm": "GAINA LILIANA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Iliescu%20Victor.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 537600,
+      "venituri_ron": 192400,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "ILIESCU VICTOR",
+      "nume_norm": "ILIESCU VICTOR"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -94867,6 +95205,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Preda%20C%C4%83t%C4%83lin.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "PREDA CĂTĂLIN",
+      "nume_norm": "CATALIN PREDA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Popa%20Mariana%20Larisa.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -95501,6 +95852,19 @@
       "auto": 0,
       "nume": "TIMIŞ VASILE",
       "nume_norm": "TIMIS VASILE"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/V%C3%A2lcu%20Daniel.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 424162,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "VÂLCU DANIEL",
+      "nume_norm": "DANIEL VALCU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -98377,6 +98741,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Emil%20Gheorghe.pdf",
+      "ocr": true,
+      "terenuri": 6,
+      "cladiri": 0,
+      "conturi_ron": 29900,
+      "venituri_ron": 145183,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "EMIL GHEORGHE",
+      "nume_norm": "EMIL GHEORGHE"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Fratila%20Angelica%20Gianina.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -99950,6 +100327,17 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/MARINCAS%20O..pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 45110,
+      "venituri_ron": 107250,
+      "datorii_ron": 0,
+      "auto": 2
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Marin%20Maria.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -100233,6 +100621,19 @@
       "auto": 3,
       "nume": "OLTEANU LUMINITA",
       "nume_norm": "LUMINITA OLTEANU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Onea%28Duta%29%20Liliana.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "ONEA(DUTA) LILIANA",
+      "nume_norm": "DUTA LILIANA ONEA"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -100808,6 +101209,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Pop%20Adriana%20Elena.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "POP ADRIANA ELENA",
+      "nume_norm": "ADRIANA ELENA POP"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Pop%20Adriana.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -101120,6 +101534,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Prunaru%20Cristina.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "PRUNARU CRISTINA",
+      "nume_norm": "CRISTINA PRUNARU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Pasalan%20Monica.pdf",
       "ocr": true,
       "terenuri": 6,
@@ -101414,6 +101841,19 @@
       "auto": 2,
       "nume": "SARBUSCA LUCICA",
       "nume_norm": "LUCICA SARBUSCA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Saftoiu%20Claudiu%20Elwis.PDF",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 26600,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "SAFTOIU CLAUDIU ELWIS",
+      "nume_norm": "CLAUDIU ELWIS SAFTOIU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -108420,6 +108860,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Dinu%20Marinela%20Nicoleta.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 162760,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "DINU MARINELA NICOLETA",
+      "nume_norm": "DINU MARINELA NICOLETA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Dinu%20Sanda.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -108898,6 +109351,19 @@
       "auto": 2,
       "nume": "ILIE ROXANA",
       "nume_norm": "ILIE ROXANA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Iliescu%20Victor.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 537600,
+      "venituri_ron": 192400,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "ILIESCU VICTOR",
+      "nume_norm": "ILIESCU VICTOR"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -110097,6 +110563,19 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Preda%20C%C4%83t%C4%83lin.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "PREDA CĂTĂLIN",
+      "nume_norm": "CATALIN PREDA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/V%C3%AElcea%20Elena-Janina.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -110133,6 +110612,19 @@
       "auto": 3,
       "nume": "TUDORICA CIPRIAN",
       "nume_norm": "CIPRIAN TUDORICA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/V%C3%A2lcu%20Daniel.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 424162,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "VÂLCU DANIEL",
+      "nume_norm": "DANIEL VALCU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -110695,6 +111187,32 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/BUCURESTEANU%20MONICA%20ELENA.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "BUCURESTEANU MONICA ELENA",
+      "nume_norm": "BUCURESTEANU ELENA MONICA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/GANEA%20MIHAELA%20NICOLETA.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "GANEA MIHAELA NICOLETA",
+      "nume_norm": "GANEA MIHAELA NICOLETA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/DA_I_2022/TARNOVEANU%20Nicoleta%20Beatrice%20Ionela.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -111048,6 +111566,17 @@
       "cladiri": 0,
       "conturi_ron": 0,
       "venituri_ron": 63503,
+      "datorii_ron": 0,
+      "auto": 2
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/bucuresti/caraseladriangabriel.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 28100,
+      "venituri_ron": 0,
       "datorii_ron": 0,
       "auto": 2
     },
@@ -111647,12 +112176,45 @@
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/cluj/deacdorinmarius.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 35000,
+      "venituri_ron": 2640,
+      "datorii_ron": 0,
+      "auto": 0
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/carasseverin/balaneugeniaelena.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 32413,
+      "datorii_ron": 0,
+      "auto": 2
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
       "pdf_url": "https://www.onrc.ro/documente/declaratii2006/cluj/beresdanaviorica.pdf",
       "ocr": true,
       "terenuri": 0,
       "cladiri": 0,
       "conturi_ron": 5000,
       "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 2
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/carasseverin/szleacsangeorgetaflorica.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 53936,
       "datorii_ron": 0,
       "auto": 2
     },
@@ -111721,6 +112283,28 @@
       "venituri_ron": 70000,
       "datorii_ron": 0,
       "auto": 2
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/gorj/lupulescucristina.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 1
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/gorj/margineioncostinel.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 0
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -112258,6 +112842,17 @@
       "cladiri": 0,
       "conturi_ron": 0,
       "venituri_ron": 40870,
+      "datorii_ron": 0,
+      "auto": 2
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/ilfov/istrateelenasimona.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 5000,
       "datorii_ron": 0,
       "auto": 2
     },
@@ -113836,6 +114431,17 @@
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2007/gorj/lupulescucristina.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
       "pdf_url": "https://www.onrc.ro/documente/declaratii2007/harghita/dusageta.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -113888,6 +114494,17 @@
       "venituri_ron": 5000,
       "datorii_ron": 0,
       "auto": 2
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2007/ialomita/cocoslidia.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 16875,
+      "datorii_ron": 0,
+      "auto": 0
     },
     {
       "institutie": "ONRC — Registrul Comerțului",

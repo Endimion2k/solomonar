@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-06T06:45:23.001533+00:00",
-  "sursa": "servicii deconcentrate, text+OCR, Legea 176/2010",
-  "total": 328,
-  "ocr_in_corpus": 0,
+  "generated_at": "2026-09-27T11:52:15.056594+00:00",
+  "sursa": "Camera Deputaților, text+OCR, Legea 176/2010",
+  "total": 330,
+  "ocr_in_corpus": 3,
   "pii_blocate": 0,
+  "pii_mascate": 0,
   "declaratii": [
     {
       "institutie": "Deputat Adomnicai Mirela Elena",
@@ -4268,6 +4269,32 @@
       "auto": 4,
       "nume": "ARTIMON DAN-CATALIN",
       "nume_norm": "ARTIMON CATALIN DAN"
+    },
+    {
+      "institutie": "Deputat Dobre Ciprian-Minodor",
+      "pdf_url": "https://www.cdep.ro/declaratii/deputati/2024/avere/092b.pdf",
+      "ocr": true,
+      "terenuri": 14,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "DOBRE CIPRIAN-MINODOR",
+      "nume_norm": "CIPRIAN DOBRE MINODOR"
+    },
+    {
+      "institutie": "Deputat Miklos Zoltan",
+      "pdf_url": "https://www.cdep.ro/declaratii/deputati/2024/avere/195a.pdf",
+      "ocr": true,
+      "terenuri": 10,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "MIKLOS ZOLTAN",
+      "nume_norm": "MIKLOS ZOLTAN"
     }
   ]
 }

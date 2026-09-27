@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-06T10:00:38.699222+00:00",
-  "sursa": "servicii deconcentrate, text+OCR, Legea 176/2010",
+  "generated_at": "2026-09-27T11:51:48.642827+00:00",
+  "sursa": "ANPM, text+OCR, Legea 176/2010",
   "total": 225,
-  "ocr_in_corpus": 0,
+  "ocr_in_corpus": 3,
   "pii_blocate": 0,
+  "pii_mascate": 0,
   "declaratii": [
     {
       "institutie": "ANPM/APM",

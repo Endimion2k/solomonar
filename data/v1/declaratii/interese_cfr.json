@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T13:26:40.464793+00:00",
-  "sursa": "servicii deconcentrate, declaratii de INTERESE, text+OCR",
-  "total": 8730,
+  "generated_at": "2026-09-27T11:58:33.045265+00:00",
+  "sursa": "grupul CFR, declaratii de INTERESE, text+OCR",
+  "total": 8801,
   "declaratii": [
     {
       "institutie": "CFR SA - 2025-central 2025",
@@ -2373,6 +2373,21 @@
       ],
       "nume": "CARARE ADINA MARCELA",
       "nume_norm": "ADINA CARARE MARCELA"
+    },
+    {
+      "institutie": "CFR SA - 2025-06iasi 2025",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2025/05/Liuta-Andrei-Vasile-30-zile-de-la-numire.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "LIUTA ANDREI VASILE",
+      "nume_norm": "ANDREI LIUTA VASILE"
     },
     {
       "institutie": "CFR SA - 2025-06iasi 2025",
@@ -9006,6 +9021,23 @@
       ],
       "nume": "BARBU MARIAN",
       "nume_norm": "BARBU MARIAN"
+    },
+    {
+      "institutie": "CFR SA - 2024-01bucuresti 2024",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2024/06/DI-MANEA-STEFAN.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Sindicatul Operatorilor de Tractiune din SNTFM - Presedinte"
+      ],
+      "nume": "MANEA STEFAN",
+      "nume_norm": "MANEA STEFAN"
     },
     {
       "institutie": "CFR SA - 2024-01bucuresti 2024",
@@ -48201,6 +48233,21 @@
       "nume_norm": "DANIEL URSACHE"
     },
     {
+      "institutie": "CFR SA - 2023-06iasi 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/06/Vatamanu-Sergiu-1.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "VATAMANU SERGIU",
+      "nume_norm": "SERGIU VATAMANU"
+    },
+    {
       "institutie": "CFR SA - 2023-06iasi 2024",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2024/01/Zapalie-Marius-Eduard-1.pdf",
       "ocr": false,
@@ -52522,6 +52569,23 @@
     },
     {
       "institutie": "CFR SA - 2023-08timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/07/DI_POPA-FLORIN.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Sindicatul CFR Timisoara - Membru"
+      ],
+      "nume": "POPA FLORIN",
+      "nume_norm": "FLORIN POPA"
+    },
+    {
+      "institutie": "CFR SA - 2023-08timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/06/FILIP-RAUL_DI.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -52553,6 +52617,24 @@
       ],
       "nume": "STAICU IULIAN",
       "nume_norm": "IULIAN STAICU"
+    },
+    {
+      "institutie": "CFR SA - 2023-08timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/07/DI_RADU-I.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICATUL CFR TIMISOARA - MEMBRU",
+        "4.1 Partidul Social Democrat - Consilier"
+      ],
+      "nume": "RADU",
+      "nume_norm": "RADU"
     },
     {
       "institutie": "CFR SA - 2023-08timisoara 2023",
@@ -75049,6 +75131,25 @@
     },
     {
       "institutie": "CFR SA - 2020-00-central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/FLORESCU-MARIA-2.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MEMBRU DE SINDICAT AL SINDICATULUI LIBER AL PERSONALULUI TESA DIN SNTFM, SNTFC,",
+        "autorizată/ Asociaţii familiale/ Cabinete",
+        "neguvernamentale/ Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "FLORESCU MARIA",
+      "nume_norm": "FLORESCU MARIA"
+    },
+    {
+      "institutie": "CFR SA - 2020-00-central 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MITROI-VALENTIN-3.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -75065,6 +75166,26 @@
       ],
       "nume": "MITROI VALENTIN",
       "nume_norm": "MITROI VALENTIN"
+    },
+    {
+      "institutie": "CFR SA - 2020-00-central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/NICOLAOS-JEAN-3.pdf",
+      "ocr": false,
+      "actionariat": 2,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 4,
+      "valoare_actiuni_ron": 2690,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1. S.C. CCCF București S.A. Acționar 269 2.690 Lei",
+        "3.1. Sindicatul FEROM din CNCF CFR S.A.",
+        "Asociaţii familiale/",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "NICOLAOS JEAN",
+      "nume_norm": "JEAN NICOLAOS"
     },
     {
       "institutie": "CFR SA - 2020-00-central 2023",
@@ -83017,6 +83138,26 @@
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BURLACU-CRISTIAN_Redacted.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "MembrudesindicatlaUSLMC",
+        "autorizata/Asociatifamiliale/Cabinete",
+        "economic,aleasociatilor sau fundatiilor oriale altor organizatii neguvernamental",
+        "neguvemamentale/FundativAsociatif"
+      ],
+      "nume": "BURLACU CRISTIAN",
+      "nume_norm": "BURLACU CRISTIAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Burtescu-Marian_Redacted.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -87929,6 +88070,25 @@
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Purcarea-Gabriela_Redacted.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "SindicatulDRUMDEFIER-CENTRALLINII",
+        "autorizata/Asociatiifamiliale/Cabinete",
+        "economic,ale asociatiilor saufundatilor oriale altor organizatii neguvernamental"
+      ],
+      "nume": "PURCAREA GABRIELA",
+      "nume_norm": "GABRIELA PURCAREA"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Radu-Ana-Iulia_Redacted.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -88450,6 +88610,24 @@
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/POPESCU-DRAGOS-DANIEL_Redacted.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizatalAsociatifamiliale/Cabinete",
+        "neguvemamentale/FundatiAsociati?"
+      ],
+      "nume": "POPESCU DRAGOS DANIEL",
+      "nume_norm": "DANIEL DRAGOS POPESCU"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Spatacean-Ioan.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -88465,6 +88643,25 @@
       ],
       "nume": "SPATACEAN IOAN",
       "nume_norm": "IOAN SPATACEAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-01-bucuresti 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Ungurean-Marian-Cristian_Redacted.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 25,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "CNCF-,CFR\"-SA",
+        "autorizatalAsociatifamiliale/Cabinete",
+        "neguvemamentale/Fundati Asociatir?"
+      ],
+      "nume": "UNGUREAN MARIAN CRISTIAN",
+      "nume_norm": "CRISTIAN MARIAN UNGUREAN"
     },
     {
       "institutie": "CFR SA - 2021-01-bucuresti 2023",
@@ -111953,6 +112150,25 @@
     },
     {
       "institutie": "CFR SA - 2021-07-galati 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/108-STERIAN-DUMITRU.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Sindicatul ,,Semnaforul CT2 Buzau",
+        "auitorizata/ Asociati faniliale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "STERIAN DUMITRU",
+      "nume_norm": "DUMITRU STERIAN"
+    },
+    {
+      "institutie": "CFR SA - 2021-07-galati 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/70-LIMBUTU-MIHAI.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -115187,6 +115403,24 @@
     },
     {
       "institutie": "CFR SA - 2022-central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ALBU-S.-RODICA-DANIELA-1.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICAT FEROM - MEMBRU",
+        "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/ Cabinete i"
+      ],
+      "nume": "ALBU RODICA DANIELA",
+      "nume_norm": "ALBU DANIELA RODICA"
+    },
+    {
+      "institutie": "CFR SA - 2022-central 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/APESCARITEI-NUTI-2.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -115202,6 +115436,23 @@
       ],
       "nume": "APESCARITEI NUTI",
       "nume_norm": "APESCARITEI NUTI"
+    },
+    {
+      "institutie": "CFR SA - 2022-central 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CIOFALCA-C.-Marian-1.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "desfasoara profesia de avocat/ Organizati neguvernamentale/ Fundati/ Asociatii-)"
+      ],
+      "nume": "CIOFALCA MARIAN",
+      "nume_norm": "CIOFALCA MARIAN"
     },
     {
       "institutie": "CFR SA - 2022-03constanta 2023",
@@ -115938,6 +116189,23 @@
       ],
       "nume": "MAER DORIN IOAN",
       "nume_norm": "DORIN IOAN MAER"
+    },
+    {
+      "institutie": "CFR SA - 2022-07galati 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/2_POPA-MIHAELA-1.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Societati comerciale/ Persoana fizica autorizata/ Asociati familiale/Cabinete in"
+      ],
+      "nume": "POPA MIHAELA",
+      "nume_norm": "MIHAELA POPA"
     },
     {
       "institutie": "CFR SA - 2020-00-central 2023",
@@ -124491,6 +124759,23 @@
     },
     {
       "institutie": "CFR SA - 2020-03-constanta 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Istrate-Marian-interese.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autonizata/Asociatifamiliale/Cabinete"
+      ],
+      "nume": "ISTRATE MARIAN",
+      "nume_norm": "ISTRATE MARIAN"
+    },
+    {
+      "institutie": "CFR SA - 2020-03-constanta 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Nicolae-Doina-interese.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -129078,6 +129363,24 @@
       ],
       "nume": "POP IOAN",
       "nume_norm": "IOAN POP"
+    },
+    {
+      "institutie": "CFR SA - 2020-04cluj 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/POP-ION-2.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/ Asociati familiale/ Cabinete",
+        "neguvennanentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "POP ION",
+      "nume_norm": "ION POP"
     },
     {
       "institutie": "CFR SA - 2020-04cluj 2023",
@@ -140729,6 +141032,24 @@
     },
     {
       "institutie": "CFR SA - 2020-07-galati 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Dragusanu-Ionel-1.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociatii familiale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "DRAGUSANU IONEL",
+      "nume_norm": "DRAGUSANU IONEL"
+    },
+    {
+      "institutie": "CFR SA - 2020-07-galati 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/Francu-Ion-1.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -141890,6 +142211,25 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ANGHELESCU-MARIUS_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 Sindicatul Feroviar \"Glasul Rotilor de tren\"",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguveinamentale/Fundati/ Asociati?"
+      ],
+      "nume": "ANGHELESCU MARIUS DIANONIM",
+      "nume_norm": "ANGHELESCU DIANONIM MARIUS"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ANGHEL-FLORENTIN_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -142765,6 +143105,23 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BOGHIN-TIBERIUS_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete"
+      ],
+      "nume": "BOGHIN TIBERIUS DIANONIM",
+      "nume_norm": "BOGHIN DIANONIM TIBERIUS"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CALAPIS-PETRU_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -142870,6 +143227,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BUTNARU-VASILE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati farniliale/ Cabinete individuale, cabinete",
+        "economic, aleasociatiilor sau fundatiilor orialealtor organizati neguvernamental"
+      ],
+      "nume": "BUTNARU VASILE DIANONIM",
+      "nume_norm": "BUTNARU DIANONIM VASILE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BLEBEA-ILEANA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -142886,6 +143261,41 @@
       ],
       "nume": "BLEBEA ILEANA DIANONIM",
       "nume_norm": "BLEBEA DIANONIM ILEANA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BUGNAR-CODRUT_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1MEMBRU SINDICAT SECTIA LS DEVA",
+        "Asociati familiale/ Cabinete individuale, cabinete"
+      ],
+      "nume": "BUGNAR CODRUT DIANONIM",
+      "nume_norm": "BUGNAR CODRUT DIANONIM"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BULBOACA-LUCIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabirete individuale, cabinete"
+      ],
+      "nume": "BULBOACA LUCIAN DIANONIM",
+      "nume_norm": "BULBOACA DIANONIM LUCIAN"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -142907,6 +143317,27 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BERZAVA-MARIUS_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 ......SC Mola Salsa SRL",
+        "2.1...... SC Mola Salsa SRL",
+        "3.1......Membru sindicat \" Central C.F.R. Timisoara\"",
+        "Fundati/Asocat?",
+        "economic,precumsimembruinasociatii,fundatii saualte organizatii neguvernamentale"
+      ],
+      "nume": "BERZAVA MARIUS DIANONIM",
+      "nume_norm": "BERZAVA DIANONIM MARIUS"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BUGIU-VIOREL_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -142922,6 +143353,24 @@
       ],
       "nume": "BUGIU VIOREL DIANONIM",
       "nume_norm": "BUGIU DIANONIM VIOREL"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CERBU-FLORINA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociatif?)"
+      ],
+      "nume": "CERBU FLORINA DIANONIM",
+      "nume_norm": "CERBU DIANONIM FLORINA"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -142943,6 +143392,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BERGER-MARICEL_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvernamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "BERGER MARICEL DIANONIM",
+      "nume_norm": "BERGER DIANONIM MARICEL"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BENEC-MIRCEA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -142958,6 +143425,24 @@
       ],
       "nume": "BENEC MIRCEA DIANONIM",
       "nume_norm": "BENEC DIANONIM MIRCEA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BUGA-ARPAD_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1...MEMBRU A2 SiNDiCAT FEROUA@ GLASUL OTILOR DE TeEN",
+        "Asociati familiale/ Cabinete individuale, cabinete"
+      ],
+      "nume": "BUGA ARPAD DIANONIM",
+      "nume_norm": "ARPAD BUGA DIANONIM"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -143068,6 +143553,25 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BRINDUSOIU-MIHAI_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 2,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatifaniliale/ Cabincte individuale, cabinete",
+        "SINDICATUL",
+        "neguvenamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "BRINDUSOIU MIHAI DIANONIM",
+      "nume_norm": "BRINDUSOIU DIANONIM MIHAI"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BALAN-DORU_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -143106,6 +143610,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BANCIULA-IOSIF_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundati/ Asociatif?"
+      ],
+      "nume": "BANCIULA IOSIF DIANONIM",
+      "nume_norm": "BANCIULA DIANONIM IOSIF"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BRAIT-IOAN_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -143124,6 +143646,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/AVRAMUT-OVIDIU_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "AVRAMUT OVIDIU DIANONIM",
+      "nume_norm": "AVRAMUT DIANONIM OVIDIU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BADALUTA-COSTICA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -143139,6 +143679,60 @@
       ],
       "nume": "BADALUTA COSTICA DIANONIM",
       "nume_norm": "BADALUTA COSTICA DIANONIM"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BALABUC-GRIGORE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "2.1. Sindicatul Central CFR Timisoara",
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "BALABUC GRIGORE DIANONIM",
+      "nume_norm": "BALABUC DIANONIM GRIGORE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BALAN-CRISTIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1..SERV ELECTRO PREST SRL"
+      ],
+      "nume": "BALAN CRISTIAN DIANONIM",
+      "nume_norm": "BALAN CRISTIAN DIANONIM"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/BOTAS-LUCIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvenamentale/Fundati/Asociafi?"
+      ],
+      "nume": "BOTAS LUCIAN DIANONIM",
+      "nume_norm": "BOTAS DIANONIM LUCIAN"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -143233,6 +143827,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ARHIP-MIHAI_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "ARHIP MIHAI DIANONIM",
+      "nume_norm": "ARHIP DIANONIM MIHAI"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ARDELEANMIRCEA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -143303,6 +143915,28 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CHEZAN-CALIN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 3,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1. S.C. EVAL CAD PROIECT S.R.L.",
+        "3.1. SINDICAT SECTIA L5 DEVA",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "P.F.A.",
+        "P.F.A. CHEZAN CALIN IOAN-EXP. JUDICIAR",
+        "neguvemamentale/ Fundati/ Asociatif?"
+      ],
+      "nume": "CHEZAN CALIN DIANONIM",
+      "nume_norm": "CALIN CHEZAN DIANONIM"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CAREJA-ANA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -143318,6 +143952,43 @@
       ],
       "nume": "CAREJA ANA DIANONIM",
       "nume_norm": "ANA CAREJA DIANONIM"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ARDELEAN-DOREL_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundati/Asociati?"
+      ],
+      "nume": "ARDELEAN DOREL DIANONIM",
+      "nume_norm": "ARDELEAN DIANONIM DOREL"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/FLORISTEANU-MIHAELA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. SINDICATUL CFR TIMISOARA",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "FLORISTEANU MIHAELA DIANONIM",
+      "nume_norm": "DIANONIM FLORISTEANU MIHAELA"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -143350,6 +144021,24 @@
       "entitati": [],
       "nume": "FRANCU ALEXANDRU DIANONIM",
       "nume_norm": "ALEXANDRU DIANONIM FRANCU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/FRATILA-TEODOR_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale",
+        "Organizati neguvernamentale/ Fundati/"
+      ],
+      "nume": "FRATILA TEODOR DIANONIM",
+      "nume_norm": "DIANONIM FRATILA TEODOR"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -143624,6 +144313,25 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/DRAGHIA-EMANUEL_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......ACCOUNTING OFFICE SRL",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvenamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "DRAGHIA EMANUEL DIANONIM",
+      "nume_norm": "DIANONIM DRAGHIA EMANUEL"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/DAMIAN-ALEXANDRU_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -143855,6 +144563,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CORBEI-PETRU_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundati/ Asociafi?"
+      ],
+      "nume": "CORBEI PETRU DIANONIM",
+      "nume_norm": "CORBEI DIANONIM PETRU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CORBU-IULIU_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -143962,6 +144688,43 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/COROZEL-NORBERT_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. MEMBRU SINDICAT SECTIA L5 DEVA",
+        "Asociatii faniliale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "COROZEL NORBERT DIANONIM",
+      "nume_norm": "COROZEL DIANONIM NORBERT"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/COSOR-VIORICA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "COSOR VIORICA DIANONIM",
+      "nume_norm": "COSOR DIANONIM VIORICA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CIOREI-ION_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -143994,6 +144757,25 @@
       ],
       "nume": "CIORAN TRAIAN DIANONIM",
       "nume_norm": "CIORAN DIANONIM TRAIAN"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/COSOR-NICUSOR_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "Sindicatul Liber SIMC Timisoara",
+        "neguvemamentale/Fundafi/ Asociati?"
+      ],
+      "nume": "COSOR NICUSOR DIANONIM",
+      "nume_norm": "COSOR DIANONIM NICUSOR"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144052,6 +144834,25 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/CRETIU-VASILE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 ......Membru sindicat ,Drum de Fier\"'-Colectiv Central Divizie Linii",
+        "Asociati faniliale/ Cabinete individuale, cabinete",
+        "neguvernamentale/ Fundati/ Asociati2)"
+      ],
+      "nume": "CRETIU VASILE DIANONIM",
+      "nume_norm": "CRETIU DIANONIM VASILE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/COTOC-IOAN_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -144067,6 +144868,43 @@
       ],
       "nume": "COTOC IOAN DIANONIM",
       "nume_norm": "COTOC DIANONIM IOAN"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/HUIAN-VASILE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. MEMBRU SINDICAT.SECTIA L5 DEVA",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "HUIAN VASILE DIANONIM",
+      "nume_norm": "DIANONIM HUIAN VASILE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/LUPAU-DUMITRU_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "LUPAU DUMITRU DIANONIM",
+      "nume_norm": "DIANONIM DUMITRU LUPAU"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144118,6 +144956,24 @@
       ],
       "nume": "HORGA VALENTIN DIANONIM",
       "nume_norm": "DIANONIM HORGA VALENTIN"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ISTRATI-ADRIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundaiti/ Asociati?)"
+      ],
+      "nume": "ISTRATI ADRIAN DIANONIM",
+      "nume_norm": "ADRIAN DIANONIM ISTRATI"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144193,6 +145049,43 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GURZA-VASILE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociatir)"
+      ],
+      "nume": "GURZA VASILE DIANONIM",
+      "nume_norm": "DIANONIM GURZA VASILE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/IORDACHE-GHEORGHE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. Membru in cadrul SINDICATULUI CENTRAL CFR TIMISOARA",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "negurvemamentale/Fundatil Asociati)"
+      ],
+      "nume": "IORDACHE GHEORGHE DIANONIM",
+      "nume_norm": "DIANONIM GHEORGHE IORDACHE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/IOVA-IOAN_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -144230,6 +145123,43 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GULEA-REMUS_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/Cabinete individuale, cabinete",
+        "economic aleasociatilor sau fundafilor on alealtor organizatiineguvernamentale:",
+        "neguvemamentale/Fundati/Asociati?"
+      ],
+      "nume": "GULEA REMUS DIANONIM",
+      "nume_norm": "DIANONIM GULEA REMUS"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ION-PETRU_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvenamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "ION PETRU DIANONIM",
+      "nume_norm": "DIANONIM ION PETRU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/LUTAS-MARIANA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -144245,6 +145175,24 @@
       ],
       "nume": "LUTAS MARIANA DIANONIM",
       "nume_norm": "DIANONIM LUTAS MARIANA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GROZESCU-IOAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati Asociatif?"
+      ],
+      "nume": "GROZESCU IOAN DIANONIM",
+      "nume_norm": "DIANONIM GROZESCU IOAN"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144265,6 +145213,43 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MANDRES-MIRELA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabincte",
+        "Fundati Asociati?",
+        "Membru Sindicat ., DRUM DE FIER\""
+      ],
+      "nume": "MANDRES MIRELA DIANONIM",
+      "nume_norm": "DIANONIM MANDRES MIRELA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GRIZA-JUDIT_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "Fundari/ Asociati?"
+      ],
+      "nume": "GRIZA JUDIT DIANONIM",
+      "nume_norm": "DIANONIM GRIZA JUDIT"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/IONESCU-DANA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -144280,6 +145265,24 @@
       ],
       "nume": "IONESCU DANA DIANONIM",
       "nume_norm": "DANA DIANONIM IONESCU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/IONITA-MARIUS_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "IONITA MARIUS DIANONIM",
+      "nume_norm": "DIANONIM IONITA MARIUS"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144320,6 +145323,62 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GHIT-IOAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Sa'sotie",
+        "neguvemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "GHIT IOAN DIANONIM",
+      "nume_norm": "DIANONIM GHIT IOAN"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GLODEANU-MARIA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "Fundati/ Asociati?]"
+      ],
+      "nume": "GLODEANU MARIA DIANONIM",
+      "nume_norm": "DIANONIM GLODEANU MARIA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GOREA-COSTEL_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 3,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. MEMBRU SINDICAT SECTIA L5 DEVA",
+        "3.Calitatea demembrumn cadrulasociatiilorprofesion",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvenamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "GOREA COSTEL DIANONIM",
+      "nume_norm": "COSTEL DIANONIM GOREA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ION-DUMITRU_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -144356,6 +145415,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GHIT-DORINA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/Fundatfiv Asociati?)"
+      ],
+      "nume": "GHIT DORINA DIANONIM",
+      "nume_norm": "DIANONIM DORINA GHIT"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ION-ATANASIE_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -144389,6 +145466,24 @@
       ],
       "nume": "GHEORGHIES RADU DIANONIM",
       "nume_norm": "DIANONIM GHEORGHIES RADU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GHERGA-IOAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvermamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "GHERGA IOAN DIANONIM",
+      "nume_norm": "DIANONIM GHERGA IOAN"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144498,6 +145593,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/ILIE-CALIN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati Asociatif?"
+      ],
+      "nume": "ILIE CALIN DIANONIM",
+      "nume_norm": "CALIN DIANONIM ILIE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MAGHET-LUCIAN_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -144513,6 +145626,25 @@
       ],
       "nume": "MAGHET LUCIAN DIANONIM",
       "nume_norm": "DIANONIM LUCIAN MAGHET"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MANCIU-DARIUS_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatifamiliale/Cabinete individuale, cabinete",
+        "economic aleasociatiilor sau fundafilor onaleaitor organizatif neguvernamentale:",
+        "neguvemamertale/Fundatfi/ Asociati?)"
+      ],
+      "nume": "MANCIU DARIUS DIANONIM",
+      "nume_norm": "DARIUS DIANONIM MANCIU"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144534,6 +145666,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/GABRIAN-IOANA_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociatf?"
+      ],
+      "nume": "GABRIAN IOANA DIANONIM",
+      "nume_norm": "DIANONIM GABRIAN IOANA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/IFTIMIE-IOAN_DIanonim.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -144549,6 +145699,25 @@
       ],
       "nume": "IFTIMIE IOAN DIANONIM",
       "nume_norm": "DIANONIM IFTIMIE IOAN"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MANDRES-IULIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete indivicuale, cabincte",
+        "Fundatiy Asociati?",
+        "Membru Sindicat , DRUM DE FIER"
+      ],
+      "nume": "MANDRES IULIAN DIANONIM",
+      "nume_norm": "DIANONIM IULIAN MANDRES"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144568,6 +145737,24 @@
       ],
       "nume": "IACOB GINA DIANONIM",
       "nume_norm": "DIANONIM GINA IACOB"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/LUPSAN-GHEORGHE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvenamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "LUPSAN GHEORGHE DIANONIM",
+      "nume_norm": "DIANONIM GHEORGHE LUPSAN"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144658,6 +145845,25 @@
       ],
       "nume": "PETRUTESCU VASILE DIANONIM",
       "nume_norm": "DIANONIM PETRUTESCU VASILE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/PAVEL-MIHAI_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. SINDICAT SECTIA L5 DEVA",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociatf?"
+      ],
+      "nume": "PAVEL MIHAI DIANONIM",
+      "nume_norm": "DIANONIM MIHAI PAVEL"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -144804,6 +146010,25 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/OPRISANU-VASILE_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1. MEMBRU SINDICAT SECTIA L5 DEVA",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "OPRISANU VASILE DIANONIM",
+      "nume_norm": "DIANONIM OPRISANU VASILE"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/PADINEANU-LIVIU_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -144944,6 +146169,25 @@
       ],
       "nume": "NICOARA ADRIAN",
       "nume_norm": "ADRIAN NICOARA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/NICOARA-ADRIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1......SC ALBORADA SRL",
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "NICOARA ADRIAN DIANONIM",
+      "nume_norm": "ADRIAN DIANONIM NICOARA"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
@@ -145200,6 +146444,24 @@
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MARTIS-IONEL_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatii familiale/ Cabinete individuale, cabinete",
+        "neguvenamentale/ Fundapi/ Asociati?"
+      ],
+      "nume": "MARTIS IONEL DIANONIM",
+      "nume_norm": "DIANONIM IONEL MARTIS"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
       "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MINULESCU-ADRIANA_DIanonim.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -145306,6 +146568,42 @@
       ],
       "nume": "MORARU ALIN DIANONIM",
       "nume_norm": "ALIN DIANONIM MORARU"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MARGEA-BUJOR_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1...SiNDICATUL LBER AL LUCEATOPILOE FERVIA-PAMER LXIL",
+        "Asociati familiale/ Cabinete individuale, cabinete"
+      ],
+      "nume": "MARGEA BUJOR DIANONIM",
+      "nume_norm": "BUJOR DIANONIM MARGEA"
+    },
+    {
+      "institutie": "CFR SA - 2020-08-timisoara 2023",
+      "pdf_url": "https://cfr.ro/wp-content/uploads/2023/03/MITITELU-MARIAN_DIanonim.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociati familiale/ Cabinete individuale, cabinete",
+        "neguvemamentale/Fundati/ Asociati?)"
+      ],
+      "nume": "MITITELU MARIAN DIANONIM",
+      "nume_norm": "DIANONIM MARIAN MITITELU"
     },
     {
       "institutie": "CFR SA - 2020-08-timisoara 2023",

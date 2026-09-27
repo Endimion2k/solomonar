@@ -1,6 +1,6 @@
 {
   "generat_de": "build_duckdb",
-  "total": 32,
+  "total": 35,
   "data": [
     {
       "nume": "alina costea sanda",
@@ -8,6 +8,15 @@
       "camera": null,
       "partid": "",
       "n_declaratii": 2,
+      "contracte_firme": 3797294049.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "constantin laurentiu tudose",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
       "contracte_firme": 3797294049.0,
       "n_firme": 1
     },
@@ -52,7 +61,7 @@
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 12,
+      "n_declaratii": 13,
       "contracte_firme": 225438871.0,
       "n_firme": 1
     },
@@ -66,16 +75,7 @@
       "n_firme": 1
     },
     {
-      "nume": "alexie bodolan constantin cotan",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 2,
-      "contracte_firme": 133427590.0,
-      "n_firme": 1
-    },
-    {
-      "nume": "bogdan costas",
+      "nume": "butunoi daniel ionel",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -93,6 +93,24 @@
       "n_firme": 1
     },
     {
+      "nume": "bogdan costas",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "alexie bodolan constantin cotan",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 133427590.0,
+      "n_firme": 1
+    },
+    {
       "nume": "gorun laurentiu nicusor",
       "incredere": "context",
       "camera": null,
@@ -102,20 +120,11 @@
       "n_firme": 1
     },
     {
-      "nume": "butunoi daniel ionel",
+      "nume": "anca mitu",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 2,
-      "contracte_firme": 133427590.0,
-      "n_firme": 1
-    },
-    {
-      "nume": "niculae teodorescu",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 2,
+      "n_declaratii": 1,
       "contracte_firme": 36231907.0,
       "n_firme": 1
     },
@@ -147,7 +156,16 @@
       "n_firme": 1
     },
     {
-      "nume": "cojocaru simona",
+      "nume": "niculae teodorescu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 36231907.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "liviu stanoiu",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -156,7 +174,7 @@
       "n_firme": 1
     },
     {
-      "nume": "liviu stanoiu",
+      "nume": "cojocaru simona",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -183,6 +201,15 @@
       "n_firme": 1
     },
     {
+      "nume": "alexandru vicu",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 1,
+      "contracte_firme": 6470243.0,
+      "n_firme": 1
+    },
+    {
       "nume": "banciu leila mihaela",
       "incredere": "context",
       "camera": null,
@@ -201,7 +228,7 @@
       "n_firme": 1
     },
     {
-      "nume": "gabriela stanga",
+      "nume": "gorneanu mihaela",
       "incredere": "context",
       "camera": null,
       "partid": "",
@@ -219,11 +246,11 @@
       "n_firme": 1
     },
     {
-      "nume": "gorneanu mihaela",
+      "nume": "gabriel radu",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 2,
+      "n_declaratii": 1,
       "contracte_firme": 454800.0,
       "n_firme": 1
     },
@@ -237,12 +264,21 @@
       "n_firme": 1
     },
     {
-      "nume": "gabriel radu",
+      "nume": "gabriela stanga",
+      "incredere": "context",
+      "camera": null,
+      "partid": "",
+      "n_declaratii": 2,
+      "contracte_firme": 454800.0,
+      "n_firme": 1
+    },
+    {
+      "nume": "georgeta luminita popescu",
       "incredere": "context",
       "camera": null,
       "partid": "",
       "n_declaratii": 1,
-      "contracte_firme": 454800.0,
+      "contracte_firme": 269863.0,
       "n_firme": 1
     },
     {
@@ -255,11 +291,11 @@
       "n_firme": 1
     },
     {
-      "nume": "constantin cosmin trufelea",
+      "nume": "dan iulius plaveti",
       "incredere": "context",
       "camera": null,
       "partid": "",
-      "n_declaratii": 1,
+      "n_declaratii": 2,
       "contracte_firme": 269863.0,
       "n_firme": 1
     },
@@ -273,20 +309,11 @@
       "n_firme": 1
     },
     {
-      "nume": "georgeta luminita popescu",
+      "nume": "constantin cosmin trufelea",
       "incredere": "context",
       "camera": null,
       "partid": "",
       "n_declaratii": 1,
-      "contracte_firme": 269863.0,
-      "n_firme": 1
-    },
-    {
-      "nume": "dan iulius plaveti",
-      "incredere": "context",
-      "camera": null,
-      "partid": "",
-      "n_declaratii": 2,
       "contracte_firme": 269863.0,
       "n_firme": 1
     }

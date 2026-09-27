@@ -51,28 +51,16 @@
       "salariati": 602
     },
     {
-      "tutela": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE",
-      "n_companii": 2,
-      "contracte": null,
-      "salariati": 19
-    },
-    {
-      "tutela": "AGENTIA DOMENIILOR STATULUI",
-      "n_companii": 2,
-      "contracte": null,
-      "salariati": 4
-    },
-    {
       "tutela": "MINISTERUL MEDIULUI, APELOR SI PADURILOR",
       "n_companii": 2,
       "contracte": 991486.0,
       "salariati": 14018
     },
     {
-      "tutela": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
+      "tutela": "MINISTERUL FAMILIEI, TINERETULUI SI EGALITATII DE SANSE",
       "n_companii": 2,
       "contracte": null,
-      "salariati": 1196
+      "salariati": 19
     },
     {
       "tutela": "MINISTERUL SANATATII",
@@ -81,16 +69,22 @@
       "salariati": 68
     },
     {
+      "tutela": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
+      "n_companii": 2,
+      "contracte": null,
+      "salariati": 1196
+    },
+    {
       "tutela": "MINISTERUL AGRICULTURII SI DEZVOLTARII RURALE",
       "n_companii": 2,
       "contracte": null,
       "salariati": 7
     },
     {
-      "tutela": "CAMERA DEPUTATILOR",
-      "n_companii": 1,
+      "tutela": "AGENTIA DOMENIILOR STATULUI",
+      "n_companii": 2,
       "contracte": null,
-      "salariati": 264
+      "salariati": 4
     },
     {
       "tutela": "MINISTERUL CULTURII",
@@ -99,10 +93,10 @@
       "salariati": 1
     },
     {
-      "tutela": "ADMINISTRATIA NATIONALA APELE ROMANE",
+      "tutela": "SERVICIUL ROMAN DE INFORMATII",
       "n_companii": 1,
-      "contracte": null,
-      "salariati": 244
+      "contracte": 69061534.0,
+      "salariati": 426
     },
     {
       "tutela": "MINISTERUL EDUCATIEI",
@@ -111,10 +105,16 @@
       "salariati": 34
     },
     {
-      "tutela": "SERVICIUL ROMAN DE INFORMATII",
+      "tutela": "CAMERA DEPUTATILOR",
       "n_companii": 1,
-      "contracte": 69061534.0,
-      "salariati": 426
+      "contracte": null,
+      "salariati": 264
+    },
+    {
+      "tutela": "ADMINISTRATIA NATIONALA APELE ROMANE",
+      "n_companii": 1,
+      "contracte": null,
+      "salariati": 244
     }
   ]
 }

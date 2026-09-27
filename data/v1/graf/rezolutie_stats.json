@@ -1,7 +1,7 @@
 {
   "nota": "v2 institution-aware. incredere: high=dată naștere (parlamentari), context=declară LA + conduce ACEEAȘI organizație (nume+org, fără CNP), candidat=doar nume.",
-  "cross_links_total": 306,
-  "cross_links_confirmate": 289,
+  "cross_links_total": 320,
+  "cross_links_confirmate": 303,
   "confirmate": [
     {
       "romega_id": "p:78896aeb00895d99",
@@ -1301,6 +1301,127 @@
       "cv": null
     },
     {
+      "romega_id": "g:2283c326b9bdc574",
+      "nume_key": "calian petru",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 18,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 503939
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 503939
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 631529
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 837926
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 53885
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 93874
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 236085
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 107635
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 56838
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 55919
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 33602967,
+          "nume": "SALA POLIVALENTA S.A.",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 7639122,
+            "profit_net": 1156774,
+            "datorii": 2203370,
+            "nr_salariati": 17
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:ac6b9541cb573015",
       "nume_key": "bruma vasile",
       "incredere": "context",
@@ -1539,6 +1660,112 @@
       }
     },
     {
+      "romega_id": "g:349efdf71ae71077",
+      "nume_key": "focsaneanu mariana",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 15,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 118792
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 70836
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 70836
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 76836
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 23200
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 9735812,
+          "nume": "MEDITUR SA",
+          "rol": "administrator",
+          "sector": "Transport",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:66bc5ed3e675f0a1",
       "nume_key": "arvinte elena",
       "incredere": "context",
@@ -1749,6 +1976,214 @@
       "cv": null
     },
     {
+      "romega_id": "g:d784ef223cebce14",
+      "nume_key": "balazs botond",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 14,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 237953
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 484249
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 265633
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 237953
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 187350
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 54559
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 9735812,
+          "nume": "MEDITUR SA",
+          "rol": "administrator",
+          "sector": "Transport",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
+          }
+        }
+      ],
+      "cv": {
+        "studii": "CADRU DIDACTIC ASOCIAT – UNIVERSITATEA BABES-BOLYAI - FACULTATEA DE ȘTIINȚE POLITICE, | ◦ Asigurarea consultării zilnice a Monitorului Oficial și informarea unitățile organizatorice interesate cu | ◦ redactarea de rapoarte de activitate și de informare | EDUCAȚIE ȘI FORMARE PROFESIONALĂ | MASTERAT - MANAGEMENT ȘI POLITICI PUBLICE – Universitatea Babeș-Bolyai - Facultatea de | Lucrarea de diplomă: Managementul organizațiilor nonprofit - cultura organizațională | MASTERAT - INSTITUȚII DE DREPT PRIVAT – Universitatea \"Lucian Blaga\" - Facultatea de Drept | Lucrarea de diplomă: Aspecte privind drep",
+        "experienta": "EXPERIENȚA PROFESIONALĂ | PREȘEDINTE / DIRECTOR EXECUTIV – ASOCIAȚIA UNIUNEA TINERETULUI DEMOCRAT MAGHIAR | ȘEF SERVICIU JURIDIC – S.N.G.N. ROMGAZ SA | CONSILIER JURIDIC – S.N.G.N. ROMGAZ S.A. | CONSILIER PERSONAL – DEPARTAMENTUL PENTRU ENERGIE | 2017 – 2019 – Str. Traian Moșoiu nr. 71, Cluj-Napoca, România | 2009 – 2010 – Calea Dumbrăvii, Nr. 34, Sibiu, România | 2005 – 2009 – str. Eroilor nr. 25, Brașov, România | 2001 – 2005 – str. Kanta nr. 23, Târgu Secuiesc, România | ◦ cunoștințele dobândite le-am dezvoltat și consolidat în activitatea profesională ca manager de proiect | Manager Proiec"
+      }
+    },
+    {
+      "romega_id": "g:7f877c33d72ef8b0",
+      "nume_key": "maria vulcan",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 14,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 177560
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 191566
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 155781
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 94618
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 154822
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 91000
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 131400
+        },
+        {
+          "tip": "avere",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": 228375
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "MEDITUR SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 9735812,
+          "nume": "MEDITUR SA",
+          "rol": "administrator",
+          "sector": "Transport",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 9439198,
+            "profit_net": 645475,
+            "datorii": 1525212,
+            "nr_salariati": 86
+          }
+        }
+      ],
+      "cv": {
+        "studii": "*Colegiu Scoala Nationala de Gaz\" , Str. Metanului , nr.1 , Medias | Formare profesionala , nr. 2024-1-R001-KA121-VET-00020901 7, | \"Colegiul Scoala Nationala de Gaz \"din Medias. | Educatie scolara , nr. 2024-1-RO01-KA121-SCH -000201078, | Formare profesionala , nr. 2023.1-RO01-KA121-VET-000125322, cu | \"Colegiul Scoala Najionala de Gaz \"'din Medias. | Educatie Scolara, nr, 2023-1-RO01-KA121-SCH-000 125321, finantat de | Uniunea Europeana, proiect derulat de catre\" Colegiul Scoala Nationala | \"Colegiul Scoala Najionala de Gaz \"din Medias. | nr. 2022-1-RO0 I-KA121-SCH-000059079, donteniul Educa",
+        "experienta": "EXPERIENTA | Oct 2018- Prezent | Contabil sef cu exercitare Viza CFP Control fiuanciar preventiv | regularnentul de organizare si functionare at unitatii si de regulamentul | Oct 2016- Prezent | Oct 2024 - Prezent | Manager financiar in cadrul proiectului \" Erasmus+\", domeniul | Noiembrie 2023- Prezent | Manager financiar in cadrul proiectului * Erasmus+\", domeniul | 2021 -2027 finantat de Uniunea Europeana, proiect derulat de catre | Sept 2023- Prezent | Manager financiar in cadrul proiectului \" Erasmus+\" | Manager financiar in cadrul proiectului \" Erasmus+\" 2021-2027 , | Manager financiar in"
+      }
+    },
+    {
       "romega_id": "g:b4204e534aa13d65",
       "nume_key": "costea daniela marcela",
       "incredere": "context",
@@ -1839,6 +2274,298 @@
             "profit_net": 9997462,
             "datorii": 4135121,
             "nr_salariati": 114
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:c06dfa2e659ea635",
+      "nume_key": "dana gaiseanu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 13,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 225438871.0,
+      "total_achizitii_directe_ron": 3702517.89,
+      "firme_contracte_autodeclarate": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "total_ron": 225438871.0
+        }
+      ],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 217770
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 173061
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 161818
+        },
+        {
+          "tip": "avere",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": 160745
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 4331392,
+          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 62093616,
+            "profit_net": 3248831,
+            "datorii": 13824462,
+            "nr_salariati": 130
+          },
+          "contracte_stat": {
+            "total_ron": 225438871.0,
+            "nr": 21
+          },
+          "achizitii_directe": {
+            "total_ron": 3702517.89,
+            "nr": 64
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:2fe38da4060b1fe5",
+      "nume_key": "florin paval",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 12,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 197153
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 228899
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 249491
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 290174
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 5000
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 16402
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 33620670,
+          "nume": "THERMOENERGY GROUP S.A.",
+          "rol": "administrator",
+          "sector": "Energie",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 177828457,
+            "profit_net": 3562121,
+            "datorii": 104031601,
+            "nr_salariati": 333
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:670fe8d6671010c1",
+      "nume_key": "ion popa",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 12,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 180598
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 184486
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 214815
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 214804
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 112008
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 36029
+        },
+        {
+          "tip": "avere",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": 0
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "THERMOENERGY GROUP S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 33620670,
+          "nume": "THERMOENERGY GROUP S.A.",
+          "rol": "administrator",
+          "sector": "Energie",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 177828457,
+            "profit_net": 3562121,
+            "datorii": 104031601,
+            "nr_salariati": 333
           }
         }
       ],
@@ -1950,105 +2677,81 @@
       "cv": null
     },
     {
-      "romega_id": "g:c06dfa2e659ea635",
-      "nume_key": "dana gaiseanu",
+      "romega_id": "g:d0ae1d70397e1126",
+      "nume_key": "aprodu catalin",
       "incredere": "context",
       "parlamentar": null,
-      "n_declaratii": 12,
+      "n_declaratii": 10,
       "n_companii": 1,
       "are_cv": false,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 225438871.0,
-      "total_achizitii_directe_ron": 3702517.89,
-      "firme_contracte_autodeclarate": [
-        {
-          "cui": 4331392,
-          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "total_ron": 225438871.0
-        }
-      ],
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
           "tip": "avere",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 217770
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 235161
         },
         {
           "tip": "avere",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 173061
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 181384
         },
         {
           "tip": "avere",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 135826
         },
         {
           "tip": "avere",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 10000
         },
         {
           "tip": "avere",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
-        },
-        {
-          "tip": "avere",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 160745
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 10000
         },
         {
           "tip": "interese",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         }
       ],
       "companii": [
         {
-          "cui": 4331392,
-          "nume": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "cui": 11711424,
+          "nume": "TRANSURB SA",
           "rol": "administrator",
-          "sector": "Infrastructură",
+          "sector": "Transport",
           "financials": {
             "an": 2025,
-            "cifra_afaceri": 62093616,
-            "profit_net": 3248831,
-            "datorii": 13824462,
-            "nr_salariati": 130
-          },
-          "contracte_stat": {
-            "total_ron": 225438871.0,
-            "nr": 21
-          },
-          "achizitii_directe": {
-            "total_ron": 3702517.89,
-            "nr": 64
+            "cifra_afaceri": 7328310,
+            "profit_net": 256231,
+            "datorii": 1219478,
+            "nr_salariati": 87
           }
         }
       ],
@@ -2309,87 +3012,6 @@
             "profit_net": 9997462,
             "datorii": 4135121,
             "nr_salariati": 114
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:2fe38da4060b1fe5",
-      "nume_key": "florin paval",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 10,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 197153
-        },
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 228899
-        },
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 249491
-        },
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 290174
-        },
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 10000
-        },
-        {
-          "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 33620670,
-          "nume": "THERMOENERGY GROUP S.A.",
-          "rol": "administrator",
-          "sector": "Energie",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 177828457,
-            "profit_net": 3562121,
-            "datorii": 104031601,
-            "nr_salariati": 333
           }
         }
       ],
@@ -2895,8 +3517,8 @@
       "cv": null
     },
     {
-      "romega_id": "g:670fe8d6671010c1",
-      "nume_key": "ion popa",
+      "romega_id": "g:34bf7269d74c0460",
+      "nume_key": "focsaneanu mariana",
       "incredere": "context",
       "parlamentar": null,
       "n_declaratii": 9,
@@ -2909,62 +3531,138 @@
       "declaratii": [
         {
           "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 180598
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": 80572
         },
         {
           "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 184486
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": 82728
         },
         {
           "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 214815
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": 0
         },
         {
           "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 214804
-        },
-        {
-          "tip": "avere",
-          "institutie": "THERMOENERGY GROUP S.A.",
-          "venituri_ron": 112008
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": 0
         },
         {
           "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
+          "institutie": "PIAŢA PRIM-COM SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
+          "institutie": "PIAŢA PRIM-COM SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
+          "institutie": "PIAŢA PRIM-COM SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "THERMOENERGY GROUP S.A.",
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "PIAŢA PRIM-COM SA",
           "venituri_ron": null
         }
       ],
       "companii": [
         {
-          "cui": 33620670,
-          "nume": "THERMOENERGY GROUP S.A.",
+          "cui": 27856405,
+          "nume": "PIAŢA PRIM-COM SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 1813820,
+            "profit_net": 293130,
+            "datorii": 184800,
+            "nr_salariati": 14
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:df916ea9fc06f57c",
+      "nume_key": "gali izabella",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 9,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": 152812
+        },
+        {
+          "tip": "avere",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": 136068
+        },
+        {
+          "tip": "avere",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": 159157
+        },
+        {
+          "tip": "avere",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": 113291
+        },
+        {
+          "tip": "avere",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": 113291
+        },
+        {
+          "tip": "interese",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 26176052,
+          "nume": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
           "rol": "administrator",
           "sector": "Energie",
           "financials": {
             "an": 2025,
-            "cifra_afaceri": 177828457,
-            "profit_net": 3562121,
-            "datorii": 104031601,
-            "nr_salariati": 333
+            "cifra_afaceri": 118981261,
+            "profit_net": -787695,
+            "datorii": 77421918,
+            "nr_salariati": 189
           }
         }
       ],
@@ -3208,77 +3906,6 @@
       "cv": null
     },
     {
-      "romega_id": "g:2283c326b9bdc574",
-      "nume_key": "calian petru",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 8,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": 503939
-        },
-        {
-          "tip": "avere",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": 503939
-        },
-        {
-          "tip": "avere",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": 631529
-        },
-        {
-          "tip": "avere",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": 837926
-        },
-        {
-          "tip": "interese",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 33602967,
-          "nume": "SALA POLIVALENTA S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 7639122,
-            "profit_net": 1156774,
-            "datorii": 2203370,
-            "nr_salariati": 17
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
       "romega_id": "g:3397d7ccb72023db",
       "nume_key": "cristian paraschiv",
       "incredere": "context",
@@ -3413,80 +4040,6 @@
         }
       ],
       "cv": null
-    },
-    {
-      "romega_id": "g:d784ef223cebce14",
-      "nume_key": "balazs botond",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 8,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 237953
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 484249
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 265633
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 237953
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 9735812,
-          "nume": "MEDITUR SA",
-          "rol": "administrator",
-          "sector": "Transport",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 9439198,
-            "profit_net": 645475,
-            "datorii": 1525212,
-            "nr_salariati": 86
-          }
-        }
-      ],
-      "cv": {
-        "studii": "CADRU DIDACTIC ASOCIAT – UNIVERSITATEA BABES-BOLYAI - FACULTATEA DE ȘTIINȚE POLITICE, | ◦ Asigurarea consultării zilnice a Monitorului Oficial și informarea unitățile organizatorice interesate cu | ◦ redactarea de rapoarte de activitate și de informare | EDUCAȚIE ȘI FORMARE PROFESIONALĂ | MASTERAT - MANAGEMENT ȘI POLITICI PUBLICE – Universitatea Babeș-Bolyai - Facultatea de | Lucrarea de diplomă: Managementul organizațiilor nonprofit - cultura organizațională | MASTERAT - INSTITUȚII DE DREPT PRIVAT – Universitatea \"Lucian Blaga\" - Facultatea de Drept | Lucrarea de diplomă: Aspecte privind drep",
-        "experienta": "EXPERIENȚA PROFESIONALĂ | PREȘEDINTE / DIRECTOR EXECUTIV – ASOCIAȚIA UNIUNEA TINERETULUI DEMOCRAT MAGHIAR | ȘEF SERVICIU JURIDIC – S.N.G.N. ROMGAZ SA | CONSILIER JURIDIC – S.N.G.N. ROMGAZ S.A. | CONSILIER PERSONAL – DEPARTAMENTUL PENTRU ENERGIE | 2017 – 2019 – Str. Traian Moșoiu nr. 71, Cluj-Napoca, România | 2009 – 2010 – Calea Dumbrăvii, Nr. 34, Sibiu, România | 2005 – 2009 – str. Eroilor nr. 25, Brașov, România | 2001 – 2005 – str. Kanta nr. 23, Târgu Secuiesc, România | ◦ cunoștințele dobândite le-am dezvoltat și consolidat în activitatea profesională ca manager de proiect | Manager Proiec"
-      }
     },
     {
       "romega_id": "g:e250d65f18ac9b0f",
@@ -3700,77 +4253,6 @@
           "achizitii_directe": {
             "total_ron": 697680.92,
             "nr": 44
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:df916ea9fc06f57c",
-      "nume_key": "gali izabella",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 8,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": 152812
-        },
-        {
-          "tip": "avere",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": 136068
-        },
-        {
-          "tip": "avere",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": 159157
-        },
-        {
-          "tip": "avere",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": 113291
-        },
-        {
-          "tip": "avere",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": 113291
-        },
-        {
-          "tip": "interese",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 26176052,
-          "nume": "CENTRALA ELECTRICĂ DE TERMOFICARE HIDROCARBURI (C.E.T. HIDROCARBURI) SA",
-          "rol": "administrator",
-          "sector": "Energie",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 118981261,
-            "profit_net": -787695,
-            "datorii": 77421918,
-            "nr_salariati": 189
           }
         }
       ],
@@ -4229,141 +4711,6 @@
       }
     },
     {
-      "romega_id": "g:349efdf71ae71077",
-      "nume_key": "focsaneanu mariana",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 7,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 118792
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 70836
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 70836
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 76836
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 9735812,
-          "nume": "MEDITUR SA",
-          "rol": "administrator",
-          "sector": "Transport",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 9439198,
-            "profit_net": 645475,
-            "datorii": 1525212,
-            "nr_salariati": 86
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:7f877c33d72ef8b0",
-      "nume_key": "maria vulcan",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 7,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 177560
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 191566
-        },
-        {
-          "tip": "avere",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": 155781
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "MEDITUR SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 9735812,
-          "nume": "MEDITUR SA",
-          "rol": "administrator",
-          "sector": "Transport",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 9439198,
-            "profit_net": 645475,
-            "datorii": 1525212,
-            "nr_salariati": 86
-          }
-        }
-      ],
-      "cv": {
-        "studii": "*Colegiu Scoala Nationala de Gaz\" , Str. Metanului , nr.1 , Medias | Formare profesionala , nr. 2024-1-R001-KA121-VET-00020901 7, | \"Colegiul Scoala Nationala de Gaz \"din Medias. | Educatie scolara , nr. 2024-1-RO01-KA121-SCH -000201078, | Formare profesionala , nr. 2023.1-RO01-KA121-VET-000125322, cu | \"Colegiul Scoala Najionala de Gaz \"'din Medias. | Educatie Scolara, nr, 2023-1-RO01-KA121-SCH-000 125321, finantat de | Uniunea Europeana, proiect derulat de catre\" Colegiul Scoala Nationala | \"Colegiul Scoala Najionala de Gaz \"din Medias. | nr. 2022-1-RO0 I-KA121-SCH-000059079, donteniul Educa",
-        "experienta": "EXPERIENTA | Oct 2018- Prezent | Contabil sef cu exercitare Viza CFP Control fiuanciar preventiv | regularnentul de organizare si functionare at unitatii si de regulamentul | Oct 2016- Prezent | Oct 2024 - Prezent | Manager financiar in cadrul proiectului \" Erasmus+\", domeniul | Noiembrie 2023- Prezent | Manager financiar in cadrul proiectului * Erasmus+\", domeniul | 2021 -2027 finantat de Uniunea Europeana, proiect derulat de catre | Sept 2023- Prezent | Manager financiar in cadrul proiectului \" Erasmus+\" | Manager financiar in cadrul proiectului \" Erasmus+\" 2021-2027 , | Manager financiar in"
-      }
-    },
-    {
       "romega_id": "g:408fda0e6ee876ac",
       "nume_key": "ion pavel sorin",
       "incredere": "context",
@@ -4428,6 +4775,72 @@
           "achizitii_directe": {
             "total_ron": 2886816.67,
             "nr": 113
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:a41531520e8391fe",
+      "nume_key": "szabolcs toth",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 7,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "avere",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": 15136
+        },
+        {
+          "tip": "avere",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "interese",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "LOCATIV SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 10755066,
+          "nume": "LOCATIV SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 5417823,
+            "profit_net": 502140,
+            "datorii": 2475577,
+            "nr_salariati": 21
           }
         }
       ],
@@ -4809,67 +5222,6 @@
       "cv": null
     },
     {
-      "romega_id": "g:d0ae1d70397e1126",
-      "nume_key": "aprodu catalin",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 6,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": 235161
-        },
-        {
-          "tip": "avere",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": 181384
-        },
-        {
-          "tip": "avere",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": 135826
-        },
-        {
-          "tip": "interese",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 11711424,
-          "nume": "TRANSURB SA",
-          "rol": "administrator",
-          "sector": "Transport",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 7328310,
-            "profit_net": 256231,
-            "datorii": 1219478,
-            "nr_salariati": 87
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
       "romega_id": "g:23878211f8041759",
       "nume_key": "banciu leila mihaela",
       "incredere": "context",
@@ -4934,6 +5286,67 @@
         "studii": "EDUCATIE SIFORMARE | Masterat in domeniul de studi \"lnfomaji si Securitate Natjionala\", programul | Academia Nationala de Informati\"Mihai Viteazu Bucuresti | Masterat -- \"Drept public\"- dizertatje in curs | Universitatea \"Ovidius' Constanta --Facultatea de Drept si Administratie Publica | Masterat --\"Dreptul afacenilor in societatea informationala\" - dizentaljie in curs | Universitatea\"Ovidius\" Constanta -Facultatea de Drept siAdministratie Publica | Facultatea de Drept si Administratie Publica | Universitatea \"Ovidius\" Constanta -- Facultatea de Drept si Administratie Publica | Ministenul Edu",
         "experienta": "EXPERIENTA | Apnlie 2025-prezent | Angajator | Febnuane 2024-Apnlie 2025 Director- Directia Juridica si Relata cu Panamentul | lunie 2024 -prezent | Conform Regulament de organizare si functionare; | Decembne 2009- 2014 | Managerierea unitati si a personalului permanent si sezonier prin | 2002 - 2005 | Competente manageriale, de leadership si decizional: | Abilitatile au fost dobandite si imbunatatite in functile de conducere detinute:"
       }
+    },
+    {
+      "romega_id": "g:8faca07e16babcf2",
+      "nume_key": "adrian craiu florin",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 6,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "venituri_ron": 166356
+        },
+        {
+          "tip": "avere",
+          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "venituri_ron": 166356
+        },
+        {
+          "tip": "interese",
+          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 25040361,
+          "nume": "SPITALUL ORĂŞENESC SRL",
+          "rol": "administrator",
+          "sector": "Sănătate · educație",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 29368266,
+            "profit_net": -2969269,
+            "datorii": 6989933,
+            "nr_salariati": 235
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "g:dfb987b8f747376a",
@@ -5499,8 +5912,8 @@
       }
     },
     {
-      "romega_id": "g:8faca07e16babcf2",
-      "nume_key": "adrian craiu florin",
+      "romega_id": "g:6ca712e14cc298dd",
+      "nume_key": "alin ioan moldoveanu",
       "incredere": "context",
       "parlamentar": null,
       "n_declaratii": 5,
@@ -5513,98 +5926,42 @@
       "declaratii": [
         {
           "tip": "avere",
-          "institutie": "SPITALUL ORĂŞENESC SRL",
-          "venituri_ron": 166356
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 0
         },
         {
           "tip": "avere",
-          "institutie": "SPITALUL ORĂŞENESC SRL",
-          "venituri_ron": 166356
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 74079
+        },
+        {
+          "tip": "avere",
+          "institutie": "TRANSURB SA",
+          "venituri_ron": 424598
         },
         {
           "tip": "interese",
-          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         },
         {
           "tip": "interese",
-          "institutie": "SPITALUL ORĂŞENESC SRL",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "SPITALUL ORĂŞENESC SRL",
+          "institutie": "TRANSURB SA",
           "venituri_ron": null
         }
       ],
       "companii": [
         {
-          "cui": 25040361,
-          "nume": "SPITALUL ORĂŞENESC SRL",
+          "cui": 11711424,
+          "nume": "TRANSURB SA",
           "rol": "administrator",
-          "sector": "Sănătate · educație",
+          "sector": "Transport",
           "financials": {
             "an": 2025,
-            "cifra_afaceri": 29368266,
-            "profit_net": -2969269,
-            "datorii": 6989933,
-            "nr_salariati": 235
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:a41531520e8391fe",
-      "nume_key": "szabolcs toth",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 5,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "LOCATIV SA",
-          "venituri_ron": 15136
-        },
-        {
-          "tip": "avere",
-          "institutie": "LOCATIV SA",
-          "venituri_ron": 10000
-        },
-        {
-          "tip": "interese",
-          "institutie": "LOCATIV SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "LOCATIV SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "LOCATIV SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 10755066,
-          "nume": "LOCATIV SA",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 5417823,
-            "profit_net": 502140,
-            "datorii": 2475577,
-            "nr_salariati": 21
+            "cifra_afaceri": 7328310,
+            "profit_net": 256231,
+            "datorii": 1219478,
+            "nr_salariati": 87
           }
         }
       ],
@@ -5774,6 +6131,60 @@
         }
       ],
       "cv": null
+    },
+    {
+      "romega_id": "g:d49ca9994ed83237",
+      "nume_key": "colcer dorel razvan",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 4,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 123416
+        },
+        {
+          "tip": "avere",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        },
+        {
+          "tip": "interese",
+          "institutie": "SALA POLIVALENTA S.A.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 33602967,
+          "nume": "SALA POLIVALENTA S.A.",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 7639122,
+            "profit_net": 1156774,
+            "datorii": 2203370,
+            "nr_salariati": 17
+          }
+        }
+      ],
+      "cv": {
+        "studii": "Educatie si formare | Calificarea / diploma obtinuta | Absolvent studi univesitare de masterat- AGRIBUSINESS | Universitatea de stinte agricole si Medicina veterinara din Cluj-Napoca, | Facultatea de Horticultura | formare | Inginer- Absolvent studii universitare de licenta- inginerie economica in agricultura | Universitatea de stinte agricole si Medicina veterinara din Cluj-Napoca | invatamint/furnizorul de formare | invatamant/furnizorul de formare | Completare studii si schimb de experienta prin programul Erasmus | Universitatea Bologna din italia | invatamant/furnizoruldeformare | Califica",
+        "experienta": "Experienta profesionala | Perioada | 05.04.2012 - Prezent | Functia sau postul ocupat | Raspunde de incasarile si pltile necesare bunei functionari a societati | Numele si adresa angajatorului | 2009 - 2011 | 2005 - 2009 | Inginer- Absolvent studii universitare de licenta- inginerie economica in agricultura | Completare studii si schimb de experienta prin programul Erasmus | 2001 - 2005 | Ocuparea functiei de vicepresedinte productie in cadrul firmei de exercitiu"
+      }
     },
     {
       "romega_id": "g:1658a4bf0a2a981c",
@@ -6163,57 +6574,6 @@
             "profit_net": 256231,
             "datorii": 1219478,
             "nr_salariati": 87
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:34bf7269d74c0460",
-      "nume_key": "focsaneanu mariana",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 4,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "PIAŢA PRIM-COM SA",
-          "venituri_ron": 80572
-        },
-        {
-          "tip": "avere",
-          "institutie": "PIAŢA PRIM-COM SA",
-          "venituri_ron": 82728
-        },
-        {
-          "tip": "interese",
-          "institutie": "PIAŢA PRIM-COM SA",
-          "venituri_ron": null
-        },
-        {
-          "tip": "interese",
-          "institutie": "PIAŢA PRIM-COM SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 27856405,
-          "nume": "PIAŢA PRIM-COM SA",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 1813820,
-            "profit_net": 293130,
-            "datorii": 184800,
-            "nr_salariati": 14
           }
         }
       ],
@@ -7124,52 +7484,6 @@
       }
     },
     {
-      "romega_id": "g:6ca712e14cc298dd",
-      "nume_key": "alin ioan moldoveanu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 3,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": 0
-        },
-        {
-          "tip": "avere",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": 74079
-        },
-        {
-          "tip": "interese",
-          "institutie": "TRANSURB SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 11711424,
-          "nume": "TRANSURB SA",
-          "rol": "administrator",
-          "sector": "Transport",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 7328310,
-            "profit_net": 256231,
-            "datorii": 1219478,
-            "nr_salariati": 87
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
       "romega_id": "g:fdc4865541584162",
       "nume_key": "dan nicolae tivilichi",
       "incredere": "context",
@@ -7312,6 +7626,52 @@
       "cv": null
     },
     {
+      "romega_id": "g:432a0c60cf50d35a",
+      "nume_key": "cristina manolache marcela",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 3,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "HALE SI PIETE SA",
+          "venituri_ron": 399477
+        },
+        {
+          "tip": "avere",
+          "institutie": "HALE SI PIETE SA",
+          "venituri_ron": 3201
+        },
+        {
+          "tip": "interese",
+          "institutie": "HALE SI PIETE SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 1356295,
+          "nume": "HALE SI PIETE SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 17701066,
+            "profit_net": -1537772,
+            "datorii": 5137484,
+            "nr_salariati": 118
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:79547af008c70ee3",
       "nume_key": "eugen gavan",
       "incredere": "context",
@@ -7363,6 +7723,56 @@
         "studii": "Universitatea \"Dunarea de Jos\" din Galati (UDJG) | FacultateadeArhitecturaNavala | Universitatea,Dunarea de Jos\" din Galati (UDJG) | Facultatea de Arhitectura Navala, Departamentul de Arhitectura Navala, str. Domneasca nr 47, RO- | -Activitati didactice la programe de licenta si masterat (curs, laborator,proiect),la urmatoarele | navei,,Asamblarea Naver',Coordonare proiecte de licenta si dizertatie. | EDUCATIESIFORMARE | DoctorInginer | Universitatea,Dunarea de Jos\"Galati,Facultatea de Mecanica | Domeniul fundamental Stinte ingineresti, titlul tezei de doctorat:,Contributi la modelarea procese",
         "experienta": "EXPERIENTAPROFESIONALA | 1990-prezent | Sef lucrari dr. ing. | 1987-1990 | Inginer stagiar | 1995-2003 | DoctorInginer | Inginerie Mecanica | Domeniul fundamental Stinte ingineresti, titlul tezei de doctorat:,Contributi la modelarea proceselor | 1982-1987 | Inginer | 1977-1981 | tUniuneaEuropeana.2002-2018europass.cedefop.europaeu | Competente administrative si de comunicare dobandite in functile administrative la nivelul | - 2016 - 2018 Consilier municipal - Consiliul Local Galati - Membru Comisia pentru servici publice, | - 2012 - 2016 Consilier municipal - Consiliul Local Galati - Presedint"
       }
+    },
+    {
+      "romega_id": "g:69fe6ab92a6e08cf",
+      "nume_key": "benedek nagy",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 3,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 2633188.39,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "HARVIZ SA",
+          "venituri_ron": 214579
+        },
+        {
+          "tip": "avere",
+          "institutie": "HARVIZ SA",
+          "venituri_ron": 225620
+        },
+        {
+          "tip": "interese",
+          "institutie": "HARVIZ SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 24499588,
+          "nume": "HARVIZ SA",
+          "rol": "administrator",
+          "sector": "Apă-canal · salubritate",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 52802001,
+            "profit_net": 893025,
+            "datorii": 19573512,
+            "nr_salariati": 240
+          },
+          "achizitii_directe": {
+            "total_ron": 2633188.39,
+            "nr": 184
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "g:3c0e9318f8bbe59f",
@@ -7662,6 +8072,59 @@
       "cv": {
         "studii": "EDUCAŢIE ŞI FORMARE | 2014-2016- Academia de Studii Economice Bucureşti- Diplomă de Masterat-specializare Administrarea Afacerii | 2002-2006- Universitatea de Petrol şi Gaze- Facultatea de Ştiinţe Economice- Diplomă de Licenţă în Management | 1998-2002 - Colegiul National &#8222;Mihai Viteazul&#8221; Ploiesti | 2002 - 2006 - Facultatea Management -ASE - Universitatea &#8222;Petrol si Gaze&#8221; Ploiesti | 2013 - Curs &#8222;Protocol si eticheta in diplomatie&#8221; - Institutul Diplomatic Roman",
         "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Perioada | 6 decembrie 2020 - prezent | Consilier Judeţean Prahova | Consilier Cabinet Preşedinte | Economist | 2014-2016- Academia de Studii Economice Bucureşti- Diplomă de Masterat-specializare Administrarea Afacerii | 2002-2006- Universitatea de Petrol şi Gaze- Facultatea de Ştiinţe Economice- Diplomă de Licenţă în Management | 1998-2002 - Colegiul National &#8222;Mihai Vit"
+      }
+    },
+    {
+      "romega_id": "p:d286fe20e4342666",
+      "nume_key": "miklos zoltan",
+      "incredere": "high",
+      "parlamentar": {
+        "camera": "deputat",
+        "partid": "Uniunea Democrată Maghiară din România",
+        "judet": "Covasna",
+        "legislatura": 2024,
+        "birth_date": "1975-08-16",
+        "plx_initiate": 50
+      },
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": true,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 2130478.0,
+      "total_achizitii_directe_ron": 8536211.12,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Miklos Zoltan",
+          "venituri_ron": 0
+        },
+        {
+          "tip": "interese",
+          "institutie": "Deputat Miklos Zoltan",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 22474030,
+          "nume": "ALEX MOBILIER MACS",
+          "rol": "administrator",
+          "sector": "",
+          "financials": null,
+          "contracte_stat": {
+            "total_ron": 2130478.0,
+            "nr": 4
+          },
+          "achizitii_directe": {
+            "total_ron": 8536211.12,
+            "nr": 619
+          }
+        }
+      ],
+      "cv": {
+        "studii": "R4 Consultanta si Formare Profesionala SRL | Consultanta si formare profesionala, managament proiecte europene | EDUCAŢIE ŞI FORMARE | Universitatea &#8220;Lucian Blaga&#8221; Sibiu, Facultatea de Ştiinţe Economice | Masterat in management financiar | Studii postuniversitare | Universitatea &#8220;Transilvania&#8221; Braşov, Facultatea de Ştiinţe Economice | Studii superioare de lunga durata. | Liceul &#8222;Szekely Miko Kollegium&#8221; Sf. Gheorghe, jud. Covasna, Specializare Matematica - Fizica | In cele 4 ani de studiu, s-au parcurs si s-au insusit diferite discipline specifice studiilor l",
+        "experienta": "function emailCurrentPage(){ | 2020 - 2024 | 2016 - 2020 | 2012 - 2016 | 2008 - 2012 | 2004 - 2008 | 2000 - 2004 | 1996 - 2000 | 1992 - 1996 | 1990 - 1992 | 2024 - prezent | Deputat - 2024-prezent | Deputat - 2020-2024 | Perioada (de la - până la) | Numele şi adresa angajatorului | Director general/ Administrator | Sef Serviciu Relatii cu Clientii | Director economic, Director operatiuni, Sef Serviciu Operatiuni | Consilier local | 2007 - 2009 | 1993 - 1997 | In cele 4 ani de studiu, s-au parcurs si s-au insusit diferite discipline de specialitate economica si juridica specifica profesiei de e"
       }
     },
     {
@@ -8111,50 +8574,6 @@
       "cv": null
     },
     {
-      "romega_id": "g:d49ca9994ed83237",
-      "nume_key": "colcer dorel razvan",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": 123416
-        },
-        {
-          "tip": "interese",
-          "institutie": "SALA POLIVALENTA S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 33602967,
-          "nume": "SALA POLIVALENTA S.A.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 7639122,
-            "profit_net": 1156774,
-            "datorii": 2203370,
-            "nr_salariati": 17
-          }
-        }
-      ],
-      "cv": {
-        "studii": "Educatie si formare | Calificarea / diploma obtinuta | Absolvent studi univesitare de masterat- AGRIBUSINESS | Universitatea de stinte agricole si Medicina veterinara din Cluj-Napoca, | Facultatea de Horticultura | formare | Inginer- Absolvent studii universitare de licenta- inginerie economica in agricultura | Universitatea de stinte agricole si Medicina veterinara din Cluj-Napoca | invatamint/furnizorul de formare | invatamant/furnizorul de formare | Completare studii si schimb de experienta prin programul Erasmus | Universitatea Bologna din italia | invatamant/furnizoruldeformare | Califica",
-        "experienta": "Experienta profesionala | Perioada | 05.04.2012 - Prezent | Functia sau postul ocupat | Raspunde de incasarile si pltile necesare bunei functionari a societati | Numele si adresa angajatorului | 2009 - 2011 | 2005 - 2009 | Inginer- Absolvent studii universitare de licenta- inginerie economica in agricultura | Completare studii si schimb de experienta prin programul Erasmus | 2001 - 2005 | Ocuparea functiei de vicepresedinte productie in cadrul firmei de exercitiu"
-      }
-    },
-    {
       "romega_id": "g:77ff6c2bfc462fd1",
       "nume_key": "cornel spatar",
       "incredere": "context",
@@ -8364,6 +8783,47 @@
         "studii": "Educatie si formare profesionala | - SEPT 2009 - APR 2010 - Cursul postuniversitar: ,Departamentul pentru pregatirea | personalului didactic\"- nivelul I si Il, Facultatea Titu Maiorescu -Bucuresti; | -FEBR. 2009 =Obtinere titlu stintific \"Doctor in economie\", domeniul contabilitate, ASE | BUCURESTI, cu teza de doctorat ,,Impactul Standardelor Internationale de Contabilitate | -1990-A.S.E BUCURESTI-Facultatea economia industriei, constructiilor si transporturilor",
         "experienta": "-Director adjunct- 15.04.2013-21.09.2015 | -31.01.1999-31.01.2009-K1SRL-Bucuresti -DirectorEconomic | -01.06.1998-31.01.1999-DANUBIUS EXIM SRL-Bucuresti-DirectorEconomic | -21.11.1994-31.05.1998-PROCERCOMPANYSA-Bucuresti-DirectorEconomic | -01.06.1993-20.11.1994-SCTAPROGRESUL-Bucuresti-Director General siContabil Sef | -15.09.1992 -31.05.1993- SCARB SABOLINTINVALE-Bucuresti-Director Economic | - 15.05.1991-14.09.1992 -COMOTI SA-Bucuresti- Sef serviciu financiar-contabilitate | -01.03.1990-30.09.1990-INCREST Bucuresti -Economist | -1983-1990-INCRESTBucuresti-Compartimentfinanciar-contabilitate "
       }
+    },
+    {
+      "romega_id": "g:3d1c4461340cb049",
+      "nume_key": "gyorgy peter",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "CSÍKI SPORTCENTRUM S.R.L.",
+          "venituri_ron": 245820
+        },
+        {
+          "tip": "interese",
+          "institutie": "CSÍKI SPORTCENTRUM S.R.L.",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 45417319,
+          "nume": "CSÍKI SPORTCENTRUM S.R.L.",
+          "rol": "administrator",
+          "sector": "Alte sectoare",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 1896543,
+            "profit_net": 435,
+            "datorii": 454774,
+            "nr_salariati": 34
+          }
+        }
+      ],
+      "cv": null
     },
     {
       "romega_id": "g:c15d5046ee9bfa13",
@@ -10138,6 +10598,47 @@
       "cv": null
     },
     {
+      "romega_id": "g:a931e7f6adc8ed77",
+      "nume_key": "ovidiu pietraru",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": 0
+        },
+        {
+          "tip": "interese",
+          "institutie": "PIAŢA PRIM-COM SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 27856405,
+          "nume": "PIAŢA PRIM-COM SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 1813820,
+            "profit_net": 293130,
+            "datorii": 184800,
+            "nr_salariati": 14
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "p:fafdd16ae87e5b14",
       "nume_key": "ioan mihalcea",
       "incredere": "high",
@@ -10560,6 +11061,41 @@
       "cv": null
     },
     {
+      "romega_id": "g:e561884ba5e77b0f",
+      "nume_key": "popescu radu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+          "venituri_ron": 10000
+        },
+        {
+          "tip": "interese",
+          "institutie": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 5439903,
+          "nume": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": []
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:d5fbc2bfd6cd25c2",
       "nume_key": "adrian pintea",
       "incredere": "context",
@@ -10576,6 +11112,41 @@
           "tip": "avere",
           "institutie": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
           "venituri_ron": 0
+        },
+        {
+          "tip": "interese",
+          "institutie": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 5439903,
+          "nume": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": []
+        }
+      ],
+      "cv": null
+    },
+    {
+      "romega_id": "g:e0cfc9c97f0c0318",
+      "nume_key": "alina mihaela toma",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 2,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 0,
+      "total_contracte_ron": 0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+          "venituri_ron": 749441
         },
         {
           "tip": "interese",
@@ -11040,47 +11611,6 @@
       "cv": null
     },
     {
-      "romega_id": "g:432a0c60cf50d35a",
-      "nume_key": "cristina manolache marcela",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "HALE SI PIETE SA",
-          "venituri_ron": 399477
-        },
-        {
-          "tip": "interese",
-          "institutie": "HALE SI PIETE SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 1356295,
-          "nume": "HALE SI PIETE SA",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 17701066,
-            "profit_net": -1537772,
-            "datorii": 5137484,
-            "nr_salariati": 118
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
       "romega_id": "g:180b6f2b01bdcb6e",
       "nume_key": "catalin costel vlad",
       "incredere": "context",
@@ -11120,291 +11650,6 @@
         }
       ],
       "cv": null
-    },
-    {
-      "romega_id": "g:1eff238420ca6f5c",
-      "nume_key": "petru stoichici valentin",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "HALE SI PIETE SA",
-          "venituri_ron": 201051
-        },
-        {
-          "tip": "interese",
-          "institutie": "HALE SI PIETE SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 1356295,
-          "nume": "HALE SI PIETE SA",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 17701066,
-            "profit_net": -1537772,
-            "datorii": 5137484,
-            "nr_salariati": 118
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:4ee3e659db45a539",
-      "nume_key": "minel nelu stancu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "URBIS SERVCONSTRUCT S.R.L.",
-          "venituri_ron": 0
-        },
-        {
-          "tip": "interese",
-          "institutie": "URBIS SERVCONSTRUCT S.R.L.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 26454388,
-          "nume": "URBIS SERVCONSTRUCT S.R.L.",
-          "rol": "administrator",
-          "sector": "Servicii",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 7917310,
-            "profit_net": 3870,
-            "datorii": 2405513,
-            "nr_salariati": 102
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:aae2a5bd1bd8454e",
-      "nume_key": "ciprian simionescu",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": false,
-      "n_firme_cu_contracte": 0,
-      "total_contracte_ron": 0,
-      "total_achizitii_directe_ron": 0.0,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
-          "venituri_ron": 125857
-        },
-        {
-          "tip": "interese",
-          "institutie": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 2490570,
-          "nume": "SOCIETATEA DE TRANSPORT PUBLIC TIMISOARA S.A.",
-          "rol": "administrator",
-          "sector": "Transport",
-          "financials": {
-            "an": 2025,
-            "cifra_afaceri": 188879805,
-            "profit_net": 3773547,
-            "datorii": 110508561,
-            "nr_salariati": 1071
-          }
-        }
-      ],
-      "cv": null
-    },
-    {
-      "romega_id": "g:cab9fc382fa55401",
-      "nume_key": "butunoi daniel ionel",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "COMPANIA NATIONALA ROMARM SA",
-          "venituri_ron": 985921
-        },
-        {
-          "tip": "interese",
-          "institutie": "COMPANIA NATIONALA ROMARM SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 13554423,
-          "nume": "COMPANIA NATIONALA ROMARM SA",
-          "rol": "administrator",
-          "sector": "Industrie",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 495120442,
-            "profit_net": 1328205,
-            "datorii": 624762281,
-            "nr_salariati": 72
-          },
-          "contracte_stat": {
-            "total_ron": 133427590.0,
-            "nr": 34
-          },
-          "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
-          }
-        }
-      ],
-      "cv": {
-        "studii": "Educatie si formare | Calificarea/ diploma obtinuta | Master in Drept - ,Investigarea actelor de terorism si securitate publica\" | Absolvent al programului postuniversitar de formare si dezvoltare profesionala continua \"Securitate si | furnizorului de formare | Universitatea Nationala de Aparare ,Carol I\"', Bucuresti - Colegiul National de Aparare - | Departamentul pentru Studii de Securitate si Leadership | The Open University - , The Effective Manager\" | furnizorutui de formare | Licentiat in Economie! Speciaizarea Management | Calificareal diploma obtinuta | Diploma de absolvire | Calificar",
-        "experienta": "Experienta profesionala | Perioada | Functia sau postul ocupat | Consilier ministru  Coardonator industria nationala de aparare | 2020 - 2022 | 2012 - 2020 | 2015 - 2020 | 2018 - 2020 | 2017-2018 | 2015 - 2017 | Consilier de stat, Cabinet Viceprim-ministru, Ministerul Administrafiei si Internelor | 2001 - 2009 | Administrator firma I director comercial | 1997 - 2001 | 2013-2015 | The Open University - , The Effective Manager\" | 1993 - 1997 | 1989-1993 | capacitatea de a initia actiuni; abilitati politice, militare si manageriale:"
-      }
-    },
-    {
-      "romega_id": "g:e38f19509eadfa59",
-      "nume_key": "dan mihail stan",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
-      "firme_contracte_autodeclarate": [
-        {
-          "cui": 13554423,
-          "nume": "COMPANIA NATIONALA ROMARM SA",
-          "total_ron": 133427590.0
-        }
-      ],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "COMPANIA NATIONALA ROMARM SA",
-          "venituri_ron": 189000
-        },
-        {
-          "tip": "interese",
-          "institutie": "COMPANIA NATIONALA ROMARM SA",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 13554423,
-          "nume": "COMPANIA NATIONALA ROMARM SA",
-          "rol": "administrator",
-          "sector": "Industrie",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 495120442,
-            "profit_net": 1328205,
-            "datorii": 624762281,
-            "nr_salariati": 72
-          },
-          "contracte_stat": {
-            "total_ron": 133427590.0,
-            "nr": 34
-          },
-          "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
-          }
-        }
-      ],
-      "cv": {
-        "studii": "✓ Cursuri de formare profesională IFRS - CertIFR; | PwC Academy (2013) pentru studenții PwC Academy pentru sesiunea de examene ACCA decembrie 2013. | EDUCAȚIE ȘI FORMARE PROFESIONALĂ | din octombrie 1993- până în septembrie 1997 - Academia de Studii Economice București, București, România, UE - | Facultatea de Finanțe, Bănci, Asigurări și Burse de Valori - nota examenului de licență: 10.00 din | 10.00 - licență în economie | din octombrie 1989 - până în septembrie 1994 - Universitatea Politehnică București, Facultatea de Inginerie și Management | pentru Tehnologie Sisteme - nota examenului de ",
-        "experienta": "EXPERIENȚĂ PROFESIONALĂ | ✓ Configurarea raportării profitabilității manageriale a societății imobiliare pentru societatea mamă; | din februarie 2008 - aprilie 2017 Șef Departament Raportari și Acționariat / UniCredit Bank România - | adecvate, coordonarea cu alți directori financiari pentru raportarea consolidată, proiectul de implementare a IFRS | ✓ Coordonarea directă a directorilor financiari ai celor 11 filiale BCR și raportarea de grup în conformitate cu IFRS; | © Uniunea Europeană, 2002-2014 | Pagina 1 / | din 2002 până în 2003 Director de dezvoltare a afacerilor | din 2000 până în 2002"
-      }
-    },
-    {
-      "romega_id": "g:7d74c2cab0d7716d",
-      "nume_key": "alexie bodolan constantin cotan",
-      "incredere": "context",
-      "parlamentar": null,
-      "n_declaratii": 2,
-      "n_companii": 1,
-      "are_cv": true,
-      "n_firme_cu_contracte": 1,
-      "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
-      "firme_contracte_autodeclarate": [],
-      "declaratii": [
-        {
-          "tip": "avere",
-          "institutie": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
-          "venituri_ron": 328373
-        },
-        {
-          "tip": "interese",
-          "institutie": "COMPANIA NAŢIONALĂ ROMARM SA - FILIALA SOCIETATEA UZINA AUTOMECANICĂ MORENI S.A.",
-          "venituri_ron": null
-        }
-      ],
-      "companii": [
-        {
-          "cui": 13554423,
-          "nume": "COMPANIA NATIONALA ROMARM SA",
-          "rol": "administrator",
-          "sector": "Industrie",
-          "financials": {
-            "an": 2023,
-            "cifra_afaceri": 495120442,
-            "profit_net": 1328205,
-            "datorii": 624762281,
-            "nr_salariati": 72
-          },
-          "contracte_stat": {
-            "total_ron": 133427590.0,
-            "nr": 34
-          },
-          "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
-          }
-        }
-      ],
-      "cv": {
-        "studii": "Absolvent al Academiei de Studi Economice din Bucuresti, Facultatea de Management, specializarea | EDUCATIE SIFORMARE | Certificat absolvire acreditat CNFPA, Bucuresti (Romania) | Diploma Licenta | Academia de Studi Economice Bucuresti, Facultatea de Management, Bucuresti (Romania) | Management, Specializarea Stinte administrative -- Administratie Publica | Diploma Bacalaureat",
-        "experienta": "Experienta antreprenoriala, de afaceri, vanzari, marketing, publicitate in mediul privat ~ 10 ani. | Experienta in administratia publica locala si centrala ~ 11 ani. | Experienta in proiecte cu finantari exteme nerambursabile, fonduri europene - POR, POCA, POIM, | Experienta in domeniul guvemantei corporative si administrarea participatilor statului in societatile pe | Certificari: Manager de proiect, Expert achiziti publice, Fomator. | EXPERIENTAPROFESIONALA | 08/2018 - prezent | Consilier superior/Sef Serviciu/Director | si Tei\" finantat prin POR 2007-2013; | conservare Arcul de Triumf' fina"
-      }
     }
   ],
   "parlamentari_companii": 36

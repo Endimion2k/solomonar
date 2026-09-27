@@ -1,6 +1,6 @@
 {
   "nota": "⚠️ LEAD-URI NEVERIFICATE, NU acuzații. Link firmă↔persoană e pe NUME (fără CNP) → MAJORITATEA sunt OMONIMI, mai ales la companii mari (ENGIE/Groupama/UNIQA = un omonim e reprezentant, NU parlamentarul). Singurele DEFENSABILE: 'confirmate_autodeclarate' = firma apare în PROPRIA declarație de interese a persoanei (conflict documentat). Restul: de verificat manual cu declarația de interese + ONRC (dată naștere/CNP).",
-  "total_leaduri": 44,
+  "total_leaduri": 47,
   "din_care_parlamentari": 11,
   "CONFIRMATE_autodeclarate": 12,
   "confirmate": [
@@ -249,11 +249,11 @@
       "cv": null
     },
     {
-      "romega_id": "g:b4679da7b3ac4d7b",
-      "nume_key": "crisan vasile",
+      "romega_id": "g:c06dfa2e659ea635",
+      "nume_key": "dana gaiseanu",
       "incredere": "context",
       "parlamentar": null,
-      "n_declaratii": 12,
+      "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": false,
       "n_firme_cu_contracte": 1,
@@ -270,32 +270,37 @@
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 221192
+          "venituri_ron": 217770
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 191648
+          "venituri_ron": 173061
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 197898
+          "venituri_ron": 161818
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 197898
+          "venituri_ron": 161818
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 197898
+          "venituri_ron": 161818
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 183137
+          "venituri_ron": 160745
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
         },
         {
           "tip": "interese",
@@ -354,8 +359,8 @@
       "cv": null
     },
     {
-      "romega_id": "g:c06dfa2e659ea635",
-      "nume_key": "dana gaiseanu",
+      "romega_id": "g:b4679da7b3ac4d7b",
+      "nume_key": "crisan vasile",
       "incredere": "context",
       "parlamentar": null,
       "n_declaratii": 12,
@@ -375,32 +380,32 @@
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 217770
+          "venituri_ron": 221192
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 173061
+          "venituri_ron": 191648
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "venituri_ron": 197898
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "venituri_ron": 197898
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "venituri_ron": 197898
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 160745
+          "venituri_ron": 183137
         },
         {
           "tip": "interese",
@@ -1024,6 +1029,50 @@
       "cv": null
     },
     {
+      "romega_id": "g:9018e34e50f1cc3f",
+      "nume_key": "constantin laurentiu tudose",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 3797294049.0,
+      "total_achizitii_directe_ron": 118231189.03,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Unifarm",
+          "venituri_ron": 0
+        }
+      ],
+      "companii": [
+        {
+          "cui": 11653560,
+          "nume": "COMPANIA NATIONALA UNIFARM SA",
+          "rol": "administrator",
+          "sector": "Comerț",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 274425570,
+            "profit_net": 1000031406,
+            "datorii": 116955483,
+            "nr_salariati": 68
+          },
+          "contracte_stat": {
+            "total_ron": 3797294049.0,
+            "nr": 5913
+          },
+          "achizitii_directe": {
+            "total_ron": 118231189.03,
+            "nr": 25640
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:40d58e523e945881",
       "nume_key": "ion sterian",
       "incredere": "context",
@@ -1258,11 +1307,11 @@
       }
     },
     {
-      "romega_id": "g:b4679da7b3ac4d7b",
-      "nume_key": "crisan vasile",
+      "romega_id": "g:c06dfa2e659ea635",
+      "nume_key": "dana gaiseanu",
       "incredere": "context",
       "parlamentar": null,
-      "n_declaratii": 12,
+      "n_declaratii": 13,
       "n_companii": 1,
       "are_cv": false,
       "n_firme_cu_contracte": 1,
@@ -1279,32 +1328,37 @@
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 221192
+          "venituri_ron": 217770
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 191648
+          "venituri_ron": 173061
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 197898
+          "venituri_ron": 161818
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 197898
+          "venituri_ron": 161818
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 197898
+          "venituri_ron": 161818
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 183137
+          "venituri_ron": 160745
+        },
+        {
+          "tip": "interese",
+          "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
+          "venituri_ron": null
         },
         {
           "tip": "interese",
@@ -1363,8 +1417,8 @@
       "cv": null
     },
     {
-      "romega_id": "g:c06dfa2e659ea635",
-      "nume_key": "dana gaiseanu",
+      "romega_id": "g:b4679da7b3ac4d7b",
+      "nume_key": "crisan vasile",
       "incredere": "context",
       "parlamentar": null,
       "n_declaratii": 12,
@@ -1384,32 +1438,32 @@
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 217770
+          "venituri_ron": 221192
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 173061
+          "venituri_ron": 191648
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "venituri_ron": 197898
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "venituri_ron": 197898
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 161818
+          "venituri_ron": 197898
         },
         {
           "tip": "avere",
           "institutie": "DRUMURI SI PODURI LOCALE ALBA SA",
-          "venituri_ron": 160745
+          "venituri_ron": 183137
         },
         {
           "tip": "interese",
@@ -2113,6 +2167,50 @@
       "cv": null
     },
     {
+      "romega_id": "g:46eb9eb151296609",
+      "nume_key": "anca mitu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 36231907.0,
+      "total_achizitii_directe_ron": 2801924.46,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "venituri_ron": 5000
+        }
+      ],
+      "companii": [
+        {
+          "cui": 2351555,
+          "nume": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
+          "rol": "administrator",
+          "sector": "Servicii",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 415580003,
+            "profit_net": 23313359,
+            "datorii": 106004955,
+            "nr_salariati": 1914
+          },
+          "contracte_stat": {
+            "total_ron": 36231907.0,
+            "nr": 5
+          },
+          "achizitii_directe": {
+            "total_ron": 2801924.46,
+            "nr": 309
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "g:a99dfe912a45a891",
       "nume_key": "liviu stanoiu",
       "incredere": "context",
@@ -2444,6 +2542,46 @@
       }
     },
     {
+      "romega_id": "g:d74ee31a54fbb345",
+      "nume_key": "alexandru vicu",
+      "incredere": "context",
+      "parlamentar": null,
+      "n_declaratii": 1,
+      "n_companii": 1,
+      "are_cv": false,
+      "n_firme_cu_contracte": 1,
+      "total_contracte_ron": 6470243.0,
+      "total_achizitii_directe_ron": 0.0,
+      "firme_contracte_autodeclarate": [],
+      "declaratii": [
+        {
+          "tip": "interese",
+          "institutie": "ALGORITHM RESIDENTIAL S3 SRL",
+          "venituri_ron": null
+        }
+      ],
+      "companii": [
+        {
+          "cui": 37409960,
+          "nume": "ALGORITHM RESIDENTIAL S3 SRL",
+          "rol": "administrator",
+          "sector": "Infrastructură",
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 11884441,
+            "profit_net": -8250238,
+            "datorii": 13842144,
+            "nr_salariati": 11
+          },
+          "contracte_stat": {
+            "total_ron": 6470243.0,
+            "nr": 1
+          }
+        }
+      ],
+      "cv": null
+    },
+    {
       "romega_id": "p:78896aeb00895d99",
       "nume_key": "ion iordache",
       "incredere": "high",
@@ -2698,7 +2836,7 @@
         "birth_date": "1975-08-16",
         "plx_initiate": 50
       },
-      "n_declaratii": 1,
+      "n_declaratii": 2,
       "n_companii": 1,
       "are_cv": true,
       "n_firme_cu_contracte": 1,
@@ -2706,6 +2844,11 @@
       "total_achizitii_directe_ron": 8536211.12,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
+        {
+          "tip": "avere",
+          "institutie": "Deputat Miklos Zoltan",
+          "venituri_ron": 0
+        },
         {
           "tip": "interese",
           "institutie": "Deputat Miklos Zoltan",

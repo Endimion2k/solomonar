@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-09T19:37:19.633729+00:00",
-  "sursa": "servicii deconcentrate, declaratii de INTERESE, text+OCR",
-  "total": 8037,
+  "generated_at": "2026-09-27T14:22:15.726495+00:00",
+  "sursa": "ministere, declaratii de INTERESE, text+OCR",
+  "total": 8091,
   "declaratii": [
     {
       "institutie": "Ministerul Afacerilor Externe",
@@ -8843,6 +8843,21 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/CARAMAN%20DUMITRU.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "CARAMAN DUMITRU",
+      "nume_norm": "CARAMAN DUMITRU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/CERGAN%20LILIANA%20FLORINA.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -10802,6 +10817,21 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/SOFONEA%20IONUT%20NICOLAE.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "SOFONEA IONUT NICOLAE",
+      "nume_norm": "IONUT NICOLAE SOFONEA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/SOLOIU%20MARIA.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -11018,6 +11048,23 @@
       "entitati": [],
       "nume": "TATARU EMILIAN MARIAN",
       "nume_norm": "EMILIAN MARIAN TATARU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/TATARU%20MIHAELA.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        ", 'Fundatii/\""
+      ],
+      "nume": "TATARU MIHAELA",
+      "nume_norm": "MIHAELA TATARU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -18453,6 +18500,21 @@
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/06/TR.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICATUL SALARIATILOR DIN CASA DE ASIGURARI DE SANATATE - Membru"
+      ]
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2024/06/badarau.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -18895,6 +18957,21 @@
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/EREMIA.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "3.1 SINDICATUL SOLIDARITATEA - MEMBRU"
+      ]
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/IVASCU.pdf",
       "ocr": false,
       "actionariat": 0,
       "conducere": 0,
@@ -19751,6 +19828,19 @@
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2025/03/BR-anuala.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": []
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
       "pdf_url": "https://cnas.ro/wp-content/uploads/2025/02/DG-CS-Popovici-Ionut-DI-Rectificativa-2024.pdf",
       "ocr": false,
       "actionariat": 1,
@@ -19994,6 +20084,19 @@
       "entitati": [
         "3.1 SINDICATUL DEMOCRATIC - MEMBRU"
       ]
+    },
+    {
+      "institutie": "Casa Națională de Asigurări de Sănătate",
+      "pdf_url": "https://cnas.ro/wp-content/uploads/2024/07/safta.pdf",
+      "ocr": false,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 3,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": []
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -20999,6 +21102,44 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Baboi.Elena/2019/Elena_Baboi_IN20190520_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1. S.C. CONCID SA Bistrita, Str. Granicerilor, nr. 3 Actionar* 718 100",
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "ELENA BABOI IN DAPMPOFPFM",
+      "nume_norm": "BABOI DAPMPOFPFM ELENA IN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Baboi.Elena/2021/Baboi_Elena_IN20210510_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1. S.C. CONCID SA Bistrita, Str. Granicerilor, nr. 3 Actionar* 718 100",
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "BABOI ELENA IN DAPMPOFPFM",
+      "nume_norm": "BABOI DAPMPOFPFM ELENA IN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Bacila.Mariana/2023/Bacila_Mariana_DI.pdf",
       "ocr": false,
       "actionariat": 11,
@@ -21017,6 +21158,25 @@
       ],
       "nume": "BACILA MARIANA",
       "nume_norm": "BACILA MARIANA"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Baboi.Elena/2020/Elena_Baboi_IN20200511_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1. S.C. CONCID SA Bistrita, Str. Granicerilor, nr. 3 Actionar* 718 100",
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "ELENA BABOI IN DAPMPOFPFM",
+      "nume_norm": "BABOI DAPMPOFPFM ELENA IN"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -22353,6 +22513,24 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Grigorie.Ioana/2021/AJOFM_TM_GRIGORIE_IOANA_IN20200517.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizată/ Asociaţii familiale/ Cabinete",
+        "neguvernamentale/ Fundaţii/ Asociaţii *2)"
+      ],
+      "nume": "AJOFM TM GRIGORIE IOANA IN",
+      "nume_norm": "AJOFM GRIGORIE IN IOANA TM"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/ILIESCU.ION%20ADRIAN/2022/DI_ILIESCU_ION_ADRIAN_DIRECTOR_ADJ_CRFPA_VALCEA.pdf",
       "ocr": false,
       "actionariat": 2,
@@ -22423,6 +22601,25 @@
       ],
       "nume": "ILIESCU ION ADRIAN DIR ADJ CRFPA VALCEA",
       "nume_norm": "ADJ ADRIAN CRFPA DIR ILIESCU ION VALCEA"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Iercosan.Iuliana/2020/Iercosan_Iuliana_IN20200508_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociaţii familiale/Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)Nu este cazul",
+        "economic,aleasociaţiilor sau fundaţiilororialealtor organizaţii neguvernamentale"
+      ],
+      "nume": "IERCOSAN IULIANA IN DAPMPOFPFM",
+      "nume_norm": "DAPMPOFPFM IERCOSAN IN IULIANA"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -23164,6 +23361,24 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Nagy.Ibolya/2021/AJOFM_HG_NAGY_IBOLYA_IN20210518.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "AJOFM HG NAGY IBOLYA IN",
+      "nume_norm": "AJOFM HG IBOLYA IN NAGY"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Nafliu.Marius/2021/AJOFM_VL_NAFLIU_MARIUS_IN20210520.PDF",
       "ocr": false,
       "actionariat": 1,
@@ -23288,6 +23503,24 @@
       ],
       "nume": "AJOFM GJ ANAMARIA NICULESCU IN",
       "nume_norm": "AJOFM ANAMARIA GJ IN NICULESCU"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Nicula.Marius%20Daniel/2020/AJOFM_GL_NICULA_MARIUS_DANIEL_IN.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizată/ Asociaţii familiale/ Cabinete",
+        "neguvernamentale/ Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "AJOFM GL NICULA MARIUS DANIEL IN",
+      "nume_norm": "AJOFM DANIEL GL IN MARIUS NICULA"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -23433,6 +23666,24 @@
         "Fundaţii/ Asociaţii2)"
       ],
       "nume": "AJOFM HG PANESCU TIBERIU IN",
+      "nume_norm": "AJOFM HG IN PANESCU TIBERIU"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Panescu.Tiberiu/2021/AJOFM_HG_TIBERIU_PANESCU_IN20210520.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "AJOFM HG TIBERIU PANESCU IN",
       "nume_norm": "AJOFM HG IN PANESCU TIBERIU"
     },
     {
@@ -24112,6 +24363,42 @@
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stefan.Lenuta/2019/Lenuta_Stefan_IN20190517_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "LENUTA STEFAN IN DAPMPOFPFM",
+      "nume_norm": "DAPMPOFPFM IN LENUTA STEFAN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stefan.Lenuta/2020/Stefan_Lenuta_IN20200520_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "STEFAN LENUTA IN DAPMPOFPFM",
+      "nume_norm": "DAPMPOFPFM IN LENUTA STEFAN"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
       "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stirbu.Silvia_Daniela/2023/Stirbu_Daniela_Silvia_DI.pdf",
       "ocr": false,
       "actionariat": 0,
@@ -24154,6 +24441,24 @@
       "entitati": [],
       "nume": "STIRBU SILVIA",
       "nume_norm": "SILVIA STIRBU"
+    },
+    {
+      "institutie": "ANOFM — Ocuparea Forței de Muncă",
+      "pdf_url": "https://www.anofm.ro/declaratiiavere/ANOFM/Stefan.Lenuta/2021/Lenuta_Stefan_IN20210524_DAPMPOFPFM.pdf",
+      "ocr": false,
+      "actionariat": 1,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociaţii familiale/ Cabinete individuale, cabinete",
+        "Fundaţii/ Asociaţii2)"
+      ],
+      "nume": "LENUTA STEFAN IN DAPMPOFPFM",
+      "nume_norm": "DAPMPOFPFM IN LENUTA STEFAN"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -46085,6 +46390,24 @@
         "autorizata/Asociatifamiliale/Cabinete",
         "neguvemamentale/Fundati/ Asociatif?)"
       ]
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2019/05/12f6740e398bd424086be2571129b3cf.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociati farniliale/Cabincte",
+        "neguvenamentale/Fundati/Asociati?"
+      ],
+      "nume": "BD BE CF",
+      "nume_norm": "BD BE CF"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -74901,6 +75224,25 @@
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2020/12/9d1582da04c72ec43535ea988a8202ab.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 2,
+      "valoare_actiuni_ron": 1400,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "1.1 ASOCIATIA EUACTIV CONSULTING",
+        "1.2EUROSAFE INTERNATIONAL SRL",
+        "neguvenanentale/ Furdati/ Asociatif?)"
+      ],
+      "nume": "DA EC EA AB",
+      "nume_norm": "AB DA EA EC"
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
       "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2020/12/e254206d52c832593b8726d83467712a.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -77642,6 +77984,24 @@
       "entitati": [],
       "nume": "DF AB DDF",
       "nume_norm": "AB DDF DF"
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2021/03/2fc40863a2ae7339f8826a1e6284a424.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "auitorizata/ Asociatii familiale/ Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?)"
+      ],
+      "nume": "FC AE",
+      "nume_norm": "AE FC"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -88780,6 +89140,24 @@
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
+      "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2021/06/49fc1fb056ffd8af1edafb8787e03dc9.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 5,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvenamentake/ Fundativ Asociati?)"
+      ],
+      "nume": "FC FB FFD AF EDAFB DC",
+      "nume_norm": "AF DC EDAFB FB FC FFD"
+    },
+    {
+      "institutie": "Ministerul Investițiilor și Proiectelor Europene",
       "pdf_url": "https://mfe.gov.ro/wp-content/uploads/2021/06/5814b7f721d65ef1b6cc6677d79506f0.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -95089,6 +95467,25 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Dinu%20Marinela%20Nicoleta.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Fundati/Asociatii2)",
+        "asociatiilor sau fundatiilororiale altororganizafii neguvernamentale:",
+        "autorizata/Asociatiifamilialel"
+      ],
+      "nume": "DINU MARINELA NICOLETA",
+      "nume_norm": "DINU MARINELA NICOLETA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Co%C5%9Fereanu%20Dominica.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -95637,6 +96034,24 @@
       ],
       "nume": "GĂINĂ LILIANA",
       "nume_norm": "GAINA LILIANA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Iliescu%20Victor.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatifamiliale/Cabineteindividuale,cabincte",
+        "Fundati/ Asociatf?"
+      ],
+      "nume": "ILIESCU VICTOR",
+      "nume_norm": "ILIESCU VICTOR"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -96557,6 +96972,25 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Preda%20C%C4%83t%C4%83lin.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizatalAsociatifamiliale/Cabinete",
+        "economic,ale asociatilor saufundatiilor oriale altor organizatii neguvernamental",
+        "neguivemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "PREDA CĂTĂLIN",
+      "nume_norm": "CATALIN PREDA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Popa%20Mariana%20Larisa.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -97400,6 +97834,21 @@
       ],
       "nume": "TIMIŞ VASILE",
       "nume_norm": "TIMIS VASILE"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/V%C3%A2lcu%20Daniel.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "VÂLCU DANIEL",
+      "nume_norm": "DANIEL VALCU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -101087,6 +101536,25 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Emil%20Gheorghe.pdf",
+      "ocr": true,
+      "actionariat": 1,
+      "conducere": 2,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Leconomic ale asociatior sau fundatmlor orf ale altor organizatfi neguvernamenta",
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/ Furdatil/ Asociati?)"
+      ],
+      "nume": "EMIL GHEORGHE",
+      "nume_norm": "EMIL GHEORGHE"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Fratila%20Angelica%20Gianina.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -103159,6 +103627,22 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/MARINCAS%20O..pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 2,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/ Fundati/ Asociati?)"
+      ]
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Marin%20Maria.pdf",
       "ocr": true,
       "actionariat": 3,
@@ -103558,6 +104042,24 @@
       ],
       "nume": "OLTEANU LUMINITA",
       "nume_norm": "LUMINITA OLTEANU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Onea%28Duta%29%20Liliana.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "au torizata/ Asociati familiale/ Cabinete",
+        "neguvenamentale/ Fundati/ Asxciati?)"
+      ],
+      "nume": "ONEA(DUTA) LILIANA",
+      "nume_norm": "DUTA LILIANA ONEA"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -104260,6 +104762,21 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Pop%20Adriana%20Elena.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "POP ADRIANA ELENA",
+      "nume_norm": "ADRIANA ELENA POP"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/Pop%20Adriana.pdf",
       "ocr": true,
       "actionariat": 1,
@@ -104637,6 +105154,24 @@
       ],
       "nume": "POPESCU LIVIU",
       "nume_norm": "LIVIU POPESCU"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Prunaru%20Cristina.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatifamiliale/Cabinete",
+        "neguvemamentale/Fundafi/Asociati?"
+      ],
+      "nume": "PRUNARU CRISTINA",
+      "nume_norm": "CRISTINA PRUNARU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -105031,6 +105566,24 @@
       ],
       "nume": "SARBUSCA LUCICA",
       "nume_norm": "LUCICA SARBUSCA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Saftoiu%20Claudiu%20Elwis.PDF",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 3,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizatalAsociatifamiliale/Cabinete",
+        "neguvemamentale/ Fundati/ Asociati?"
+      ],
+      "nume": "SAFTOIU CLAUDIU ELWIS",
+      "nume_norm": "CLAUDIU ELWIS SAFTOIU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -106892,6 +107445,25 @@
       ],
       "nume": "GLINTA CATALIN",
       "nume_norm": "CATALIN GLINTA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/Vasilescu%20Nina.pdf",
+      "ocr": true,
+      "actionariat": 2,
+      "conducere": 3,
+      "prof_sindicat": 2,
+      "partid": 2,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Fundati/Asociatii *2)",
+        "autorizata/Asociatii",
+        "economic,ale asociatiilor saufundatiilor oriale altor organizatiineguvernamental"
+      ],
+      "nume": "VASILESCU NINA",
+      "nume_norm": "NINA VASILESCU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -114533,6 +115105,25 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Dinu%20Marinela%20Nicoleta.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Fundati/Asociatii2)",
+        "asociatiilor sau fundatiilororiale altororganizafii neguvernamentale:",
+        "autorizata/Asociatiifamilialel"
+      ],
+      "nume": "DINU MARINELA NICOLETA",
+      "nume_norm": "DINU MARINELA NICOLETA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Din%20Marilena%20Aura.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -115200,6 +115791,24 @@
       ],
       "nume": "ILIE ROXANA",
       "nume_norm": "ILIE ROXANA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Iliescu%20Victor.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 2,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Asociatifamiliale/Cabineteindividuale,cabincte",
+        "Fundati/ Asociatf?"
+      ],
+      "nume": "ILIESCU VICTOR",
+      "nume_norm": "ILIESCU VICTOR"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -116772,6 +117381,25 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/Preda%20C%C4%83t%C4%83lin.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizatalAsociatifamiliale/Cabinete",
+        "economic,ale asociatilor saufundatiilor oriale altor organizatii neguvernamental",
+        "neguivemamentale/Fundati/ Asociati?"
+      ],
+      "nume": "PREDA CĂTĂLIN",
+      "nume_norm": "CATALIN PREDA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/V%C3%AElcea%20Elena-Janina.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -116806,6 +117434,21 @@
       ],
       "nume": "TUDORICA CIPRIAN",
       "nume_norm": "CIPRIAN TUDORICA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2018/declaratii%20avere/V%C3%A2lcu%20Daniel.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 1,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [],
+      "nume": "VÂLCU DANIEL",
+      "nume_norm": "DANIEL VALCU"
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
@@ -117487,6 +118130,42 @@
     },
     {
       "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/BUCURESTEANU%20MONICA%20ELENA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 4,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/ Asociati familiale/ Cabinete",
+        "negurvenamentale/ Fundati Asociatif?"
+      ],
+      "nume": "BUCURESTEANU MONICA ELENA",
+      "nume_norm": "BUCURESTEANU ELENA MONICA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
+      "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2021/Transparenta/declaratii%20avere%202021/GANEA%20MIHAELA%20NICOLETA.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 1,
+      "partid": 1,
+      "contracte": 3,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "autorizata/Asociatii farmiliale/Cabinete",
+        "eguvenamentale/FundatiVAsociatif?"
+      ],
+      "nume": "GANEA MIHAELA NICOLETA",
+      "nume_norm": "GANEA MIHAELA NICOLETA"
+    },
+    {
+      "institutie": "Ministerul Educației și Cercetării",
       "pdf_url": "https://www.edu.ro/sites/default/files/_fi%C8%99iere/Minister/2022/DA_I_2022/TARNOVEANU%20Nicoleta%20Beatrice%20Ionela.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -117973,6 +118652,21 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilor sau fundatilor sau altororganizatii neguvermamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/bucuresti/caraseladriangabriel.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 21,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatilor saufundatilor sau altororganizati neguvemamentale:"
       ]
     },
     {
@@ -118893,6 +119587,36 @@
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/cluj/deacdorinmarius.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatilor saufundatilorsaualtororganizatiineguvermamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/carasseverin/balaneugeniaelena.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 11,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatiilor sau fundatiilorsaualtor organizati neguvermamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
       "pdf_url": "https://www.onrc.ro/documente/declaratii2006/cluj/beresdanaviorica.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -118904,6 +119628,21 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilorsau fundatilor sau altor organizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/carasseverin/szleacsangeorgetaflorica.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 20,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "21AGMONZA SA"
       ]
     },
     {
@@ -119010,6 +119749,52 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilor sau fundatilor sau altor organizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/gorj/balicacosmina.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatilor sau fundatiilor sau altor organizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/gorj/lupulescucristina.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 13,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "Denumire sau Nume si prenume:S.C.COMPLEXUL ENERGETIC TURCENI S.A.",
+        "asociatilor sau fundatiilor sau altor organizajii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/gorj/margineioncostinel.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 23,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatiilor saufundatiilorsaualtororganizatii neguvernamentale:"
       ]
     },
     {
@@ -119824,6 +120609,21 @@
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/ilfov/istrateelenasimona.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatilor sau fundatilor sau altor organizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
       "pdf_url": "https://www.onrc.ro/documente/declaratii2006/neamt/popescudoina.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -119880,6 +120680,21 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilor saufundatilor sau altororganizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/olt/barbulescumaria.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatilor sau fundatilor saualtororganizatii neguvernamentale:"
       ]
     },
     {
@@ -120000,6 +120815,21 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilor sau fundatilor sau altor organizatii neguvemamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/onrc/iancunicoleta.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatilor saufundatilor sau altororganizatii neguvernamentale:"
       ]
     },
     {
@@ -120213,6 +121043,21 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilor sau fundapjilor sau altor organizatii neguvemamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2006/onrc/iordacheaurel.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "asociatiilorsaufundatilor sau altororganizatii neguvemamentale:"
       ]
     },
     {
@@ -120934,6 +121779,22 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatiilor sau fundatilor sau altor organizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2007/bucuresti/chiricliviu.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 26,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        ". Datale de ldantiflcara ale banulul pentrta.care sa. cadeaza folosinta",
+        "asociatitor sau fundatilor sau altor organizatii neguvernamentale:"
       ]
     },
     {
@@ -122564,6 +123425,21 @@
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2007/ialomita/bratuconstantin.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 0,
+      "prof_sindicat": 1,
+      "partid": 8,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "s, Alte aetive rtiucstoare de veniturt nere, narm insunult depaaesc eohivalentul"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
       "pdf_url": "https://www.onrc.ro/documente/declaratii2007/iasi/budeanuelena.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -122729,6 +123605,22 @@
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2007/gorj/lupulescucristina.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 1,
+      "prof_sindicat": 0,
+      "partid": 28,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        "S.C.COMPLEXUL ENERGETIC TURCENI S.A",
+        "asociatilor sau fundatilor sau altor organizati neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
       "pdf_url": "https://www.onrc.ro/documente/declaratii2007/harghita/dusageta.pdf",
       "ocr": true,
       "actionariat": 0,
@@ -122830,6 +123722,24 @@
       "valoare_contracte_ron": 0,
       "entitati": [
         "asociatilor sau fundatilor sau altor organizatii neguvernamentale:"
+      ]
+    },
+    {
+      "institutie": "ONRC — Registrul Comerțului",
+      "pdf_url": "https://www.onrc.ro/documente/declaratii2007/ialomita/cocoslidia.pdf",
+      "ocr": true,
+      "actionariat": 0,
+      "conducere": 11,
+      "prof_sindicat": 0,
+      "partid": 0,
+      "contracte": 0,
+      "valoare_actiuni_ron": 0,
+      "valoare_contracte_ron": 0,
+      "entitati": [
+        ":Not : sc vor ce-lara inrlnaiv invuylitiile si Farticiparile it strainatate",
+        "ISC. POut.SA GAuy",
+        "ceruificate, ckiigatiuni); (al Actiuni sa parti noctnln in soulelati comerciala:",
+        "ntmnmompanii/aocietati nationnl sa instztutii ubllte rialssli sau strsine,"
       ]
     },
     {

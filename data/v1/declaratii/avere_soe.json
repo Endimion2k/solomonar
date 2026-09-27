@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-09T07:12:53.326489+00:00",
-  "sursa": "servicii deconcentrate, text+OCR, Legea 176/2010",
-  "total": 9143,
+  "generated_at": "2026-09-27T13:25:27.708878+00:00",
+  "sursa": "companii de stat, text+OCR, Legea 176/2010",
+  "total": 9230,
   "ocr_in_corpus": 12959,
-  "pii_blocate": 158,
+  "pii_blocate": 0,
+  "pii_mascate": 127,
   "declaratii": [
     {
       "institutie": "ACMVOL DESIGN S.A.",
@@ -297,6 +298,19 @@
       "venituri_ron": 87619,
       "datorii_ron": 53433,
       "auto": 5
+    },
+    {
+      "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
+      "pdf_url": "https://isalnita.ro/wp-content/uploads/2023/07/D-avere-Cioabla-Mariana-Luiza.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 112688,
+      "datorii_ron": 27000,
+      "auto": 3,
+      "nume": "CIOABLA MARIANA LUIZA",
+      "nume_norm": "CIOABLA LUIZA MARIANA"
     },
     {
       "institutie": "INDUSTRIAL PARK IȘALNIȚA SRL",
@@ -1489,6 +1503,19 @@
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
+      "pdf_url": "https://www.bobicesti.ro/wp-content/uploads/2025/06/Ilie-CHITEZ-Declaratia-de-avere-iun-2025.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 186272,
+      "datorii_ron": 19272,
+      "auto": 6,
+      "nume": "ILIE CHITEZ IUN",
+      "nume_norm": "CHITEZ ILIE IUN"
+    },
+    {
+      "institutie": "APĂ CANAL BOBICEŞTI SRL",
       "pdf_url": "https://www.bobicesti.ro/wp-content/uploads/2024/06/declaratie-avere-chiroiu-semnat.pdf",
       "ocr": false,
       "terenuri": 1,
@@ -1564,6 +1591,19 @@
       "auto": 7,
       "nume": "TODORAN EMANOIL",
       "nume_norm": "EMANOIL TODORAN"
+    },
+    {
+      "institutie": "APĂ CANAL BOBICEŞTI SRL",
+      "pdf_url": "https://www.bobicesti.ro/wp-content/uploads/2024/06/declaratie-avere-ciuca-simona-semnat.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 131514,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "CIUCA SIMONA",
+      "nume_norm": "CIUCA SIMONA"
     },
     {
       "institutie": "ECO - SAL SA",
@@ -2539,6 +2579,19 @@
       "auto": 7,
       "nume": "VLASCEANU LILIANA",
       "nume_norm": "LILIANA VLASCEANU"
+    },
+    {
+      "institutie": "GUGULANIA LAND SRL",
+      "pdf_url": "https://gugulania-land.ro/wp-content/uploads/2025/02/DA-Nicolae-Selner.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 162051,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "NICOLAE SELNER",
+      "nume_norm": "NICOLAE SELNER"
     },
     {
       "institutie": "ECOVOL ILFOV S.A.",
@@ -4294,6 +4347,19 @@
       "auto": 5,
       "nume": "FILIP DANUT",
       "nume_norm": "DANUT FILIP"
+    },
+    {
+      "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
+      "pdf_url": "https://cisnadie.ro/wp-content/uploads/2024/12/Luchian-Ionescu-Angela-declaratie-avere-numire-2024.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 54410,
+      "datorii_ron": 172400,
+      "auto": 5,
+      "nume": "LUCHIAN IONESCU ANGELA",
+      "nume_norm": "ANGELA IONESCU LUCHIAN"
     },
     {
       "institutie": "GOSPODĂRIE ORĂŞENEASCĂ CISNĂDIE S.A.",
@@ -6897,6 +6963,19 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-STANCIU-2024.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 61088,
+      "datorii_ron": 65029,
+      "auto": 5,
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DA-Ducu-Nistor.pdf",
       "ocr": false,
       "terenuri": 3,
@@ -6975,6 +7054,32 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-IVASCU-2024.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 124104,
+      "datorii_ron": 70000,
+      "auto": 7,
+      "nume": "IVASCU",
+      "nume_norm": "IVASCU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-2024-IVASCU-ADRIAN.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 124104,
+      "datorii_ron": 50000,
+      "auto": 7,
+      "nume": "IVASCU ADRIAN",
+      "nume_norm": "ADRIAN IVASCU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DA-Chiuta-Florin-Irinel.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -7014,6 +7119,19 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-PIRVU-2024.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 34378,
+      "datorii_ron": 0,
+      "auto": 7,
+      "nume": "PIRVU",
+      "nume_norm": "PIRVU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DA-Pirvu-Florentina-Andreea.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -7040,6 +7158,32 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-2024-CATRINA.pdf",
+      "ocr": false,
+      "terenuri": 4,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 96527,
+      "datorii_ron": 163000,
+      "auto": 6,
+      "nume": "CATRINA",
+      "nume_norm": "CATRINA"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-PANDELIU-2024.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 122162,
+      "datorii_ron": 80000,
+      "auto": 7,
+      "nume": "PANDELIU",
+      "nume_norm": "PANDELIU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2023/11/DA-Iordache-Constantin.pdf",
       "ocr": false,
       "terenuri": 7,
@@ -7050,6 +7194,45 @@
       "auto": 6,
       "nume": "IORDACHE CONSTANTIN",
       "nume_norm": "CONSTANTIN IORDACHE"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-LUPU-2024.pdf",
+      "ocr": false,
+      "terenuri": 7,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 173569,
+      "datorii_ron": 0,
+      "auto": 6,
+      "nume": "LUPU",
+      "nume_norm": "LUPU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-PIRVU-2022.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 29892,
+      "datorii_ron": 0,
+      "auto": 7,
+      "nume": "PIRVU",
+      "nume_norm": "PIRVU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-STANCIU-2022.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 46932,
+      "datorii_ron": 45029,
+      "auto": 5,
+      "nume": "STANCIU",
+      "nume_norm": "STANCIU"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -7118,6 +7301,45 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-2022-IVASCU.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 89760,
+      "datorii_ron": 51110,
+      "auto": 7,
+      "nume": "IVASCU",
+      "nume_norm": "IVASCU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-2022-CATRINA.pdf",
+      "ocr": false,
+      "terenuri": 4,
+      "cladiri": 4,
+      "conturi_ron": 0,
+      "venituri_ron": 94420,
+      "datorii_ron": 182750,
+      "auto": 6,
+      "nume": "CATRINA",
+      "nume_norm": "CATRINA"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-2022-IVASCU-ADRIAN.pdf",
+      "ocr": false,
+      "terenuri": 3,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 89760,
+      "datorii_ron": 50000,
+      "auto": 7,
+      "nume": "IVASCU ADRIAN",
+      "nume_norm": "ADRIAN IVASCU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-CLOSCAN-2022.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -7170,6 +7392,19 @@
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-PANDELIU-2022.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 84510,
+      "datorii_ron": 52000,
+      "auto": 6,
+      "nume": "PANDELIU",
+      "nume_norm": "PANDELIU"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
       "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-MICU-2024-.pdf",
       "ocr": false,
       "terenuri": 15,
@@ -7219,6 +7454,19 @@
       "auto": 6,
       "nume": "CLOSCAN",
       "nume_norm": "CLOSCAN"
+    },
+    {
+      "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "pdf_url": "https://www.priboieni.ro/wp-content/uploads/2025/02/DECLARATIE-DE-AVERE-LUPU-2022.pdf",
+      "ocr": false,
+      "terenuri": 8,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 146330,
+      "datorii_ron": 0,
+      "auto": 6,
+      "nume": "LUPU",
+      "nume_norm": "LUPU"
     },
     {
       "institutie": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
@@ -7555,6 +7803,19 @@
       "auto": 6,
       "nume": "PASCA EMILIA",
       "nume_norm": "EMILIA PASCA"
+    },
+    {
+      "institutie": "SALUBRITERM SERV S.R.L.",
+      "pdf_url": "https://www.salubriterm.ro/wp-content/uploads/2026/01/decl-avere-lupou.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 145405,
+      "datorii_ron": 0,
+      "auto": 7,
+      "nume": "LUPOU",
+      "nume_norm": "LUPOU"
     },
     {
       "institutie": "SALUBRITATE CRAIOVA SRL",
@@ -9656,6 +9917,17 @@
     },
     {
       "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/DobrinODA_261021.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 239186,
+      "datorii_ron": 0,
+      "auto": 7
+    },
+    {
+      "institutie": "IOR SA",
       "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/DimulescuDDA_855168.pdf",
       "ocr": false,
       "terenuri": 2,
@@ -9730,6 +10002,28 @@
     },
     {
       "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/DunoseMDA_201021.pdf",
+      "ocr": false,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 54000,
+      "datorii_ron": 0,
+      "auto": 4
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/EnuicaMDA_051121.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 2,
+      "conturi_ron": 0,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 5
+    },
+    {
+      "institutie": "IOR SA",
       "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/FlorescuADA_296634.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -9764,6 +10058,17 @@
       "auto": 5,
       "nume": "GAVRILA ANA MARIA",
       "nume_norm": "ANA GAVRILA MARIA"
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/FlorescuADA_021121.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 218710,
+      "datorii_ron": 0,
+      "auto": 4
     },
     {
       "institutie": "IOR SA",
@@ -9945,6 +10250,28 @@
       "venituri_ron": 244848,
       "datorii_ron": 100550,
       "auto": 5
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/ManafuADA_111121.pdf",
+      "ocr": false,
+      "terenuri": 2,
+      "cladiri": 3,
+      "conturi_ron": 23700,
+      "venituri_ron": 138450,
+      "datorii_ron": 105600,
+      "auto": 5
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/MacoveiciucADA_291021.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 226250,
+      "venituri_ron": 414894,
+      "datorii_ron": 105756,
+      "auto": 6
     },
     {
       "institutie": "IOR SA",
@@ -10324,6 +10651,17 @@
       "auto": 4,
       "nume": "VARSENDAN",
       "nume_norm": "VARSENDAN"
+    },
+    {
+      "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/VoicuVDA_161121.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 195172,
+      "datorii_ron": 0,
+      "auto": 6
     },
     {
       "institutie": "IOR SA",
@@ -14690,6 +15028,19 @@
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/11463444/Declaratie_Avere_2020_Mogos-Daniela.pdf",
+      "ocr": false,
+      "terenuri": 4,
+      "cladiri": 1,
+      "conturi_ron": 566954,
+      "venituri_ron": 71342,
+      "datorii_ron": 816750,
+      "auto": 5,
+      "nume": "MOGOS DANIELA",
+      "nume_norm": "DANIELA MOGOS"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
       "pdf_url": "https://www.transelectrica.ro/documents/10179/11463444/Declaratie_Avere_2020_Soare-Romulus-Silviu.pdf",
       "ocr": false,
       "terenuri": 2,
@@ -16273,6 +16624,19 @@
       "auto": 4,
       "nume": "BELLA ZOLTAN",
       "nume_norm": "BELLA ZOLTAN"
+    },
+    {
+      "institutie": "URBI-SERV PECICA S.A.",
+      "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/07/Declaratie-avere-a.-15-iunie-BOLDIZSAR-RODICA.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 46978,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "BOLDIZSAR RODICA",
+      "nume_norm": "BOLDIZSAR RODICA"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -25727,6 +26091,19 @@
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2024/10/nitulescu-da-fp.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 50826,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "NITULESCU FP",
+      "nume_norm": "FP NITULESCU"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
       "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2024/10/parpandel-da.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -30028,6 +30405,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DRAGHICI_Ghe_iunie_2022.pdf",
+      "ocr": false,
+      "terenuri": 7,
+      "cladiri": 3,
+      "conturi_ron": 0,
+      "venituri_ron": 90414,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "DRAGHICI GHE",
+      "nume_norm": "DRAGHICI GHE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_avere_anuala_Dragomir_Catalina.pdf",
       "ocr": false,
       "terenuri": 0,
@@ -31949,6 +32339,19 @@
       "auto": 5,
       "nume": "MARGINEANU BOGDAN",
       "nume_norm": "BOGDAN MARGINEANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_avere_Margineanu_Bogdan_30_zile_de_la_numire_Sef_Serviciu.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 1,
+      "conturi_ron": 0,
+      "venituri_ron": 307940,
+      "datorii_ron": 57005,
+      "auto": 5,
+      "nume": "MARGINEANU BOGDAN SEF SERVICIU",
+      "nume_norm": "BOGDAN MARGINEANU SEF SERVICIU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -35524,6 +35927,19 @@
       "auto": 4,
       "nume": "ANGAJARE BALAN ROBERT",
       "nume_norm": "ANGAJARE BALAN ROBERT"
+    },
+    {
+      "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
+      "pdf_url": "https://www.adjud.ro/assets/media/2016/12/Sibisan_Andra_Genoveva-2.pdf",
+      "ocr": false,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 25250,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "SIBISAN ANDRA GENOVEVA",
+      "nume_norm": "ANDRA GENOVEVA SIBISAN"
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
@@ -42935,6 +43351,19 @@
     },
     {
       "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
+      "pdf_url": "http://www.mangalia.ro/wp-content/uploads/2016/09/PREDESEL-ADRIAN.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 33000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "PREDESEL ADRIAN",
+      "nume_norm": "ADRIAN PREDESEL"
+    },
+    {
+      "institutie": "ŞANTIERUL NAVAL MANGALIA SA",
       "pdf_url": "http://www.mangalia.ro/wp-content/uploads/2016/09/TOMA-IRINA-1.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -44050,6 +44479,19 @@
       "auto": 2,
       "nume": "POPA",
       "nume_norm": "POPA"
+    },
+    {
+      "institutie": "APĂ CANAL BOBICEŞTI SRL",
+      "pdf_url": "https://www.bobicesti.ro/wp-content/uploads/2020/07/DA-Ilie-Chitez-1.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "ILIE CHITEZ",
+      "nume_norm": "CHITEZ ILIE"
     },
     {
       "institutie": "APĂ CANAL BOBICEŞTI SRL",
@@ -46690,6 +47132,19 @@
     },
     {
       "institutie": "SALUBRIS SA",
+      "pdf_url": "https://salubris.ro/wp-content/uploads/2020/07/NORINA-IULIANA-HLIBOCEANU.pdf",
+      "ocr": true,
+      "terenuri": 4,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "NORINA IULIANA HLIBOCEANU",
+      "nume_norm": "HLIBOCEANU IULIANA NORINA"
+    },
+    {
+      "institutie": "SALUBRIS SA",
       "pdf_url": "https://salubris.ro/wp-content/uploads/2020/07/LILIANA-SPIRIDON.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -47428,6 +47883,19 @@
       "auto": 2,
       "nume": "VALENTINA CONDREA",
       "nume_norm": "CONDREA VALENTINA"
+    },
+    {
+      "institutie": "SALUBRIS SA",
+      "pdf_url": "https://salubris.ro/wp-content/uploads/2020/08/OANA-STEFANIA-BULARDA.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 246473,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "OANA STEFANIA BULARDA",
+      "nume_norm": "BULARDA OANA STEFANIA"
     },
     {
       "institutie": "SALUBRIS SA",
@@ -49486,6 +49954,17 @@
     },
     {
       "institutie": "IOR SA",
+      "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/PopazuVDA_140515.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 54000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2
+    },
+    {
+      "institutie": "IOR SA",
       "pdf_url": "https://www.ior.ro/wp-content/uploads/doc/interes public/declaratii avere si interese/PopazuVDA_070617.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -50745,6 +51224,19 @@
     },
     {
       "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-Avere-Mihai-Marian-2018.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 65016,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "MIHAI MARIAN",
+      "nume_norm": "MARIAN MIHAI"
+    },
+    {
+      "institutie": "TRANSURB SA",
       "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-Avere-Bogos-Valeriu-2018.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -50755,6 +51247,19 @@
       "auto": 2,
       "nume": "BOGOS VALERIU",
       "nume_norm": "BOGOS VALERIU"
+    },
+    {
+      "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-avere-Aprodu-Catalin-2018.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "APRODU CATALIN",
+      "nume_norm": "APRODU CATALIN"
     },
     {
       "institutie": "TRANSURB SA",
@@ -50797,6 +51302,32 @@
     },
     {
       "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/DECLARATIE-DE-AVERE-Ungurianu-Andrei-2021-1.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "UNGURIANU ANDREI",
+      "nume_norm": "ANDREI UNGURIANU"
+    },
+    {
+      "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-avere-si-interese-Moldoveanu-Ioan-Alin-2021.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 424598,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "MOLDOVEANU IOAN ALIN",
+      "nume_norm": "ALIN IOAN MOLDOVEANU"
+    },
+    {
+      "institutie": "TRANSURB SA",
       "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-avere-AC-2020.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -50805,6 +51336,19 @@
       "venituri_ron": 5000,
       "datorii_ron": 0,
       "auto": 3
+    },
+    {
+      "institutie": "TRANSURB SA",
+      "pdf_url": "https://transurb.ro/wp-content/uploads/2026/01/Declaratie-de-avere-si-interese-Aprodu-Catalin-2021.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "APRODU CATALIN",
+      "nume_norm": "APRODU CATALIN"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -52199,6 +52743,19 @@
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/11463432/Declaratie_Avere_2020_Matei-Nicolae.pdf",
+      "ocr": true,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 394973,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "MATEI NICOLAE",
+      "nume_norm": "MATEI NICOLAE"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
       "pdf_url": "https://www.transelectrica.ro/documents/10179/11463432/Declaratie_Avere_2020_Manescu-Rodica-2.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -53587,6 +54144,19 @@
       "auto": 5,
       "nume": "BORUZ ADRIAN LIVIU",
       "nume_norm": "ADRIAN BORUZ LIVIU"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/11463432/Declaratie_Avere_Interese_2020_Strutu-Georgiana (2).pdf",
+      "ocr": true,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 14644,
+      "venituri_ron": 192096,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "STRUTU GEORGIANA",
+      "nume_norm": "GEORGIANA STRUTU"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -59427,6 +59997,19 @@
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/8136138/Declaratie_Avere_2018_Codreanu-Cezarina.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 84289,
+      "venituri_ron": 230928,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "CODREANU CEZARINA",
+      "nume_norm": "CEZARINA CODREANU"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
       "pdf_url": "https://www.transelectrica.ro/documents/10179/8136138/Declaratie_Avere_2018_Danciulescu-Mirela.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -59762,6 +60345,19 @@
       "auto": 4,
       "nume": "APOSTOL SILVIU DANIEL",
       "nume_norm": "APOSTOL DANIEL SILVIU"
+    },
+    {
+      "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
+      "pdf_url": "https://www.transelectrica.ro/documents/10179/8136138/Declaratie_Avere_2018_Raducu-Marian-Augustin.pdf",
+      "ocr": true,
+      "terenuri": 8,
+      "cladiri": 0,
+      "conturi_ron": 93200,
+      "venituri_ron": 473324,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "RADUCU MARIAN AUGUSTIN",
+      "nume_norm": "AUGUSTIN MARIAN RADUCU"
     },
     {
       "institutie": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
@@ -61140,6 +61736,19 @@
       "auto": 4,
       "nume": "PRESADA GABRIELA",
       "nume_norm": "GABRIELA PRESADA"
+    },
+    {
+      "institutie": "URBI-SERV PECICA S.A.",
+      "pdf_url": "https://www.pecica.ro/wp-content/uploads/2020/09/Bagut-Ciprian.pdf",
+      "ocr": true,
+      "terenuri": 17,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "BAGUT CIPRIAN",
+      "nume_norm": "BAGUT CIPRIAN"
     },
     {
       "institutie": "URBI-SERV PECICA S.A.",
@@ -66746,6 +67355,19 @@
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-VINTAN-BIANCA.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "VINTAN BIANCA",
+      "nume_norm": "BIANCA VINTAN"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
       "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-VASILCIN-GHE.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -66782,6 +67404,32 @@
       "auto": 2,
       "nume": "PETCU FLORENTINA",
       "nume_norm": "FLORENTINA PETCU"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-STAMATE-CRISTIAN.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 62134,
+      "venituri_ron": 8000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "STAMATE CRISTIAN",
+      "nume_norm": "CRISTIAN STAMATE"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-IVAN-FLORIAN.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 29454,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "IVAN FLORIAN",
+      "nume_norm": "FLORIAN IVAN"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -66837,6 +67485,19 @@
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-CALOTESCU-VIORICA-.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "CALOTESCU VIORICA",
+      "nume_norm": "CALOTESCU VIORICA"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
       "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-DRAGOI-ALINA-1.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -66860,6 +67521,19 @@
       "auto": 2,
       "nume": "DANUT GROZA",
       "nume_norm": "DANUT GROZA"
+    },
+    {
+      "institutie": "STV SANNICOLAU MARE SRL",
+      "pdf_url": "https://www.sannicolau-mare.ro/wp-content/uploads/2019/04/DECLARATIE-AVERE-GRUI-ADRIAN-.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "GRUI ADRIAN",
+      "nume_norm": "ADRIAN GRUI"
     },
     {
       "institutie": "STV SANNICOLAU MARE SRL",
@@ -69947,6 +70621,19 @@
     },
     {
       "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2020/07/neacsu-liliana-da.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 112723,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "NEACSU LILIANA",
+      "nume_norm": "LILIANA NEACSU"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
       "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2021/06/neacsu-liliana-da.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -70207,6 +70894,19 @@
       "venituri_ron": 95351,
       "datorii_ron": 0,
       "auto": 2,
+      "nume": "PLOP ADRIAN",
+      "nume_norm": "ADRIAN PLOP"
+    },
+    {
+      "institutie": "ANPIS — Plăți și Inspecție Socială",
+      "pdf_url": "https://www.mmanpis.ro/wp-content/uploads/2020/07/plop-adrian-da.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 76611,
+      "datorii_ron": 0,
+      "auto": 0,
       "nume": "PLOP ADRIAN",
       "nume_norm": "ADRIAN PLOP"
     },
@@ -77401,6 +78101,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/da_barbuceanu_emanuel_mai_2014.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "BARBUCEANU EMANUEL",
+      "nume_norm": "BARBUCEANU EMANUEL"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Barbuceanu_Emanuel_mai_2019.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -79177,6 +79890,19 @@
       "auto": 3,
       "nume": "BRUMA VLAD",
       "nume_norm": "BRUMA VLAD"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratii_Bruma_Vlad.pdf",
+      "ocr": true,
+      "terenuri": 4,
+      "cladiri": 0,
+      "conturi_ron": 46821,
+      "venituri_ron": 122961,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "DECLARATII BRUMA VLAD",
+      "nume_norm": "BRUMA DECLARATII VLAD"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -80973,6 +81699,19 @@
     {
       "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/chiliban_ovidiu_mai_2015.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "CHILIBAN OVIDIU",
+      "nume_norm": "CHILIBAN OVIDIU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Chiliban_ovidiu_mai_2014.pdf",
       "ocr": true,
       "terenuri": 3,
       "cladiri": 0,
@@ -83663,6 +84402,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/copceac_vlad_iun_2015.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "COPCEAC VLAD IUN",
+      "nume_norm": "COPCEAC IUN VLAD"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DECLARATII_COPCEAC_VLAD.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -84284,6 +85036,19 @@
       "auto": 2,
       "nume": "CRAINIC ADRIAN MAI",
       "nume_norm": "ADRIAN CRAINIC MAI"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/carinic_adrian_mai_2015.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "CARINIC ADRIAN",
+      "nume_norm": "ADRIAN CARINIC"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -87628,6 +88393,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DUMITRESCU_VAL.pdf",
+      "ocr": true,
+      "terenuri": 1,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "DUMITRESCU VAL",
+      "nume_norm": "DUMITRESCU VAL"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_avere_Enache_Cezar_Petru.pdf",
       "ocr": true,
       "terenuri": 8,
@@ -88681,6 +89459,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/filip_victoria_iunie_2015.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 76259,
+      "venituri_ron": 156542,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "FILIP VICTORIA",
+      "nume_norm": "FILIP VICTORIA"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/filip_victoria_iunie_2017.pdf",
       "ocr": true,
       "terenuri": 4,
@@ -88691,6 +89482,19 @@
       "auto": 3,
       "nume": "FILIP VICTORIA",
       "nume_norm": "FILIP VICTORIA"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/filip_victoria_iun2016.pdf",
+      "ocr": true,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 76259,
+      "venituri_ron": 153167,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "FILIP VICTORIA IUN",
+      "nume_norm": "FILIP IUN VICTORIA"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -91983,6 +92787,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/humita_mihai_nov_2017.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 15000,
+      "venituri_ron": 133121,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "HUMITA MIHAI NOV",
+      "nume_norm": "HUMITA MIHAI NOV"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_avereHumita_Mihai_30_de_zile_de_la_numire.pdf",
       "ocr": true,
       "terenuri": 2,
@@ -92373,6 +93190,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/HUZUNEANU_Georgian_mai_2018.pdf",
+      "ocr": true,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 99200,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "HUZUNEANU GEORGIAN",
+      "nume_norm": "GEORGIAN HUZUNEANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/huzuneanu_georgian_mai_2017.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -92747,6 +93577,19 @@
       "auto": 2,
       "nume": "ILIESCU ELENA CARMEN SEF SERVICIU",
       "nume_norm": "CARMEN ELENA ILIESCU SEF SERVICIU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/ichim_georgeta_iun2016_rectificare.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "ICHIM GEORGETA IUN RECTIFICARE",
+      "nume_norm": "GEORGETA ICHIM IUN RECTIFICARE"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -93824,6 +94667,19 @@
       "auto": 3,
       "nume": "IORDACHE GRIGORE",
       "nume_norm": "GRIGORE IORDACHE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/iordache_gabi.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "IORDACHE GABI",
+      "nume_norm": "GABI IORDACHE"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -95916,6 +96772,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Marginean_Nicolae_mai_2019.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 4,
+      "nume": "MARGINEAN NICOLAE",
+      "nume_norm": "MARGINEAN NICOLAE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/marginean_nicoleae_mai16.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -96247,6 +97116,19 @@
       "cladiri": 0,
       "conturi_ron": 10000,
       "venituri_ron": 0,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "MARGINEAN NICOLAE",
+      "nume_norm": "MARGINEAN NICOLAE"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_marginean_nicolae_mai_2014.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 5000,
       "datorii_ron": 0,
       "auto": 3,
       "nume": "MARGINEAN NICOLAE",
@@ -98555,6 +99437,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Mocanu_Gabriel_iunie_2019.pdf",
+      "ocr": true,
+      "terenuri": 4,
+      "cladiri": 0,
+      "conturi_ron": 927459,
+      "venituri_ron": 455081,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "MOCANU GABRIEL",
+      "nume_norm": "GABRIEL MOCANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/mocanu_gabriel_iun2016.pdf",
       "ocr": true,
       "terenuri": 3,
@@ -99348,6 +100243,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Mura_dan_Marius_iun17.pdf",
+      "ocr": true,
+      "terenuri": 9,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "MURA DAN MARIUS IUN",
+      "nume_norm": "DAN IUN MARIUS MURA"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/mura_dan_marius_mai16.pdf",
       "ocr": true,
       "terenuri": 13,
@@ -99670,6 +100578,19 @@
       "auto": 3,
       "nume": "DECLARATII MURARIU MARCEL",
       "nume_norm": "DECLARATII MARCEL MURARIU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Muresan_George_mai_2013.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "MURESAN GEORGE",
+      "nume_norm": "GEORGE MURESAN"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -101428,6 +102349,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/niculescu_dorin_mai_2015.pdf",
+      "ocr": true,
+      "terenuri": 6,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 117725,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "NICULESCU DORIN",
+      "nume_norm": "DORIN NICULESCU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/NICULESCU_DORIN_mai_2018.pdf",
       "ocr": true,
       "terenuri": 6,
@@ -102364,6 +103298,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/OPREAN_LILIANA.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 72000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "OPREAN LILIANA",
+      "nume_norm": "LILIANA OPREAN"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/ONET_imola_mai_2018.pdf",
       "ocr": true,
       "terenuri": 15,
@@ -102998,6 +103945,19 @@
       "auto": 4,
       "nume": "PAL CRISTIAN IUN",
       "nume_norm": "CRISTIAN IUN PAL"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Pal_Cristian_mai_2014.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 185537,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "PAL CRISTIAN",
+      "nume_norm": "CRISTIAN PAL"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -107328,6 +108288,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Saceanu_Marius_iunie_2012.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 50000,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "SACEANU MARIUS",
+      "nume_norm": "MARIUS SACEANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/saceanu_marius_iun_2015.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -107700,6 +108673,19 @@
       "auto": 3,
       "nume": "SAMAREANU CRISTIAN",
       "nume_norm": "CRISTIAN SAMAREANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Sandor_cristian_mai_2013.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 63000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "SANDOR CRISTIAN",
+      "nume_norm": "CRISTIAN SANDOR"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -111692,6 +112678,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_tanos_mihaela_iunie_2011.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 66680,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "TANOS MIHAELA",
+      "nume_norm": "MIHAELA TANOS"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Declaratie_de_avere_Taslaoanu_Marinela3.pdf",
       "ocr": true,
       "terenuri": 8,
@@ -113249,6 +114248,19 @@
       "auto": 3,
       "nume": "UNGUREANU CTIN",
       "nume_norm": "CTIN UNGUREANU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/DA_Ungureanu_Ciprian_iunie_2014.pdf",
+      "ocr": true,
+      "terenuri": 6,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "UNGUREANU CIPRIAN",
+      "nume_norm": "CIPRIAN UNGUREANU"
     },
     {
       "institutie": "ANCOM — Comunicații",
@@ -114888,6 +115900,19 @@
     },
     {
       "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Zainescu_Gheorghe_mai_2019.pdf",
+      "ocr": true,
+      "terenuri": 2,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "ZAINESCU GHEORGHE",
+      "nume_norm": "GHEORGHE ZAINESCU"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
       "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/Zainescu_Ghe_mai17.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -115193,6 +116218,19 @@
       "cladiri": 0,
       "conturi_ron": 5000,
       "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "ZAMFIR ADRIAN",
+      "nume_norm": "ADRIAN ZAMFIR"
+    },
+    {
+      "institutie": "ANCOM — Comunicații",
+      "pdf_url": "https://www.ancom.ro/wp-content/uploads/ancom/links_files/files/ZAMFIR_ADRIAN_mai_2018.pdf",
+      "ocr": true,
+      "terenuri": 4,
+      "cladiri": 0,
+      "conturi_ron": 5000,
+      "venituri_ron": 0,
       "datorii_ron": 0,
       "auto": 3,
       "nume": "ZAMFIR ADRIAN",
@@ -116110,6 +117148,32 @@
     },
     {
       "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
+      "pdf_url": "https://www.adjud.ro/assets/media/2016/12/Sibisan_Andra-1.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 2087,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "SIBISAN ANDRA",
+      "nume_norm": "ANDRA SIBISAN"
+    },
+    {
+      "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
+      "pdf_url": "https://www.adjud.ro/assets/media/2016/12/18787_Sibisan_Andra_decl_avere-1.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 10000,
+      "venituri_ron": 2087,
+      "datorii_ron": 0,
+      "auto": 2,
+      "nume": "SIBISAN ANDRA",
+      "nume_norm": "ANDRA SIBISAN"
+    },
+    {
+      "institutie": "UAT CONSTRUCT ADJUD S.R.L.",
       "pdf_url": "https://www.adjud.ro/assets/media/2016/12/ARMENCEA_CONSTANTIN-3.pdf",
       "ocr": true,
       "terenuri": 0,
@@ -116669,6 +117733,19 @@
     },
     {
       "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2020/07/Andrei-Ion.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "ANDREI ION",
+      "nume_norm": "ANDREI ION"
+    },
+    {
+      "institutie": "ISJ Gorj",
       "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2020/07/Alexandrescu-Grigore.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -116952,6 +118029,19 @@
       "auto": 5,
       "nume": "ANDREI ION",
       "nume_norm": "ANDREI ION"
+    },
+    {
+      "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2019/07/IVAN-LUMINITA.pdf",
+      "ocr": true,
+      "terenuri": 0,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 10000,
+      "datorii_ron": 0,
+      "auto": 0,
+      "nume": "IVAN LUMINITA",
+      "nume_norm": "IVAN LUMINITA"
     },
     {
       "institutie": "ISJ Gorj",
@@ -117397,6 +118487,19 @@
     },
     {
       "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2021/07/Todea-Sorin-Matei.pdf",
+      "ocr": true,
+      "terenuri": 3,
+      "cladiri": 0,
+      "conturi_ron": 28300,
+      "venituri_ron": 130254,
+      "datorii_ron": 0,
+      "auto": 3,
+      "nume": "TODEA SORIN MATEI",
+      "nume_norm": "MATEI SORIN TODEA"
+    },
+    {
+      "institutie": "ISJ Gorj",
       "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2020/07/Stoicoiu-Simona.pdf",
       "ocr": true,
       "terenuri": 1,
@@ -117628,6 +118731,19 @@
       "auto": 2,
       "nume": "PATRASCU CODRUTA TEODORA",
       "nume_norm": "CODRUTA PATRASCU TEODORA"
+    },
+    {
+      "institutie": "ISJ Gorj",
+      "pdf_url": "https://www.isjgorj.ro/wp-content/uploads/2021/07/Stanciulescu-Neofit-Catalin.pdf",
+      "ocr": true,
+      "terenuri": 6,
+      "cladiri": 0,
+      "conturi_ron": 0,
+      "venituri_ron": 5000,
+      "datorii_ron": 0,
+      "auto": 5,
+      "nume": "STANCIULESCU NEOFIT CATALIN",
+      "nume_norm": "CATALIN NEOFIT STANCIULESCU"
     },
     {
       "institutie": "ISJ Gorj",
