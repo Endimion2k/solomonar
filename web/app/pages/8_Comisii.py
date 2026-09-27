@@ -158,8 +158,9 @@ def _render_senat() -> None:
                 rol_cnt.columns = ["rol", "n"]
                 fig = go.Figure(go.Bar(x=rol_cnt["n"], y=rol_cnt["rol"], orientation="h",
                                        marker_color=ACCENT_2, text=rol_cnt["n"],
-                                       textposition="outside"))
+                                       textposition="outside", cliponaxis=False))
                 fig.update_layout(height=240, yaxis=dict(autorange="reversed"),
+                                  xaxis=dict(range=[0, int(rol_cnt["n"].max()) * 1.2]),
                                   xaxis_title="număr membri", title="Roluri în comisie")
                 st.plotly_chart(fig, use_container_width=True)
         else:
@@ -211,8 +212,9 @@ def _render_legislativ() -> None:
         fig = go.Figure(go.Bar(
             x=["Guvern", "Parlamentar"], y=[n_guvern, n_parl],
             marker_color=[WARNING, ACCENT],
-            text=[fmt_int(n_guvern), fmt_int(n_parl)], textposition="outside"))
-        fig.update_layout(height=300, yaxis_title="număr proiecte")
+            text=[fmt_int(n_guvern), fmt_int(n_parl)], textposition="outside", cliponaxis=False))
+        fig.update_layout(height=300, yaxis_title="număr proiecte",
+                          yaxis=dict(range=[0, max(n_guvern, n_parl, 1) * 1.15]))
         st.plotly_chart(fig, use_container_width=True)
     with col_b:
         st.markdown("#### Număr inițiatori / proiect")
