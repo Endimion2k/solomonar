@@ -62,7 +62,7 @@ def _detect_workers() -> int:
     Fără GPU → ~1 proces/core (OCR e 1-thread/proces, vezi _ocr_engine)."""
     try:
         import nvidia  # noqa: F401
-        return int(os.environ.get("SOLOMONAR_OCR_WORKERS", "4"))
+        return int(os.environ.get("SOLOMONAR_OCR_WORKERS", "2"))   # 4 procese = thrash pe 8GB (vezi _ocr_engine)
     except Exception:
         return max(2, min(14, (os.cpu_count() or 4) - 2))
 

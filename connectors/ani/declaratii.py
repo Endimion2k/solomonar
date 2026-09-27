@@ -421,10 +421,11 @@ def _ocr_engine():
                 if so is not None:
                     so.intra_op_num_threads = 1
                     so.inter_op_num_threads = 1
-                if _OCR_CUDA:  # GPU cu PLAFON pe arenă (gpu_mem_limit): cache rapid SUB plafon,
-                    # 6000MB: suficient ca detectorul să NU se înfometeze (3300 era prea mic → 0 boxe
-                    # = empty). 1 worker la 6000 = sigur (6.5GB<8); 2 workeri ar depăși 8GB → thrash.
-                    _mem = int(os.environ.get("SOLOMONAR_GPU_MEM_MB", "6000")) * 1024 * 1024
+                if _OCR_CUDA:  # GPU cu PLAFON pe arenă (gpu_mem_limit): cache rapid SUB plafon.
+                    # Benchmark RTX 4060 8GB (2026-09-27, 98 pagini scanate, max 6/doc, text identic):
+                    # 1×6000MB = 78 pag/min · 2×3500MB = 141 · 3×2300MB = 97 · 4×(1700..6000MB) = thrash
+                    # (>10× mai lent). Implicit 3500MB pentru 2 procese (SOLOMONAR_OCR_WORKERS=2).
+                    _mem = int(os.environ.get("SOLOMONAR_GPU_MEM_MB", "3500")) * 1024 * 1024
                     k["providers"] = [   # fără kSameAsRequested (ăla dezactiva cache-ul → lent)
                         ("CUDAExecutionProvider", {"gpu_mem_limit": _mem}),
                         "CPUExecutionProvider",
