@@ -109,7 +109,8 @@ def _content_text(c: dict) -> str:
 # --------------------------------------------------------------------------- #
 def _recent_dna(n: int = N_DNA) -> list[dict]:
     rows = _load(os.path.join(V, "audit", "dna.json")).get("data", [])
-    rows = [r for r in rows if r.get("id") is not None]
+    # doar comunicatele în română, cu dată (versiunile în engleză dublează conținutul)
+    rows = [r for r in rows if r.get("id") is not None and r.get("data") and r.get("limba", "ro") == "ro"]
     rows.sort(key=lambda r: r["id"], reverse=True)
     return rows[:n]
 

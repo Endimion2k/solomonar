@@ -272,8 +272,11 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
     }
 
 
-def main(max_pages: int | None = None, only_parlamentare: bool = True,
-         ani: tuple[int, ...] = (2023, 2024)) -> dict:
+def main(max_pages: int | None = None, only_parlamentare: bool = False,
+         ani: tuple[int, ...] | None = None) -> dict:
+    # implicit = domeniul publicat: toate partidele, anii de raportare 2020 → anul curent
+    # (valorile vechi, (2023, 2024) + doar parlamentare, reduceau refresh-ul de la 402 la 21 de rapoarte)
+    ani = ani or tuple(range(2020, datetime.now(timezone.utc).year + 1))
     os.makedirs(V, exist_ok=True)
     s = requests.Session(); s.headers.update(HDRS)
 

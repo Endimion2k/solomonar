@@ -1,4 +1,4 @@
-"""Harvest ACHIZIȚII DIRECTE (SICAP 2007-2025, ~22M) — streaming + agregare pe CUI furnizor.
+"""Harvest ACHIZIȚII DIRECTE (SICAP 2007→prezent, ~33M rânduri) — streaming + agregare pe CUI furnizor.
 
 Sursa: data.gov.ro ADR, mapate în _achizitii_map.json (86 resurse directe CSV/XLSX). NU stocăm cele
 22M de rânduri — STREAMUIM fiecare resursă și AGREGĂM pe CastigatorCUI: {total_ron, nr, nume, ani,
@@ -11,14 +11,13 @@ XLSX: openpyxl read_only streaming.
 
 from __future__ import annotations
 
-import io
 import json
 import os
 import re
 import sys
 import time
+from datetime import datetime, timezone
 
-import requests
 import urllib3
 
 urllib3.disable_warnings()
@@ -26,30 +25,21 @@ urllib3.disable_warnings()
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 from connectors.ani.redaction import clean_cui, is_pf_cnp  # noqa: E402
+from pipeline import sicap_io  # noqa: E402
 
 P = os.path.join(ROOT, "pipeline")
 V = os.path.join(ROOT, "data/v1")
 AGG = os.path.join(P, "_achizitii_directe_agg.json")   # CUI -> agregat (checkpoint)
-CKPT = os.path.join(P, "_achizitii_directe_done.txt")  # url-uri procesate
-H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120"}
+CKPT = os.path.join(P, "_achizitii_directe_done.txt")  # „url<TAB>rânduri” procesate
 
-# nume de coloane acceptate (lower, fără spații/diacritice)
-COL_CUI = ["castigatorcui", "cuicastigator", "cui_castigator", "cuiofertant", "cui"]
-COL_VAL = ["valoareron", "valoare_ron", "valoarecontractron", "valoarecontract", "valoare"]
-COL_NUME = ["castigator", "ofertant", "furnizor", "denumirecastigator"]
-COL_AUT = ["autoritatecontractanta", "autoritatecontractant", "denumireac", "autoritate"]
-
-
-def _norm(s):
-    return re.sub(r"[^a-z]", "", (s or "").lower())
-
-
-def _pick(cols, cands):
-    nc = [_norm(c) for c in cols]
-    for cand in cands:
-        if cand in nc:
-            return nc.index(cand)
-    return None
+# nume de coloane acceptate (normalizate cu sicap_io.norm), în ordinea preferinței. Valoarea: cea
+# ATRIBUITĂ (nu cea estimată); lista veche nu conținea `VALOARE_ATRIBUITA_RON` → 2022-2025 dădeau 0 rânduri.
+COL_CUI = ["castigatorcui", "cuicastigator", "cuiofertant", "cuiofertantcastigator", "cuifurnizor", "cui"]
+COL_VAL = ["valoareatribuitaron", "valoareatribuita", "valoareachizitieron", "valoareachizitie",
+           "valoareron", "valoarecontractron", "valoarecontract", "valoare"]
+COL_NUME = ["castigator", "denumirecastigator", "ofertant", "ofertantcastigator", "denumireofertant", "furnizor"]
+COL_AUT = ["autoritatecontractanta", "denumireac", "autoritatecontractant", "denumireautoritatecontractanta",
+           "autoritate"]
 
 
 MAX_VAL = 2_000_000.0   # achizițiile directe au plafon legal (~270k-1M lei); peste 2M = garbage/misaliniat
@@ -126,65 +116,21 @@ def _add(agg, cui, nume, val, an, aut):
         a["aut"][aut[:50]] = a["aut"].get(aut[:50], 0) + 1
 
 
-def _stream_csv(url, agg, an):
-    r = requests.get(url, headers=H, verify=False, timeout=300, stream=True)
-    r.raise_for_status()
-    r.encoding = "utf-8"
-    it = r.iter_lines(decode_unicode=True)
-    header = next(it)
-    # delimitator: cel mai frecvent dintre candidați în header
-    delim = max("^|;,", key=lambda d: header.count(d))
-    cols = header.split(delim)
-    ic, iv, inm, ia = _pick(cols, COL_CUI), _pick(cols, COL_VAL), _pick(cols, COL_NUME), _pick(cols, COL_AUT)
-    if ic is None or iv is None:
-        r.close()
+def _stream(url, fmt, agg, an) -> int:
+    """Agregă o resursă (CSV în orice dialect sau XLS/XLSX pe toate foile) prin cititorul comun."""
+    rows = sicap_io.iter_rows(url, fmt, timeout_xls=600)
+    cols = sicap_io.find_header(rows, [COL_CUI, COL_VAL])
+    if cols is None:
         return 0
-    ncols = len(cols)
+    ic, iv, inm, ia = (sicap_io.pick(cols, COL_CUI), sicap_io.pick(cols, COL_VAL),
+                       sicap_io.pick(cols, COL_NUME), sicap_io.pick(cols, COL_AUT))
+    need = max(x for x in (ic, iv, inm, ia) if x is not None)
     n = 0
-    for line in it:
-        if not line:
-            continue
-        p = line.split(delim)
-        if len(p) != ncols:                # rând prost-aliniat (delimitator în câmp) → skip
+    for p in rows:
+        if len(p) <= need:
             continue
         _add(agg, p[ic], p[inm] if inm is not None else "", _num(p[iv]), an,
              p[ia] if ia is not None else "")
-        n += 1
-    r.close()
-    return n
-
-
-def _iter_excel(b):
-    """Iterator de rânduri peste Excel — calamine (robust pt. XLSX/XLS cu dimensiuni greșite)."""
-    from python_calamine import CalamineWorkbook
-    wb = CalamineWorkbook.from_filelike(io.BytesIO(b))
-    ws = wb.get_sheet_by_index(0)
-    for row in ws.to_python(skip_empty_area=True):
-        yield row
-
-
-def _stream_xlsx(url, agg, an):
-    b = requests.get(url, headers=H, verify=False, timeout=600).content
-    rows = _iter_excel(b)
-    # header-ul poate fi pe oricare din primele 10 rânduri (titluri/bannere înainte)
-    ic = iv = inm = ia = None
-    for _ in range(10):
-        try:
-            header = [str(c or "") for c in next(rows)]
-        except StopIteration:
-            return 0
-        ic, iv = _pick(header, COL_CUI), _pick(header, COL_VAL)
-        if ic is not None and iv is not None:
-            inm, ia = _pick(header, COL_NUME), _pick(header, COL_AUT)
-            break
-    if ic is None or iv is None:
-        return 0
-    n = 0
-    for row in rows:
-        if len(row) <= max(ic, iv):
-            continue
-        _add(agg, row[ic], str(row[inm]) if inm is not None and len(row) > inm and row[inm] else "",
-             _num(row[iv]), an, str(row[ia]) if ia is not None and len(row) > ia and row[ia] else "")
         n += 1
     return n
 
@@ -196,25 +142,40 @@ def main() -> dict:
     directe.sort(key=lambda x: (x.get("an", 0), str(x.get("perioada", ""))))
 
     agg = _rekey_checkpoint(json.load(open(AGG, encoding="utf-8"))) if os.path.exists(AGG) else {}
-    done = set(open(CKPT, encoding="utf-8").read().splitlines()) if os.path.exists(CKPT) else set()
-    print(f"resurse directe: {len(directe)} | deja={len(done)} | CUI agregate={len(agg)}", flush=True)
+    done: dict[str, int] = {}          # url -> rânduri (linii vechi fără număr = considerate valide)
+    if os.path.exists(CKPT):
+        for line in open(CKPT, encoding="utf-8").read().splitlines():
+            if line.strip():
+                url, _, n = line.partition("\t")
+                done[url] = int(n) if n.strip().isdigit() else sicap_io.MIN_RANDURI_VALIDE
+    groups: dict[tuple, list] = {}
+    for r in directe:
+        groups.setdefault(sicap_io.group_key(r), []).append(r)
+    print(f"resurse directe: {len(directe)} în {len(groups)} perioade | deja={len(done)} | "
+          f"CUI agregate={len(agg)}", flush=True)
 
     fc = open(CKPT, "a", encoding="utf-8")
-    for r in directe:
-        url, an, fmt = r["url"], r.get("an"), (r.get("format") or "").upper()
-        if url in done:
+    for key in sorted(groups, key=lambda k: (k[0] or 0, str(k[2]), k[3] or 0, str(k[4] or ""))):
+        variants = sicap_io.order_variants(groups[key])
+        if any(done.get(v["url"], 0) >= sicap_io.MIN_RANDURI_VALIDE for v in variants):
             continue
-        t0 = time.time()
-        try:
-            n = _stream_xlsx(url, agg, an) if "XLS" in fmt else _stream_csv(url, agg, an)
-        except Exception as e:
-            print(f"   FAIL {an} {r.get('perioada')}: {type(e).__name__} {str(e)[:40]}", flush=True)
-            continue
-        fc.write(url + "\n"); fc.flush()
-        done.add(url)
-        json.dump(agg, open(AGG, "w", encoding="utf-8"))   # checkpoint
-        print(f"   {an} {r.get('perioada')} [{fmt}]: {n} rânduri, {round(time.time()-t0)}s | "
-              f"CUI total={len(agg)}", flush=True)
+        for r in variants:                 # XLS întâi; dacă o variantă e defectă, se încearcă următoarea
+            url, an, fmt = r["url"], r.get("an"), (r.get("format") or "").upper()
+            if url in done:
+                continue
+            t0 = time.time()
+            try:
+                n = _stream(url, fmt, agg, an)
+            except Exception as e:
+                print(f"   FAIL {an} {r.get('perioada')} [{fmt}]: {type(e).__name__} {str(e)[:60]}", flush=True)
+                continue
+            fc.write(f"{url}\t{n}\n"); fc.flush()
+            done[url] = n
+            json.dump(agg, open(AGG, "w", encoding="utf-8"))   # checkpoint
+            print(f"   {an} {r.get('perioada')} [{fmt}]: {n} rânduri, {round(time.time()-t0)}s | "
+                  f"CUI total={len(agg)}", flush=True)
+            if n >= sicap_io.MIN_RANDURI_VALIDE:
+                break
     fc.close()
 
     # publică: top + cei legați de graf (companii de stat + firme cu contracte)
@@ -224,7 +185,10 @@ def main() -> dict:
         a["top_autoritati"] = [k for k, _ in sorted(a.pop("aut", {}).items(), key=lambda kv: -kv[1])[:3]]
         a["ani_activi"] = sorted(a.pop("ani", {}).keys())
     os.makedirs(os.path.join(V, "companii"), exist_ok=True)
-    json.dump({"sursa": "data.gov.ro ADR achiziții directe SICAP 2007-2025", "total_furnizori": len(out),
+    ani = sorted({int(y) for a in out for y in a.get("ani_activi") or [] if str(y).isdigit()})
+    acoperire = f"{ani[0]}-{ani[-1]}" if ani else ""
+    json.dump({"sursa": f"data.gov.ro ADR achiziții directe SICAP {acoperire}", "acoperire": acoperire,
+               "generated_at": datetime.now(timezone.utc).isoformat(), "total_furnizori": len(out),
                "total_achizitii": sum(a["nr"] for a in out),
                "valoare_totala_ron": round(sum(a["total_ron"] for a in out), 2),
                "furnizori": out[:50000]},

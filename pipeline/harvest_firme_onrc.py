@@ -60,6 +60,12 @@ def _targets():
     for r in ((ad or {}).get("furnizori") or []):
         if str(r.get("cui", "")).isdigit():
             cuis.add(int(r["cui"]))
+    # acoperirea nu se micșorează la refresh: firmele profilate anterior rămân ținte (profil reîmprospătat).
+    # Lista publicată de furnizori e plafonată la top 50.000 — o schimbare a top-ului nu trebuie să le scoată.
+    prev = _load(os.path.join(V, "companii/firme_onrc.json"))
+    for r in ((prev or {}).get("firme") or []):
+        if str(r.get("cui", "")).isdigit():
+            cuis.add(int(r["cui"]))
     return cuis
 
 

@@ -21,7 +21,9 @@ urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = os.path.join(ROOT, "data/v1")
-DATASETS = {  # an → dataset id (Situatii financiare)
+DATASETS = {  # an → dataset id sau nume CKAN (Situatii financiare, MF pe data.gov.ro)
+    2025: "situatii_financiare_2025",              # publicat 2026-06
+    2024: "situatii_financiare_2024_actualizat",   # versiunea actualizată 2026-06 (înlocuiește _2024)
     2023: "7861a98f-4d5c-4faa-90d4-8e934ebd1782",
     2022: "aa2567a4-e7d7-4e6e-ab19-d08d39f99996",
     2021: "f8353c0e-fee9-4aa3-b26d-be0e96c328a7",
@@ -120,7 +122,7 @@ def main(an: int = 2023) -> dict:
     return {"bilanturi": len(rows), "enriched": enr}
 
 
-def main_trend(ani=(2023, 2022, 2021, 2020)) -> dict:
+def main_trend(ani=(2025, 2024, 2023, 2022, 2021, 2020)) -> dict:
     """Bilanțuri multi-an → trend per SOE (cui → {an: financials})."""
     cuis = _soe_cuis()
     print(f"CUI-uri SOE: {len(cuis)} | ani: {ani}", flush=True)

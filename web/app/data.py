@@ -121,7 +121,7 @@ def contracte_df() -> pd.DataFrame:
 
 @st.cache_data(show_spinner=False)
 def achizitii_directe_df() -> pd.DataFrame:
-    """Furnizorii de achiziții directe (cumpărări directe SICAP 2007-2025, agregate pe CUI)."""
+    """Furnizorii de achiziții directe (cumpărări directe SICAP, agregate pe CUI; vezi meta.acoperire)."""
     d = _load_raw("companii/achizitii_directe.json")
     df = pd.DataFrame(d.get("furnizori", []))
     if not df.empty:
@@ -135,7 +135,8 @@ def achizitii_directe_df() -> pd.DataFrame:
 def achizitii_directe_meta() -> dict:
     d = _load_raw("companii/achizitii_directe.json")
     return {"total_furnizori": d.get("total_furnizori", 0), "total_achizitii": d.get("total_achizitii", 0),
-            "valoare_totala_ron": d.get("valoare_totala_ron", 0), "sursa": d.get("sursa", "")}
+            "valoare_totala_ron": d.get("valoare_totala_ron", 0), "sursa": d.get("sursa", ""),
+            "acoperire": d.get("acoperire", ""), "generated_at": d.get("generated_at", "")}
 
 
 @st.cache_data(show_spinner=False)

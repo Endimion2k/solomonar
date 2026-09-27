@@ -1,4 +1,4 @@
-"""Achiziții directe — cumpărările directe SICAP 2007-2025, agregate pe furnizor (SOLOMONAR)."""
+"""Achiziții directe — cumpărările directe SICAP (2007 → prezent), agregate pe furnizor (SOLOMONAR)."""
 
 from __future__ import annotations
 
@@ -19,12 +19,14 @@ from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei
 st.set_page_config(page_title="Achiziții directe · SOLOMONAR", page_icon="🧾", layout="wide")
 apply_theme()
 sidebar_brand()
+meta = data.achizitii_directe_meta()
+_mil = (meta.get("total_achizitii") or 0) / 1e6
 page_header("Achiziții directe — cumpărări directe SICAP",
-            "21,9 milioane de cumpărări directe (sub pragul de licitație) 2007-2025, agregate pe "
-            "furnizor. Al doilea canal de bani publici, pe lângă contractele de achiziție publică.")
+            f"{_mil:.1f} milioane de cumpărări directe (sub pragul de licitație) "
+            f"{meta.get('acoperire') or ''}, agregate pe furnizor. Al doilea canal de bani publici, "
+            "pe lângă contractele de achiziție publică.".replace(".", ",", 1))
 
 df = data.achizitii_directe_df()
-meta = data.achizitii_directe_meta()
 
 if df.empty:
     st.warning("Nu există date de achiziții directe disponibile.")
@@ -49,7 +51,7 @@ fig = go.Figure(go.Bar(
     customdata=top["nr"],
     hovertemplate="%{y}<br>%{x:,.0f} lei · %{customdata:,} achiziții<extra></extra>"))
 fig.update_layout(height=560, margin=dict(l=10, r=10, t=10, b=10),
-                  xaxis_title="lei (total 2007-2025)", yaxis_title=None)
+                  xaxis_title=f"lei (total {meta.get('acoperire') or ''})", yaxis_title=None)
 st.plotly_chart(fig, use_container_width=True)
 
 # ---------------- filtre + tabel ----------------

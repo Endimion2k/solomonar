@@ -58,6 +58,16 @@ def _target_cuis() -> tuple[set, dict]:
                     names.setdefault(cui, r.get("nume", ""))
                 except (ValueError, TypeError):
                     pass
+    # acoperirea nu se micșorează la refresh: firmele colectate anterior rămân ținte (reprezentanții lor
+    # se reîmprospătează din dump-ul curent). Altfel, lista publicată de furnizori fiind plafonată la
+    # top 50.000, orice schimbare a top-ului scotea din graf ~14.000 de firme și reprezentanții lor.
+    prev = _load(os.path.join(V, "companii/reprezentanti.json"))
+    for c in ((prev.get("companii") if isinstance(prev, dict) else None) or []):
+        try:
+            cuis.add(int(c["cui"]))
+            names.setdefault(int(c["cui"]), c.get("denumire", ""))
+        except (KeyError, ValueError, TypeError):
+            pass
     return cuis, names
 
 

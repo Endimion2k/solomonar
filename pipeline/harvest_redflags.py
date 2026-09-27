@@ -24,6 +24,10 @@ import urllib3
 urllib3.disable_warnings()
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+import sys  # noqa: E402
+sys.path.insert(0, ROOT)
+from pipeline import sicap_io  # noqa: E402
+from connectors.ani.redaction import cnp_valid  # noqa: E402
 P = os.path.join(ROOT, "pipeline")
 V = os.path.join(ROOT, "data/v1")
 LOCAL = os.path.join(ROOT, "_local")
@@ -48,7 +52,8 @@ COL_VAL = ["valoareron", "valoarecontractron", "valoareatribuitaron", "valoareat
            "valoareachizitieron", "valoareachizitie"]
 COL_NUME = ["castigator", "denumirecastigator", "ofertant", "ofertantcastigator"]
 COL_AUT = ["autoritatecontractanta", "denumireac"]
-COL_AUTCUI = ["autoritatecontractantacui", "autoritatecontractantacu", "cuiautoritatecontractanta"]
+COL_AUTCUI = ["autoritatecontractantacui", "autoritatecontractantacu", "cuiautoritatecontractanta",
+              "cuiac"]   # „CUI_AC” — fișierele de achiziții directe 2021-2022 (fără el, 2022 lipsea din fragmentare)
 COL_OFERTE = ["numaroferteprimite", "numaroferte", "oferteprimite"]
 COL_TITLU = ["titlucontract", "obiectcontract", "denumirecpv", "titlu", "obiect"]
 COL_CPV = ["cpvcode", "cpv", "codcpv"]
@@ -103,30 +108,8 @@ def _load_ckpt():
 
 
 def _raw_rows(url, fmt):
-    """Yield rânduri (list[str]) dintr-o resursă CSV sau XLS/XLSX."""
-    if "XLS" in (fmt or "").upper():
-        from python_calamine import CalamineWorkbook
-        b = requests.get(url, headers=H, verify=False, timeout=900).content
-        wb = CalamineWorkbook.from_filelike(io.BytesIO(b))
-        for sn in wb.sheet_names:                         # .xls vechi: date pe 4 foi (limită 65k/foaie)
-            for row in wb.get_sheet_by_name(sn).to_python(skip_empty_area=True):
-                yield [("" if c is None else str(c)) for c in row]
-    else:
-        r = requests.get(url, headers=H, verify=False, timeout=300, stream=True)
-        r.raise_for_status()
-        r.encoding = "utf-8"
-        it = r.iter_lines(decode_unicode=True)
-        first = next(it)
-        delim = max("^|;,", key=lambda d: first.count(d))
-        nc = len(first.split(delim))
-        yield first.split(delim)
-        for line in it:
-            if not line:
-                continue
-            p = line.split(delim)
-            if len(p) == nc:
-                yield p
-        r.close()
+    """Rânduri dintr-o resursă CSV (orice dialect data.gov.ro) sau XLS/XLSX (toate foile)."""
+    return sicap_io.iter_rows(url, fmt)
 
 
 def _oferte(s):
@@ -166,6 +149,9 @@ def _process(url, fmt, tip, an, ck):
         cui = _cui(p[ic])
         if not cui:
             continue
+        pf = cnp_valid(cui)        # câștigător persoană fizică (PFA/II): CNP-ul nu se publică
+        nume = (p[inm][:70] if inm is not None else "")
+        cui_pub = None if pf else cui
         if is_contract:
             val = _num(p[iv], MAX_CONTRACT)
             sb = iof is not None and _oferte(p[iof]) == 1 and val >= PRAG_SINGLE_BID
@@ -174,7 +160,7 @@ def _process(url, fmt, tip, an, ck):
                 item = {
                     "an": an, "valoare_ron": round(val),
                     "autoritate": (p[ia][:70] if ia is not None else ""),
-                    "castigator": (p[inm][:70] if inm is not None else ""), "cui": cui,
+                    "castigator": nume, "cui": cui_pub, **({"pf": True} if pf else {}),
                     "obiect": (p[it_][:90] if it_ is not None and p[it_] else ""),
                     "cpv": (p[icpv][:14] if icpv is not None and p[icpv] else ""),
                     "procedura": (p[iproc][:50] if iproc is not None and p[iproc] else ""),
@@ -188,13 +174,13 @@ def _process(url, fmt, tip, an, ck):
             autcui = _cui(p[iac]) if iac is not None else ""
             if not autcui:    # fără CUI-autoritate nu putem atribui perechea (evită over-merge pe furnizor)
                 continue
-            key = f"{autcui}>{cui}"
+            key = f"{autcui}>{f'pf:{nume.upper()}' if pf else cui}"   # PF: pe nume, fără CNP
             fr = ck["frag"].get(key)
             if fr is None:
                 fr = ck["frag"][key] = {
                     "autoritate": (p[ia][:60] if ia is not None else ""),
                     "autoritate_cui": autcui,
-                    "castigator": (p[inm][:60] if inm is not None else ""), "cui": cui,
+                    "castigator": nume[:60], "cui": cui_pub, "pf": pf,
                     "nr": 0, "total": 0.0, "ani": []}
             fr["nr"] += 1
             fr["total"] += val
@@ -208,7 +194,8 @@ def _write_output(ck, ani_proc) -> dict:
     single = sorted(ck["single"], key=lambda x: -x["valoare_ron"])
     proc = sorted(ck["proc"], key=lambda x: -x["valoare_ron"])
     frag = [{"autoritate": f["autoritate"], "autoritate_cui": f["autoritate_cui"],
-             "castigator": f["castigator"], "cui": f["cui"], "nr": f["nr"],
+             "castigator": f["castigator"], "cui": f["cui"], **({"pf": True} if f.get("pf") else {}),
+             "nr": f["nr"],
              "total": round(f["total"]), "ani_activi": sorted(f.get("ani", []))}
             for f in ck["frag"].values()
             if f["nr"] >= FRAG_MIN_NR and f["total"] >= FRAG_MIN_TOTAL]
@@ -249,22 +236,28 @@ def main() -> dict:
     print(f"red-flags ani {ani_proc} | resurse: {len(todo)}", flush=True)
     os.makedirs(V, exist_ok=True)
 
-    n_done = 0
+    groups: dict = {}
     for r in todo:
-        url, an, tip, fmt = r["url"], r.get("an"), r.get("tip"), r.get("format")
-        t0 = time.time()
-        try:
-            n = _process(url, fmt, tip, an, ck)
-        except Exception as e:
-            print(f"   FAIL {an} {tip} {r.get('perioada')}: {type(e).__name__} {str(e)[:40]}", flush=True)
-            continue
-        if len(ck["frag"]) > 1_000_000:   # bound memorie: scapă de cumpărările one-off (nr==1)
-            ck["frag"] = {k: v for k, v in ck["frag"].items() if v["nr"] >= 2}
-        print(f"   {an} {tip} {r.get('perioada')}: {n} rânduri, {round(time.time()-t0)}s | "
-              f"single={len(ck['single'])} proc={len(ck['proc'])} frag_pairs={len(ck['frag'])}", flush=True)
-        n_done += 1
-        if n_done % 6 == 0:               # output incremental — rezilient la crash/OOM
-            _write_output(ck, ani_proc)
+        groups.setdefault(sicap_io.group_key(r), []).append(r)
+    n_done = 0
+    for key in sorted(groups, key=lambda k: (k[0] or 0, str(k[2]), str(k[1]), k[3] or 0, str(k[4] or ""))):
+        for r in sicap_io.order_variants(groups[key]):
+            url, an, tip, fmt = r["url"], r.get("an"), r.get("tip"), r.get("format")
+            t0 = time.time()
+            try:
+                n = _process(url, fmt, tip, an, ck)
+            except Exception as e:
+                print(f"   FAIL {an} {tip} {r.get('perioada')}: {type(e).__name__} {str(e)[:40]}", flush=True)
+                continue
+            if len(ck["frag"]) > 1_000_000:   # bound memorie: scapă de cumpărările one-off (nr==1)
+                ck["frag"] = {k: v for k, v in ck["frag"].items() if v["nr"] >= 2}
+            print(f"   {an} {tip} {r.get('perioada')}: {n} rânduri, {round(time.time()-t0)}s | "
+                  f"single={len(ck['single'])} proc={len(ck['proc'])} frag_pairs={len(ck['frag'])}", flush=True)
+            n_done += 1
+            if n_done % 6 == 0:               # output incremental — rezilient la crash/OOM
+                _write_output(ck, ani_proc)
+            if n >= sicap_io.MIN_RANDURI_VALIDE:
+                break                         # varianta validă a perioadei a fost procesată
 
     res = _write_output(ck, ani_proc)
     print(f"PUBLICAT redflags.json: single-bid={res['single']}, procedura={res['proc']}, "
