@@ -8,7 +8,9 @@ Până acum ordinea trăia doar în docstring-uri (docs/AUDIT-2026-09.md, F05/F1
   final    — stats/status, mascare PII, gărzi: 0 PII și niciun fișier > 90 MiB
 
 Declarațiile de avere/interese (OCR, ~o zi de GPU) NU sunt incluse — pas separat, la cerere. La fel
-OCR-ul documentelor PLx scanate: `python -m pipeline.build_comisii_docs ocr` (ore de GPU, reluabil).
+OCR-ul documentelor PLx scanate: `python -m pipeline.build_comisii_docs ocr` (ore de GPU, reluabil),
+textul moțiunilor: `python -m pipeline.build_motiuni_text` (OCR, ~20 min) și tabelele din declarații:
+`python -m pipeline.build_declaratii_detaliu extract` (ore de CPU, reluabil).
 
     python -m pipeline.refresh --list
     python -m pipeline.refresh --groups surse
@@ -62,6 +64,8 @@ STEPS: list[tuple[str, str, list[str], dict, str]] = [
     ("bilanturi", "mari", ["-m", "pipeline.enrich_financials", "2025"], {}, "bilanțuri MF 2025"),
     ("bilanturi_trend", "mari", ["-m", "pipeline.enrich_financials", "trend"], {}, "serii multi-an"),
 
+    ("declaratii_detaliu", "derivate", ["-m", "pipeline.build_declaratii_detaliu"], {},
+     "anul și rolurile din declarații (+ tabelele citite din PDF, dacă extragerea a rulat)"),
     ("gold", "derivate", ["-m", "pipeline.build_gold"], {}, "rezoluție canonică persoane"),
     ("splink_apply", "derivate", ["-m", "pipeline.build_splink_apply"], {}, "merge-uri sigure Splink"),
     ("ani_integrate", "derivate", ["-m", "pipeline.build_ani_integrate"], {}, "metadate ANI central"),

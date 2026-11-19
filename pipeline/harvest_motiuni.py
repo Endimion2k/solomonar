@@ -62,13 +62,35 @@ def _detalii(client, mot):
     mr = re.search(r"(Adoptat[ăa]|Respins[ăa]|Dezbatere|Retras[ăa])", body, re.I)
     mot["rezultat"] = mr.group(1).capitalize() if mr else None
     vp = re.search(r"pentru mo[tţ]iune\D{0,8}(\d+)", body, re.I)
-    vc = re.search(r"[iî]mpotriv\w*\D{0,8}(\d+)", body, re.I)
+    vc = re.search(r"[iî]mpotriv\w*\D{0,20}(\d+)", body, re.I)   # „împotriva moţiunii: 4”
     mot["voturi_pentru"] = int(vp.group(1)) if vp else None
     mot["voturi_contra"] = int(vc.group(1)) if vc else None
     pdfs = [urljoin(mot["url"], a.attrib.get("href", "")) for a in selector(t).css("a")
             if a.attrib.get("href", "").lower().endswith(".pdf")]
     mot["pdf_url"] = pdfs[0] if pdfs else None
+    mi = re.search(r"ini[tţț]iat[ăa] de\s+(?:Ini[tţț]iat[ăa] de\s+)?(.{3,160}?)\s+Nr\./Data", body)
+    mot["initiatori"] = mi.group(1).strip() if mi else None
+    mot["semnatari"] = _semnatari(t)
+    mot["nr_semnatari"] = len(mot["semnatari"])
     return mot
+
+
+def _semnatari(html: str) -> list[dict]:
+    """Semnatarii moțiunii = linkurile către fișele de parlamentar din pagina de detaliu."""
+    out, seen = [], set()
+    for a in selector(html).css("a"):
+        h = a.attrib.get("href", "")
+        m = re.search(r"structura2015\.mp\?(?=[^\"]*idm=(\d+))(?=[^\"]*leg=(\d+))(?=[^\"]*cam=(\d+))?", h)
+        nume = " ".join(" ".join(a.css("::text").getall()).split())
+        if not m or len(nume) < 4:
+            continue
+        cheie = (m.group(1), m.group(2), m.group(3))
+        if cheie in seen:
+            continue
+        seen.add(cheie)
+        out.append({"idm": int(m.group(1)), "leg": int(m.group(2)),
+                    "cam": int(m.group(3)) if m.group(3) else None, "nume": nume})
+    return out
 
 
 def main() -> dict:
@@ -91,10 +113,12 @@ def main() -> dict:
     by_tip = {}
     for m in motiuni:
         by_tip[m["tip"]] = by_tip.get(m["tip"], 0) + 1
+    semnaturi = sum(m.get("nr_semnatari") or 0 for m in motiuni)
     json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "total": len(motiuni),
-               "pe_tip": by_tip, "pdf_arhivate": arh, "motiuni": motiuni},
+               "pe_tip": by_tip, "pdf_arhivate": arh, "semnaturi": semnaturi, "motiuni": motiuni},
               open(os.path.join(V, "motiuni.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
-    print(f"PUBLICAT motiuni.json: {len(motiuni)} ({by_tip}) | PDF arhivate={arh}", flush=True)
+    print(f"PUBLICAT motiuni.json: {len(motiuni)} ({by_tip}) | PDF arhivate={arh} | "
+          f"semnături={semnaturi}", flush=True)
     return {"total": len(motiuni), "pe_tip": by_tip}
 
 

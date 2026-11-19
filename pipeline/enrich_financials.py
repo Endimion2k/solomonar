@@ -112,6 +112,11 @@ def _stream(url, cuis, out):
                 out[cui] = {"cifra_afaceri": num("cifra_afaceri"),
                             "profit_net": profit if profit else (-pierdere if pierdere else None),
                             "datorii": num("datorii"), "nr_salariati": num("nr_salariati")}
+        # o conexiune căzută la mijloc se termină fără excepție: verificăm că a venit tot fișierul
+        asteptat = int(r.headers.get("Content-Length") or 0)
+        primit = r.raw.tell()
+        if asteptat and primit < asteptat:
+            raise IOError(f"descărcare incompletă: {primit} din {asteptat} octeți ({url[-40:]})")
 
 
 def main(an: int = 2023) -> dict:
@@ -164,12 +169,19 @@ def main_trend(ani=(2025, 2024, 2023, 2022, 2021, 2020)) -> dict:
             if any(v is not None for v in fin.values()):
                 trend.setdefault(cui, {})[an] = fin
         print(f"  {an}: {len(out)} SOE", flush=True)
-    # anii care nu au putut fi citiți acum rămân cum erau publicați (nu dispar din serie)
-    if ani_esuati:
-        for t in _published("companii/bilanturi_trend.json").get("trend", []):
-            for an, fin in (t.get("ani") or {}).items():
-                if int(an) in ani_esuati and str(t.get("cui", "")).isdigit():
-                    trend.setdefault(int(t["cui"]), {})[int(an)] = fin
+    # un bilanț publicat nu dispare: ce nu a fost regăsit acum (an necitit, fișier schimbat la sursă)
+    # rămâne cum era; valorile citite acum au prioritate
+    pastrate = 0
+    for t in _published("companii/bilanturi_trend.json").get("trend", []):
+        if not str(t.get("cui", "")).isdigit():
+            continue
+        for an, fin in (t.get("ani") or {}).items():
+            ani_cui = trend.setdefault(int(t["cui"]), {})
+            if int(an) not in ani_cui:
+                ani_cui[int(an)] = fin
+                pastrate += 1
+    if pastrate:
+        print(f"  păstrate {pastrate} bilanțuri publicate anterior, neregăsite în această rulare", flush=True)
     rows = [{"cui": k, "denumire": cuis[k].get("name", ""), "ani": v} for k, v in trend.items() if k in cuis]
     json.dump({"ani": list(ani), "total": len(rows), "trend": rows},
               open(os.path.join(V, "companii/bilanturi_trend.json"), "w", encoding="utf-8"),
