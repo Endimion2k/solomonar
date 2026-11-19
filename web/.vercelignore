@@ -1,0 +1,4 @@
+# Vercel publică doar clientul static; dashboard-ul Streamlit rulează separat.
+app
+requirements.txt
+README.md
