@@ -16,10 +16,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data, ui
+from app.theme import tabel
 from app.theme import (DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Alerte · SOLOMONAR", page_icon="🚨", layout="wide")
+st.set_page_config(page_title="Alerte · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 
@@ -37,7 +38,7 @@ if not alerte:
 # ---------------- disclaimer (din json) ----------------
 disclaimer = (raw.get("disclaimer") or "").strip()
 if disclaimer:
-    st.warning(disclaimer, icon="⚠️")
+    st.warning(disclaimer)
 
 # ---------------- etichete lizibile pe tip ----------------
 TIP_ETICHETE = {
@@ -145,16 +146,16 @@ if isinstance(agregate, dict) and agregate:
         msg += "."
         if nota:
             msg += f" {nota}"
-        st.info(msg, icon="📌")
+        st.info(msg)
 
 # ---------------- monitorizare: modificări față de rebuild-ul anterior ----------------
 cl = data.changelog()
 if isinstance(cl, dict) and cl:
     if not cl.get("are_baza_anterioara"):
-        st.caption("📋 Monitorizare activată — bază de referință creată; modificările apar de la "
+        st.caption("Monitorizare activată — bază de referință creată; modificările apar de la "
                    "următorul rebuild.")
     elif cl.get("n_modificari") or cl.get("n_persoane_noi"):
-        with st.expander(f"📋 Modificări față de rebuild-ul anterior — "
+        with st.expander(f"Modificări față de rebuild-ul anterior — "
                          f"{fmt_int(cl.get('n_modificari', 0))} modificări · "
                          f"{fmt_int(cl.get('n_persoane_noi', 0))} persoane noi cu bani de stat"):
             mods = cl.get("modificari") or []
@@ -162,20 +163,20 @@ if isinstance(cl, dict) and cl:
                 mdf = pd.DataFrame([{"Persoană": m.get("nume"), "Câmp": m.get("camp"),
                                      "Vechi": m.get("vechi"), "Nou": m.get("nou"),
                                      "Δ": m.get("delta")} for m in mods[:100]])
-                st.dataframe(mdf, use_container_width=True, hide_index=True,
+                tabel(mdf, use_container_width=True, hide_index=True,
                              column_config={
                                  "Vechi": st.column_config.NumberColumn(format="%.0f"),
                                  "Nou": st.column_config.NumberColumn(format="%.0f"),
                                  "Δ": st.column_config.NumberColumn(format="%.0f")})
     else:
-        st.caption("📋 Monitorizare: nicio modificare față de rebuild-ul anterior.")
+        st.caption("Monitorizare: nicio modificare față de rebuild-ul anterior.")
 
 st.divider()
 
 # ---------------- conflict_confirmat — sus, separat ----------------
 conf = df[df["tip"] == "conflict_confirmat"].sort_values("titlu")
 if not conf.empty:
-    st.markdown(f"#### 🔴 Conflicte documentate ({fmt_int(len(conf))})")
+    st.markdown(f"#### Conflicte documentate ({fmt_int(len(conf))})")
     st.caption("Cele mai importante: firma apare în PROPRIA declarație de interese a persoanei. "
                "Singurele semnale defensabile fără verificare suplimentară.")
     for _, r in conf.iterrows():
@@ -259,7 +260,7 @@ else:
                 for s in show["severitate"]]
 
     styled = table.style.apply(_sev_style, subset=["severitate"])
-    st.dataframe(
+    tabel(
         styled, use_container_width=True, hide_index=True,
         column_config={
             "severitate": st.column_config.TextColumn(width="small"),

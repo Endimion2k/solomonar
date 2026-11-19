@@ -12,10 +12,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data, ui
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, party_color, sidebar_brand)
 
-st.set_page_config(page_title="Partide · SOLOMONAR", page_icon="🎗️", layout="wide")
+st.set_page_config(page_title="Partide · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Partide", "Subvenții de stat alocate partidelor, evoluție anuală și prezență parlamentară.")
@@ -126,7 +127,7 @@ tbl = (p[["cod", "total_subventie_lei", "nr_deputati", "nr_senatori", "nr_rapoar
            "nr_deputati": "Deputați", "nr_senatori": "Senatori",
            "nr_rapoarte_rvc": "Rapoarte RVC", "nr_soe": "Numiți în conducere SOE",
        }))
-st.dataframe(
+tabel(
     tbl, use_container_width=True, hide_index=True,
     column_config={
         "Subvenție totală (lei)": st.column_config.NumberColumn(format="%.0f"),

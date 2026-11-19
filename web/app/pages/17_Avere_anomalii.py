@@ -18,10 +18,10 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import apply_theme, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand
 
-st.set_page_config(page_title="Anomalii avere · SOLOMONAR", page_icon="💰", layout="wide")
+st.set_page_config(page_title="Anomalii avere · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
-page_header("💰 Anomalii de avere",
+page_header("Anomalii de avere",
             "Profiluri declarate statistic neobișnuite față de restul (PyOD/ECOD pe venituri, conturi, "
             "datorii, terenuri, clădiri, auto). Lead-uri de verificat — NU dovezi de îmbogățire.")
 
@@ -31,7 +31,7 @@ if not items:
     st.warning("Datele de anomalii avere nu sunt generate. Rulează `python -m pipeline.build_avere_anomalii`.")
     st.stop()
 
-st.warning(av.get("disclaimer", ""), icon="⚠️")
+st.warning(av.get("disclaimer", ""))
 
 c1, c2, c3 = st.columns(3)
 kpi_card(c1, "Persoane analizate", fmt_int(av.get("n_persoane")))

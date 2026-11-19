@@ -17,10 +17,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, DANGER, SUCCESS, WARNING, TEXT_DIM,
                        apply_theme, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Follow the money · SOLOMONAR", page_icon="🔎", layout="wide")
+st.set_page_config(page_title="Follow the money · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Follow the money",
@@ -59,14 +60,14 @@ kpi_card(c3, "Candidați (neverificați)", fmt_int(fm.get("total_leaduri") or le
 kpi_card(c4, "Din care parlamentari", fmt_int(fm.get("din_care_parlamentari")))
 
 if fm.get("nota"):
-    st.caption(f"ℹ️ {fm.get('nota')}")
+    st.caption(f"{fm.get('nota')}")
 
 st.divider()
 
 # ============================================================
 # SECȚIUNEA 1 — CONFIRMATE
 # ============================================================
-st.markdown(f"### ✅ Legături confirmate ({len(confirmate)})")
+st.markdown(f"### Legături confirmate ({len(confirmate)})")
 st.markdown(
     f"<div style='background:rgba(16,185,129,.08);border:1px solid {SUCCESS};"
     f"border-radius:10px;padding:10px 14px;font-size:13px;color:{TEXT_DIM};margin-bottom:12px'>"
@@ -88,7 +89,7 @@ for r in confirmate:
 
 if conf_rows:
     conf_df = pd.DataFrame(conf_rows).sort_values("Contracte (lei)", ascending=False, na_position="last")
-    st.dataframe(
+    tabel(
         conf_df, use_container_width=True, hide_index=True,
         column_config={
             "Persoană": st.column_config.TextColumn(width="medium"),
@@ -106,11 +107,11 @@ st.divider()
 # ============================================================
 # SECȚIUNEA 2 — CANDIDAȚI (LEADURI NEVERIFICATE)
 # ============================================================
-st.markdown(f"### 🔎 Candidați — potriviri pe nume, neverificate ({len(leaduri)})")
+st.markdown(f"### Candidați — potriviri pe nume, neverificate ({len(leaduri)})")
 st.markdown(
     f"<div style='background:rgba(245,158,11,.10);border:1px solid {WARNING};"
     f"border-radius:10px;padding:12px 16px;font-size:13px;color:#f1d6a0;margin-bottom:12px'>"
-    "<b>⚠️ AVERTISMENT.</b> Aceste legături sunt deduse din <b>potrivirea numelui</b> dintre o persoană "
+    "<b>De citit înainte.</b> Aceste legături sunt deduse din <b>potrivirea numelui</b> dintre o persoană "
     "publică și administratorul/asociatul unei firme cu contracte de stat. "
     "Pot fi <b>omonime</b> (persoane diferite cu același nume) și <b>NU constituie acuzații</b>. "
     "Sunt piste de cercetare care necesită verificare independentă (CUI, CNP, surse oficiale) "
@@ -137,7 +138,7 @@ if leaduri:
     if lead_rows:
         lead_df = pd.DataFrame(lead_rows).sort_values(
             "Contracte (lei)", ascending=False, na_position="last")
-        st.dataframe(
+        tabel(
             lead_df, use_container_width=True, hide_index=True,
             column_config={
                 "Nume (potrivire)": st.column_config.TextColumn(width="medium"),
@@ -159,7 +160,7 @@ st.divider()
 # ============================================================
 # SECȚIUNEA 3 — REȚELE DE CO-ADMINISTRARE
 # ============================================================
-st.markdown("### 🕸️ Rețele de co-administrare")
+st.markdown("### Rețele de co-administrare")
 st.caption("Firme cu contracte de stat care au mai mulți administratori — indicator de structuri "
            "comune/interconectate. Mai mulți administratori pe aceeași firmă = nod mai dens.")
 
@@ -192,7 +193,7 @@ else:
         det = rcv.head(40).copy()
         det["administratori"] = det["administratori"].apply(
             lambda a: ", ".join(str(x).title() for x in a) if isinstance(a, list) else "")
-        st.dataframe(
+        tabel(
             det[["firma", "n_administratori", "contracte", "administratori"]],
             use_container_width=True, hide_index=True,
             column_config={

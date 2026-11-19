@@ -10,10 +10,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Sancțiuni & PEP · SOLOMONAR", page_icon="🌐", layout="wide")
+st.set_page_config(page_title="Sancțiuni & PEP · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Sancțiuni & PEP",
@@ -84,7 +85,7 @@ st.divider()
 
 # ================= SANCȚIUNI =================
 sanc = df[df["dataset"] == "sanctions"].copy()
-st.markdown(f"### 🚫 Sancțiuni internaționale — {fmt_int(len(sanc))} entități")
+st.markdown(f"### Sancțiuni internaționale — {fmt_int(len(sanc))} entități")
 st.caption("Persoane și entități cu legătură RO aflate pe liste oficiale de sancțiuni "
            "(EU FSF, OFAC SDN, ONU ș.a.). Acestea sunt cele importante.")
 
@@ -121,7 +122,7 @@ st.divider()
 # ================= PEP =================
 pep = df[df["dataset"] == "peps"].copy()
 n_pep_graf = int(pep["in_graf"].sum())
-st.markdown(f"### 🏛️ Politically Exposed Persons (PEP) — {fmt_int(len(pep))}")
+st.markdown(f"### Politically Exposed Persons (PEP) — {fmt_int(len(pep))}")
 st.caption("Demnitari, parlamentari și funcționari publici. Expunerea politică este firească "
            "pentru aceste funcții — apariția în listă NU înseamnă o problemă.")
 
@@ -148,11 +149,11 @@ if view.empty:
     st.info("Niciun rezultat pentru filtrele curente.")
 else:
     show = view.head(500).copy()
-    show["graf"] = show["in_graf"].map({True: "✓ în graf", False: "—"})
+    show["graf"] = show["in_graf"].map({True: "în graf", False: "—"})
     show["tara_lbl"] = show["tara"].apply(tari_str)
     show["liste_lbl"] = show["liste"].apply(liste_str)
     show["pozitie_lbl"] = show["pozitie"].fillna("")
-    st.dataframe(
+    tabel(
         show[["nume", "graf", "pozitie_lbl", "tara_lbl", "liste_lbl",
               "n_declaratii", "n_companii"]],
         use_container_width=True, hide_index=True,

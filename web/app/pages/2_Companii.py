@@ -14,10 +14,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data, ui
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, apply_theme, fmt_int,
                        fmt_lei, fmt_pct, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Companii · SOLOMONAR", page_icon="🏢", layout="wide")
+st.set_page_config(page_title="Companii · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Companii de stat",
@@ -56,7 +57,7 @@ if doar_bvb:
 if doar_contracte:
     f = f[f["contracte_ron"].notna()]
 if q.strip():
-    f = f[f["nume"].str.contains(q.strip(), case=False, na=False)]
+    f = f[f["nume"].str.contains(q.strip(), case=False, na=False, regex=False)]
 
 # ---------------- KPI ----------------
 c1, c2, c3, c4 = st.columns(4)
@@ -78,7 +79,7 @@ tbl = f[["nume", "sector", "tutela", "judet", "bvb", "salariati", "cifra_afaceri
          "profit", "procent_stat", "contracte_ron", "contracte_nr", "nr_reps"]].copy()
 tbl = tbl.sort_values("contracte_ron", ascending=False, na_position="last")
 
-st.dataframe(
+tabel(
     tbl, use_container_width=True, hide_index=True,
     column_config={
         "nume": st.column_config.TextColumn("Companie", width="large"),
@@ -152,7 +153,7 @@ if guv.get("numiri"):
         rol_lbl = {"board_chair": "Președinte CA", "board_member": "Membru CA / CS",
                    "executive_director": "Director general", "director": "Director", "other": "Altele"}
         rem = guv.get("remuneratie_pe_rol") or {}
-        st.dataframe(pd.DataFrame([{"Rol": rol_lbl.get(k, k), "Numiri cu date": v["n"],
+        tabel(pd.DataFrame([{"Rol": rol_lbl.get(k, k), "Numiri cu date": v["n"],
                                     "Mediană": v["median"], "Maxim": v["max"]} for k, v in rem.items()]),
                      use_container_width=True, hide_index=True,
                      column_config={"Mediană": st.column_config.NumberColumn(format="%d"),
@@ -160,7 +161,7 @@ if guv.get("numiri"):
         st.caption("Valorile sunt cele raportate la sursă; câteva par incomplete (sume foarte mici).")
 
     with st.expander(f"Cumul de funcții ({len(guv.get('cumul') or [])} persoane)"):
-        st.dataframe(pd.DataFrame([{
+        tabel(pd.DataFrame([{
             "Persoană": c["nume"], "Companii": c["n_companii"],
             "Brut lunar total (lei)": c.get("brut_lunar_total_ron"),
             "Funcții": " · ".join(f"{x['rol']} — {x['companie']}" for x in c["functii"]),
@@ -213,7 +214,7 @@ if pick != "—":
             {"câmp": "Cifră de afaceri", "valoare": fmt_lei(ca) if pd.notna(ca) else "—"},
             {"câmp": "Profit net", "valoare": fmt_lei(pf) if pd.notna(pf) else "—"},
         ])
-        st.dataframe(info, use_container_width=True, hide_index=True)
+        tabel(info, use_container_width=True, hide_index=True)
 
     with dr:
         st.markdown("**Contracte și achiziții cu statul**")

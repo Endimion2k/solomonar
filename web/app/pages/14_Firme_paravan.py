@@ -18,14 +18,15 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Firme noi cu bani de stat · SOLOMONAR", page_icon="🚩",
+st.set_page_config(page_title="Firme noi cu bani de stat · SOLOMONAR",
                    layout="wide")
 apply_theme()
 sidebar_brand()
-page_header("🚩 Firme noi cu bani de stat",
+page_header("Firme noi cu bani de stat",
             "Firme înființate cu cel mult un an înainte de prima achiziție de la stat, "
             "care au câștigat contracte publice — canalul mare. Sunt lead-uri de verificat, "
             "nu acuzații.")
@@ -41,7 +42,7 @@ if df.empty:
 st.markdown(
     f"<div style='background:rgba(245,158,11,.10);border:1px solid {WARNING};"
     f"border-radius:12px;padding:14px 18px;margin-bottom:6px;font-size:13px;color:{TEXT_DIM}'>"
-    f"<b style='color:{WARNING}'>⚠ Citește înainte:</b> o firmă tânără care a câștigat un "
+    f"<b style='color:{WARNING}'>Citește înainte:</b> o firmă tânără care a câștigat un "
     f"contract cu statul <b>NU înseamnă automat o neregulă</b>. Multe sunt perfect legitime "
     f"(antreprenori noi, spin-off-uri, firme de proiect). Această listă este un set de "
     f"<b>lead-uri de verificat</b> — semnale de tip „paravan posibil” —, "
@@ -65,7 +66,7 @@ kpi_card(c1, "Firme noi cu contracte", fmt_int(len(core)),
          help="Înființate cu ≤1 an înainte de prima achiziție ȘI au contracte publice (canalul mare).")
 kpi_card(c2, "Județe acoperite", fmt_int(core["judet"].fillna("").replace("", float("nan")).nunique()))
 kpi_card(c3, "An mediu înființare",
-         fmt_int(round(core["an_infiintare"].dropna().mean())) if core["an_infiintare"].notna().any() else "—")
+         str(round(core["an_infiintare"].dropna().mean())) if core["an_infiintare"].notna().any() else "—")
 kpi_card(c4, "Cu firmă-mamă străină", fmt_int(int(core["mama_straina"].sum())))
 
 st.caption(
@@ -147,7 +148,7 @@ else:
     cols = ["nume", "cui", "forma_juridica", "an_infiintare", "judet", "caen_domeniu",
             "tara_mama", "canale"]
     show = show[cols].sort_values("an_infiintare", ascending=False, na_position="last").head(1000)
-    st.dataframe(
+    tabel(
         show, use_container_width=True, hide_index=True,
         column_config={
             "nume": st.column_config.TextColumn("Firmă", width="large"),

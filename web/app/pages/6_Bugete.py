@@ -13,11 +13,12 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING,
                        apply_theme, fmt_int, fmt_lei, kpi_card, page_header,
                        sidebar_brand)
 
-st.set_page_config(page_title="Bugete · SOLOMONAR", page_icon="💶", layout="wide")
+st.set_page_config(page_title="Bugete · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Bugete",
@@ -58,7 +59,7 @@ else:
     if sel_tip != "Toate":
         df = df[df["tip"] == sel_tip]
     if q.strip():
-        df = df[df["uat"].str.contains(q.strip(), case=False, na=False)]
+        df = df[df["uat"].str.contains(q.strip(), case=False, na=False, regex=False)]
 
     df = df.assign(sold_lei=df["venituri_lei"] - df["cheltuieli_lei"])
 
@@ -88,7 +89,7 @@ else:
         tbl = df[["uat", "judet", "tip", "an", "venituri_lei",
                   "cheltuieli_lei", "sold_lei"]].sort_values(
             "venituri_lei", ascending=False)
-        st.dataframe(
+        tabel(
             tbl, use_container_width=True, hide_index=True, height=440,
             column_config={
                 "uat": "UAT",
@@ -142,7 +143,7 @@ else:
     # tabel sintetic BGC
     show = g[["perioada", "an", "luna_nume", "venituri_mil_lei",
               "cheltuieli_mil_lei", "sold", "sold_pct_pib"]].iloc[::-1]
-    st.dataframe(
+    tabel(
         show, use_container_width=True, hide_index=True, height=300,
         column_config={
             "perioada": "Perioadă",
@@ -181,7 +182,7 @@ else:
                       margin=dict(l=40, r=20, t=20, b=90))
     st.plotly_chart(fig, use_container_width=True)
 
-    st.dataframe(
+    tabel(
         jc.sort_values("cifra_afaceri", ascending=False),
         use_container_width=True, hide_index=True, height=360,
         column_config={

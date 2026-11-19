@@ -21,10 +21,11 @@ def _norm_judet(s: str) -> str:
     s = unicodedata.normalize("NFKD", str(s or ""))
     s = "".join(c for c in s if not unicodedata.combining(c))
     return re.sub(r"[\s\-]+", " ", s.strip().upper())
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Harta · SOLOMONAR", page_icon="🗺️", layout="wide")
+st.set_page_config(page_title="Harta · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 
@@ -82,16 +83,16 @@ if geojson and geojson.get("features"):
     mdf = df.dropna(subset=[metric_col]).copy()
     mdf["_key"] = mdf["judet"].apply(_norm_judet)
     mdf["_lbl"] = mdf["judet"].astype(str)
-    figm = go.Figure(go.Choroplethmapbox(
+    figm = go.Figure(go.Choroplethmap(
         geojson=geojson, locations=mdf["_key"], featureidkey="properties.judet",
         z=mdf[metric_col], colorscale="Plasma",
-        marker_line_color="#0b0d12", marker_line_width=0.5, marker_opacity=0.85,
+        marker_line_color="#0f1420", marker_line_width=0.5, marker_opacity=0.85,
         text=mdf["_lbl"], hovertemplate="%{text}<br>%{z:,.0f}<extra></extra>",
         colorbar=dict(thickness=12),
     ))
     figm.update_layout(
-        mapbox_style="carto-darkmatter", mapbox_zoom=5.1,
-        mapbox_center={"lat": 45.9, "lon": 25.0},
+        map_style="carto-darkmatter", map_zoom=5.1,
+        map_center={"lat": 45.9, "lon": 25.0},
         height=520, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)")
     st.plotly_chart(figm, use_container_width=True)
     st.caption("Culoarea = intensitatea metricii alese pe județ. Treci cu mouse-ul pentru valori.")
@@ -135,7 +136,7 @@ if not sc.empty:
         text=sc["judet"], textposition="top center",
         textfont=dict(size=9, color=TEXT_DIM),
         marker=dict(size=11, color=ACCENT_2, opacity=0.8,
-                    line=dict(width=1, color="#0b0d12")),
+                    line=dict(width=1, color="#0f1420")),
         hovertemplate="%{text}<br>companii: %{x}<br>angajați: %{y:,.0f}<extra></extra>",
     ))
     fig2.update_layout(height=460, xaxis_title="număr companii",
@@ -159,5 +160,5 @@ col_cfg = {
 if "cifra_afaceri" in table.columns:
     col_cfg["cifra_afaceri"] = st.column_config.NumberColumn("Cifra afaceri (lei)", format="%.0f")
 
-st.dataframe(table, use_container_width=True, hide_index=True, column_config=col_cfg)
+tabel(table, use_container_width=True, hide_index=True, column_config=col_cfg)
 st.caption(f"{len(table)} județe afișate · sursă: stratul gold DuckDB (`analytics/sumar_judet`).")

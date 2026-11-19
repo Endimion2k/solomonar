@@ -18,10 +18,10 @@ from app import data
 from app.theme import (DANGER, WARNING, apply_theme, fmt_int, fmt_lei, kpi_card,
                        page_header, sidebar_brand)
 
-st.set_page_config(page_title="Red-flags · SOLOMONAR", page_icon="🚩", layout="wide")
+st.set_page_config(page_title="Red-flags · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
-page_header("🚩 Red-flags achiziții",
+page_header("Red-flags achiziții",
             "Indicatori de risc din datele per-linie SICAP: contracte cu o singură ofertă (single-bid) "
             "și atribuiri directe repetate (fragmentare). Metodologie OCDS — lead-uri de verificat.")
 
@@ -36,7 +36,7 @@ fr = rf.get("fragmentare") or {}
 sb_items = sb.get("items") or []
 fr_items = fr.get("items") or []
 
-st.warning(rf.get("disclaimer", ""), icon="⚠️")
+st.warning(rf.get("disclaimer", ""))
 
 c1, c2, c3, c4 = st.columns(4)
 kpi_card(c1, "Contracte single-bid", fmt_int(sb.get("total", len(sb_items))),
@@ -66,9 +66,9 @@ def _grid(df, page=20, height=520, numeric_cols=()):
 pr = rf.get("procedura_necompetitiva") or {}
 pr_items = pr.get("items") or []
 tab_sb, tab_pr, tab_fr = st.tabs([
-    "🅰 Single-bid (o singură ofertă)",
-    "🅱 Procedură necompetitivă",
-    "🧩 Fragmentare (atribuiri directe repetate)"])
+    "Single-bid (o singură ofertă)",
+    "Procedură necompetitivă",
+    "Fragmentare (atribuiri directe repetate)"])
 
 with tab_sb:
     st.caption(sb.get("nota", ""))

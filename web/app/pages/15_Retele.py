@@ -16,13 +16,14 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data, ui
+from app.theme import tabel
 from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Rețele & inele · SOLOMONAR", page_icon="🕸️", layout="wide")
+st.set_page_config(page_title="Rețele & inele · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
-page_header("🕸️ Rețele & inele",
+page_header("Rețele & inele",
             "Firme legate prin ADMINISTRATORI COMUNI (date reale ONRC) — grupuri de control, "
             "administratori-hub și firme-pod. Calcul de graf cu igraph.")
 
@@ -36,7 +37,7 @@ inele = net.get("inele", [])
 huburi = net.get("huburi", [])
 poduri = net.get("poduri", [])
 
-st.warning(net.get("disclaimer", ""), icon="⚠️")
+st.warning(net.get("disclaimer", ""))
 
 # ---------------- KPI ----------------
 c1, c2, c3, c4 = st.columns(4)
@@ -50,7 +51,7 @@ kpi_card(c4, "Firme-pod (intermediari)", fmt_int(len(poduri)))
 st.divider()
 
 tab_inele, tab_hub, tab_pod = st.tabs(
-    ["🔗 Inele de control", "👤 Administratori-hub", "🌉 Firme-pod"])
+    ["Inele de control", "Administratori-hub", "Firme-pod"])
 
 # ============================ INELE ============================
 with tab_inele:
@@ -82,15 +83,15 @@ with tab_inele:
                 f"{fmt_lei(r['total_bani_stat_ron'])}  —  {admini}")
         with st.expander(head):
             cdf = pd.DataFrame(r["companii"])
-            cdf["bani"] = cdf["bani_stat"].map(lambda b: "💰" if b else "")
-            st.dataframe(
+            cdf["bani"] = cdf["bani_stat"].map(lambda b: "da" if b else "")
+            tabel(
                 cdf[["nume", "cui", "total_ron", "bani"]],
                 use_container_width=True, hide_index=True,
                 column_config={
                     "nume": st.column_config.TextColumn("Firmă", width="large"),
                     "cui": st.column_config.NumberColumn("CUI", format="%d"),
                     "total_ron": st.column_config.NumberColumn("Bani de la stat (lei)", format="%.0f"),
-                    "bani": st.column_config.TextColumn(" ", width="small"),
+                    "bani": st.column_config.TextColumn("Bani de la stat", width="small"),
                 })
             if r.get("n_admini", 0) > len(r.get("admini", [])):
                 st.caption(f"Administratori comuni: {admini} (+{r['n_admini'] - len(r['admini'])} alții)")
@@ -104,7 +105,7 @@ with tab_inele:
 
     # ---- graf interactiv al unui inel (administratori <-> firme) ----
     st.divider()
-    st.markdown("##### 🕸️ Graf interactiv (administratori ↔ firme)")
+    st.markdown("##### Graf interactiv (administratori ↔ firme)")
     if flt:
         ropts = {f"{', '.join(a.title() for a in r['admini'][:2])} · {r['n_companii']} firme · "
                  f"{fmt_lei(r['total_bani_stat_ron'])}": i for i, r in enumerate(flt[:40])}
@@ -121,8 +122,8 @@ with tab_inele:
                     nodes.append({"data": {"id": aid_of[adm], "label": "ADMIN", "name": adm.title()}})
                 edges.append({"data": {"id": f"{aid_of[adm]}_{cid}", "source": aid_of[adm],
                                        "target": cid, "label": "admin"}})
-        node_styles = [NodeStyle("FIRMA", "#8b5cf6", "name", "business"),
-                       NodeStyle("ADMIN", "#22d3ee", "name", "person")]
+        node_styles = [NodeStyle("FIRMA", "#818cf8", "name", "business"),
+                       NodeStyle("ADMIN", "#5eead4", "name", "person")]
         edge_styles = [EdgeStyle("admin", caption="label", directed=True)]
         st_link_analysis({"nodes": nodes, "edges": edges}, "cose",
                          node_styles, edge_styles, key="ring_net")
@@ -132,7 +133,7 @@ with tab_inele:
 # ============================ HUBURI ============================
 with tab_hub:
     st.markdown("#### Administratori care controlează cele mai multe firme cu bani de stat")
-    st.caption("⚠️ Numele se potrivesc pe text — nume comune (ex. „Pop Ioan”) pot reuni mai multe "
+    st.caption("Numele se potrivesc pe text — nume comune (ex. „Pop Ioan”) pot reuni mai multe "
                "persoane diferite (omonimi). Tratează ca lead, verifică în ONRC după CNP.")
     hdf = pd.DataFrame([{
         "Administrator": h["admin"].title(),
@@ -140,7 +141,7 @@ with tab_hub:
         "Firme cu bani de stat": h["n_firme_bani_stat"],
         "Total de la stat (lei)": h["total_bani_stat_ron"],
     } for h in huburi])
-    st.dataframe(
+    tabel(
         hdf, use_container_width=True, hide_index=True, height=460,
         column_config={
             "Firme (total)": st.column_config.NumberColumn(format="%d"),
@@ -153,7 +154,7 @@ with tab_hub:
                            [h["admin"].title() for h in huburi])
         h = next(x for x in huburi if x["admin"].title() == sel)
         fdf = pd.DataFrame(h["companii"])
-        st.dataframe(
+        tabel(
             fdf[["nume", "cui", "total_ron"]], use_container_width=True, hide_index=True,
             column_config={
                 "nume": st.column_config.TextColumn("Firmă", width="large"),
@@ -173,7 +174,7 @@ with tab_pod:
         "Conexiuni (grad)": b["grad"],
         "Bani de la stat (lei)": b["total_bani_stat_ron"],
     } for b in poduri])
-    st.dataframe(
+    tabel(
         pdf, use_container_width=True, hide_index=True, height=460,
         column_config={
             "CUI": st.column_config.NumberColumn(format="%d"),

@@ -11,10 +11,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Achiziții · SOLOMONAR", page_icon="📑", layout="wide")
+st.set_page_config(page_title="Achiziții · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Achiziții publice — firme câștigătoare",
@@ -32,9 +33,11 @@ total_lei = float(df["total_ron"].fillna(0).sum())
 total_contracte = int(df["nr_contracte"].fillna(0).sum())
 c1, c2, c3, c4 = st.columns(4)
 kpi_card(c1, "Firme câștigătoare", fmt_int(len(df)))
-kpi_card(c2, "Valoare totală contracte", fmt_lei(total_lei))
+kpi_card(c2, "Valoare brută contracte", fmt_lei(total_lei),
+         help="Valoarea fiecărui contract e numărată la fiecare ofertant, deci totalul e de câteva "
+              "ori peste suma reală. Folosește-l doar pentru comparații între firme.")
 kpi_card(c3, "Număr total contracte", fmt_int(total_contracte))
-kpi_card(c4, "Contract mediu / firmă", fmt_lei(total_lei / len(df)) if len(df) else "—")
+kpi_card(c4, "Valoare brută medie / firmă", fmt_lei(total_lei / len(df)) if len(df) else "—")
 
 st.divider()
 
@@ -79,7 +82,7 @@ else:
     show = view[["nume", "cui", "total_ron", "nr_contracte"]].head(500).copy()
     show["ani"] = view["ani"].head(500).apply(
         lambda a: ", ".join(str(x) for x in sorted(a)) if isinstance(a, list) else "")
-    st.dataframe(
+    tabel(
         show, use_container_width=True, hide_index=True,
         column_config={
             "nume": st.column_config.TextColumn("Firmă", width="large"),

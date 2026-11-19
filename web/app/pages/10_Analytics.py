@@ -12,10 +12,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, WARNING, TEXT_DIM, CONF_COLORS,
                        apply_theme, fmt_int, fmt_lei, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Analytics · SOLOMONAR", page_icon="📊", layout="wide")
+st.set_page_config(page_title="Analytics · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 
@@ -71,7 +72,7 @@ else:
                           margin=dict(l=10, r=20, t=10, b=40))
         st.plotly_chart(fig, use_container_width=True)
 
-    st.dataframe(
+    tabel(
         sec, use_container_width=True, hide_index=True,
         column_config={
             "sector": st.column_config.TextColumn("Sector"),
@@ -119,7 +120,7 @@ else:
                           xaxis_title=pick, margin=dict(l=10, r=20, t=10, b=40))
         st.plotly_chart(fig, use_container_width=True)
 
-    st.dataframe(
+    tabel(
         tut.sort_values("n_companii", ascending=False),
         use_container_width=True, hide_index=True,
         column_config={
@@ -172,7 +173,7 @@ else:
         st.caption("Culoarea = nivelul de încredere al asocierii persoană↔firmă "
                    "(verde=high, cyan=context, gri=candidat).")
 
-    st.dataframe(
+    tabel(
         view.sort_values("contracte_firme", ascending=False),
         use_container_width=True, hide_index=True,
         column_config={
@@ -234,7 +235,7 @@ else:
                               margin=dict(l=10, r=20, t=10, b=40))
             st.plotly_chart(fig, use_container_width=True)
 
-    st.dataframe(
+    tabel(
         par.drop(columns=["cap_num"]).sort_values("procent_stat", ascending=False),
         use_container_width=True, hide_index=True,
         column_config={

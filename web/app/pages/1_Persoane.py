@@ -16,19 +16,20 @@ for _a in _pl.Path(__file__).resolve().parents:
 
 from app import data, ui
 from app.dossier import persoana_docx
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,
                        fmt_int, fmt_lei, kpi_card, page_header, party_color,
                        sidebar_brand)
 
-st.set_page_config(page_title="Persoane · SOLOMONAR", page_icon="📋", layout="wide")
+st.set_page_config(page_title="Persoane · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Persoane",
-            "Caută în cele 56.296 de persoane din graf: parlamentari, administratori de "
+            "Caută printre persoanele din graf: parlamentari, administratori de "
             "companii, declaranți de avere. Filtrează și deschide fișa individuală.")
 
 # ---- nivel de încredere: etichete lizibile ----
-CONF_LABEL = {"high": "🟢 High", "context": "🔵 Context", "candidat": "⚪ Candidat"}
+CONF_LABEL = {"high": "Confirmată", "context": "Cu context", "candidat": "Candidat"}
 CONF_DESC = {
     "high": "legătură puternic confirmată (mandat parlamentar / sursă oficială)",
     "context": "legătură susținută de context (instituție, declarații)",
@@ -134,12 +135,12 @@ st.caption(f"**{fmt_int(len(f))}** persoane găsite "
 
 view = f.head(1000).copy()
 view["încredere"] = view["incredere"].map(CONF_LABEL).fillna(view["incredere"])
-view["are_cv"] = view["are_cv"].map({True: "✓", False: ""})
+view["are_cv"] = view["are_cv"].map({True: "da", False: ""})
 show = view[["nume", "încredere", "camera", "partid", "judet",
              "n_declaratii", "n_companii", "contracte_ron",
              "comisii", "plx_initiate", "are_cv"]]
 
-st.dataframe(
+tabel(
     show, use_container_width=True, hide_index=True, height=420,
     column_config={
         "nume": st.column_config.TextColumn("Nume", width="medium"),
@@ -183,7 +184,7 @@ def _search_all_persoane(term: str):
 
 
 picked = st_searchbox(_search_all_persoane, key="pers_global_search",
-                      placeholder="🔍 Caută orice persoană din cele 102.452 (după nume)…")
+                      placeholder="Caută o persoană după nume")
 
 if picked:
     sel_id = picked
@@ -240,12 +241,12 @@ if numiri_oficiale:
     st.markdown("##### Numiri oficiale în conducerea companiilor de stat")
     if all(n.get("potrivire") == "candidat" for n in numiri_oficiale):
         st.warning("Legătură doar pe nume: în graf există un singur om cu acest nume, dar numirea nu e "
-                   "confirmată pe aceeași companie — poate fi o altă persoană (omonimie).", icon="⚠️")
+                   "confirmată pe aceeași companie — poate fi o altă persoană (omonimie).")
     ui.guvernanta_numiri(numiri_oficiale, key="guv_pers")
     st.caption(f"Sursă: {ui.GUV_SURSA}. Remunerația = brut lunar declarat.")
 
 st.download_button(
-    "📄 Descarcă dosar (DOCX)", data=persoana_docx(p),
+    "Descarcă dosar (DOCX)", data=persoana_docx(p),
     file_name=f"dosar_{(nume or 'persoana').replace(' ', '_')}.docx",
     mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
     help="Dosar complet (declarații, companii, contracte, conflicte, CV). "
@@ -300,7 +301,7 @@ with left:
         for c in ("tip", "institutie", "venituri_ron"):
             if c not in ddf.columns:
                 ddf[c] = None
-        st.dataframe(
+        tabel(
             ddf[["tip", "institutie", "venituri_ron"]],
             use_container_width=True, hide_index=True,
             column_config={
@@ -328,7 +329,7 @@ with right:
                 "nr_contracte": cs.get("nr"),
             })
         cdf = pd.DataFrame(rows).sort_values("contracte_lei", ascending=False, na_position="last")
-        st.dataframe(
+        tabel(
             cdf, use_container_width=True, hide_index=True,
             column_config={
                 "firmă": st.column_config.TextColumn("Firmă", width="medium"),
@@ -354,12 +355,12 @@ if firme_cu_cui:
 # --- conflicte confirmate: firme din propria declarație de interese cu contracte de stat ---
 fa = p.get("firme_contracte_autodeclarate") or []
 if fa:
-    st.markdown("##### ⚠️ Firme autodeclarate cu contracte de stat")
+    st.markdown("##### Firme autodeclarate cu contracte de stat")
     st.caption("Firme menționate chiar în declarația de interese a persoanei și care au "
                "câștigat contracte publice — legătură defensabilă (nu doar potrivire pe nume).")
     fadf = pd.DataFrame(fa).sort_values("total_ron", ascending=False, na_position="last")
     keep = [c for c in ("cui", "nume", "total_ron") if c in fadf.columns]
-    st.dataframe(
+    tabel(
         fadf[keep], use_container_width=True, hide_index=True,
         column_config={
             "cui": st.column_config.TextColumn("CUI"),

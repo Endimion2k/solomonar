@@ -128,7 +128,7 @@ def persoana_docx(p: dict, generat: str = "") -> bytes:
     # ---- conflicte autodeclarate ----
     fa = p.get("firme_contracte_autodeclarate") or []
     if fa:
-        _heading(doc, "⚠ Firme autodeclarate cu contracte de stat (conflict documentat)")
+        _heading(doc, "Firme autodeclarate cu contracte de stat (conflict documentat)")
         rows = [(f.get("nume") or "—", str(f.get("cui") or "—"),
                  _lei(f.get("total_ron")) if f.get("total_ron") else "—") for f in fa[:20]]
         _table(doc, ["Firmă", "CUI", "Contracte"], rows, widths=[8, 3.5, 4.5])

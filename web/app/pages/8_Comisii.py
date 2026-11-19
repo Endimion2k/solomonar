@@ -18,10 +18,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Comisii & Legislativ · SOLOMONAR", page_icon="🏛️", layout="wide")
+st.set_page_config(page_title="Comisii & Legislativ · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 
@@ -31,23 +32,23 @@ page_header("Comisii & Legislativ",
 
 # etichete + ordinea de afișare a tipurilor de documente la dosarul unui PLx
 DOC_LABEL = {
-    "forma_initiator": "📜 Forma inițiatorului", "expunere_motive": "📝 Expunere de motive",
-    "aviz_consiliu_legislativ": "⚖️ Aviz Consiliul Legislativ", "punct_vedere_guvern": "🏛️ Punct de vedere Guvern",
-    "sesizare": "✉️ Sesizare", "aviz_comisie": "✅ Aviz comisie", "raport": "📄 Raport",
-    "raport_suplimentar": "📄 Raport suplimentar", "aviz_csm": "⚖️ Aviz CSM", "alt": "📎 Alt document"}
+    "forma_initiator": "Forma inițiatorului", "expunere_motive": "Expunere de motive",
+    "aviz_consiliu_legislativ": "Aviz Consiliul Legislativ", "punct_vedere_guvern": "Punct de vedere Guvern",
+    "sesizare": "Sesizare", "aviz_comisie": "Aviz comisie", "raport": "Raport",
+    "raport_suplimentar": "Raport suplimentar", "aviz_csm": "Aviz CSM", "alt": "Alt document"}
 DOC_ORDER = ["forma_initiator", "expunere_motive", "aviz_consiliu_legislativ", "punct_vedere_guvern",
              "sesizare", "aviz_comisie", "raport", "raport_suplimentar", "aviz_csm", "alt"]
-DOC_LABEL.update({"aviz_ces": "🤝 Aviz CES", "ordonanta": "📜 Ordonanță (text)"})
+DOC_LABEL.update({"aviz_ces": "Aviz CES", "ordonanta": "Ordonanță (text)"})
 DOC_ORDER.insert(DOC_ORDER.index("sesizare"), "aviz_ces")
 DOC_ORDER.insert(DOC_ORDER.index("alt"), "ordonanta")
-VERDICT_LABEL = {"favorabil": "🟢 favorabil", "negativ": "🔴 negativ",
-                 "adoptare": "🟢 adoptare", "respingere": "🔴 respingere",
-                 "sustine": "🟢 susține", "nu_sustine": "🔴 nu susține",
-                 "latitudine": "⚪ la latitudinea Parlamentului"}
+VERDICT_LABEL = {"favorabil": "favorabil", "negativ": "negativ",
+                 "adoptare": "adoptare", "respingere": "respingere",
+                 "sustine": "susține", "nu_sustine": "nu susține",
+                 "latitudine": "la latitudinea Parlamentului"}
 
 
 def _fmt_verdict(v: dict | None) -> str:
-    """„🟢 favorabil · cu amendamente · unanimitate” din verdictul extras dintr-un aviz/raport/punct de vedere."""
+    """„favorabil · cu amendamente · unanimitate” din verdictul extras dintr-un aviz/raport/punct de vedere."""
     if not v:
         return ""
     bits = [VERDICT_LABEL.get(v.get("verdict"), v.get("verdict", ""))]
@@ -101,7 +102,7 @@ def _render_activitate() -> None:
     st.caption("„Acte de bază” = documentele fundamentale ale proiectului (forma inițiatorului, expunere "
                "de motive, aviz Consiliul Legislativ, punct de vedere Guvern), nu rapoartele comisiei.")
 
-    sub_sed, sub_plx = st.tabs(["🗓️ Ședințe (cronologic)", "📜 PLx discutate + acte de bază"])
+    sub_sed, sub_plx = st.tabs(["Ședințe (cronologic)", "PLx discutate + acte de bază"])
 
     with sub_sed:
         cf1, cf2 = st.columns([2, 1])
@@ -119,7 +120,7 @@ def _render_activitate() -> None:
             head = f"{s['data']} · {s['comisie']} · {s.get('n_plx', 0)} PLx"
             with st.expander(head):
                 if s.get("agenda_url"):
-                    st.markdown(f"📄 [Ordinea de zi (PDF)]({s['agenda_url']})")
+                    st.markdown(f"[Ordinea de zi (PDF)]({s['agenda_url']})")
                 if not s.get("plx"):
                     st.caption("Agenda nu listează PLx (sau nu a putut fi parsată).")
                 for p in s.get("plx", []):
@@ -145,7 +146,7 @@ def _render_activitate() -> None:
                 "Documente": p.get("n_documente", 0),
                 "Link": p.get("url"),
             } for p in plx]
-            st.dataframe(
+            tabel(
                 pd.DataFrame(rows), use_container_width=True, hide_index=True, height=520,
                 column_config={
                     "PLx / titlu": st.column_config.TextColumn(width="medium"),
@@ -194,7 +195,7 @@ def _render_senat() -> None:
             col_t, col_g = st.columns([3, 2])
             with col_t:
                 show = mdf[["nume", "rol"]].rename(columns={"nume": "membru", "rol": "rol"})
-                st.dataframe(show, use_container_width=True, hide_index=True,
+                tabel(show, use_container_width=True, hide_index=True,
                              column_config={"membru": st.column_config.TextColumn(width="large")})
             with col_g:
                 rol_cnt = mdf["rol"].value_counts().reset_index()
@@ -317,7 +318,7 @@ def _render_legislativ() -> None:
         columns={"idp": "id PLx", "titlu": "titlu", "tip": "sursă", "n_initiatori": "nr. inițiatori",
                  "nr_docs": "documente", "avize": "avize comisii", "guvern_pv": "Guvernul", "cdep": "pagina",
                  }).sort_values("nr. inițiatori", ascending=False)
-    st.dataframe(
+    tabel(
         show.head(1000), use_container_width=True, hide_index=True,
         column_config={
             "id PLx": st.column_config.TextColumn(width="small"),
@@ -386,9 +387,9 @@ def _render_legislativ() -> None:
 
 
 tab_act, tab_sen, tab_leg = st.tabs([
-    "🗓️ Activitate recentă (Camera)",
-    "🏛️ Comisiile Senatului",
-    "📜 Inițiative legislative (PLx)"])
+    "Activitate recentă (Camera)",
+    "Comisiile Senatului",
+    "Inițiative legislative (PLx)"])
 with tab_act:
     _render_activitate()
 with tab_sen:

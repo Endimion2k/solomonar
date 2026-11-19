@@ -5,11 +5,12 @@ from __future__ import annotations
 import streamlit as st
 
 from app import data
+from app.theme import tabel
 from app.theme import fmt_int, fmt_lei
 
 
 def firma_bani_stat(cui, *, use_columns: bool = True,
-                    titlu: str = "💰 Bani de la stat (agregat per firmă)") -> bool:
+                    titlu: str = "Bani de la stat (agregat per firmă)") -> bool:
     """Panou agregat (contracte licitații + achiziții directe) pentru o firmă, după CUI.
 
     Datele sunt agregate per firmă (total, număr, ani, top autorități) — nu contract-cu-contract.
@@ -80,15 +81,15 @@ def guvernanta_numiri(numiri: list, *, cu_companie: bool = True, key: str = "guv
         "Afiliere politică": n.get("partid") or "nedeclarat",
         "Brut lunar (lei)": n.get("brut_lunar_ron"),
         "Mandat până la": n.get("mandat_pana_la") or "—",
-        "În graf": {"confirmat": "✓ confirmat", "candidat": "? omonim posibil"}.get(n.get("potrivire"), "—"),
+        "În graf": {"confirmat": "confirmat", "candidat": "? omonim posibil"}.get(n.get("potrivire"), "—"),
         "CV oficial": n.get("cv_url"),
     } for n in numiri]
-    st.dataframe(
+    tabel(
         pd.DataFrame(rows), use_container_width=True, hide_index=True, key=key,
         column_config={
             "Brut lunar (lei)": st.column_config.NumberColumn(format="%d"),
             "CV oficial": st.column_config.LinkColumn("CV oficial", display_text="PDF"),
             "În graf": st.column_config.TextColumn(
-                help="✓ = același nume și aceeași companie în graful SOLOMONAR; "
+                help="= același nume și aceeași companie în graful SOLOMONAR; "
                      "? = un singur om cu acest nume în graf, fără confirmare pe companie"),
         })

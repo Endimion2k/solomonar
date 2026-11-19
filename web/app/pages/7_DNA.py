@@ -16,10 +16,11 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
+from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, DANGER, TEXT_DIM, WARNING, apply_theme,
                        fmt_int, kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="DNA · SOLOMONAR", page_icon="⚖️", layout="wide")
+st.set_page_config(page_title="DNA · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 
@@ -31,7 +32,6 @@ st.warning(
     "**Prezumția de nevinovăție.** Comunicatele DNA se referă la trimiteri în judecată, "
     "rechizitorii și măsuri procesuale — **nu** la condamnări definitive. Orice persoană "
     "menționată este nevinovată până la o hotărâre judecătorească definitivă.",
-    icon="⚖️",
 )
 
 df = data.dna_df()
@@ -111,7 +111,7 @@ else:
         "an_afis": "an", "data": "dată", "nr": "nr.", "titlu_scurt": "titlu",
         "nume_join": "nume extrase", "url": "sursă",
     })
-    st.dataframe(
+    tabel(
         show.head(1000), use_container_width=True, hide_index=True,
         column_config={
             "an": st.column_config.TextColumn(width="small"),

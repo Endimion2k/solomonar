@@ -16,7 +16,7 @@ from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
-st.set_page_config(page_title="Achiziții directe · SOLOMONAR", page_icon="🧾", layout="wide")
+st.set_page_config(page_title="Achiziții directe · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 meta = data.achizitii_directe_meta()
@@ -109,6 +109,6 @@ if not f.empty:
         st.info("Această firmă apare și în registrul companiilor SOLOMONAR (administratori cunoscuți) — "
                 "vezi pagina Companii / Persoane pentru cine o conduce.")
 
-st.caption("⚠️ Achizițiile directe sunt cumpărări legale sub pragul de licitație. Volumul mare la un "
+st.caption("Achizițiile directe sunt cumpărări legale sub pragul de licitație. Volumul mare la un "
            "furnizor NU implică nereguli — este context pentru analize (concentrare, dependență de un "
            "client public, fragmentare suspectă a achizițiilor).")
