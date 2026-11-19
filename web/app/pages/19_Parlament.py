@@ -49,6 +49,32 @@ def bare_partide(df: pd.DataFrame, coloana: str) -> None:
     st.plotly_chart(fig, width="stretch")
 
 
+CAM_DEPUTATI = 2          # codul Camerei Deputaților în linkurile cdep.ro (1 = Senat)
+
+
+@st.cache_data(show_spinner=False)
+def partide_pe_idm(leg: int) -> dict:
+    """idm deputat -> sigla partidului, pentru legislatura curentă (singura cu listă publicată)."""
+    dep = data.deputati_df()
+    if dep.empty or "legislatura" not in dep.columns:
+        return {}
+    dep = dep[dep["legislatura"] == leg]
+    return dict(zip(dep["cdep_idm"], dep["current_party"].map(partid_scurt)))
+
+
+def clasament_semnatari(motiuni: pd.DataFrame, partide: dict) -> pd.DataFrame:
+    """Câte moțiuni a semnat fiecare parlamentar într-o legislatură (total și de cenzură)."""
+    rows = [{"cam": s.get("cam"), "idm": s["idm"], "nume": s["nume"], "cenzura": m["tip"] == "cenzura"}
+            for _, m in motiuni.iterrows() if isinstance(m["semnatari"], list) for s in m["semnatari"]]
+    if not rows:
+        return pd.DataFrame()
+    d = pd.DataFrame(rows)
+    out = d.groupby(["cam", "idm", "nume"], as_index=False, dropna=False).agg(
+        motiuni=("cenzura", "size"), cenzura=("cenzura", "sum"))
+    out["partid"] = [partide.get(i, "—") if c == CAM_DEPUTATI else "senator" for i, c in zip(out["idm"], out["cam"])]
+    return out.sort_values(["motiuni", "nume"], ascending=[False, True])[["nume", "partid", "motiuni", "cenzura"]]
+
+
 tab_motiuni, tab_deputati, tab_senatori = st.tabs(["Moțiuni", "Deputați", "Senatori"])
 
 # ============================================================ MOȚIUNI
@@ -94,7 +120,8 @@ with tab_motiuni:
         st.caption(f"{fmt_int(len(vedere))} moțiuni din {fmt_int(len(mot))}.")
         tabel(
             vedere.sort_values("data_iso", ascending=False, na_position="last")[
-                ["data", "titlu", "tip_text", "leg", "rezultat", "voturi_pentru", "voturi_contra", "url", "pdf_url"]],
+                ["data", "titlu", "tip_text", "leg", "rezultat", "voturi_pentru", "voturi_contra",
+                 "nr_semnatari", "url", "pdf_url"]],
             use_container_width=True, hide_index=True,
             column_config={
                 "data": st.column_config.TextColumn("Data"),
@@ -104,12 +131,69 @@ with tab_motiuni:
                 "rezultat": st.column_config.TextColumn("Rezultat"),
                 "voturi_pentru": st.column_config.NumberColumn("Pentru", format="%d"),
                 "voturi_contra": st.column_config.NumberColumn("Contra", format="%d"),
+                "nr_semnatari": st.column_config.NumberColumn("Semnatari", format="%d"),
                 "url": st.column_config.LinkColumn("Pagina", display_text="cdep.ro"),
                 "pdf_url": st.column_config.LinkColumn("Text", display_text="PDF"),
             },
         )
         st.caption("Sursă: cdep.ro. „Dezbatere” înseamnă că evidența nu consemnează un vot final; "
                    "voturile lipsesc la moțiunile vechi.")
+
+        # ---------------- detaliul unei moțiuni: semnatari + text
+        st.markdown("#### O moțiune în detaliu")
+        ordonate = vedere.sort_values("data_iso", ascending=False, na_position="last")
+        if ordonate.empty:
+            st.caption("Nicio moțiune nu se potrivește filtrelor de mai sus.")
+        else:
+            aleasa = st.selectbox(
+                "Moțiune", ordonate.index,
+                format_func=lambda i: f"{ordonate.at[i, 'data'] or 'fără dată'} — {ordonate.at[i, 'titlu'][:110]}",
+                key="mot_detaliu")
+            m = ordonate.loc[aleasa]
+            semnatari = pd.DataFrame(m["semnatari"] if isinstance(m["semnatari"], list) else [])
+            k1, k2, k3 = st.columns(3)
+            kpi_card(k1, "Rezultat", m["rezultat"] or "—")
+            kpi_card(k2, "Semnatari", fmt_int(len(semnatari)))
+            kpi_card(k3, "Voturi pentru / contra",
+                     f"{fmt_int(m['voturi_pentru']) if pd.notna(m['voturi_pentru']) else '—'} / "
+                     f"{fmt_int(m['voturi_contra']) if pd.notna(m['voturi_contra']) else '—'}")
+            if isinstance(m.get("initiatori"), str) and m["initiatori"].strip():
+                st.caption(f"Inițiată de: {m['initiatori']}")
+            if not semnatari.empty:
+                partide = partide_pe_idm(int(m["leg"]))
+                # identificatorii senatorilor (cam=1) sunt din altă evidență decât ai deputaților
+                semnatari["partid"] = [partide.get(i, "necunoscut") if c == CAM_DEPUTATI else "senator"
+                                       for i, c in zip(semnatari["idm"], semnatari["cam"])]
+                if partide:
+                    bare_partide(semnatari, "partid")
+                tabel(semnatari.sort_values(["partid", "nume"])[["nume", "partid"]],
+                      use_container_width=True, hide_index=True, height=320,
+                      column_config={"nume": st.column_config.TextColumn("Semnatar"),
+                                     "partid": st.column_config.TextColumn("Partid")})
+                if not partide:
+                    st.caption("Partidul e disponibil doar pentru legislatura curentă.")
+            text = data.motiune_text(int(m["idm"]), int(m["leg"]), int(m["cam"]))
+            if text.get("text"):
+                with st.expander(f"Textul moțiunii ({fmt_int(text.get('pagini'))} pagini)"):
+                    st.caption("Text citit automat din documentul scanat; poate conține erori de recunoaștere."
+                               + (" Doar primele pagini au fost citite." if text.get("trunchiat") else ""))
+                    st.text(text["text"])
+
+        # ---------------- cine semnează cel mai des
+        st.markdown("#### Cine semnează cel mai des")
+        leg_clasament = st.selectbox("Legislatura", sorted(mot["leg"].dropna().unique(), reverse=True),
+                                     key="mot_clasament")
+        clasament = clasament_semnatari(mot[mot["leg"] == leg_clasament], partide_pe_idm(int(leg_clasament)))
+        if clasament.empty:
+            st.caption("Nu există semnatari înregistrați pentru această legislatură.")
+        else:
+            st.caption(f"{fmt_int(len(clasament))} parlamentari au semnat cel puțin o moțiune din cele "
+                       f"{fmt_int((mot['leg'] == leg_clasament).sum())} ale legislaturii.")
+            tabel(clasament.head(50), use_container_width=True, hide_index=True,
+                  column_config={"nume": st.column_config.TextColumn("Parlamentar"),
+                                 "partid": st.column_config.TextColumn("Partid"),
+                                 "motiuni": st.column_config.NumberColumn("Moțiuni semnate", format="%d"),
+                                 "cenzura": st.column_config.NumberColumn("din care de cenzură", format="%d")})
 
 # ============================================================ DEPUTAȚI
 with tab_deputati:

@@ -61,6 +61,41 @@ _JS_FRAGMENT = re.compile(
     r"europass\.cedefop|^Pagina \d+\s*/\s*\d+$")
 
 
+AN_HELP = ("Anul declarației: din data completării, dacă documentul a putut fi citit; altfel din "
+           "numele sau din calea fișierului publicat, deci aproximativ.")
+TIP_PARTICIPATIE = {"interese_1": "asociat sau acționar", "interese_2": "organe de conducere",
+                    "avere_IV2": "plasament"}
+
+
+def _cu_an(declaratii: list) -> pd.DataFrame:
+    """Declarațiile ca tabel, cele mai recente primele; `an` există chiar dacă lipsește din date."""
+    d = pd.DataFrame(declaratii)
+    if "an" not in d.columns:
+        d["an"] = None
+    return d.sort_values("an", ascending=False, na_position="last")
+
+
+def _roluri(interese: list) -> pd.DataFrame:
+    """Calitățile din declarațiile de interese, o linie per (calitate, entitate), cu anii în care apar."""
+    ani: dict = {}
+    for d in interese:
+        for r in d.get("roluri") or []:
+            ani.setdefault((r["sectiune"], r["rol"], r["entitate"]), set()).add(d.get("an"))
+    rows = [{"rol": rol, "entitate": ent,
+             "ani": ", ".join(str(a) for a in sorted(x for x in gasiti if x)) or "—"}
+            for (_, rol, ent), gasiti in sorted(ani.items())]
+    return pd.DataFrame(rows)
+
+
+def _participatii(declaratii: list) -> pd.DataFrame:
+    """Rândurile de acțiuni / părți sociale / funcții citite din tabelele PDF-urilor."""
+    rows = [{"an": d.get("an"), "entitate": p.get("entitate"),
+             "calitate": p.get("calitate") or TIP_PARTICIPATIE.get(p.get("sursa"), ""),
+             "nr": p.get("nr"), "valoare": p.get("valoare")}
+            for d in declaratii for p in d.get("participatii") or []]
+    return pd.DataFrame(rows).drop_duplicates() if rows else pd.DataFrame()
+
+
 df = data.persoane_df()
 
 if df.empty:
@@ -307,10 +342,11 @@ interese = [d for d in detaliu if d["tip"] == "interese"]
 if avere:
     st.markdown(f"##### Declarații de avere ({len(avere)})")
     tabel(
-        pd.DataFrame(avere)[["institutie", "venituri_ron", "conturi_ron", "datorii_ron",
-                             "terenuri", "cladiri", "auto", "pdf_url"]],
+        _cu_an(avere)[["an", "institutie", "venituri_ron", "conturi_ron", "datorii_ron",
+                       "terenuri", "cladiri", "auto", "pdf_url"]],
         use_container_width=True, hide_index=True,
         column_config={
+            "an": st.column_config.NumberColumn("An", format="%d", help=AN_HELP),
             "institutie": st.column_config.TextColumn("Instituție", width="medium"),
             "venituri_ron": st.column_config.NumberColumn("Venituri (lei)", format="localized"),
             "conturi_ron": st.column_config.NumberColumn("Conturi (lei)", format="localized"),
@@ -325,10 +361,11 @@ if avere:
 if interese:
     st.markdown(f"##### Declarații de interese ({len(interese)})")
     tabel(
-        pd.DataFrame(interese)[["institutie", "actionariat", "conducere", "prof_sindicat", "partid",
-                                "contracte", "valoare_actiuni_ron", "pdf_url"]],
+        _cu_an(interese)[["an", "institutie", "actionariat", "conducere", "prof_sindicat", "partid",
+                          "contracte", "valoare_actiuni_ron", "pdf_url"]],
         use_container_width=True, hide_index=True,
         column_config={
+            "an": st.column_config.NumberColumn("An", format="%d", help=AN_HELP),
             "institutie": st.column_config.TextColumn("Instituție", width="medium"),
             "actionariat": st.column_config.NumberColumn("Acțiuni / părți sociale",
                                                          help="Număr de firme la care declară acțiuni."),
@@ -340,10 +377,29 @@ if interese:
             "pdf_url": st.column_config.LinkColumn("Document", display_text="PDF"),
         },
     )
+    roluri = _roluri(interese)
+    if not roluri.empty:
+        st.markdown("**Calități declarate**")
+        tabel(roluri, use_container_width=True, hide_index=True,
+              column_config={"rol": st.column_config.TextColumn("Calitate"),
+                             "entitate": st.column_config.TextColumn("Entitate", width="large"),
+                             "ani": st.column_config.TextColumn("În declarațiile din")})
+        st.caption("Calitatea vine din secțiunea formularului în care persoana a trecut entitatea.")
     entitati = sorted({e.strip() for d in interese for e in (d.get("entitati") or []) if e and e.strip()})
     if entitati:
-        with st.expander(f"Entități trecute în declarațiile de interese ({len(entitati)})"):
+        with st.expander(f"Toate rândurile citite din declarațiile de interese ({len(entitati)})"):
             st.markdown("\n".join(f"- {html.escape(e)}" for e in entitati))
+
+participatii = _participatii(avere + interese)
+if not participatii.empty:
+    st.markdown(f"##### Acțiuni, părți sociale și funcții, pe rânduri ({len(participatii)})")
+    tabel(participatii, use_container_width=True, hide_index=True,
+          column_config={"an": st.column_config.NumberColumn("An", format="%d"),
+                         "entitate": st.column_config.TextColumn("Entitate", width="large"),
+                         "calitate": st.column_config.TextColumn("Calitate / tip", width="medium"),
+                         "nr": st.column_config.TextColumn("Număr / cotă"),
+                         "valoare": st.column_config.TextColumn("Valoare declarată")})
+    st.caption("Rânduri citite din tabelele declarațiilor publicate ca PDF cu text (nu și din cele scanate).")
 
 if avere or interese:
     st.caption("Cifrele sunt extrase automat din PDF-uri (unele scanate) și pot fi greșite, mai ales "

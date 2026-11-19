@@ -575,6 +575,15 @@ def motiuni_df() -> pd.DataFrame:
 
 
 @st.cache_data(show_spinner=False)
+def motiune_text(idm, leg, cam) -> dict:
+    """Textul unei moțiuni (citit prin OCR din PDF-ul scanat); {} dacă nu a fost încă citit."""
+    for m in _load_raw("parlament/motiuni_text.json").get("motiuni", []) or []:
+        if (m.get("idm"), m.get("leg"), m.get("cam")) == (idm, leg, cam):
+            return m
+    return {}
+
+
+@st.cache_data(show_spinner=False)
 def deputati_df() -> pd.DataFrame:
     return pd.DataFrame(_load_raw("parlament/deputati.json").get("data", []))
 
