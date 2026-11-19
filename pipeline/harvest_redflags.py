@@ -98,6 +98,10 @@ def _cui(s):
     return re.sub(r"\D", "", str(s or ""))
 
 
+PUBLISHED = os.path.join(V, "redflags.json")
+PARTIAL = os.path.join(LOCAL, "_redflags_partial.json")   # scrieri intermediare, ne-publicate
+
+
 def _load_ckpt():
     if os.path.exists(CKPT):
         try:
@@ -189,8 +193,8 @@ def _process(url, fmt, tip, an, ck):
     return n
 
 
-def _write_output(ck, ani_proc) -> dict:
-    """Scrie data/v1/redflags.json din starea curentă (non-mutant — apelabil incremental)."""
+def _write_output(ck, ani_proc, path: str = PUBLISHED) -> dict:
+    """Scrie rezultatul din starea curentă la `path` (non-mutant — apelabil incremental)."""
     single = sorted(ck["single"], key=lambda x: -x["valoare_ron"])
     proc = sorted(ck["proc"], key=lambda x: -x["valoare_ron"])
     frag = [{"autoritate": f["autoritate"], "autoritate_cui": f["autoritate_cui"],
@@ -220,8 +224,8 @@ def _write_output(ck, ani_proc) -> dict:
             "nota": f"Perechi autoritate→furnizor cu ≥{FRAG_MIN_NR} cumpărări directe (posibilă evitare a licitației).",
             "total": len(frag), "items": frag[:1500]},
     }
-    json.dump(out, open(os.path.join(V, "redflags.json"), "w", encoding="utf-8"),
-              ensure_ascii=False, indent=1)
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(out, fh, ensure_ascii=False, indent=1)
     return {"single": len(single), "proc": len(proc), "frag": len(frag)}
 
 
@@ -240,7 +244,9 @@ def main() -> dict:
     for r in todo:
         groups.setdefault(sicap_io.group_key(r), []).append(r)
     n_done = 0
+    pierdute = []                                 # perioade fără nicio variantă citită
     for key in sorted(groups, key=lambda k: (k[0] or 0, str(k[2]), str(k[1]), k[3] or 0, str(k[4] or ""))):
+        citita = False
         for r in sicap_io.order_variants(groups[key]):
             url, an, tip, fmt = r["url"], r.get("an"), r.get("tip"), r.get("format")
             t0 = time.time()
@@ -253,12 +259,22 @@ def main() -> dict:
                 ck["frag"] = {k: v for k, v in ck["frag"].items() if v["nr"] >= 2}
             print(f"   {an} {tip} {r.get('perioada')}: {n} rânduri, {round(time.time()-t0)}s | "
                   f"single={len(ck['single'])} proc={len(ck['proc'])} frag_pairs={len(ck['frag'])}", flush=True)
+            citita = True
             n_done += 1
             if n_done % 6 == 0:               # output incremental — rezilient la crash/OOM
-                _write_output(ck, ani_proc)
+                _write_output(ck, ani_proc, PARTIAL)
             if n >= sicap_io.MIN_RANDURI_VALIDE:
                 break                         # varianta validă a perioadei a fost procesată
+        if not citita:
+            r0 = groups[key][0]
+            pierdute.append(f"{r0.get('an')} {r0.get('tip')} {r0.get('perioada')}")
 
+    if pierdute:
+        _write_output(ck, ani_proc, PARTIAL)
+        raise SystemExit(
+            f"REFUZ să public redflags.json: {len(pierdute)} perioade nu au putut fi citite "
+            f"({', '.join(pierdute[:12])}{'…' if len(pierdute) > 12 else ''}). Rezultatul parțial e în "
+            f"{os.path.relpath(PARTIAL, ROOT)}; fișierul publicat rămâne neatins. Reia când sursa răspunde.")
     res = _write_output(ck, ani_proc)
     print(f"PUBLICAT redflags.json: single-bid={res['single']}, procedura={res['proc']}, "
           f"fragmentare={res['frag']}", flush=True)
