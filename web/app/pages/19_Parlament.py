@@ -19,7 +19,7 @@ st.set_page_config(page_title="Parlament · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Parlament",
-            "Moțiunile depuse din 1990 încoace și componența actuală a Camerei Deputaților și a Senatului.")
+            "Moțiunile depuse din legislatura 2000 încoace și componența actuală a Camerei Deputaților și a Senatului.")
 
 TIP_MOTIUNE = {"cenzura": "de cenzură", "simpla_cdep": "simplă (Camera Deputaților)"}
 PARTID_SCURT = (("Social Democrat", "PSD"), ("Național Liberal", "PNL"), ("Naţional Liberal", "PNL"),
