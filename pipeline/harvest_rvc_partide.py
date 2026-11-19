@@ -181,6 +181,55 @@ def _num(s: str) -> float | None:
     return float(s.replace(".", "").replace(",", "."))
 
 
+# Raportul e un șir de tabele, fiecare încheiat cu rândul „Cuantumul total | <suma> |”.
+# Tabelul se recunoaște după antetul lui (fără diacritice); ordinea contează: listele de
+# împrumuturi pomenesc și „donații” în notele de subsol ale tabelului precedent.
+SECTIUNI = (
+    # sublistă a totalului de cotizații (membrii peste barem): se reține separat, nu se adună la venituri
+    ("cotizatii_peste_barem", ("lista membrilor",)),
+    ("cotizatii", ("cotizati",)),
+    ("imprumuturi", ("imprumut",)),
+    ("donatii", ("donati",)),
+    ("alte_venituri", ("veniturilor obtinute", "activitatea generatoare de venit")),
+    ("aport_asociere", ("aportului financiar",)),
+)
+VENITURI_DIN = ("cotizatii", "donatii", "alte_venituri")   # împrumuturile și aportul nu sunt venit
+_RE_TOTAL = re.compile(r"[Cc]uantumul total\s*\|\s*([^|\n]*?)\s*\|")
+
+
+def _suma(s: str) -> float | None:
+    """„11.448.430,02” → 11448430.02; „2.850” → 2850.0; „-” sau gol → 0.0; altceva → None."""
+    s = s.strip().replace(" ", "")
+    if s in ("", "-", "–", "—"):
+        return 0.0
+    if not re.fullmatch(r"\d{1,3}(?:\.\d{3})*(?:,\d+)?|\d+(?:,\d+)?", s):
+        return None
+    return float(s.replace(".", "").replace(",", "."))
+
+
+def parse_sectiuni(flat: str) -> dict:
+    """Totalurile pe tip de tabel: {cotizatii, donatii, imprumuturi, alte_venituri, aport_asociere}.
+
+    Un tip apare doar dacă raportul are cel puțin un tabel de acel fel cu total citibil; tabelele
+    de același tip (ex. donații de la persoane fizice, juridice, confidențiale) se adună.
+    """
+    out: dict = {}
+    start = 0
+    for m in _RE_TOTAL.finditer(flat):
+        sectiune, start = flat[start:m.start()], m.end()
+        suma = _suma(m.group(1))
+        if suma is None:
+            continue
+        i = sectiune.rfind("Denumirea partidului politic")
+        # antetul = rândul cu numele partidului (titlul tabelului + capul de coloane)
+        antet = sectiune[sectiune.rfind("\n", 0, i) + 1:] if i >= 0 else sectiune
+        antet = _ascii(antet.split("\n", 1)[0]).lower()
+        cheie = next((k for k, cuvinte in SECTIUNI if any(c in antet for c in cuvinte)), None)
+        if cheie:
+            out[cheie] = round(out.get(cheie, 0.0) + suma, 2)
+    return out
+
+
 def parse_document(s: requests.Session, doc_id: str) -> dict | None:
     try:
         r = s.get(DOC.format(doc_id), headers=HDRS, verify=False, timeout=40)
@@ -188,7 +237,11 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
         return {"doc_id": doc_id, "error": str(e)}
     if r.status_code != 200 or len(r.text) < 2000:
         return {"doc_id": doc_id, "error": f"status={r.status_code} len={len(r.text)}"}
-    h = r.text
+    return parse_html(r.text, doc_id)
+
+
+def parse_html(h: str, doc_id: str) -> dict:
+    """Extrage raportul din HTML-ul paginii de document (fără acces la rețea)."""
     # numele partidului
     den = re.search(r"Denumirea partidului politic:\s*([^<\n]+)", h)
     if not den:
@@ -222,20 +275,12 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
         tipuri.append("cheltuieli")
     if "venituri ob" in low or "veniturilor ob" in low or "total venituri" in low:
         tipuri.append("venituri_totale")
-    venituri, cheltuieli, reprezentant = None, None, None
-    # Tabelul „Situația centralizată a ... veniturilor" se încheie cu rândul
-    # „Cuantumul total | <suma> |" — sursa autoritară pentru totalul de venituri.
-    if "situa" in low and "centraliz" in low and ("venitur" in low):
-        # ia ULTIMA aparitie a „Cuantumul total|<suma>" (tabelul real, nu cuprinsul)
-        ct = re.findall(r"[Cc]uantumul total\s*\|\s*([\d.]+,\d{2})", flat)
-        if ct:
-            venituri = _num(ct[-1])
-    # fallback: orice „cuantumul total al veniturilor" urmat de o sumă
-    if venituri is None:
-        mt = re.search(r"(?:total venituri|cuantumul total al veniturilor)\D{0,40}?([\d.]+,\d{2})",
-                       flat_clean, re.I)
-        if mt:
-            venituri = _num(mt.group(1))
+    cheltuieli, reprezentant = None, None
+    # venituri = cotizații + donații + alte venituri (art. 16), fiecare din totalul tabelului său;
+    # None dacă raportul nu are niciun astfel de tabel cu total citibil
+    sectiuni = parse_sectiuni(flat_clean)
+    componente = [sectiuni[k] for k in VENITURI_DIN if k in sectiuni]
+    venituri = round(sum(componente), 2) if componente else None
     mc = re.search(r"(?:total cheltuieli|cuantumul total al cheltuielilor)\D{0,40}?([\d.]+,\d{2})",
                    flat_clean, re.I)
     if mc:
@@ -266,6 +311,10 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
         "data_publicare": data_iso,
         "tip_raport": tipuri,
         "venituri": venituri,
+        "cotizatii": sectiuni.get("cotizatii"),
+        "donatii": sectiuni.get("donatii"),
+        "alte_venituri": sectiuni.get("alte_venituri"),
+        "imprumuturi": sectiuni.get("imprumuturi"),
         "cheltuieli": cheltuieli,
         "reprezentant_legal": reprezentant,
         "detalii_text": detalii_text,
@@ -366,6 +415,38 @@ def main(max_pages: int | None = None, only_parlamentare: bool = False,
     return {"count": len(uniq), "pe_partid": by, "out": out_path}
 
 
+def reparse_published() -> dict:
+    """Recitește rapoartele DEJA publicate, după doc_id, cu extragerea curentă (fără căutare).
+
+    Util după o schimbare de parser sau când căutarea pe portal e căzută: paginile de document
+    răspund independent. Un document care nu poate fi recitit rămâne cum era publicat.
+    """
+    out_path = os.path.join(V, "rapoarte_rvc.json")
+    with open(out_path, encoding="utf-8") as fh:
+        payload = json.load(fh)
+    s = requests.Session(); s.headers.update(HDRS)
+    recitite = esuate = 0
+    for i, vechi in enumerate(payload["data"], 1):
+        nou = parse_document(s, vechi["doc_id"])
+        if not nou or nou.get("error"):
+            esuate += 1
+        else:
+            # anul și partidul rămân cele stabilite la recoltare (cheia de deduplicare)
+            payload["data"][i - 1] = {**nou, "an": vechi.get("an"), "partid_cod": vechi.get("partid_cod")}
+            recitite += 1
+        if i % 50 == 0:
+            print(f"   ...{i}/{len(payload['data'])} | recitite {recitite}, eșuate {esuate}", flush=True)
+    payload["meta"]["reparsed_at"] = datetime.now(timezone.utc).isoformat()
+    with open(out_path, "w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
+    cu_venituri = sum(1 for r in payload["data"] if r.get("venituri") is not None)
+    print(f"RECITIT rapoarte_rvc.json: {recitite} recitite, {esuate} păstrate ca înainte | "
+          f"cu venituri: {cu_venituri}/{len(payload['data'])}", flush=True)
+    return {"recitite": recitite, "esuate": esuate, "cu_venituri": cu_venituri}
+
+
 if __name__ == "__main__":
-    mp = int(sys.argv[1]) if len(sys.argv) > 1 else None
-    main(max_pages=mp)
+    if len(sys.argv) > 1 and sys.argv[1] == "reparse":
+        reparse_published()
+    else:
+        main(max_pages=int(sys.argv[1]) if len(sys.argv) > 1 else None)

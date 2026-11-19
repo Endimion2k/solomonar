@@ -1,8 +1,13 @@
 """Îmbogățește companiile cu BILANȚURI (MF/ANAF, data.gov.ro) — cifră afaceri, profit, salariați.
 
-Sursa: "Situații financiare {an}" pe data.gov.ro → WEB_BL_BS_SL + WEB_UU (.txt, keyed pe CUI).
-Coloane (legendă): CUI;CAEN;i1..i20 → i7=Datorii, i13=Cifra afaceri neta, i16=Profit brut,
-i18=Profit net, i19=Pierdere neta, i20=Nr. salariati. Stream filtrat pe CUI-urile SOE (~1GB total).
+Sursa: "Situații financiare {an}" pe data.gov.ro → WEB_IR (raportori IFRS: companiile mari, listate),
+WEB_BL_BS_SL și WEB_UU (.txt, keyed pe CUI). Toate trei au aceeași legendă: CUI;CAEN;i1..i20 →
+i7=Datorii, i13=Cifra afaceri neta, i16=Profit brut, i18=Profit net, i19=Pierdere neta,
+i20=Nr. salariati. Stream filtrat pe CUI-urile SOE (~1GB total).
+
+Fără WEB_IR, Hidroelectrica, Romgaz, Nuclearelectrica, Transgaz, Transelectrica etc. lipseau sau
+apăreau cu cifre greșite. Băncile, asigurătorii și IFN-urile au alte formulare (alte fișiere, altă
+legendă) și NU sunt acoperite aici.
 
 Enrich companii/_index.json (financials) + publică companii/bilanturi.json.
 """
@@ -31,11 +36,23 @@ DATASETS = {  # an → dataset id sau nume CKAN (Situatii financiare, MF pe data
 }
 COLS = {"datorii": 7, "cifra_afaceri": 13, "profit_brut": 16, "profit_net": 18,
         "pierdere_neta": 19, "nr_salariati": 20}  # i{n}
+# tipurile de raportare citite, în ordinea priorității (primul fișier care conține CUI-ul câștigă)
+RAPORTARI = ("WEB_IR", "BL_BS_SL", "WEB_UU")
+MIN_KEEP_RATIO = 0.5   # sub jumătate din ce e publicat = sursă căzută, nu date noi
 
 
 def _soe_cuis():
     ci = json.load(open(os.path.join(V, "companii/_index.json"), encoding="utf-8"))["data"]
     return {int(c["cui"]): c for c in ci if c.get("cui")}
+
+
+def _published(rel: str) -> dict:
+    """Fișierul deja publicat ({} dacă lipsește sau nu se poate citi)."""
+    try:
+        with open(os.path.join(V, rel), encoding="utf-8") as fh:
+            return json.load(fh)
+    except (OSError, ValueError):
+        return {}
 
 
 def _data_urls(an: int):
@@ -45,9 +62,10 @@ def _data_urls(an: int):
     for rs in r.json()["result"]["resources"]:
         u = rs.get("url", "")
         nm = (rs.get("name", "") + u).upper()
-        if u.lower().endswith(".txt") and ("BL_BS_SL" in nm or "WEB_UU" in nm) and "DESCRIERE" not in nm:
-            urls.append(u)
-    return urls
+        tip = next((i for i, t in enumerate(RAPORTARI) if t in nm), None)
+        if u.lower().endswith(".txt") and tip is not None and "DESCRIERE" not in nm:
+            urls.append((tip, u))
+    return [u for _, u in sorted(urls)]
 
 
 def _stream(url, cuis, out):
@@ -104,6 +122,10 @@ def main(an: int = 2023) -> dict:
         print(f"stream {url[-40:]}", flush=True)
         _stream(url, set(cuis), out)
     print(f"[bilant] {len(out)}/{len(cuis)} SOE cu date financiare", flush=True)
+    publicate = _published("companii/bilanturi.json")
+    if publicate.get("an") == an and len(out) < len(publicate.get("bilanturi") or []) * MIN_KEEP_RATIO:
+        raise SystemExit(f"REFUZ să suprascriu bilanturi.json: {len(out)} companii față de "
+                         f"{len(publicate['bilanturi'])} publicate pentru {an}. Sursa a răspuns parțial.")
     # enrich index
     ci = json.load(open(os.path.join(V, "companii/_index.json"), encoding="utf-8"))
     enr = 0
@@ -127,23 +149,35 @@ def main_trend(ani=(2025, 2024, 2023, 2022, 2021, 2020)) -> dict:
     cuis = _soe_cuis()
     print(f"CUI-uri SOE: {len(cuis)} | ani: {ani}", flush=True)
     trend = {}
+    ani_esuati = []
     for an in ani:
         out = {}
-        for url in _data_urls(an):
-            print(f"  {an}: stream {url[-36:]}", flush=True)
-            try:
+        try:
+            for url in _data_urls(an):
+                print(f"  {an}: stream {url[-36:]}", flush=True)
                 _stream(url, set(cuis), out)
-            except Exception as e:
-                print(f"    err {type(e).__name__}", flush=True)
+        except Exception as e:   # sursă instabilă: anul întreg e considerat necitit, nu parțial
+            print(f"    EȘEC {an}: {type(e).__name__} {str(e)[:80]}", flush=True)
+            ani_esuati.append(an)
+            continue
         for cui, fin in out.items():
             if any(v is not None for v in fin.values()):
                 trend.setdefault(cui, {})[an] = fin
         print(f"  {an}: {len(out)} SOE", flush=True)
-    rows = [{"cui": k, "denumire": cuis[k].get("name", ""), "ani": v} for k, v in trend.items()]
+    # anii care nu au putut fi citiți acum rămân cum erau publicați (nu dispar din serie)
+    if ani_esuati:
+        for t in _published("companii/bilanturi_trend.json").get("trend", []):
+            for an, fin in (t.get("ani") or {}).items():
+                if int(an) in ani_esuati and str(t.get("cui", "")).isdigit():
+                    trend.setdefault(int(t["cui"]), {})[int(an)] = fin
+    rows = [{"cui": k, "denumire": cuis[k].get("name", ""), "ani": v} for k, v in trend.items() if k in cuis]
     json.dump({"ani": list(ani), "total": len(rows), "trend": rows},
               open(os.path.join(V, "companii/bilanturi_trend.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=2)
     print(f"PUBLICAT bilanturi_trend.json: {len(rows)} SOE cu istoric multi-an", flush=True)
+    if ani_esuati:
+        raise SystemExit(f"Anii {ani_esuati} nu au putut fi citiți; pentru ei s-au păstrat valorile "
+                         f"publicate anterior. Reia pasul când data.gov.ro răspunde.")
     return {"soe": len(rows)}
 
 
