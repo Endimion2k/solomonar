@@ -1,136 +1,193 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="ro">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>SOLOMONAR — căutare în aparatul de stat</title>
-<style>
-  :root{--bg:#0d1117;--panel:#161b22;--line:#30363d;--txt:#e6edf3;--mut:#8b949e;
-        --accent:#58a6ff;--warn:#d29922;--bad:#f85149;--ok:#3fb950}
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.5 system-ui,Segoe UI,Roboto,sans-serif}
-  header{padding:20px 16px 12px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:5}
-  h1{margin:0 0 4px;font-size:19px}
-  .sub{color:var(--mut);font-size:13px}
-  .wrap{max-width:880px;margin:0 auto;padding:0 16px}
-  input[type=search]{width:100%;margin-top:12px;background:var(--panel);border:1px solid var(--line);
-    color:var(--txt);border-radius:10px;padding:12px 14px;font-size:16px}
-  input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
-  .filters{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
-  .chip{background:var(--panel);border:1px solid var(--line);color:var(--mut);border-radius:999px;
-    padding:5px 12px;font-size:13px;cursor:pointer;user-select:none}
-  .chip[aria-pressed=true]{border-color:var(--accent);color:var(--accent)}
-  #status{color:var(--mut);font-size:13px;padding:10px 0}
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin:8px 0}
-  .card .top{display:flex;justify-content:space-between;gap:10px;align-items:baseline;flex-wrap:wrap}
-  .name{font-weight:600;font-size:15px}
-  .badge{font-size:11px;padding:2px 8px;border-radius:999px;border:1px solid var(--line);color:var(--mut)}
-  .b-p{color:var(--accent);border-color:var(--accent)}
-  .b-c{color:var(--ok);border-color:var(--ok)}
-  .b-partid{color:var(--warn);border-color:var(--warn)}
-  .facts{color:var(--mut);font-size:13px;margin-top:6px;display:flex;gap:14px;flex-wrap:wrap}
-  .facts b{color:var(--txt);font-weight:600}
-  .conflict{margin-top:8px;padding:8px 10px;border-radius:8px;background:#2d1d0a;border:1px solid var(--warn);
-    color:#f0c674;font-size:13px}
-  .det{margin-top:6px;font-size:12.5px;color:var(--mut)}
-  .det span{display:inline-block;background:#0d1117;border:1px solid var(--line);border-radius:6px;
-    padding:1px 7px;margin:2px 4px 0 0}
-  .inc-high{color:var(--ok)} .inc-context{color:var(--accent)} .inc-candidat{color:var(--mut)}
-  footer{color:var(--mut);font-size:12px;text-align:center;padding:24px 16px}
-  a{color:var(--accent)}
-  mark{background:#1f6feb55;color:inherit;border-radius:2px}
-</style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Căutare — Solomonar</title>
+  <meta name="description" content="Caută o persoană, o companie de stat sau un partid: declarații, conducere, contracte, subvenții.">
+  <link rel="stylesheet" href="solomonar.css">
+  <style>
+    .searchbar { position: sticky; top: 0; z-index: 5; background: var(--paper); border-bottom: 1px solid var(--line); padding: 20px 0 14px; }
+    .searchbar .inner { max-width: 820px; margin: 0 auto; padding: 0 var(--gutter); }
+    h1 { font: 600 22px/1.25 var(--sans); margin: 0 0 12px; }
+    .searchbar .field { font-size: 18px; }
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+    .chip {
+      font: inherit; font-size: 14px; min-height: 36px; padding: 0 14px; cursor: pointer;
+      color: var(--muted); background: transparent; border: 1px solid var(--line); border-radius: 18px;
+    }
+    .chip:hover { color: var(--ink); border-color: var(--muted); }
+    .chip[aria-pressed="true"] { color: var(--surface); background: var(--ink); border-color: var(--ink); }
+    #status { margin: 12px 0 0; }
+
+    .results { max-width: 820px; margin: 0 auto; padding: 0 var(--gutter); list-style: none; }
+    .result { padding: 18px 0; border-bottom: 1px solid var(--line); }
+    .result .top { display: flex; justify-content: space-between; align-items: baseline; gap: 6px 14px; flex-wrap: wrap; }
+    .result .name { font: 600 17px/1.3 var(--sans); overflow-wrap: anywhere; }
+    .result .facts { margin: 4px 0 0; color: var(--muted); font-size: 15px; }
+    .result .facts b { color: var(--ink); font-weight: 500; }
+    .result .links { margin: 6px 0 0; font-size: 14px; color: var(--muted); overflow-wrap: anywhere; }
+    .result .links span { color: var(--ink); }
+    .conflict { margin: 10px 0 0; padding: 10px 14px; font-size: 15px; background: var(--signal-soft); border-left: 3px solid var(--signal); border-radius: 0 6px 6px 0; }
+    mark { background: var(--accent-soft); color: inherit; border-radius: 2px; padding: 0 1px; }
+    .empty { max-width: 820px; margin: 0 auto; padding: 40px var(--gutter); color: var(--muted); }
+    @media (max-width: 640px) { .searchbar { position: static; } }
+  </style>
 </head>
 <body>
-<header><div class="wrap">
-  <h1>SOLOMONAR — căutare în aparatul de stat</h1>
-  <div class="sub">persoane · companii de stat · partide — declarații, conducere, contracte, subvenții</div>
-  <input type="search" id="q" placeholder="Caută un nume, o companie, un partid…" autocomplete="off" autofocus aria-label="Caută">
-  <div class="filters" id="filters">
-    <span class="chip" data-t="" aria-pressed="true">Toate</span>
-    <span class="chip" data-t="p" aria-pressed="false">Persoane</span>
-    <span class="chip" data-t="c" aria-pressed="false">Companii</span>
-    <span class="chip" data-t="partid" aria-pressed="false">Partide</span>
-    <span class="chip" data-t="conflict" aria-pressed="false">⚠ Conflicte confirmate</span>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="wordmark" href="index.html">Solomonar</a>
+      <nav aria-label="Navigație principală">
+        <a href="index.html">Acasă</a>
+        <a href="search.html" aria-current="page">Căutare</a>
+        <a href="graf.html">Graf</a>
+        <a href="graf_full.html">Graful complet</a>
+        <a href="../data/v1/stats.json">Date</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="searchbar">
+    <div class="inner">
+      <h1>Caută în baza de date</h1>
+      <input class="field" type="search" id="q" placeholder="Un nume, o companie de stat sau un partid" autocomplete="off" aria-label="Caută">
+      <div class="filters" id="filters" role="group" aria-label="Filtrează după tip">
+        <button class="chip" type="button" data-t="" aria-pressed="true">Toate</button>
+        <button class="chip" type="button" data-t="p" aria-pressed="false">Persoane</button>
+        <button class="chip" type="button" data-t="c" aria-pressed="false">Companii de stat</button>
+        <button class="chip" type="button" data-t="partid" aria-pressed="false">Partide</button>
+        <button class="chip" type="button" data-t="conflict" aria-pressed="false">Conflicte declarate</button>
+      </div>
+      <p class="note" id="status" aria-live="polite">Se încarcă indexul (13 MB)…</p>
+    </div>
   </div>
-  <div id="status">Se încarcă indexul…</div>
-</div></header>
-<main class="wrap" id="results"></main>
-<footer>
-  Date publice agregate · link persoană↔firmă pe nume (fără CNP) — „candidat" = posibil omonim, verifică.
-  Doar conflictele <b>auto-declarate</b> sunt confirmate. · <a href="../data/v1/stats.json">stats.json</a>
-</footer>
-<script>
-const DATA = "../data/v1";
-let INDEX = [], TYPE = "", Q = "";
-const elQ = document.getElementById("q"), elR = document.getElementById("results"), elS = document.getElementById("status");
-const fmt = n => n==null ? "—" : new Intl.NumberFormat("ro-RO").format(n);
-const esc = s => (s||"").replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
-const norm = s => s.normalize("NFKD").replace(/[̀-ͯ]/g,"").toLowerCase();
 
-fetch(`${DATA}/search/index.json`).then(r=>r.json()).then(d=>{
-  INDEX = d.items;
-  elS.textContent = `${fmt(INDEX.length)} entități indexate. Scrie ca să cauți.`;
-}).catch(e=>{ elS.textContent = "Eroare la încărcarea indexului."; });
+  <main>
+    <ul class="results" id="results"></ul>
+  </main>
 
-document.getElementById("filters").addEventListener("click", e=>{
-  const c = e.target.closest(".chip"); if(!c) return;
-  document.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed", x===c));
-  TYPE = c.dataset.t; render();
-});
-elQ.addEventListener("input", e=>{ Q = norm(e.target.value.trim()); render(); });
+  <footer class="footer">
+    <div class="footer-inner">
+      <p>Legătura dintre o persoană și o firmă se face după nume, fără CNP. „Candidat” înseamnă un posibil omonim: verifică înainte de a trage o concluzie.</p>
+      <p>Sunt confirmate doar conflictele trecute de persoană în propria declarație de interese. Valorile de contracte sunt brute, însumate pe toți ofertanții.</p>
+    </div>
+  </footer>
 
-function render(){
-  if(!INDEX.length) return;
-  if(Q.length < 2 && TYPE !== "conflict"){ elR.innerHTML=""; elS.textContent = `${fmt(INDEX.length)} entități. Scrie minim 2 litere.`; return; }
-  let res = INDEX;
-  if(TYPE === "conflict") res = res.filter(i=>i.conflict);
-  else if(TYPE) res = res.filter(i=>i.t===TYPE);
-  if(Q.length >= 2){ const k = Q; res = res.filter(i=> (i.k || norm(i.n)).includes(k)); }
-  res = res.slice(0, 300);
-  elS.textContent = `${fmt(res.length)} rezultate${res.length>=300?" (primele 300)":""}`;
-  elR.innerHTML = res.map(card).join("");
-}
+  <script>
+    const DATA = "../data/v1";
+    const MAX_RESULTS = 300;
+    const MIN_QUERY = 2;
+    const LISTABLE_WITHOUT_QUERY = new Set(["c", "partid", "conflict"]);
+    const CONFIDENCE = { high: "identitate confirmată", context: "potrivire cu context", candidat: "candidat, posibil omonim" };
+    const CONFIDENCE_TAG = { high: "is-ok", context: "is-accent", candidat: "" };
 
-function hl(name){ if(Q.length<2) return esc(name); const i = norm(name).indexOf(Q); if(i<0) return esc(name);
-  return esc(name.slice(0,i))+"<mark>"+esc(name.slice(i,i+Q.length))+"</mark>"+esc(name.slice(i+Q.length)); }
+    const elQ = document.getElementById("q");
+    const elR = document.getElementById("results");
+    const elS = document.getElementById("status");
+    const chips = [...document.querySelectorAll(".chip")];
 
-function card(i){
-  if(i.t==="p") return personCard(i);
-  if(i.t==="c") return companyCard(i);
-  return partidCard(i);
-}
-function personCard(i){
-  const facts = [];
-  if(i.rol) facts.push(`<b>${esc(i.rol)}</b>`);
-  if(i.nd) facts.push(`${i.nd} declarații`);
-  if(i.nc) facts.push(`${i.nc} companii`);
-  if(i.ct) facts.push(`firme cu contracte: <b>${fmt(i.ct)} lei</b>`);
-  const det = [];
-  (i.co||[]).forEach(c=>det.push(`<span>conduce: ${esc(c)}</span>`));
-  (i.in||[]).forEach(x=>det.push(`<span>declară la: ${esc(x)}</span>`));
-  let conflict = "";
-  if(i.conflict) conflict = `<div class="conflict">⚠ Conflict auto-declarat: ${i.conflict.map(c=>`${esc(c.f)}${c.v?` (${fmt(c.v)} lei contracte)`:""}`).join("; ")}</div>`;
-  return `<div class="card"><div class="top"><span class="name">${hl(i.n)}</span>
-    <span class="badge b-p">persoană · <span class="inc-${i.inc}">${i.inc}</span></span></div>
-    <div class="facts">${facts.join("")||'<span style="color:var(--mut)">—</span>'}</div>
-    ${conflict}${det.length?`<div class="det">${det.join("")}</div>`:""}</div>`;
-}
-function companyCard(i){
-  const facts = [];
-  if(i.sector) facts.push(esc(i.sector));
-  if(i.fin) facts.push(`CA: <b>${fmt(i.fin.ca)} lei</b>`+(i.fin.profit!=null?` · profit ${fmt(i.fin.profit)}`:""));
-  if(i.contracte) facts.push(`contracte stat: <b>${fmt(i.contracte.total)} lei</b> (${fmt(i.contracte.nr)})`);
-  const det = (i.reps||[]).map(r=>`<span>cond.: ${esc(r)}</span>`).join("");
-  return `<div class="card"><div class="top"><span class="name">${hl(i.n)}</span>
-    <span class="badge b-c">companie · CUI ${esc(String(i.cui||""))}</span></div>
-    <div class="facts">${facts.join(" · ")||"—"}</div>${det?`<div class="det">${det}</div>`:""}</div>`;
-}
-function partidCard(i){
-  return `<div class="card"><div class="top"><span class="name">${hl(i.n)}</span>
-    <span class="badge b-partid">partid</span></div>
-    <div class="facts">subvenție stat: <b>${fmt(i.subv)} lei</b> · ${i.rvc} rapoarte · ${i.dep} dep · ${i.sen} sen</div></div>`;
-}
-</script>
+    const params = new URLSearchParams(location.search);
+    let INDEX = [];
+    let TYPE = chips.some((c) => c.dataset.t === params.get("t")) ? params.get("t") : "";
+    let Q = "";
+
+    const fmt = (n) => (n == null ? "—" : new Intl.NumberFormat("ro-RO").format(n));
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+    const norm = (s) => String(s ?? "").normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase();
+
+    function syncChips() { chips.forEach((c) => c.setAttribute("aria-pressed", String(c.dataset.t === TYPE))); }
+
+    function syncUrl() {
+      const p = new URLSearchParams();
+      if (elQ.value.trim()) p.set("q", elQ.value.trim());
+      if (TYPE) p.set("t", TYPE);
+      history.replaceState(null, "", p.toString() ? `?${p}` : location.pathname);
+    }
+
+    function highlight(name) {
+      if (Q.length < MIN_QUERY) return esc(name);
+      const i = norm(name).indexOf(Q);
+      if (i < 0 || norm(name).length !== name.length) return esc(name);
+      return esc(name.slice(0, i)) + "<mark>" + esc(name.slice(i, i + Q.length)) + "</mark>" + esc(name.slice(i + Q.length));
+    }
+
+    function listLine(label, items) {
+      return items && items.length ? `<p class="links">${label}: <span>${items.map((x) => esc(String(x).trim())).join(", ")}</span></p>` : "";
+    }
+
+    function personRow(i) {
+      const facts = [];
+      if (i.rol) facts.push(`<b>${esc(i.rol)}</b>`);
+      if (i.nd) facts.push(`${fmt(i.nd)} ${i.nd === 1 ? "declarație" : "declarații"}`);
+      if (i.nc) facts.push(`${fmt(i.nc)} ${i.nc === 1 ? "firmă" : "firme"}`);
+      if (i.ct) facts.push(`contracte ale firmelor: <b>${fmt(i.ct)} lei</b>`);
+      const conflict = i.conflict
+        ? `<p class="conflict">Conflict trecut în propria declarație: ${i.conflict.map((c) => esc(c.f) + (c.v ? ` (${fmt(c.v)} lei în contracte)` : "")).join("; ")}</p>`
+        : "";
+      return `<li class="result"><div class="top"><span class="name">${highlight(i.n)}</span>
+        <span class="tag ${CONFIDENCE_TAG[i.inc] || ""}">persoană, ${esc(CONFIDENCE[i.inc] || i.inc || "")}</span></div>
+        ${facts.length ? `<p class="facts">${facts.join(", ")}</p>` : ""}${conflict}
+        ${listLine("Conduce", i.co)}${listLine("Declară la", i.in)}</li>`;
+    }
+
+    function companyRow(i) {
+      const facts = [];
+      if (i.sector) facts.push(esc(i.sector));
+      if (i.fin) facts.push(`cifră de afaceri <b>${fmt(i.fin.ca)} lei</b>` + (i.fin.profit != null ? `, profit ${fmt(i.fin.profit)} lei` : ""));
+      if (i.contracte) facts.push(`contracte cu statul <b>${fmt(i.contracte.total)} lei</b> (${fmt(i.contracte.nr)})`);
+      return `<li class="result"><div class="top"><span class="name">${highlight(i.n)}</span>
+        <span class="tag is-ok">companie de stat${i.cui ? `, CUI ${esc(i.cui)}` : ""}</span></div>
+        ${facts.length ? `<p class="facts">${facts.join("; ")}</p>` : ""}${listLine("Conducere", i.reps)}</li>`;
+    }
+
+    function partyRow(i) {
+      return `<li class="result"><div class="top"><span class="name">${highlight(i.n)}</span><span class="tag is-signal">partid</span></div>
+        <p class="facts">subvenție de la stat <b>${fmt(i.subv)} lei</b>, ${fmt(i.rvc)} rapoarte financiare, ${fmt(i.dep)} deputați, ${fmt(i.sen)} senatori</p></li>`;
+    }
+
+    const ROW = { p: personRow, c: companyRow };
+
+    function render() {
+      if (!INDEX.length) return;
+      const hasQuery = Q.length >= MIN_QUERY;
+      if (!hasQuery && !LISTABLE_WITHOUT_QUERY.has(TYPE)) {
+        elR.innerHTML = "";
+        elS.textContent = `${fmt(INDEX.length)} persoane, companii și partide. Scrie cel puțin ${MIN_QUERY} litere.`;
+        return;
+      }
+      let res = INDEX;
+      if (TYPE === "conflict") res = res.filter((i) => i.conflict);
+      else if (TYPE) res = res.filter((i) => i.t === TYPE);
+      if (hasQuery) res = res.filter((i) => (i.k || norm(i.n)).includes(Q));
+      const total = res.length;
+      res = res.slice(0, MAX_RESULTS);
+      if (!total) {
+        elS.textContent = "Niciun rezultat.";
+        elR.innerHTML = `<li class="empty">Nimic nu se potrivește cu „${esc(elQ.value.trim())}”. Încearcă doar numele de familie sau alege „Toate”.</li>`;
+        return;
+      }
+      elS.textContent = total > MAX_RESULTS ? `${fmt(total)} rezultate, afișate primele ${MAX_RESULTS}. Scrie mai mult ca să restrângi.` : `${fmt(total)} ${total === 1 ? "rezultat" : "rezultate"}`;
+      elR.innerHTML = res.map((i) => (ROW[i.t] || partyRow)(i)).join("");
+    }
+
+    document.getElementById("filters").addEventListener("click", (e) => {
+      const chip = e.target.closest(".chip");
+      if (!chip) return;
+      TYPE = chip.dataset.t;
+      syncChips(); syncUrl(); render();
+    });
+    elQ.addEventListener("input", () => { Q = norm(elQ.value.trim()); syncUrl(); render(); });
+
+    elQ.value = params.get("q") || "";
+    Q = norm(elQ.value.trim());
+    syncChips();
+    if (!elQ.value) elQ.focus();
+
+    fetch(`${DATA}/search/index.json`)
+      .then((r) => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+      .then((d) => { INDEX = d.items || []; render(); })
+      .catch((err) => { elS.textContent = `Indexul nu s-a putut încărca (${err.message}). Reîncarcă pagina.`; });
+  </script>
 </body>
 </html>

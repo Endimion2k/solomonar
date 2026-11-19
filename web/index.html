@@ -3,115 +3,207 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>SOLOMONAR — transparența aparatului de stat</title>
-  <meta name="description" content="Platformă de transparență: Parlament, ministere, agenții, companii de stat, declarații, achiziții.">
+  <title>Solomonar — cine conduce statul și pe unde trec banii publici</title>
+  <meta name="description" content="Declarații de avere, conducerile companiilor de stat, contracte publice și subvențiile partidelor, legate într-un singur loc din surse oficiale.">
+  <link rel="stylesheet" href="solomonar.css">
   <style>
-    :root{
-      --bg:#0e1116; --panel:#171c24; --line:#262d39; --fg:#e8edf4; --muted:#9aa7b8;
-      --accent:#4ea3ff; --accent2:#2bd1a3; --warn:#ffb454; --radius:12px;
+    .hero { padding: 72px 0 56px; }
+    .hero h1 {
+      font: 500 clamp(32px, 5.2vw, 54px)/1.12 var(--serif);
+      letter-spacing: -0.015em; margin: 0 0 20px; max-width: 17ch; text-wrap: balance;
     }
-    @media (prefers-color-scheme: light){
-      :root{ --bg:#f6f8fb; --panel:#fff; --line:#e3e8ef; --fg:#16202c;
-             --muted:#5b6675; --accent:#1f6feb; --accent2:#0a9d77; }
+    .hero .lede { font-size: 18px; color: var(--muted); max-width: 58ch; margin: 0 0 32px; }
+    .search-form { display: flex; gap: 10px; max-width: 640px; }
+    .search-form .field { font-size: 18px; min-height: 56px; }
+    .search-form .button { min-height: 56px; }
+    .examples { margin: 14px 0 0; }
+    .examples a { margin-right: 14px; white-space: nowrap; }
+
+    h2 { font: 600 22px/1.25 var(--sans); margin: 0 0 6px; letter-spacing: -0.005em; }
+    .section { padding: 44px 0 0; }
+    .section > .note { margin: 0 0 20px; max-width: var(--measure); }
+
+    .ledger { width: 100%; border-collapse: collapse; border-top: 1px solid var(--ink); }
+    .ledger th, .ledger td { padding: 13px 0; border-bottom: 1px solid var(--line); vertical-align: baseline; text-align: left; }
+    .ledger th { font-weight: 500; width: 34%; padding-right: 16px; }
+    .ledger td.what { color: var(--muted); font-size: 15px; padding-right: 16px; }
+    .ledger td.num { text-align: right; font: 500 20px/1.2 var(--sans); white-space: nowrap; }
+
+    .routes { display: grid; grid-template-columns: 1fr 1fr; gap: 0 40px; border-top: 1px solid var(--ink); }
+    .routes > div { padding: 18px 0 20px; border-bottom: 1px solid var(--line); }
+    .routes h3 { font: 600 17px/1.3 var(--sans); margin: 0 0 4px; }
+    .routes p { margin: 0; color: var(--muted); font-size: 15px; max-width: 46ch; }
+
+    .toolbar { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin-bottom: 4px; }
+    .toolbar .field { max-width: 380px; }
+    .orgs { width: 100%; border-collapse: collapse; }
+    .orgs th, .orgs td { padding: 11px 12px 11px 0; border-bottom: 1px solid var(--line); text-align: left; vertical-align: baseline; }
+    .orgs thead th { font-weight: 500; font-size: 14px; color: var(--muted); border-bottom-color: var(--ink); }
+    .orgs td:last-child { overflow-wrap: anywhere; }
+
+    .method { background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--signal); border-radius: 0 6px 6px 0; padding: 18px 22px; max-width: 760px; }
+    .method p { margin: 0 0 8px; max-width: var(--measure); }
+    .method p:last-child { margin: 0; }
+
+    @media (max-width: 640px) {
+      .hero { padding: 40px 0 36px; }
+      .search-form { flex-direction: column; }
+      .ledger th { width: auto; }
+      .ledger td.what { display: none; }
+      .routes { grid-template-columns: 1fr; }
+      .orgs th:nth-child(2), .orgs td:nth-child(2) { display: none; }
     }
-    *{box-sizing:border-box}
-    body{margin:0;font:16px/1.55 system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--fg)}
-    a{color:var(--accent);text-decoration:none}
-    a:hover{text-decoration:underline}
-    .wrap{max-width:1100px;margin:0 auto;padding:24px 20px 64px}
-    header{display:flex;flex-wrap:wrap;align-items:baseline;gap:12px;border-bottom:1px solid var(--line);padding-bottom:18px}
-    h1{font-size:28px;margin:0;letter-spacing:-.02em}
-    h1 .tag{color:var(--accent2)}
-    .sub{color:var(--muted);margin:2px 0 0}
-    .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0}
-    .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px 18px}
-    .card .n{font-size:30px;font-weight:700;letter-spacing:-.02em}
-    .card .l{color:var(--muted);font-size:13px;margin-top:4px}
-    .toolbar{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin:18px 0 8px}
-    input[type=search]{flex:1;min-width:220px;background:var(--panel);border:1px solid var(--line);
-      color:var(--fg);border-radius:10px;padding:11px 14px;font-size:15px}
-    input[type=search]:focus{outline:2px solid var(--accent);outline-offset:1px}
-    table{width:100%;border-collapse:collapse;margin-top:8px}
-    th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
-    th{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.04em}
-    tr:hover td{background:rgba(78,163,255,.06)}
-    .pill{display:inline-block;font-size:11px;padding:2px 9px;border-radius:999px;border:1px solid var(--line);color:var(--muted)}
-    .pill.ministry{color:var(--accent)} .pill.agency{color:var(--accent2)} .pill.government{color:var(--warn)}
-    footer{margin-top:40px;color:var(--muted);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
-    .muted{color:var(--muted)}
-    @media (prefers-reduced-motion: reduce){*{transition:none!important}}
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <h1>SOLO<span class="tag">MONAR</span></h1>
-      <p class="sub">Transparența aparatului de stat — Parlament · ministere · agenții · companii de stat · declarații · achiziții</p>
-      <p class="sub" style="width:100%"><a href="search.html"><strong>🔍 Caută orice persoană, companie sau partid →</strong></a> (declarații, conducere, contracte, subvenții)
-        &nbsp;·&nbsp; <a href="graf.html"><strong>🕸️ Graf follow-the-money</strong></a> (3k, layout precalculat)
-        &nbsp;·&nbsp; <a href="graf_full.html"><strong>🌌 Graful complet GPU</strong></a> (33k noduri, cosmos.gl)</p>
-    </header>
-
-    <section class="cards" id="cards" aria-live="polite"></section>
-
-    <div class="toolbar">
-      <input type="search" id="q" placeholder="Caută o instituție centrală…" aria-label="Caută instituție">
-      <span class="muted" id="count"></span>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="wordmark" href="index.html">Solomonar</a>
+      <nav aria-label="Navigație principală">
+        <a href="index.html" aria-current="page">Acasă</a>
+        <a href="search.html">Căutare</a>
+        <a href="graf.html">Graf</a>
+        <a href="graf_full.html">Graful complet</a>
+        <a href="../data/v1/stats.json">Date</a>
+      </nav>
     </div>
-    <table>
-      <thead><tr><th>Instituție</th><th>Tip</th><th>Domeniu</th></tr></thead>
-      <tbody id="rows"><tr><td colspan="3" class="muted">Se încarcă…</td></tr></tbody>
-    </table>
+  </header>
 
-    <footer>
-      Date din surse publice oficiale, în scop de transparență. Fiecare entitate poartă proveniență (sursă + dată).
-      Cod &amp; date: <a href="https://github.com/Endimion2k/solomonar">github.com/Endimion2k/solomonar</a>.
-      Generat: <span id="gen" class="muted">—</span>
-    </footer>
-  </div>
+  <main class="page">
+    <section class="hero">
+      <h1>Cine conduce statul și pe unde trec banii publici</h1>
+      <p class="lede">Solomonar leagă într-un singur loc declarațiile de avere, conducerile companiilor de stat, contractele publice și subvențiile partidelor. Toate datele vin din surse oficiale.</p>
+      <form class="search-form" action="search.html" method="get" role="search">
+        <input class="field" type="search" name="q" placeholder="Un nume, o companie de stat sau un partid" aria-label="Caută o persoană, o companie sau un partid" autocomplete="off" required minlength="2">
+        <button class="button" type="submit">Caută</button>
+      </form>
+      <p class="examples note">De exemplu:
+        <a href="search.html?q=Hidroelectrica">Hidroelectrica</a>
+        <a href="search.html?q=Romgaz">Romgaz</a>
+        <a href="search.html?t=partid">toate partidele</a>
+        <a href="search.html?t=conflict">conflicte declarate</a>
+      </p>
+    </section>
+
+    <section class="section" aria-labelledby="h-ledger">
+      <h2 id="h-ledger">Ce conține baza de date</h2>
+      <p class="note" id="freshness">Se încarcă cifrele…</p>
+      <table class="ledger">
+        <tbody id="ledger"></tbody>
+      </table>
+    </section>
+
+    <section class="section" aria-labelledby="h-routes">
+      <h2 id="h-routes">Rețeaua de persoane și firme</h2>
+      <p class="note">Două hărți ale acelorași legături: cine administrează ce firmă și ce contracte are firma cu statul.</p>
+      <div class="routes">
+        <div>
+          <h3><a href="graf.html">Graful principal</a></h3>
+          <p>Parlamentarii și administratorii firmelor cu cele mai mari contracte. Se încarcă repede și merge și pe telefon.</p>
+        </div>
+        <div>
+          <h3><a href="graf_full.html">Graful complet</a></h3>
+          <p>Toate persoanele și firmele legate între ele. Are nevoie de un calculator cu placă grafică și descarcă aproximativ 21 MB.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" aria-labelledby="h-orgs">
+      <h2 id="h-orgs">Instituții centrale</h2>
+      <p class="note">Ministerele, agențiile și autoritățile urmărite. Lista completă, cu cele deconcentrate și locale, este în <a href="../data/v1/organizatii/_index.json">organizatii/_index.json</a>.</p>
+      <div class="toolbar">
+        <input class="field" type="search" id="q" placeholder="Filtrează după nume sau domeniu" aria-label="Filtrează instituțiile">
+        <span class="note" id="count" aria-live="polite"></span>
+      </div>
+      <table class="orgs">
+        <thead><tr><th scope="col">Instituție</th><th scope="col">Tip</th><th scope="col">Site</th></tr></thead>
+        <tbody id="rows"><tr><td colspan="3" class="note">Se încarcă…</td></tr></tbody>
+      </table>
+    </section>
+
+    <section class="section" aria-labelledby="h-method">
+      <h2 id="h-method">Cum citești datele</h2>
+      <div class="method">
+        <p>Legătura dintre o persoană și o firmă se face după nume, pentru că CNP-ul este redactat legal în sursele publice. Un rezultat marcat „candidat” poate fi un omonim și trebuie verificat.</p>
+        <p>Sunt confirmate doar conflictele pe care persoana le-a trecut singură în declarația de interese. Nimic de aici nu este o acuzație.</p>
+        <p>Valorile de contracte sunt brute: același contract apare la fiecare ofertant, deci totalurile pe firmă pot fi mai mari decât sumele încasate.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <p>Date din surse publice oficiale, publicate în scop de transparență. Fiecare înregistrare păstrează sursa și data colectării.</p>
+      <p>Codul și datele sunt pe <a href="https://github.com/Endimion2k/solomonar">GitHub</a>. Pentru o corecție, deschide o <a href="https://github.com/Endimion2k/solomonar/issues">sesizare</a>.</p>
+    </div>
+  </footer>
 
   <script>
-    const DATA = "../data/v1"; // ajustează în funcție de rădăcina GitHub Pages
-    const TYPE_LABEL = {ministry:"minister", agency:"agenție", government:"guvern", parliament_chamber:"cameră parl."};
+    const DATA = "../data/v1";
+    const TYPE_LABEL = { ministry: "minister", agency: "agenție", government: "guvern", parliament_chamber: "cameră a Parlamentului" };
+    const MS_PER_DAY = 86400000;
     let ALL = [];
 
-    function card(n, label){ return `<div class="card"><div class="n">${n.toLocaleString("ro-RO")}</div><div class="l">${label}</div></div>`; }
+    const $ = (id) => document.getElementById(id);
+    const fmt = (n) => new Intl.NumberFormat("ro-RO").format(n);
+    const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
-    function render(list){
-      const rows = document.getElementById("rows");
-      document.getElementById("count").textContent = `${list.length} rezultate`;
-      if(!list.length){ rows.innerHTML = `<tr><td colspan="3" class="muted">Niciun rezultat.</td></tr>`; return; }
-      rows.innerHTML = list.map(o => {
-        const t = o.type || "";
-        const dom = o.domain ? `<a href="https://${o.domain}" rel="noopener">${o.domain}</a>` : "—";
-        return `<tr><td>${o.name||""}</td><td><span class="pill ${t}">${TYPE_LABEL[t]||t}</span></td><td>${dom}</td></tr>`;
+    function ledgerRows(stats, status) {
+      const c = status.collections || {};
+      return [
+        ["Persoane", "Demnitari, funcționari și administratori de firme, fiecare cu un identificator stabil", stats.gold?.persoane_canonice, "search.html?t=p"],
+        ["Declarații de avere și de interese", "Citite din PDF-urile publicate de instituții", stats.declaratii?.total],
+        ["Companii de stat", "Cu conducere, bilanț și contracte", stats.companii_stat?.total, "search.html?t=c"],
+        ["Firme cu contracte publice", "Câștigătoare în SICAP", stats.achizitii?.firme_castigatoare],
+        ["Achiziții directe", "Cumpărări fără licitație, pe furnizor", stats.achizitii?.achizitii_directe_total],
+        ["Instituții", "Centrale, deconcentrate și locale", c.organizatii],
+        ["Partide", "Subvenții de la stat și rapoarte financiare", stats.partide?.total, "search.html?t=partid"],
+        ["Comunicate DNA", "Legate de persoanele din bază", stats.audit?.dna_comunicate],
+      ].filter((r) => Number.isFinite(r[2]));
+    }
+
+    function renderLedger(stats, status) {
+      $("ledger").innerHTML = ledgerRows(stats, status).map(([label, what, n, href]) =>
+        `<tr><th scope="row">${href ? `<a href="${href}">${esc(label)}</a>` : esc(label)}</th><td class="what">${esc(what)}</td><td class="num">${fmt(n)}</td></tr>`
+      ).join("");
+      const gen = new Date(stats.generat || status.generated_at);
+      if (isNaN(gen)) { $("freshness").textContent = ""; return; }
+      const days = Math.max(0, Math.floor((Date.now() - gen) / MS_PER_DAY));
+      const when = gen.toLocaleDateString("ro-RO", { day: "numeric", month: "long", year: "numeric" });
+      const age = days === 0 ? "astăzi" : days === 1 ? "ieri" : `acum ${days} de zile`;
+      $("freshness").textContent = `Ultima actualizare completă: ${when} (${age}).`;
+    }
+
+    function renderOrgs(list) {
+      $("count").textContent = list.length === ALL.length ? `${list.length} instituții` : `${list.length} din ${ALL.length}`;
+      if (!list.length) { $("rows").innerHTML = `<tr><td colspan="3" class="note">Nicio instituție nu se potrivește. Șterge filtrul ca să vezi toată lista.</td></tr>`; return; }
+      $("rows").innerHTML = list.map((o) => {
+        const domain = /^[a-z0-9.-]+$/i.test(o.domain || "") ? `<a href="https://${o.domain}" rel="noopener">${esc(o.domain)}</a>` : "";
+        return `<tr><td>${esc(o.name)}</td><td class="note">${esc(TYPE_LABEL[o.type] || o.type || "")}</td><td>${domain}</td></tr>`;
       }).join("");
     }
 
-    async function load(){
-      try{
-        const [status, centrale] = await Promise.all([
-          fetch(`${DATA}/status.json`).then(r=>r.json()),
-          fetch(`${DATA}/organizatii/centrale.json`).then(r=>r.json()),
-        ]);
-        const c = status.collections || {};
-        document.getElementById("cards").innerHTML =
-          card(c.organizatii||0,"instituții (total)") +
-          card(c.organizatii_centrale||0,"centrale") +
-          card(c.organizatii_deconcentrate||0,"deconcentrate") +
-          card(c.organizatii_locale||0,"locale (CJ)") +
-          card(c.graph_edges||0,"relații graf");
-        document.getElementById("gen").textContent = (status.generated_at||"").slice(0,10);
-        ALL = (centrale.data||[]).slice().sort((a,b)=>(a.name||"").localeCompare(b.name||"","ro"));
-        render(ALL);
-      }catch(e){
-        document.getElementById("rows").innerHTML = `<tr><td colspan="3" class="muted">Nu am putut încărca datele (${e}). Rulează <code>python -m pipeline.run --build</code>.</td></tr>`;
+    async function getJson(path) {
+      const res = await fetch(`${DATA}/${path}`);
+      if (!res.ok) throw new Error(`${path}: HTTP ${res.status}`);
+      return res.json();
+    }
+
+    async function load() {
+      try {
+        const [status, stats, centrale] = await Promise.all([getJson("status.json"), getJson("stats.json"), getJson("organizatii/centrale.json")]);
+        renderLedger(stats, status);
+        ALL = (centrale.data || []).slice().sort((a, b) => (a.name || "").localeCompare(b.name || "", "ro"));
+        renderOrgs(ALL);
+      } catch (err) {
+        $("freshness").textContent = "Cifrele nu s-au putut încărca. Reîncarcă pagina.";
+        $("rows").innerHTML = `<tr><td colspan="3" class="note">Lista nu s-a putut încărca (${esc(err.message)}). Reîncarcă pagina.</td></tr>`;
       }
     }
 
-    document.getElementById("q").addEventListener("input", e=>{
+    $("q").addEventListener("input", (e) => {
       const q = e.target.value.trim().toLowerCase();
-      render(!q ? ALL : ALL.filter(o => (o.name||"").toLowerCase().includes(q) || (o.domain||"").toLowerCase().includes(q)));
+      renderOrgs(!q ? ALL : ALL.filter((o) => (o.name || "").toLowerCase().includes(q) || (o.domain || "").toLowerCase().includes(q)));
     });
     load();
   </script>
