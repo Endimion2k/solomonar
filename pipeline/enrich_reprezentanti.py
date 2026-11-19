@@ -17,13 +17,16 @@ import os
 import sys
 from datetime import datetime, timezone
 
-import requests
-
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT)
+
+from pipeline.onrc_stream import randuri  # noqa: E402
+
 V = os.path.join(ROOT, "data/v1")
 DS = "https://data.gov.ro/dataset/02a76fa6-70ef-47ed-8237-333f9b6b5939/resource"
 URL_FIRME = f"{DS}/e5b53db7-525c-4366-aeb2-fb721446e6d1/download/od_firme.csv"
 URL_REPS = f"{DS}/83a78def-11a5-47ac-9844-516581d4cf14/download/od_reprezentanti_legali.csv"
+MIN_KEEP_RATIO = 0.9   # țintele includ tot ce e publicat, deci o scădere mare = dump citit parțial
 
 
 def _load(p):
@@ -71,27 +74,15 @@ def _target_cuis() -> tuple[set, dict]:
     return cuis, names
 
 
-def _stream_rows(url: str):
-    with requests.get(url, stream=True, timeout=180) as r:
-        r.raise_for_status()
-        r.encoding = "utf-8"
-        it = r.iter_lines(decode_unicode=True)
-        header = next(it).lstrip("﻿")
-        cols = [h.strip().upper() for h in header.split("^")]
-        idx = {c: i for i, c in enumerate(cols)}
-        for line in it:
-            if line:
-                yield line.split("^"), idx
-
-
 def main() -> dict:
     cuis, names = _target_cuis()
     print(f"CUI-uri țintă: {len(cuis)}", flush=True)
+    publicate = len((_load(os.path.join(V, "companii/reprezentanti.json")) or {}).get("companii") or [])
 
     # 2. OD_FIRME → COD_INMATRICULARE -> CUI (doar ținte)
     reg2cui: dict[str, int] = {}
     n = 0
-    for parts, idx in _stream_rows(URL_FIRME):
+    for parts, idx in randuri(URL_FIRME):
         n += 1
         if n % 1_000_000 == 0:
             print(f"   OD_FIRME: {n//1_000_000}M rânduri, gasite={len(reg2cui)}", flush=True)
@@ -108,7 +99,7 @@ def main() -> dict:
     # 3. OD_REPREZENTANTI_LEGALI → reps
     reps: dict[int, list] = {}
     n = 0
-    for parts, idx in _stream_rows(URL_REPS):
+    for parts, idx in randuri(URL_REPS):
         n += 1
         if n % 1_000_000 == 0:
             print(f"   OD_REPS: {n//1_000_000}M rânduri", flush=True)
@@ -124,7 +115,10 @@ def main() -> dict:
                 reps.setdefault(cui, []).append({"nume": nume[:120], "calitate": cal[:40]})
 
     # 4. publică + îmbogățește
-    out = [{"cui": cui, "denumire": names.get(cui, ""), "reprezentanti": r} for cui, r in reps.items()]
+    if len(reps) < publicate * MIN_KEEP_RATIO:
+        raise SystemExit(f"REFUZ să suprascriu reprezentanti.json: {len(reps)} companii față de {publicate} "
+                         f"publicate. Dump-ul ONRC a fost citit parțial; fișierul publicat rămâne neschimbat.")
+    out =[{"cui": cui, "denumire": names.get(cui, ""), "reprezentanti": r} for cui, r in reps.items()]
     json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "sursa": "ONRC OD_REPREZENTANTI_LEGALI (data.gov.ro)",
                "companii_cu_reprezentanti": len(reps), "total_reprezentanti": sum(len(r) for r in reps.values()),
                "companii": out},

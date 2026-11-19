@@ -14,19 +14,18 @@ import os
 import re
 import sys
 
-import requests
-import urllib3
-
-urllib3.disable_warnings()
-
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, ROOT)
+
+from pipeline.onrc_stream import randuri  # noqa: E402
+
 V = os.path.join(ROOT, "data/v1")
 # câmpul WEB din dump-ul ONRC conține uneori un telefon (al asociatului) în loc de site → îl golim
 _WEB_OK = re.compile(r"^(?:https?://)?(?:www\.)?(?:[a-z0-9-]+\.)+[a-z]{2,}(?:[/:?#].*)?$", re.I)
 DS = "https://data.gov.ro/dataset/02a76fa6-70ef-47ed-8237-333f9b6b5939/resource"
 URL_FIRME = f"{DS}/e5b53db7-525c-4366-aeb2-fb721446e6d1/download/od_firme.csv"
 URL_CAEN = f"{DS}/bd4675cf-d3f1-402d-a750-16fcc9b0b9f2/download/od_caen_autorizat.csv"
-H = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120"}
+MIN_KEEP_RATIO = 0.9   # țintele includ tot ce e publicat, deci o scădere mare = dump citit parțial
 
 CAEN_DIV = {  # primele 2 cifre → diviziune (sumar)
     "01": "Agricultură", "02": "Silvicultură", "10": "Alimentar", "41": "Construcții clădiri",
@@ -69,26 +68,31 @@ def _targets():
     return cuis
 
 
-def _stream(url):
-    with requests.get(url, headers=H, stream=True, timeout=300, verify=False) as r:
-        r.raise_for_status()
-        r.encoding = "utf-8"
-        it = r.iter_lines(decode_unicode=True)
-        cols = next(it).lstrip("﻿").split("^")
-        idx = {c.strip().upper(): i for i, c in enumerate(cols)}
-        for line in it:
-            if line:
-                yield line.split("^"), idx
+FLAG_NOUA = "firmă nouă cu bani de stat"
+
+
+def mosteneste(f: dict, vechi: dict | None) -> list[str]:
+    """Pentru o firmă ieșită din listele-sursă (plafonate la top), păstrează ce se știa despre ea.
+
+    Fără anii de activitate nu se mai poate recalcula „firmă nouă”, iar are_contracte /
+    are_achizitii_directe ar deveni false deși firma a primit bani publici. Întoarce flag-urile moștenite.
+    """
+    if not vechi:
+        return []
+    f["are_contracte"] = bool(vechi.get("are_contracte"))
+    f["are_achizitii_directe"] = bool(vechi.get("are_achizitii_directe"))
+    return [x for x in (vechi.get("flaguri") or []) if x.startswith(FLAG_NOUA)]
 
 
 def main() -> dict:
+    publicate = (_load(os.path.join(V, "companii/firme_onrc.json")) or {})
     cuis = _targets()
     print(f"CUI-uri țintă (firme cu bani de stat): {len(cuis)}", flush=True)
 
     firme = {}      # cui -> profil
     reg2cui = {}    # cod_inmatriculare -> cui (pt. join CAEN)
     n = 0
-    for p, idx in _stream(URL_FIRME):
+    for p, idx in randuri(URL_FIRME):
         n += 1
         if n % 1_000_000 == 0:
             print(f"   OD_FIRME: {n//1_000_000}M, găsite={len(firme)}", flush=True)
@@ -116,7 +120,7 @@ def main() -> dict:
 
     # CAEN principal (primul cod per firmă) via cod înmatriculare
     n = 0
-    for p, idx in _stream(URL_CAEN):
+    for p, idx in randuri(URL_CAEN):
         n += 1
         if n % 2_000_000 == 0:
             print(f"   OD_CAEN: {n//1_000_000}M", flush=True)
@@ -137,17 +141,18 @@ def main() -> dict:
     ad = {int(r["cui"]): r for r in (_load(os.path.join(V, "companii/achizitii_directe.json")) or {}).get("furnizori", [])
           if str(r.get("cui", "")).isdigit()}
 
+    anterioare = {r["cui"]: r for r in (publicate.get("firme") or []) if isinstance(r.get("cui"), int)}
     out = list(firme.values())
     for f in out:
         cui = f["cui"]
         f["are_contracte"] = cui in cf
         f["are_achizitii_directe"] = cui in ad
         # flag-uri de accountability
-        flags = []
+        flags = mosteneste(f, anterioare.get(cui)) if cui not in cf and cui not in ad else []
         ani_active = (ad.get(cui, {}).get("ani_activi") or []) + [str(x) for x in (cf.get(cui, {}).get("ani", []) or [])]
         an_prim = min((int(a) for a in ani_active if str(a).isdigit()), default=None)
         if f.get("an_infiintare") and an_prim and an_prim - f["an_infiintare"] <= 1:
-            flags.append("firmă nouă cu bani de stat (înființată cu ≤1 an înainte de prima achiziție)")
+            flags.append(f"{FLAG_NOUA} (înființată cu ≤1 an înainte de prima achiziție)")
         if f.get("forma_juridica") in ("PF", "PFA", "AF", "II", "IF"):
             flags.append(f"persoană fizică/întreprindere individuală ({f['forma_juridica']}) cu bani de stat")
         if f.get("tara_mama") and f["tara_mama"].lower() not in ("", "românia", "romania"):
@@ -155,6 +160,12 @@ def main() -> dict:
         f["flaguri"] = flags
 
     flagged = [f for f in out if f["flaguri"]]
+    cu_caen = sum(1 for f in out if f.get("caen"))
+    for eticheta, nou, vechi in (("firme", len(out), publicate.get("total") or 0),
+                                 ("firme cu CAEN", cu_caen, publicate.get("cu_caen") or 0)):
+        if nou < vechi * MIN_KEEP_RATIO:
+            raise SystemExit(f"REFUZ să suprascriu firme_onrc.json: {nou} {eticheta} față de {vechi} publicate. "
+                             f"Dump-ul ONRC a fost citit parțial; fișierul publicat rămâne neschimbat.")
     os.makedirs(os.path.join(V, "companii"), exist_ok=True)
     json.dump({"sursa": "ONRC OD_FIRME + OD_CAEN_AUTORIZAT (data.gov.ro)",
                "nota": "Profil ONRC pt. firmele care au luat bani de la stat (contracte + achiziții directe). "
