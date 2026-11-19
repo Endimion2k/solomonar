@@ -141,6 +141,47 @@ tabel(
     },
 )
 
+# ---------------- rapoarte financiare anuale ----------------
+rvc = data.rapoarte_rvc_df()
+if not rvc.empty:
+    st.divider()
+    st.markdown("#### Rapoarte financiare anuale")
+    st.caption("Situațiile de venituri și cheltuieli pe care partidele le publică anual în Monitorul "
+               "Oficial (art. 16 din Legea 334/2006). Veniturile apar doar unde au putut fi citite "
+               "automat din document; pentru restul, deschide raportul.")
+    rvc = rvc.copy()
+    rvc["partid"] = rvc["partid_cod"].fillna("").str.upper().where(rvc["partid_cod"].notna(), rvc["partid_nume"])
+    rvc["an"] = pd.to_numeric(rvc["an"], errors="coerce")
+    rvc["continut"] = rvc["tip_raport"].map(
+        lambda t: ", ".join(x.replace("_", " ") for x in t) if isinstance(t, list) else "")
+    r1, r2 = st.columns([2, 1])
+    partide_rvc = sorted(rvc["partid"].dropna().unique(), key=lambda s: (len(s) > 12, s))
+    alese = r1.multiselect("Partide", partide_rvc, key="rvc_partide",
+                           placeholder="Toate partidele")
+    ani_rvc = sorted(rvc["an"].dropna().astype(int).unique(), reverse=True)
+    an_ales = r2.selectbox("An de raportare", ["Toți anii"] + ani_rvc, key="rvc_an")
+    vedere = rvc
+    if alese:
+        vedere = vedere[vedere["partid"].isin(alese)]
+    if an_ales != "Toți anii":
+        vedere = vedere[vedere["an"] == an_ales]
+    st.caption(f"{fmt_int(len(vedere))} rapoarte din {fmt_int(len(rvc))}.")
+    tabel(
+        vedere.sort_values(["an", "partid"], ascending=[False, True])[
+            ["partid", "an", "data_publicare", "mo_nr", "continut", "venituri", "reprezentant_legal", "url"]],
+        use_container_width=True, hide_index=True,
+        column_config={
+            "partid": st.column_config.TextColumn("Partid", width="medium"),
+            "an": st.column_config.NumberColumn("An", format="%d"),
+            "data_publicare": st.column_config.TextColumn("Publicat"),
+            "mo_nr": st.column_config.NumberColumn("Monitorul Oficial nr.", format="%d"),
+            "continut": st.column_config.TextColumn("Ce raportează", width="medium"),
+            "venituri": st.column_config.NumberColumn("Venituri citite (lei)", format="localized"),
+            "reprezentant_legal": st.column_config.TextColumn("Reprezentant legal"),
+            "url": st.column_config.LinkColumn("Document", display_text="deschide"),
+        },
+    )
+
 # ---------------- afiliere politică în conducerea SOE ----------------
 if guv.get("numiri"):
     st.divider()

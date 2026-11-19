@@ -15,7 +15,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 
 from app import data, ui
 from app.theme import tabel
-from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, apply_theme, fmt_int,
+from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, WARNING, apply_theme, fmt_int,
                        fmt_lei, fmt_pct, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Companii · SOLOMONAR", layout="wide")
@@ -220,6 +220,32 @@ if pick != "—":
         st.markdown("**Contracte și achiziții cu statul**")
         if not ui.firma_bani_stat(row["cui"], use_columns=False, titlu=""):
             st.info("Nu sunt înregistrate contracte sau achiziții directe pentru această companie.")
+
+    trend = data.bilanturi_trend(row["cui"])
+    if not trend.empty:
+        st.markdown(f"**Evoluție financiară, {int(trend['an'].min())}–{int(trend['an'].max())}**")
+        figt = go.Figure()
+        for col, nume_serie, culoare in (("cifra_afaceri", "Cifră de afaceri", ACCENT),
+                                         ("profit_net", "Profit net", ACCENT_2),
+                                         ("datorii", "Datorii", WARNING)):
+            if col in trend.columns and trend[col].notna().any():
+                figt.add_trace(go.Scatter(
+                    x=trend["an"], y=trend[col], mode="lines+markers", name=nume_serie,
+                    line=dict(color=culoare, width=2.5),
+                    customdata=trend[col].map(lambda v: fmt_lei(v) if pd.notna(v) else "—"),
+                    hovertemplate=f"{nume_serie} · %{{x}}<br>%{{customdata}}<extra></extra>"))
+        figt.update_layout(height=340, hovermode="x unified", yaxis_title="lei",
+                           legend=dict(orientation="h", y=1.12), margin=dict(l=60, r=20, t=30, b=40))
+        figt.update_xaxes(dtick=1)
+        st.plotly_chart(figt, use_container_width=True)
+        tabel(
+            trend.rename(columns={"an": "An", "cifra_afaceri": "Cifră de afaceri (lei)",
+                                  "profit_net": "Profit net (lei)", "datorii": "Datorii (lei)",
+                                  "nr_salariati": "Salariați"}),
+            use_container_width=True, hide_index=True,
+            column_config={"An": st.column_config.NumberColumn(format="%d")})
+        st.caption("Sursă: situațiile financiare anuale depuse la Ministerul Finanțelor. Un an fără "
+                   "valoare înseamnă că bilanțul nu era publicat la data colectării.")
 
     gc = data.guvernanta_companie(row["cui"])
     if gc:

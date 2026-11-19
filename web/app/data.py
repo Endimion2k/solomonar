@@ -462,6 +462,127 @@ def sanctiuni() -> dict:
     return {"meta": meta, "df": df}
 
 
+# ---------------- declarații: detaliu pe persoană (fișiere mari, citite punctual) ----------------
+def _read_json(rel: str):
+    """Citește un JSON FĂRĂ memoizare — pentru fișiere mari din care păstrăm doar câteva rânduri.
+    `_load_raw` ar ține tot fișierul în memorie pe durata procesului (73 MB de declarații)."""
+    if LIVE:
+        return _load_raw(rel)
+    p = os.path.join(DATA, rel.replace("/", os.sep))
+    if not os.path.exists(p):
+        return {}
+    with open(p, encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+def _decl_files() -> list[str]:
+    """Fișierele cu declarații detaliate (avere_*.json, interese_*.json); [] în modul LIVE."""
+    folder = os.path.join(DATA, "declaratii")
+    if LIVE or not os.path.isdir(folder):
+        return []
+    return sorted(f for f in os.listdir(folder)
+                  if f.endswith(".json") and f.split("_")[0] in ("avere", "interese"))
+
+
+@st.cache_data(show_spinner="Se indexează declarațiile…")
+def _decl_fisiere_pe_institutie() -> dict:
+    """instituție -> fișierele în care apare. Construit o singură dată, citind fișierele pe rând."""
+    out: dict = {}
+    for f in _decl_files():
+        for inst in {r.get("institutie") for r in _read_json(f"declaratii/{f}").get("declaratii", [])}:
+            if inst:
+                out.setdefault(inst, []).append(f)
+    return out
+
+
+def _name_tokens(s) -> tuple:
+    return tuple(sorted(_words(s).split()))
+
+
+@st.cache_data(show_spinner=False, max_entries=128)
+def declaratii_detaliu(nume_key: str, institutii: tuple) -> list:
+    """Declarațiile detaliate ale unei persoane: aceleași cuvinte în nume și aceeași instituție ca în graf.
+
+    Întoarce rânduri cu `tip` ('avere' / 'interese') și câmpurile din fișierul-sursă (active, datorii,
+    entități declarate, pdf_url). Citește doar fișierele instituțiilor persoanei.
+    """
+    tinta = _name_tokens(nume_key)
+    if not tinta or not institutii:
+        return []
+    index = _decl_fisiere_pe_institutie()
+    fisiere = sorted({f for inst in institutii for f in index.get(inst, [])})
+    out = []
+    for f in fisiere:
+        tip = f.split("_")[0]
+        for r in _read_json(f"declaratii/{f}").get("declaratii", []):
+            if r.get("institutie") in institutii and _name_tokens(r.get("nume_norm") or r.get("nume")) == tinta:
+                out.append({**r, "tip": tip})
+    return out
+
+
+# ---------------- CV: sursa documentului ----------------
+@st.cache_data(show_spinner=False)
+def _cv_urls() -> dict:
+    """cuvintele numelui (sortate) -> URL-ul CV-ului (companii de stat, deputați, senatori)."""
+    out: dict = {}
+    for rel in ("companii/cv.json", "companii/cv_parlament.json", "companii/cv_senatori.json"):
+        for c in _load_raw(rel).get("cv", []) or []:
+            if c.get("url") and c.get("nume"):
+                out.setdefault(_name_tokens(c["nume"]), c["url"])
+    return out
+
+
+def cv_url(nume_key: str) -> str:
+    return _cv_urls().get(_name_tokens(nume_key), "")
+
+
+# ---------------- bilanțuri pe ani ----------------
+@st.cache_data(show_spinner=False)
+def _bilanturi_trend() -> dict:
+    return {int(t["cui"]): t.get("ani") or {} for t in _load_raw("companii/bilanturi_trend.json").get("trend", [])
+            if str(t.get("cui", "")).isdigit()}
+
+
+def bilanturi_trend(cui) -> pd.DataFrame:
+    """Serie anuală (an, cifra_afaceri, profit_net, datorii, nr_salariati) pentru o companie; goală dacă lipsește."""
+    try:
+        ani = _bilanturi_trend().get(int(cui), {})
+    except (TypeError, ValueError):
+        ani = {}
+    rows = [{"an": int(an), **(vals or {})} for an, vals in ani.items() if str(an).isdigit()]
+    return pd.DataFrame(rows).sort_values("an") if rows else pd.DataFrame()
+
+
+# ---------------- partide: rapoarte financiare ----------------
+@st.cache_data(show_spinner=False)
+def rapoarte_rvc_df() -> pd.DataFrame:
+    """Rapoartele anuale de venituri și cheltuieli publicate de partide în Monitorul Oficial."""
+    rows = [{k: r.get(k) for k in ("partid_nume", "partid_cod", "an", "data_publicare", "mo_nr",
+                                   "tip_raport", "venituri", "reprezentant_legal", "url")}
+            for r in _load_raw("partide/rapoarte_rvc.json").get("data", [])]
+    return pd.DataFrame(rows)
+
+
+# ---------------- parlament: moțiuni, deputați, senatori ----------------
+@st.cache_data(show_spinner=False)
+def motiuni_df() -> pd.DataFrame:
+    df = pd.DataFrame(_load_raw("parlament/motiuni.json").get("motiuni", []))
+    if not df.empty:
+        df["data_iso"] = pd.to_datetime(df["data"], format="%d.%m.%Y", errors="coerce")
+        df["titlu"] = df["titlu"].fillna("").str.replace(r"\s+", " ", regex=True).str.strip(' "')
+    return df
+
+
+@st.cache_data(show_spinner=False)
+def deputati_df() -> pd.DataFrame:
+    return pd.DataFrame(_load_raw("parlament/deputati.json").get("data", []))
+
+
+@st.cache_data(show_spinner=False)
+def senatori_df() -> pd.DataFrame:
+    return pd.DataFrame(_load_raw("parlament/senatori.json").get("data", []))
+
+
 # ---------------- search index ----------------
 @st.cache_data(show_spinner=False)
 def search_index() -> list:

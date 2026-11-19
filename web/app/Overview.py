@@ -32,6 +32,7 @@ MENU: dict[str, list[tuple[str, str]]] = {
         ("6_Bugete.py", "Bugete"),
     ],
     "Parlament și partide": [
+        ("19_Parlament.py", "Moțiuni, deputați, senatori"),
         ("8_Comisii.py", "Comisii și legislație"),
         ("5_Partide.py", "Partide"),
     ],

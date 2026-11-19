@@ -49,10 +49,16 @@ def clean_text(s: str) -> str:
     """CV-urile conțin entități HTML (&#536; etc.) și fragmente JS — curățăm pentru afișare."""
     if not s:
         return ""
-    s = html.unescape(str(s))
-    s = re.sub(r"function\s+\w+\([^)]*\)\s*\{?", "", s)  # scoate snippet-uri JS
-    s = s.replace("|", " · ")
-    return re.sub(r"\s{2,}", " ", s).strip(" ·\t\n")
+    parti = [re.sub(r"\s{2,}", " ", x).strip() for x in html.unescape(str(s)).split("|")]
+    return " · ".join(x for x in parti if x and not _JS_FRAGMENT.search(x))
+
+
+# bucăți de cod luate odată cu pagina CV-ului (analytics, cookie banner) și subsoluri Europass —
+# nu sunt text de CV
+_JS_FRAGMENT = re.compile(
+    r"function\s*\w*\s*\(|=>|\bwindow\.|\bdocument\.|dataLayer|addEventListener|onInitialise|"
+    r"\bgtag\(|cookieconsent|[{}]\s*$|\)\s*;\s*$|^\s*[})\]]|\bvar\s+\w+\s*=|\$\(|"
+    r"europass\.cedefop|^Pagina \d+\s*/\s*\d+$")
 
 
 df = data.persoane_df()
@@ -290,13 +296,65 @@ if pl:
                     st.markdown(f"- {html.escape(str(cm))}")
 
 st.markdown("")
+
+# --- declarații: detaliu din documentele-sursă ---
+decl = p.get("declaratii") or []
+institutii = tuple(sorted({d.get("institutie") for d in decl if d.get("institutie")}))
+detaliu = data.declaratii_detaliu(p.get("nume_key") or "", institutii)
+avere = [d for d in detaliu if d["tip"] == "avere"]
+interese = [d for d in detaliu if d["tip"] == "interese"]
+
+if avere:
+    st.markdown(f"##### Declarații de avere ({len(avere)})")
+    tabel(
+        pd.DataFrame(avere)[["institutie", "venituri_ron", "conturi_ron", "datorii_ron",
+                             "terenuri", "cladiri", "auto", "pdf_url"]],
+        use_container_width=True, hide_index=True,
+        column_config={
+            "institutie": st.column_config.TextColumn("Instituție", width="medium"),
+            "venituri_ron": st.column_config.NumberColumn("Venituri (lei)", format="localized"),
+            "conturi_ron": st.column_config.NumberColumn("Conturi (lei)", format="localized"),
+            "datorii_ron": st.column_config.NumberColumn("Datorii (lei)", format="localized"),
+            "terenuri": st.column_config.NumberColumn("Terenuri", help="Număr de terenuri declarate."),
+            "cladiri": st.column_config.NumberColumn("Clădiri", help="Număr de clădiri declarate."),
+            "auto": st.column_config.NumberColumn("Vehicule"),
+            "pdf_url": st.column_config.LinkColumn("Document", display_text="PDF"),
+        },
+    )
+
+if interese:
+    st.markdown(f"##### Declarații de interese ({len(interese)})")
+    tabel(
+        pd.DataFrame(interese)[["institutie", "actionariat", "conducere", "prof_sindicat", "partid",
+                                "contracte", "valoare_actiuni_ron", "pdf_url"]],
+        use_container_width=True, hide_index=True,
+        column_config={
+            "institutie": st.column_config.TextColumn("Instituție", width="medium"),
+            "actionariat": st.column_config.NumberColumn("Acțiuni / părți sociale",
+                                                         help="Număr de firme la care declară acțiuni."),
+            "conducere": st.column_config.NumberColumn("Funcții de conducere"),
+            "prof_sindicat": st.column_config.NumberColumn("Asociații / sindicate"),
+            "partid": st.column_config.NumberColumn("Funcții în partid"),
+            "contracte": st.column_config.NumberColumn("Contracte cu statul"),
+            "valoare_actiuni_ron": st.column_config.NumberColumn("Valoare acțiuni (lei)", format="localized"),
+            "pdf_url": st.column_config.LinkColumn("Document", display_text="PDF"),
+        },
+    )
+    entitati = sorted({e.strip() for d in interese for e in (d.get("entitati") or []) if e and e.strip()})
+    if entitati:
+        with st.expander(f"Entități trecute în declarațiile de interese ({len(entitati)})"):
+            st.markdown("\n".join(f"- {html.escape(e)}" for e in entitati))
+
+if avere or interese:
+    st.caption("Cifrele sunt extrase automat din PDF-uri (unele scanate) și pot fi greșite, mai ales "
+               "numărul de vehicule, terenuri și clădiri. Deschide documentul înainte de a cita o valoare.")
+
 left, right = st.columns(2)
 
-# --- declarații (instituții) ---
+# --- declarații (rezumat din graf, când detaliul nu e disponibil) ---
 with left:
-    st.markdown("##### Declarații de avere / interese")
-    decl = p.get("declaratii") or []
-    if decl:
+    st.markdown("##### Declarații în graf")
+    if decl and not (avere or interese):
         ddf = pd.DataFrame(decl)
         for c in ("tip", "institutie", "venituri_ron"):
             if c not in ddf.columns:
@@ -310,6 +368,9 @@ with left:
                 "venituri_ron": st.column_config.NumberColumn("Venituri (lei)", format="%.0f"),
             },
         )
+    elif decl:
+        st.caption(f"{len(decl)} declarații, la {len(institutii)} "
+                   f"{'instituție' if len(institutii) == 1 else 'instituții'}: {', '.join(institutii)}.")
     else:
         st.caption("Fără declarații înregistrate.")
 
@@ -374,12 +435,15 @@ cv = p.get("cv") or {}
 studii = clean_text(cv.get("studii", "")) if isinstance(cv, dict) else ""
 exp = clean_text(cv.get("experienta", "")) if isinstance(cv, dict) else ""
 if studii or exp:
-    with st.expander("CV — studii & experiență"):
-        if studii:
-            st.markdown("**Studii**")
-            st.write(studii)
-        if exp:
-            st.markdown("**Experiență**")
-            st.write(exp)
+    st.markdown("##### CV")
+    if studii:
+        st.markdown("**Studii**")
+        st.markdown("\n".join(f"- {html.escape(x)}" for x in studii.split(" · ")))
+    if exp:
+        st.markdown("**Experiență**")
+        st.markdown("\n".join(f"- {html.escape(x)}" for x in exp.split(" · ")))
+    sursa_cv = data.cv_url(p.get("nume_key") or "")
+    st.caption("Text extras automat din CV-ul publicat, uneori trunchiat."
+               + (f" [Deschide sursa]({sursa_cv})." if sursa_cv else ""))
 elif not p.get("are_cv"):
     st.caption("Fără CV disponibil pentru această persoană.")
