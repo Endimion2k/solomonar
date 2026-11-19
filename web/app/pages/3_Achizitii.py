@@ -54,7 +54,7 @@ if not top.empty:
     ))
     fig.update_layout(height=560, yaxis=dict(autorange="reversed"),
                       xaxis_title="valoare contracte (lei)", margin=dict(l=10, r=20, t=10, b=40))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
     st.caption("Valorile mari pot include contracte-cadru multianuale; vezi numărul de contracte la hover.")
 
 st.divider()
@@ -114,5 +114,5 @@ else:
     ))
     fig.update_layout(height=380, yaxis=dict(autorange="reversed"),
                       xaxis_title="contracte (lei)", margin=dict(l=10, r=20, t=10, b=40))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
     st.caption("Sursă: vederi analitice DuckDB (companii de stat agregate pe sector economic).")

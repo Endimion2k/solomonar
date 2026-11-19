@@ -4,7 +4,7 @@ FILTRU: firmele cu flag 'firmă nouă cu bani de stat' (înființate cu ≤1 an 
 prima achiziție) ȘI care au contracte (canalul mare). Restul firmelor noi ajung la stat
 doar prin achiziții directe — apar ca agregat în notă.
 
-ATENȚIE: o firmă tânără cu contract NU înseamnă neregulă. E un LEAD de verificat, nu o acuzație.
+ATENȚIE: o firmă tânără cu contract nu înseamnă neregulă. E o pistă de verificat, nu o acuzație.
 """
 
 from __future__ import annotations
@@ -43,7 +43,7 @@ st.markdown(
     f"<div style='background:rgba(245,158,11,.10);border:1px solid {WARNING};"
     f"border-radius:12px;padding:14px 18px;margin-bottom:6px;font-size:13px;color:{TEXT_DIM}'>"
     f"<b style='color:{WARNING}'>Citește înainte:</b> o firmă tânără care a câștigat un "
-    f"contract cu statul <b>NU înseamnă automat o neregulă</b>. Multe sunt perfect legitime "
+    f"contract cu statul <b>nu înseamnă automat o neregulă</b>. Multe sunt perfect legitime "
     f"(antreprenori noi, spin-off-uri, firme de proiect). Această listă este un set de "
     f"<b>lead-uri de verificat</b> — semnale de tip „paravan posibil” —, "
     f"<b>nu o acuzație</b>. Verifică fiecare caz individual înainte de orice concluzie.</div>",
@@ -129,7 +129,7 @@ else:
     ))
     fig.update_layout(height=340, xaxis_title="an înființare", yaxis_title="firme",
                       margin=dict(l=10, r=20, t=10, b=40))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
     st.caption("Anii recenți (multe firme tinere cu contracte) merită cea mai atentă verificare.")
 
 st.divider()

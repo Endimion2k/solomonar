@@ -94,7 +94,7 @@ if geojson and geojson.get("features"):
         map_style="carto-darkmatter", map_zoom=5.1,
         map_center={"lat": 45.9, "lon": 25.0},
         height=520, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)")
-    st.plotly_chart(figm, use_container_width=True)
+    st.plotly_chart(figm, width="stretch")
     st.caption("Culoarea = intensitatea metricii alese pe județ. Treci cu mouse-ul pentru valori.")
 else:
     st.caption("GeoJSON-ul județelor nu e disponibil — vezi clasamentul de mai jos.")
@@ -121,7 +121,7 @@ else:
         yaxis=dict(autorange="reversed"),
         xaxis_title=metric_label, margin=dict(l=10, r=20, t=10, b=40),
     )
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 st.caption("Clasament orizontal — complementar hărții de mai sus.")
 
@@ -141,7 +141,7 @@ if not sc.empty:
     ))
     fig2.update_layout(height=460, xaxis_title="număr companii",
                        yaxis_title="număr angajați")
-    st.plotly_chart(fig2, use_container_width=True)
+    st.plotly_chart(fig2, width="stretch")
 
 st.divider()
 

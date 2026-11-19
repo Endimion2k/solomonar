@@ -71,7 +71,7 @@ with col_r:
                                marker_color=ACCENT))
         fig.update_layout(height=320, yaxis=dict(autorange="reversed"),
                           xaxis_title="contracte (lei)")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
 st.divider()
 st.markdown("#### Participații de stat (BVB) — companiile mari listate")
@@ -79,6 +79,6 @@ ps = data.analytics("participatii_stat")
 if not ps.empty:
     fig = go.Figure(go.Bar(x=ps["nume"].head(12), y=ps["procent_stat"].head(12), marker_color=ACCENT_2))
     fig.update_layout(height=300, yaxis_title="% deținut de stat", xaxis_tickangle=-30)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 st.caption(f"{data_freshness()}. Paginile din bara laterală intră în detaliu pe fiecare temă.")

@@ -1,7 +1,7 @@
 """Anomalii de avere — profiluri statistic neobișnuite (PyOD/ECOD) pe declarațiile de avere.
 
-Sursă: data/v1/avere_anomalii.json (vezi pipeline/build_avere_anomalii.py). Lead-uri de verificat —
-scorul mare = profil declarat neobișnuit față de restul, NU dovadă de îmbogățire ilicită.
+Sursă: data/v1/avere_anomalii.json (vezi pipeline/build_avere_anomalii.py). Piste de verificat —
+scorul mare = profil declarat neobișnuit față de restul, nu dovadă de îmbogățire ilicită.
 """
 
 from __future__ import annotations
@@ -23,7 +23,7 @@ apply_theme()
 sidebar_brand()
 page_header("Anomalii de avere",
             "Profiluri declarate statistic neobișnuite față de restul (PyOD/ECOD pe venituri, conturi, "
-            "datorii, terenuri, clădiri, auto). Lead-uri de verificat — NU dovezi de îmbogățire.")
+            "datorii, terenuri, clădiri, auto). Piste de verificat — nu dovezi de îmbogățire.")
 
 av = data.avere_anomalii()
 items = (av or {}).get("items") or []

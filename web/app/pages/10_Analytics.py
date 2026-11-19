@@ -70,7 +70,7 @@ else:
                           yaxis=dict(autorange="reversed"),
                           xaxis_title="contracte câștigate (lei)",
                           margin=dict(l=10, r=20, t=10, b=40))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     tabel(
         sec, use_container_width=True, hide_index=True,
@@ -118,7 +118,7 @@ else:
         fig.update_layout(height=max(360, 30 * len(plot)),
                           yaxis=dict(autorange="reversed"),
                           xaxis_title=pick, margin=dict(l=10, r=20, t=10, b=40))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     tabel(
         tut.sort_values("n_companii", ascending=False),
@@ -169,7 +169,7 @@ else:
                           yaxis=dict(autorange="reversed"),
                           xaxis_title="contracte de stat ale firmelor asociate (lei)",
                           margin=dict(l=10, r=20, t=10, b=40))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         st.caption("Culoarea = nivelul de încredere al asocierii persoană↔firmă "
                    "(verde=high, cyan=context, gri=candidat).")
 
@@ -217,7 +217,7 @@ else:
                               yaxis=dict(autorange="reversed"),
                               xaxis_title="% deținut de stat",
                               margin=dict(l=10, r=20, t=10, b=40))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
     with cc2:
         st.markdown("**Capitalizare bursieră (lei)**")
@@ -233,7 +233,7 @@ else:
                               yaxis=dict(autorange="reversed"),
                               xaxis_title="capitalizare (lei)",
                               margin=dict(l=10, r=20, t=10, b=40))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
     tabel(
         par.drop(columns=["cap_num"]).sort_values("procent_stat", ascending=False),

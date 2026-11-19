@@ -1,6 +1,6 @@
 """Red-flags achiziții — single-bid + fragmentare (metodologie OCDS), din datele per-linie SICAP.
 
-Sursă: data/v1/redflags.json (vezi pipeline/harvest_redflags.py). Lead-uri de verificat, NU acuzații.
+Sursă: data/v1/redflags.json (vezi pipeline/harvest_redflags.py). Piste de verificat, nu acuzații.
 """
 
 from __future__ import annotations

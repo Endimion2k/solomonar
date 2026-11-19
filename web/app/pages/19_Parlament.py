@@ -46,7 +46,7 @@ def bare_partide(df: pd.DataFrame, coloana: str) -> None:
                            hovertemplate="<b>%{y}</b><br>%{x} mandate<extra></extra>"))
     fig.update_layout(height=max(220, 34 * len(numar)), margin=dict(l=90, r=20, t=10, b=30),
                       xaxis_title="mandate")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 tab_motiuni, tab_deputati, tab_senatori = st.tabs(["Moțiuni", "Deputați", "Senatori"])
@@ -76,7 +76,7 @@ with tab_motiuni:
         fig.update_layout(barmode="stack", height=320, xaxis_title="legislatura (anul de început)",
                           yaxis_title="moțiuni", legend=dict(orientation="h", y=1.14),
                           margin=dict(l=50, r=20, t=30, b=40))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         st.markdown("#### Lista moțiunilor")
         f1, f2, f3 = st.columns([1, 1, 2])

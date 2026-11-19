@@ -1,4 +1,4 @@
-"""Sancțiuni & PEP — entități cu legătură RO din OpenSanctions (referință, NU acuzație)."""
+"""Sancțiuni & PEP — entități cu legătură RO din OpenSanctions (referință, nu acuzație)."""
 
 from __future__ import annotations
 
@@ -66,7 +66,7 @@ kpi_card(c1, "Entități RO (total)", fmt_int(meta["total"]),
 kpi_card(c2, "Sancționați (liste oficiale)", fmt_int(meta["sanctiuni"]),
          help="Persoane/entități pe liste internaționale de sancțiuni (EU/OFAC/UN ș.a.).")
 kpi_card(c3, "PEP (expunere politică)", fmt_int(meta["pep"]),
-         help="Politically Exposed Persons — demnitari/funcții publice. NU este o acuzație.")
+         help="Politically Exposed Persons — demnitari/funcții publice. nu este o acuzație.")
 kpi_card(c4, "În graful SOLOMONAR", fmt_int(meta["in_graf"]),
          help="Apar și în datele SOLOMONAR (match pe nume — posibil omonim).")
 
@@ -124,7 +124,7 @@ pep = df[df["dataset"] == "peps"].copy()
 n_pep_graf = int(pep["in_graf"].sum())
 st.markdown(f"### Politically Exposed Persons (PEP) — {fmt_int(len(pep))}")
 st.caption("Demnitari, parlamentari și funcționari publici. Expunerea politică este firească "
-           "pentru aceste funcții — apariția în listă NU înseamnă o problemă.")
+           "pentru aceste funcții — apariția în listă nu înseamnă o problemă.")
 
 fcol1, fcol2 = st.columns([1, 2])
 doar_graf = fcol1.toggle(f"Doar cei din graful SOLOMONAR ({fmt_int(n_pep_graf)})", value=True,

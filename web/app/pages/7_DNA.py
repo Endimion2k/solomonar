@@ -1,7 +1,7 @@
 """SOLOMONAR · DNA — comunicate publice DNA (8.998). Căutare text, filtru an, link sursă.
 
 PREZUMȚIA DE NEVINOVĂȚIE: comunicatele DNA descriu trimiteri în judecată / urmăriri penale,
-NU condamnări definitive. Orice persoană este nevinovată până la o hotărâre judecătorească definitivă.
+nu condamnări definitive. Orice persoană este nevinovată până la o hotărâre judecătorească definitivă.
 """
 
 from __future__ import annotations
@@ -72,7 +72,7 @@ if not per_an.empty:
     fig = go.Figure(go.Bar(x=per_an["an_int"].astype(int), y=per_an["n"], marker_color=ACCENT))
     fig.update_layout(height=260, xaxis_title="an", yaxis_title="comunicate",
                       xaxis=dict(dtick=2))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 st.divider()
 

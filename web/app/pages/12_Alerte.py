@@ -1,8 +1,8 @@
-"""SOLOMONAR · Alerte & semnale — semnale de interes generate automat (NU acuzații).
+"""SOLOMONAR · Alerte & semnale — semnale de interes generate automat (nu acuzații).
 
 Sursă: data/v1/alerte.json. Semnalele sunt produse prin reguli deterministe peste date
 deschise. Singurele defensabile fără verificare suplimentară sunt cele de tip
-'conflict_confirmat' (firma apare în PROPRIA declarație de interese a persoanei).
+'conflict_confirmat' (firma apare în propria declarație de interese a persoanei).
 """
 
 from __future__ import annotations
@@ -26,7 +26,7 @@ sidebar_brand()
 
 page_header("Alerte & semnale",
             "Semnale de interes generate automat din date deschise prin reguli deterministe. "
-            "Acestea sunt indicii de verificat, NU acuzații.")
+            "Acestea sunt indicii de verificat, nu acuzații.")
 
 raw = data.alerte()
 alerte = raw.get("alerte", []) if isinstance(raw, dict) else []
@@ -177,7 +177,7 @@ st.divider()
 conf = df[df["tip"] == "conflict_confirmat"].sort_values("titlu")
 if not conf.empty:
     st.markdown(f"#### Conflicte documentate ({fmt_int(len(conf))})")
-    st.caption("Cele mai importante: firma apare în PROPRIA declarație de interese a persoanei. "
+    st.caption("Cele mai importante: firma apare în propria declarație de interese a persoanei. "
                "Singurele semnale defensabile fără verificare suplimentară.")
     for _, r in conf.iterrows():
         full = alerte[int(r["_idx"])]

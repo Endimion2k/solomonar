@@ -24,7 +24,7 @@ st.set_page_config(page_title="Rețele & inele · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Rețele & inele",
-            "Firme legate prin ADMINISTRATORI COMUNI (date reale ONRC) — grupuri de control, "
+            "Firme legate prin administratori comuni (date reale ONRC) — grupuri de control, "
             "administratori-hub și firme-pod. Calcul de graf cu igraph.")
 
 net = data.network_metrics()
@@ -57,7 +57,7 @@ tab_inele, tab_hub, tab_pod = st.tabs(
 with tab_inele:
     st.markdown("#### Inele de control cu bani de stat")
     st.caption("Grupuri de firme cu administratori comuni, în care cel puțin o firmă a luat bani de la "
-               "stat. Sortate după valoarea totală. Un grup de firme controlate de aceiași oameni NU e "
+               "stat. Sortate după valoarea totală. Un grup de firme controlate de aceiași oameni nu e "
                "ilegal — e context pentru investigație.")
 
     fc1, fc2 = st.columns([3, 1])

@@ -206,7 +206,7 @@ def _render_senat() -> None:
                 fig.update_layout(height=240, yaxis=dict(autorange="reversed"),
                                   xaxis=dict(range=[0, int(rol_cnt["n"].max()) * 1.2]),
                                   xaxis_title="număr membri", title="Roluri în comisie")
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
         else:
             st.caption("Comisia nu are membri înregistrați în setul de date.")
 
@@ -216,7 +216,7 @@ def _render_senat() -> None:
                        for c in comisii]).sort_values("membri", ascending=True)
     fig = go.Figure(go.Bar(x=ov["membri"], y=ov["comisie"], orientation="h", marker_color=ACCENT))
     fig.update_layout(height=max(320, 22 * len(ov)), xaxis_title="număr membri", margin=dict(l=10))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 
 # ====================================================================
@@ -259,7 +259,7 @@ def _render_legislativ() -> None:
             text=[fmt_int(n_guvern), fmt_int(n_parl)], textposition="outside", cliponaxis=False))
         fig.update_layout(height=300, yaxis_title="număr proiecte",
                           yaxis=dict(range=[0, max(n_guvern, n_parl, 1) * 1.15]))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     with col_b:
         st.markdown("#### Număr inițiatori / proiect")
         parl = plx.loc[~plx["guvern"] & (plx["n_initiatori"] > 0), "n_initiatori"]
@@ -267,7 +267,7 @@ def _render_legislativ() -> None:
             fig = go.Figure(go.Histogram(x=parl, marker_color=ACCENT_2, nbinsx=40))
             fig.update_layout(height=300, xaxis_title="inițiatori per proiect",
                               yaxis_title="proiecte (doar parlamentare)")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         else:
             st.caption("Fără date de inițiatori pentru proiecte parlamentare.")
 

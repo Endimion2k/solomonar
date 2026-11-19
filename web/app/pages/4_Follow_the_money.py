@@ -1,8 +1,8 @@
 """Follow the money — legături persoane ↔ firme cu contracte de stat (SOLOMONAR).
 
 Două niveluri de încredere:
-  • CONFIRMATE — firma apare explicit în declarația de interese a persoanei (defensabil).
-  • Candidați — potriviri pe nume (posibili omonimi), NU acuzații; necesită verificare.
+  • Confirmate — firma apare explicit în declarația de interese a persoanei (defensabil).
+  • Candidați — potriviri pe nume (posibili omonimi), nu acuzații; necesită verificare.
 """
 
 from __future__ import annotations
@@ -113,7 +113,7 @@ st.markdown(
     f"border-radius:10px;padding:12px 16px;font-size:13px;color:#f1d6a0;margin-bottom:12px'>"
     "<b>De citit înainte.</b> Aceste legături sunt deduse din <b>potrivirea numelui</b> dintre o persoană "
     "publică și administratorul/asociatul unei firme cu contracte de stat. "
-    "Pot fi <b>omonime</b> (persoane diferite cu același nume) și <b>NU constituie acuzații</b>. "
+    "Pot fi <b>omonime</b> (persoane diferite cu același nume) și <b>nu constituie acuzații</b>. "
     "Sunt piste de cercetare care necesită verificare independentă (CUI, CNP, surse oficiale) "
     "înainte de orice concluzie.</div>",
     unsafe_allow_html=True)
@@ -187,7 +187,7 @@ else:
             ))
             fig.update_layout(height=520, yaxis=dict(autorange="reversed"),
                               xaxis_title="contracte (lei)", margin=dict(l=10, r=20, t=10, b=40))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
     with colB:
         st.markdown("**Detaliu administratori**")
         det = rcv.head(40).copy()

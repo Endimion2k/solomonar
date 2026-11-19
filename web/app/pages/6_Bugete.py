@@ -82,7 +82,7 @@ else:
             height=620, barmode="group", yaxis=dict(autorange="reversed"),
             xaxis_title="lei", legend=dict(orientation="h", y=1.05, x=0),
             margin=dict(l=10, r=20, t=30, b=40))
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         # -------------------------------------------------- tabel UAT
         st.markdown(f"#### Detaliu UAT — {fmt_int(len(df))} rezultate")
@@ -127,7 +127,7 @@ else:
         height=380, xaxis_tickangle=-40, yaxis_title="mil lei",
         legend=dict(orientation="h", y=1.08, x=0),
         margin=dict(l=40, r=20, t=30, b=80))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     # sold lunar (deficit) ca bare
     st.markdown("##### Sold lunar (deficit/excedent cumulat)")
@@ -138,7 +138,7 @@ else:
     figs.update_layout(
         height=300, xaxis_tickangle=-40, yaxis_title="sold (mil lei)",
         margin=dict(l=40, r=20, t=20, b=80))
-    st.plotly_chart(figs, use_container_width=True)
+    st.plotly_chart(figs, width="stretch")
 
     # tabel sintetic BGC
     show = g[["perioada", "an", "luna_nume", "venituri_mil_lei",
@@ -180,7 +180,7 @@ else:
         hovertemplate="%{x}<br>%{y:,.0f}<extra></extra>"))
     fig.update_layout(height=360, xaxis_tickangle=-40,
                       margin=dict(l=40, r=20, t=20, b=90))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
     tabel(
         jc.sort_values("cifra_afaceri", ascending=False),

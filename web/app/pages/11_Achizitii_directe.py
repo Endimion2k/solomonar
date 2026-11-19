@@ -52,7 +52,7 @@ fig = go.Figure(go.Bar(
     hovertemplate="%{y}<br>%{x:,.0f} lei · %{customdata:,} achiziții<extra></extra>"))
 fig.update_layout(height=560, margin=dict(l=10, r=10, t=10, b=10),
                   xaxis_title=f"lei (total {meta.get('acoperire') or ''})", yaxis_title=None)
-st.plotly_chart(fig, use_container_width=True)
+st.plotly_chart(fig, width="stretch")
 
 # ---------------- filtre + tabel ----------------
 st.subheader("Caută furnizori")
@@ -110,5 +110,5 @@ if not f.empty:
                 "vezi pagina Companii / Persoane pentru cine o conduce.")
 
 st.caption("Achizițiile directe sunt cumpărări legale sub pragul de licitație. Volumul mare la un "
-           "furnizor NU implică nereguli — este context pentru analize (concentrare, dependență de un "
+           "furnizor nu implică nereguli — este context pentru analize (concentrare, dependență de un "
            "client public, fragmentare suspectă a achizițiilor).")

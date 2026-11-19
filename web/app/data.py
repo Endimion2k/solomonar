@@ -558,7 +558,8 @@ def bilanturi_trend(cui) -> pd.DataFrame:
 def rapoarte_rvc_df() -> pd.DataFrame:
     """Rapoartele anuale de venituri și cheltuieli publicate de partide în Monitorul Oficial."""
     rows = [{k: r.get(k) for k in ("partid_nume", "partid_cod", "an", "data_publicare", "mo_nr",
-                                   "tip_raport", "venituri", "reprezentant_legal", "url")}
+                                   "venituri", "cotizatii", "donatii", "alte_venituri", "imprumuturi",
+                                   "reprezentant_legal", "url")}
             for r in _load_raw("partide/rapoarte_rvc.json").get("data", [])]
     return pd.DataFrame(rows)
 

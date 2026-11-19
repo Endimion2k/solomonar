@@ -115,7 +115,7 @@ else:
     ))
     fig.update_layout(height=480, margin=dict(l=10, r=20, t=10, b=40),
                       xaxis_title="valoare contracte (lei)")
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width="stretch")
 
 # ---------------- guvernanță: date oficiale guvernanta.gov.ro ----------------
 guv = data.guvernanta()
@@ -147,7 +147,7 @@ if guv.get("numiri"):
         figa.update_layout(height=280, yaxis=dict(autorange="reversed"),
                            xaxis=dict(range=[0, max([v for _, v in parts] or [1]) * 1.2]),
                            margin=dict(l=10, r=40, t=10, b=10))
-        st.plotly_chart(figa, use_container_width=True)
+        st.plotly_chart(figa, width="stretch")
     with gb:
         st.markdown("**Remunerație brută lunară pe rol (lei)**")
         rol_lbl = {"board_chair": "Președinte CA", "board_member": "Membru CA / CS",
@@ -237,7 +237,7 @@ if pick != "—":
         figt.update_layout(height=340, hovermode="x unified", yaxis_title="lei",
                            legend=dict(orientation="h", y=1.12), margin=dict(l=60, r=20, t=30, b=40))
         figt.update_xaxes(dtick=1)
-        st.plotly_chart(figt, use_container_width=True)
+        st.plotly_chart(figt, width="stretch")
         tabel(
             trend.rename(columns={"an": "An", "cifra_afaceri": "Cifră de afaceri (lei)",
                                   "profit_net": "Profit net (lei)", "datorii": "Datorii (lei)",
@@ -282,7 +282,7 @@ if pick != "—":
         ))
         figp.update_layout(height=280, showlegend=False,
                            margin=dict(l=10, r=10, t=10, b=10))
-        st.plotly_chart(figp, use_container_width=True)
+        st.plotly_chart(figp, width="stretch")
 
 st.caption("Notă: cifra de afaceri și profitul net pot lipsi când raportarea financiară "
            "nu este disponibilă; procentul deținut de stat provine din acționariatul BVB "
