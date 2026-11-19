@@ -206,9 +206,9 @@ def _write_output(ck, ani_proc) -> dict:
         "acoperire": "Toate resursele SICAP (CSV + .xls). Single-bid (nr. ofertanți) doar pe anii cu acea "
                      "coloană (format CSV bogat); pe anii .xls recenți se folosește în loc indicatorul "
                      "„procedură necompetitivă”. Fragmentarea acoperă toate cumpărările directe.",
-        "disclaimer": "Red-flags = indicatori de RISC din date deschise (metodologie OCDS/open-tender-watch). "
-                      "NU sunt dovezi de ilegalitate — sunt lead-uri de verificat. Single-bid, procedurile "
-                      "necompetitive și atribuirile directe repetate pot fi perfect legale.",
+        "disclaimer": "Indicatori de risc calculați din date deschise (metodologie OCDS / open-tender-watch). "
+                      "Nu sunt dovezi de ilegalitate, ci piste de verificat. O singură ofertă, o procedură "
+                      "necompetitivă sau atribuiri directe repetate pot fi perfect legale.",
         "single_bid": {
             "nota": f"Contracte (licitații) cu o singură ofertă primită, peste {int(PRAG_SINGLE_BID):,} lei.",
             "total": len(single), "items": single[:1500]},

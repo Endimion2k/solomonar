@@ -272,6 +272,18 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
     }
 
 
+MIN_KEEP_RATIO = 0.5   # sub jumătate din ce e publicat = sursă căzută, nu date noi
+
+
+def _count_published(path: str) -> int:
+    """Câte rapoarte are fișierul deja publicat (0 dacă lipsește sau nu se poate citi)."""
+    try:
+        with open(path, encoding="utf-8") as fh:
+            return len(json.load(fh).get("data") or [])
+    except (OSError, ValueError):
+        return 0
+
+
 def main(max_pages: int | None = None, only_parlamentare: bool = False,
          ani: tuple[int, ...] | None = None) -> dict:
     # implicit = domeniul publicat: toate partidele, anii de raportare 2020 → anul curent
@@ -319,6 +331,12 @@ def main(max_pages: int | None = None, only_parlamentare: bool = False,
     uniq.sort(key=lambda r: (r["partid_cod"] or "zzz", r["an"] or 0))
 
     out_path = os.path.join(V, "rapoarte_rvc.json")
+    existente = _count_published(out_path)
+    if len(uniq) < existente * MIN_KEEP_RATIO:
+        raise SystemExit(
+            f"REFUZ să suprascriu rapoarte_rvc.json: {len(uniq)} rapoarte noi față de {existente} "
+            f"publicate (căutarea a întors {len(items)} documente). Sursa e probabil indisponibilă "
+            f"sau și-a schimbat pagina de rezultate; fișierul existent rămâne neatins.")
     payload = {
         "meta": {
             "generated_at": datetime.now(timezone.utc).isoformat(),

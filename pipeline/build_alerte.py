@@ -328,12 +328,12 @@ def regula6_partid_subventie_fara_parlamentari(con) -> list:
 
 
 DISCLAIMER = (
-    "⚠️ SEMNALE DE INTERES, NU ACUZAȚII. Aceste alerte sunt generate automat din date "
-    "deschise prin reguli deterministe. Legăturile firmă↔persoană sunt în mare parte pe NUME "
-    "(fără CNP) => candidații pe nume pot fi OMONIMI, mai ales la companii mari. Singurele "
-    "defensabile fără verificare suplimentară sunt cele de tip 'conflict_confirmat' (firma apare "
-    "în PROPRIA declarație de interese). Restul necesită verificare manuală (ONRC + declarații de "
-    "interese + SICAP). Cifrele de contracte pot fi cumulate multianual."
+    "Semnale de verificat, nu acuzații. Alertele sunt generate automat din date deschise, prin "
+    "reguli fixe. Legătura dintre o firmă și o persoană se face de cele mai multe ori după nume, "
+    "fără CNP, deci poate fi vorba de un omonim, mai ales la companiile mari. Fără verificare "
+    "suplimentară se susțin doar conflictele confirmate, unde firma apare în propria declarație "
+    "de interese a persoanei. Restul cer verificare manuală în ONRC, în declarațiile de interese "
+    "și în SICAP. Valorile de contracte pot fi cumulate pe mai mulți ani."
 )
 
 

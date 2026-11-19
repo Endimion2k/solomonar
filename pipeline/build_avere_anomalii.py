@@ -99,9 +99,9 @@ def main() -> dict:
     out = {
         "generat": time.strftime("%Y-%m-%d"),
         "metoda": "PyOD ECOD (empirical CDF, parameter-free) pe [venituri, conturi, datorii, terenuri, clădiri, auto]",
-        "disclaimer": "Scorul = cât de NEOBIȘNUIT statistic e profilul declarat față de restul (nu dovadă "
-                      "de îmbogățire ilicită). Poate fi și artefact de extragere (numărări imperfecte). "
-                      "Lead de verificat manual în declarația originală.",
+        "disclaimer": "Scorul arată cât de neobișnuit este statistic profilul declarat față de restul. Nu e o "
+                      "dovadă de îmbogățire ilicită și poate fi și o eroare de extragere din PDF. E o pistă "
+                      "de verificat manual în declarația originală.",
         "n_persoane": len(rows),
         "items": top,
     }

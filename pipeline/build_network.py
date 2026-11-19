@@ -196,9 +196,9 @@ def main() -> dict:
 
     out = {
         "generat": datetime.date.today().isoformat(),
-        "disclaimer": "Inelele sunt firme cu ADMINISTRATORI COMUNI (date reale ONRC). Un om care "
-                      "controlează mai multe firme NU e ilegal — e un LEAD de verificat. Numele de "
-                      "administrator se potrivesc pe text; pot exista omonimi.",
+        "disclaimer": "Inelele sunt firme cu administratori comuni, după datele ONRC. Faptul că o "
+                      "persoană controlează mai multe firme nu e ilegal; e o pistă de verificat. Numele "
+                      "administratorilor se potrivesc după text, deci pot exista omonimi.",
         "meta": {
             "companii_in_graf": len(nodes),
             "muchii": len(edges),

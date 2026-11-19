@@ -300,11 +300,11 @@ def main() -> dict:
     # CONFIRMAT = firma cu contracte apare în PROPRIA declarație de interese (nu omonim)
     autodecl = [r for r in out if r.get("firme_contracte_autodeclarate")]
     autodecl.sort(key=lambda x: -sum((f.get("total_ron") or 0) for f in x["firme_contracte_autodeclarate"]))
-    json.dump({"nota": "⚠️ LEAD-URI NEVERIFICATE, NU acuzații. Link firmă↔persoană e pe NUME (fără CNP) → "
-               "MAJORITATEA sunt OMONIMI, mai ales la companii mari (ENGIE/Groupama/UNIQA = un omonim e "
-               "reprezentant, NU parlamentarul). Singurele DEFENSABILE: 'confirmate_autodeclarate' = firma "
-               "apare în PROPRIA declarație de interese a persoanei (conflict documentat). Restul: de verificat "
-               "manual cu declarația de interese + ONRC (dată naștere/CNP).",
+    json.dump({"nota": "Piste neverificate, nu acuzații. Legătura dintre o firmă și o persoană se face după nume, "
+               "fără CNP, iar cele mai multe potriviri sunt omonimi, mai ales la companiile mari (la ENGIE, "
+               "Groupama sau UNIQA reprezentantul e un omonim, nu parlamentarul). Se susțin doar legăturile "
+               "confirmate, unde firma apare în propria declarație de interese a persoanei. Restul se "
+               "verifică manual, cu declarația de interese și datele ONRC.",
                "total_leaduri": len(ftm), "din_care_parlamentari": sum(1 for r in ftm if r["parlamentar"]),
                "CONFIRMATE_autodeclarate": len(autodecl), "confirmate": autodecl[:100],
                "leaduri_neverificate": ftm[:200]},
