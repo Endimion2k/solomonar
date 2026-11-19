@@ -275,13 +275,13 @@ def parse_document(s: requests.Session, doc_id: str) -> dict | None:
 MIN_KEEP_RATIO = 0.5   # sub jumătate din ce e publicat = sursă căzută, nu date noi
 
 
-def _count_published(path: str) -> int:
-    """Câte rapoarte are fișierul deja publicat (0 dacă lipsește sau nu se poate citi)."""
+def _published(path: str) -> list[dict]:
+    """Rapoartele deja publicate ([] dacă fișierul lipsește sau nu se poate citi)."""
     try:
         with open(path, encoding="utf-8") as fh:
-            return len(json.load(fh).get("data") or [])
+            return json.load(fh).get("data") or []
     except (OSError, ValueError):
-        return 0
+        return []
 
 
 def main(max_pages: int | None = None, only_parlamentare: bool = False,
@@ -328,15 +328,22 @@ def main(max_pages: int | None = None, only_parlamentare: bool = False,
         k = (r["partid_cod"], r["an"], r["doc_id"])
         if k not in seen:
             seen.add(k); uniq.append(r)
-    uniq.sort(key=lambda r: (r["partid_cod"] or "zzz", r["an"] or 0))
 
     out_path = os.path.join(V, "rapoarte_rvc.json")
-    existente = _count_published(out_path)
-    if len(uniq) < existente * MIN_KEEP_RATIO:
+    existente = _published(out_path)
+    if len(uniq) < len(existente) * MIN_KEEP_RATIO:
         raise SystemExit(
-            f"REFUZ să suprascriu rapoarte_rvc.json: {len(uniq)} rapoarte noi față de {existente} "
+            f"REFUZ să suprascriu rapoarte_rvc.json: {len(uniq)} rapoarte noi față de {len(existente)} "
             f"publicate (căutarea a întors {len(items)} documente). Sursa e probabil indisponibilă "
             f"sau și-a schimbat pagina de rezultate; fișierul existent rămâne neatins.")
+    # Documentele din Monitorul Oficial nu dispar: o căutare care întoarce mai puține pagini
+    # nu trebuie să șteargă rapoarte deja publicate. Păstrăm ce nu a fost regăsit acum.
+    pastrate = [r for r in existente if (r.get("partid_cod"), r.get("an"), r.get("doc_id")) not in seen]
+    if pastrate:
+        print(f"   păstrate {len(pastrate)} rapoarte publicate anterior, neregăsite în această rulare",
+              flush=True)
+    uniq.extend(pastrate)
+    uniq.sort(key=lambda r: (r["partid_cod"] or "zzz", r["an"] or 0))
     payload = {
         "meta": {
             "generated_at": datetime.now(timezone.utc).isoformat(),
@@ -346,6 +353,7 @@ def main(max_pages: int | None = None, only_parlamentare: bool = False,
             "ani_tinta": list(ani),
             "count": len(uniq),
             "doc_id_total_scanate": len(items),
+            "pastrate_din_rularea_anterioara": len(pastrate),
         },
         "data": uniq,
     }
