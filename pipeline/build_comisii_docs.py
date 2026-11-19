@@ -45,6 +45,7 @@ BATCH = 200
 
 _TR = str.maketrans("ăâîșşțţĂÂÎȘŞȚŢ", "aaisstt" "AAISSTT")
 _WORD = re.compile(r"[a-z]{3,}|\d{1,4}/\d{4}")
+_ZERO = re.compile(r"^0+(?=\d+/)")
 STOP = set("""ale are aici alin alineatul art articolul asa asupra aceasta aceste acest acesta acestei
 acestor acestui acea acel acele catre care cea cei cel cele celor cum cand dar data decat deja din
 dintre doar este fie fiind fost iar inca intre isi lor mai sau sale sub sunt sus toate tot totusi
@@ -300,7 +301,9 @@ def _excerpt(text: str, v: dict | None) -> str:
 def search_terms(texts: list[str]) -> collections.Counter:
     c = collections.Counter()
     for t in texts:
-        c.update(w for w in _WORD.findall(norm(t)) if w not in STOP)
+        # „071/2009” → „71/2009”: aceeași referință, iar șirul sortat „072/2009 073/2009” arăta ca un
+        # număr de mobil pentru paza de date personale.
+        c.update(_ZERO.sub("", w) for w in _WORD.findall(norm(t)) if w not in STOP)
     return c
 
 

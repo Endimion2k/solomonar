@@ -93,3 +93,11 @@ def test_search_terms_normalized_without_stopwords():
     c = search_terms(["Legea nr. 227/2015 privind Codul fiscal și pensiile speciale"])
     assert {"legea", "227/2015", "codul", "fiscal", "pensiile", "speciale"} <= set(c)
     assert "privind" not in c and "nr" not in c
+
+
+def test_search_terms_drop_leading_zeros_in_act_numbers():
+    from connectors.ani.redaction import _MOBILE
+
+    c = search_terms(["Regulamentele 072/2009, 073/2009 și 0/2010"])
+    assert set(c) == {"regulamentele", "72/2009", "73/2009", "0/2010"}
+    assert not _MOBILE.search(" ".join(sorted(c)))

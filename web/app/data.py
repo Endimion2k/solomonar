@@ -383,6 +383,7 @@ def plx_search(q: str) -> set:
     """idp-urile PLx în care TOȚI termenii interogării apar (ca început de cuvânt) în titlu sau documente.
     „pensii speciale” găsește și „pensiile speciale”; „227/2015” găsește referința la lege."""
     toks = re.findall(r"[a-z0-9/]{2,}", q.translate(_TR_RO).lower())
+    toks = [re.sub(r"^0+(?=\d+/)", "", t) for t in toks]      # indexul ține „71/2009”, nu „071/2009”
     if not toks:
         return set()
     pats = [re.compile(r"(?:^| )" + re.escape(t)) for t in toks]
