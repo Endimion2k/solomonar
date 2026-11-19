@@ -26,6 +26,8 @@ DANGER = "#f87171"
 
 FONT = '"IBM Plex Sans", "Segoe UI", system-ui, sans-serif'
 
+CLIENT_URL = "https://solomonar-endimion2ks-projects.vercel.app"   # clientul static: căutare rapidă și grafuri
+
 PARTY_COLORS = {
     "psd": "#e11d48", "pnl": "#facc15", "usr": "#0ea5e9", "aur": "#fbbf24",
     "udmr": "#22c55e", "pot": "#a855f7", "sos": "#f97316", "pmp": "#a855f7",
@@ -154,7 +156,9 @@ def kpi_card(col, label: str, value: str, help: str = "") -> None:
 def sidebar_brand() -> None:
     st.sidebar.markdown(
         f"<div style='font-size:19px;font-weight:600;color:{TEXT}'>Solomonar</div>"
-        f"<div style='font-size:13px;color:{TEXT_DIM};margin-bottom:8px'>{data_freshness()}</div>",
+        f"<div style='font-size:13px;color:{TEXT_DIM};margin-bottom:8px'>{data_freshness()}</div>"
+        f"<div style='font-size:14px'><a href='{CLIENT_URL}/search.html' target='_blank'>Căutare rapidă</a>"
+        f" &nbsp; <a href='{CLIENT_URL}/graf.html' target='_blank'>Graful de legături</a></div>",
         unsafe_allow_html=True)
 
 

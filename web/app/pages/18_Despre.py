@@ -10,7 +10,8 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
-from app.theme import apply_theme, data_freshness, fmt_int, page_header, sidebar_brand, tabel
+from app.theme import (CLIENT_URL, apply_theme, data_freshness, fmt_int, page_header,
+                       sidebar_brand, tabel)
 
 REPO = "https://github.com/Endimion2k/solomonar"
 
@@ -31,6 +32,9 @@ st.markdown(
     "despre banii publici, și le leagă între ele: aceeași persoană poate fi parlamentar, membru "
     "într-un consiliu de administrație și administrator al unei firme cu contracte publice. "
     f"{data_freshness()}.")
+st.markdown(
+    "Pentru o căutare rapidă după nume sau pentru graful de legături, folosește "
+    f"[varianta simplă a site-ului]({CLIENT_URL}).")
 
 st.markdown("#### De unde vin datele")
 import pandas as pd
