@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/data/v1/:path*",
+      "destination": "https://endimion2k.github.io/solomonar/data/v1/:path*"
+    }
+  ]
+}
