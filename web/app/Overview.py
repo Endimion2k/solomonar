@@ -12,8 +12,12 @@ for _a in _pl.Path(__file__).resolve().parents:  # import 'app' fără PYTHONPAT
         _sys.path.insert(0, str(_a))
         break
 
+import importlib as _il  # noqa: E402
+
 from app import data as _data  # noqa: E402
 
+if not hasattr(_data, "refresh_if_new"):  # proces pornit cu data.py vechi în sys.modules
+    _il.reload(_data)
 _data.refresh_if_new()  # date noi împinse fără cod nou: golește cache-urile
 
 # (fișier din pages/, titlu în meniu) pe secțiuni; cheia goală = fără titlu de secțiune
