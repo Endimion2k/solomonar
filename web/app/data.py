@@ -20,8 +20,7 @@ DATA = os.environ.get("SOLOMONAR_DATA") or os.path.normpath(os.path.join(_HERE, 
 LIVE = DATA.startswith("http")
 
 
-@lru_cache(maxsize=256)
-def _load_raw(rel: str):
+def _read(rel: str):
     if LIVE:
         import urllib.request
         with urllib.request.urlopen(f"{DATA.rstrip('/')}/{rel}", timeout=30) as r:
@@ -29,7 +28,45 @@ def _load_raw(rel: str):
     p = os.path.join(DATA, rel.replace("/", os.sep))
     if not os.path.exists(p):
         return {}
-    return json.load(open(p, encoding="utf-8"))
+    with open(p, encoding="utf-8") as f:
+        return json.load(f)
+
+
+_load_raw = lru_cache(maxsize=256)(_read)
+
+# ---------------- prospețimea cache-ului ----------------
+# Cache-urile de mai jos nu expiră singure: un push doar de date (fără cod nou) lasă procesul
+# Streamlit pornit cu JSON-urile vechi în memorie. Versiunea datelor = câmpul „generat” din
+# stats.json, recitit direct de pe disc/URL cel mult o dată la VERSION_TTL secunde.
+VERSION_TTL = 300
+_seen_version: str | None = None
+
+
+@st.cache_data(ttl=VERSION_TTL, show_spinner=False)
+def _data_version() -> str:
+    try:
+        return str((_read("stats.json") or {}).get("generat") or "")
+    except Exception:  # sursă indisponibilă momentan: păstrăm ce avem în cache
+        return ""
+
+
+def clear_caches() -> None:
+    _load_raw.cache_clear()
+    st.cache_data.clear()
+
+
+def refresh_if_new() -> None:
+    """Golește toate cache-urile dacă stats.json are alt „generat” decât cel servit până acum.
+
+    Apelat din Overview.py la fiecare rerun. Primul apel din proces golește tot o dată, ca să nu
+    supraviețuiască intrări vechi după un reload de modul.
+    """
+    global _seen_version
+    v = _data_version()
+    if not v or v == _seen_version:
+        return
+    _seen_version = v
+    clear_caches()
 
 
 @st.cache_data(show_spinner=False)

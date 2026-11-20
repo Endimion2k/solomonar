@@ -12,6 +12,10 @@ for _a in _pl.Path(__file__).resolve().parents:  # import 'app' fără PYTHONPAT
         _sys.path.insert(0, str(_a))
         break
 
+from app import data as _data  # noqa: E402
+
+_data.refresh_if_new()  # date noi împinse fără cod nou: golește cache-urile
+
 # (fișier din pages/, titlu în meniu) pe secțiuni; cheia goală = fără titlu de secțiune
 MENU: dict[str, list[tuple[str, str]]] = {
     "": [
