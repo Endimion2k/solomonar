@@ -72,15 +72,17 @@ FLAG_NOUA = "firmă nouă cu bani de stat"
 
 
 def mosteneste(f: dict, vechi: dict | None) -> list[str]:
-    """Pentru o firmă ieșită din listele-sursă (plafonate la top), păstrează ce se știa despre ea.
+    """Pentru o firmă ieșită dintr-o listă-sursă (plafonate la top), păstrează ce se știa despre ea.
 
-    Fără anii de activitate nu se mai poate recalcula „firmă nouă”, iar are_contracte /
-    are_achizitii_directe ar deveni false deși firma a primit bani publici. Întoarce flag-urile moștenite.
+    Listele sunt independente: o firmă poate rămâne în contracte și să iasă doar din achizițiile directe.
+    Fără anii de activitate din lista pierdută nu se mai poate recalcula „firmă nouă”, iar are_contracte /
+    are_achizitii_directe ar deveni false deși firma a primit bani publici. Ce era adevărat rămâne adevărat.
+    Întoarce flag-urile moștenite.
     """
     if not vechi:
         return []
-    f["are_contracte"] = bool(vechi.get("are_contracte"))
-    f["are_achizitii_directe"] = bool(vechi.get("are_achizitii_directe"))
+    f["are_contracte"] = bool(f.get("are_contracte") or vechi.get("are_contracte"))
+    f["are_achizitii_directe"] = bool(f.get("are_achizitii_directe") or vechi.get("are_achizitii_directe"))
     return [x for x in (vechi.get("flaguri") or []) if x.startswith(FLAG_NOUA)]
 
 
@@ -148,10 +150,10 @@ def main() -> dict:
         f["are_contracte"] = cui in cf
         f["are_achizitii_directe"] = cui in ad
         # flag-uri de accountability
-        flags = mosteneste(f, anterioare.get(cui)) if cui not in cf and cui not in ad else []
+        flags = mosteneste(f, anterioare.get(cui)) if cui not in cf or cui not in ad else []
         ani_active = (ad.get(cui, {}).get("ani_activi") or []) + [str(x) for x in (cf.get(cui, {}).get("ani", []) or [])]
         an_prim = min((int(a) for a in ani_active if str(a).isdigit()), default=None)
-        if f.get("an_infiintare") and an_prim and an_prim - f["an_infiintare"] <= 1:
+        if not flags and f.get("an_infiintare") and an_prim and an_prim - f["an_infiintare"] <= 1:
             flags.append(f"{FLAG_NOUA} (înființată cu ≤1 an înainte de prima achiziție)")
         if f.get("forma_juridica") in ("PF", "PFA", "AF", "II", "IF"):
             flags.append(f"persoană fizică/întreprindere individuală ({f['forma_juridica']}) cu bani de stat")

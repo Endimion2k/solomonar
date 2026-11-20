@@ -15,3 +15,10 @@ def test_keeps_money_context_and_new_company_flag():
 def test_unknown_company_inherits_nothing():
     f = {"cui": 2}
     assert h.mosteneste(f, None) == [] and f == {"cui": 2}
+
+
+def test_company_still_in_one_list_keeps_the_other_channel():
+    f = {"cui": 3, "are_contracte": True, "are_achizitii_directe": False}      # ieșită doar din achiziții directe
+    vechi = {"are_contracte": True, "are_achizitii_directe": True, "flaguri": [NOUA]}
+    assert h.mosteneste(f, vechi) == [NOUA]
+    assert (f["are_contracte"], f["are_achizitii_directe"]) == (True, True)
