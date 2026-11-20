@@ -9,7 +9,9 @@ lipsesc. Fără mărimea totală nu se poate ști dacă fișierul e întreg, dec
 from __future__ import annotations
 
 import codecs
+import os
 import re
+from datetime import date
 from typing import Iterable, Iterator
 
 import requests
@@ -25,6 +27,72 @@ BOM = "﻿"
 
 class DescarcareIncompleta(SystemExit):
     """Dump citit parțial: pasul trebuie să eșueze, nu să publice."""
+
+
+# ---------------- care dump ----------------
+# ONRC publică pe data.gov.ro un set NOU (alt id, alte resurse) cam lunar, cu titlul
+# „Firme înregistrate la Registrul Comerțului până la data de ZZ.LL.AAAA”. Id-urile fixate în cod
+# rămân pe setul vechi, deci căutăm la fiecare rulare cel mai nou set care are toate fișierele cerute.
+# ONRC_DATASET=<id set> fixează un set anume (ex. pentru a reface o rulare).
+CKAN = "https://data.gov.ro/api/3/action"
+_TITLU = re.compile(r"registrul comer\S*\s+p\S*n\S*\s+la\s+data\s+de\s+(\d{1,2})\.(\d{1,2})\.(\d{4})", re.I)
+
+
+def data_setului(titlu: str) -> date | None:
+    """Data din titlul setului ONRC, sau None dacă titlul nu e al unui dump de firme."""
+    m = _TITLU.search(titlu or "")
+    if not m:
+        return None
+    try:
+        return date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+    except ValueError:
+        return None
+
+
+def _resurse(pachet: dict) -> dict[str, str]:
+    """{OD_FIRME: url, ...} — numele resursei fără extensie, cu majuscule."""
+    out = {}
+    for r in pachet.get("resources") or []:
+        nume = re.sub(r"\.csv$", "", (r.get("name") or "").strip(), flags=re.I).upper()
+        if nume and r.get("url"):
+            out[nume] = r["url"]
+    return out
+
+
+def alege_setul(pachete: list[dict], fisiere: Iterable[str]) -> tuple[dict, date, dict[str, str]]:
+    """Cel mai nou set ONRC care are TOATE fișierele cerute → (pachet, data, {fișier: url})."""
+    cerute = [f.upper() for f in fisiere]
+    candidati = []
+    for p in pachete:
+        d = data_setului(p.get("title", ""))
+        if d and ((p.get("organization") or {}).get("name") in (None, "onrc")):
+            candidati.append((d, p))
+    for d, p in sorted(candidati, key=lambda x: x[0], reverse=True):
+        res = _resurse(p)
+        if all(f in res for f in cerute):
+            return p, d, {f: res[f] for f in cerute}
+    raise SystemExit(f"Niciun set ONRC de pe data.gov.ro nu are toate fișierele {cerute}.")
+
+
+def _ckan(actiune: str, **params) -> dict:
+    r = requests.get(f"{CKAN}/{actiune}", params=params, headers={"User-Agent": HEADERS["User-Agent"]},
+                     timeout=60, verify=False)
+    r.raise_for_status()
+    return r.json()["result"]
+
+
+def dump_curent(*fisiere: str) -> tuple[str, dict[str, str]]:
+    """(„ONRC până la ZZ.LL.AAAA (id set)”, {fișier: url}) pentru cel mai nou set complet."""
+    fixat = os.environ.get("ONRC_DATASET", "").strip()
+    if fixat:
+        pachete = [_ckan("package_show", id=fixat)]
+    else:
+        pachete = _ckan("package_search", q="Firme inregistrate Registrul Comertului", fq="organization:onrc",
+                        rows=100, sort="metadata_modified desc").get("results") or []
+    p, d, urls = alege_setul(pachete, fisiere)
+    eticheta = f"ONRC până la {d:%d.%m.%Y} (set {p['id']})"
+    print(f"[onrc] {eticheta}", flush=True)
+    return eticheta, urls
 
 
 def marime_totala(headers) -> int:

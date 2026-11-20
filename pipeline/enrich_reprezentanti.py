@@ -20,12 +20,9 @@ from datetime import datetime, timezone
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
-from pipeline.onrc_stream import randuri  # noqa: E402
+from pipeline.onrc_stream import dump_curent, randuri  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
-DS = "https://data.gov.ro/dataset/02a76fa6-70ef-47ed-8237-333f9b6b5939/resource"
-URL_FIRME = f"{DS}/e5b53db7-525c-4366-aeb2-fb721446e6d1/download/od_firme.csv"
-URL_REPS = f"{DS}/83a78def-11a5-47ac-9844-516581d4cf14/download/od_reprezentanti_legali.csv"
 MIN_KEEP_RATIO = 0.9   # țintele includ tot ce e publicat, deci o scădere mare = dump citit parțial
 
 
@@ -78,11 +75,13 @@ def main() -> dict:
     cuis, names = _target_cuis()
     print(f"CUI-uri țintă: {len(cuis)}", flush=True)
     publicate = len((_load(os.path.join(V, "companii/reprezentanti.json")) or {}).get("companii") or [])
+    dump, urls = dump_curent("OD_FIRME", "OD_REPREZENTANTI_LEGALI")
+    url_firme, url_reps = urls["OD_FIRME"], urls["OD_REPREZENTANTI_LEGALI"]
 
     # 2. OD_FIRME → COD_INMATRICULARE -> CUI (doar ținte)
     reg2cui: dict[str, int] = {}
     n = 0
-    for parts, idx in randuri(URL_FIRME):
+    for parts, idx in randuri(url_firme):
         n += 1
         if n % 1_000_000 == 0:
             print(f"   OD_FIRME: {n//1_000_000}M rânduri, gasite={len(reg2cui)}", flush=True)
@@ -99,7 +98,7 @@ def main() -> dict:
     # 3. OD_REPREZENTANTI_LEGALI → reps
     reps: dict[int, list] = {}
     n = 0
-    for parts, idx in randuri(URL_REPS):
+    for parts, idx in randuri(url_reps):
         n += 1
         if n % 1_000_000 == 0:
             print(f"   OD_REPS: {n//1_000_000}M rânduri", flush=True)
@@ -119,7 +118,7 @@ def main() -> dict:
         raise SystemExit(f"REFUZ să suprascriu reprezentanti.json: {len(reps)} companii față de {publicate} "
                          f"publicate. Dump-ul ONRC a fost citit parțial; fișierul publicat rămâne neschimbat.")
     out =[{"cui": cui, "denumire": names.get(cui, ""), "reprezentanti": r} for cui, r in reps.items()]
-    json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "sursa": "ONRC OD_REPREZENTANTI_LEGALI (data.gov.ro)",
+    json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "sursa": "ONRC OD_REPREZENTANTI_LEGALI (data.gov.ro)", "dump": dump,
                "companii_cu_reprezentanti": len(reps), "total_reprezentanti": sum(len(r) for r in reps.values()),
                "companii": out},
               open(os.path.join(V, "companii/reprezentanti.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)

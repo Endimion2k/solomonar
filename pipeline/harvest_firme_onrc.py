@@ -17,14 +17,11 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
-from pipeline.onrc_stream import randuri  # noqa: E402
+from pipeline.onrc_stream import dump_curent, randuri  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 # câmpul WEB din dump-ul ONRC conține uneori un telefon (al asociatului) în loc de site → îl golim
 _WEB_OK = re.compile(r"^(?:https?://)?(?:www\.)?(?:[a-z0-9-]+\.)+[a-z]{2,}(?:[/:?#].*)?$", re.I)
-DS = "https://data.gov.ro/dataset/02a76fa6-70ef-47ed-8237-333f9b6b5939/resource"
-URL_FIRME = f"{DS}/e5b53db7-525c-4366-aeb2-fb721446e6d1/download/od_firme.csv"
-URL_CAEN = f"{DS}/bd4675cf-d3f1-402d-a750-16fcc9b0b9f2/download/od_caen_autorizat.csv"
 MIN_KEEP_RATIO = 0.9   # țintele includ tot ce e publicat, deci o scădere mare = dump citit parțial
 
 CAEN_DIV = {  # primele 2 cifre → diviziune (sumar)
@@ -90,11 +87,13 @@ def main() -> dict:
     publicate = (_load(os.path.join(V, "companii/firme_onrc.json")) or {})
     cuis = _targets()
     print(f"CUI-uri țintă (firme cu bani de stat): {len(cuis)}", flush=True)
+    dump, urls = dump_curent("OD_FIRME", "OD_CAEN_AUTORIZAT")
+    url_firme, url_caen = urls["OD_FIRME"], urls["OD_CAEN_AUTORIZAT"]
 
     firme = {}      # cui -> profil
     reg2cui = {}    # cod_inmatriculare -> cui (pt. join CAEN)
     n = 0
-    for p, idx in randuri(URL_FIRME):
+    for p, idx in randuri(url_firme):
         n += 1
         if n % 1_000_000 == 0:
             print(f"   OD_FIRME: {n//1_000_000}M, găsite={len(firme)}", flush=True)
@@ -122,7 +121,7 @@ def main() -> dict:
 
     # CAEN principal (primul cod per firmă) via cod înmatriculare
     n = 0
-    for p, idx in randuri(URL_CAEN):
+    for p, idx in randuri(url_caen):
         n += 1
         if n % 2_000_000 == 0:
             print(f"   OD_CAEN: {n//1_000_000}M", flush=True)
@@ -169,7 +168,7 @@ def main() -> dict:
             raise SystemExit(f"REFUZ să suprascriu firme_onrc.json: {nou} {eticheta} față de {vechi} publicate. "
                              f"Dump-ul ONRC a fost citit parțial; fișierul publicat rămâne neschimbat.")
     os.makedirs(os.path.join(V, "companii"), exist_ok=True)
-    json.dump({"sursa": "ONRC OD_FIRME + OD_CAEN_AUTORIZAT (data.gov.ro)",
+    json.dump({"sursa": "ONRC OD_FIRME + OD_CAEN_AUTORIZAT (data.gov.ro)", "dump": dump,
                "nota": "Profil ONRC pt. firmele care au luat bani de la stat (contracte + achiziții directe). "
                "Flag-uri = semnale de interes pentru analiză, NU acuzații.",
                "total": len(out), "cu_caen": sum(1 for f in out if f.get("caen")),
