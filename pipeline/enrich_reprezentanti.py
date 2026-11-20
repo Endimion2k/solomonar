@@ -42,7 +42,7 @@ def _target_cuis() -> tuple[set, dict]:
             cuis.add(int(c["cui"]))
             names[int(c["cui"])] = c.get("name", "")
     fr = _load(os.path.join(V, "onrc/firme_relevante.json"))
-    frr = (fr.get("data") if isinstance(fr, dict) else fr) or []
+    frr = (fr.get("firme") if isinstance(fr, dict) else fr) or []
     for f in frr:
         if f.get("cui"):
             cuis.add(int(f["cui"]))

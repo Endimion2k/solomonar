@@ -116,18 +116,64 @@ def linii(bucati: Iterable[bytes], contor: list[int]) -> Iterator[str]:
         yield rest.rstrip("\r")
 
 
+RELUARI = 8   # de câte ori reluăm de la octetul unde s-a rupt conexiunea
+
+
+def inceput_interval(headers) -> int | None:
+    """Primul octet din `Content-Range: bytes START-END/TOTAL`, sau None."""
+    m = re.match(r"\s*bytes\s+(\d+)-", headers.get("Content-Range") or "")
+    return int(m.group(1)) if m else None
+
+
+def bucati(url: str, info: dict, timeout: int = 300, reluari: int = RELUARI) -> Iterator[bytes]:
+    """Octeții fișierului, reluând descărcarea când serverul închide conexiunea înainte de final.
+
+    Cerem `Range: bytes=N-`, dar data.gov.ro (nginx) ignoră începutul și trimite mereu de la 0. Așa că
+    la reluare citim de unde începe efectiv răspunsul (Content-Range, sau 0 la un 200) și aruncăm octeții
+    deja primiți. Dacă răspunsul ar începe DUPĂ ce avem, ne oprim și `randuri` refuză publicarea.
+    `info["total"]` primește mărimea totală.
+    """
+    primit = 0
+    for incercare in range(reluari + 1):
+        hdr = dict(HEADERS, Range=f"bytes={primit}-")
+        try:
+            with requests.get(url, headers=hdr, stream=True, timeout=timeout, verify=False) as r:
+                r.raise_for_status()
+                if incercare == 0:
+                    info["total"] = marime_totala(r.headers)
+                start = (inceput_interval(r.headers) or 0) if r.status_code == 206 else 0
+                if start > primit:
+                    print(f"   [onrc] răspunsul începe la {start:,}, după cei {primit:,} octeți primiți; mă opresc",
+                          flush=True)
+                    return
+                de_sarit = primit - start
+                for b in r.iter_content(chunk_size=CHUNK):
+                    if de_sarit:
+                        if len(b) <= de_sarit:
+                            de_sarit -= len(b)
+                            continue
+                        b, de_sarit = b[de_sarit:], 0
+                    primit += len(b)
+                    yield b
+        except (requests.exceptions.ChunkedEncodingError, requests.exceptions.ConnectionError,
+                requests.exceptions.Timeout) as e:
+            print(f"   [onrc] conexiune ruptă la {primit:,} octeți ({type(e).__name__})", flush=True)
+        if not info.get("total") or primit >= info["total"] or incercare == reluari:
+            return
+        print(f"   [onrc] reiau de la {primit:,}/{info['total']:,} (reluarea {incercare + 1}/{reluari})", flush=True)
+
+
 def randuri(url: str, timeout: int = 300) -> Iterator[tuple[list[str], dict[str, int]]]:
     """(câmpurile rândului, {COLOANĂ: poziție}) pentru fiecare rând; ridică DescarcareIncompleta la final."""
     nume = url.rsplit("/", 1)[-1]
     contor = [0]
-    with requests.get(url, headers=HEADERS, stream=True, timeout=timeout, verify=False) as r:
-        r.raise_for_status()
-        asteptat = marime_totala(r.headers)
-        it = linii(r.iter_content(chunk_size=CHUNK), contor)
-        idx = {c.strip().upper(): i for i, c in enumerate(next(it, "").lstrip(BOM).split("^"))}
-        for line in it:
-            if line:
-                yield line.split("^"), idx
+    info: dict = {}
+    it = linii(bucati(url, info, timeout), contor)
+    idx = {c.strip().upper(): i for i, c in enumerate(next(it, "").lstrip(BOM).split("^"))}
+    for line in it:
+        if line:
+            yield line.split("^"), idx
+    asteptat = info.get("total") or 0
     if not asteptat:
         raise DescarcareIncompleta(f"Nu pot afla mărimea {nume}, deci nu pot ști dacă e complet. Nu public.")
     if contor[0] < asteptat:

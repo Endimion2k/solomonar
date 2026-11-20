@@ -59,6 +59,8 @@ STEPS: list[tuple[str, str, list[str], dict, str]] = [
 
     ("achizitii_directe", "mari", ["-m", "pipeline.harvest_achizitii_directe"], {}, "~22M rânduri, checkpoint"),
     ("redflags", "mari", ["-m", "pipeline.harvest_redflags"], {}, "single-bid / fragmentare, ore"),
+    ("firme_relevante", "mari", ["-m", "pipeline.harvest_firme_relevante"], {},
+     "registrul ONRC pt. companii de stat + câștigători SICAP"),
     ("reprezentanti", "mari", ["-m", "pipeline.enrich_reprezentanti"], {}, "reprezentanți legali ONRC"),
     ("firme_onrc", "mari", ["-m", "pipeline.harvest_firme_onrc"], {}, "profil ONRC firme cu bani publici"),
     ("bilanturi", "mari", ["-m", "pipeline.enrich_financials", "2025"], {}, "bilanțuri MF 2025"),

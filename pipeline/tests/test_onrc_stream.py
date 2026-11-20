@@ -44,6 +44,71 @@ def test_no_complete_set_fails():
         o.alege_setul([_set("a", "Registrul Comerțului până la data de 01.01.2026", "OD_FIRME")], ["OD_CAEN_AUTORIZAT"])
 
 
+class _Resp:
+    def __init__(self, status, headers, parts, rupe=False):
+        self.status_code, self.headers, self.parts, self.rupe = status, headers, parts, rupe
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, *a):
+        return False
+
+    def raise_for_status(self):
+        pass
+
+    def iter_content(self, chunk_size):
+        yield from self.parts
+        if self.rupe:
+            import requests
+            raise requests.exceptions.ChunkedEncodingError("rupt")
+
+
+def _server(monkeypatch, data: bytes, taieturi: list[int], mod="range"):
+    """Server fals care închide conexiunea după fiecare poziție din `taieturi`.
+
+    mod: "range" = respectă Range (206); "de_la_zero" = ca data.gov.ro, 200 + tot fișierul de la 0;
+    "sare" = răspunde de la alt octet decât cel cerut.
+    """
+    cereri = []
+
+    def get(url, headers, **kw):
+        cerut = int(headers["Range"].split("=")[1].rstrip("-"))
+        cereri.append(cerut)
+        start = {"range": cerut, "de_la_zero": 0, "sare": cerut + 3 if cerut else 0}[mod]
+        stop = next((t for t in taieturi if t > cerut), len(data))
+        h = {"Content-Range": f"bytes {start}-{len(data) - 1}/{len(data)}"}
+        parti = [data[start:stop][i:i + 4] for i in range(0, stop - start, 4)]   # bucăți mici, ca la rețea
+        return _Resp(200 if mod == "de_la_zero" else 206, h, parti, rupe=stop < len(data) and stop == taieturi[-1])
+
+    monkeypatch.setattr(o.requests, "get", get)
+    return cereri
+
+
+def test_resumes_after_dropped_connection(monkeypatch):
+    data = "CUI^DENUMIRE\n1^ȘANTIER SRL\n2^ÎNTREPRINDERE\n3^ULTIMA\n".encode("utf-8")
+    cereri = _server(monkeypatch, data, [9, 20])      # tăiat în mijlocul lui „Ș”, apoi cu excepție
+    rows = [p for p, _ in o.randuri("https://x/od_firme.csv")]
+    assert rows == [["1", "ȘANTIER SRL"], ["2", "ÎNTREPRINDERE"], ["3", "ULTIMA"]]
+    assert cereri == [0, 9, 20]
+
+
+def test_resumes_when_server_restarts_from_zero(monkeypatch):
+    data = "CUI^DENUMIRE\n1^ȘANTIER SRL\n2^ÎNTREPRINDERE\n3^ULTIMA\n".encode("utf-8")
+    cereri = _server(monkeypatch, data, [9, 30], mod="de_la_zero")
+    rows = [p for p, _ in o.randuri("https://x/od_firme.csv")]
+    assert rows == [["1", "ȘANTIER SRL"], ["2", "ÎNTREPRINDERE"], ["3", "ULTIMA"]]
+    assert cereri == [0, 9, 30]
+
+
+def test_refuses_when_resume_would_skip_bytes(monkeypatch):
+    import pytest
+    data = b"CUI^DENUMIRE\n1^A\n2^B\n3^C\n"
+    _server(monkeypatch, data, [10], mod="sare")
+    with pytest.raises(o.DescarcareIncompleta):
+        list(o.randuri("https://x/od_firme.csv"))
+
+
 def test_total_size_from_headers():
     assert o.marime_totala({"Content-Range": "bytes 0-334855885/334855886"}) == 334855886
     assert o.marime_totala({"Content-Length": "120"}) == 120
