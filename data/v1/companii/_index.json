@@ -1177,7 +1177,13 @@
         "ZEGREA EMANUEL"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 258857658,
+        "profit_net": 16091007,
+        "datorii": 90130454,
+        "nr_salariati": 1142
+      }
     },
     {
       "sources": [
@@ -1633,7 +1639,13 @@
         "ȚICLEA TIBERIU"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 440852011,
+        "profit_net": 47681660,
+        "datorii": 297212749,
+        "nr_salariati": 366
+      }
     },
     {
       "sources": [
@@ -1735,7 +1747,13 @@
         "UNGUREANU ROCSANA-DOLORES"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 392913235,
+        "profit_net": 66927161,
+        "datorii": 75764550,
+        "nr_salariati": 1277
+      }
     },
     {
       "sources": [
@@ -2317,7 +2335,13 @@
         "ŢÎRA IOANA-MARIA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 1437442682,
+        "profit_net": 256039471,
+        "datorii": 207800855,
+        "nr_salariati": 2240
+      }
     },
     {
       "sources": [
@@ -3396,7 +3420,13 @@
         "ZAMAN ANDREI-MIHAI"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 545540445,
+        "profit_net": 53760116,
+        "datorii": 65683960,
+        "nr_salariati": 1316
+      }
     },
     {
       "sources": [
@@ -3442,7 +3472,13 @@
         "UNGUR RAMONA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 401076427,
+        "profit_net": 24637109,
+        "datorii": 309132987,
+        "nr_salariati": 1011
+      }
     },
     {
       "sources": [
@@ -3537,7 +3573,13 @@
         "ŞUŞNEA FLORENTINA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 5633744486,
+        "profit_net": 2398630260,
+        "datorii": 1916738829,
+        "nr_salariati": 2377
+      }
     },
     {
       "sources": [
@@ -3589,7 +3631,13 @@
         "TONIUC GEORGE-MARIUS"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 9758404582,
+        "profit_net": 3337517121,
+        "datorii": 3091384669,
+        "nr_salariati": 3554
+      }
     },
     {
       "sources": [
@@ -3635,7 +3683,13 @@
         "STOIAN ELENA-LORENA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 7579634046,
+        "profit_net": 3138315979,
+        "datorii": 7074888286,
+        "nr_salariati": 5227
+      }
     },
     {
       "sources": [
@@ -3827,7 +3881,13 @@
         "VĂDUVA SILVIU"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 2681907270,
+        "profit_net": 128451246,
+        "datorii": 1028654744,
+        "nr_salariati": 1694
+      }
     },
     {
       "sources": [
@@ -3984,7 +4044,13 @@
         "TRUFELEA CONSTANTIN-COSMIN"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 3474725630,
+        "profit_net": -1112058796,
+        "datorii": 1040680894,
+        "nr_salariati": 7950
+      }
     },
     {
       "sources": [
@@ -4435,7 +4501,13 @@
         "VOICAN LORENA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 565766096,
+        "profit_net": -1095132046,
+        "datorii": 485454288,
+        "nr_salariati": 457
+      }
     },
     {
       "sources": [
@@ -5289,7 +5361,13 @@
         "VULPEŞ CORINA-LUMINIŢA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 645275929,
+        "profit_net": 51769472,
+        "datorii": 440958431,
+        "nr_salariati": 1370
+      }
     },
     {
       "sources": [
@@ -5490,7 +5568,13 @@
         "ȘUȘNEA FLORENTINA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 1897873850,
+        "profit_net": 76734203,
+        "datorii": 524632742,
+        "nr_salariati": 1676
+      }
     },
     {
       "sources": [
@@ -5534,7 +5618,13 @@
         "ŞTEFAN COSTEL -DORIN"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 701112143,
+        "profit_net": 251334657,
+        "datorii": 112013772,
+        "nr_salariati": 1655
+      }
     },
     {
       "sources": [
@@ -5747,7 +5837,13 @@
         "ŢENEA DIANA DOINA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 1187388259,
+        "profit_net": -548897866,
+        "datorii": 2195329755,
+        "nr_salariati": 23666
+      }
     },
     {
       "sources": [
@@ -5792,7 +5888,13 @@
         "ŞERBĂNESCU VALENTINA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 511851979,
+        "profit_net": 2361750,
+        "datorii": 3624248502,
+        "nr_salariati": 2521
+      }
     },
     {
       "sources": [
@@ -5837,7 +5939,13 @@
         "STANCU MARIN"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 3238451236,
+        "profit_net": -43401881,
+        "datorii": 1294801883,
+        "nr_salariati": 10192
+      }
     },
     {
       "sources": [
@@ -6191,7 +6299,13 @@
         "VĂDUVA AURELIA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 1263211058,
+        "profit_net": -312065818,
+        "datorii": 5088822088,
+        "nr_salariati": 4802
+      }
     },
     {
       "sources": [
@@ -6491,7 +6605,13 @@
         "STOICA MARCEL ALEXANDRU"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 2249022382,
+        "profit_net": 124960655,
+        "datorii": 60543919400,
+        "nr_salariati": 6782
+      }
     },
     {
       "sources": [
@@ -6586,7 +6706,13 @@
         "MIHĂLȚAN COSMIN-FLORIN"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 1646953909,
+        "profit_net": 789742544,
+        "datorii": 499589731,
+        "nr_salariati": 1374
+      }
     },
     {
       "sources": [
@@ -6769,7 +6895,13 @@
         "VON DERENTHALL ILINCA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 2828957985,
+        "profit_net": 788156576,
+        "datorii": 4853998590,
+        "nr_salariati": 3983
+      }
     },
     {
       "sources": [
@@ -6916,7 +7048,13 @@
         "ZEZEANU LUMINIŢA"
       ],
       "shareholders": [],
-      "financials": []
+      "financials": {
+        "an": 2025,
+        "cifra_afaceri": 5527902667,
+        "profit_net": 359825194,
+        "datorii": 3819660408,
+        "nr_salariati": 1966
+      }
     },
     {
       "sources": [

@@ -3006,5 +3006,99 @@
       }
     ],
     "source_url": "https://mfinante.gov.ro/static/10/Mfp/buletin/executii/bgc31082026.xlsx"
+  },
+  {
+    "perioada": "01.01-30.09.2026",
+    "an": 2026,
+    "luna": 9,
+    "luna_nume": "septembrie",
+    "venituri_mil_lei": 522691.483836,
+    "cheltuieli_mil_lei": 600995.772803,
+    "sold": -78304.288967,
+    "pib_mil_lei": 2056000.0,
+    "sold_pct_pib": -3.808574,
+    "detalii": [
+      {
+        "indicator": "Venituri curente",
+        "mil_lei": 472802.030703,
+        "pct_pib": 22.996208
+      },
+      {
+        "indicator": "Venituri fiscale",
+        "mil_lei": 269086.104718,
+        "pct_pib": 13.087846
+      },
+      {
+        "indicator": "Impozitul pe profit, salarii, venit si castiguri din capital",
+        "mil_lei": 80892.740423,
+        "pct_pib": 3.934472
+      },
+      {
+        "indicator": "TVA",
+        "mil_lei": 118273.604324,
+        "pct_pib": 5.752607
+      },
+      {
+        "indicator": "Accize",
+        "mil_lei": 36545.749012,
+        "pct_pib": 1.777517
+      },
+      {
+        "indicator": "Contributii de asigurari",
+        "mil_lei": 165397.431021,
+        "pct_pib": 8.044622
+      },
+      {
+        "indicator": "Venituri nefiscale",
+        "mil_lei": 38318.494964,
+        "pct_pib": 1.86374
+      },
+      {
+        "indicator": "Sume primite de la UE/alti donatori în contul platilor efectuate si prefinantari",
+        "mil_lei": 24357.603053,
+        "pct_pib": 1.184708
+      },
+      {
+        "indicator": "Cheltuieli curente",
+        "mil_lei": 567670.049408,
+        "pct_pib": 27.610411
+      },
+      {
+        "indicator": "Cheltuieli de personal",
+        "mil_lei": 122246.573922,
+        "pct_pib": 5.945845
+      },
+      {
+        "indicator": "Impozite si taxe pe bunuri si servicii",
+        "mil_lei": 173068.267492,
+        "pct_pib": 8.417717
+      },
+      {
+        "indicator": "Dobanzi",
+        "mil_lei": 50629.460464,
+        "pct_pib": 2.462522
+      },
+      {
+        "indicator": "Asistenta sociala",
+        "mil_lei": 187930.232813,
+        "pct_pib": 9.140576
+      },
+      {
+        "indicator": "Subventii",
+        "mil_lei": 0.0,
+        "pct_pib": 0.0
+      },
+      {
+        "indicator": "Cheltuieli de capital",
+        "mil_lei": 35247.478224,
+        "pct_pib": 1.714372
+      },
+      {
+        "indicator": "Active nefinanciare",
+        "mil_lei": 34849.160522,
+        "pct_pib": 1.694998
+      }
+    ],
+    "source_url": "https://mfinante.gov.ro/static/10/Mfp/buletin/executii/bgc30092026.xlsx"
   }
 ]

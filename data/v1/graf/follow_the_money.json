@@ -1,5 +1,5 @@
 {
-  "nota": "⚠️ LEAD-URI NEVERIFICATE, NU acuzații. Link firmă↔persoană e pe NUME (fără CNP) → MAJORITATEA sunt OMONIMI, mai ales la companii mari (ENGIE/Groupama/UNIQA = un omonim e reprezentant, NU parlamentarul). Singurele DEFENSABILE: 'confirmate_autodeclarate' = firma apare în PROPRIA declarație de interese a persoanei (conflict documentat). Restul: de verificat manual cu declarația de interese + ONRC (dată naștere/CNP).",
+  "nota": "Piste neverificate, nu acuzații. Legătura dintre o firmă și o persoană se face după nume, fără CNP, iar cele mai multe potriviri sunt omonimi, mai ales la companiile mari (la ENGIE, Groupama sau UNIQA reprezentantul e un omonim, nu parlamentarul). Se susțin doar legăturile confirmate, unde firma apare în propria declarație de interese a persoanei. Restul se verifică manual, cu declarația de interese și datele ONRC.",
   "total_leaduri": 47,
   "din_care_parlamentari": 11,
   "CONFIRMATE_autodeclarate": 12,
@@ -203,7 +203,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 459124537.0,
-      "total_achizitii_directe_ron": 0.0,
+      "total_achizitii_directe_ron": 1332390.2,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13068733,
@@ -239,10 +239,20 @@
           "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
           "rol": "administrator",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 2828957985,
+            "profit_net": 788156576,
+            "datorii": 4853998590,
+            "nr_salariati": 3983
+          },
           "contracte_stat": {
             "total_ron": 459124537.0,
             "nr": 6
+          },
+          "achizitii_directe": {
+            "total_ron": 1332390.2,
+            "nr": 13
           }
         }
       ],
@@ -568,7 +578,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
+      "total_achizitii_directe_ron": 2580991.85,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13554423,
@@ -606,8 +616,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
+            "total_ron": 2580991.85,
+            "nr": 70
           }
         }
       ],
@@ -691,7 +701,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 14986076.0,
-      "total_achizitii_directe_ron": 1652511.92,
+      "total_achizitii_directe_ron": 3761332.55,
       "firme_contracte_autodeclarate": [
         {
           "cui": 46877331,
@@ -735,8 +745,8 @@
             "nr_salariati": 495
           },
           "achizitii_directe": {
-            "total_ron": 1061529.28,
-            "nr": 116
+            "total_ron": 1129383.09,
+            "nr": 129
           }
         },
         {
@@ -756,8 +766,8 @@
             "nr": 1
           },
           "achizitii_directe": {
-            "total_ron": 590982.64,
-            "nr": 51
+            "total_ron": 2631949.46,
+            "nr": 127
           }
         }
       ],
@@ -828,7 +838,7 @@
         "judet": "Bihor",
         "legislatura": 2024,
         "birth_date": "1982-03-04",
-        "plx_initiate": 49
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -1082,7 +1092,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 459124537.0,
-      "total_achizitii_directe_ron": 0.0,
+      "total_achizitii_directe_ron": 1332390.2,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13068733,
@@ -1118,10 +1128,20 @@
           "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
           "rol": "administrator",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 2828957985,
+            "profit_net": 788156576,
+            "datorii": 4853998590,
+            "nr_salariati": 3983
+          },
           "contracte_stat": {
             "total_ron": 459124537.0,
             "nr": 6
+          },
+          "achizitii_directe": {
+            "total_ron": 1332390.2,
+            "nr": 13
           }
         }
       ],
@@ -1137,7 +1157,7 @@
         "judet": "Satu-Mare",
         "legislatura": 2024,
         "birth_date": "1983-07-23",
-        "plx_initiate": 41
+        "plx_initiate": 44
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -1626,7 +1646,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
+      "total_achizitii_directe_ron": 2580991.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1668,8 +1688,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
+            "total_ron": 2580991.85,
+            "nr": 70
           }
         }
       ],
@@ -1688,7 +1708,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
+      "total_achizitii_directe_ron": 2580991.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1720,8 +1740,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
+            "total_ron": 2580991.85,
+            "nr": 70
           }
         }
       ],
@@ -1740,7 +1760,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
+      "total_achizitii_directe_ron": 2580991.85,
       "firme_contracte_autodeclarate": [
         {
           "cui": 13554423,
@@ -1778,8 +1798,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
+            "total_ron": 2580991.85,
+            "nr": 70
           }
         }
       ],
@@ -1798,7 +1818,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
+      "total_achizitii_directe_ron": 2580991.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1830,8 +1850,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
+            "total_ron": 2580991.85,
+            "nr": 70
           }
         }
       ],
@@ -1850,7 +1870,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 133427590.0,
-      "total_achizitii_directe_ron": 2574648.73,
+      "total_achizitii_directe_ron": 2580991.85,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -1882,8 +1902,8 @@
             "nr": 34
           },
           "achizitii_directe": {
-            "total_ron": 2574648.73,
-            "nr": 68
+            "total_ron": 2580991.85,
+            "nr": 70
           }
         }
       ],
@@ -1904,8 +1924,7 @@
         "birth_date": null,
         "comisii": [
           "Comisia pentru muncă, familie şi protecţie socială",
-          "Comisia pentru sănătate",
-          "Comisia pentru drepturile omului, egalitate de șanse, culte şi minorităţi"
+          "Comisia pentru sănătate"
         ]
       },
       "n_declaratii": 2,
@@ -1970,7 +1989,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 2801924.46,
+      "total_achizitii_directe_ron": 4516442.31,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2012,8 +2031,8 @@
             "nr": 5
           },
           "achizitii_directe": {
-            "total_ron": 2801924.46,
-            "nr": 309
+            "total_ron": 4516442.31,
+            "nr": 608
           }
         }
       ],
@@ -2029,7 +2048,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 2801924.46,
+      "total_achizitii_directe_ron": 4516442.31,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2061,8 +2080,8 @@
             "nr": 5
           },
           "achizitii_directe": {
-            "total_ron": 2801924.46,
-            "nr": 309
+            "total_ron": 4516442.31,
+            "nr": 608
           }
         }
       ],
@@ -2078,7 +2097,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 2801924.46,
+      "total_achizitii_directe_ron": 4516442.31,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2110,8 +2129,8 @@
             "nr": 5
           },
           "achizitii_directe": {
-            "total_ron": 2801924.46,
-            "nr": 309
+            "total_ron": 4516442.31,
+            "nr": 608
           }
         }
       ],
@@ -2127,7 +2146,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 2801924.46,
+      "total_achizitii_directe_ron": 4516442.31,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2159,8 +2178,8 @@
             "nr": 5
           },
           "achizitii_directe": {
-            "total_ron": 2801924.46,
-            "nr": 309
+            "total_ron": 4516442.31,
+            "nr": 608
           }
         }
       ],
@@ -2176,7 +2195,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 36231907.0,
-      "total_achizitii_directe_ron": 2801924.46,
+      "total_achizitii_directe_ron": 4516442.31,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2203,8 +2222,8 @@
             "nr": 5
           },
           "achizitii_directe": {
-            "total_ron": 2801924.46,
-            "nr": 309
+            "total_ron": 4516442.31,
+            "nr": 608
           }
         }
       ],
@@ -2368,7 +2387,7 @@
       "are_cv": false,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 14986076.0,
-      "total_achizitii_directe_ron": 1652511.92,
+      "total_achizitii_directe_ron": 3761332.55,
       "firme_contracte_autodeclarate": [
         {
           "cui": 46877331,
@@ -2412,8 +2431,8 @@
             "nr_salariati": 495
           },
           "achizitii_directe": {
-            "total_ron": 1061529.28,
-            "nr": 116
+            "total_ron": 1129383.09,
+            "nr": 129
           }
         },
         {
@@ -2433,8 +2452,8 @@
             "nr": 1
           },
           "achizitii_directe": {
-            "total_ron": 590982.64,
-            "nr": 51
+            "total_ron": 2631949.46,
+            "nr": 127
           }
         }
       ],
@@ -2598,7 +2617,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 5013188.0,
-      "total_achizitii_directe_ron": 12538253.83,
+      "total_achizitii_directe_ron": 12377633.04,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2646,6 +2665,10 @@
             "profit_net": 4193671,
             "datorii": 35055228,
             "nr_salariati": 379
+          },
+          "achizitii_directe": {
+            "total_ron": 885502.11,
+            "nr": 76
           }
         },
         {
@@ -2679,22 +2702,14 @@
           "nume": "SC.Amiabil.SRL",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 499880.54,
-            "nr": 9
-          }
+          "financials": null
         },
         {
           "cui": 12105418,
           "nume": "S.C.IORDICOM 99 S.R.L.",
           "rol": "administrator",
           "sector": "",
-          "financials": null,
-          "achizitii_directe": {
-            "total_ron": 546242.36,
-            "nr": 1499
-          }
+          "financials": null
         }
       ],
       "cv": {
@@ -2713,8 +2728,8 @@
         "legislatura": 2024,
         "birth_date": null,
         "comisii": [
-          "Comisia pentru buget, finanţe, activitate bancară şi piaţă de capital",
-          "Comisia economică, industrii, servicii, turism și antreprenoriat"
+          "Comisia economică, industrii, servicii, turism și antreprenoriat",
+          "Comisia pentru comunicații, tehnologia informației și inteligență artificială"
         ]
       },
       "n_declaratii": 2,
@@ -2768,7 +2783,7 @@
       "are_cv": true,
       "n_firme_cu_contracte": 1,
       "total_contracte_ron": 2324538.0,
-      "total_achizitii_directe_ron": 3164594.04,
+      "total_achizitii_directe_ron": 3497455.43,
       "firme_contracte_autodeclarate": [],
       "declaratii": [
         {
@@ -2808,14 +2823,20 @@
           "nume": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
           "rol": "administrator",
           "sector": "IT & comunicații",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 258857658,
+            "profit_net": 16091007,
+            "datorii": 90130454,
+            "nr_salariati": 1142
+          },
           "contracte_stat": {
             "total_ron": 2324538.0,
             "nr": 12
           },
           "achizitii_directe": {
-            "total_ron": 3164594.04,
-            "nr": 871
+            "total_ron": 3497455.43,
+            "nr": 963
           }
         }
       ],
@@ -2887,7 +2908,7 @@
         "judet": "Brăila",
         "legislatura": 2024,
         "birth_date": "1990-08-06",
-        "plx_initiate": 41
+        "plx_initiate": 43
       },
       "n_declaratii": 2,
       "n_companii": 4,
@@ -3402,7 +3423,7 @@
         "judet": "Bihor",
         "legislatura": 2024,
         "birth_date": "1982-03-04",
-        "plx_initiate": 49
+        "plx_initiate": 50
       },
       "n_declaratii": 2,
       "n_companii": 1,
@@ -3481,7 +3502,13 @@
           "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 3474725630,
+            "profit_net": -1112058796,
+            "datorii": 1040680894,
+            "nr_salariati": 7950
+          },
           "contracte_stat": {
             "total_ron": 269863.0,
             "nr": 1
@@ -3520,7 +3547,13 @@
           "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 3474725630,
+            "profit_net": -1112058796,
+            "datorii": 1040680894,
+            "nr_salariati": 7950
+          },
           "contracte_stat": {
             "total_ron": 269863.0,
             "nr": 1
@@ -3554,7 +3587,13 @@
           "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 3474725630,
+            "profit_net": -1112058796,
+            "datorii": 1040680894,
+            "nr_salariati": 7950
+          },
           "contracte_stat": {
             "total_ron": 269863.0,
             "nr": 1
@@ -3588,7 +3627,13 @@
           "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
           "rol": "membru în consiliul de supraveghere",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 3474725630,
+            "profit_net": -1112058796,
+            "datorii": 1040680894,
+            "nr_salariati": 7950
+          },
           "contracte_stat": {
             "total_ron": 269863.0,
             "nr": 1
@@ -3622,7 +3667,13 @@
           "nume": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
           "rol": "membru în directorat",
           "sector": "Energie",
-          "financials": [],
+          "financials": {
+            "an": 2025,
+            "cifra_afaceri": 3474725630,
+            "profit_net": -1112058796,
+            "datorii": 1040680894,
+            "nr_salariati": 7950
+          },
           "contracte_stat": {
             "total_ron": 269863.0,
             "nr": 1

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-09-27T09:10:58.991598Z",
+    "generated_at": "2026-11-19T19:27:06.045358Z",
     "source_url": "cdep.ro",
     "scraper_version": "0.1.0",
     "count": 336
@@ -11,7 +11,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=1&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:19.649961Z",
+          "fetched_at": "2026-11-19T19:21:28.827697Z",
           "bronze_sha256": null
         }
       ],
@@ -33,7 +33,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=3&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:20.681281Z",
+          "fetched_at": "2026-11-19T19:21:29.873664Z",
           "bronze_sha256": null
         }
       ],
@@ -55,7 +55,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=4&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:21.667365Z",
+          "fetched_at": "2026-11-19T19:21:30.780302Z",
           "bronze_sha256": null
         }
       ],
@@ -77,7 +77,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=5&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:23.160941Z",
+          "fetched_at": "2026-11-19T19:21:31.848935Z",
           "bronze_sha256": null
         }
       ],
@@ -99,7 +99,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=6&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:23.607910Z",
+          "fetched_at": "2026-11-19T19:21:32.780387Z",
           "bronze_sha256": null
         }
       ],
@@ -121,7 +121,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=7&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:24.615740Z",
+          "fetched_at": "2026-11-19T19:21:33.840879Z",
           "bronze_sha256": null
         }
       ],
@@ -143,7 +143,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=8&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:25.559240Z",
+          "fetched_at": "2026-11-19T19:21:35.010772Z",
           "bronze_sha256": null
         }
       ],
@@ -165,7 +165,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=9&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:26.687460Z",
+          "fetched_at": "2026-11-19T19:21:35.900721Z",
           "bronze_sha256": null
         }
       ],
@@ -187,7 +187,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=10&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:27.645054Z",
+          "fetched_at": "2026-11-19T19:21:36.778719Z",
           "bronze_sha256": null
         }
       ],
@@ -209,7 +209,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=12&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:28.601125Z",
+          "fetched_at": "2026-11-19T19:21:37.790559Z",
           "bronze_sha256": null
         }
       ],
@@ -231,7 +231,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=13&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:29.859369Z",
+          "fetched_at": "2026-11-19T19:21:38.847797Z",
           "bronze_sha256": null
         }
       ],
@@ -253,7 +253,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=14&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:30.867510Z",
+          "fetched_at": "2026-11-19T19:21:39.749881Z",
           "bronze_sha256": null
         }
       ],
@@ -275,7 +275,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=336&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:31.587133Z",
+          "fetched_at": "2026-11-19T19:21:40.828337Z",
           "bronze_sha256": null
         }
       ],
@@ -297,7 +297,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=15&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:32.709165Z",
+          "fetched_at": "2026-11-19T19:21:41.833967Z",
           "bronze_sha256": null
         }
       ],
@@ -319,7 +319,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=16&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:33.702044Z",
+          "fetched_at": "2026-11-19T19:21:43.000417Z",
           "bronze_sha256": null
         }
       ],
@@ -341,7 +341,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=17&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:34.684166Z",
+          "fetched_at": "2026-11-19T19:21:43.979612Z",
           "bronze_sha256": null
         }
       ],
@@ -363,7 +363,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=18&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:35.943554Z",
+          "fetched_at": "2026-11-19T19:21:44.831441Z",
           "bronze_sha256": null
         }
       ],
@@ -385,7 +385,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=19&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:37.000984Z",
+          "fetched_at": "2026-11-19T19:21:45.834885Z",
           "bronze_sha256": null
         }
       ],
@@ -407,7 +407,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=20&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:37.713230Z",
+          "fetched_at": "2026-11-19T19:21:46.979949Z",
           "bronze_sha256": null
         }
       ],
@@ -429,7 +429,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=21&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:38.653415Z",
+          "fetched_at": "2026-11-19T19:21:47.834485Z",
           "bronze_sha256": null
         }
       ],
@@ -451,7 +451,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=22&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:40.780826Z",
+          "fetched_at": "2026-11-19T19:21:48.950435Z",
           "bronze_sha256": null
         }
       ],
@@ -473,7 +473,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=23&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:41.368589Z",
+          "fetched_at": "2026-11-19T19:21:49.829650Z",
           "bronze_sha256": null
         }
       ],
@@ -495,7 +495,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=24&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:42.076710Z",
+          "fetched_at": "2026-11-19T19:21:50.854736Z",
           "bronze_sha256": null
         }
       ],
@@ -517,7 +517,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=25&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:43.248294Z",
+          "fetched_at": "2026-11-19T19:21:52.016206Z",
           "bronze_sha256": null
         }
       ],
@@ -539,7 +539,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=26&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:44.189531Z",
+          "fetched_at": "2026-11-19T19:21:52.880715Z",
           "bronze_sha256": null
         }
       ],
@@ -561,7 +561,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=27&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:45.192943Z",
+          "fetched_at": "2026-11-19T19:21:53.926708Z",
           "bronze_sha256": null
         }
       ],
@@ -583,7 +583,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=28&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:46.098397Z",
+          "fetched_at": "2026-11-19T19:21:54.849961Z",
           "bronze_sha256": null
         }
       ],
@@ -605,7 +605,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=29&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:47.167991Z",
+          "fetched_at": "2026-11-19T19:21:55.966193Z",
           "bronze_sha256": null
         }
       ],
@@ -627,7 +627,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=30&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:48.195393Z",
+          "fetched_at": "2026-11-19T19:21:56.932739Z",
           "bronze_sha256": null
         }
       ],
@@ -649,7 +649,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=31&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:49.057973Z",
+          "fetched_at": "2026-11-19T19:21:57.852245Z",
           "bronze_sha256": null
         }
       ],
@@ -671,7 +671,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=32&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:50.121016Z",
+          "fetched_at": "2026-11-19T19:21:58.904324Z",
           "bronze_sha256": null
         }
       ],
@@ -693,7 +693,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=33&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:51.116236Z",
+          "fetched_at": "2026-11-19T19:21:59.908233Z",
           "bronze_sha256": null
         }
       ],
@@ -715,7 +715,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=34&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:52.138366Z",
+          "fetched_at": "2026-11-19T19:22:00.872498Z",
           "bronze_sha256": null
         }
       ],
@@ -737,7 +737,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=35&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:53.101640Z",
+          "fetched_at": "2026-11-19T19:22:01.856046Z",
           "bronze_sha256": null
         }
       ],
@@ -759,7 +759,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=36&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:54.103198Z",
+          "fetched_at": "2026-11-19T19:22:02.886201Z",
           "bronze_sha256": null
         }
       ],
@@ -781,7 +781,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=37&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:55.115440Z",
+          "fetched_at": "2026-11-19T19:22:03.828288Z",
           "bronze_sha256": null
         }
       ],
@@ -803,7 +803,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=38&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:56.194917Z",
+          "fetched_at": "2026-11-19T19:22:05.028139Z",
           "bronze_sha256": null
         }
       ],
@@ -825,7 +825,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=39&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:57.057153Z",
+          "fetched_at": "2026-11-19T19:22:06.094757Z",
           "bronze_sha256": null
         }
       ],
@@ -847,7 +847,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=40&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:58.128342Z",
+          "fetched_at": "2026-11-19T19:22:07.075079Z",
           "bronze_sha256": null
         }
       ],
@@ -869,7 +869,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=41&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:05:59.057535Z",
+          "fetched_at": "2026-11-19T19:22:07.925887Z",
           "bronze_sha256": null
         }
       ],
@@ -891,7 +891,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=42&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:00.189453Z",
+          "fetched_at": "2026-11-19T19:22:09.065220Z",
           "bronze_sha256": null
         }
       ],
@@ -913,7 +913,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=43&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:01.118424Z",
+          "fetched_at": "2026-11-19T19:22:10.059930Z",
           "bronze_sha256": null
         }
       ],
@@ -935,7 +935,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=44&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:02.779478Z",
+          "fetched_at": "2026-11-19T19:22:11.072564Z",
           "bronze_sha256": null
         }
       ],
@@ -957,7 +957,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=45&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:03.102355Z",
+          "fetched_at": "2026-11-19T19:22:12.099722Z",
           "bronze_sha256": null
         }
       ],
@@ -979,7 +979,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=46&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:04.071487Z",
+          "fetched_at": "2026-11-19T19:22:12.977905Z",
           "bronze_sha256": null
         }
       ],
@@ -1001,7 +1001,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=47&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:05.119156Z",
+          "fetched_at": "2026-11-19T19:22:14.056958Z",
           "bronze_sha256": null
         }
       ],
@@ -1023,7 +1023,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=48&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:06.079203Z",
+          "fetched_at": "2026-11-19T19:22:14.951645Z",
           "bronze_sha256": null
         }
       ],
@@ -1045,7 +1045,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=49&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:07.416797Z",
+          "fetched_at": "2026-11-19T19:22:15.931106Z",
           "bronze_sha256": null
         }
       ],
@@ -1067,7 +1067,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=50&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:08.082459Z",
+          "fetched_at": "2026-11-19T19:22:16.967600Z",
           "bronze_sha256": null
         }
       ],
@@ -1089,7 +1089,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=51&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:09.072322Z",
+          "fetched_at": "2026-11-19T19:22:18.029636Z",
           "bronze_sha256": null
         }
       ],
@@ -1111,7 +1111,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=52&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:10.684197Z",
+          "fetched_at": "2026-11-19T19:22:18.983439Z",
           "bronze_sha256": null
         }
       ],
@@ -1133,7 +1133,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=53&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:11.102030Z",
+          "fetched_at": "2026-11-19T19:22:20.864159Z",
           "bronze_sha256": null
         }
       ],
@@ -1155,7 +1155,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=54&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:12.118001Z",
+          "fetched_at": "2026-11-19T19:22:21.159939Z",
           "bronze_sha256": null
         }
       ],
@@ -1177,7 +1177,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=55&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:13.097241Z",
+          "fetched_at": "2026-11-19T19:22:22.392797Z",
           "bronze_sha256": null
         }
       ],
@@ -1199,7 +1199,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=56&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:14.045902Z",
+          "fetched_at": "2026-11-19T19:22:23.140363Z",
           "bronze_sha256": null
         }
       ],
@@ -1221,7 +1221,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=57&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:15.166064Z",
+          "fetched_at": "2026-11-19T19:22:24.152838Z",
           "bronze_sha256": null
         }
       ],
@@ -1243,7 +1243,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=58&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:16.085074Z",
+          "fetched_at": "2026-11-19T19:22:25.283240Z",
           "bronze_sha256": null
         }
       ],
@@ -1265,7 +1265,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=60&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:17.091518Z",
+          "fetched_at": "2026-11-19T19:22:26.249018Z",
           "bronze_sha256": null
         }
       ],
@@ -1287,7 +1287,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=61&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:18.091692Z",
+          "fetched_at": "2026-11-19T19:22:27.227293Z",
           "bronze_sha256": null
         }
       ],
@@ -1309,7 +1309,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=62&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:19.122457Z",
+          "fetched_at": "2026-11-19T19:22:28.217392Z",
           "bronze_sha256": null
         }
       ],
@@ -1331,7 +1331,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=63&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:20.156713Z",
+          "fetched_at": "2026-11-19T19:22:29.289933Z",
           "bronze_sha256": null
         }
       ],
@@ -1353,7 +1353,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=64&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:22.046255Z",
+          "fetched_at": "2026-11-19T19:22:30.239943Z",
           "bronze_sha256": null
         }
       ],
@@ -1375,7 +1375,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=65&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:22.515201Z",
+          "fetched_at": "2026-11-19T19:22:31.214251Z",
           "bronze_sha256": null
         }
       ],
@@ -1397,7 +1397,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=66&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:23.250227Z",
+          "fetched_at": "2026-11-19T19:22:32.259762Z",
           "bronze_sha256": null
         }
       ],
@@ -1419,7 +1419,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=67&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:24.263462Z",
+          "fetched_at": "2026-11-19T19:22:34.024106Z",
           "bronze_sha256": null
         }
       ],
@@ -1441,7 +1441,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=68&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:25.290369Z",
+          "fetched_at": "2026-11-19T19:22:34.249254Z",
           "bronze_sha256": null
         }
       ],
@@ -1463,7 +1463,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=69&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:26.346541Z",
+          "fetched_at": "2026-11-19T19:22:35.299787Z",
           "bronze_sha256": null
         }
       ],
@@ -1485,7 +1485,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=70&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:27.349435Z",
+          "fetched_at": "2026-11-19T19:22:36.312231Z",
           "bronze_sha256": null
         }
       ],
@@ -1507,7 +1507,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=71&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:28.323975Z",
+          "fetched_at": "2026-11-19T19:22:37.369888Z",
           "bronze_sha256": null
         }
       ],
@@ -1529,7 +1529,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=72&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:29.410095Z",
+          "fetched_at": "2026-11-19T19:22:38.454488Z",
           "bronze_sha256": null
         }
       ],
@@ -1551,7 +1551,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=73&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:30.376051Z",
+          "fetched_at": "2026-11-19T19:22:39.473115Z",
           "bronze_sha256": null
         }
       ],
@@ -1573,7 +1573,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=74&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:31.335896Z",
+          "fetched_at": "2026-11-19T19:22:40.346796Z",
           "bronze_sha256": null
         }
       ],
@@ -1595,7 +1595,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=75&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:32.318170Z",
+          "fetched_at": "2026-11-19T19:22:41.367483Z",
           "bronze_sha256": null
         }
       ],
@@ -1617,7 +1617,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=76&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:33.342648Z",
+          "fetched_at": "2026-11-19T19:22:42.842869Z",
           "bronze_sha256": null
         }
       ],
@@ -1639,7 +1639,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=77&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:34.286595Z",
+          "fetched_at": "2026-11-19T19:22:43.776577Z",
           "bronze_sha256": null
         }
       ],
@@ -1661,7 +1661,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=78&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:35.324974Z",
+          "fetched_at": "2026-11-19T19:22:44.493470Z",
           "bronze_sha256": null
         }
       ],
@@ -1683,7 +1683,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=116&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:36.419910Z",
+          "fetched_at": "2026-11-19T19:22:45.438291Z",
           "bronze_sha256": null
         }
       ],
@@ -1705,7 +1705,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=79&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:37.314017Z",
+          "fetched_at": "2026-11-19T19:22:46.613088Z",
           "bronze_sha256": null
         }
       ],
@@ -1727,7 +1727,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=80&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:38.519913Z",
+          "fetched_at": "2026-11-19T19:22:47.508419Z",
           "bronze_sha256": null
         }
       ],
@@ -1749,7 +1749,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=81&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:39.468883Z",
+          "fetched_at": "2026-11-19T19:22:48.502902Z",
           "bronze_sha256": null
         }
       ],
@@ -1771,7 +1771,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=82&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:40.324983Z",
+          "fetched_at": "2026-11-19T19:22:49.642240Z",
           "bronze_sha256": null
         }
       ],
@@ -1793,7 +1793,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=83&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:41.356749Z",
+          "fetched_at": "2026-11-19T19:22:50.366647Z",
           "bronze_sha256": null
         }
       ],
@@ -1815,7 +1815,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=84&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:42.377058Z",
+          "fetched_at": "2026-11-19T19:22:51.411749Z",
           "bronze_sha256": null
         }
       ],
@@ -1837,7 +1837,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=85&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:43.354352Z",
+          "fetched_at": "2026-11-19T19:22:52.389979Z",
           "bronze_sha256": null
         }
       ],
@@ -1859,7 +1859,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=86&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:44.800960Z",
+          "fetched_at": "2026-11-19T19:22:53.440701Z",
           "bronze_sha256": null
         }
       ],
@@ -1881,7 +1881,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=87&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:45.321131Z",
+          "fetched_at": "2026-11-19T19:22:54.483400Z",
           "bronze_sha256": null
         }
       ],
@@ -1903,7 +1903,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=88&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:47.026292Z",
+          "fetched_at": "2026-11-19T19:22:55.529435Z",
           "bronze_sha256": null
         }
       ],
@@ -1925,7 +1925,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=89&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:47.375476Z",
+          "fetched_at": "2026-11-19T19:22:56.414892Z",
           "bronze_sha256": null
         }
       ],
@@ -1947,7 +1947,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=90&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:48.450467Z",
+          "fetched_at": "2026-11-19T19:22:57.454386Z",
           "bronze_sha256": null
         }
       ],
@@ -1969,7 +1969,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=91&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:49.297798Z",
+          "fetched_at": "2026-11-19T19:22:58.566516Z",
           "bronze_sha256": null
         }
       ],
@@ -1991,7 +1991,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=92&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:50.302704Z",
+          "fetched_at": "2026-11-19T19:22:59.436329Z",
           "bronze_sha256": null
         }
       ],
@@ -2013,7 +2013,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=93&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:51.347034Z",
+          "fetched_at": "2026-11-19T19:23:00.572393Z",
           "bronze_sha256": null
         }
       ],
@@ -2035,7 +2035,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=94&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:52.350132Z",
+          "fetched_at": "2026-11-19T19:23:01.517948Z",
           "bronze_sha256": null
         }
       ],
@@ -2057,7 +2057,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=95&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:53.428156Z",
+          "fetched_at": "2026-11-19T19:23:02.474667Z",
           "bronze_sha256": null
         }
       ],
@@ -2079,7 +2079,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=96&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:54.445737Z",
+          "fetched_at": "2026-11-19T19:23:03.580378Z",
           "bronze_sha256": null
         }
       ],
@@ -2101,7 +2101,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=97&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:55.402713Z",
+          "fetched_at": "2026-11-19T19:23:04.523536Z",
           "bronze_sha256": null
         }
       ],
@@ -2123,7 +2123,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=98&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:56.325630Z",
+          "fetched_at": "2026-11-19T19:23:05.557830Z",
           "bronze_sha256": null
         }
       ],
@@ -2145,7 +2145,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=99&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:57.322978Z",
+          "fetched_at": "2026-11-19T19:23:06.605284Z",
           "bronze_sha256": null
         }
       ],
@@ -2167,7 +2167,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=100&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:58.394771Z",
+          "fetched_at": "2026-11-19T19:23:07.612377Z",
           "bronze_sha256": null
         }
       ],
@@ -2189,7 +2189,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=101&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:06:59.378834Z",
+          "fetched_at": "2026-11-19T19:23:08.574553Z",
           "bronze_sha256": null
         }
       ],
@@ -2211,7 +2211,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=102&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:00.817397Z",
+          "fetched_at": "2026-11-19T19:23:09.593352Z",
           "bronze_sha256": null
         }
       ],
@@ -2233,7 +2233,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=103&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:01.339874Z",
+          "fetched_at": "2026-11-19T19:23:10.539653Z",
           "bronze_sha256": null
         }
       ],
@@ -2255,7 +2255,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=104&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:02.350626Z",
+          "fetched_at": "2026-11-19T19:23:11.517425Z",
           "bronze_sha256": null
         }
       ],
@@ -2277,7 +2277,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=105&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:03.385432Z",
+          "fetched_at": "2026-11-19T19:23:12.679942Z",
           "bronze_sha256": null
         }
       ],
@@ -2299,7 +2299,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=106&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:04.344946Z",
+          "fetched_at": "2026-11-19T19:23:13.473122Z",
           "bronze_sha256": null
         }
       ],
@@ -2321,7 +2321,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=107&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:05.343635Z",
+          "fetched_at": "2026-11-19T19:23:14.830605Z",
           "bronze_sha256": null
         }
       ],
@@ -2343,7 +2343,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=108&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:06.318839Z",
+          "fetched_at": "2026-11-19T19:23:15.624674Z",
           "bronze_sha256": null
         }
       ],
@@ -2365,7 +2365,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=109&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:07.385197Z",
+          "fetched_at": "2026-11-19T19:23:16.583334Z",
           "bronze_sha256": null
         }
       ],
@@ -2387,7 +2387,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=110&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:08.324584Z",
+          "fetched_at": "2026-11-19T19:23:17.534142Z",
           "bronze_sha256": null
         }
       ],
@@ -2409,7 +2409,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=111&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:09.365290Z",
+          "fetched_at": "2026-11-19T19:23:18.580855Z",
           "bronze_sha256": null
         }
       ],
@@ -2431,7 +2431,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=112&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:10.909522Z",
+          "fetched_at": "2026-11-19T19:23:19.608903Z",
           "bronze_sha256": null
         }
       ],
@@ -2453,7 +2453,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=113&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:11.531177Z",
+          "fetched_at": "2026-11-19T19:23:20.652682Z",
           "bronze_sha256": null
         }
       ],
@@ -2475,7 +2475,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=114&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:12.336653Z",
+          "fetched_at": "2026-11-19T19:23:21.550537Z",
           "bronze_sha256": null
         }
       ],
@@ -2497,7 +2497,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=115&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:13.416113Z",
+          "fetched_at": "2026-11-19T19:23:22.840821Z",
           "bronze_sha256": null
         }
       ],
@@ -2519,7 +2519,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=117&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:14.328193Z",
+          "fetched_at": "2026-11-19T19:23:23.549542Z",
           "bronze_sha256": null
         }
       ],
@@ -2541,7 +2541,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=118&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:15.356326Z",
+          "fetched_at": "2026-11-19T19:23:24.593530Z",
           "bronze_sha256": null
         }
       ],
@@ -2563,7 +2563,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=119&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:16.324706Z",
+          "fetched_at": "2026-11-19T19:23:25.613493Z",
           "bronze_sha256": null
         }
       ],
@@ -2585,7 +2585,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=120&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:17.381199Z",
+          "fetched_at": "2026-11-19T19:23:26.750371Z",
           "bronze_sha256": null
         }
       ],
@@ -2607,7 +2607,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=121&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:18.311157Z",
+          "fetched_at": "2026-11-19T19:23:27.564659Z",
           "bronze_sha256": null
         }
       ],
@@ -2629,7 +2629,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=122&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:19.341592Z",
+          "fetched_at": "2026-11-19T19:23:28.556995Z",
           "bronze_sha256": null
         }
       ],
@@ -2651,7 +2651,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=123&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:20.339685Z",
+          "fetched_at": "2026-11-19T19:23:29.599682Z",
           "bronze_sha256": null
         }
       ],
@@ -2673,7 +2673,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=124&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:21.372405Z",
+          "fetched_at": "2026-11-19T19:23:31.609632Z",
           "bronze_sha256": null
         }
       ],
@@ -2695,7 +2695,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=125&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:23.975537Z",
+          "fetched_at": "2026-11-19T19:23:31.901436Z",
           "bronze_sha256": null
         }
       ],
@@ -2717,7 +2717,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=126&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:24.301890Z",
+          "fetched_at": "2026-11-19T19:23:33.039074Z",
           "bronze_sha256": null
         }
       ],
@@ -2739,7 +2739,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=127&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:25.278915Z",
+          "fetched_at": "2026-11-19T19:23:33.963821Z",
           "bronze_sha256": null
         }
       ],
@@ -2761,7 +2761,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=128&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:26.314058Z",
+          "fetched_at": "2026-11-19T19:23:35.052195Z",
           "bronze_sha256": null
         }
       ],
@@ -2783,7 +2783,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=129&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:27.298426Z",
+          "fetched_at": "2026-11-19T19:23:36.094397Z",
           "bronze_sha256": null
         }
       ],
@@ -2805,7 +2805,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=130&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:28.301199Z",
+          "fetched_at": "2026-11-19T19:23:36.984344Z",
           "bronze_sha256": null
         }
       ],
@@ -2827,7 +2827,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=131&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:29.228394Z",
+          "fetched_at": "2026-11-19T19:23:38.090342Z",
           "bronze_sha256": null
         }
       ],
@@ -2849,7 +2849,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=132&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:30.221895Z",
+          "fetched_at": "2026-11-19T19:23:38.973535Z",
           "bronze_sha256": null
         }
       ],
@@ -2871,7 +2871,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=133&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:31.353696Z",
+          "fetched_at": "2026-11-19T19:23:40.177582Z",
           "bronze_sha256": null
         }
       ],
@@ -2893,7 +2893,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=134&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:32.259571Z",
+          "fetched_at": "2026-11-19T19:23:40.962818Z",
           "bronze_sha256": null
         }
       ],
@@ -2915,7 +2915,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=135&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:33.289267Z",
+          "fetched_at": "2026-11-19T19:23:42.038944Z",
           "bronze_sha256": null
         }
       ],
@@ -2937,7 +2937,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=136&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:34.244455Z",
+          "fetched_at": "2026-11-19T19:23:43.122505Z",
           "bronze_sha256": null
         }
       ],
@@ -2959,7 +2959,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=137&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:35.248331Z",
+          "fetched_at": "2026-11-19T19:23:43.992833Z",
           "bronze_sha256": null
         }
       ],
@@ -2981,7 +2981,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=138&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:36.295859Z",
+          "fetched_at": "2026-11-19T19:23:45.306139Z",
           "bronze_sha256": null
         }
       ],
@@ -3003,7 +3003,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=139&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:37.259727Z",
+          "fetched_at": "2026-11-19T19:23:46.127675Z",
           "bronze_sha256": null
         }
       ],
@@ -3025,7 +3025,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=140&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:38.336978Z",
+          "fetched_at": "2026-11-19T19:23:46.957397Z",
           "bronze_sha256": null
         }
       ],
@@ -3047,7 +3047,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=141&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:39.262020Z",
+          "fetched_at": "2026-11-19T19:23:48.048564Z",
           "bronze_sha256": null
         }
       ],
@@ -3069,7 +3069,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=142&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:41.010394Z",
+          "fetched_at": "2026-11-19T19:23:49.041355Z",
           "bronze_sha256": null
         }
       ],
@@ -3091,7 +3091,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=143&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:42.108528Z",
+          "fetched_at": "2026-11-19T19:23:49.987113Z",
           "bronze_sha256": null
         }
       ],
@@ -3113,7 +3113,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=144&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:42.389058Z",
+          "fetched_at": "2026-11-19T19:23:50.954229Z",
           "bronze_sha256": null
         }
       ],
@@ -3135,7 +3135,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=145&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:43.398924Z",
+          "fetched_at": "2026-11-19T19:23:51.958879Z",
           "bronze_sha256": null
         }
       ],
@@ -3157,7 +3157,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=147&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:44.553053Z",
+          "fetched_at": "2026-11-19T19:23:53.107560Z",
           "bronze_sha256": null
         }
       ],
@@ -3179,7 +3179,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=148&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:45.389081Z",
+          "fetched_at": "2026-11-19T19:23:54.016668Z",
           "bronze_sha256": null
         }
       ],
@@ -3201,7 +3201,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=149&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:46.409992Z",
+          "fetched_at": "2026-11-19T19:23:55.095744Z",
           "bronze_sha256": null
         }
       ],
@@ -3223,7 +3223,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=150&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:47.371749Z",
+          "fetched_at": "2026-11-19T19:23:56.001136Z",
           "bronze_sha256": null
         }
       ],
@@ -3245,7 +3245,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=151&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:48.429370Z",
+          "fetched_at": "2026-11-19T19:23:57.023827Z",
           "bronze_sha256": null
         }
       ],
@@ -3267,7 +3267,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=152&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:49.417173Z",
+          "fetched_at": "2026-11-19T19:23:58.073835Z",
           "bronze_sha256": null
         }
       ],
@@ -3289,7 +3289,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=153&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:50.377180Z",
+          "fetched_at": "2026-11-19T19:23:59.121101Z",
           "bronze_sha256": null
         }
       ],
@@ -3311,7 +3311,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=154&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:51.655073Z",
+          "fetched_at": "2026-11-19T19:24:00.096896Z",
           "bronze_sha256": null
         }
       ],
@@ -3333,7 +3333,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=155&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:52.396699Z",
+          "fetched_at": "2026-11-19T19:24:01.016201Z",
           "bronze_sha256": null
         }
       ],
@@ -3355,7 +3355,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=156&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:53.478546Z",
+          "fetched_at": "2026-11-19T19:24:02.061648Z",
           "bronze_sha256": null
         }
       ],
@@ -3377,7 +3377,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=157&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:54.418267Z",
+          "fetched_at": "2026-11-19T19:24:03.080259Z",
           "bronze_sha256": null
         }
       ],
@@ -3399,7 +3399,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=158&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:55.395113Z",
+          "fetched_at": "2026-11-19T19:24:04.147247Z",
           "bronze_sha256": null
         }
       ],
@@ -3421,7 +3421,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=159&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:56.387686Z",
+          "fetched_at": "2026-11-19T19:24:05.195847Z",
           "bronze_sha256": null
         }
       ],
@@ -3443,7 +3443,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=160&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:57.380345Z",
+          "fetched_at": "2026-11-19T19:24:06.139160Z",
           "bronze_sha256": null
         }
       ],
@@ -3465,7 +3465,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=161&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:58.496915Z",
+          "fetched_at": "2026-11-19T19:24:07.418650Z",
           "bronze_sha256": null
         }
       ],
@@ -3487,7 +3487,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=162&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:07:59.389035Z",
+          "fetched_at": "2026-11-19T19:24:08.083294Z",
           "bronze_sha256": null
         }
       ],
@@ -3509,7 +3509,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=163&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:00.425317Z",
+          "fetched_at": "2026-11-19T19:24:09.111561Z",
           "bronze_sha256": null
         }
       ],
@@ -3531,7 +3531,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=164&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:01.448361Z",
+          "fetched_at": "2026-11-19T19:24:10.796591Z",
           "bronze_sha256": null
         }
       ],
@@ -3553,7 +3553,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=165&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:02.411584Z",
+          "fetched_at": "2026-11-19T19:24:11.148295Z",
           "bronze_sha256": null
         }
       ],
@@ -3575,7 +3575,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=166&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:03.382865Z",
+          "fetched_at": "2026-11-19T19:24:12.233879Z",
           "bronze_sha256": null
         }
       ],
@@ -3597,7 +3597,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=167&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:04.405177Z",
+          "fetched_at": "2026-11-19T19:24:13.421878Z",
           "bronze_sha256": null
         }
       ],
@@ -3619,7 +3619,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=168&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:05.420706Z",
+          "fetched_at": "2026-11-19T19:24:14.148479Z",
           "bronze_sha256": null
         }
       ],
@@ -3641,7 +3641,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=169&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:06.469709Z",
+          "fetched_at": "2026-11-19T19:24:15.515298Z",
           "bronze_sha256": null
         }
       ],
@@ -3663,7 +3663,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=170&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:07.367797Z",
+          "fetched_at": "2026-11-19T19:24:16.156839Z",
           "bronze_sha256": null
         }
       ],
@@ -3685,7 +3685,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=171&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:08.514655Z",
+          "fetched_at": "2026-11-19T19:24:17.179209Z",
           "bronze_sha256": null
         }
       ],
@@ -3707,7 +3707,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=172&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:09.403863Z",
+          "fetched_at": "2026-11-19T19:24:18.115640Z",
           "bronze_sha256": null
         }
       ],
@@ -3729,7 +3729,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=173&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:12.001156Z",
+          "fetched_at": "2026-11-19T19:24:19.155409Z",
           "bronze_sha256": null
         }
       ],
@@ -3751,7 +3751,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=174&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:12.462376Z",
+          "fetched_at": "2026-11-19T19:24:20.223573Z",
           "bronze_sha256": null
         }
       ],
@@ -3773,7 +3773,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=175&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:13.414176Z",
+          "fetched_at": "2026-11-19T19:24:21.064527Z",
           "bronze_sha256": null
         }
       ],
@@ -3795,7 +3795,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=176&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:14.331952Z",
+          "fetched_at": "2026-11-19T19:24:22.199604Z",
           "bronze_sha256": null
         }
       ],
@@ -3817,7 +3817,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=177&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:15.289255Z",
+          "fetched_at": "2026-11-19T19:24:23.216344Z",
           "bronze_sha256": null
         }
       ],
@@ -3839,7 +3839,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=178&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:16.276683Z",
+          "fetched_at": "2026-11-19T19:24:24.208119Z",
           "bronze_sha256": null
         }
       ],
@@ -3861,7 +3861,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=179&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:17.252300Z",
+          "fetched_at": "2026-11-19T19:24:25.059065Z",
           "bronze_sha256": null
         }
       ],
@@ -3883,7 +3883,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=180&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:18.283183Z",
+          "fetched_at": "2026-11-19T19:24:26.283334Z",
           "bronze_sha256": null
         }
       ],
@@ -3905,7 +3905,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=181&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:19.280910Z",
+          "fetched_at": "2026-11-19T19:24:27.128460Z",
           "bronze_sha256": null
         }
       ],
@@ -3927,7 +3927,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=334&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:20.296039Z",
+          "fetched_at": "2026-11-19T19:24:28.146062Z",
           "bronze_sha256": null
         }
       ],
@@ -3949,7 +3949,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=182&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:21.529426Z",
+          "fetched_at": "2026-11-19T19:24:29.206285Z",
           "bronze_sha256": null
         }
       ],
@@ -3971,7 +3971,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=183&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:22.280156Z",
+          "fetched_at": "2026-11-19T19:24:30.179701Z",
           "bronze_sha256": null
         }
       ],
@@ -3993,7 +3993,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=184&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:23.343392Z",
+          "fetched_at": "2026-11-19T19:24:31.311115Z",
           "bronze_sha256": null
         }
       ],
@@ -4015,7 +4015,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=185&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:24.298877Z",
+          "fetched_at": "2026-11-19T19:24:32.435701Z",
           "bronze_sha256": null
         }
       ],
@@ -4037,7 +4037,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=186&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:25.321054Z",
+          "fetched_at": "2026-11-19T19:24:33.212457Z",
           "bronze_sha256": null
         }
       ],
@@ -4059,7 +4059,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=187&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:26.300023Z",
+          "fetched_at": "2026-11-19T19:24:34.134901Z",
           "bronze_sha256": null
         }
       ],
@@ -4081,7 +4081,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=188&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:27.295285Z",
+          "fetched_at": "2026-11-19T19:24:35.265111Z",
           "bronze_sha256": null
         }
       ],
@@ -4103,7 +4103,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=189&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:28.309681Z",
+          "fetched_at": "2026-11-19T19:24:36.146109Z",
           "bronze_sha256": null
         }
       ],
@@ -4125,7 +4125,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=190&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:29.290331Z",
+          "fetched_at": "2026-11-19T19:24:37.347218Z",
           "bronze_sha256": null
         }
       ],
@@ -4147,7 +4147,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=191&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:30.366197Z",
+          "fetched_at": "2026-11-19T19:24:38.147370Z",
           "bronze_sha256": null
         }
       ],
@@ -4169,7 +4169,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=192&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:31.337289Z",
+          "fetched_at": "2026-11-19T19:24:39.269103Z",
           "bronze_sha256": null
         }
       ],
@@ -4191,7 +4191,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=193&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:32.274481Z",
+          "fetched_at": "2026-11-19T19:24:40.172628Z",
           "bronze_sha256": null
         }
       ],
@@ -4213,7 +4213,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=194&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:33.482558Z",
+          "fetched_at": "2026-11-19T19:24:41.319163Z",
           "bronze_sha256": null
         }
       ],
@@ -4235,7 +4235,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=195&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:34.305971Z",
+          "fetched_at": "2026-11-19T19:24:42.496982Z",
           "bronze_sha256": null
         }
       ],
@@ -4257,7 +4257,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=196&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:35.298107Z",
+          "fetched_at": "2026-11-19T19:24:43.530528Z",
           "bronze_sha256": null
         }
       ],
@@ -4279,7 +4279,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=198&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:36.294728Z",
+          "fetched_at": "2026-11-19T19:24:44.271348Z",
           "bronze_sha256": null
         }
       ],
@@ -4301,7 +4301,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=199&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:37.498121Z",
+          "fetched_at": "2026-11-19T19:24:45.282093Z",
           "bronze_sha256": null
         }
       ],
@@ -4323,7 +4323,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=200&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:38.460517Z",
+          "fetched_at": "2026-11-19T19:24:46.227579Z",
           "bronze_sha256": null
         }
       ],
@@ -4345,7 +4345,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=201&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:39.308570Z",
+          "fetched_at": "2026-11-19T19:24:47.197801Z",
           "bronze_sha256": null
         }
       ],
@@ -4367,7 +4367,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=202&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:40.811732Z",
+          "fetched_at": "2026-11-19T19:24:48.183493Z",
           "bronze_sha256": null
         }
       ],
@@ -4389,7 +4389,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=203&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:41.425370Z",
+          "fetched_at": "2026-11-19T19:24:49.379133Z",
           "bronze_sha256": null
         }
       ],
@@ -4411,7 +4411,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=204&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:42.978988Z",
+          "fetched_at": "2026-11-19T19:24:50.352087Z",
           "bronze_sha256": null
         }
       ],
@@ -4433,7 +4433,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=205&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:43.535992Z",
+          "fetched_at": "2026-11-19T19:24:52.324066Z",
           "bronze_sha256": null
         }
       ],
@@ -4455,7 +4455,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=206&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:44.227195Z",
+          "fetched_at": "2026-11-19T19:24:52.615857Z",
           "bronze_sha256": null
         }
       ],
@@ -4477,7 +4477,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=207&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:45.245422Z",
+          "fetched_at": "2026-11-19T19:24:53.615917Z",
           "bronze_sha256": null
         }
       ],
@@ -4499,7 +4499,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=208&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:46.569247Z",
+          "fetched_at": "2026-11-19T19:24:54.676584Z",
           "bronze_sha256": null
         }
       ],
@@ -4521,7 +4521,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=209&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:47.495861Z",
+          "fetched_at": "2026-11-19T19:24:55.682867Z",
           "bronze_sha256": null
         }
       ],
@@ -4543,7 +4543,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=210&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:48.453167Z",
+          "fetched_at": "2026-11-19T19:24:56.683012Z",
           "bronze_sha256": null
         }
       ],
@@ -4565,7 +4565,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=211&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:49.550748Z",
+          "fetched_at": "2026-11-19T19:24:58.113621Z",
           "bronze_sha256": null
         }
       ],
@@ -4587,7 +4587,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=212&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:50.358043Z",
+          "fetched_at": "2026-11-19T19:24:58.816445Z",
           "bronze_sha256": null
         }
       ],
@@ -4609,7 +4609,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=213&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:51.401807Z",
+          "fetched_at": "2026-11-19T19:24:59.816789Z",
           "bronze_sha256": null
         }
       ],
@@ -4631,7 +4631,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=214&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:52.313580Z",
+          "fetched_at": "2026-11-19T19:25:00.636212Z",
           "bronze_sha256": null
         }
       ],
@@ -4653,7 +4653,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=215&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:53.371064Z",
+          "fetched_at": "2026-11-19T19:25:01.643952Z",
           "bronze_sha256": null
         }
       ],
@@ -4675,7 +4675,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=216&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:54.347029Z",
+          "fetched_at": "2026-11-19T19:25:02.650431Z",
           "bronze_sha256": null
         }
       ],
@@ -4697,7 +4697,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=217&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:55.432738Z",
+          "fetched_at": "2026-11-19T19:25:03.675464Z",
           "bronze_sha256": null
         }
       ],
@@ -4719,7 +4719,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=218&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:56.352127Z",
+          "fetched_at": "2026-11-19T19:25:04.638157Z",
           "bronze_sha256": null
         }
       ],
@@ -4741,7 +4741,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=219&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:57.347075Z",
+          "fetched_at": "2026-11-19T19:25:05.721669Z",
           "bronze_sha256": null
         }
       ],
@@ -4763,7 +4763,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=332&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:08:58.339806Z",
+          "fetched_at": "2026-11-19T19:25:06.603340Z",
           "bronze_sha256": null
         }
       ],
@@ -4785,7 +4785,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=221&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:00.242294Z",
+          "fetched_at": "2026-11-19T19:25:07.713542Z",
           "bronze_sha256": null
         }
       ],
@@ -4807,7 +4807,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=222&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:01.358797Z",
+          "fetched_at": "2026-11-19T19:25:08.779179Z",
           "bronze_sha256": null
         }
       ],
@@ -4829,7 +4829,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=223&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:01.679696Z",
+          "fetched_at": "2026-11-19T19:25:09.651300Z",
           "bronze_sha256": null
         }
       ],
@@ -4851,7 +4851,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=224&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:02.665557Z",
+          "fetched_at": "2026-11-19T19:25:10.695085Z",
           "bronze_sha256": null
         }
       ],
@@ -4873,7 +4873,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=225&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:03.676187Z",
+          "fetched_at": "2026-11-19T19:25:11.665791Z",
           "bronze_sha256": null
         }
       ],
@@ -4895,7 +4895,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=226&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:04.657540Z",
+          "fetched_at": "2026-11-19T19:25:12.595483Z",
           "bronze_sha256": null
         }
       ],
@@ -4917,7 +4917,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=227&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:05.634715Z",
+          "fetched_at": "2026-11-19T19:25:13.610133Z",
           "bronze_sha256": null
         }
       ],
@@ -4939,7 +4939,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=228&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:06.629461Z",
+          "fetched_at": "2026-11-19T19:25:14.564409Z",
           "bronze_sha256": null
         }
       ],
@@ -4961,7 +4961,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=229&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:07.626114Z",
+          "fetched_at": "2026-11-19T19:25:15.656194Z",
           "bronze_sha256": null
         }
       ],
@@ -4983,7 +4983,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=230&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:08.660580Z",
+          "fetched_at": "2026-11-19T19:25:16.826925Z",
           "bronze_sha256": null
         }
       ],
@@ -5005,7 +5005,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=231&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:09.650585Z",
+          "fetched_at": "2026-11-19T19:25:17.698095Z",
           "bronze_sha256": null
         }
       ],
@@ -5027,7 +5027,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=232&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:10.691498Z",
+          "fetched_at": "2026-11-19T19:25:18.644115Z",
           "bronze_sha256": null
         }
       ],
@@ -5049,7 +5049,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=233&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:11.802154Z",
+          "fetched_at": "2026-11-19T19:25:19.727744Z",
           "bronze_sha256": null
         }
       ],
@@ -5071,7 +5071,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=234&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:13.920424Z",
+          "fetched_at": "2026-11-19T19:25:20.615311Z",
           "bronze_sha256": null
         }
       ],
@@ -5093,7 +5093,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=235&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:14.251933Z",
+          "fetched_at": "2026-11-19T19:25:21.632085Z",
           "bronze_sha256": null
         }
       ],
@@ -5115,7 +5115,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=236&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:15.271082Z",
+          "fetched_at": "2026-11-19T19:25:22.668838Z",
           "bronze_sha256": null
         }
       ],
@@ -5137,7 +5137,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=237&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:16.245903Z",
+          "fetched_at": "2026-11-19T19:25:23.669705Z",
           "bronze_sha256": null
         }
       ],
@@ -5159,7 +5159,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=238&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:17.193635Z",
+          "fetched_at": "2026-11-19T19:25:24.699149Z",
           "bronze_sha256": null
         }
       ],
@@ -5181,7 +5181,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=239&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:18.241167Z",
+          "fetched_at": "2026-11-19T19:25:25.719704Z",
           "bronze_sha256": null
         }
       ],
@@ -5203,7 +5203,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=240&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:19.283842Z",
+          "fetched_at": "2026-11-19T19:25:26.680466Z",
           "bronze_sha256": null
         }
       ],
@@ -5225,7 +5225,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=241&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:20.343769Z",
+          "fetched_at": "2026-11-19T19:25:27.724384Z",
           "bronze_sha256": null
         }
       ],
@@ -5247,7 +5247,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=242&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:21.284229Z",
+          "fetched_at": "2026-11-19T19:25:28.760937Z",
           "bronze_sha256": null
         }
       ],
@@ -5269,7 +5269,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=243&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:22.272648Z",
+          "fetched_at": "2026-11-19T19:25:29.750224Z",
           "bronze_sha256": null
         }
       ],
@@ -5291,7 +5291,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=244&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:23.308595Z",
+          "fetched_at": "2026-11-19T19:25:30.795343Z",
           "bronze_sha256": null
         }
       ],
@@ -5313,7 +5313,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=245&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:24.207329Z",
+          "fetched_at": "2026-11-19T19:25:31.695865Z",
           "bronze_sha256": null
         }
       ],
@@ -5335,7 +5335,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=246&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:25.992331Z",
+          "fetched_at": "2026-11-19T19:25:32.676636Z",
           "bronze_sha256": null
         }
       ],
@@ -5357,7 +5357,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=247&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:26.310882Z",
+          "fetched_at": "2026-11-19T19:25:33.812665Z",
           "bronze_sha256": null
         }
       ],
@@ -5379,7 +5379,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=248&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:27.355052Z",
+          "fetched_at": "2026-11-19T19:25:34.791993Z",
           "bronze_sha256": null
         }
       ],
@@ -5401,7 +5401,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=249&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:28.385541Z",
+          "fetched_at": "2026-11-19T19:25:35.842155Z",
           "bronze_sha256": null
         }
       ],
@@ -5423,7 +5423,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=250&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:29.300766Z",
+          "fetched_at": "2026-11-19T19:25:36.783859Z",
           "bronze_sha256": null
         }
       ],
@@ -5445,7 +5445,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=251&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:31.234178Z",
+          "fetched_at": "2026-11-19T19:25:37.750776Z",
           "bronze_sha256": null
         }
       ],
@@ -5467,7 +5467,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=252&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:31.544018Z",
+          "fetched_at": "2026-11-19T19:25:38.784082Z",
           "bronze_sha256": null
         }
       ],
@@ -5489,7 +5489,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=253&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:33.310219Z",
+          "fetched_at": "2026-11-19T19:25:39.694890Z",
           "bronze_sha256": null
         }
       ],
@@ -5511,7 +5511,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=254&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:33.624861Z",
+          "fetched_at": "2026-11-19T19:25:40.846941Z",
           "bronze_sha256": null
         }
       ],
@@ -5533,7 +5533,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=255&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:34.626053Z",
+          "fetched_at": "2026-11-19T19:25:41.717931Z",
           "bronze_sha256": null
         }
       ],
@@ -5555,7 +5555,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=256&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:35.618395Z",
+          "fetched_at": "2026-11-19T19:25:42.793030Z",
           "bronze_sha256": null
         }
       ],
@@ -5577,7 +5577,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=257&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:36.602500Z",
+          "fetched_at": "2026-11-19T19:25:44.135887Z",
           "bronze_sha256": null
         }
       ],
@@ -5599,7 +5599,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=333&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:37.587366Z",
+          "fetched_at": "2026-11-19T19:25:44.730838Z",
           "bronze_sha256": null
         }
       ],
@@ -5621,7 +5621,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=258&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:38.619101Z",
+          "fetched_at": "2026-11-19T19:25:45.747594Z",
           "bronze_sha256": null
         }
       ],
@@ -5643,7 +5643,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=259&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:39.635953Z",
+          "fetched_at": "2026-11-19T19:25:46.823176Z",
           "bronze_sha256": null
         }
       ],
@@ -5665,7 +5665,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=260&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:40.675906Z",
+          "fetched_at": "2026-11-19T19:25:47.806813Z",
           "bronze_sha256": null
         }
       ],
@@ -5687,7 +5687,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=261&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:41.582574Z",
+          "fetched_at": "2026-11-19T19:25:48.806361Z",
           "bronze_sha256": null
         }
       ],
@@ -5709,7 +5709,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=262&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:42.625606Z",
+          "fetched_at": "2026-11-19T19:25:50.019525Z",
           "bronze_sha256": null
         }
       ],
@@ -5731,7 +5731,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=263&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:43.596607Z",
+          "fetched_at": "2026-11-19T19:25:50.829426Z",
           "bronze_sha256": null
         }
       ],
@@ -5753,7 +5753,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=264&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:44.892249Z",
+          "fetched_at": "2026-11-19T19:25:51.765590Z",
           "bronze_sha256": null
         }
       ],
@@ -5775,7 +5775,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=265&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:45.582302Z",
+          "fetched_at": "2026-11-19T19:25:52.765669Z",
           "bronze_sha256": null
         }
       ],
@@ -5797,7 +5797,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=266&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:46.660813Z",
+          "fetched_at": "2026-11-19T19:25:53.806979Z",
           "bronze_sha256": null
         }
       ],
@@ -5819,7 +5819,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=267&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:47.621466Z",
+          "fetched_at": "2026-11-19T19:25:54.770132Z",
           "bronze_sha256": null
         }
       ],
@@ -5841,7 +5841,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=268&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:48.593846Z",
+          "fetched_at": "2026-11-19T19:25:56.199475Z",
           "bronze_sha256": null
         }
       ],
@@ -5863,7 +5863,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=269&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:49.653940Z",
+          "fetched_at": "2026-11-19T19:25:56.828719Z",
           "bronze_sha256": null
         }
       ],
@@ -5885,7 +5885,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=270&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:51.270572Z",
+          "fetched_at": "2026-11-19T19:25:57.999178Z",
           "bronze_sha256": null
         }
       ],
@@ -5907,7 +5907,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=271&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:51.996664Z",
+          "fetched_at": "2026-11-19T19:25:58.925045Z",
           "bronze_sha256": null
         }
       ],
@@ -5929,7 +5929,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=272&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:52.565888Z",
+          "fetched_at": "2026-11-19T19:25:59.820772Z",
           "bronze_sha256": null
         }
       ],
@@ -5951,7 +5951,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=273&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:53.640551Z",
+          "fetched_at": "2026-11-19T19:26:00.774534Z",
           "bronze_sha256": null
         }
       ],
@@ -5973,7 +5973,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=274&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:54.582622Z",
+          "fetched_at": "2026-11-19T19:26:01.741798Z",
           "bronze_sha256": null
         }
       ],
@@ -5995,7 +5995,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=275&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:55.622875Z",
+          "fetched_at": "2026-11-19T19:26:03.263473Z",
           "bronze_sha256": null
         }
       ],
@@ -6017,7 +6017,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=276&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:56.587660Z",
+          "fetched_at": "2026-11-19T19:26:03.733699Z",
           "bronze_sha256": null
         }
       ],
@@ -6039,7 +6039,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=277&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:58.619197Z",
+          "fetched_at": "2026-11-19T19:26:04.900786Z",
           "bronze_sha256": null
         }
       ],
@@ -6061,7 +6061,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=278&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:09:58.891068Z",
+          "fetched_at": "2026-11-19T19:26:05.721570Z",
           "bronze_sha256": null
         }
       ],
@@ -6083,7 +6083,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=279&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:00.011115Z",
+          "fetched_at": "2026-11-19T19:26:07.034208Z",
           "bronze_sha256": null
         }
       ],
@@ -6105,7 +6105,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=280&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:00.905479Z",
+          "fetched_at": "2026-11-19T19:26:07.709292Z",
           "bronze_sha256": null
         }
       ],
@@ -6127,7 +6127,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=281&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:02.033594Z",
+          "fetched_at": "2026-11-19T19:26:08.723813Z",
           "bronze_sha256": null
         }
       ],
@@ -6149,7 +6149,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=282&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:02.916814Z",
+          "fetched_at": "2026-11-19T19:26:09.776211Z",
           "bronze_sha256": null
         }
       ],
@@ -6171,7 +6171,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=283&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:03.948831Z",
+          "fetched_at": "2026-11-19T19:26:10.712825Z",
           "bronze_sha256": null
         }
       ],
@@ -6193,7 +6193,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=284&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:04.946732Z",
+          "fetched_at": "2026-11-19T19:26:12.584400Z",
           "bronze_sha256": null
         }
       ],
@@ -6215,7 +6215,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=285&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:05.975865Z",
+          "fetched_at": "2026-11-19T19:26:12.917761Z",
           "bronze_sha256": null
         }
       ],
@@ -6237,7 +6237,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=286&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:06.907274Z",
+          "fetched_at": "2026-11-19T19:26:13.868378Z",
           "bronze_sha256": null
         }
       ],
@@ -6259,7 +6259,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=287&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:07.986714Z",
+          "fetched_at": "2026-11-19T19:26:14.893521Z",
           "bronze_sha256": null
         }
       ],
@@ -6281,7 +6281,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=288&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:09.074773Z",
+          "fetched_at": "2026-11-19T19:26:15.872821Z",
           "bronze_sha256": null
         }
       ],
@@ -6303,7 +6303,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=289&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:09.981818Z",
+          "fetched_at": "2026-11-19T19:26:16.818555Z",
           "bronze_sha256": null
         }
       ],
@@ -6325,7 +6325,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=290&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:11.143451Z",
+          "fetched_at": "2026-11-19T19:26:18.127183Z",
           "bronze_sha256": null
         }
       ],
@@ -6347,7 +6347,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=291&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:11.957596Z",
+          "fetched_at": "2026-11-19T19:26:18.868527Z",
           "bronze_sha256": null
         }
       ],
@@ -6369,7 +6369,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=292&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:12.967843Z",
+          "fetched_at": "2026-11-19T19:26:19.849304Z",
           "bronze_sha256": null
         }
       ],
@@ -6391,7 +6391,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=293&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:13.933033Z",
+          "fetched_at": "2026-11-19T19:26:21.069238Z",
           "bronze_sha256": null
         }
       ],
@@ -6413,7 +6413,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=294&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:15.479976Z",
+          "fetched_at": "2026-11-19T19:26:21.990211Z",
           "bronze_sha256": null
         }
       ],
@@ -6435,7 +6435,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=295&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:15.873576Z",
+          "fetched_at": "2026-11-19T19:26:22.873169Z",
           "bronze_sha256": null
         }
       ],
@@ -6457,7 +6457,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=296&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:17.091892Z",
+          "fetched_at": "2026-11-19T19:26:23.923863Z",
           "bronze_sha256": null
         }
       ],
@@ -6479,7 +6479,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=297&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:18.142832Z",
+          "fetched_at": "2026-11-19T19:26:25.011495Z",
           "bronze_sha256": null
         }
       ],
@@ -6501,7 +6501,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=298&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:18.917249Z",
+          "fetched_at": "2026-11-19T19:26:26.273629Z",
           "bronze_sha256": null
         }
       ],
@@ -6523,7 +6523,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=299&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:20.418891Z",
+          "fetched_at": "2026-11-19T19:26:27.311799Z",
           "bronze_sha256": null
         }
       ],
@@ -6545,7 +6545,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=300&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:21.173082Z",
+          "fetched_at": "2026-11-19T19:26:27.961878Z",
           "bronze_sha256": null
         }
       ],
@@ -6567,7 +6567,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=301&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:21.923937Z",
+          "fetched_at": "2026-11-19T19:26:28.912053Z",
           "bronze_sha256": null
         }
       ],
@@ -6589,7 +6589,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=302&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:22.924893Z",
+          "fetched_at": "2026-11-19T19:26:29.994951Z",
           "bronze_sha256": null
         }
       ],
@@ -6611,7 +6611,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=303&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:23.927575Z",
+          "fetched_at": "2026-11-19T19:26:30.908104Z",
           "bronze_sha256": null
         }
       ],
@@ -6633,7 +6633,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=304&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:24.999028Z",
+          "fetched_at": "2026-11-19T19:26:32.025875Z",
           "bronze_sha256": null
         }
       ],
@@ -6655,7 +6655,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=305&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:26.326355Z",
+          "fetched_at": "2026-11-19T19:26:33.032827Z",
           "bronze_sha256": null
         }
       ],
@@ -6677,7 +6677,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=306&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:26.945472Z",
+          "fetched_at": "2026-11-19T19:26:33.908480Z",
           "bronze_sha256": null
         }
       ],
@@ -6699,7 +6699,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=307&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:27.898718Z",
+          "fetched_at": "2026-11-19T19:26:35.092011Z",
           "bronze_sha256": null
         }
       ],
@@ -6721,7 +6721,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=308&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:28.999843Z",
+          "fetched_at": "2026-11-19T19:26:36.059103Z",
           "bronze_sha256": null
         }
       ],
@@ -6743,7 +6743,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=309&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:30.095687Z",
+          "fetched_at": "2026-11-19T19:26:36.995911Z",
           "bronze_sha256": null
         }
       ],
@@ -6765,7 +6765,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=310&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:30.918593Z",
+          "fetched_at": "2026-11-19T19:26:37.942253Z",
           "bronze_sha256": null
         }
       ],
@@ -6787,7 +6787,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=311&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:31.923688Z",
+          "fetched_at": "2026-11-19T19:26:38.913782Z",
           "bronze_sha256": null
         }
       ],
@@ -6809,7 +6809,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=312&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:32.913328Z",
+          "fetched_at": "2026-11-19T19:26:39.946762Z",
           "bronze_sha256": null
         }
       ],
@@ -6831,7 +6831,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=313&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:33.919979Z",
+          "fetched_at": "2026-11-19T19:26:41.371905Z",
           "bronze_sha256": null
         }
       ],
@@ -6853,7 +6853,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=314&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:35.000540Z",
+          "fetched_at": "2026-11-19T19:26:42.047033Z",
           "bronze_sha256": null
         }
       ],
@@ -6875,7 +6875,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=315&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:35.938135Z",
+          "fetched_at": "2026-11-19T19:26:42.935129Z",
           "bronze_sha256": null
         }
       ],
@@ -6897,7 +6897,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=316&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:36.969514Z",
+          "fetched_at": "2026-11-19T19:26:43.905621Z",
           "bronze_sha256": null
         }
       ],
@@ -6919,7 +6919,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=317&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:37.933284Z",
+          "fetched_at": "2026-11-19T19:26:44.864048Z",
           "bronze_sha256": null
         }
       ],
@@ -6941,7 +6941,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=335&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:38.891734Z",
+          "fetched_at": "2026-11-19T19:26:45.981424Z",
           "bronze_sha256": null
         }
       ],
@@ -6963,7 +6963,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=318&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:39.972557Z",
+          "fetched_at": "2026-11-19T19:26:46.893285Z",
           "bronze_sha256": null
         }
       ],
@@ -6985,7 +6985,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=319&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:40.971656Z",
+          "fetched_at": "2026-11-19T19:26:47.964452Z",
           "bronze_sha256": null
         }
       ],
@@ -7007,7 +7007,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=320&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:42.051706Z",
+          "fetched_at": "2026-11-19T19:26:48.943756Z",
           "bronze_sha256": null
         }
       ],
@@ -7029,7 +7029,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=321&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:42.948411Z",
+          "fetched_at": "2026-11-19T19:26:50.048577Z",
           "bronze_sha256": null
         }
       ],
@@ -7051,7 +7051,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=322&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:44.084474Z",
+          "fetched_at": "2026-11-19T19:26:50.914834Z",
           "bronze_sha256": null
         }
       ],
@@ -7073,7 +7073,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=323&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:44.972382Z",
+          "fetched_at": "2026-11-19T19:26:51.977393Z",
           "bronze_sha256": null
         }
       ],
@@ -7095,7 +7095,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=324&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:45.887949Z",
+          "fetched_at": "2026-11-19T19:26:52.908844Z",
           "bronze_sha256": null
         }
       ],
@@ -7117,7 +7117,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=325&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:46.987427Z",
+          "fetched_at": "2026-11-19T19:26:53.960545Z",
           "bronze_sha256": null
         }
       ],
@@ -7139,7 +7139,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=326&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:47.914794Z",
+          "fetched_at": "2026-11-19T19:26:55.115394Z",
           "bronze_sha256": null
         }
       ],
@@ -7161,7 +7161,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=327&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:48.942659Z",
+          "fetched_at": "2026-11-19T19:26:55.894531Z",
           "bronze_sha256": null
         }
       ],
@@ -7183,7 +7183,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=328&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:50.042970Z",
+          "fetched_at": "2026-11-19T19:26:56.915088Z",
           "bronze_sha256": null
         }
       ],
@@ -7205,7 +7205,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=329&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:50.920786Z",
+          "fetched_at": "2026-11-19T19:26:57.940190Z",
           "bronze_sha256": null
         }
       ],
@@ -7227,7 +7227,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=330&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:51.925373Z",
+          "fetched_at": "2026-11-19T19:26:58.936177Z",
           "bronze_sha256": null
         }
       ],
@@ -7249,7 +7249,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=331&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:53.029654Z",
+          "fetched_at": "2026-11-19T19:27:00.132928Z",
           "bronze_sha256": null
         }
       ],
@@ -7271,7 +7271,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=2&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:53.868502Z",
+          "fetched_at": "2026-11-19T19:27:00.879233Z",
           "bronze_sha256": null
         }
       ],
@@ -7293,7 +7293,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=146&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:55.005182Z",
+          "fetched_at": "2026-11-19T19:27:01.990740Z",
           "bronze_sha256": null
         }
       ],
@@ -7315,7 +7315,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=197&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:56.052424Z",
+          "fetched_at": "2026-11-19T19:27:02.893410Z",
           "bronze_sha256": null
         }
       ],
@@ -7337,7 +7337,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=59&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:57.048073Z",
+          "fetched_at": "2026-11-19T19:27:04.203784Z",
           "bronze_sha256": null
         }
       ],
@@ -7359,7 +7359,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=11&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:57.924953Z",
+          "fetched_at": "2026-11-19T19:27:04.982745Z",
           "bronze_sha256": null
         }
       ],
@@ -7381,7 +7381,7 @@
         {
           "source_id": "cdep",
           "source_url": "https://www.cdep.ro/ords/pls/parlam/structura2015.mp?idm=220&cam=2&leg=2024",
-          "fetched_at": "2026-09-27T09:10:58.984889Z",
+          "fetched_at": "2026-11-19T19:27:06.024588Z",
           "bronze_sha256": null
         }
       ],

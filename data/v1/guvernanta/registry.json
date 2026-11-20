@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-09-27T14:58:39.546430+00:00",
+ "generated_at": "2026-11-20T08:02:28.380829+00:00",
  "sursa": "guvernanta.gov.ro — Guvernul României, registrul companiilor de stat (OUG 109/2011 art. 51)",
  "source_url": "https://guvernanta.gov.ro/data/registry.json",
- "source_generated_at": "2026-09-25T12:49:57.422836Z",
- "source_published_at": "2026-09-25T14:12:31+00:00",
+ "source_generated_at": "2026-09-25T13:49:57.422836Z",
+ "source_published_at": "2026-10-02T07:48:24+00:00",
  "nota": "Date deschise publicate de Guvern. Remunerația = brut lunar declarat, așa cum e raportat (câteva valori par incomplete la sursă). Potrivirea cu graful SOLOMONAR: 'confirmat' = nume + aceeași companie; 'candidat' = nume unic, fără confirmare pe companie (posibilă omonimie). Comparația cu ONRC e un semnal de verificat: registrul ONRC poate fi mai vechi.",
  "n_companii": 121,
  "n_persoane": 586,
@@ -23,8 +23,8 @@
  },
  "remuneratie_pe_rol": {
   "board_member": {
-   "n": 370,
-   "median": 13722.0,
+   "n": 369,
+   "median": 13722,
    "max": 46850
   },
   "executive_director": {
@@ -1117,7 +1117,7 @@
    "website": "https://bucharestairports.ro/",
    "n_conducere": 8,
    "n_cu_partid": 0,
-   "brut_lunar_total_ron": 399990,
+   "brut_lunar_total_ron": 353430,
    "rapoarte_remunerare": [
     {
      "nume": "RAR_AEROPROTURI.pdf",
@@ -3063,7 +3063,7 @@
    "website": "https://www.nuclearelectrica.ro/",
    "n_conducere": 7,
    "n_cu_partid": 0,
-   "brut_lunar_total_ron": 197206,
+   "brut_lunar_total_ron": 189140,
    "rapoarte_remunerare": [
     {
      "nume": "RAR_NUCLEARELECTRICA.pdf",
@@ -7414,7 +7414,7 @@
    "rol": "Membru în Consiliul de Administrație",
    "rol_categorie": "board_member",
    "partid": null,
-   "brut_lunar_ron": 46560,
+   "brut_lunar_ron": 0,
    "net_lunar_ron": null,
    "mandat_pana_la": "2028-07-19",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/26490194/CV_Catalin_Diaconu.pdf",
@@ -10136,7 +10136,7 @@
    "partid": "Fără apartenență politică",
    "brut_lunar_ron": 25068,
    "net_lunar_ron": null,
-   "mandat_pana_la": "2027-09-30",
+   "mandat_pana_la": "2027-02-09",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13863739/CV_Mariana_Miclaus_Redacted.pdf",
    "romega_id": null,
    "potrivire": null,
@@ -10153,7 +10153,7 @@
    "partid": "Fără apartenență politică",
    "brut_lunar_ron": 24800,
    "net_lunar_ron": null,
-   "mandat_pana_la": "2027-09-30",
+   "mandat_pana_la": "2027-02-09",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13863739/CV_Ioana_Diaconu-redacted.pdf",
    "romega_id": null,
    "potrivire": null,
@@ -13653,7 +13653,7 @@
    "rol": "Director General",
    "rol_categorie": "executive_director",
    "partid": "Fără apartenență politică",
-   "brut_lunar_ron": 53788,
+   "brut_lunar_ron": 49755,
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-02-12",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/10874881/CV_Cosmin_Ghita.pdf",
@@ -13670,7 +13670,7 @@
    "rol": "Director Financiar",
    "rol_categorie": "director",
    "partid": "Fără apartenență politică",
-   "brut_lunar_ron": 53788,
+   "brut_lunar_ron": 49755,
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-02-15",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/10874881/CV_Daniel_Adam.pdf",
@@ -14271,7 +14271,7 @@
    "cv_url": null,
    "romega_id": "g:ff73029cbb0e14d6",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_c4fa5a015a0e345e16",
@@ -15955,25 +15955,6 @@
    ]
   },
   {
-   "persoana_id": "person_catalin-diaconu_34d6eab8cf",
-   "nume": "Cătălin Diaconu",
-   "romega_id": "g:f7f7037054ccf529",
-   "n_companii": 2,
-   "brut_lunar_total_ron": 46560,
-   "functii": [
-    {
-     "companie": "Compania Naţională „Administraţia Porturilor Maritime” SA Constanța",
-     "cui": 11062831,
-     "rol": "Membru în Consiliul de Administrație"
-    },
-    {
-     "companie": "Compania Națională „Aeroporturi București” SA",
-     "cui": 26490194,
-     "rol": "Membru în Consiliul de Administrație"
-    }
-   ]
-  },
-  {
    "persoana_id": "person_costin-mihalache_46b40d17bf",
    "nume": "Costin Mihalache",
    "romega_id": "g:84430a5e576f5326",
@@ -17086,6 +17067,25 @@
     {
      "companie": "Uzina Mecanică Sadu SA (filială ROMARM)",
      "cui": 14373832,
+     "rol": "Membru în Consiliul de Administrație"
+    }
+   ]
+  },
+  {
+   "persoana_id": "person_catalin-diaconu_34d6eab8cf",
+   "nume": "Cătălin Diaconu",
+   "romega_id": "g:f7f7037054ccf529",
+   "n_companii": 2,
+   "brut_lunar_total_ron": null,
+   "functii": [
+    {
+     "companie": "Compania Naţională „Administraţia Porturilor Maritime” SA Constanța",
+     "cui": 11062831,
+     "rol": "Membru în Consiliul de Administrație"
+    },
+    {
+     "companie": "Compania Națională „Aeroporturi București” SA",
+     "cui": 26490194,
      "rol": "Membru în Consiliul de Administrație"
     }
    ]

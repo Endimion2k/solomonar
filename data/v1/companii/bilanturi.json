@@ -1,2185 +1,214 @@
 {
   "an": 2025,
-  "total": 1037,
+  "total": 1060,
   "sursa": "MF/ANAF situatii financiare (data.gov.ro)",
   "bilanturi": [
     {
-      "cui": 496401,
-      "denumire": "AGROPRODCOM LAZAREA SA",
+      "cui": 14056826,
+      "denumire": "SOCIETATEA NATIONALA DE GAZE NATURALE \" ROMGAZ \" SA",
       "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -14621,
-      "datorii": 1602152,
-      "nr_salariati": 1
+      "cifra_afaceri": 7579634046,
+      "profit_net": 3138315979,
+      "datorii": 7074888286,
+      "nr_salariati": 5227
     },
     {
-      "cui": 32247646,
-      "denumire": "GOSPODĂRIE COMUNALĂ LUNCA BAŞEULUI SRL",
+      "cui": 1590430,
+      "denumire": "SOCIETATEA NATIONALA A SARII SA",
       "an": 2025,
-      "cifra_afaceri": 543401,
-      "profit_net": -12532,
-      "datorii": 79639,
-      "nr_salariati": 6
+      "cifra_afaceri": 392913235,
+      "profit_net": 66927161,
+      "datorii": 75764550,
+      "nr_salariati": 1277
     },
     {
-      "cui": 37737746,
-      "denumire": "GOSPODARII CORLĂTENI SRL",
+      "cui": 1973096,
+      "denumire": "ANTIBIOTICE SA",
       "an": 2025,
-      "cifra_afaceri": 236599,
-      "profit_net": 302,
-      "datorii": 440309,
-      "nr_salariati": 1
+      "cifra_afaceri": 645275929,
+      "profit_net": 51769472,
+      "datorii": 440958431,
+      "nr_salariati": 1370
     },
     {
-      "cui": 26371584,
-      "denumire": "POIANA ROŞIA SRL",
+      "cui": 1132930,
+      "denumire": "IAR SA",
       "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -21203,
-      "datorii": 133075,
-      "nr_salariati": 1
+      "cifra_afaceri": 440852011,
+      "profit_net": 47681660,
+      "datorii": 297212749,
+      "nr_salariati": 366
     },
     {
-      "cui": 18919474,
-      "denumire": "CRUCEA TALIENILOR SRL",
+      "cui": 46943133,
+      "denumire": "SOCIETATEA ELECTROCENTRALE CRAIOVA SA",
       "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -7020,
-      "datorii": 11313,
-      "nr_salariati": null
+      "cifra_afaceri": 565766096,
+      "profit_net": -1095132046,
+      "datorii": 485454288,
+      "nr_salariati": 457
     },
     {
-      "cui": 35604867,
-      "denumire": "PRESTSERV GHIMPEŢENI SRL",
+      "cui": 30267310,
+      "denumire": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
       "an": 2025,
-      "cifra_afaceri": 256841,
-      "profit_net": -27758,
-      "datorii": 382686,
-      "nr_salariati": 2
+      "cifra_afaceri": 3474725630,
+      "profit_net": -1112058796,
+      "datorii": 1040680894,
+      "nr_salariati": 7950
     },
     {
-      "cui": 29879537,
-      "denumire": "VALENIPRIM SERV SRL",
+      "cui": 13267213,
+      "denumire": "SOCIETATEA DE PRODUCERE A ENERGIEI ELECTRICE IN HIDROCENTRALE \" HIDROELECTRICA\" S.A.",
       "an": 2025,
-      "cifra_afaceri": 297006,
-      "profit_net": -46062,
-      "datorii": 246808,
-      "nr_salariati": 3
+      "cifra_afaceri": 9758404582,
+      "profit_net": 3337517121,
+      "datorii": 3091384669,
+      "nr_salariati": 3554
     },
     {
-      "cui": 33850202,
-      "denumire": "PREST COM SÂNTANA PAVAJ SRL",
+      "cui": 10874881,
+      "denumire": "SOCIETATEA NATIONALA \"NUCLEARELECTRICA\" SA",
       "an": 2025,
-      "cifra_afaceri": 1039574,
-      "profit_net": 984,
-      "datorii": 92814,
-      "nr_salariati": 12
+      "cifra_afaceri": 5633744486,
+      "profit_net": 2398630260,
+      "datorii": 1916738829,
+      "nr_salariati": 2377
     },
     {
-      "cui": 34707333,
-      "denumire": "BCU CONSTRUCT MOŢCA SRL",
+      "cui": 15189596,
+      "denumire": "ELECTROCENTRALE BUCURESTI SA",
       "an": 2025,
-      "cifra_afaceri": 0,
-      "profit_net": null,
-      "datorii": 41851,
-      "nr_salariati": 0
+      "cifra_afaceri": 2681907270,
+      "profit_net": 128451246,
+      "datorii": 1028654744,
+      "nr_salariati": 1694
     },
     {
-      "cui": 27058888,
-      "denumire": "VILCET ENERGY SRL",
+      "cui": 13328043,
+      "denumire": "COMPANIA NATIONALA DE TRANSPORT AL ENERGIEI ELECTRICE \"TRANSELECTRICA\" SA",
       "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 0,
-      "nr_salariati": null
+      "cifra_afaceri": 5527902667,
+      "profit_net": 359825194,
+      "datorii": 3819660408,
+      "nr_salariati": 1966
     },
     {
-      "cui": 42144524,
-      "denumire": "TRANS REGIOBANAT S.R.L.",
+      "cui": 11054545,
+      "denumire": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE CALATORI - CFR - CALATORI SA",
       "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -15828,
-      "datorii": 726,
-      "nr_salariati": 1
+      "cifra_afaceri": 3238451236,
+      "profit_net": -43401881,
+      "datorii": 1294801883,
+      "nr_salariati": 10192
     },
     {
-      "cui": 37742513,
-      "denumire": "APA ŞI CANAL CĂLUI SRL",
+      "cui": 13863739,
+      "denumire": "METROREX SA",
       "an": 2025,
-      "cifra_afaceri": 110307,
-      "profit_net": 7175,
-      "datorii": 14646,
-      "nr_salariati": 1
+      "cifra_afaceri": 1263211058,
+      "profit_net": -312065818,
+      "datorii": 5088822088,
+      "nr_salariati": 4802
     },
     {
-      "cui": 28962463,
-      "denumire": "APĂ CANAL BALC SRL",
+      "cui": 11054537,
+      "denumire": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
       "an": 2025,
-      "cifra_afaceri": 115665,
-      "profit_net": -143080,
-      "datorii": 581869,
-      "nr_salariati": 1
+      "cifra_afaceri": 511851979,
+      "profit_net": 2361750,
+      "datorii": 3624248502,
+      "nr_salariati": 2521
     },
     {
-      "cui": 38231835,
-      "denumire": "APĂ SĂDIŞOR SRL",
+      "cui": 13068733,
+      "denumire": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
       "an": 2025,
-      "cifra_afaceri": 218007,
-      "profit_net": -42660,
-      "datorii": 39775,
-      "nr_salariati": 2
+      "cifra_afaceri": 2828957985,
+      "profit_net": 788156576,
+      "datorii": 4853998590,
+      "nr_salariati": 3983
     },
     {
-      "cui": 40227909,
-      "denumire": "PRESTĂRI SERVICII STOICĂNEŞTI S.R.L.",
+      "cui": 1350020,
+      "denumire": "CONPET SA",
       "an": 2025,
-      "cifra_afaceri": 346691,
-      "profit_net": 5693,
-      "datorii": 18037,
-      "nr_salariati": 2
+      "cifra_afaceri": 545540445,
+      "profit_net": 53760116,
+      "datorii": 65683960,
+      "nr_salariati": 1316
     },
     {
-      "cui": 29355176,
-      "denumire": "SERVICII DE GOSPODĂRIRE COMUNALĂ DEVESEL SRL",
+      "cui": 11054529,
+      "denumire": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
       "an": 2025,
-      "cifra_afaceri": 698503,
-      "profit_net": 153077,
-      "datorii": 198578,
-      "nr_salariati": 4
+      "cifra_afaceri": 1187388259,
+      "profit_net": -548897866,
+      "datorii": 2195329755,
+      "nr_salariati": 23666
     },
     {
-      "cui": 41177183,
-      "denumire": "AQUA IMPECABIL S.R.L.",
+      "cui": 26490194,
+      "denumire": "COMPANIA NATIONALA \"AEROPORTURI BUCURESTI\" SA",
       "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 0,
-      "nr_salariati": null
+      "cifra_afaceri": 1646953909,
+      "profit_net": 789742544,
+      "datorii": 499589731,
+      "nr_salariati": 1374
     },
     {
-      "cui": 37801598,
-      "denumire": "GOSPODĂRIE COMUNALĂ CIUPERCENII NOI SRL",
+      "cui": 1589932,
+      "denumire": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA",
       "an": 2025,
-      "cifra_afaceri": 730487,
-      "profit_net": 73124,
-      "datorii": 81518,
-      "nr_salariati": 10
+      "cifra_afaceri": 1897873850,
+      "profit_net": 76734203,
+      "datorii": 524632742,
+      "nr_salariati": 1676
     },
     {
-      "cui": 27266340,
-      "denumire": "GOSPODĂRIRE COMUNALĂ DUBOVA SRL",
+      "cui": 2410163,
+      "denumire": "OIL TERMINAL SA",
       "an": 2025,
-      "cifra_afaceri": 384645,
-      "profit_net": -41265,
-      "datorii": 147894,
-      "nr_salariati": 6
+      "cifra_afaceri": 401076427,
+      "profit_net": 24637109,
+      "datorii": 309132987,
+      "nr_salariati": 1011
     },
     {
-      "cui": 39112506,
-      "denumire": "APA-CANAL TOMNATIC S.R.L.",
+      "cui": 10881986,
+      "denumire": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
       "an": 2025,
-      "cifra_afaceri": 592415,
-      "profit_net": 19882,
-      "datorii": 94025,
-      "nr_salariati": 4
+      "cifra_afaceri": 258857658,
+      "profit_net": 16091007,
+      "datorii": 90130454,
+      "nr_salariati": 1142
     },
     {
-      "cui": 36608581,
-      "denumire": "TERMO SERV COM TAŞCA SRL",
+      "cui": 1590236,
+      "denumire": "REGISTRUL AUTO ROMAN RA",
       "an": 2025,
-      "cifra_afaceri": 675483,
-      "profit_net": 67212,
-      "datorii": 169881,
-      "nr_salariati": 7
+      "cifra_afaceri": 701112143,
+      "profit_net": 251334657,
+      "datorii": 112013772,
+      "nr_salariati": 1655
     },
     {
-      "cui": 39332560,
-      "denumire": "SERVICIUL PUBLIC DE APA SI CANALIZARE APELE VII S.R.L.",
+      "cui": 16054368,
+      "denumire": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
       "an": 2025,
-      "cifra_afaceri": 244588,
-      "profit_net": -26583,
-      "datorii": 18853,
-      "nr_salariati": 3
+      "cifra_afaceri": 2249022382,
+      "profit_net": 124960655,
+      "datorii": 60543919400,
+      "nr_salariati": 6782
     },
     {
-      "cui": 36783515,
-      "denumire": "APĂ CANAL BÎRZA SRL",
+      "cui": 12397185,
+      "denumire": "COMPANIA NATIONALA \"LOTERIA ROMANA\" SA",
       "an": 2025,
-      "cifra_afaceri": 336194,
-      "profit_net": 12889,
-      "datorii": 18544,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 32455094,
-      "denumire": "GOSCOM LUPENI SRL",
-      "an": 2025,
-      "cifra_afaceri": 1087654,
-      "profit_net": 35194,
-      "datorii": 6348761,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 28109807,
-      "denumire": "ALIMPEŞTI UTIL SRL",
-      "an": 2025,
-      "cifra_afaceri": 226309,
-      "profit_net": -33800,
-      "datorii": 81018,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 30765218,
-      "denumire": "SERVICII PUBLICE GOSCOM SRL",
-      "an": 2025,
-      "cifra_afaceri": 1100529,
-      "profit_net": -189279,
-      "datorii": 587449,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 31710504,
-      "denumire": "SERVICII PUBLICE SÂMBETEANA SRL",
-      "an": 2025,
-      "cifra_afaceri": 242975,
-      "profit_net": 58886,
-      "datorii": 6480,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 37766199,
-      "denumire": "APĂ CANAL SERV OBOGA SRL",
-      "an": 2025,
-      "cifra_afaceri": 329512,
-      "profit_net": -56690,
-      "datorii": 92673,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 31029392,
-      "denumire": "SISTEM CONSLOC ZĂRNEŞTI 2012 SRL",
-      "an": 2025,
-      "cifra_afaceri": 800537,
-      "profit_net": 7480,
-      "datorii": 105899,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 38701589,
-      "denumire": "SERVICIUL DE UTILITATI PUBLICE SCAEȘTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 217609,
-      "profit_net": 1721,
-      "datorii": 119379,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 44275984,
-      "denumire": "SERVICIUL PUBLIC DE ALIMENTARE CU APĂ ROBĂNEȘTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 315373,
-      "profit_net": -38199,
-      "datorii": 25579,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 31268314,
-      "denumire": "CONSLOC PREST STUDINA SRL",
-      "an": 2025,
-      "cifra_afaceri": 166281,
-      "profit_net": 6005,
-      "datorii": 29655,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 36353380,
-      "denumire": "APĂ CANALIZARE EPURARE APE UZATE STREJEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 438625,
-      "profit_net": -4570,
-      "datorii": 100697,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 32074006,
-      "denumire": "SERVICII GÎRLA MARE SRL",
-      "an": 2025,
-      "cifra_afaceri": 418918,
-      "profit_net": -83597,
-      "datorii": 114516,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 45771692,
-      "denumire": "APĂ SERV BRATCA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 591052,
-      "profit_net": -411393,
-      "datorii": 27404,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 42907464,
-      "denumire": "SERVICII UTILITARE MIHĂEŞTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -44460,
-      "datorii": 294,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 38096704,
-      "denumire": "SERVICIUL DE UTILITĂȚI PUBLICE MISCHII SRL",
-      "an": 2025,
-      "cifra_afaceri": 435831,
-      "profit_net": 93219,
-      "datorii": 49784,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 37057162,
-      "denumire": "APĂ CANAL SLĂTIOARA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 585697,
-      "profit_net": -31813,
-      "datorii": 62243,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 37517511,
-      "denumire": "UTILSERV IANCA SRL",
-      "an": 2025,
-      "cifra_afaceri": 445774,
-      "profit_net": -29237,
-      "datorii": 141755,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 28470100,
-      "denumire": "SERVICII PENTRU COMUNITATE NUCET SRL",
-      "an": 2025,
-      "cifra_afaceri": 379138,
-      "profit_net": -22396,
-      "datorii": 165480,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 32823617,
-      "denumire": "SOCIETATEA MANAGEMENT SERVICII PUBLICE RURALE DRAGALINA SRL",
-      "an": 2025,
-      "cifra_afaceri": 366134,
-      "profit_net": -14980,
-      "datorii": 8228,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 28095744,
-      "denumire": "LOCAL PREST SERV AŞTILEU SRL",
-      "an": 2025,
-      "cifra_afaceri": 1986080,
-      "profit_net": 12213,
-      "datorii": 537482,
-      "nr_salariati": 11
-    },
-    {
-      "cui": 21737529,
-      "denumire": "GOSPODARIRE COMUNALA COCIUBA MARE SRL",
-      "an": 2025,
-      "cifra_afaceri": 485149,
-      "profit_net": 894,
-      "datorii": 2253838,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 42495070,
-      "denumire": "SERVICIUL APĂ ȘI CANALIZARE PREDEȘTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 280005,
-      "profit_net": -53416,
-      "datorii": 83648,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 30656687,
-      "denumire": "PRESTĂRI SERVICII TĂTULEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 156679,
-      "profit_net": -7931,
-      "datorii": 7517,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27486132,
-      "denumire": "UTILITĂŢI APĂ-CANAL RUCĂR 2010 SRL",
-      "an": 2025,
-      "cifra_afaceri": 1187239,
-      "profit_net": 53280,
-      "datorii": 136315,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 36480325,
-      "denumire": "GOSPODĂRIREA APELOR ŞI SERVICIILOR FRECĂŢEI SRL",
-      "an": 2025,
-      "cifra_afaceri": 774164,
-      "profit_net": -144448,
-      "datorii": 144361,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 42926890,
-      "denumire": "GOSPODĂRIRE COMUNALĂ BIHARIA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 537494,
-      "profit_net": 33133,
-      "datorii": 53774,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 27910237,
-      "denumire": "ECOEDILITAR SRL",
-      "an": 2025,
-      "cifra_afaceri": 591079,
-      "profit_net": 95343,
-      "datorii": 46164,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 17866940,
-      "denumire": "ARANKA SERVCOM SRL",
-      "an": 2025,
-      "cifra_afaceri": 233646,
-      "profit_net": -31856,
-      "datorii": 183730,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 39248274,
-      "denumire": "SERVICII PENTRU UTILITATI GIGHERA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 164568,
-      "profit_net": -223597,
-      "datorii": 417788,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 16756117,
-      "denumire": "COMPANIA PUBLICA BANESTI SA",
-      "an": 2025,
-      "cifra_afaceri": 752195,
-      "profit_net": -288833,
-      "datorii": 1846100,
-      "nr_salariati": null
-    },
-    {
-      "cui": 42692306,
-      "denumire": "ALIMENTARE CU APĂ BUMBESTI-PITIC S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 391706,
-      "profit_net": 107083,
-      "datorii": 44091,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 36470879,
-      "denumire": "APĂ CANAL GĂVĂNEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 186194,
-      "profit_net": 12145,
-      "datorii": 65187,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27237026,
-      "denumire": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
-      "an": 2025,
-      "cifra_afaceri": 506983,
-      "profit_net": 7226,
-      "datorii": 71808,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 31142447,
-      "denumire": "AQUAVERA COTEANA SRL",
-      "an": 2025,
-      "cifra_afaceri": 296357,
-      "profit_net": -19070,
-      "datorii": 82832,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 28310079,
-      "denumire": "PRIMPAD-SERV SRL",
-      "an": 2025,
-      "cifra_afaceri": 238821,
-      "profit_net": 48331,
-      "datorii": 21284,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 37052459,
-      "denumire": "APĂ-CANAL ŞUNCUIUŞ SRL",
-      "an": 2025,
-      "cifra_afaceri": 702482,
-      "profit_net": 125918,
-      "datorii": 106725,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 41902558,
-      "denumire": "SERVICIUL DE APĂ ŞI CANAL GHERŢA MICĂ S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 0,
-      "nr_salariati": null
-    },
-    {
-      "cui": 42649594,
-      "denumire": "SERVICIUL PUBLIC DE APA SI CANALIZARE MARSANI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 270199,
-      "profit_net": -294700,
-      "datorii": 50328,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 27330116,
-      "denumire": "ECO - SCUP SRL",
-      "an": 2025,
-      "cifra_afaceri": 950373,
-      "profit_net": 26265,
-      "datorii": 243884,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 38789301,
-      "denumire": "SERVICIUL PUBLIC DE APA SI CANALIZARE DRĂNIC S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 315288,
-      "profit_net": -185677,
-      "datorii": 86369,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 39765521,
-      "denumire": "APĂ CANAL VADU CRIŞULUI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 597826,
-      "profit_net": -208290,
-      "datorii": 468686,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 29841761,
-      "denumire": "SERVICII DE ADMINISTRARE A DOMENIULUI PUBLIC SI GOSPODARIRE COMUNALA GALICEA MARE SRL",
-      "an": 2025,
-      "cifra_afaceri": 549006,
-      "profit_net": -37126,
-      "datorii": 405015,
-      "nr_salariati": 8
-    },
-    {
-      "cui": 42895424,
-      "denumire": "APA SERV COMUNA PURANI SOCIETATE CU RĂSPUNDERE LIMITATĂ",
-      "an": 2025,
-      "cifra_afaceri": 290230,
-      "profit_net": -48232,
-      "datorii": 142436,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 27266331,
-      "denumire": "GOSPODĂRIE COMUNALĂ EŞELNIŢA SRL",
-      "an": 2025,
-      "cifra_afaceri": 609452,
-      "profit_net": 73125,
-      "datorii": 299436,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 35978101,
-      "denumire": "APĂ CANAL BOBICEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -322,
-      "datorii": 0,
-      "nr_salariati": null
-    },
-    {
-      "cui": 38918813,
-      "denumire": "GOSPODĂRIREA UTILITĂŢILOR PUBLICE MIHĂIEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 199550,
-      "profit_net": 45796,
-      "datorii": 6342,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 37495499,
-      "denumire": "SERVICIUL PUBLIC ALEXANDRU ODOBESCU SRL",
-      "an": 2025,
-      "cifra_afaceri": 706207,
-      "profit_net": 107447,
-      "datorii": 85476,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 44124388,
-      "denumire": "SERVICII PUBLICE COMUNALE S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 575683,
-      "profit_net": -929,
-      "datorii": 57843,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 27256656,
-      "denumire": "UTILITĂŢI COMUNALE OSTRA SRL",
-      "an": 2025,
-      "cifra_afaceri": 375123,
-      "profit_net": 20587,
-      "datorii": 14659,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 37191481,
-      "denumire": "APĂ, CANAL , SALUBRITATE FRĂTEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 802514,
-      "profit_net": -107767,
-      "datorii": 991729,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 30749948,
-      "denumire": "GHINDĂREȘTI EDIL SRL",
-      "an": 2025,
-      "cifra_afaceri": 369534,
-      "profit_net": 29482,
-      "datorii": 58951,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 36476464,
-      "denumire": "APĂ CANAL COSTEŞTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 382456,
-      "profit_net": -15928,
-      "datorii": 40025,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 27179928,
-      "denumire": "SERVICII DE UTILITATI PUBLICE LEU SRL",
-      "an": 2025,
-      "cifra_afaceri": 554838,
-      "profit_net": -120514,
-      "datorii": 77819,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 40171042,
-      "denumire": "APĂ CANAL MÂNĂSTIREA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 956540,
-      "profit_net": 122581,
-      "datorii": 42185,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 28308893,
-      "denumire": "SERVICII APĂ, CANAL, SALUBRITATE, FILIPEŞTII DE PĂDURE SRL",
-      "an": 2025,
-      "cifra_afaceri": 2432046,
-      "profit_net": -181303,
-      "datorii": 763707,
-      "nr_salariati": 19
-    },
-    {
-      "cui": 36722771,
-      "denumire": "CRASCUP UTIL SRL",
-      "an": 2025,
-      "cifra_afaceri": 390956,
-      "profit_net": -39994,
-      "datorii": 44571,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 27436894,
-      "denumire": "SERVICII LOCALE IZVOARELE SRL",
-      "an": 2025,
-      "cifra_afaceri": 537589,
-      "profit_net": 31795,
-      "datorii": 53082,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 36500953,
-      "denumire": "APA-CANALIZARE PROGRESUL SFÎNTU GHEORGHE S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 320619,
-      "profit_net": 500,
-      "datorii": 76385,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 29482943,
-      "denumire": "SERVICII PUBLICE GOIESTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 216471,
-      "profit_net": -24883,
-      "datorii": 212651,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 42312822,
-      "denumire": "SERVICII PUBLICE OSTROV S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 385426,
-      "profit_net": 41568,
-      "datorii": 16192,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 37953138,
-      "denumire": "APĂ CANAL CLP TR SRL",
-      "an": 2025,
-      "cifra_afaceri": 393998,
-      "profit_net": -55312,
-      "datorii": 116958,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 36202884,
-      "denumire": "GOSPODĂRIRE COMUNALĂ CĂSCIOARELE SRL",
-      "an": 2025,
-      "cifra_afaceri": 251521,
-      "profit_net": -30509,
-      "datorii": 163829,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 24994977,
-      "denumire": "SERVICIUL PUBLIC DE INTERES COMUNAL TAUTEU SA",
-      "an": 2025,
-      "cifra_afaceri": 488401,
-      "profit_net": -9490,
-      "datorii": 90183,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 37857742,
-      "denumire": "APĂ-CANAL PIELEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 1353205,
-      "profit_net": 155617,
-      "datorii": 101882,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 39227670,
-      "denumire": "APĂ CANAL DOBREŢU S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 85763,
-      "profit_net": -36377,
-      "datorii": 10916,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 30509368,
-      "denumire": "PRESERV VEDIŢA SRL",
-      "an": 2025,
-      "cifra_afaceri": 481632,
-      "profit_net": 23359,
-      "datorii": 212731,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 34865210,
-      "denumire": "AQUA VALEA IADULUI SRL",
-      "an": 2025,
-      "cifra_afaceri": 138489,
-      "profit_net": -84644,
-      "datorii": 140566,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27779140,
-      "denumire": "CODRU LUNCA SRL",
-      "an": 2025,
-      "cifra_afaceri": 288805,
-      "profit_net": -51712,
-      "datorii": 129289,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 39313313,
-      "denumire": "APĂ-CANAL CIOFRÎNGENI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 445581,
-      "profit_net": -34985,
-      "datorii": 238644,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 37996252,
-      "denumire": "APĂ-CANAL DESNĂŢUI SRL",
-      "an": 2025,
-      "cifra_afaceri": 423944,
-      "profit_net": 31433,
-      "datorii": 90726,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 43651169,
-      "denumire": "SERVICIUL APĂ ŞI CANAL SECU S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 160577,
-      "profit_net": -74444,
-      "datorii": 90273,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 30890954,
-      "denumire": "ALIMENTARE CU APĂ ŞI CANALIZARE AFUMAŢI SRL",
-      "an": 2025,
-      "cifra_afaceri": 1846633,
-      "profit_net": 298713,
-      "datorii": 902422,
-      "nr_salariati": 16
-    },
-    {
-      "cui": 43411026,
-      "denumire": "ROUA ARDEALULUI LUNCA MUREȘULUI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 764497,
-      "profit_net": -269478,
-      "datorii": 436138,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 30955972,
-      "denumire": "GOSPODĂRIRE LOCALĂ BERBEŞTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 939607,
-      "profit_net": -179225,
-      "datorii": 638742,
-      "nr_salariati": 11
-    },
-    {
-      "cui": 37074007,
-      "denumire": "SERVICIU PUBLIC DE ALIMENTARE CU APĂ CURTIȘOARA SRL",
-      "an": 2025,
-      "cifra_afaceri": 696816,
-      "profit_net": 69382,
-      "datorii": 18558,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 37101306,
-      "denumire": "OSICAPREST SERVCONS SRL",
-      "an": 2025,
-      "cifra_afaceri": 124192,
-      "profit_net": 3577,
-      "datorii": 78990,
-      "nr_salariati": null
-    },
-    {
-      "cui": 40507704,
-      "denumire": "APA CANAL SAELELE S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 298669,
-      "profit_net": -34060,
-      "datorii": 593922,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 39968496,
-      "denumire": "APĂ - CANAL POPEŞTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1239355,
-      "profit_net": 208056,
-      "datorii": 132664,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 39593701,
-      "denumire": "SERVICIUL DE UTILITATI PUBLICE DIOSTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 213322,
-      "profit_net": -58893,
-      "datorii": 167115,
-      "nr_salariati": null
-    },
-    {
-      "cui": 36364711,
-      "denumire": "APĂ CANAL SERV BALDOVINEŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": 248910,
-      "profit_net": 48580,
-      "datorii": 92362,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 30721920,
-      "denumire": "PRESTĂRI SERVICII GRĂDINARI SRL",
-      "an": 2025,
-      "cifra_afaceri": 273616,
-      "profit_net": 29516,
-      "datorii": 86424,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 39505360,
-      "denumire": "APĂ-CANAL MĂNECIU S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 2780656,
-      "profit_net": 5563,
-      "datorii": 743246,
-      "nr_salariati": 17
-    },
-    {
-      "cui": 38612376,
-      "denumire": "GOSPODĂRIE COMUNALĂ UNISERV S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 197151,
-      "profit_net": -80755,
-      "datorii": 181808,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27754111,
-      "denumire": "APA - CANAL SICHEVIŢA SRL",
-      "an": 2025,
-      "cifra_afaceri": 160114,
-      "profit_net": -26553,
-      "datorii": 302416,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 42512022,
-      "denumire": "DISTRIGAZ ŞIMIAN S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1418136,
-      "profit_net": -29284,
-      "datorii": 287020,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 49602963,
-      "denumire": "INSTAL GAZ ȘIMIAN S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": 1596,
-      "datorii": 0,
-      "nr_salariati": null
-    },
-    {
-      "cui": 33418965,
-      "denumire": "SPRIA TECHNOLOGY PARK SRL",
-      "an": 2025,
-      "cifra_afaceri": 130127,
-      "profit_net": 9061,
-      "datorii": 1240535,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 26638950,
-      "denumire": "CONCORDIA UZINA ELECTRICĂ FLOREŞTI SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 59681,
-      "nr_salariati": null
-    },
-    {
-      "cui": 29587621,
-      "denumire": "APA CANAL TURNU ROSU SRL",
-      "an": 2025,
-      "cifra_afaceri": 807160,
-      "profit_net": 16342,
-      "datorii": 64436,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 44500172,
-      "denumire": "UTILITĂŢI ŞI GOSPODĂRIRE COMUNA SĂVENI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 267859,
-      "profit_net": 82869,
-      "datorii": 4030,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 24864080,
-      "denumire": "REDISZA SA",
-      "an": 2025,
-      "cifra_afaceri": 5131901,
-      "profit_net": 269765,
-      "datorii": 307018,
-      "nr_salariati": 24
-    },
-    {
-      "cui": 44220440,
-      "denumire": "APĂ CANAL TĂRCAIA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 203483,
-      "profit_net": -13487,
-      "datorii": 20706,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27305066,
-      "denumire": "SERVICIUL PUBLIC DE GOSPODĂRIE COMUNALĂ CIOLPANI SRL",
-      "an": 2025,
-      "cifra_afaceri": 1685499,
-      "profit_net": 40291,
-      "datorii": 577868,
-      "nr_salariati": 18
-    },
-    {
-      "cui": 40577009,
-      "denumire": "ECO SERVICIUL SALUBRIZARE FLORICA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 317353,
-      "profit_net": 53042,
-      "datorii": 22940,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 38644335,
-      "denumire": "CRASNA ACÂŞ S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 233641,
-      "profit_net": 20159,
-      "datorii": 10462,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 7933821,
-      "denumire": "ALTITUDINEA 1040 PREDEAL SRL",
-      "an": 2025,
-      "cifra_afaceri": 1475515,
-      "profit_net": -22667,
-      "datorii": 517470,
-      "nr_salariati": 17
-    },
-    {
-      "cui": 38679821,
-      "denumire": "SERVICII PUBLICE BOGDAND S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 144284,
-      "profit_net": 6642,
-      "datorii": 40135,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27412402,
-      "denumire": "SERVICIUL SALUBRIZARE VIDRA SRL",
-      "an": 2025,
-      "cifra_afaceri": 1558505,
-      "profit_net": 39986,
-      "datorii": 122229,
-      "nr_salariati": 18
-    },
-    {
-      "cui": 41691442,
-      "denumire": "TUR-OAŞ S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 4921281,
-      "profit_net": 30126,
-      "datorii": 227714,
-      "nr_salariati": 15
-    },
-    {
-      "cui": 50279166,
-      "denumire": "MANAGEMENTUL DEȘEURILOR SATU MARE S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 8461205,
-      "profit_net": 2390885,
-      "datorii": 2370197,
-      "nr_salariati": 23
-    },
-    {
-      "cui": 29445066,
-      "denumire": "ECOSISTEM VICTORIA SRL",
-      "an": 2025,
-      "cifra_afaceri": 4889603,
-      "profit_net": 107964,
-      "datorii": 414345,
-      "nr_salariati": null
-    },
-    {
-      "cui": 42620644,
-      "denumire": "SOCIETATEA DE SALUBRIZARE SNAGOV S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 45209,
-      "profit_net": -211333,
-      "datorii": -55,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 27855450,
-      "denumire": "E.C. RUSCOM BEST SRL",
-      "an": 2025,
-      "cifra_afaceri": 317000,
-      "profit_net": 909,
-      "datorii": 17720,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 31980931,
-      "denumire": "SERVICII EDILITAR - GOSPODĂREŞTI RÎCIU SRL",
-      "an": 2025,
-      "cifra_afaceri": 254193,
-      "profit_net": 35331,
-      "datorii": 18292,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 41293404,
-      "denumire": "SERVICII COMUNITARE AMARA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1476402,
-      "profit_net": 26194,
-      "datorii": 679910,
-      "nr_salariati": 15
-    },
-    {
-      "cui": 38823454,
-      "denumire": "SERVICII COMUNITARE CORABIA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 2029364,
-      "profit_net": 3271,
-      "datorii": 130575,
-      "nr_salariati": 22
-    },
-    {
-      "cui": 17406209,
-      "denumire": "GOSP-COMUNCOR SRL",
-      "an": 2025,
-      "cifra_afaceri": 65000,
-      "profit_net": -8460,
-      "datorii": -13241,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 38698980,
-      "denumire": "SALUBRIZARE SUPUR S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 270327,
-      "profit_net": 53694,
-      "datorii": 35627,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 38575251,
-      "denumire": "BELSALROM S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 397019,
-      "profit_net": 24973,
-      "datorii": 68087,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 32537992,
-      "denumire": "TUR-SOMEŞ LIVADA SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": -20,
-      "nr_salariati": null
-    },
-    {
-      "cui": 37683905,
-      "denumire": "LIMANU VERDE SERVICII DE CURĂȚENIE SRL",
-      "an": 2025,
-      "cifra_afaceri": 5124378,
-      "profit_net": 26563,
-      "datorii": 1023151,
-      "nr_salariati": 43
-    },
-    {
-      "cui": 23686774,
-      "denumire": "SAL PROIECT SRL",
-      "an": 2025,
-      "cifra_afaceri": 227306,
-      "profit_net": -22306,
-      "datorii": 1012281,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 28664262,
-      "denumire": "PADEŞ UTIL SRL",
-      "an": 2025,
-      "cifra_afaceri": 260072,
-      "profit_net": -3726,
-      "datorii": 218461,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 27334533,
-      "denumire": "FLOR ECO SERVICII DE CURĂŢENIE SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 20846,
-      "nr_salariati": null
-    },
-    {
-      "cui": 29595527,
-      "denumire": "SERVICII PUBLICE, AGREMENT ŞI SALUBRITATE SPAS S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 5399152,
-      "profit_net": 9085,
-      "datorii": 2946893,
-      "nr_salariati": 51
-    },
-    {
-      "cui": 35230738,
-      "denumire": "GOSPODARUL MITRENI SRL",
-      "an": 2025,
-      "cifra_afaceri": 642470,
-      "profit_net": -148834,
-      "datorii": 524715,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 30069852,
-      "denumire": "COLECT RECUNOŞTINŢA SERV SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 9218,
-      "nr_salariati": null
-    },
-    {
-      "cui": 32743593,
-      "denumire": "UTIL-ADSIC FÂNTÂNELE SRL",
-      "an": 2025,
-      "cifra_afaceri": 859538,
-      "profit_net": 2374,
-      "datorii": 81191,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 25950367,
-      "denumire": "IERUL TIREAM SRL",
-      "an": 2025,
-      "cifra_afaceri": 2539333,
-      "profit_net": -65038,
-      "datorii": 648689,
-      "nr_salariati": 14
-    },
-    {
-      "cui": 29218217,
-      "denumire": "SALUBRIZARE SORTIS COM SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -5240,
-      "datorii": 36495,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 43721310,
-      "denumire": "A.D.P. BÂRCA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 143771,
-      "profit_net": -31201,
-      "datorii": 22711,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 34550637,
-      "denumire": "CONSTRUCTII BEBA VECHE 2015 SRL",
-      "an": 2025,
-      "cifra_afaceri": 241067,
-      "profit_net": 10379,
-      "datorii": 22724,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 32530994,
-      "denumire": "MAURA STAR BISNOV SRL",
-      "an": 2025,
-      "cifra_afaceri": 178746,
-      "profit_net": -29195,
-      "datorii": 71644,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 33944501,
-      "denumire": "CONSTRUCTORUL LUGAŞU DE JOS SRL",
-      "an": 2025,
-      "cifra_afaceri": 4707383,
-      "profit_net": 108255,
-      "datorii": 4128871,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 30537074,
-      "denumire": "THE SCIENCE CITY FOR RESEARCH AND MEDICAL INFORMATICS S.A.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -420,
-      "datorii": 5198,
-      "nr_salariati": null
-    },
-    {
-      "cui": 37905750,
-      "denumire": "PRESTĂRI SERVICII RĂSTOACA SRL",
-      "an": 2025,
-      "cifra_afaceri": 905663,
-      "profit_net": -113716,
-      "datorii": 140036,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 32149524,
-      "denumire": "CRUCEA MULTISERVICE SRL",
-      "an": 2025,
-      "cifra_afaceri": 870599,
-      "profit_net": 202346,
-      "datorii": 240582,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 37365308,
-      "denumire": "GOSPODARUL BRETEAN SERV SRL",
-      "an": 2025,
-      "cifra_afaceri": 678153,
-      "profit_net": 47679,
-      "datorii": 95811,
-      "nr_salariati": 8
-    },
-    {
-      "cui": 31041582,
-      "denumire": "EDIL NEGRENI SRL",
-      "an": 2025,
-      "cifra_afaceri": 351282,
-      "profit_net": 36624,
-      "datorii": 51957,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 44934384,
-      "denumire": "ÎNTREȚINERE HOT CONS S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 276400,
-      "profit_net": 2840,
-      "datorii": 61385,
-      "nr_salariati": 6
-    },
-    {
-      "cui": 31242390,
-      "denumire": "ILOCONS & SERV 2012 ILOVĂŢ SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 11407,
-      "nr_salariati": null
-    },
-    {
-      "cui": 27804376,
-      "denumire": "GOSPODĂRIRE COMUNALĂ LOCALĂ RĂŞINARI SRL",
-      "an": 2025,
-      "cifra_afaceri": 3174896,
-      "profit_net": 112379,
-      "datorii": 440347,
-      "nr_salariati": 23
-    },
-    {
-      "cui": 32531094,
-      "denumire": "KAMAK STAR BISNOV SRL",
-      "an": 2025,
-      "cifra_afaceri": 164286,
-      "profit_net": -40465,
-      "datorii": 66833,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 32175566,
-      "denumire": "DRUMURI MUNICIPALE S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 5329909,
-      "profit_net": -1155889,
-      "datorii": 856886,
-      "nr_salariati": 44
-    },
-    {
-      "cui": 27892769,
-      "denumire": "CETATEA KORNIS SRL",
-      "an": 2025,
-      "cifra_afaceri": 43984,
-      "profit_net": -56947,
-      "datorii": 272201,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 31042391,
-      "denumire": "SERVICII COMUNALE JIBERT SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 11825,
-      "nr_salariati": null
-    },
-    {
-      "cui": 40685604,
-      "denumire": "CLPCJ CONSTRUCTOR S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 908552,
-      "profit_net": 2844,
-      "datorii": 140314,
-      "nr_salariati": 8
-    },
-    {
-      "cui": 17054889,
-      "denumire": "GOSPOD SERV SRL",
-      "an": 2025,
-      "cifra_afaceri": 387456,
-      "profit_net": 6156,
-      "datorii": 56632,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 18311875,
-      "denumire": "VAB 5004 SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 13201,
-      "nr_salariati": null
-    },
-    {
-      "cui": 43152096,
-      "denumire": "PIAȚA AGROALIMENTARĂ SMÂRDIOASA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 235080,
-      "profit_net": -15288,
-      "datorii": 36158,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 28133465,
-      "denumire": "GOSPOCERNA LUNCA CERNII SRL",
-      "an": 2025,
-      "cifra_afaceri": 334185,
-      "profit_net": -11156,
-      "datorii": 32222,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 33717053,
-      "denumire": "GRANI LINE-TRANS SRL",
-      "an": 2025,
-      "cifra_afaceri": 262235,
-      "profit_net": -6799,
-      "datorii": 18425,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 15955049,
-      "denumire": "RACHITOVEANA SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 23611,
-      "nr_salariati": null
-    },
-    {
-      "cui": 27306940,
-      "denumire": "SERVICII COMUNALE SIRET SA",
-      "an": 2025,
-      "cifra_afaceri": 1282685,
-      "profit_net": -187165,
-      "datorii": 404548,
-      "nr_salariati": 21
-    },
-    {
-      "cui": 41144445,
-      "denumire": "TRANSPORT PUBLIC URBAN BECLEAN S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1284298,
-      "profit_net": 22589,
-      "datorii": 102574,
-      "nr_salariati": 13
-    },
-    {
-      "cui": 30859584,
-      "denumire": "VALSALUB SRL",
-      "an": 2025,
-      "cifra_afaceri": 547449,
-      "profit_net": 3053,
-      "datorii": 87329,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 41509010,
-      "denumire": "REGIO SERV TRANSPORT S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 3120760,
-      "profit_net": 27070,
-      "datorii": 1150970,
-      "nr_salariati": 17
-    },
-    {
-      "cui": 18454727,
-      "denumire": "SCHILIFT SRL",
-      "an": 2025,
-      "cifra_afaceri": 12624,
-      "profit_net": -228613,
-      "datorii": 11482,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 34376183,
-      "denumire": "LA SALA PARC SRL",
-      "an": 2025,
-      "cifra_afaceri": 766232,
-      "profit_net": 79848,
-      "datorii": 296950,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 12530884,
-      "denumire": "STATIUNEA OGLINZI SA",
-      "an": 2025,
-      "cifra_afaceri": 0,
-      "profit_net": 171493,
-      "datorii": 0,
-      "nr_salariati": 0
-    },
-    {
-      "cui": 16217287,
-      "denumire": "GLOBAL MEDIA EXPERT S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -6320,
-      "datorii": 519530,
-      "nr_salariati": null
-    },
-    {
-      "cui": 26761188,
-      "denumire": "TELEVOL SYSTEMS SA",
-      "an": 2025,
-      "cifra_afaceri": 4587545,
-      "profit_net": 198005,
-      "datorii": 848020,
-      "nr_salariati": 15
-    },
-    {
-      "cui": 45340827,
-      "denumire": "DOM-NUS-AQUA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1454677,
-      "profit_net": -463158,
-      "datorii": 218896,
-      "nr_salariati": 11
-    },
-    {
-      "cui": 35332932,
-      "denumire": "PARC INDUSTRIAL CĂLAN S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 849032,
-      "profit_net": 74873,
-      "datorii": 383670,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 48648024,
-      "denumire": "DEZVOLTAREA SI ADMINISTRAREA PATRIMONIULUI SALONTA S.A.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": 8130,
-      "datorii": 38101,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 32977543,
-      "denumire": "IAŞI INDUSTRIAL PARK SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -560613,
-      "datorii": 76936,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 32410025,
-      "denumire": "SLATINA INDUSTRIAL PARC S.A.",
-      "an": 2025,
-      "cifra_afaceri": 241011,
-      "profit_net": -581108,
-      "datorii": 70465,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 11584282,
-      "denumire": "GOSPODARIRE COMUNALA TINCA SA",
-      "an": 2025,
-      "cifra_afaceri": 1023680,
-      "profit_net": -133325,
-      "datorii": 318404,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 41368620,
-      "denumire": "MĂGURELE SCIENCE PARK S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -2288,
-      "datorii": 182,
-      "nr_salariati": null
-    },
-    {
-      "cui": 20762885,
-      "denumire": "VICTORIA PARC INDUSTRIAL SRL",
-      "an": 2025,
-      "cifra_afaceri": 2539741,
-      "profit_net": 37621,
-      "datorii": 268255,
-      "nr_salariati": 19
-    },
-    {
-      "cui": 44550847,
-      "denumire": "INDUSTRIAL PARK ZERIND WEST S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1500,
-      "profit_net": -470,
-      "datorii": 518,
-      "nr_salariati": null
-    },
-    {
-      "cui": 18588753,
-      "denumire": "PIEŢE REŞIŢA SRL",
-      "an": 2025,
-      "cifra_afaceri": 3059545,
-      "profit_net": -210849,
-      "datorii": 244963,
-      "nr_salariati": 21
-    },
-    {
-      "cui": 1960487,
-      "denumire": "TRIMEC SA",
-      "an": 2025,
-      "cifra_afaceri": 1546673,
-      "profit_net": 328685,
-      "datorii": 216070,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 50111218,
-      "denumire": "SILVANIA PARK S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -1879,
-      "datorii": 0,
-      "nr_salariati": null
-    },
-    {
-      "cui": 1973568,
-      "denumire": "RECONS SA",
-      "an": 2025,
-      "cifra_afaceri": 83052,
-      "profit_net": -105127,
-      "datorii": 3106,
-      "nr_salariati": null
-    },
-    {
-      "cui": 25624425,
-      "denumire": "URBAN-LOCATO SRL",
-      "an": 2025,
-      "cifra_afaceri": 5406535,
-      "profit_net": 201647,
-      "datorii": 553531,
-      "nr_salariati": 31
-    },
-    {
-      "cui": 8359779,
-      "denumire": "SOCIETATEA DE STRATEGIE PENTRU PIATA DE GROS SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -6052,
-      "datorii": 7575,
-      "nr_salariati": null
-    },
-    {
-      "cui": 31629001,
-      "denumire": "HERBA AMBIENT CERMEI SRL",
-      "an": 2025,
-      "cifra_afaceri": 447383,
-      "profit_net": 36442,
-      "datorii": 53341,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 17447489,
-      "denumire": "SERVICII DRAGUSANA SRL",
-      "an": 2025,
-      "cifra_afaceri": 975414,
-      "profit_net": 9263,
-      "datorii": 367651,
-      "nr_salariati": 9
-    },
-    {
-      "cui": 31626366,
-      "denumire": "SECTOR PRESTĂRI SERVICII POTCOAVA SRL",
-      "an": 2025,
-      "cifra_afaceri": 248730,
-      "profit_net": -37945,
-      "datorii": 36035,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 40203667,
-      "denumire": "UTILITĂȚI PUBLICE AFUMAȚI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 206000,
-      "profit_net": -4418,
-      "datorii": 17643,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 27409407,
-      "denumire": "GOSPODĂRIA IZVOARELE SRL",
-      "an": 2025,
-      "cifra_afaceri": 244683,
-      "profit_net": 14674,
-      "datorii": 127946,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 43777753,
-      "denumire": "ADMINISTRATIV SERVICII LIȚA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 205430,
-      "profit_net": -36378,
-      "datorii": 19417,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 38308297,
-      "denumire": "PRES SERV GURA OCNIŢEI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -220,
-      "datorii": 44604,
-      "nr_salariati": null
-    },
-    {
-      "cui": 30486167,
-      "denumire": "CONTIL PREST DĂEŞTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1413395,
-      "profit_net": 77650,
-      "datorii": 317122,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 37868890,
-      "denumire": "SALUB TITU S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 1964706,
-      "profit_net": 91194,
-      "datorii": 160160,
-      "nr_salariati": 21
-    },
-    {
-      "cui": 33745754,
-      "denumire": "SPAŢII VERZI BĂUŢAR CARAŞ-SEVERIN SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 282,
-      "nr_salariati": null
-    },
-    {
-      "cui": 33682729,
-      "denumire": "GOSPODARIRE COMUNALA INDEPENDENTA SRL",
-      "an": 2025,
-      "cifra_afaceri": 172700,
-      "profit_net": -38406,
-      "datorii": 88124,
-      "nr_salariati": 9
-    },
-    {
-      "cui": 28408302,
-      "denumire": "SERVICIU PUBLIC PRESTARI SERVICII BEBA VECHE SRL",
-      "an": 2025,
-      "cifra_afaceri": 225206,
-      "profit_net": 21027,
-      "datorii": 31590,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 48816713,
-      "denumire": "SERVICII EDILITAR GOSPODARESTI CRAIESTI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 119803,
-      "profit_net": 1114,
-      "datorii": 7654,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 27873180,
-      "denumire": "GUGULANIA LAND SRL",
-      "an": 2025,
-      "cifra_afaceri": 3168713,
-      "profit_net": 33598,
-      "datorii": 590269,
-      "nr_salariati": 47
-    },
-    {
-      "cui": 22032410,
-      "denumire": "EDILPREST SRL",
-      "an": 2025,
-      "cifra_afaceri": 2009785,
-      "profit_net": 116105,
-      "datorii": 406206,
-      "nr_salariati": 23
-    },
-    {
-      "cui": 28025730,
-      "denumire": "GOSCOM ZETEA SRL",
-      "an": 2025,
-      "cifra_afaceri": 1898645,
-      "profit_net": -79578,
-      "datorii": 622866,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 34902890,
-      "denumire": "HOT SALUBRITY SERV SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -678,
-      "datorii": 19989,
-      "nr_salariati": null
-    },
-    {
-      "cui": 27304567,
-      "denumire": "SERVICII PUBLICE CARCEA SRL",
-      "an": 2025,
-      "cifra_afaceri": 541938,
-      "profit_net": 71938,
-      "datorii": 72182,
-      "nr_salariati": 9
-    },
-    {
-      "cui": 16086688,
-      "denumire": "PREST SERV PATIRLAGELE SRL",
-      "an": 2025,
-      "cifra_afaceri": 1203602,
-      "profit_net": 2025,
-      "datorii": 82383,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 30558107,
-      "denumire": "SARAIU-PROGRES,DEZVOLTARE,SERVICII SRL",
-      "an": 2025,
-      "cifra_afaceri": 356642,
-      "profit_net": -22575,
-      "datorii": 1727852,
-      "nr_salariati": 7
-    },
-    {
-      "cui": 34693785,
-      "denumire": "SPATII VERZI BEBA VECHE SRL",
-      "an": 2025,
-      "cifra_afaceri": 211748,
-      "profit_net": 17490,
-      "datorii": 19626,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 27519450,
-      "denumire": "S.T. SALTIM SLATINA - TIMIŞ SRL",
-      "an": 2025,
-      "cifra_afaceri": 693835,
-      "profit_net": 11089,
-      "datorii": 11846,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 33909580,
-      "denumire": "CONSTRUCTORUL BĂȚANI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 599352,
-      "profit_net": 6239,
-      "datorii": 65478,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 31001189,
-      "denumire": "PROSALUBRIS SRL",
-      "an": 2025,
-      "cifra_afaceri": 643129,
-      "profit_net": -67195,
-      "datorii": 86452,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 46026645,
-      "denumire": "HOTARPREST S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 75000,
-      "profit_net": -48887,
-      "datorii": 35516,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 32531051,
-      "denumire": "ZELENATA TREVA SRL",
-      "an": 2025,
-      "cifra_afaceri": 231651,
-      "profit_net": 17409,
-      "datorii": 145216,
-      "nr_salariati": 3
-    },
-    {
-      "cui": 27453305,
-      "denumire": "AQUAPREST ARMENIŞ SRL",
-      "an": 2025,
-      "cifra_afaceri": 715207,
-      "profit_net": 2594,
-      "datorii": 99041,
-      "nr_salariati": 10
-    },
-    {
-      "cui": 37190290,
-      "denumire": "PUBLISERV BICAZ SRL",
-      "an": 2025,
-      "cifra_afaceri": 623915,
-      "profit_net": -58182,
-      "datorii": 178401,
-      "nr_salariati": 11
-    },
-    {
-      "cui": 27241930,
-      "denumire": "AMBIENTAL SERVICE CERMEI SRL",
-      "an": 2025,
-      "cifra_afaceri": 268400,
-      "profit_net": 1508,
-      "datorii": 23546,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 37516885,
-      "denumire": "SERVICII PUBLICE LOCALE ROVINARI SRL",
-      "an": 2025,
-      "cifra_afaceri": 4229775,
-      "profit_net": -280771,
-      "datorii": 2144303,
-      "nr_salariati": 59
-    },
-    {
-      "cui": 27325969,
-      "denumire": "POL - COM CARANSEBEŞ SRL",
-      "an": 2025,
-      "cifra_afaceri": 1687219,
-      "profit_net": 49242,
-      "datorii": 220635,
-      "nr_salariati": 29
-    },
-    {
-      "cui": 43828113,
-      "denumire": "SERVICIU DE PAZĂ PODARI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 226000,
-      "profit_net": -11329,
-      "datorii": 19275,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 38634242,
-      "denumire": "HUTA OBEC S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 132350,
-      "profit_net": -36343,
-      "datorii": 60873,
-      "nr_salariati": 2
-    },
-    {
-      "cui": 33237519,
-      "denumire": "BM - DN TORONTAL SRL",
-      "an": 2025,
-      "cifra_afaceri": 1303911,
-      "profit_net": 130513,
-      "datorii": 185915,
-      "nr_salariati": 13
-    },
-    {
-      "cui": 30371485,
-      "denumire": "ŞTEFSALUBSERV SRL",
-      "an": 2025,
-      "cifra_afaceri": 576258,
-      "profit_net": 3025,
-      "datorii": 80086,
-      "nr_salariati": 9
-    },
-    {
-      "cui": 27387074,
-      "denumire": "SERVICIUL PUBLIC DE GOSPODĂRIE COMUNALĂ SNAGOV SRL",
-      "an": 2025,
-      "cifra_afaceri": 2354673,
-      "profit_net": -218453,
-      "datorii": 353155,
-      "nr_salariati": 27
-    },
-    {
-      "cui": 38660896,
-      "denumire": "SERVICIUL DE BAZĂ PAZĂ ŞI PROTECŢIE S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 974428,
-      "profit_net": 35557,
-      "datorii": 392315,
-      "nr_salariati": 23
-    },
-    {
-      "cui": 26962254,
-      "denumire": "BUFTEA ADMIN CONS SRL",
-      "an": 2025,
-      "cifra_afaceri": 856412,
-      "profit_net": 26680,
-      "datorii": 228265,
-      "nr_salariati": 9
-    },
-    {
-      "cui": 45751873,
-      "denumire": "AGENȚIA DE ACHIZIȚII PUBLICE TIMIȘOARA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 874340,
-      "profit_net": 66755,
-      "datorii": 109577,
-      "nr_salariati": 5
-    },
-    {
-      "cui": 32267317,
-      "denumire": "URBAN ACTIV SERV SRL",
-      "an": 2025,
-      "cifra_afaceri": 2381223,
-      "profit_net": 9479,
-      "datorii": 574983,
-      "nr_salariati": 30
-    },
-    {
-      "cui": 27608930,
-      "denumire": "DIVIZIA DE PAZĂ ŞI ORDINE SJP SRL",
-      "an": 2025,
-      "cifra_afaceri": 4894929,
-      "profit_net": 240483,
-      "datorii": 845555,
-      "nr_salariati": 76
-    },
-    {
-      "cui": 50634152,
-      "denumire": "CLV PREST SERV S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 921729,
-      "profit_net": 11226,
-      "datorii": 79185,
-      "nr_salariati": 13
-    },
-    {
-      "cui": 32111333,
-      "denumire": "MEDICALĂ SFÂNTA CUVIOASĂ PARASCHEVA VOLUNTARI SRL",
-      "an": 2025,
-      "cifra_afaceri": 4134416,
-      "profit_net": 211014,
-      "datorii": 1103478,
-      "nr_salariati": 39
-    },
-    {
-      "cui": 34296440,
-      "denumire": "REGIO INTEGRAL S.A.",
-      "an": 2025,
-      "cifra_afaceri": 1691375,
-      "profit_net": 243237,
-      "datorii": 392452,
-      "nr_salariati": 18
-    },
-    {
-      "cui": 39523889,
-      "denumire": "STRAND IDECIU S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 537855,
-      "profit_net": 45297,
-      "datorii": 89699,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 39526451,
-      "denumire": "PARC INDUSTRIAL BREAZA S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 3036933,
-      "profit_net": 128114,
-      "datorii": 171122,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 42599003,
-      "denumire": "TUTTI WELLNESS S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 240680,
-      "profit_net": -56671,
-      "datorii": 26375,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 24642172,
-      "denumire": "DEZVOLTARE URBANA SRL",
-      "an": 2025,
-      "cifra_afaceri": 1548219,
-      "profit_net": -74467,
-      "datorii": 156121,
-      "nr_salariati": 14
-    },
-    {
-      "cui": 43388543,
-      "denumire": "LUNCA CIGHERULUI-TAUŢ S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": null,
-      "datorii": 431,
-      "nr_salariati": null
-    },
-    {
-      "cui": 37019312,
-      "denumire": "EVENT PETRĂCHIOAIA SRL",
-      "an": 2025,
-      "cifra_afaceri": null,
-      "profit_net": -1755,
-      "datorii": 654132,
-      "nr_salariati": 1
-    },
-    {
-      "cui": 41239820,
-      "denumire": "EDILITAR GOSPODAR CERMEI S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 269220,
-      "profit_net": 15802,
-      "datorii": 21032,
-      "nr_salariati": 4
-    },
-    {
-      "cui": 16830620,
-      "denumire": "BAI COJOCNA SRL",
-      "an": 2025,
-      "cifra_afaceri": 2056807,
-      "profit_net": 33992,
-      "datorii": 351015,
-      "nr_salariati": 12
-    },
-    {
-      "cui": 47168273,
-      "denumire": "FONTANA BALNEO S.R.L.",
-      "an": 2025,
-      "cifra_afaceri": 8961399,
-      "profit_net": 344339,
-      "datorii": 1297687,
-      "nr_salariati": 48
+      "cifra_afaceri": 1437442682,
+      "profit_net": 256039471,
+      "datorii": 207800855,
+      "nr_salariati": 2240
     },
     {
       "cui": 21731216,
@@ -9335,6 +7364,2184 @@
       "profit_net": -706447,
       "datorii": 14571,
       "nr_salariati": 9
+    },
+    {
+      "cui": 496401,
+      "denumire": "AGROPRODCOM LAZAREA SA",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -14621,
+      "datorii": 1602152,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 32247646,
+      "denumire": "GOSPODĂRIE COMUNALĂ LUNCA BAŞEULUI SRL",
+      "an": 2025,
+      "cifra_afaceri": 543401,
+      "profit_net": -12532,
+      "datorii": 79639,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 37737746,
+      "denumire": "GOSPODARII CORLĂTENI SRL",
+      "an": 2025,
+      "cifra_afaceri": 236599,
+      "profit_net": 302,
+      "datorii": 440309,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 26371584,
+      "denumire": "POIANA ROŞIA SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -21203,
+      "datorii": 133075,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 18919474,
+      "denumire": "CRUCEA TALIENILOR SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -7020,
+      "datorii": 11313,
+      "nr_salariati": null
+    },
+    {
+      "cui": 35604867,
+      "denumire": "PRESTSERV GHIMPEŢENI SRL",
+      "an": 2025,
+      "cifra_afaceri": 256841,
+      "profit_net": -27758,
+      "datorii": 382686,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 29879537,
+      "denumire": "VALENIPRIM SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": 297006,
+      "profit_net": -46062,
+      "datorii": 246808,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 33850202,
+      "denumire": "PREST COM SÂNTANA PAVAJ SRL",
+      "an": 2025,
+      "cifra_afaceri": 1039574,
+      "profit_net": 984,
+      "datorii": 92814,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 34707333,
+      "denumire": "BCU CONSTRUCT MOŢCA SRL",
+      "an": 2025,
+      "cifra_afaceri": 0,
+      "profit_net": null,
+      "datorii": 41851,
+      "nr_salariati": 0
+    },
+    {
+      "cui": 27058888,
+      "denumire": "VILCET ENERGY SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 0,
+      "nr_salariati": null
+    },
+    {
+      "cui": 42144524,
+      "denumire": "TRANS REGIOBANAT S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -15828,
+      "datorii": 726,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 37742513,
+      "denumire": "APA ŞI CANAL CĂLUI SRL",
+      "an": 2025,
+      "cifra_afaceri": 110307,
+      "profit_net": 7175,
+      "datorii": 14646,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 28962463,
+      "denumire": "APĂ CANAL BALC SRL",
+      "an": 2025,
+      "cifra_afaceri": 115665,
+      "profit_net": -143080,
+      "datorii": 581869,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 38231835,
+      "denumire": "APĂ SĂDIŞOR SRL",
+      "an": 2025,
+      "cifra_afaceri": 218007,
+      "profit_net": -42660,
+      "datorii": 39775,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 40227909,
+      "denumire": "PRESTĂRI SERVICII STOICĂNEŞTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 346691,
+      "profit_net": 5693,
+      "datorii": 18037,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 29355176,
+      "denumire": "SERVICII DE GOSPODĂRIRE COMUNALĂ DEVESEL SRL",
+      "an": 2025,
+      "cifra_afaceri": 698503,
+      "profit_net": 153077,
+      "datorii": 198578,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 41177183,
+      "denumire": "AQUA IMPECABIL S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 0,
+      "nr_salariati": null
+    },
+    {
+      "cui": 37801598,
+      "denumire": "GOSPODĂRIE COMUNALĂ CIUPERCENII NOI SRL",
+      "an": 2025,
+      "cifra_afaceri": 730487,
+      "profit_net": 73124,
+      "datorii": 81518,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 27266340,
+      "denumire": "GOSPODĂRIRE COMUNALĂ DUBOVA SRL",
+      "an": 2025,
+      "cifra_afaceri": 384645,
+      "profit_net": -41265,
+      "datorii": 147894,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 39112506,
+      "denumire": "APA-CANAL TOMNATIC S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 592415,
+      "profit_net": 19882,
+      "datorii": 94025,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 36608581,
+      "denumire": "TERMO SERV COM TAŞCA SRL",
+      "an": 2025,
+      "cifra_afaceri": 675483,
+      "profit_net": 67212,
+      "datorii": 169881,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 39332560,
+      "denumire": "SERVICIUL PUBLIC DE APA SI CANALIZARE APELE VII S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 244588,
+      "profit_net": -26583,
+      "datorii": 18853,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 36783515,
+      "denumire": "APĂ CANAL BÎRZA SRL",
+      "an": 2025,
+      "cifra_afaceri": 336194,
+      "profit_net": 12889,
+      "datorii": 18544,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 32455094,
+      "denumire": "GOSCOM LUPENI SRL",
+      "an": 2025,
+      "cifra_afaceri": 1087654,
+      "profit_net": 35194,
+      "datorii": 6348761,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 28109807,
+      "denumire": "ALIMPEŞTI UTIL SRL",
+      "an": 2025,
+      "cifra_afaceri": 226309,
+      "profit_net": -33800,
+      "datorii": 81018,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 30765218,
+      "denumire": "SERVICII PUBLICE GOSCOM SRL",
+      "an": 2025,
+      "cifra_afaceri": 1100529,
+      "profit_net": -189279,
+      "datorii": 587449,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 31710504,
+      "denumire": "SERVICII PUBLICE SÂMBETEANA SRL",
+      "an": 2025,
+      "cifra_afaceri": 242975,
+      "profit_net": 58886,
+      "datorii": 6480,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 37766199,
+      "denumire": "APĂ CANAL SERV OBOGA SRL",
+      "an": 2025,
+      "cifra_afaceri": 329512,
+      "profit_net": -56690,
+      "datorii": 92673,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 31029392,
+      "denumire": "SISTEM CONSLOC ZĂRNEŞTI 2012 SRL",
+      "an": 2025,
+      "cifra_afaceri": 800537,
+      "profit_net": 7480,
+      "datorii": 105899,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 38701589,
+      "denumire": "SERVICIUL DE UTILITATI PUBLICE SCAEȘTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 217609,
+      "profit_net": 1721,
+      "datorii": 119379,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 44275984,
+      "denumire": "SERVICIUL PUBLIC DE ALIMENTARE CU APĂ ROBĂNEȘTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 315373,
+      "profit_net": -38199,
+      "datorii": 25579,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 31268314,
+      "denumire": "CONSLOC PREST STUDINA SRL",
+      "an": 2025,
+      "cifra_afaceri": 166281,
+      "profit_net": 6005,
+      "datorii": 29655,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 36353380,
+      "denumire": "APĂ CANALIZARE EPURARE APE UZATE STREJEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 438625,
+      "profit_net": -4570,
+      "datorii": 100697,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 32074006,
+      "denumire": "SERVICII GÎRLA MARE SRL",
+      "an": 2025,
+      "cifra_afaceri": 418918,
+      "profit_net": -83597,
+      "datorii": 114516,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 45771692,
+      "denumire": "APĂ SERV BRATCA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 591052,
+      "profit_net": -411393,
+      "datorii": 27404,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 42907464,
+      "denumire": "SERVICII UTILITARE MIHĂEŞTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -44460,
+      "datorii": 294,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 38096704,
+      "denumire": "SERVICIUL DE UTILITĂȚI PUBLICE MISCHII SRL",
+      "an": 2025,
+      "cifra_afaceri": 435831,
+      "profit_net": 93219,
+      "datorii": 49784,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 37057162,
+      "denumire": "APĂ CANAL SLĂTIOARA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 585697,
+      "profit_net": -31813,
+      "datorii": 62243,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 37517511,
+      "denumire": "UTILSERV IANCA SRL",
+      "an": 2025,
+      "cifra_afaceri": 445774,
+      "profit_net": -29237,
+      "datorii": 141755,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 28470100,
+      "denumire": "SERVICII PENTRU COMUNITATE NUCET SRL",
+      "an": 2025,
+      "cifra_afaceri": 379138,
+      "profit_net": -22396,
+      "datorii": 165480,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 32823617,
+      "denumire": "SOCIETATEA MANAGEMENT SERVICII PUBLICE RURALE DRAGALINA SRL",
+      "an": 2025,
+      "cifra_afaceri": 366134,
+      "profit_net": -14980,
+      "datorii": 8228,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 28095744,
+      "denumire": "LOCAL PREST SERV AŞTILEU SRL",
+      "an": 2025,
+      "cifra_afaceri": 1986080,
+      "profit_net": 12213,
+      "datorii": 537482,
+      "nr_salariati": 11
+    },
+    {
+      "cui": 21737529,
+      "denumire": "GOSPODARIRE COMUNALA COCIUBA MARE SRL",
+      "an": 2025,
+      "cifra_afaceri": 485149,
+      "profit_net": 894,
+      "datorii": 2253838,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 42495070,
+      "denumire": "SERVICIUL APĂ ȘI CANALIZARE PREDEȘTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 280005,
+      "profit_net": -53416,
+      "datorii": 83648,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 30656687,
+      "denumire": "PRESTĂRI SERVICII TĂTULEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 156679,
+      "profit_net": -7931,
+      "datorii": 7517,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27486132,
+      "denumire": "UTILITĂŢI APĂ-CANAL RUCĂR 2010 SRL",
+      "an": 2025,
+      "cifra_afaceri": 1187239,
+      "profit_net": 53280,
+      "datorii": 136315,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 36480325,
+      "denumire": "GOSPODĂRIREA APELOR ŞI SERVICIILOR FRECĂŢEI SRL",
+      "an": 2025,
+      "cifra_afaceri": 774164,
+      "profit_net": -144448,
+      "datorii": 144361,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 42926890,
+      "denumire": "GOSPODĂRIRE COMUNALĂ BIHARIA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 537494,
+      "profit_net": 33133,
+      "datorii": 53774,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 27910237,
+      "denumire": "ECOEDILITAR SRL",
+      "an": 2025,
+      "cifra_afaceri": 591079,
+      "profit_net": 95343,
+      "datorii": 46164,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 17866940,
+      "denumire": "ARANKA SERVCOM SRL",
+      "an": 2025,
+      "cifra_afaceri": 233646,
+      "profit_net": -31856,
+      "datorii": 183730,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 39248274,
+      "denumire": "SERVICII PENTRU UTILITATI GIGHERA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 164568,
+      "profit_net": -223597,
+      "datorii": 417788,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 16756117,
+      "denumire": "COMPANIA PUBLICA BANESTI SA",
+      "an": 2025,
+      "cifra_afaceri": 752195,
+      "profit_net": -288833,
+      "datorii": 1846100,
+      "nr_salariati": null
+    },
+    {
+      "cui": 42692306,
+      "denumire": "ALIMENTARE CU APĂ BUMBESTI-PITIC S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 391706,
+      "profit_net": 107083,
+      "datorii": 44091,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 36470879,
+      "denumire": "APĂ CANAL GĂVĂNEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 186194,
+      "profit_net": 12145,
+      "datorii": 65187,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27237026,
+      "denumire": "APĂ SALUBRITATE CANAL ŞI DECONTAMINARE PRIBOIENI SRL",
+      "an": 2025,
+      "cifra_afaceri": 506983,
+      "profit_net": 7226,
+      "datorii": 71808,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 31142447,
+      "denumire": "AQUAVERA COTEANA SRL",
+      "an": 2025,
+      "cifra_afaceri": 296357,
+      "profit_net": -19070,
+      "datorii": 82832,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 28310079,
+      "denumire": "PRIMPAD-SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": 238821,
+      "profit_net": 48331,
+      "datorii": 21284,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 37052459,
+      "denumire": "APĂ-CANAL ŞUNCUIUŞ SRL",
+      "an": 2025,
+      "cifra_afaceri": 702482,
+      "profit_net": 125918,
+      "datorii": 106725,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 41902558,
+      "denumire": "SERVICIUL DE APĂ ŞI CANAL GHERŢA MICĂ S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 0,
+      "nr_salariati": null
+    },
+    {
+      "cui": 42649594,
+      "denumire": "SERVICIUL PUBLIC DE APA SI CANALIZARE MARSANI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 270199,
+      "profit_net": -294700,
+      "datorii": 50328,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 27330116,
+      "denumire": "ECO - SCUP SRL",
+      "an": 2025,
+      "cifra_afaceri": 950373,
+      "profit_net": 26265,
+      "datorii": 243884,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 38789301,
+      "denumire": "SERVICIUL PUBLIC DE APA SI CANALIZARE DRĂNIC S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 315288,
+      "profit_net": -185677,
+      "datorii": 86369,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 39765521,
+      "denumire": "APĂ CANAL VADU CRIŞULUI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 597826,
+      "profit_net": -208290,
+      "datorii": 468686,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 29841761,
+      "denumire": "SERVICII DE ADMINISTRARE A DOMENIULUI PUBLIC SI GOSPODARIRE COMUNALA GALICEA MARE SRL",
+      "an": 2025,
+      "cifra_afaceri": 549006,
+      "profit_net": -37126,
+      "datorii": 405015,
+      "nr_salariati": 8
+    },
+    {
+      "cui": 42895424,
+      "denumire": "APA SERV COMUNA PURANI SOCIETATE CU RĂSPUNDERE LIMITATĂ",
+      "an": 2025,
+      "cifra_afaceri": 290230,
+      "profit_net": -48232,
+      "datorii": 142436,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 27266331,
+      "denumire": "GOSPODĂRIE COMUNALĂ EŞELNIŢA SRL",
+      "an": 2025,
+      "cifra_afaceri": 609452,
+      "profit_net": 73125,
+      "datorii": 299436,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 35978101,
+      "denumire": "APĂ CANAL BOBICEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -322,
+      "datorii": 0,
+      "nr_salariati": null
+    },
+    {
+      "cui": 38918813,
+      "denumire": "GOSPODĂRIREA UTILITĂŢILOR PUBLICE MIHĂIEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 199550,
+      "profit_net": 45796,
+      "datorii": 6342,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 37495499,
+      "denumire": "SERVICIUL PUBLIC ALEXANDRU ODOBESCU SRL",
+      "an": 2025,
+      "cifra_afaceri": 706207,
+      "profit_net": 107447,
+      "datorii": 85476,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 44124388,
+      "denumire": "SERVICII PUBLICE COMUNALE S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 575683,
+      "profit_net": -929,
+      "datorii": 57843,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 27256656,
+      "denumire": "UTILITĂŢI COMUNALE OSTRA SRL",
+      "an": 2025,
+      "cifra_afaceri": 375123,
+      "profit_net": 20587,
+      "datorii": 14659,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 37191481,
+      "denumire": "APĂ, CANAL , SALUBRITATE FRĂTEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 802514,
+      "profit_net": -107767,
+      "datorii": 991729,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 30749948,
+      "denumire": "GHINDĂREȘTI EDIL SRL",
+      "an": 2025,
+      "cifra_afaceri": 369534,
+      "profit_net": 29482,
+      "datorii": 58951,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 36476464,
+      "denumire": "APĂ CANAL COSTEŞTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 382456,
+      "profit_net": -15928,
+      "datorii": 40025,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 27179928,
+      "denumire": "SERVICII DE UTILITATI PUBLICE LEU SRL",
+      "an": 2025,
+      "cifra_afaceri": 554838,
+      "profit_net": -120514,
+      "datorii": 77819,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 40171042,
+      "denumire": "APĂ CANAL MÂNĂSTIREA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 956540,
+      "profit_net": 122581,
+      "datorii": 42185,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 28308893,
+      "denumire": "SERVICII APĂ, CANAL, SALUBRITATE, FILIPEŞTII DE PĂDURE SRL",
+      "an": 2025,
+      "cifra_afaceri": 2432046,
+      "profit_net": -181303,
+      "datorii": 763707,
+      "nr_salariati": 19
+    },
+    {
+      "cui": 36722771,
+      "denumire": "CRASCUP UTIL SRL",
+      "an": 2025,
+      "cifra_afaceri": 390956,
+      "profit_net": -39994,
+      "datorii": 44571,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 27436894,
+      "denumire": "SERVICII LOCALE IZVOARELE SRL",
+      "an": 2025,
+      "cifra_afaceri": 537589,
+      "profit_net": 31795,
+      "datorii": 53082,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 36500953,
+      "denumire": "APA-CANALIZARE PROGRESUL SFÎNTU GHEORGHE S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 320619,
+      "profit_net": 500,
+      "datorii": 76385,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 29482943,
+      "denumire": "SERVICII PUBLICE GOIESTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 216471,
+      "profit_net": -24883,
+      "datorii": 212651,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 42312822,
+      "denumire": "SERVICII PUBLICE OSTROV S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 385426,
+      "profit_net": 41568,
+      "datorii": 16192,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 37953138,
+      "denumire": "APĂ CANAL CLP TR SRL",
+      "an": 2025,
+      "cifra_afaceri": 393998,
+      "profit_net": -55312,
+      "datorii": 116958,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 36202884,
+      "denumire": "GOSPODĂRIRE COMUNALĂ CĂSCIOARELE SRL",
+      "an": 2025,
+      "cifra_afaceri": 251521,
+      "profit_net": -30509,
+      "datorii": 163829,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 24994977,
+      "denumire": "SERVICIUL PUBLIC DE INTERES COMUNAL TAUTEU SA",
+      "an": 2025,
+      "cifra_afaceri": 488401,
+      "profit_net": -9490,
+      "datorii": 90183,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 37857742,
+      "denumire": "APĂ-CANAL PIELEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 1353205,
+      "profit_net": 155617,
+      "datorii": 101882,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 39227670,
+      "denumire": "APĂ CANAL DOBREŢU S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 85763,
+      "profit_net": -36377,
+      "datorii": 10916,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 30509368,
+      "denumire": "PRESERV VEDIŢA SRL",
+      "an": 2025,
+      "cifra_afaceri": 481632,
+      "profit_net": 23359,
+      "datorii": 212731,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 34865210,
+      "denumire": "AQUA VALEA IADULUI SRL",
+      "an": 2025,
+      "cifra_afaceri": 138489,
+      "profit_net": -84644,
+      "datorii": 140566,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27779140,
+      "denumire": "CODRU LUNCA SRL",
+      "an": 2025,
+      "cifra_afaceri": 288805,
+      "profit_net": -51712,
+      "datorii": 129289,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 39313313,
+      "denumire": "APĂ-CANAL CIOFRÎNGENI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 445581,
+      "profit_net": -34985,
+      "datorii": 238644,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 37996252,
+      "denumire": "APĂ-CANAL DESNĂŢUI SRL",
+      "an": 2025,
+      "cifra_afaceri": 423944,
+      "profit_net": 31433,
+      "datorii": 90726,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 43651169,
+      "denumire": "SERVICIUL APĂ ŞI CANAL SECU S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 160577,
+      "profit_net": -74444,
+      "datorii": 90273,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 30890954,
+      "denumire": "ALIMENTARE CU APĂ ŞI CANALIZARE AFUMAŢI SRL",
+      "an": 2025,
+      "cifra_afaceri": 1846633,
+      "profit_net": 298713,
+      "datorii": 902422,
+      "nr_salariati": 16
+    },
+    {
+      "cui": 43411026,
+      "denumire": "ROUA ARDEALULUI LUNCA MUREȘULUI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 764497,
+      "profit_net": -269478,
+      "datorii": 436138,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 30955972,
+      "denumire": "GOSPODĂRIRE LOCALĂ BERBEŞTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 939607,
+      "profit_net": -179225,
+      "datorii": 638742,
+      "nr_salariati": 11
+    },
+    {
+      "cui": 37074007,
+      "denumire": "SERVICIU PUBLIC DE ALIMENTARE CU APĂ CURTIȘOARA SRL",
+      "an": 2025,
+      "cifra_afaceri": 696816,
+      "profit_net": 69382,
+      "datorii": 18558,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 37101306,
+      "denumire": "OSICAPREST SERVCONS SRL",
+      "an": 2025,
+      "cifra_afaceri": 124192,
+      "profit_net": 3577,
+      "datorii": 78990,
+      "nr_salariati": null
+    },
+    {
+      "cui": 40507704,
+      "denumire": "APA CANAL SAELELE S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 298669,
+      "profit_net": -34060,
+      "datorii": 593922,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 39968496,
+      "denumire": "APĂ - CANAL POPEŞTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1239355,
+      "profit_net": 208056,
+      "datorii": 132664,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 39593701,
+      "denumire": "SERVICIUL DE UTILITATI PUBLICE DIOSTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 213322,
+      "profit_net": -58893,
+      "datorii": 167115,
+      "nr_salariati": null
+    },
+    {
+      "cui": 36364711,
+      "denumire": "APĂ CANAL SERV BALDOVINEŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": 248910,
+      "profit_net": 48580,
+      "datorii": 92362,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 30721920,
+      "denumire": "PRESTĂRI SERVICII GRĂDINARI SRL",
+      "an": 2025,
+      "cifra_afaceri": 273616,
+      "profit_net": 29516,
+      "datorii": 86424,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 39505360,
+      "denumire": "APĂ-CANAL MĂNECIU S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 2780656,
+      "profit_net": 5563,
+      "datorii": 743246,
+      "nr_salariati": 17
+    },
+    {
+      "cui": 38612376,
+      "denumire": "GOSPODĂRIE COMUNALĂ UNISERV S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 197151,
+      "profit_net": -80755,
+      "datorii": 181808,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27754111,
+      "denumire": "APA - CANAL SICHEVIŢA SRL",
+      "an": 2025,
+      "cifra_afaceri": 160114,
+      "profit_net": -26553,
+      "datorii": 302416,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 42512022,
+      "denumire": "DISTRIGAZ ŞIMIAN S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1418136,
+      "profit_net": -29284,
+      "datorii": 287020,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 49602963,
+      "denumire": "INSTAL GAZ ȘIMIAN S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": 1596,
+      "datorii": 0,
+      "nr_salariati": null
+    },
+    {
+      "cui": 33418965,
+      "denumire": "SPRIA TECHNOLOGY PARK SRL",
+      "an": 2025,
+      "cifra_afaceri": 130127,
+      "profit_net": 9061,
+      "datorii": 1240535,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 26638950,
+      "denumire": "CONCORDIA UZINA ELECTRICĂ FLOREŞTI SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 59681,
+      "nr_salariati": null
+    },
+    {
+      "cui": 29587621,
+      "denumire": "APA CANAL TURNU ROSU SRL",
+      "an": 2025,
+      "cifra_afaceri": 807160,
+      "profit_net": 16342,
+      "datorii": 64436,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 44500172,
+      "denumire": "UTILITĂŢI ŞI GOSPODĂRIRE COMUNA SĂVENI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 267859,
+      "profit_net": 82869,
+      "datorii": 4030,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 24864080,
+      "denumire": "REDISZA SA",
+      "an": 2025,
+      "cifra_afaceri": 5131901,
+      "profit_net": 269765,
+      "datorii": 307018,
+      "nr_salariati": 24
+    },
+    {
+      "cui": 44220440,
+      "denumire": "APĂ CANAL TĂRCAIA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 203483,
+      "profit_net": -13487,
+      "datorii": 20706,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27305066,
+      "denumire": "SERVICIUL PUBLIC DE GOSPODĂRIE COMUNALĂ CIOLPANI SRL",
+      "an": 2025,
+      "cifra_afaceri": 1685499,
+      "profit_net": 40291,
+      "datorii": 577868,
+      "nr_salariati": 18
+    },
+    {
+      "cui": 40577009,
+      "denumire": "ECO SERVICIUL SALUBRIZARE FLORICA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 317353,
+      "profit_net": 53042,
+      "datorii": 22940,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 38644335,
+      "denumire": "CRASNA ACÂŞ S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 233641,
+      "profit_net": 20159,
+      "datorii": 10462,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 7933821,
+      "denumire": "ALTITUDINEA 1040 PREDEAL SRL",
+      "an": 2025,
+      "cifra_afaceri": 1475515,
+      "profit_net": -22667,
+      "datorii": 517470,
+      "nr_salariati": 17
+    },
+    {
+      "cui": 38679821,
+      "denumire": "SERVICII PUBLICE BOGDAND S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 144284,
+      "profit_net": 6642,
+      "datorii": 40135,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27412402,
+      "denumire": "SERVICIUL SALUBRIZARE VIDRA SRL",
+      "an": 2025,
+      "cifra_afaceri": 1558505,
+      "profit_net": 39986,
+      "datorii": 122229,
+      "nr_salariati": 18
+    },
+    {
+      "cui": 41691442,
+      "denumire": "TUR-OAŞ S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 4921281,
+      "profit_net": 30126,
+      "datorii": 227714,
+      "nr_salariati": 15
+    },
+    {
+      "cui": 50279166,
+      "denumire": "MANAGEMENTUL DEȘEURILOR SATU MARE S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 8461205,
+      "profit_net": 2390885,
+      "datorii": 2370197,
+      "nr_salariati": 23
+    },
+    {
+      "cui": 29445066,
+      "denumire": "ECOSISTEM VICTORIA SRL",
+      "an": 2025,
+      "cifra_afaceri": 4889603,
+      "profit_net": 107964,
+      "datorii": 414345,
+      "nr_salariati": null
+    },
+    {
+      "cui": 42620644,
+      "denumire": "SOCIETATEA DE SALUBRIZARE SNAGOV S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 45209,
+      "profit_net": -211333,
+      "datorii": -55,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 27855450,
+      "denumire": "E.C. RUSCOM BEST SRL",
+      "an": 2025,
+      "cifra_afaceri": 317000,
+      "profit_net": 909,
+      "datorii": 17720,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 31980931,
+      "denumire": "SERVICII EDILITAR - GOSPODĂREŞTI RÎCIU SRL",
+      "an": 2025,
+      "cifra_afaceri": 254193,
+      "profit_net": 35331,
+      "datorii": 18292,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 41293404,
+      "denumire": "SERVICII COMUNITARE AMARA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1476402,
+      "profit_net": 26194,
+      "datorii": 679910,
+      "nr_salariati": 15
+    },
+    {
+      "cui": 38823454,
+      "denumire": "SERVICII COMUNITARE CORABIA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 2029364,
+      "profit_net": 3271,
+      "datorii": 130575,
+      "nr_salariati": 22
+    },
+    {
+      "cui": 17406209,
+      "denumire": "GOSP-COMUNCOR SRL",
+      "an": 2025,
+      "cifra_afaceri": 65000,
+      "profit_net": -8460,
+      "datorii": -13241,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 38698980,
+      "denumire": "SALUBRIZARE SUPUR S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 270327,
+      "profit_net": 53694,
+      "datorii": 35627,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 38575251,
+      "denumire": "BELSALROM S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 397019,
+      "profit_net": 24973,
+      "datorii": 68087,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 32537992,
+      "denumire": "TUR-SOMEŞ LIVADA SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": -20,
+      "nr_salariati": null
+    },
+    {
+      "cui": 37683905,
+      "denumire": "LIMANU VERDE SERVICII DE CURĂȚENIE SRL",
+      "an": 2025,
+      "cifra_afaceri": 5124378,
+      "profit_net": 26563,
+      "datorii": 1023151,
+      "nr_salariati": 43
+    },
+    {
+      "cui": 23686774,
+      "denumire": "SAL PROIECT SRL",
+      "an": 2025,
+      "cifra_afaceri": 227306,
+      "profit_net": -22306,
+      "datorii": 1012281,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 28664262,
+      "denumire": "PADEŞ UTIL SRL",
+      "an": 2025,
+      "cifra_afaceri": 260072,
+      "profit_net": -3726,
+      "datorii": 218461,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 27334533,
+      "denumire": "FLOR ECO SERVICII DE CURĂŢENIE SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 20846,
+      "nr_salariati": null
+    },
+    {
+      "cui": 29595527,
+      "denumire": "SERVICII PUBLICE, AGREMENT ŞI SALUBRITATE SPAS S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 5399152,
+      "profit_net": 9085,
+      "datorii": 2946893,
+      "nr_salariati": 51
+    },
+    {
+      "cui": 35230738,
+      "denumire": "GOSPODARUL MITRENI SRL",
+      "an": 2025,
+      "cifra_afaceri": 642470,
+      "profit_net": -148834,
+      "datorii": 524715,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 30069852,
+      "denumire": "COLECT RECUNOŞTINŢA SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 9218,
+      "nr_salariati": null
+    },
+    {
+      "cui": 32743593,
+      "denumire": "UTIL-ADSIC FÂNTÂNELE SRL",
+      "an": 2025,
+      "cifra_afaceri": 859538,
+      "profit_net": 2374,
+      "datorii": 81191,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 25950367,
+      "denumire": "IERUL TIREAM SRL",
+      "an": 2025,
+      "cifra_afaceri": 2539333,
+      "profit_net": -65038,
+      "datorii": 648689,
+      "nr_salariati": 14
+    },
+    {
+      "cui": 29218217,
+      "denumire": "SALUBRIZARE SORTIS COM SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -5240,
+      "datorii": 36495,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 43721310,
+      "denumire": "A.D.P. BÂRCA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 143771,
+      "profit_net": -31201,
+      "datorii": 22711,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 34550637,
+      "denumire": "CONSTRUCTII BEBA VECHE 2015 SRL",
+      "an": 2025,
+      "cifra_afaceri": 241067,
+      "profit_net": 10379,
+      "datorii": 22724,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 32530994,
+      "denumire": "MAURA STAR BISNOV SRL",
+      "an": 2025,
+      "cifra_afaceri": 178746,
+      "profit_net": -29195,
+      "datorii": 71644,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 33944501,
+      "denumire": "CONSTRUCTORUL LUGAŞU DE JOS SRL",
+      "an": 2025,
+      "cifra_afaceri": 4707383,
+      "profit_net": 108255,
+      "datorii": 4128871,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 30537074,
+      "denumire": "THE SCIENCE CITY FOR RESEARCH AND MEDICAL INFORMATICS S.A.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -420,
+      "datorii": 5198,
+      "nr_salariati": null
+    },
+    {
+      "cui": 37905750,
+      "denumire": "PRESTĂRI SERVICII RĂSTOACA SRL",
+      "an": 2025,
+      "cifra_afaceri": 905663,
+      "profit_net": -113716,
+      "datorii": 140036,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 32149524,
+      "denumire": "CRUCEA MULTISERVICE SRL",
+      "an": 2025,
+      "cifra_afaceri": 870599,
+      "profit_net": 202346,
+      "datorii": 240582,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 37365308,
+      "denumire": "GOSPODARUL BRETEAN SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": 678153,
+      "profit_net": 47679,
+      "datorii": 95811,
+      "nr_salariati": 8
+    },
+    {
+      "cui": 31041582,
+      "denumire": "EDIL NEGRENI SRL",
+      "an": 2025,
+      "cifra_afaceri": 351282,
+      "profit_net": 36624,
+      "datorii": 51957,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 44934384,
+      "denumire": "ÎNTREȚINERE HOT CONS S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 276400,
+      "profit_net": 2840,
+      "datorii": 61385,
+      "nr_salariati": 6
+    },
+    {
+      "cui": 31242390,
+      "denumire": "ILOCONS & SERV 2012 ILOVĂŢ SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 11407,
+      "nr_salariati": null
+    },
+    {
+      "cui": 27804376,
+      "denumire": "GOSPODĂRIRE COMUNALĂ LOCALĂ RĂŞINARI SRL",
+      "an": 2025,
+      "cifra_afaceri": 3174896,
+      "profit_net": 112379,
+      "datorii": 440347,
+      "nr_salariati": 23
+    },
+    {
+      "cui": 32531094,
+      "denumire": "KAMAK STAR BISNOV SRL",
+      "an": 2025,
+      "cifra_afaceri": 164286,
+      "profit_net": -40465,
+      "datorii": 66833,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 32175566,
+      "denumire": "DRUMURI MUNICIPALE S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 5329909,
+      "profit_net": -1155889,
+      "datorii": 856886,
+      "nr_salariati": 44
+    },
+    {
+      "cui": 27892769,
+      "denumire": "CETATEA KORNIS SRL",
+      "an": 2025,
+      "cifra_afaceri": 43984,
+      "profit_net": -56947,
+      "datorii": 272201,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 31042391,
+      "denumire": "SERVICII COMUNALE JIBERT SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 11825,
+      "nr_salariati": null
+    },
+    {
+      "cui": 40685604,
+      "denumire": "CLPCJ CONSTRUCTOR S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 908552,
+      "profit_net": 2844,
+      "datorii": 140314,
+      "nr_salariati": 8
+    },
+    {
+      "cui": 17054889,
+      "denumire": "GOSPOD SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": 387456,
+      "profit_net": 6156,
+      "datorii": 56632,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 18311875,
+      "denumire": "VAB 5004 SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 13201,
+      "nr_salariati": null
+    },
+    {
+      "cui": 43152096,
+      "denumire": "PIAȚA AGROALIMENTARĂ SMÂRDIOASA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 235080,
+      "profit_net": -15288,
+      "datorii": 36158,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 28133465,
+      "denumire": "GOSPOCERNA LUNCA CERNII SRL",
+      "an": 2025,
+      "cifra_afaceri": 334185,
+      "profit_net": -11156,
+      "datorii": 32222,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 33717053,
+      "denumire": "GRANI LINE-TRANS SRL",
+      "an": 2025,
+      "cifra_afaceri": 262235,
+      "profit_net": -6799,
+      "datorii": 18425,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 15955049,
+      "denumire": "RACHITOVEANA SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 23611,
+      "nr_salariati": null
+    },
+    {
+      "cui": 27306940,
+      "denumire": "SERVICII COMUNALE SIRET SA",
+      "an": 2025,
+      "cifra_afaceri": 1282685,
+      "profit_net": -187165,
+      "datorii": 404548,
+      "nr_salariati": 21
+    },
+    {
+      "cui": 41144445,
+      "denumire": "TRANSPORT PUBLIC URBAN BECLEAN S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1284298,
+      "profit_net": 22589,
+      "datorii": 102574,
+      "nr_salariati": 13
+    },
+    {
+      "cui": 30859584,
+      "denumire": "VALSALUB SRL",
+      "an": 2025,
+      "cifra_afaceri": 547449,
+      "profit_net": 3053,
+      "datorii": 87329,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 41509010,
+      "denumire": "REGIO SERV TRANSPORT S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 3120760,
+      "profit_net": 27070,
+      "datorii": 1150970,
+      "nr_salariati": 17
+    },
+    {
+      "cui": 18454727,
+      "denumire": "SCHILIFT SRL",
+      "an": 2025,
+      "cifra_afaceri": 12624,
+      "profit_net": -228613,
+      "datorii": 11482,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 34376183,
+      "denumire": "LA SALA PARC SRL",
+      "an": 2025,
+      "cifra_afaceri": 766232,
+      "profit_net": 79848,
+      "datorii": 296950,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 12530884,
+      "denumire": "STATIUNEA OGLINZI SA",
+      "an": 2025,
+      "cifra_afaceri": 0,
+      "profit_net": 171493,
+      "datorii": 0,
+      "nr_salariati": 0
+    },
+    {
+      "cui": 16217287,
+      "denumire": "GLOBAL MEDIA EXPERT S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -6320,
+      "datorii": 519530,
+      "nr_salariati": null
+    },
+    {
+      "cui": 26761188,
+      "denumire": "TELEVOL SYSTEMS SA",
+      "an": 2025,
+      "cifra_afaceri": 4587545,
+      "profit_net": 198005,
+      "datorii": 848020,
+      "nr_salariati": 15
+    },
+    {
+      "cui": 45340827,
+      "denumire": "DOM-NUS-AQUA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1454677,
+      "profit_net": -463158,
+      "datorii": 218896,
+      "nr_salariati": 11
+    },
+    {
+      "cui": 35332932,
+      "denumire": "PARC INDUSTRIAL CĂLAN S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 849032,
+      "profit_net": 74873,
+      "datorii": 383670,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 48648024,
+      "denumire": "DEZVOLTAREA SI ADMINISTRAREA PATRIMONIULUI SALONTA S.A.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": 8130,
+      "datorii": 38101,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 32977543,
+      "denumire": "IAŞI INDUSTRIAL PARK SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -560613,
+      "datorii": 76936,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 32410025,
+      "denumire": "SLATINA INDUSTRIAL PARC S.A.",
+      "an": 2025,
+      "cifra_afaceri": 241011,
+      "profit_net": -581108,
+      "datorii": 70465,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 11584282,
+      "denumire": "GOSPODARIRE COMUNALA TINCA SA",
+      "an": 2025,
+      "cifra_afaceri": 1023680,
+      "profit_net": -133325,
+      "datorii": 318404,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 41368620,
+      "denumire": "MĂGURELE SCIENCE PARK S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -2288,
+      "datorii": 182,
+      "nr_salariati": null
+    },
+    {
+      "cui": 20762885,
+      "denumire": "VICTORIA PARC INDUSTRIAL SRL",
+      "an": 2025,
+      "cifra_afaceri": 2539741,
+      "profit_net": 37621,
+      "datorii": 268255,
+      "nr_salariati": 19
+    },
+    {
+      "cui": 44550847,
+      "denumire": "INDUSTRIAL PARK ZERIND WEST S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1500,
+      "profit_net": -470,
+      "datorii": 518,
+      "nr_salariati": null
+    },
+    {
+      "cui": 18588753,
+      "denumire": "PIEŢE REŞIŢA SRL",
+      "an": 2025,
+      "cifra_afaceri": 3059545,
+      "profit_net": -210849,
+      "datorii": 244963,
+      "nr_salariati": 21
+    },
+    {
+      "cui": 1960487,
+      "denumire": "TRIMEC SA",
+      "an": 2025,
+      "cifra_afaceri": 1546673,
+      "profit_net": 328685,
+      "datorii": 216070,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 50111218,
+      "denumire": "SILVANIA PARK S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -1879,
+      "datorii": 0,
+      "nr_salariati": null
+    },
+    {
+      "cui": 1973568,
+      "denumire": "RECONS SA",
+      "an": 2025,
+      "cifra_afaceri": 83052,
+      "profit_net": -105127,
+      "datorii": 3106,
+      "nr_salariati": null
+    },
+    {
+      "cui": 25624425,
+      "denumire": "URBAN-LOCATO SRL",
+      "an": 2025,
+      "cifra_afaceri": 5406535,
+      "profit_net": 201647,
+      "datorii": 553531,
+      "nr_salariati": 31
+    },
+    {
+      "cui": 8359779,
+      "denumire": "SOCIETATEA DE STRATEGIE PENTRU PIATA DE GROS SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -6052,
+      "datorii": 7575,
+      "nr_salariati": null
+    },
+    {
+      "cui": 31629001,
+      "denumire": "HERBA AMBIENT CERMEI SRL",
+      "an": 2025,
+      "cifra_afaceri": 447383,
+      "profit_net": 36442,
+      "datorii": 53341,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 17447489,
+      "denumire": "SERVICII DRAGUSANA SRL",
+      "an": 2025,
+      "cifra_afaceri": 975414,
+      "profit_net": 9263,
+      "datorii": 367651,
+      "nr_salariati": 9
+    },
+    {
+      "cui": 31626366,
+      "denumire": "SECTOR PRESTĂRI SERVICII POTCOAVA SRL",
+      "an": 2025,
+      "cifra_afaceri": 248730,
+      "profit_net": -37945,
+      "datorii": 36035,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 40203667,
+      "denumire": "UTILITĂȚI PUBLICE AFUMAȚI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 206000,
+      "profit_net": -4418,
+      "datorii": 17643,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 27409407,
+      "denumire": "GOSPODĂRIA IZVOARELE SRL",
+      "an": 2025,
+      "cifra_afaceri": 244683,
+      "profit_net": 14674,
+      "datorii": 127946,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 43777753,
+      "denumire": "ADMINISTRATIV SERVICII LIȚA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 205430,
+      "profit_net": -36378,
+      "datorii": 19417,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 38308297,
+      "denumire": "PRES SERV GURA OCNIŢEI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -220,
+      "datorii": 44604,
+      "nr_salariati": null
+    },
+    {
+      "cui": 30486167,
+      "denumire": "CONTIL PREST DĂEŞTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1413395,
+      "profit_net": 77650,
+      "datorii": 317122,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 37868890,
+      "denumire": "SALUB TITU S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 1964706,
+      "profit_net": 91194,
+      "datorii": 160160,
+      "nr_salariati": 21
+    },
+    {
+      "cui": 33745754,
+      "denumire": "SPAŢII VERZI BĂUŢAR CARAŞ-SEVERIN SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 282,
+      "nr_salariati": null
+    },
+    {
+      "cui": 33682729,
+      "denumire": "GOSPODARIRE COMUNALA INDEPENDENTA SRL",
+      "an": 2025,
+      "cifra_afaceri": 172700,
+      "profit_net": -38406,
+      "datorii": 88124,
+      "nr_salariati": 9
+    },
+    {
+      "cui": 28408302,
+      "denumire": "SERVICIU PUBLIC PRESTARI SERVICII BEBA VECHE SRL",
+      "an": 2025,
+      "cifra_afaceri": 225206,
+      "profit_net": 21027,
+      "datorii": 31590,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 48816713,
+      "denumire": "SERVICII EDILITAR GOSPODARESTI CRAIESTI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 119803,
+      "profit_net": 1114,
+      "datorii": 7654,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 27873180,
+      "denumire": "GUGULANIA LAND SRL",
+      "an": 2025,
+      "cifra_afaceri": 3168713,
+      "profit_net": 33598,
+      "datorii": 590269,
+      "nr_salariati": 47
+    },
+    {
+      "cui": 22032410,
+      "denumire": "EDILPREST SRL",
+      "an": 2025,
+      "cifra_afaceri": 2009785,
+      "profit_net": 116105,
+      "datorii": 406206,
+      "nr_salariati": 23
+    },
+    {
+      "cui": 28025730,
+      "denumire": "GOSCOM ZETEA SRL",
+      "an": 2025,
+      "cifra_afaceri": 1898645,
+      "profit_net": -79578,
+      "datorii": 622866,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 34902890,
+      "denumire": "HOT SALUBRITY SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -678,
+      "datorii": 19989,
+      "nr_salariati": null
+    },
+    {
+      "cui": 27304567,
+      "denumire": "SERVICII PUBLICE CARCEA SRL",
+      "an": 2025,
+      "cifra_afaceri": 541938,
+      "profit_net": 71938,
+      "datorii": 72182,
+      "nr_salariati": 9
+    },
+    {
+      "cui": 16086688,
+      "denumire": "PREST SERV PATIRLAGELE SRL",
+      "an": 2025,
+      "cifra_afaceri": 1203602,
+      "profit_net": 2025,
+      "datorii": 82383,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 30558107,
+      "denumire": "SARAIU-PROGRES,DEZVOLTARE,SERVICII SRL",
+      "an": 2025,
+      "cifra_afaceri": 356642,
+      "profit_net": -22575,
+      "datorii": 1727852,
+      "nr_salariati": 7
+    },
+    {
+      "cui": 34693785,
+      "denumire": "SPATII VERZI BEBA VECHE SRL",
+      "an": 2025,
+      "cifra_afaceri": 211748,
+      "profit_net": 17490,
+      "datorii": 19626,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 27519450,
+      "denumire": "S.T. SALTIM SLATINA - TIMIŞ SRL",
+      "an": 2025,
+      "cifra_afaceri": 693835,
+      "profit_net": 11089,
+      "datorii": 11846,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 33909580,
+      "denumire": "CONSTRUCTORUL BĂȚANI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 599352,
+      "profit_net": 6239,
+      "datorii": 65478,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 31001189,
+      "denumire": "PROSALUBRIS SRL",
+      "an": 2025,
+      "cifra_afaceri": 643129,
+      "profit_net": -67195,
+      "datorii": 86452,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 46026645,
+      "denumire": "HOTARPREST S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 75000,
+      "profit_net": -48887,
+      "datorii": 35516,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 32531051,
+      "denumire": "ZELENATA TREVA SRL",
+      "an": 2025,
+      "cifra_afaceri": 231651,
+      "profit_net": 17409,
+      "datorii": 145216,
+      "nr_salariati": 3
+    },
+    {
+      "cui": 27453305,
+      "denumire": "AQUAPREST ARMENIŞ SRL",
+      "an": 2025,
+      "cifra_afaceri": 715207,
+      "profit_net": 2594,
+      "datorii": 99041,
+      "nr_salariati": 10
+    },
+    {
+      "cui": 37190290,
+      "denumire": "PUBLISERV BICAZ SRL",
+      "an": 2025,
+      "cifra_afaceri": 623915,
+      "profit_net": -58182,
+      "datorii": 178401,
+      "nr_salariati": 11
+    },
+    {
+      "cui": 27241930,
+      "denumire": "AMBIENTAL SERVICE CERMEI SRL",
+      "an": 2025,
+      "cifra_afaceri": 268400,
+      "profit_net": 1508,
+      "datorii": 23546,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 37516885,
+      "denumire": "SERVICII PUBLICE LOCALE ROVINARI SRL",
+      "an": 2025,
+      "cifra_afaceri": 4229775,
+      "profit_net": -280771,
+      "datorii": 2144303,
+      "nr_salariati": 59
+    },
+    {
+      "cui": 27325969,
+      "denumire": "POL - COM CARANSEBEŞ SRL",
+      "an": 2025,
+      "cifra_afaceri": 1687219,
+      "profit_net": 49242,
+      "datorii": 220635,
+      "nr_salariati": 29
+    },
+    {
+      "cui": 43828113,
+      "denumire": "SERVICIU DE PAZĂ PODARI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 226000,
+      "profit_net": -11329,
+      "datorii": 19275,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 38634242,
+      "denumire": "HUTA OBEC S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 132350,
+      "profit_net": -36343,
+      "datorii": 60873,
+      "nr_salariati": 2
+    },
+    {
+      "cui": 33237519,
+      "denumire": "BM - DN TORONTAL SRL",
+      "an": 2025,
+      "cifra_afaceri": 1303911,
+      "profit_net": 130513,
+      "datorii": 185915,
+      "nr_salariati": 13
+    },
+    {
+      "cui": 30371485,
+      "denumire": "ŞTEFSALUBSERV SRL",
+      "an": 2025,
+      "cifra_afaceri": 576258,
+      "profit_net": 3025,
+      "datorii": 80086,
+      "nr_salariati": 9
+    },
+    {
+      "cui": 27387074,
+      "denumire": "SERVICIUL PUBLIC DE GOSPODĂRIE COMUNALĂ SNAGOV SRL",
+      "an": 2025,
+      "cifra_afaceri": 2354673,
+      "profit_net": -218453,
+      "datorii": 353155,
+      "nr_salariati": 27
+    },
+    {
+      "cui": 38660896,
+      "denumire": "SERVICIUL DE BAZĂ PAZĂ ŞI PROTECŢIE S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 974428,
+      "profit_net": 35557,
+      "datorii": 392315,
+      "nr_salariati": 23
+    },
+    {
+      "cui": 26962254,
+      "denumire": "BUFTEA ADMIN CONS SRL",
+      "an": 2025,
+      "cifra_afaceri": 856412,
+      "profit_net": 26680,
+      "datorii": 228265,
+      "nr_salariati": 9
+    },
+    {
+      "cui": 45751873,
+      "denumire": "AGENȚIA DE ACHIZIȚII PUBLICE TIMIȘOARA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 874340,
+      "profit_net": 66755,
+      "datorii": 109577,
+      "nr_salariati": 5
+    },
+    {
+      "cui": 32267317,
+      "denumire": "URBAN ACTIV SERV SRL",
+      "an": 2025,
+      "cifra_afaceri": 2381223,
+      "profit_net": 9479,
+      "datorii": 574983,
+      "nr_salariati": 30
+    },
+    {
+      "cui": 27608930,
+      "denumire": "DIVIZIA DE PAZĂ ŞI ORDINE SJP SRL",
+      "an": 2025,
+      "cifra_afaceri": 4894929,
+      "profit_net": 240483,
+      "datorii": 845555,
+      "nr_salariati": 76
+    },
+    {
+      "cui": 50634152,
+      "denumire": "CLV PREST SERV S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 921729,
+      "profit_net": 11226,
+      "datorii": 79185,
+      "nr_salariati": 13
+    },
+    {
+      "cui": 32111333,
+      "denumire": "MEDICALĂ SFÂNTA CUVIOASĂ PARASCHEVA VOLUNTARI SRL",
+      "an": 2025,
+      "cifra_afaceri": 4134416,
+      "profit_net": 211014,
+      "datorii": 1103478,
+      "nr_salariati": 39
+    },
+    {
+      "cui": 34296440,
+      "denumire": "REGIO INTEGRAL S.A.",
+      "an": 2025,
+      "cifra_afaceri": 1691375,
+      "profit_net": 243237,
+      "datorii": 392452,
+      "nr_salariati": 18
+    },
+    {
+      "cui": 39523889,
+      "denumire": "STRAND IDECIU S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 537855,
+      "profit_net": 45297,
+      "datorii": 89699,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 39526451,
+      "denumire": "PARC INDUSTRIAL BREAZA S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 3036933,
+      "profit_net": 128114,
+      "datorii": 171122,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 42599003,
+      "denumire": "TUTTI WELLNESS S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 240680,
+      "profit_net": -56671,
+      "datorii": 26375,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 24642172,
+      "denumire": "DEZVOLTARE URBANA SRL",
+      "an": 2025,
+      "cifra_afaceri": 1548219,
+      "profit_net": -74467,
+      "datorii": 156121,
+      "nr_salariati": 14
+    },
+    {
+      "cui": 43388543,
+      "denumire": "LUNCA CIGHERULUI-TAUŢ S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": null,
+      "datorii": 431,
+      "nr_salariati": null
+    },
+    {
+      "cui": 37019312,
+      "denumire": "EVENT PETRĂCHIOAIA SRL",
+      "an": 2025,
+      "cifra_afaceri": null,
+      "profit_net": -1755,
+      "datorii": 654132,
+      "nr_salariati": 1
+    },
+    {
+      "cui": 41239820,
+      "denumire": "EDILITAR GOSPODAR CERMEI S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 269220,
+      "profit_net": 15802,
+      "datorii": 21032,
+      "nr_salariati": 4
+    },
+    {
+      "cui": 16830620,
+      "denumire": "BAI COJOCNA SRL",
+      "an": 2025,
+      "cifra_afaceri": 2056807,
+      "profit_net": 33992,
+      "datorii": 351015,
+      "nr_salariati": 12
+    },
+    {
+      "cui": 47168273,
+      "denumire": "FONTANA BALNEO S.R.L.",
+      "an": 2025,
+      "cifra_afaceri": 8961399,
+      "profit_net": 344339,
+      "datorii": 1297687,
+      "nr_salariati": 48
     }
   ]
 }

@@ -13,7 +13,9 @@
       "conturi_ron": 0,
       "venituri_ron": 402133,
       "datorii_ron": 0,
-      "auto": 0
+      "auto": 0,
+      "an": 2021,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -25,7 +27,9 @@
       "datorii_ron": 302102,
       "auto": 5,
       "nume": "ADAM RODICA BIANCA",
-      "nume_norm": "ADAM BIANCA RODICA"
+      "nume_norm": "ADAM BIANCA RODICA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -37,7 +41,9 @@
       "datorii_ron": 218938,
       "auto": 5,
       "nume": "ADAM BIANCA RODICA",
-      "nume_norm": "ADAM BIANCA RODICA"
+      "nume_norm": "ADAM BIANCA RODICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -49,7 +55,9 @@
       "datorii_ron": 218938,
       "auto": 5,
       "nume": "ADAM BIANCA RODICA",
-      "nume_norm": "ADAM BIANCA RODICA"
+      "nume_norm": "ADAM BIANCA RODICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -61,7 +69,9 @@
       "datorii_ron": 302102,
       "auto": 5,
       "nume": "ADAM RODICA BIANCA",
-      "nume_norm": "ADAM BIANCA RODICA"
+      "nume_norm": "ADAM BIANCA RODICA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -73,7 +83,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "OGLAKCI MIHAELA CARMEN",
-      "nume_norm": "CARMEN MIHAELA OGLAKCI"
+      "nume_norm": "CARMEN MIHAELA OGLAKCI",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -85,7 +97,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "OGLAKCI MIHAELA CARMEN",
-      "nume_norm": "CARMEN MIHAELA OGLAKCI"
+      "nume_norm": "CARMEN MIHAELA OGLAKCI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -97,7 +111,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "OGLAKCI MIHAELA CARMEN",
-      "nume_norm": "CARMEN MIHAELA OGLAKCI"
+      "nume_norm": "CARMEN MIHAELA OGLAKCI",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -109,7 +125,9 @@
       "datorii_ron": 218938,
       "auto": 5,
       "nume": "ADAM BIANCA RODICA",
-      "nume_norm": "ADAM BIANCA RODICA"
+      "nume_norm": "ADAM BIANCA RODICA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -121,7 +139,9 @@
       "datorii_ron": 287850,
       "auto": 4,
       "nume": "ANTONESCU ANCA STEFANIA",
-      "nume_norm": "ANCA ANTONESCU STEFANIA"
+      "nume_norm": "ANCA ANTONESCU STEFANIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -133,7 +153,9 @@
       "datorii_ron": 299200,
       "auto": 5,
       "nume": "BULIGA TOADER",
-      "nume_norm": "BULIGA TOADER"
+      "nume_norm": "BULIGA TOADER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -145,7 +167,9 @@
       "datorii_ron": 328050,
       "auto": 4,
       "nume": "CIURTIN MIHAELA ELENA",
-      "nume_norm": "CIURTIN ELENA MIHAELA"
+      "nume_norm": "CIURTIN ELENA MIHAELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -157,7 +181,9 @@
       "datorii_ron": 294101,
       "auto": 4,
       "nume": "CIURTIN MIHAELA ELENA",
-      "nume_norm": "CIURTIN ELENA MIHAELA"
+      "nume_norm": "CIURTIN ELENA MIHAELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -169,7 +195,25 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "DUMITRESCU GHEORGHE DANIEL",
-      "nume_norm": "DANIEL DUMITRESCU GHEORGHE"
+      "nume_norm": "DANIEL DUMITRESCU GHEORGHE",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul de Finante",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "2500",
+          "valoare": "250000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul de Finante",
+          "calitate": "Hârtii de valoare",
+          "nr": "735",
+          "valoare": "73500 EUR"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -181,7 +225,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "DUTA ANDRA MARILENA",
-      "nume_norm": "ANDRA DUTA MARILENA"
+      "nume_norm": "ANDRA DUTA MARILENA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -193,7 +239,9 @@
       "datorii_ron": 390000,
       "auto": 5,
       "nume": "DUMINECIANU RALUCA GABRIELA",
-      "nume_norm": "DUMINECIANU GABRIELA RALUCA"
+      "nume_norm": "DUMINECIANU GABRIELA RALUCA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -205,7 +253,9 @@
       "datorii_ron": 390000,
       "auto": 5,
       "nume": "DUMINECIANU RALUCA GABRIELA",
-      "nume_norm": "DUMINECIANU GABRIELA RALUCA"
+      "nume_norm": "DUMINECIANU GABRIELA RALUCA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -217,7 +267,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "FLAVIUS VASILE",
-      "nume_norm": "FLAVIUS VASILE"
+      "nume_norm": "FLAVIUS VASILE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -229,7 +281,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "FLAVIUS VASILE",
-      "nume_norm": "FLAVIUS VASILE"
+      "nume_norm": "FLAVIUS VASILE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -241,7 +295,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MANOLACHE MADALINA LACRAMIOARA",
-      "nume_norm": "LACRAMIOARA MADALINA MANOLACHE"
+      "nume_norm": "LACRAMIOARA MADALINA MANOLACHE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -253,7 +309,9 @@
       "datorii_ron": 239952,
       "auto": 4,
       "nume": "MARASESCU MIHAELA",
-      "nume_norm": "MARASESCU MIHAELA"
+      "nume_norm": "MARASESCU MIHAELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -265,7 +323,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "OPREA MICA",
-      "nume_norm": "MICA OPREA"
+      "nume_norm": "MICA OPREA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -277,7 +337,9 @@
       "datorii_ron": 133241,
       "auto": 6,
       "nume": "OTULESCU TUDOR ALEXANDRU",
-      "nume_norm": "ALEXANDRU OTULESCU TUDOR"
+      "nume_norm": "ALEXANDRU OTULESCU TUDOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -289,7 +351,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHEORGHE",
-      "nume_norm": "GHEORGHE"
+      "nume_norm": "GHEORGHE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -301,7 +365,9 @@
       "datorii_ron": 630000,
       "auto": 4,
       "nume": "POCORA MIHAIL SILVIU",
-      "nume_norm": "MIHAIL POCORA SILVIU"
+      "nume_norm": "MIHAIL POCORA SILVIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -313,7 +379,9 @@
       "datorii_ron": 47470,
       "auto": 5,
       "nume": "STAN ANCA MARIA",
-      "nume_norm": "ANCA MARIA STAN"
+      "nume_norm": "ANCA MARIA STAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -325,7 +393,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "STIRBU SERGIU MARIUS",
-      "nume_norm": "MARIUS SERGIU STIRBU"
+      "nume_norm": "MARIUS SERGIU STIRBU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -337,7 +407,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "TODECI ANDRA MARIA",
-      "nume_norm": "ANDRA MARIA TODECI"
+      "nume_norm": "ANDRA MARIA TODECI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -349,7 +421,9 @@
       "datorii_ron": 75750,
       "auto": 5,
       "nume": "TOZA CLAUDINA LIVIA",
-      "nume_norm": "CLAUDINA LIVIA TOZA"
+      "nume_norm": "CLAUDINA LIVIA TOZA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -361,7 +435,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "VIDA MARIA ROXANA",
-      "nume_norm": "MARIA ROXANA VIDA"
+      "nume_norm": "MARIA ROXANA VIDA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Economiei, Digitalizării, Antreprenoriatului și Turismului",
@@ -373,7 +449,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ZAMFIR ELENA ROXANA",
-      "nume_norm": "ELENA ROXANA ZAMFIR"
+      "nume_norm": "ELENA ROXANA ZAMFIR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
@@ -383,7 +461,9 @@
       "conturi_ron": 0,
       "venituri_ron": 82809,
       "datorii_ron": 82809,
-      "auto": 0
+      "auto": 0,
+      "an": null,
+      "an_sursa": null
     },
     {
       "institutie": "Ministerul Dezvoltării, Lucrărilor Publice și Administrației",
@@ -393,7 +473,9 @@
       "conturi_ron": 0,
       "venituri_ron": 242008,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -405,7 +487,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "AA FB FA FB BE",
-      "nume_norm": "AA BE FA FB FB"
+      "nume_norm": "AA BE FA FB FB",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -417,7 +501,9 @@
       "datorii_ron": 350000,
       "auto": 4,
       "nume": "EDE CC FB BDB",
-      "nume_norm": "BDB CC EDE FB"
+      "nume_norm": "BDB CC EDE FB",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -429,7 +515,102 @@
       "datorii_ron": 388683,
       "auto": 5,
       "nume": "EAE EFA EC DE",
-      "nume_norm": "DE EAE EC EFA"
+      "nume_norm": "DE EAE EC EFA",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ABN Systems International",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "400",
+          "valoare": "1200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ALRO S.A",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "1000",
+          "valoare": "1350 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Alumil Rom Industry",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "12800",
+          "valoare": "21824 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Arobs Transilvania Software",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "1000",
+          "valoare": "886 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Biofarm",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "9000",
+          "valoare": "5454 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BRD Groupe Societe Generale",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "500",
+          "valoare": "6630 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Societatea Energie Electrica",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "500",
+          "valoare": "4175 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Fondul Proprietatea",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "6800",
+          "valoare": "13396 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Holde Agri Invest",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "1300",
+          "valoare": "2126 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ihunt Technology Import-Export",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "9000",
+          "valoare": "5409 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Deutsche Lufthansa Ag",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100",
+          "valoare": "2968 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Life is Hard",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "2000",
+          "valoare": "7180 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Med Life",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "620",
+          "valoare": "12028 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Investițiilor și Proiectelor Europene",
@@ -441,7 +622,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "EC AF EAD",
-      "nume_norm": "AF EAD EC"
+      "nume_norm": "AF EAD EC",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -453,7 +636,9 @@
       "datorii_ron": 230000,
       "auto": 5,
       "nume": "ȘERBAN LUCIA AMALIA LENPFXO",
-      "nume_norm": "AMALIA LENPFXO LUCIA SERBAN"
+      "nume_norm": "AMALIA LENPFXO LUCIA SERBAN",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -465,7 +650,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ȘUICU GEORGE IONUȚ ZGK",
-      "nume_norm": "GEORGE IONUT SUICU ZGK"
+      "nume_norm": "GEORGE IONUT SUICU ZGK",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -477,7 +664,9 @@
       "datorii_ron": 275048,
       "auto": 6,
       "nume": "ABALAȘI RĂZVAN BOGDAN",
-      "nume_norm": "ABALASI BOGDAN RAZVAN"
+      "nume_norm": "ABALASI BOGDAN RAZVAN",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -489,7 +678,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ACHIMESCU ION",
-      "nume_norm": "ACHIMESCU ION"
+      "nume_norm": "ACHIMESCU ION",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -501,7 +692,9 @@
       "datorii_ron": 460757,
       "auto": 6,
       "nume": "ACHIMESCU ION",
-      "nume_norm": "ACHIMESCU ION"
+      "nume_norm": "ACHIMESCU ION",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -513,7 +706,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "AL HASOON BUGARU ANA MARIA",
-      "nume_norm": "AL ANA BUGARU HASOON MARIA"
+      "nume_norm": "AL ANA BUGARU HASOON MARIA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -525,7 +720,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "AL HASOON BUGARU ANA MARIA",
-      "nume_norm": "AL ANA BUGARU HASOON MARIA"
+      "nume_norm": "AL ANA BUGARU HASOON MARIA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -537,7 +734,9 @@
       "datorii_ron": 36000,
       "auto": 4,
       "nume": "ALBU CONSTANTINA",
-      "nume_norm": "ALBU CONSTANTINA"
+      "nume_norm": "ALBU CONSTANTINA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -549,7 +748,9 @@
       "datorii_ron": 36000,
       "auto": 4,
       "nume": "ALBU CONSTANTINA",
-      "nume_norm": "ALBU CONSTANTINA"
+      "nume_norm": "ALBU CONSTANTINA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -561,7 +762,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ALECU LEANA ANDREEA",
-      "nume_norm": "ALECU ANDREEA LEANA"
+      "nume_norm": "ALECU ANDREEA LEANA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -573,7 +776,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ALECU ILEANA ANDREEA",
-      "nume_norm": "ALECU ANDREEA ILEANA"
+      "nume_norm": "ALECU ANDREEA ILEANA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -585,7 +790,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ALECU ILEANA ANDREEA",
-      "nume_norm": "ALECU ANDREEA ILEANA"
+      "nume_norm": "ALECU ANDREEA ILEANA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -597,7 +804,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ALECU SILVIANA",
-      "nume_norm": "ALECU SILVIANA"
+      "nume_norm": "ALECU SILVIANA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -609,7 +818,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ALEXANDRESCU FLORENTINA DANIELA",
-      "nume_norm": "ALEXANDRESCU DANIELA FLORENTINA"
+      "nume_norm": "ALEXANDRESCU DANIELA FLORENTINA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -621,7 +832,18 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ALEXANDRESCU SORIN TIBERIU",
-      "nume_norm": "ALEXANDRESCU SORIN TIBERIU"
+      "nume_norm": "ALEXANDRESCU SORIN TIBERIU",
+      "an": 2023,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MINISTERUL FINANTELOR",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "1800",
+          "valoare": "180000 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -633,7 +855,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ALEXANDRESCU FLORENTINA DANIELA",
-      "nume_norm": "ALEXANDRESCU DANIELA FLORENTINA"
+      "nume_norm": "ALEXANDRESCU DANIELA FLORENTINA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -645,7 +869,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ALEXANDRESCU SORIN TIBERIU",
-      "nume_norm": "ALEXANDRESCU SORIN TIBERIU"
+      "nume_norm": "ALEXANDRESCU SORIN TIBERIU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -657,7 +883,9 @@
       "datorii_ron": 275000,
       "auto": 4,
       "nume": "AMZA MONICA ILEANA",
-      "nume_norm": "AMZA ILEANA MONICA"
+      "nume_norm": "AMZA ILEANA MONICA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -669,7 +897,9 @@
       "datorii_ron": 275000,
       "auto": 4,
       "nume": "AMZA MONICA ILEANA",
-      "nume_norm": "AMZA ILEANA MONICA"
+      "nume_norm": "AMZA ILEANA MONICA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -681,7 +911,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANDRA MARIUS DANIEL",
-      "nume_norm": "ANDRA DANIEL MARIUS"
+      "nume_norm": "ANDRA DANIEL MARIUS",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -693,7 +925,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANDRA MARIUS DANIEL",
-      "nume_norm": "ANDRA DANIEL MARIUS"
+      "nume_norm": "ANDRA DANIEL MARIUS",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -705,7 +939,9 @@
       "datorii_ron": 50000,
       "auto": 4,
       "nume": "ANDREESCU DRAGOȘ VALENTIN",
-      "nume_norm": "ANDREESCU DRAGOS VALENTIN"
+      "nume_norm": "ANDREESCU DRAGOS VALENTIN",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -717,7 +953,9 @@
       "datorii_ron": 50000,
       "auto": 4,
       "nume": "ANDREESCU DRAGOS VALENTIN",
-      "nume_norm": "ANDREESCU DRAGOS VALENTIN"
+      "nume_norm": "ANDREESCU DRAGOS VALENTIN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -729,7 +967,9 @@
       "datorii_ron": 463231,
       "auto": 7,
       "nume": "ANGELESCU MIRELA",
-      "nume_norm": "ANGELESCU MIRELA"
+      "nume_norm": "ANGELESCU MIRELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -741,7 +981,9 @@
       "datorii_ron": 463231,
       "auto": 7,
       "nume": "ANGELESCU MIRELA",
-      "nume_norm": "ANGELESCU MIRELA"
+      "nume_norm": "ANGELESCU MIRELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -753,7 +995,9 @@
       "datorii_ron": 110000,
       "auto": 4,
       "nume": "ANGHELACHE VICTORIȚA",
-      "nume_norm": "ANGHELACHE VICTORITA"
+      "nume_norm": "ANGHELACHE VICTORITA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -765,7 +1009,9 @@
       "datorii_ron": 110000,
       "auto": 4,
       "nume": "ANGHELACHE VICTORITA",
-      "nume_norm": "ANGHELACHE VICTORITA"
+      "nume_norm": "ANGHELACHE VICTORITA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -777,7 +1023,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ANGHELOIU GABRIELA",
-      "nume_norm": "ANGHELOIU GABRIELA"
+      "nume_norm": "ANGHELOIU GABRIELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -789,7 +1037,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ANGHELOIU GABRIELA",
-      "nume_norm": "ANGHELOIU GABRIELA"
+      "nume_norm": "ANGHELOIU GABRIELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -801,7 +1051,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANGHELUȚĂ CARMEN MIHAELA",
-      "nume_norm": "ANGHELUTA CARMEN MIHAELA"
+      "nume_norm": "ANGHELUTA CARMEN MIHAELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -813,7 +1065,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "APOSTOL GABRIELA",
-      "nume_norm": "APOSTOL GABRIELA"
+      "nume_norm": "APOSTOL GABRIELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -825,7 +1079,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "APOSTOL GABRIELA",
-      "nume_norm": "APOSTOL GABRIELA"
+      "nume_norm": "APOSTOL GABRIELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -837,7 +1093,9 @@
       "datorii_ron": 84103,
       "auto": 4,
       "nume": "APOSTOL LIVIA MIHAELA",
-      "nume_norm": "APOSTOL LIVIA MIHAELA"
+      "nume_norm": "APOSTOL LIVIA MIHAELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -849,7 +1107,9 @@
       "datorii_ron": 329641,
       "auto": 5,
       "nume": "ARAMĂ SILVIA",
-      "nume_norm": "ARAMA SILVIA"
+      "nume_norm": "ARAMA SILVIA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -861,7 +1121,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARDELEAN ADRIAN CRISTIAN RECTIFICATIVĂ",
-      "nume_norm": "ADRIAN ARDELEAN CRISTIAN RECTIFICATIVA"
+      "nume_norm": "ADRIAN ARDELEAN CRISTIAN RECTIFICATIVA",
+      "an": 2023,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezoreria Națională",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "101000",
+          "valoare": "101000 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -873,7 +1144,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARDELEAN ADRIAN CRISTIAN",
-      "nume_norm": "ADRIAN ARDELEAN CRISTIAN"
+      "nume_norm": "ADRIAN ARDELEAN CRISTIAN",
+      "an": 2023,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezoreria Națională",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "101000",
+          "valoare": "101000 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -885,7 +1167,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARDELEAN ADRIAN CRISTIAN",
-      "nume_norm": "ADRIAN ARDELEAN CRISTIAN"
+      "nume_norm": "ADRIAN ARDELEAN CRISTIAN",
+      "an": 2023,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezoreria Națională",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "101000",
+          "valoare": "101000 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -897,7 +1190,9 @@
       "datorii_ron": 481875,
       "auto": 6,
       "nume": "BĂDICU CORNEL",
-      "nume_norm": "BADICU CORNEL"
+      "nume_norm": "BADICU CORNEL",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -909,7 +1204,9 @@
       "datorii_ron": 202000,
       "auto": 4,
       "nume": "BĂDILĂ DĂNUȚ",
-      "nume_norm": "BADILA DANUT"
+      "nume_norm": "BADILA DANUT",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -921,7 +1218,9 @@
       "datorii_ron": 86022,
       "auto": 5,
       "nume": "BĂLAN ANGELA",
-      "nume_norm": "ANGELA BALAN"
+      "nume_norm": "ANGELA BALAN",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -933,7 +1232,9 @@
       "datorii_ron": 86022,
       "auto": 5,
       "nume": "BĂLAN ANGELA",
-      "nume_norm": "ANGELA BALAN"
+      "nume_norm": "ANGELA BALAN",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -945,7 +1246,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BĂLCESCU CONSTANTINA DORA",
-      "nume_norm": "BALCESCU CONSTANTINA DORA"
+      "nume_norm": "BALCESCU CONSTANTINA DORA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -957,7 +1260,9 @@
       "datorii_ron": 47000,
       "auto": 5,
       "nume": "BĂTRÂNU AURA PETRICA",
-      "nume_norm": "AURA BATRANU PETRICA"
+      "nume_norm": "AURA BATRANU PETRICA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -969,7 +1274,9 @@
       "datorii_ron": 17000,
       "auto": 5,
       "nume": "BADEA IONELA RAMONA",
-      "nume_norm": "BADEA IONELA RAMONA"
+      "nume_norm": "BADEA IONELA RAMONA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -981,7 +1288,9 @@
       "datorii_ron": 17000,
       "auto": 5,
       "nume": "BADEA IONELA RAMONA",
-      "nume_norm": "BADEA IONELA RAMONA"
+      "nume_norm": "BADEA IONELA RAMONA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -993,7 +1302,9 @@
       "datorii_ron": 481875,
       "auto": 6,
       "nume": "BADICU CORNEL",
-      "nume_norm": "BADICU CORNEL"
+      "nume_norm": "BADICU CORNEL",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1005,7 +1316,9 @@
       "datorii_ron": 481875,
       "auto": 6,
       "nume": "BADICU CORNEL RECTIFICATIVA",
-      "nume_norm": "BADICU CORNEL RECTIFICATIVA"
+      "nume_norm": "BADICU CORNEL RECTIFICATIVA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1017,7 +1330,9 @@
       "datorii_ron": 202000,
       "auto": 4,
       "nume": "BADILA DANUT",
-      "nume_norm": "BADILA DANUT"
+      "nume_norm": "BADILA DANUT",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1029,7 +1344,9 @@
       "datorii_ron": 86022,
       "auto": 5,
       "nume": "BALAN ANGELA",
-      "nume_norm": "ANGELA BALAN"
+      "nume_norm": "ANGELA BALAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1041,7 +1358,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BALCESCU CONSTANTINA DORA",
-      "nume_norm": "BALCESCU CONSTANTINA DORA"
+      "nume_norm": "BALCESCU CONSTANTINA DORA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1053,7 +1372,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BARBU GABRIELA VALENTINA",
-      "nume_norm": "BARBU GABRIELA VALENTINA"
+      "nume_norm": "BARBU GABRIELA VALENTINA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1065,7 +1386,9 @@
       "datorii_ron": 277750,
       "auto": 4,
       "nume": "BARBU GEORGIANA LAURA",
-      "nume_norm": "BARBU GEORGIANA LAURA"
+      "nume_norm": "BARBU GEORGIANA LAURA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1077,7 +1400,9 @@
       "datorii_ron": 277750,
       "auto": 4,
       "nume": "BARBU GEORGIANA LAURA",
-      "nume_norm": "BARBU GEORGIANA LAURA"
+      "nume_norm": "BARBU GEORGIANA LAURA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1089,7 +1414,9 @@
       "datorii_ron": 277750,
       "auto": 4,
       "nume": "BARBU GEORGIANA LAURA",
-      "nume_norm": "BARBU GEORGIANA LAURA"
+      "nume_norm": "BARBU GEORGIANA LAURA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1101,7 +1428,9 @@
       "datorii_ron": 277750,
       "auto": 4,
       "nume": "BARBU GEORGIANA LAURA",
-      "nume_norm": "BARBU GEORGIANA LAURA"
+      "nume_norm": "BARBU GEORGIANA LAURA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1113,7 +1442,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BARBU GABRIELA VALENTINA",
-      "nume_norm": "BARBU GABRIELA VALENTINA"
+      "nume_norm": "BARBU GABRIELA VALENTINA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1125,7 +1456,9 @@
       "datorii_ron": 90000,
       "auto": 5,
       "nume": "BARDOȘ CARMEN MIHAELA",
-      "nume_norm": "BARDOS CARMEN MIHAELA"
+      "nume_norm": "BARDOS CARMEN MIHAELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1137,7 +1470,9 @@
       "datorii_ron": 90000,
       "auto": 5,
       "nume": "BARDOȘ CARMEN MIHAELA",
-      "nume_norm": "BARDOS CARMEN MIHAELA"
+      "nume_norm": "BARDOS CARMEN MIHAELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1149,7 +1484,9 @@
       "datorii_ron": 90000,
       "auto": 5,
       "nume": "BARDOȘ CARMEN MIHAELA",
-      "nume_norm": "BARDOS CARMEN MIHAELA"
+      "nume_norm": "BARDOS CARMEN MIHAELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1161,7 +1498,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BARDORS CARMEN MIHAELA",
-      "nume_norm": "BARDORS CARMEN MIHAELA"
+      "nume_norm": "BARDORS CARMEN MIHAELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1173,7 +1512,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BARDOS CARMEN MIHAELA",
-      "nume_norm": "BARDOS CARMEN MIHAELA"
+      "nume_norm": "BARDOS CARMEN MIHAELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1185,7 +1526,39 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BARON ANDREEA ELENA",
-      "nume_norm": "ANDREEA BARON ELENA"
+      "nume_norm": "ANDREEA BARON ELENA",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ERSTE GROUP BANK",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "228",
+          "valoare": "9416 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor Publice",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "864",
+          "valoare": "86400 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor Publice",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "12",
+          "valoare": "24000 USD"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor Publice",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "901255",
+          "valoare": "901255 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1197,7 +1570,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BARON ANDREEA ELENA",
-      "nume_norm": "ANDREEA BARON ELENA"
+      "nume_norm": "ANDREEA BARON ELENA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1209,7 +1584,9 @@
       "datorii_ron": 47000,
       "auto": 5,
       "nume": "BATRANU AURA PETRICA",
-      "nume_norm": "AURA BATRANU PETRICA"
+      "nume_norm": "AURA BATRANU PETRICA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1221,7 +1598,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BIBU RĂZVAN ION",
-      "nume_norm": "BIBU ION RAZVAN"
+      "nume_norm": "BIBU ION RAZVAN",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1233,7 +1612,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BIBU RAZVAN ION",
-      "nume_norm": "BIBU ION RAZVAN"
+      "nume_norm": "BIBU ION RAZVAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1245,7 +1626,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BICĂ GABRIELA",
-      "nume_norm": "BICA GABRIELA"
+      "nume_norm": "BICA GABRIELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1257,7 +1640,9 @@
       "datorii_ron": 87256,
       "auto": 4,
       "nume": "BICA GABRIELA",
-      "nume_norm": "BICA GABRIELA"
+      "nume_norm": "BICA GABRIELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1269,7 +1654,9 @@
       "datorii_ron": 264600,
       "auto": 6,
       "nume": "BIRCHI ADREEA CAMELIA",
-      "nume_norm": "ADREEA BIRCHI CAMELIA"
+      "nume_norm": "ADREEA BIRCHI CAMELIA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1281,7 +1668,9 @@
       "datorii_ron": 264600,
       "auto": 6,
       "nume": "BIRCHI ANDREEA CAMELIA",
-      "nume_norm": "ANDREEA BIRCHI CAMELIA"
+      "nume_norm": "ANDREEA BIRCHI CAMELIA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1293,7 +1682,9 @@
       "datorii_ron": 743601,
       "auto": 5,
       "nume": "BLIDARU TEODOR CRISTIAN",
-      "nume_norm": "BLIDARU CRISTIAN TEODOR"
+      "nume_norm": "BLIDARU CRISTIAN TEODOR",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1305,7 +1696,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BOBE GRATIELA FABIELA",
-      "nume_norm": "BOBE FABIELA GRATIELA"
+      "nume_norm": "BOBE FABIELA GRATIELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Sănătății",
@@ -1317,7 +1710,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "BOBE GRAȚIELA FABIELA",
-      "nume_norm": "BOBE FABIELA GRATIELA"
+      "nume_norm": "BOBE FABIELA GRATIELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Culturii",
@@ -1329,7 +1724,39 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CAJAL",
-      "nume_norm": "CAJAL"
+      "nume_norm": "CAJAL",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_2",
+          "entitate": "Fundatia Nicolae Cajal",
+          "calitate": "Altele Presedinte",
+          "nr": "",
+          "valoare": "0 RON"
+        },
+        {
+          "sursa": "interese_2",
+          "entitate": "Scoala Lauder",
+          "calitate": "Altele Membru de conducere",
+          "nr": "",
+          "valoare": "0 RON"
+        },
+        {
+          "sursa": "interese_2",
+          "entitate": "Federatia Comunitatii Evreiesti",
+          "calitate": "Altele Membru de conducere Comitetul Director",
+          "nr": "",
+          "valoare": "21913 RON"
+        },
+        {
+          "sursa": "interese_2",
+          "entitate": "Academia Romana Fundatia Familiei Menachem H Elias",
+          "calitate": "Altele Director administrator delegat si membru in Consiliul Director",
+          "nr": "",
+          "valoare": "221904 RON"
+        }
+      ]
     },
     {
       "institutie": "Ministerul Culturii",
@@ -1341,7 +1768,9 @@
       "datorii_ron": 27490,
       "auto": 6,
       "nume": "DEMETER",
-      "nume_norm": "DEMETER"
+      "nume_norm": "DEMETER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Ministerul Culturii",
@@ -1353,7 +1782,9 @@
       "datorii_ron": 27490,
       "auto": 6,
       "nume": "DEMETER",
-      "nume_norm": "DEMETER"
+      "nume_norm": "DEMETER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1365,7 +1796,9 @@
       "datorii_ron": 102049,
       "auto": 5,
       "nume": "DA PRICOPE ELENA",
-      "nume_norm": "DA ELENA PRICOPE"
+      "nume_norm": "DA ELENA PRICOPE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1377,7 +1810,9 @@
       "datorii_ron": 102049,
       "auto": 5,
       "nume": "DA PRICOPE ELENA",
-      "nume_norm": "DA ELENA PRICOPE"
+      "nume_norm": "DA ELENA PRICOPE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1387,7 +1822,9 @@
       "conturi_ron": 0,
       "venituri_ron": 292215,
       "datorii_ron": 439107,
-      "auto": 7
+      "auto": 7,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1397,7 +1834,9 @@
       "conturi_ron": 0,
       "venituri_ron": 107845,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1407,7 +1846,9 @@
       "conturi_ron": 0,
       "venituri_ron": 107845,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1417,7 +1858,9 @@
       "conturi_ron": 0,
       "venituri_ron": 196188,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1427,7 +1870,9 @@
       "conturi_ron": 0,
       "venituri_ron": 100287,
       "datorii_ron": 313500,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1437,7 +1882,9 @@
       "conturi_ron": 0,
       "venituri_ron": 140566,
       "datorii_ron": 441127,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1447,7 +1894,9 @@
       "conturi_ron": 0,
       "venituri_ron": 99574,
       "datorii_ron": 234110,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1457,7 +1906,9 @@
       "conturi_ron": 0,
       "venituri_ron": 140001,
       "datorii_ron": 100734,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1467,7 +1918,9 @@
       "conturi_ron": 0,
       "venituri_ron": 54251,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1477,7 +1930,9 @@
       "conturi_ron": 0,
       "venituri_ron": 60135,
       "datorii_ron": 68522,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1487,7 +1942,9 @@
       "conturi_ron": 0,
       "venituri_ron": 155781,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1497,7 +1954,9 @@
       "conturi_ron": 0,
       "venituri_ron": 72435,
       "datorii_ron": 30300,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1507,7 +1966,9 @@
       "conturi_ron": 0,
       "venituri_ron": 190334,
       "datorii_ron": 238921,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1517,7 +1978,9 @@
       "conturi_ron": 0,
       "venituri_ron": 125800,
       "datorii_ron": 70200,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1527,7 +1990,9 @@
       "conturi_ron": 0,
       "venituri_ron": 148640,
       "datorii_ron": 0,
-      "auto": 7
+      "auto": 7,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1537,7 +2002,9 @@
       "conturi_ron": 0,
       "venituri_ron": 164880,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1547,7 +2014,9 @@
       "conturi_ron": 0,
       "venituri_ron": 294668,
       "datorii_ron": 652500,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1557,7 +2026,9 @@
       "conturi_ron": 0,
       "venituri_ron": 49762,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1567,7 +2038,9 @@
       "conturi_ron": 0,
       "venituri_ron": 294668,
       "datorii_ron": 652500,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1577,7 +2050,9 @@
       "conturi_ron": 0,
       "venituri_ron": 102933,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1587,7 +2062,9 @@
       "conturi_ron": 0,
       "venituri_ron": 294132,
       "datorii_ron": 595900,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1599,7 +2076,9 @@
       "datorii_ron": 247154,
       "auto": 6,
       "nume": "ABIBULA MEMET VIDAL SEF SERVICIU CT",
-      "nume_norm": "ABIBULA CT MEMET SEF SERVICIU VIDAL"
+      "nume_norm": "ABIBULA CT MEMET SEF SERVICIU VIDAL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1611,7 +2090,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "ANDRAS ANGELICA VOICHITA REGISTRATOR HD",
-      "nume_norm": "ANDRAS ANGELICA HD REGISTRATOR VOICHITA"
+      "nume_norm": "ANDRAS ANGELICA HD REGISTRATOR VOICHITA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1623,7 +2104,9 @@
       "datorii_ron": 30300,
       "auto": 5,
       "nume": "ANDRONACHE GABRIELA ELENA REGISTRATOR IS",
-      "nume_norm": "ANDRONACHE ELENA GABRIELA IS REGISTRATOR"
+      "nume_norm": "ANDRONACHE ELENA GABRIELA IS REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1635,7 +2118,9 @@
       "datorii_ron": 29000,
       "auto": 5,
       "nume": "ANTON ANCA LAURA REGISTRATOR BH",
-      "nume_norm": "ANCA ANTON BH LAURA REGISTRATOR"
+      "nume_norm": "ANCA ANTON BH LAURA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1647,7 +2132,9 @@
       "datorii_ron": 142620,
       "auto": 4,
       "nume": "ARION DIANA ADRIANA REGISTRATOR AB",
-      "nume_norm": "AB ADRIANA ARION DIANA REGISTRATOR"
+      "nume_norm": "AB ADRIANA ARION DIANA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1659,7 +2146,18 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "AVRAMUTI AURELIA SIMONA DIRECTOR AR",
-      "nume_norm": "AR AURELIA AVRAMUTI DIRECTOR SIMONA"
+      "nume_norm": "AR AURELIA AVRAMUTI DIRECTOR SIMONA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "STATUL ROMAN",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "70",
+          "valoare": "167906 USD"
+        }
+      ]
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1671,7 +2169,9 @@
       "datorii_ron": 27000,
       "auto": 4,
       "nume": "BABAN MONA GEORGETA DIRECTOR BUCURESTI",
-      "nume_norm": "BABAN BUCURESTI DIRECTOR GEORGETA MONA"
+      "nume_norm": "BABAN BUCURESTI DIRECTOR GEORGETA MONA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1683,7 +2183,9 @@
       "datorii_ron": 50000,
       "auto": 5,
       "nume": "BADEA ADRIANA MIHAELA SEF SERVICIU BUCURESTI",
-      "nume_norm": "ADRIANA BADEA BUCURESTI MIHAELA SEF SERVICIU"
+      "nume_norm": "ADRIANA BADEA BUCURESTI MIHAELA SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1695,7 +2197,9 @@
       "datorii_ron": 130000,
       "auto": 5,
       "nume": "BAIU CAMELIA DIRECTOR TL",
-      "nume_norm": "BAIU CAMELIA DIRECTOR TL"
+      "nume_norm": "BAIU CAMELIA DIRECTOR TL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1707,7 +2211,9 @@
       "datorii_ron": 20000,
       "auto": 5,
       "nume": "BALACIU ALEXANDRU IOAN REGISTRATOR BV",
-      "nume_norm": "ALEXANDRU BALACIU BV IOAN REGISTRATOR"
+      "nume_norm": "ALEXANDRU BALACIU BV IOAN REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1719,7 +2225,9 @@
       "datorii_ron": 40200,
       "auto": 5,
       "nume": "BALAN CATALIN ALIN REGISTRATOR BC",
-      "nume_norm": "ALIN BALAN BC CATALIN REGISTRATOR"
+      "nume_norm": "ALIN BALAN BC CATALIN REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1731,7 +2239,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "BALAN CATALINA IOANA REGISTRATOR IS",
-      "nume_norm": "BALAN CATALINA IOANA IS REGISTRATOR"
+      "nume_norm": "BALAN CATALINA IOANA IS REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1743,7 +2253,9 @@
       "datorii_ron": 388850,
       "auto": 6,
       "nume": "BALAN NICOLETA AUDITOR REGISTRU ONRC",
-      "nume_norm": "AUDITOR BALAN NICOLETA ONRC REGISTRU"
+      "nume_norm": "AUDITOR BALAN NICOLETA ONRC REGISTRU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1755,7 +2267,9 @@
       "datorii_ron": 70000,
       "auto": 6,
       "nume": "BALICA COSMINA DIRECTOR GJ",
-      "nume_norm": "BALICA COSMINA DIRECTOR GJ"
+      "nume_norm": "BALICA COSMINA DIRECTOR GJ",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1767,7 +2281,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BALINT DANIELA REGISTRATOR BH",
-      "nume_norm": "BALINT BH DANIELA REGISTRATOR"
+      "nume_norm": "BALINT BH DANIELA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1779,7 +2295,9 @@
       "datorii_ron": 448200,
       "auto": 5,
       "nume": "BANCULEA DUMITRU DANIEL SEF SERVICIU GJ",
-      "nume_norm": "BANCULEA DANIEL DUMITRU GJ SEF SERVICIU"
+      "nume_norm": "BANCULEA DANIEL DUMITRU GJ SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1791,7 +2309,9 @@
       "datorii_ron": 317600,
       "auto": 6,
       "nume": "BARANIUC GEORGIANA DIRECTOR PH",
-      "nume_norm": "BARANIUC DIRECTOR GEORGIANA PH"
+      "nume_norm": "BARANIUC DIRECTOR GEORGIANA PH",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1803,7 +2323,9 @@
       "datorii_ron": 212100,
       "auto": 4,
       "nume": "BARBIERU MARIANA IRINA FONDURI ONRC DA",
-      "nume_norm": "BARBIERU DA FONDURI IRINA MARIANA ONRC"
+      "nume_norm": "BARBIERU DA FONDURI IRINA MARIANA ONRC",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1815,7 +2337,9 @@
       "datorii_ron": 190000,
       "auto": 5,
       "nume": "BARBU CLAUDIA REGISTRATOR DJ",
-      "nume_norm": "BARBU CLAUDIA DJ REGISTRATOR"
+      "nume_norm": "BARBU CLAUDIA DJ REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1827,7 +2351,9 @@
       "datorii_ron": 131300,
       "auto": 6,
       "nume": "BEBESELEA ANA CARMEN REGISTRATOR SB",
-      "nume_norm": "ANA BEBESELEA CARMEN REGISTRATOR SB"
+      "nume_norm": "ANA BEBESELEA CARMEN REGISTRATOR SB",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1839,7 +2365,9 @@
       "datorii_ron": 190674,
       "auto": 5,
       "nume": "BEJENARIU MIHAELA REGISTRATOR IS",
-      "nume_norm": "BEJENARIU IS MIHAELA REGISTRATOR"
+      "nume_norm": "BEJENARIU IS MIHAELA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1851,7 +2379,9 @@
       "datorii_ron": 166150,
       "auto": 6,
       "nume": "BENTA NICOLETA REGISTRATOR IS",
-      "nume_norm": "BENTA IS NICOLETA REGISTRATOR"
+      "nume_norm": "BENTA IS NICOLETA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1863,7 +2393,9 @@
       "datorii_ron": 108616,
       "auto": 4,
       "nume": "BERCI IRINA GEORGETA REGISTRATOR TM",
-      "nume_norm": "BERCI GEORGETA IRINA REGISTRATOR TM"
+      "nume_norm": "BERCI GEORGETA IRINA REGISTRATOR TM",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1875,7 +2407,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BITA ADRIAN CEZAR ONRC",
-      "nume_norm": "ADRIAN BITA CEZAR ONRC"
+      "nume_norm": "ADRIAN BITA CEZAR ONRC",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1887,7 +2421,9 @@
       "datorii_ron": 26300,
       "auto": 6,
       "nume": "BOGA CARMEN DANIELA REGISTRATOR BV",
-      "nume_norm": "BOGA BV CARMEN DANIELA REGISTRATOR"
+      "nume_norm": "BOGA BV CARMEN DANIELA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1899,7 +2435,9 @@
       "datorii_ron": 236843,
       "auto": 6,
       "nume": "BOLINTIRU MIHAELA REGISTRATOR BUCURESTI",
-      "nume_norm": "BOLINTIRU BUCURESTI MIHAELA REGISTRATOR"
+      "nume_norm": "BOLINTIRU BUCURESTI MIHAELA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1911,7 +2449,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BORSA MONICA SEF SERVICIU BN",
-      "nume_norm": "BN BORSA MONICA SEF SERVICIU"
+      "nume_norm": "BN BORSA MONICA SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1923,7 +2463,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BORSA MONICA SEF SERVICIU BN",
-      "nume_norm": "BN BORSA MONICA SEF SERVICIU"
+      "nume_norm": "BN BORSA MONICA SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1935,7 +2477,9 @@
       "datorii_ron": 220458,
       "auto": 5,
       "nume": "BRANESCU ELENA CERASELA SEF SERVICIU ONRC",
-      "nume_norm": "BRANESCU CERASELA ELENA ONRC SEF SERVICIU"
+      "nume_norm": "BRANESCU CERASELA ELENA ONRC SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1947,7 +2491,9 @@
       "datorii_ron": 64135,
       "auto": 5,
       "nume": "BREBEANU SMARANDA DIRECTOR DB",
-      "nume_norm": "BREBEANU DB DIRECTOR SMARANDA"
+      "nume_norm": "BREBEANU DB DIRECTOR SMARANDA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1959,7 +2505,9 @@
       "datorii_ron": 110000,
       "auto": 7,
       "nume": "BUBATU NICOLETA CERASELA DIRECTOR OT",
-      "nume_norm": "BUBATU CERASELA DIRECTOR NICOLETA OT"
+      "nume_norm": "BUBATU CERASELA DIRECTOR NICOLETA OT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1971,7 +2519,9 @@
       "datorii_ron": 450000,
       "auto": 5,
       "nume": "BUGEAG OVIDIU REGISTRATOR IF",
-      "nume_norm": "BUGEAG IF OVIDIU REGISTRATOR"
+      "nume_norm": "BUGEAG IF OVIDIU REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1983,7 +2533,9 @@
       "datorii_ron": 1042054,
       "auto": 5,
       "nume": "BUGEAG OVIDIU REGISTRATOR RECTIFICATIVA",
-      "nume_norm": "BUGEAG OVIDIU RECTIFICATIVA REGISTRATOR"
+      "nume_norm": "BUGEAG OVIDIU RECTIFICATIVA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -1995,7 +2547,9 @@
       "datorii_ron": 606000,
       "auto": 7,
       "nume": "BUJOREANU ALINA ELENA REGISTRATOR BC",
-      "nume_norm": "ALINA BC BUJOREANU ELENA REGISTRATOR"
+      "nume_norm": "ALINA BC BUJOREANU ELENA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2007,7 +2561,9 @@
       "datorii_ron": 204840,
       "auto": 5,
       "nume": "BUNDA MARIANA REGISTRATOR CJ",
-      "nume_norm": "BUNDA CJ MARIANA REGISTRATOR"
+      "nume_norm": "BUNDA CJ MARIANA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2019,7 +2575,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BUNEA ALEXANDRU REGISTRATOR TM",
-      "nume_norm": "ALEXANDRU BUNEA REGISTRATOR TM"
+      "nume_norm": "ALEXANDRU BUNEA REGISTRATOR TM",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2031,7 +2589,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BURA UGLEAN IRINA SEF SERVICIU",
-      "nume_norm": "BURA IRINA SEF SERVICIU UGLEAN"
+      "nume_norm": "BURA IRINA SEF SERVICIU UGLEAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2043,7 +2603,9 @@
       "datorii_ron": 329304,
       "auto": 7,
       "nume": "BURDESCU BOGDAN MIHAIL DIRECTOR ONRC",
-      "nume_norm": "BOGDAN BURDESCU DIRECTOR MIHAIL ONRC"
+      "nume_norm": "BOGDAN BURDESCU DIRECTOR MIHAIL ONRC",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2055,7 +2617,9 @@
       "datorii_ron": 329304,
       "auto": 7,
       "nume": "BURDESCU VALENTINA DIRECTOR ONRC",
-      "nume_norm": "BURDESCU DIRECTOR ONRC VALENTINA"
+      "nume_norm": "BURDESCU DIRECTOR ONRC VALENTINA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2067,7 +2631,9 @@
       "datorii_ron": 349422,
       "auto": 4,
       "nume": "CAFORIO CRISTINA VIORICA SEF SERVICIU HD",
-      "nume_norm": "CAFORIO CRISTINA HD SEF SERVICIU VIORICA"
+      "nume_norm": "CAFORIO CRISTINA HD SEF SERVICIU VIORICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2079,7 +2645,9 @@
       "datorii_ron": 293961,
       "auto": 4,
       "nume": "CANDALE ANCA MARIA REGISTRATOR SB",
-      "nume_norm": "ANCA CANDALE MARIA REGISTRATOR SB"
+      "nume_norm": "ANCA CANDALE MARIA REGISTRATOR SB",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2091,7 +2659,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CARASEL ADRIAN GABRIEL SEF SERVICIU BUCURESTI",
-      "nume_norm": "ADRIAN BUCURESTI CARASEL GABRIEL SEF SERVICIU"
+      "nume_norm": "ADRIAN BUCURESTI CARASEL GABRIEL SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2103,7 +2673,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "CATRINA ELENA SIMONA REGISTRATOR OT",
-      "nume_norm": "CATRINA ELENA OT REGISTRATOR SIMONA"
+      "nume_norm": "CATRINA ELENA OT REGISTRATOR SIMONA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2115,7 +2687,9 @@
       "datorii_ron": 82618,
       "auto": 4,
       "nume": "CERNAIANU SILVANA SEF SERVICIU TM",
-      "nume_norm": "CERNAIANU SEF SERVICIU SILVANA TM"
+      "nume_norm": "CERNAIANU SEF SERVICIU SILVANA TM",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2127,7 +2701,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "CERNAT ELENA DIRECTOR NȚ",
-      "nume_norm": "CERNAT DIRECTOR ELENA NT"
+      "nume_norm": "CERNAT DIRECTOR ELENA NT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2139,7 +2715,9 @@
       "datorii_ron": 383400,
       "auto": 5,
       "nume": "CETEAN RALUCA ANA REGISTRATOR CJ",
-      "nume_norm": "ANA CETEAN CJ RALUCA REGISTRATOR"
+      "nume_norm": "ANA CETEAN CJ RALUCA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2151,7 +2729,9 @@
       "datorii_ron": 49600,
       "auto": 7,
       "nume": "CHITU STEFANIA CARMEN DIRECTOR",
-      "nume_norm": "CARMEN CHITU DIRECTOR STEFANIA"
+      "nume_norm": "CARMEN CHITU DIRECTOR STEFANIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2163,7 +2743,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CIMPU AMALIA REGISTRATOR MH",
-      "nume_norm": "AMALIA CIMPU MH REGISTRATOR"
+      "nume_norm": "AMALIA CIMPU MH REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2175,7 +2757,9 @@
       "datorii_ron": 441975,
       "auto": 6,
       "nume": "CIOBANU MARIANA AGNES REGISTRATOR OT",
-      "nume_norm": "AGNES CIOBANU MARIANA OT REGISTRATOR"
+      "nume_norm": "AGNES CIOBANU MARIANA OT REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2187,7 +2771,9 @@
       "datorii_ron": 58810,
       "auto": 7,
       "nume": "CIOCEA EMILIA REGISTRATOR",
-      "nume_norm": "CIOCEA EMILIA REGISTRATOR"
+      "nume_norm": "CIOCEA EMILIA REGISTRATOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2199,7 +2785,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "CIOTLOS VIOLETA GABRIELA REGISTRATOR HR",
-      "nume_norm": "CIOTLOS GABRIELA HR REGISTRATOR VIOLETA"
+      "nume_norm": "CIOTLOS GABRIELA HR REGISTRATOR VIOLETA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "ONRC — Registrul Comerțului",
@@ -2211,7 +2799,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CIUREA ANCA SEF SERVICIU NT",
-      "nume_norm": "ANCA CIUREA NT SEF SERVICIU"
+      "nume_norm": "ANCA CIUREA NT SEF SERVICIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2223,7 +2813,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ADAMESCU GHEORGHE",
-      "nume_norm": "ADAMESCU GHEORGHE"
+      "nume_norm": "ADAMESCU GHEORGHE",
+      "an": 2021,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2235,7 +2827,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "AGAPI VERGINIA",
-      "nume_norm": "AGAPI VERGINIA"
+      "nume_norm": "AGAPI VERGINIA",
+      "an": 2018,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2247,7 +2841,9 @@
       "datorii_ron": 30000,
       "auto": 5,
       "nume": "AFANASE EMANUELA RODICA",
-      "nume_norm": "AFANASE EMANUELA RODICA"
+      "nume_norm": "AFANASE EMANUELA RODICA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2259,7 +2855,9 @@
       "datorii_ron": 25000,
       "auto": 5,
       "nume": "ABALASEI LAURENTIU CONSTANTIN",
-      "nume_norm": "ABALASEI CONSTANTIN LAURENTIU"
+      "nume_norm": "ABALASEI CONSTANTIN LAURENTIU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2271,7 +2869,9 @@
       "datorii_ron": 999289,
       "auto": 4,
       "nume": "ABRUDEAN ADINA",
-      "nume_norm": "ABRUDEAN ADINA"
+      "nume_norm": "ABRUDEAN ADINA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2283,7 +2883,9 @@
       "datorii_ron": 25000,
       "auto": 5,
       "nume": "ABALASEI LAURENTIU CONSTANTIN INCETAREPDF",
-      "nume_norm": "ABALASEI CONSTANTIN INCETAREPDF LAURENTIU"
+      "nume_norm": "ABALASEI CONSTANTIN INCETAREPDF LAURENTIU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2295,7 +2897,9 @@
       "datorii_ron": 151500,
       "auto": 5,
       "nume": "ADAM DIANA IOANA",
-      "nume_norm": "ADAM DIANA IOANA"
+      "nume_norm": "ADAM DIANA IOANA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2307,7 +2911,9 @@
       "datorii_ron": 200084,
       "auto": 6,
       "nume": "ACATINCA CORINA ELENA",
-      "nume_norm": "ACATINCA CORINA ELENA"
+      "nume_norm": "ACATINCA CORINA ELENA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2319,7 +2925,9 @@
       "datorii_ron": 44200,
       "auto": 6,
       "nume": "ABALARU DANIEL",
-      "nume_norm": "ABALARU DANIEL"
+      "nume_norm": "ABALARU DANIEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2331,7 +2939,9 @@
       "datorii_ron": 221960,
       "auto": 6,
       "nume": "ABRAHAM AUGUSTIN STEFAN",
-      "nume_norm": "ABRAHAM AUGUSTIN STEFAN"
+      "nume_norm": "ABRAHAM AUGUSTIN STEFAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2343,7 +2953,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "AFLOREI RADU",
-      "nume_norm": "AFLOREI RADU"
+      "nume_norm": "AFLOREI RADU",
+      "an": 2011,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "acţionar sau asociat/beneficiar de împrumut",
+          "calitate": "",
+          "nr": "",
+          "valoare": ""
+        }
+      ]
     },
     {
       "institutie": "Curtea de Conturi",
@@ -2355,7 +2976,9 @@
       "datorii_ron": 353500,
       "auto": 4,
       "nume": "ABRUDAN GABRIELA",
-      "nume_norm": "ABRUDAN GABRIELA"
+      "nume_norm": "ABRUDAN GABRIELA",
+      "an": 2012,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2367,7 +2990,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "FILIP RALUCA",
-      "nume_norm": "FILIP RALUCA"
+      "nume_norm": "FILIP RALUCA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2379,7 +3004,9 @@
       "datorii_ron": 191800,
       "auto": 5,
       "nume": "OPREA ILEANA ROXANA",
-      "nume_norm": "ILEANA OPREA ROXANA"
+      "nume_norm": "ILEANA OPREA ROXANA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2391,7 +3018,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "DIACONESCU CT DANIEL",
-      "nume_norm": "CT DANIEL DIACONESCU"
+      "nume_norm": "CT DANIEL DIACONESCU",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2403,7 +3032,9 @@
       "datorii_ron": 592750,
       "auto": 4,
       "nume": "FL CRISTINA",
-      "nume_norm": "CRISTINA FL"
+      "nume_norm": "CRISTINA FL",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2415,7 +3046,9 @@
       "datorii_ron": 334165,
       "auto": 5,
       "nume": "ALEXANDROIU ELENA SIMONA",
-      "nume_norm": "ALEXANDROIU ELENA SIMONA"
+      "nume_norm": "ALEXANDROIU ELENA SIMONA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2427,7 +3060,9 @@
       "datorii_ron": 334165,
       "auto": 5,
       "nume": "ALEXANDROIU ELENA SIMONA AA",
-      "nume_norm": "AA ALEXANDROIU ELENA SIMONA"
+      "nume_norm": "AA ALEXANDROIU ELENA SIMONA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2439,7 +3074,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ALBERT LIZUCA",
-      "nume_norm": "ALBERT LIZUCA"
+      "nume_norm": "ALBERT LIZUCA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2451,7 +3088,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANDREI FLORIN",
-      "nume_norm": "ANDREI FLORIN"
+      "nume_norm": "ANDREI FLORIN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2463,7 +3102,9 @@
       "datorii_ron": 50000,
       "auto": 5,
       "nume": "ANGHEL DANIEL LIVIU",
-      "nume_norm": "ANGHEL DANIEL LIVIU"
+      "nume_norm": "ANGHEL DANIEL LIVIU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2475,7 +3116,18 @@
       "datorii_ron": 880183,
       "auto": 4,
       "nume": "ANGLITOIU GEORGE CLAUDIU",
-      "nume_norm": "ANGLITOIU CLAUDIU GEORGE"
+      "nume_norm": "ANGLITOIU CLAUDIU GEORGE",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BVB 09 Dortmund",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "13465",
+          "valoare": "58362.80 EUR"
+        }
+      ]
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2487,7 +3139,18 @@
       "datorii_ron": 880183,
       "auto": 4,
       "nume": "ANGLITOIU GEORGE CLAUDIU",
-      "nume_norm": "ANGLITOIU CLAUDIU GEORGE"
+      "nume_norm": "ANGLITOIU CLAUDIU GEORGE",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BVB 09 Dortmund",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "13465",
+          "valoare": "58362.80 EUR"
+        }
+      ]
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2499,7 +3162,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARICIU MARIA IULIA",
-      "nume_norm": "ARICIU IULIA MARIA"
+      "nume_norm": "ARICIU IULIA MARIA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2511,7 +3176,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARICIU MARIA IULIA",
-      "nume_norm": "ARICIU IULIA MARIA"
+      "nume_norm": "ARICIU IULIA MARIA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2523,7 +3190,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARVA ALINA",
-      "nume_norm": "ALINA ARVA"
+      "nume_norm": "ALINA ARVA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2535,7 +3204,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ARVA ALINA",
-      "nume_norm": "ALINA ARVA"
+      "nume_norm": "ALINA ARVA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2547,7 +3218,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANDREI MARIA",
-      "nume_norm": "ANDREI MARIA"
+      "nume_norm": "ANDREI MARIA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2557,7 +3230,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76395,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2567,7 +3242,9 @@
       "conturi_ron": 0,
       "venituri_ron": 95197,
       "datorii_ron": 84000,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2577,7 +3254,9 @@
       "conturi_ron": 0,
       "venituri_ron": 124591,
       "datorii_ron": 262600,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2587,7 +3266,9 @@
       "conturi_ron": 0,
       "venituri_ron": 112775,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2597,7 +3278,25 @@
       "conturi_ron": 40000,
       "venituri_ron": 357146,
       "datorii_ron": 281839,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "15000",
+          "valoare": "15000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "25000",
+          "valoare": "25000 RON"
+        }
+      ]
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2607,7 +3306,9 @@
       "conturi_ron": 0,
       "venituri_ron": 89805,
       "datorii_ron": 100000,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2617,7 +3318,9 @@
       "conturi_ron": 0,
       "venituri_ron": 177872,
       "datorii_ron": 70200,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2627,7 +3330,9 @@
       "conturi_ron": 0,
       "venituri_ron": 121940,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2637,7 +3342,9 @@
       "conturi_ron": 0,
       "venituri_ron": 141442,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2647,7 +3354,9 @@
       "conturi_ron": 0,
       "venituri_ron": 264830,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2657,7 +3366,9 @@
       "conturi_ron": 0,
       "venituri_ron": 269483,
       "datorii_ron": 438932,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2667,7 +3378,9 @@
       "conturi_ron": 0,
       "venituri_ron": 264830,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2677,7 +3390,9 @@
       "conturi_ron": 0,
       "venituri_ron": 351850,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2687,7 +3402,9 @@
       "conturi_ron": 0,
       "venituri_ron": 148658,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2697,7 +3414,9 @@
       "conturi_ron": 0,
       "venituri_ron": 194956,
       "datorii_ron": 110780,
-      "auto": 5
+      "auto": 5,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2707,7 +3426,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76986,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Consiliul Concurenței",
@@ -2717,7 +3438,9 @@
       "conturi_ron": 0,
       "venituri_ron": 207916,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2729,7 +3452,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "ALBU DRINA",
-      "nume_norm": "ALBU DRINA"
+      "nume_norm": "ALBU DRINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2741,7 +3466,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GASCA NICOLETA",
-      "nume_norm": "GASCA NICOLETA"
+      "nume_norm": "GASCA NICOLETA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2753,7 +3480,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "IORDAN MIHAELA",
-      "nume_norm": "IORDAN MIHAELA"
+      "nume_norm": "IORDAN MIHAELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2765,7 +3494,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "NAN GHE",
-      "nume_norm": "GHE NAN"
+      "nume_norm": "GHE NAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2775,7 +3506,9 @@
       "conturi_ron": 0,
       "venituri_ron": 167456,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2785,7 +3518,9 @@
       "conturi_ron": 0,
       "venituri_ron": 132626,
       "datorii_ron": 31000,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2797,7 +3532,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "DUMITRU ADRIAN",
-      "nume_norm": "ADRIAN DUMITRU"
+      "nume_norm": "ADRIAN DUMITRU",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_2",
+          "entitate": "Casa Nationala de Asigurari de Sanatate Sectorul 3 Bucuresti ****************************",
+          "calitate": "Membru reprezentant Ministerul Sanatatii",
+          "nr": "",
+          "valoare": "1152 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2809,7 +3555,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "FERARU BIANCA",
-      "nume_norm": "BIANCA FERARU"
+      "nume_norm": "BIANCA FERARU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2821,7 +3569,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "LUCA MIHAELA",
-      "nume_norm": "LUCA MIHAELA"
+      "nume_norm": "LUCA MIHAELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2833,7 +3583,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANCA COSTEL",
-      "nume_norm": "ANCA COSTEL"
+      "nume_norm": "ANCA COSTEL",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2845,7 +3597,9 @@
       "datorii_ron": 228110,
       "auto": 4,
       "nume": "BICA LAURA",
-      "nume_norm": "BICA LAURA"
+      "nume_norm": "BICA LAURA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2855,7 +3609,9 @@
       "conturi_ron": 0,
       "venituri_ron": 122742,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2867,7 +3623,18 @@
       "datorii_ron": 125185,
       "auto": 5,
       "nume": "DULAU RECTIFICATIVA",
-      "nume_norm": "DULAU RECTIFICATIVA"
+      "nume_norm": "DULAU RECTIFICATIVA",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "S.C. Dulau Consulting SRL",
+          "calitate": "Altele",
+          "nr": "20 Părţi sociale",
+          "valoare": "0 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2879,7 +3646,9 @@
       "datorii_ron": 212100,
       "auto": 4,
       "nume": "GARJOABA RECTIFICATIVA",
-      "nume_norm": "GARJOABA RECTIFICATIVA"
+      "nume_norm": "GARJOABA RECTIFICATIVA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2889,7 +3658,18 @@
       "conturi_ron": 0,
       "venituri_ron": 272299,
       "datorii_ron": 88000,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_2",
+          "entitate": "ASOCIATIA PARINTILOR SCOALA GENERALA NR. 1 SF GHEORGHE GIURGIU Giurgiu Giurgiu",
+          "calitate": "Membru VICEPRESEDINTE",
+          "nr": "",
+          "valoare": "0 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2901,7 +3681,9 @@
       "datorii_ron": 86435,
       "auto": 4,
       "nume": "GRAJDEANU SANDA CRISTINA",
-      "nume_norm": "CRISTINA GRAJDEANU SANDA"
+      "nume_norm": "CRISTINA GRAJDEANU SANDA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2913,7 +3695,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "IANCU MIHAELA",
-      "nume_norm": "IANCU MIHAELA"
+      "nume_norm": "IANCU MIHAELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2925,7 +3709,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "IRIMIE CRISTINA",
-      "nume_norm": "CRISTINA IRIMIE"
+      "nume_norm": "CRISTINA IRIMIE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2937,7 +3723,9 @@
       "datorii_ron": 68000,
       "auto": 5,
       "nume": "LAPTE FLORIN",
-      "nume_norm": "FLORIN LAPTE"
+      "nume_norm": "FLORIN LAPTE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2949,7 +3737,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "LEPAR ZOE",
-      "nume_norm": "LEPAR ZOE"
+      "nume_norm": "LEPAR ZOE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2961,7 +3751,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "MARGARIT ADINA",
-      "nume_norm": "ADINA MARGARIT"
+      "nume_norm": "ADINA MARGARIT",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2973,7 +3765,9 @@
       "datorii_ron": 189375,
       "auto": 5,
       "nume": "PDG BV DAISA ANCUTA",
-      "nume_norm": "ANCUTA BV DAISA PDG"
+      "nume_norm": "ANCUTA BV DAISA PDG",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2985,7 +3779,9 @@
       "datorii_ron": 428400,
       "auto": 5,
       "nume": "PDG BZ ONCEL ELIZA",
-      "nume_norm": "BZ ELIZA ONCEL PDG"
+      "nume_norm": "BZ ELIZA ONCEL PDG",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -2997,7 +3793,9 @@
       "datorii_ron": 106753,
       "auto": 4,
       "nume": "PDG CS ZEMAN MIRELA",
-      "nume_norm": "CS MIRELA PDG ZEMAN"
+      "nume_norm": "CS MIRELA PDG ZEMAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3009,7 +3807,9 @@
       "datorii_ron": 265075,
       "auto": 5,
       "nume": "PDG IS TIBICHI RADU",
-      "nume_norm": "IS PDG RADU TIBICHI"
+      "nume_norm": "IS PDG RADU TIBICHI",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3021,7 +3821,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PDG TR TITA NICUSOR",
-      "nume_norm": "NICUSOR PDG TITA TR"
+      "nume_norm": "NICUSOR PDG TITA TR",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3033,7 +3835,9 @@
       "datorii_ron": 72371,
       "auto": 6,
       "nume": "PADUREANU DELIA",
-      "nume_norm": "DELIA PADUREANU"
+      "nume_norm": "DELIA PADUREANU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3045,7 +3849,9 @@
       "datorii_ron": 513484,
       "auto": 5,
       "nume": "PETCUSAFTA ANDREEA",
-      "nume_norm": "ANDREEA PETCUSAFTA"
+      "nume_norm": "ANDREEA PETCUSAFTA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3057,7 +3863,9 @@
       "datorii_ron": 207500,
       "auto": 6,
       "nume": "POPA IOANA",
-      "nume_norm": "IOANA POPA"
+      "nume_norm": "IOANA POPA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3069,7 +3877,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "SICLOVAN CRISTINA",
-      "nume_norm": "CRISTINA SICLOVAN"
+      "nume_norm": "CRISTINA SICLOVAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3081,7 +3891,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "VELEA VALERIU",
-      "nume_norm": "VALERIU VELEA"
+      "nume_norm": "VALERIU VELEA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3093,7 +3905,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "VLAICU ANGELICA",
-      "nume_norm": "ANGELICA VLAICU"
+      "nume_norm": "ANGELICA VLAICU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3105,7 +3919,18 @@
       "datorii_ron": 176750,
       "auto": 4,
       "nume": "ZABULIC LAURA",
-      "nume_norm": "LAURA ZABULIC"
+      "nume_norm": "LAURA ZABULIC",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "II ZABULIC MARIA Targu Neamt Neamt",
+          "calitate": "LAURA -",
+          "nr": "Altele",
+          "valoare": "100 Părţi sociale"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3117,7 +3942,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ZAMFIRESCU LOREDANA",
-      "nume_norm": "LOREDANA ZAMFIRESCU"
+      "nume_norm": "LOREDANA ZAMFIRESCU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3129,7 +3956,9 @@
       "datorii_ron": 328250,
       "auto": 4,
       "nume": "ALECU RECTIFICATIVA",
-      "nume_norm": "ALECU RECTIFICATIVA"
+      "nume_norm": "ALECU RECTIFICATIVA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3141,7 +3970,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ANDRIESCU VALERICA",
-      "nume_norm": "ANDRIESCU VALERICA"
+      "nume_norm": "ANDRIESCU VALERICA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3153,7 +3984,9 @@
       "datorii_ron": 171482,
       "auto": 5,
       "nume": "BIRAU ELISABETA",
-      "nume_norm": "BIRAU ELISABETA"
+      "nume_norm": "BIRAU ELISABETA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3165,7 +3998,9 @@
       "datorii_ron": 205336,
       "auto": 4,
       "nume": "BLIDARU ANNEMARIE",
-      "nume_norm": "ANNEMARIE BLIDARU"
+      "nume_norm": "ANNEMARIE BLIDARU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3177,7 +4012,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BOGDAN MIHAI ADRIAN",
-      "nume_norm": "ADRIAN BOGDAN MIHAI"
+      "nume_norm": "ADRIAN BOGDAN MIHAI",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3187,7 +4024,9 @@
       "conturi_ron": 0,
       "venituri_ron": 78408,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3199,7 +4038,9 @@
       "datorii_ron": 317000,
       "auto": 4,
       "nume": "BRATU CRISTINA",
-      "nume_norm": "BRATU CRISTINA"
+      "nume_norm": "BRATU CRISTINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3209,7 +4050,9 @@
       "conturi_ron": 252500,
       "venituri_ron": 205077,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3221,7 +4064,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BRUSTEN DANIELA",
-      "nume_norm": "BRUSTEN DANIELA"
+      "nume_norm": "BRUSTEN DANIELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3233,7 +4078,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BUCATARU DANIELA",
-      "nume_norm": "BUCATARU DANIELA"
+      "nume_norm": "BUCATARU DANIELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3245,7 +4092,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BUGA FLORENTINA",
-      "nume_norm": "BUGA FLORENTINA"
+      "nume_norm": "BUGA FLORENTINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3257,7 +4106,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BURCEA FLORINA",
-      "nume_norm": "BURCEA FLORINA"
+      "nume_norm": "BURCEA FLORINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3269,7 +4120,9 @@
       "datorii_ron": 297700,
       "auto": 7,
       "nume": "BURGHIU VIOLETA",
-      "nume_norm": "BURGHIU VIOLETA"
+      "nume_norm": "BURGHIU VIOLETA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3281,7 +4134,9 @@
       "datorii_ron": 64640,
       "auto": 5,
       "nume": "BUZAIANU VICTOR DAN",
-      "nume_norm": "BUZAIANU DAN VICTOR"
+      "nume_norm": "BUZAIANU DAN VICTOR",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3293,7 +4148,9 @@
       "datorii_ron": 544705,
       "auto": 8,
       "nume": "CARSTEA CATALIN",
-      "nume_norm": "CARSTEA CATALIN"
+      "nume_norm": "CARSTEA CATALIN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3305,7 +4162,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CHITARIU MIHAELA GABRIELA",
-      "nume_norm": "CHITARIU GABRIELA MIHAELA"
+      "nume_norm": "CHITARIU GABRIELA MIHAELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3317,7 +4176,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CIOCA FLORENTINA",
-      "nume_norm": "CIOCA FLORENTINA"
+      "nume_norm": "CIOCA FLORENTINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3327,7 +4188,9 @@
       "conturi_ron": 0,
       "venituri_ron": 173191,
       "datorii_ron": 544705,
-      "auto": 8
+      "auto": 8,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3339,7 +4202,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "COJOCARIU IOANA",
-      "nume_norm": "COJOCARIU IOANA"
+      "nume_norm": "COJOCARIU IOANA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3351,7 +4216,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CONCEATU RALUCA",
-      "nume_norm": "CONCEATU RALUCA"
+      "nume_norm": "CONCEATU RALUCA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3363,7 +4230,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "COSACENCO VLAD STEFAN",
-      "nume_norm": "COSACENCO STEFAN VLAD"
+      "nume_norm": "COSACENCO STEFAN VLAD",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3375,7 +4244,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "COZMA ELENA",
-      "nume_norm": "COZMA ELENA"
+      "nume_norm": "COZMA ELENA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3387,7 +4258,9 @@
       "datorii_ron": 100000,
       "auto": 4,
       "nume": "CRACIUN ELENA",
-      "nume_norm": "CRACIUN ELENA"
+      "nume_norm": "CRACIUN ELENA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3399,7 +4272,18 @@
       "datorii_ron": 197700,
       "auto": 6,
       "nume": "CULDA GABRIELA",
-      "nume_norm": "CULDA GABRIELA"
+      "nume_norm": "CULDA GABRIELA",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "IPROEB BISTRITA",
+          "calitate": "Acţionar",
+          "nr": "1000 Acţiuni",
+          "valoare": "0.43 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3411,7 +4295,9 @@
       "datorii_ron": 233000,
       "auto": 5,
       "nume": "CURCAN MIHAELA",
-      "nume_norm": "CURCAN MIHAELA"
+      "nume_norm": "CURCAN MIHAELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3421,7 +4307,9 @@
       "conturi_ron": 0,
       "venituri_ron": 80055,
       "datorii_ron": 441370,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3431,7 +4319,9 @@
       "conturi_ron": 0,
       "venituri_ron": 136111,
       "datorii_ron": 60000,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3443,7 +4333,9 @@
       "datorii_ron": 65000,
       "auto": 5,
       "nume": "DUMITRESCU ALEXANDRA RALUCA",
-      "nume_norm": "ALEXANDRA DUMITRESCU RALUCA"
+      "nume_norm": "ALEXANDRA DUMITRESCU RALUCA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3455,7 +4347,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "DUMITRU FLORENTA",
-      "nume_norm": "DUMITRU FLORENTA"
+      "nume_norm": "DUMITRU FLORENTA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3465,7 +4359,9 @@
       "conturi_ron": 0,
       "venituri_ron": 80422,
       "datorii_ron": 85000,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3477,7 +4373,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "DUTA SORIN",
-      "nume_norm": "DUTA SORIN"
+      "nume_norm": "DUTA SORIN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3489,7 +4387,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "DUTU MIHAELA",
-      "nume_norm": "DUTU MIHAELA"
+      "nume_norm": "DUTU MIHAELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3499,7 +4399,9 @@
       "conturi_ron": 0,
       "venituri_ron": 189150,
       "datorii_ron": 140989,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3511,7 +4413,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "FLORESCU BERENDEI ELIA MONICA",
-      "nume_norm": "BERENDEI ELIA FLORESCU MONICA"
+      "nume_norm": "BERENDEI ELIA FLORESCU MONICA",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "SC LUNA BMC SRL",
+          "calitate": "Asociat",
+          "nr": "1806 Părţi sociale",
+          "valoare": "18060 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3523,7 +4436,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "GEORGIAN IULIANA",
-      "nume_norm": "GEORGIAN IULIANA"
+      "nume_norm": "GEORGIAN IULIANA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3535,7 +4450,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHINTUIALA GEORGETA",
-      "nume_norm": "GEORGETA GHINTUIALA"
+      "nume_norm": "GEORGETA GHINTUIALA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3545,7 +4462,9 @@
       "conturi_ron": 0,
       "venituri_ron": 127278,
       "datorii_ron": 266900,
-      "auto": 7
+      "auto": 7,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3557,7 +4476,9 @@
       "datorii_ron": 287850,
       "auto": 4,
       "nume": "IAVORSCHI GABRIEL",
-      "nume_norm": "GABRIEL IAVORSCHI"
+      "nume_norm": "GABRIEL IAVORSCHI",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3567,7 +4488,9 @@
       "conturi_ron": 0,
       "venituri_ron": 127507,
       "datorii_ron": 90000,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3579,7 +4502,9 @@
       "datorii_ron": 80000,
       "auto": 4,
       "nume": "IONESCU CORNELIA TEODORA",
-      "nume_norm": "CORNELIA IONESCU TEODORA"
+      "nume_norm": "CORNELIA IONESCU TEODORA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3591,7 +4516,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "IORGA ALEXANDRU",
-      "nume_norm": "ALEXANDRU IORGA"
+      "nume_norm": "ALEXANDRU IORGA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3601,7 +4528,9 @@
       "conturi_ron": 0,
       "venituri_ron": 176796,
       "datorii_ron": 409250,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3613,7 +4542,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "JITEA DANIELA",
-      "nume_norm": "DANIELA JITEA"
+      "nume_norm": "DANIELA JITEA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3625,7 +4556,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "LOZER DONA",
-      "nume_norm": "DONA LOZER"
+      "nume_norm": "DONA LOZER",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3637,7 +4570,18 @@
       "datorii_ron": 338532,
       "auto": 6,
       "nume": "MAGULEANU CATALIN",
-      "nume_norm": "CATALIN MAGULEANU"
+      "nume_norm": "CATALIN MAGULEANU",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_2",
+          "entitate": "AJOFM Prahova Ploiesti Prahova ****************************",
+          "calitate": "Membru Membru Consiliul Consultativ",
+          "nr": "",
+          "valoare": "6245 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3649,7 +4593,9 @@
       "datorii_ron": 272000,
       "auto": 5,
       "nume": "MANDACHE NADIA",
-      "nume_norm": "MANDACHE NADIA"
+      "nume_norm": "MANDACHE NADIA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3661,7 +4607,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MANESCU BARNEY",
-      "nume_norm": "BARNEY MANESCU"
+      "nume_norm": "BARNEY MANESCU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3671,7 +4619,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76180,
       "datorii_ron": 284738,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3683,7 +4633,9 @@
       "datorii_ron": 201000,
       "auto": 5,
       "nume": "MORAR CECILIA ANISOARA",
-      "nume_norm": "ANISOARA CECILIA MORAR"
+      "nume_norm": "ANISOARA CECILIA MORAR",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3695,7 +4647,9 @@
       "datorii_ron": 100000,
       "auto": 4,
       "nume": "NEDELCU CAMELIA TAMARA BR",
-      "nume_norm": "BR CAMELIA NEDELCU TAMARA"
+      "nume_norm": "BR CAMELIA NEDELCU TAMARA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3707,7 +4661,9 @@
       "datorii_ron": 66500,
       "auto": 4,
       "nume": "NICULAE CRISTINA",
-      "nume_norm": "CRISTINA NICULAE"
+      "nume_norm": "CRISTINA NICULAE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3719,7 +4675,9 @@
       "datorii_ron": 66500,
       "auto": 6,
       "nume": "NICULAE MIHAI",
-      "nume_norm": "MIHAI NICULAE"
+      "nume_norm": "MIHAI NICULAE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3731,7 +4689,9 @@
       "datorii_ron": 858500,
       "auto": 5,
       "nume": "NICULESCU ANCA LUANA",
-      "nume_norm": "ANCA LUANA NICULESCU"
+      "nume_norm": "ANCA LUANA NICULESCU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3743,7 +4703,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "NICUTA GEANINA",
-      "nume_norm": "GEANINA NICUTA"
+      "nume_norm": "GEANINA NICUTA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3755,7 +4717,9 @@
       "datorii_ron": 90900,
       "auto": 5,
       "nume": "OCHIANA MARICICA",
-      "nume_norm": "MARICICA OCHIANA"
+      "nume_norm": "MARICICA OCHIANA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3765,7 +4729,9 @@
       "conturi_ron": 0,
       "venituri_ron": 172215,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3777,7 +4743,25 @@
       "datorii_ron": 680808,
       "auto": 5,
       "nume": "PDG CT",
-      "nume_norm": "CT PDG"
+      "nume_norm": "CT PDG",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "CASUTA LUI ION SRL",
+          "calitate": "Asociat",
+          "nr": "20 Părţi sociale",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "interese_2",
+          "entitate": "CASUTA LUI ION SRL Sulina Tulcea ****************",
+          "calitate": "Asociat administrator",
+          "nr": "",
+          "valoare": "0 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3789,7 +4773,9 @@
       "datorii_ron": 300000,
       "auto": 5,
       "nume": "PDG DJ",
-      "nume_norm": "DJ PDG"
+      "nume_norm": "DJ PDG",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3801,7 +4787,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PENELEA ISABELLE",
-      "nume_norm": "ISABELLE PENELEA"
+      "nume_norm": "ISABELLE PENELEA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3813,7 +4801,9 @@
       "datorii_ron": 255025,
       "auto": 4,
       "nume": "POENARU MIHAELA",
-      "nume_norm": "MIHAELA POENARU"
+      "nume_norm": "MIHAELA POENARU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3825,7 +4815,25 @@
       "datorii_ron": 421582,
       "auto": 5,
       "nume": "POPA CRISTIAN LORIN",
-      "nume_norm": "CRISTIAN LORIN POPA"
+      "nume_norm": "CRISTIAN LORIN POPA",
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezorerie sector 3",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "67000",
+          "valoare": "67000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezorerie sector 2",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "43300",
+          "valoare": "43300 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3835,7 +4843,9 @@
       "conturi_ron": 0,
       "venituri_ron": 134028,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3845,7 +4855,9 @@
       "conturi_ron": 0,
       "venituri_ron": 76496,
       "datorii_ron": 222200,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3857,7 +4869,9 @@
       "datorii_ron": 519200,
       "auto": 5,
       "nume": "RADULESCU ELENA",
-      "nume_norm": "ELENA RADULESCU"
+      "nume_norm": "ELENA RADULESCU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3869,7 +4883,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "RUSESCU GEORGETA",
-      "nume_norm": "GEORGETA RUSESCU"
+      "nume_norm": "GEORGETA RUSESCU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3879,7 +4895,9 @@
       "conturi_ron": 0,
       "venituri_ron": 77707,
       "datorii_ron": 30000,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3891,7 +4909,9 @@
       "datorii_ron": 283052,
       "auto": 5,
       "nume": "STAICU BOGDAN STEFAN",
-      "nume_norm": "BOGDAN STAICU STEFAN"
+      "nume_norm": "BOGDAN STAICU STEFAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3903,7 +4923,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "STOEA IULIA",
-      "nume_norm": "IULIA STOEA"
+      "nume_norm": "IULIA STOEA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3913,7 +4935,9 @@
       "conturi_ron": 0,
       "venituri_ron": 130002,
       "datorii_ron": 52000,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3925,7 +4949,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "TANASE IULICA",
-      "nume_norm": "IULICA TANASE"
+      "nume_norm": "IULICA TANASE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3935,7 +4961,9 @@
       "conturi_ron": 0,
       "venituri_ron": 118267,
       "datorii_ron": 50500,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3945,7 +4973,9 @@
       "conturi_ron": 0,
       "venituri_ron": 178194,
       "datorii_ron": 207445,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3957,7 +4987,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "TOMA MIHAELA",
-      "nume_norm": "MIHAELA TOMA"
+      "nume_norm": "MIHAELA TOMA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3969,7 +5001,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "VIRLAN LUMINITA",
-      "nume_norm": "LUMINITA VIRLAN"
+      "nume_norm": "LUMINITA VIRLAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3979,7 +5013,9 @@
       "conturi_ron": 0,
       "venituri_ron": 132156,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3989,7 +5025,18 @@
       "conturi_ron": 35337,
       "venituri_ron": 104391,
       "datorii_ron": 0,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BCR",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "35337",
+          "valoare": "35337 RON"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -3999,7 +5046,25 @@
       "conturi_ron": 30000,
       "venituri_ron": 213636,
       "datorii_ron": 63948,
-      "auto": 7
+      "auto": 7,
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "SC PROMOPAN SRL",
+          "calitate": "Asociat",
+          "nr": "50 Părţi sociale",
+          "valoare": "100 RON"
+        },
+        {
+          "sursa": "interese_1",
+          "entitate": "ASOCIATIA COSTACHE NEGRI 2005",
+          "calitate": "Membru",
+          "nr": "-",
+          "valoare": "-"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4009,7 +5074,9 @@
       "conturi_ron": 0,
       "venituri_ron": 108485,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4019,7 +5086,9 @@
       "conturi_ron": 0,
       "venituri_ron": 161011,
       "datorii_ron": 90000,
-      "auto": 5
+      "auto": 5,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4031,7 +5100,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CA ANCU",
-      "nume_norm": "ANCU CA"
+      "nume_norm": "ANCU CA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4043,7 +5114,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "CA MANOLACHE",
-      "nume_norm": "CA MANOLACHE"
+      "nume_norm": "CA MANOLACHE",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4055,7 +5128,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CA NEDELCU",
-      "nume_norm": "CA NEDELCU"
+      "nume_norm": "CA NEDELCU",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4065,7 +5140,18 @@
       "conturi_ron": 75000,
       "venituri_ron": 596784,
       "datorii_ron": 0,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "interese_1",
+          "entitate": "CRUCEA ROSIE CALARASI",
+          "calitate": "Membru",
+          "nr": "0",
+          "valoare": "0"
+        }
+      ]
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4075,7 +5161,9 @@
       "conturi_ron": 0,
       "venituri_ron": 120572,
       "datorii_ron": 0,
-      "auto": 4
+      "auto": 4,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4087,7 +5175,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "RECTIFICATIVA IONESCU MARIANA",
-      "nume_norm": "IONESCU MARIANA RECTIFICATIVA"
+      "nume_norm": "IONESCU MARIANA RECTIFICATIVA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "Casa Națională de Asigurări de Sănătate",
@@ -4097,7 +5187,9 @@
       "conturi_ron": 0,
       "venituri_ron": 99636,
       "datorii_ron": 98300,
-      "auto": 6
+      "auto": 6,
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4109,7 +5201,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "SONTROPA MAGDA SIMONA",
-      "nume_norm": "MAGDA SIMONA SONTROPA"
+      "nume_norm": "MAGDA SIMONA SONTROPA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4121,7 +5215,9 @@
       "datorii_ron": 313717,
       "auto": 4,
       "nume": "ANGHEL IONELA CLAUDIA",
-      "nume_norm": "ANGHEL CLAUDIA IONELA"
+      "nume_norm": "ANGHEL CLAUDIA IONELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4133,7 +5229,9 @@
       "datorii_ron": 313717,
       "auto": 4,
       "nume": "ANGHEL IONELA",
-      "nume_norm": "ANGHEL IONELA"
+      "nume_norm": "ANGHEL IONELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4145,7 +5243,9 @@
       "datorii_ron": 948565,
       "auto": 4,
       "nume": "ANGHEL IONELA CLAUDIA",
-      "nume_norm": "ANGHEL CLAUDIA IONELA"
+      "nume_norm": "ANGHEL CLAUDIA IONELA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4157,7 +5257,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ANGHELUTA IONEL ALEXANDRU",
-      "nume_norm": "ALEXANDRU ANGHELUTA IONEL"
+      "nume_norm": "ALEXANDRU ANGHELUTA IONEL",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4169,7 +5271,9 @@
       "datorii_ron": 8700,
       "auto": 4,
       "nume": "ANTAL BACSO ATILA",
-      "nume_norm": "ANTAL ATILA BACSO"
+      "nume_norm": "ANTAL ATILA BACSO",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4181,7 +5285,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ANTAL BACSO ATILA",
-      "nume_norm": "ANTAL ATILA BACSO"
+      "nume_norm": "ANTAL ATILA BACSO",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor Publice",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "100",
+          "valoare": "10000 EUR"
+        }
+      ]
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4193,7 +5308,9 @@
       "datorii_ron": 158300,
       "auto": 5,
       "nume": "ANTONACHE ANA MARIA",
-      "nume_norm": "ANA ANTONACHE MARIA"
+      "nume_norm": "ANA ANTONACHE MARIA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4205,7 +5322,9 @@
       "datorii_ron": 90000,
       "auto": 6,
       "nume": "ARDELEANU VALENTINA OLGA",
-      "nume_norm": "ARDELEANU OLGA VALENTINA"
+      "nume_norm": "ARDELEANU OLGA VALENTINA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4217,7 +5336,9 @@
       "datorii_ron": 90000,
       "auto": 6,
       "nume": "ARDELEANU VALENTINA OLGA",
-      "nume_norm": "ARDELEANU OLGA VALENTINA"
+      "nume_norm": "ARDELEANU OLGA VALENTINA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4229,7 +5350,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "AVRAM FLORINA DIR EX AJOFM BACAU",
-      "nume_norm": "AJOFM AVRAM BACAU DIR EX FLORINA"
+      "nume_norm": "AJOFM AVRAM BACAU DIR EX FLORINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4241,7 +5364,9 @@
       "datorii_ron": 307305,
       "auto": 4,
       "nume": "ANGHEL IONELA",
-      "nume_norm": "ANGHEL IONELA"
+      "nume_norm": "ANGHEL IONELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4253,7 +5378,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ANGHELUTA ALEXANDRU",
-      "nume_norm": "ALEXANDRU ANGHELUTA"
+      "nume_norm": "ALEXANDRU ANGHELUTA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4265,7 +5392,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ANGHELUTA IONEL ALEXANDRU VIOREL",
-      "nume_norm": "ALEXANDRU ANGHELUTA IONEL VIOREL"
+      "nume_norm": "ALEXANDRU ANGHELUTA IONEL VIOREL",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4277,7 +5406,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ANGHELUT STEFAN",
-      "nume_norm": "ANGHELUT STEFAN"
+      "nume_norm": "ANGHELUT STEFAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4289,7 +5420,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ANGHELUTA STEFAN",
-      "nume_norm": "ANGHELUTA STEFAN"
+      "nume_norm": "ANGHELUTA STEFAN",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4301,7 +5434,9 @@
       "datorii_ron": 8700,
       "auto": 4,
       "nume": "ANTAL ATILA",
-      "nume_norm": "ANTAL ATILA"
+      "nume_norm": "ANTAL ATILA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4313,7 +5448,9 @@
       "datorii_ron": 158300,
       "auto": 6,
       "nume": "ANTONACHE ANA MARIA AV DAPMPOFPFM",
-      "nume_norm": "ANA ANTONACHE AV DAPMPOFPFM MARIA"
+      "nume_norm": "ANA ANTONACHE AV DAPMPOFPFM MARIA",
+      "an": 2020,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4325,7 +5462,9 @@
       "datorii_ron": 158300,
       "auto": 5,
       "nume": "ANTONACHE ANA MARIA",
-      "nume_norm": "ANA ANTONACHE MARIA"
+      "nume_norm": "ANA ANTONACHE MARIA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4337,7 +5476,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "APOSTOL IONELA",
-      "nume_norm": "APOSTOL IONELA"
+      "nume_norm": "APOSTOL IONELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4349,7 +5490,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "APOSTOL IONELA",
-      "nume_norm": "APOSTOL IONELA"
+      "nume_norm": "APOSTOL IONELA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4361,7 +5504,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "APOSTOL IONELA",
-      "nume_norm": "APOSTOL IONELA"
+      "nume_norm": "APOSTOL IONELA",
+      "an": 2023,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4373,7 +5518,9 @@
       "datorii_ron": 90000,
       "auto": 6,
       "nume": "ARDELEANU VALENTINA OLGA",
-      "nume_norm": "ARDELEANU OLGA VALENTINA"
+      "nume_norm": "ARDELEANU OLGA VALENTINA",
+      "an": 2022,
+      "an_sursa": "document"
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4385,7 +5532,32 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BACILA MARIANA",
-      "nume_norm": "BACILA MARIANA"
+      "nume_norm": "BACILA MARIANA",
+      "an": 2023,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ERSTE GROUP BANK",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "94",
+          "valoare": "14852 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SAFETECH INNOVATIONS",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "2229",
+          "valoare": "6888 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MED LIFE",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "17",
+          "valoare": "306 RON"
+        }
+      ]
     },
     {
       "institutie": "ANOFM — Ocuparea Forței de Muncă",
@@ -4397,7 +5569,9 @@
       "datorii_ron": 303637,
       "auto": 4,
       "nume": "BADEA MIHAELA GABRIELA",
-      "nume_norm": "BADEA GABRIELA MIHAELA"
+      "nume_norm": "BADEA GABRIELA MIHAELA",
+      "an": 2023,
+      "an_sursa": "document"
     }
   ]
 }

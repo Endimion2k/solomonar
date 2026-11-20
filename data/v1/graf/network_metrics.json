@@ -1,13 +1,13 @@
 {
-  "generat": "2026-09-27",
-  "disclaimer": "Inelele sunt firme cu ADMINISTRATORI COMUNI (date reale ONRC). Un om care controlează mai multe firme NU e ilegal — e un LEAD de verificat. Numele de administrator se potrivesc pe text; pot exista omonimi.",
+  "generat": "2026-11-20",
+  "disclaimer": "Inelele sunt firme cu administratori comuni, după datele ONRC. Faptul că o persoană controlează mai multe firme nu e ilegal; e o pistă de verificat. Numele administratorilor se potrivesc după text, deci pot exista omonimi.",
   "meta": {
-    "companii_in_graf": 11817,
-    "muchii": 10649,
-    "administratori_reali": 60636,
-    "inele_total": 4384,
-    "inele_cu_2plus_firme_bani_stat": 3144,
-    "firme_cu_bani_stat": 54285
+    "companii_in_graf": 11834,
+    "muchii": 10672,
+    "administratori_reali": 60895,
+    "inele_total": 4207,
+    "inele_cu_2plus_firme_bani_stat": 2633,
+    "firme_cu_bani_stat": 54722
   },
   "inele": [
     {
@@ -619,7 +619,7 @@
     {
       "n_companii": 3,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 16160433762,
+      "total_bani_stat_ron": 16160529591,
       "admini": [
         "BARAC MARIA",
         "BOATCA VICTOR",
@@ -644,7 +644,7 @@
           "cui": 36443211,
           "nume": "EDIL SAL PREST S.A.",
           "bani_stat": true,
-          "total_ron": 3649235,
+          "total_ron": 3745064,
           "admini": [
             "BARAC MARIA",
             "BOATCA VICTOR",
@@ -1122,7 +1122,7 @@
     {
       "n_companii": 8,
       "n_companii_bani_stat": 8,
-      "total_bani_stat_ron": 7216896902,
+      "total_bani_stat_ron": 7215838736,
       "admini": [
         "BADEA CONSTANTIN GHEORGHE",
         "DEVIGNE ERIC PHILIPPE",
@@ -1185,7 +1185,7 @@
           "cui": 15669454,
           "nume": "ENERGOBIT CONTROL SYSTEMS",
           "bani_stat": true,
-          "total_ron": 8586142,
+          "total_ron": 8043537,
           "admini": [
             "POP FLORIN MIRCEA"
           ]
@@ -1194,7 +1194,7 @@
           "cui": 13818681,
           "nume": "STIZO NUCLEAR",
           "bani_stat": true,
-          "total_ron": 4491555,
+          "total_ron": 3975994,
           "admini": [
             "DEVIGNE ERIC PHILIPPE",
             "FLOREA LIVIU-VASILE",
@@ -1384,7 +1384,7 @@
     {
       "n_companii": 15,
       "n_companii_bani_stat": 12,
-      "total_bani_stat_ron": 6394059958,
+      "total_bani_stat_ron": 6393560289,
       "admini": [
         "ANDREI DANIELA",
         "BENCHIS VASILE OVIDIU",
@@ -1415,7 +1415,7 @@
           "cui": 3008793,
           "nume": "CATENA PHARMA",
           "bani_stat": true,
-          "total_ron": 9009996,
+          "total_ron": 8510327,
           "admini": [
             "CHELU VALENTIN",
             "ENACHE DANIEL",
@@ -1732,20 +1732,20 @@
       ]
     },
     {
-      "n_companii": 49,
-      "n_companii_bani_stat": 31,
-      "total_bani_stat_ron": 5312110440,
+      "n_companii": 67,
+      "n_companii_bani_stat": 42,
+      "total_bani_stat_ron": 5334421832,
       "admini": [
         "ABI ZIVS",
         "ADAM RELU",
         "AFLAT EMIL OVIDIU",
+        "ANDREI MIHAI",
+        "ANDREI SILVIU",
         "BADEA GABRIEL",
         "BALACCIU OANA-CRISTINA",
-        "BALAZS BELA ATILA",
-        "BALAZS BOTOND",
-        "BANCIU IONUT SORIN"
+        "BALAZS BELA ATILA"
       ],
-      "n_admini": 88,
+      "n_admini": 125,
       "companii": [
         {
           "cui": 12751583,
@@ -1902,6 +1902,19 @@
           ]
         },
         {
+          "cui": 9254436,
+          "nume": "INSTITUTUL NATIONAL DE CERCETARE STIINTIFICA IN DOMENIUL MUNCII SI PROTECTIEI SOCIALE - INCSMPS -",
+          "bani_stat": true,
+          "total_ron": 6302866,
+          "admini": [
+            "BITA CRENGUTA",
+            "DANCIU DANA",
+            "MILITARU EVA MARGARETA",
+            "PIRCIOG CAMELIA SPERANTA",
+            "SANDU MARIANA"
+          ]
+        },
+        {
           "cui": 5855689,
           "nume": "INDUSTRIAL COMPUTER GROUP S.R.L.",
           "bani_stat": true,
@@ -1917,6 +1930,16 @@
           "total_ron": 5390441,
           "admini": [
             "POPESCU ION"
+          ]
+        },
+        {
+          "cui": 2989325,
+          "nume": "VADOVA",
+          "bani_stat": true,
+          "total_ron": 3613909,
+          "admini": [
+            "DOBRE ELENA",
+            "TIGMEANU ELENA LAVINIA"
           ]
         },
         {
@@ -1948,12 +1971,66 @@
           ]
         },
         {
+          "cui": 12654670,
+          "nume": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE IN TURISM",
+          "bani_stat": true,
+          "total_ron": 1939032,
+          "admini": [
+            "CREINICEAN NADINA",
+            "DINCA MAGDALENA",
+            "ENESCU ALEXANDRA-ADELIA",
+            "FRENT CRISTI",
+            "GRECU FLORIN",
+            "GRECU MIHAELA"
+          ]
+        },
+        {
+          "cui": 5732740,
+          "nume": "COMTRANS AGREGATE",
+          "bani_stat": true,
+          "total_ron": 1800920,
+          "admini": [
+            "ANDREI MIHAI"
+          ]
+        },
+        {
           "cui": 18177103,
           "nume": "SC GLOBAL ELECTROCONSTRUCT SRL",
           "bani_stat": true,
           "total_ron": 1670364,
           "admini": [
             "POPESCU ION"
+          ]
+        },
+        {
+          "cui": 9113623,
+          "nume": "Institutul National de Cercetare Dezvoltare pentru Optoelectronica - INOE 2000",
+          "bani_stat": true,
+          "total_ron": 1633139,
+          "admini": [
+            "BITA CRENGUTA",
+            "CERNEA FLORENTINA",
+            "DOBRE ELENA",
+            "DOINA NICOLETA NICOLAE",
+            "RADVAN ROXANA"
+          ]
+        },
+        {
+          "cui": 20464510,
+          "nume": "SC GEOSERV SRL",
+          "bani_stat": true,
+          "total_ron": 1611755,
+          "admini": [
+            "COJOCARU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 14287138,
+          "nume": "ANDBAS",
+          "bani_stat": true,
+          "total_ron": 1583943,
+          "admini": [
+            "ANDREI MIHAI"
           ]
         },
         {
@@ -1989,6 +2066,24 @@
           ]
         },
         {
+          "cui": 33173431,
+          "nume": "Centerchim SRL",
+          "bani_stat": true,
+          "total_ron": 1082353,
+          "admini": [
+            "DOBRE ELENA"
+          ]
+        },
+        {
+          "cui": 33417650,
+          "nume": "ALSO CONS IT SRL",
+          "bani_stat": true,
+          "total_ron": 1055349,
+          "admini": [
+            "ANDREI MIHAI"
+          ]
+        },
+        {
           "cui": 6708023,
           "nume": "Proserpina Impex S.R.L.",
           "bani_stat": true,
@@ -2010,7 +2105,7 @@
           "cui": 14056826,
           "nume": "SOCIETATEA NATIONALA DE GAZE NATURALE \" ROMGAZ \" SA",
           "bani_stat": true,
-          "total_ron": 793765,
+          "total_ron": 841901,
           "admini": [
             "BALAZS BOTOND",
             "BENGHEA-MALAIES ANDREI GABRIEL",
@@ -2030,6 +2125,28 @@
           ]
         },
         {
+          "cui": 9052135,
+          "nume": "INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU FIZICA LASERILOR, PLASMEI SI ",
+          "bani_stat": true,
+          "total_ron": 772272,
+          "admini": [
+            "DUMITRACHE MONICA-ROXANA",
+            "JUGANARU GEORGETA",
+            "MIHAILESCU NICOLAE-CRISTIAN",
+            "MUSAT ELENA-CORINA",
+            "POPESCU ANDREI"
+          ]
+        },
+        {
+          "cui": 38287062,
+          "nume": "APX GROUP",
+          "bani_stat": true,
+          "total_ron": 767984,
+          "admini": [
+            "SANDU MIHAI"
+          ]
+        },
+        {
           "cui": 36106763,
           "nume": "EXPERT FOREST SOLUTIONS",
           "bani_stat": true,
@@ -2039,129 +2156,17 @@
           ]
         },
         {
-          "cui": 28122962,
-          "nume": "SC PIMPOI FOREST SRL",
+          "cui": 2627996,
+          "nume": "Institutul National de Cercetare Dezvoltare in Chimie si Petrochimie-ICECHIM",
           "bani_stat": true,
-          "total_ron": 629240,
+          "total_ron": 728974,
           "admini": [
-            "POPESCU ION"
-          ]
-        },
-        {
-          "cui": 14586946,
-          "nume": "PNEU ELIT S.R.L.",
-          "bani_stat": true,
-          "total_ron": 213377,
-          "admini": [
-            "BADEA GABRIEL"
-          ]
-        },
-        {
-          "cui": 17227025,
-          "nume": "FLORPOP",
-          "bani_stat": true,
-          "total_ron": 92700,
-          "admini": [
-            "POPESCU ION"
-          ]
-        },
-        {
-          "cui": 1590040,
-          "nume": "SOCIETATEA NATIONALA A APELOR MINERALE SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BRANISTE FELIX FLORIN",
-            "CORDOS ALEXANDRU",
-            "GHEORGHE CONSTANTIN GABRIEL",
-            "LUCACI SORIN",
-            "PETCU MONICA AURELIANA"
-          ]
-        },
-        {
-          "cui": 3074819,
-          "nume": "FANTRICOM SRL",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "POPESCU ION",
-            "POPESCU PAUL-MARIUS"
-          ]
-        },
-        {
-          "cui": 6467251,
-          "nume": "VAMILEX SRL",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "DRASER UWE WERNER"
-          ]
-        },
-        {
-          "cui": 7116674,
-          "nume": "WHITE ONI TRADING S.R.L.",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "POPESCU ION",
-            "POPESCU NICULINA"
-          ]
-        },
-        {
-          "cui": 9735812,
-          "nume": "MEDITUR SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BALAZS BOTOND",
-            "CALIN MARIUS ALIN",
-            "FOCSANEANU MARIANA",
-            "SEICEAN BOGDAN",
-            "VULCAN MARIA"
-          ]
-        },
-        {
-          "cui": 9850200,
-          "nume": "EULIPEX CONSTRUCT S.R.L.",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "POPESCU ELENA"
-          ]
-        },
-        {
-          "cui": 11548042,
-          "nume": "Softy Company",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "ION BOGDAN"
-          ]
-        },
-        {
-          "cui": 14325363,
-          "nume": "MIDIA GREEN ENERGY SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "GRAURE SORIN",
-            "MUSTAFA SINAN",
-            "NUT MARIUS-GABRIEL",
-            "STAN-OLTEANU MANUELA-PETRONELA",
-            "SULEIMANOV ALBERT"
-          ]
-        },
-        {
-          "cui": 15551423,
-          "nume": "TELEGONDOLA-MAMAIA SRL",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "COSTACHE LAURENTIU",
-            "COZMA OLIVIA-MIHAELA",
-            "FILIP COSMIN",
-            "SARBU ANCA",
-            "TURCU TUDOR-IOAN"
+            "CERNEA FLORENTINA",
+            "DONI MIHAELA",
+            "FIERASCU RADU CLAUDIU",
+            "GUDA MIHAELA",
+            "MOROSANU DANIELA LENUTA",
+            "NICULAITA NICOLAE"
           ]
         }
       ]
@@ -2268,35 +2273,6 @@
     {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 4849300364,
-      "admini": [
-        "VLADUTOIU VASILE"
-      ],
-      "n_admini": 1,
-      "companii": [
-        {
-          "cui": 28520577,
-          "nume": "DOGERIK TRANS",
-          "bani_stat": true,
-          "total_ron": 4848690876,
-          "admini": [
-            "VLADUTOIU VASILE"
-          ]
-        },
-        {
-          "cui": 41544107,
-          "nume": "BIO TICU FOOD S.R.L.",
-          "bani_stat": true,
-          "total_ron": 609488,
-          "admini": [
-            "VLADUTOIU VASILE"
-          ]
-        }
-      ]
-    },
-    {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
       "total_bani_stat_ron": 4239670764,
       "admini": [
         "COTIANU ROXANA LAURENTIA"
@@ -2358,8 +2334,8 @@
     },
     {
       "n_companii": 5,
-      "n_companii_bani_stat": 4,
-      "total_bani_stat_ron": 3834342440,
+      "n_companii_bani_stat": 3,
+      "total_bani_stat_ron": 3833804203,
       "admini": [
         "APOSTOL OFELIA",
         "BORIS KONTIC",
@@ -2413,8 +2389,8 @@
         {
           "cui": 24992267,
           "nume": "TRIDIM CONSULTING SRL",
-          "bani_stat": true,
-          "total_ron": 538237,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "MARIN MARIANA"
           ]
@@ -2461,8 +2437,8 @@
     },
     {
       "n_companii": 5,
-      "n_companii_bani_stat": 4,
-      "total_bani_stat_ron": 3409217595,
+      "n_companii_bani_stat": 3,
+      "total_bani_stat_ron": 3408609095,
       "admini": [
         "BILTEANU IONUT DRAGOS",
         "BILTEANU IRINEL BOGDAN",
@@ -2513,8 +2489,8 @@
         {
           "cui": 2803383,
           "nume": "Institutul de Studii Economice PERFORMER-CONSULT S.R.L.",
-          "bani_stat": true,
-          "total_ron": 608500,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "PANTEA MARIUS-IOAN",
             "STEFEA PETRU-MARIN"
@@ -2603,8 +2579,8 @@
     },
     {
       "n_companii": 4,
-      "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 3272115801,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 3271559454,
       "admini": [
         "LUCIANI MASSIMILIANO",
         "POGONICI GRIGORE STANCIU",
@@ -2635,8 +2611,8 @@
         {
           "cui": 21013640,
           "nume": "ROLPH S.R.L.",
-          "bani_stat": true,
-          "total_ron": 556347,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "VLAD GHEORGHE"
           ]
@@ -2788,9 +2764,9 @@
       ]
     },
     {
-      "n_companii": 10,
-      "n_companii_bani_stat": 7,
-      "total_bani_stat_ron": 2780283732,
+      "n_companii": 11,
+      "n_companii_bani_stat": 8,
+      "total_bani_stat_ron": 2781348874,
       "admini": [
         "BITOI MADALIN",
         "CRISTEA ELENA DANIELA",
@@ -2852,6 +2828,15 @@
           "total_ron": 1247500,
           "admini": [
             "ENE CRISTIAN"
+          ]
+        },
+        {
+          "cui": 44695660,
+          "nume": "ROCIP INSTAL",
+          "bani_stat": true,
+          "total_ron": 1065142,
+          "admini": [
+            "GHEORGHE MIHAI"
           ]
         },
         {
@@ -3021,8 +3006,8 @@
     },
     {
       "n_companii": 19,
-      "n_companii_bani_stat": 13,
-      "total_bani_stat_ron": 2575954391,
+      "n_companii_bani_stat": 12,
+      "total_bani_stat_ron": 2575333432,
       "admini": [
         "ABRUDAN HORIA-OVIDIU",
         "GAMAN GABRIEL-DAN",
@@ -3158,15 +3143,6 @@
           ]
         },
         {
-          "cui": 45429526,
-          "nume": "SERVICII DEPO MED",
-          "bani_stat": true,
-          "total_ron": 620959,
-          "admini": [
-            "GROSAN NICOLAE GIULIAN"
-          ]
-        },
-        {
           "cui": 2457735,
           "nume": "TIPOGRAFIA HONTERUS S.R.L.",
           "bani_stat": false,
@@ -3226,13 +3202,22 @@
           "admini": [
             "POPA IOAN"
           ]
+        },
+        {
+          "cui": 45429526,
+          "nume": "SERVICII DEPO MED",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "GROSAN NICOLAE GIULIAN"
+          ]
         }
       ]
     },
     {
       "n_companii": 5,
       "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 2477695197,
+      "total_bani_stat_ron": 2477942663,
       "admini": [
         "BARBU IRINA-MIHAELA",
         "BOTEZATU VALI SONIA",
@@ -3261,7 +3246,7 @@
           "cui": 28075461,
           "nume": "MUNICIPAL CONSTRUCT SA",
           "bani_stat": true,
-          "total_ron": 6030692,
+          "total_ron": 6278158,
           "admini": [
             "IONITA GHEORGHE MARIAN",
             "IONITA STEFAN"
@@ -3812,37 +3797,6 @@
     {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 2038571098,
-      "admini": [
-        "DUMITRACHE LAURENTIU",
-        "NICA CONSTANTIN"
-      ],
-      "n_admini": 2,
-      "companii": [
-        {
-          "cui": 8807295,
-          "nume": "LOGIC COMPUTER",
-          "bani_stat": true,
-          "total_ron": 2037931511,
-          "admini": [
-            "DUMITRACHE LAURENTIU",
-            "NICA CONSTANTIN"
-          ]
-        },
-        {
-          "cui": 5299850,
-          "nume": "BAKERO COM S.R.L.",
-          "bani_stat": true,
-          "total_ron": 639587,
-          "admini": [
-            "DUMITRACHE LAURENTIU"
-          ]
-        }
-      ]
-    },
-    {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
       "total_bani_stat_ron": 1967060203,
       "admini": [
         "CARABA GIGEL",
@@ -4002,48 +3956,6 @@
       ]
     },
     {
-      "n_companii": 3,
-      "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 1813909711,
-      "admini": [
-        "GRIGORIE ADRIANA",
-        "MIRCEA GHEORGHE",
-        "MIRCEA LAURA-IULIA-RAYMONDA"
-      ],
-      "n_admini": 3,
-      "companii": [
-        {
-          "cui": 20589840,
-          "nume": "ADURO IMPEX",
-          "bani_stat": true,
-          "total_ron": 1813348747,
-          "admini": [
-            "GRIGORIE ADRIANA",
-            "MIRCEA GHEORGHE"
-          ]
-        },
-        {
-          "cui": 6763974,
-          "nume": "SC MONI-COS SRL",
-          "bani_stat": true,
-          "total_ron": 560964,
-          "admini": [
-            "MIRCEA GHEORGHE"
-          ]
-        },
-        {
-          "cui": 13791578,
-          "nume": "GEOSTIL S.R.L.",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "MIRCEA GHEORGHE",
-            "MIRCEA LAURA-IULIA-RAYMONDA"
-          ]
-        }
-      ]
-    },
-    {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
       "total_bani_stat_ron": 1760255096,
@@ -4133,8 +4045,8 @@
     },
     {
       "n_companii": 13,
-      "n_companii_bani_stat": 6,
-      "total_bani_stat_ron": 1697052494,
+      "n_companii_bani_stat": 5,
+      "total_bani_stat_ron": 1695909790,
       "admini": [
         "BUTUSINA IULIAN",
         "CRINGUS OCTAVIAN",
@@ -4188,18 +4100,9 @@
           "cui": 27423410,
           "nume": "S.C. CAR WASH DEN S.R.L.",
           "bani_stat": true,
-          "total_ron": 658365,
+          "total_ron": 40512,
           "admini": [
             "POPA GABRIELA-MARIANA",
-            "POPA GHEORGHE"
-          ]
-        },
-        {
-          "cui": 33079893,
-          "nume": "PATYPO",
-          "bani_stat": true,
-          "total_ron": 524851,
-          "admini": [
             "POPA GHEORGHE"
           ]
         },
@@ -4265,6 +4168,15 @@
           ]
         },
         {
+          "cui": 33079893,
+          "nume": "PATYPO",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPA GHEORGHE"
+          ]
+        },
+        {
           "cui": 36064234,
           "nume": "SERVPRIM VERNESTI SRL",
           "bani_stat": false,
@@ -4278,7 +4190,7 @@
     {
       "n_companii": 13,
       "n_companii_bani_stat": 10,
-      "total_bani_stat_ron": 1627479537,
+      "total_bani_stat_ron": 1626895016,
       "admini": [
         "ANGHEL LUCIAN CLAUDIU",
         "ASCHILEAN ANDREI IOAN",
@@ -4383,16 +4295,6 @@
           ]
         },
         {
-          "cui": 10538261,
-          "nume": "TEHNORON S.R.L.",
-          "bani_stat": true,
-          "total_ron": 1161823,
-          "admini": [
-            "ROSU MARIA",
-            "ROSU NICOLAE"
-          ]
-        },
-        {
           "cui": 37488840,
           "nume": "SC EDILITAR MACEA SA",
           "bani_stat": true,
@@ -4403,6 +4305,16 @@
             "MOHOREA-MOTIU DORIN",
             "MOLDOVAN NORBERT-SEBASTIAN",
             "ROSU MARIA"
+          ]
+        },
+        {
+          "cui": 10538261,
+          "nume": "TEHNORON S.R.L.",
+          "bani_stat": true,
+          "total_ron": 577302,
+          "admini": [
+            "ROSU MARIA",
+            "ROSU NICOLAE"
           ]
         },
         {
@@ -4800,7 +4712,7 @@
     {
       "n_companii": 12,
       "n_companii_bani_stat": 9,
-      "total_bani_stat_ron": 1384301321,
+      "total_bani_stat_ron": 1387129367,
       "admini": [
         "ADAM ADRIAN-ANDREI",
         "ANDREESCU STEFANIA",
@@ -4817,7 +4729,7 @@
           "cui": 427410,
           "nume": "COMPANIA NATIONALA POSTA ROMANA SA",
           "bani_stat": true,
-          "total_ron": 1355995855,
+          "total_ron": 1357653623,
           "admini": [
             "BONDALICI MADALIN-MIHAI",
             "CATELIU DANIEL",
@@ -4838,7 +4750,7 @@
           "cui": 41268559,
           "nume": "COMPANIA MUNICIPALĂ ENERGETICA SERVICII BUCUREŞTI S.A.",
           "bani_stat": true,
-          "total_ron": 3762067,
+          "total_ron": 4666230,
           "admini": [
             "CHIRITA SORIN",
             "MAXIM IOAN-OVIDIU",
@@ -4883,7 +4795,7 @@
           "cui": 26752660,
           "nume": "INSTITUTUL NATIONAL DE CERCETARE-DEZVOLTARE IN CONSTRUCTII, URBANISM SI DEZVOLTA",
           "bani_stat": true,
-          "total_ron": 909151,
+          "total_ron": 1175266,
           "admini": [
             "ANDREESCU STEFANIA",
             "DRAGOMIR CLAUDIU-SORIN",
@@ -4956,8 +4868,8 @@
     },
     {
       "n_companii": 5,
-      "n_companii_bani_stat": 5,
-      "total_bani_stat_ron": 1356197172,
+      "n_companii_bani_stat": 4,
+      "total_bani_stat_ron": 1355570578,
       "admini": [
         "BELIGEANU ION",
         "BINIG ALEXANDRU-VALERIU",
@@ -5012,8 +4924,8 @@
         {
           "cui": 6426790,
           "nume": "SC Micul Paradis Com SRL",
-          "bani_stat": true,
-          "total_ron": 626594,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "BELIGEANU ION",
             "MANOLE GHEORGHE"
@@ -5023,8 +4935,8 @@
     },
     {
       "n_companii": 3,
-      "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 1343092556,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 1342532079,
       "admini": [
         "CRISTEA CRISTIAN-VIRGIL",
         "CURT BOGDAN-ALEXANDRU",
@@ -5053,41 +4965,12 @@
         {
           "cui": 29156777,
           "nume": "Three Wings",
-          "bani_stat": true,
-          "total_ron": 560477,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "CRISTEA CRISTIAN-VIRGIL",
             "CURT BOGDAN-ALEXANDRU",
             "ROSCA FLORIN"
-          ]
-        }
-      ]
-    },
-    {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 1335255909,
-      "admini": [
-        "CIOCAN DANIEL"
-      ],
-      "n_admini": 1,
-      "companii": [
-        {
-          "cui": 20745370,
-          "nume": "BUCOVINA ENERGO CONSULT S.R.L.",
-          "bani_stat": true,
-          "total_ron": 1334658909,
-          "admini": [
-            "CIOCAN DANIEL"
-          ]
-        },
-        {
-          "cui": 43743181,
-          "nume": "SIASARA LOGISTIK S.R.L.",
-          "bani_stat": true,
-          "total_ron": 597000,
-          "admini": [
-            "CIOCAN DANIEL"
           ]
         }
       ]
@@ -5414,8 +5297,8 @@
     },
     {
       "n_companii": 4,
-      "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 1125682663,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 1125062555,
       "admini": [
         "MANCIU GEORGE ALEXANDRU",
         "MANCIU TANASE IONUT",
@@ -5448,8 +5331,8 @@
         {
           "cui": 29490903,
           "nume": "GOOD THINGS S.R.L.",
-          "bani_stat": true,
-          "total_ron": 620108,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "MANCIU TANASE-IONUT",
             "SOTA GHEORGHE"
@@ -5770,8 +5653,8 @@
     },
     {
       "n_companii": 3,
-      "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 940605867,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 939972306,
       "admini": [
         "POPAESCU SILVIU CRISTIAN",
         "STAN AURELIA"
@@ -5799,8 +5682,8 @@
         {
           "cui": 19984,
           "nume": "PACIC-PROIECTARE SI ANTREPRIZA CONSTRUCTII INDUSTRIALE SI CIVILE S.R.L.",
-          "bani_stat": true,
-          "total_ron": 633561,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "POPAESCU SILVIU CRISTIAN",
             "STAN AURELIA"
@@ -5879,8 +5762,8 @@
     },
     {
       "n_companii": 8,
-      "n_companii_bani_stat": 8,
-      "total_bani_stat_ron": 904882044,
+      "n_companii_bani_stat": 7,
+      "total_bani_stat_ron": 904328188,
       "admini": [
         "ALEXANDRU MAGDALENA EMILIA",
         "ALEXANDRU MAGDALENA-EMILIA",
@@ -5958,8 +5841,8 @@
         {
           "cui": 16676093,
           "nume": "SC AMBIENT SERV BUILDING SRL",
-          "bani_stat": true,
-          "total_ron": 553856,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "OPREA GHEORGHITA GIANINA"
           ]
@@ -5996,9 +5879,59 @@
       ]
     },
     {
+      "n_companii": 3,
+      "n_companii_bani_stat": 3,
+      "total_bani_stat_ron": 892051881,
+      "admini": [
+        "ASANACHE IONEL",
+        "BAZGAN DAN",
+        "BORYS LOZHKIN",
+        "CRACIUN DANIEL",
+        "DOMNICA CORNEL RAZVAN",
+        "NATALIIA POLISHCHUK",
+        "OLEG KALASHNIKOV"
+      ],
+      "n_admini": 7,
+      "companii": [
+        {
+          "cui": 14025927,
+          "nume": "Allplan Proiect",
+          "bani_stat": true,
+          "total_ron": 869379368,
+          "admini": [
+            "ASANACHE IONEL",
+            "CRACIUN DANIEL"
+          ]
+        },
+        {
+          "cui": 6682144,
+          "nume": "MIDA",
+          "bani_stat": true,
+          "total_ron": 21166741,
+          "admini": [
+            "CRACIUN DANIEL"
+          ]
+        },
+        {
+          "cui": 25170469,
+          "nume": "Tensa Art Design SRL",
+          "bani_stat": true,
+          "total_ron": 1505772,
+          "admini": [
+            "BAZGAN DAN",
+            "BORYS LOZHKIN",
+            "CRACIUN DANIEL",
+            "DOMNICA CORNEL RAZVAN",
+            "NATALIIA POLISHCHUK",
+            "OLEG KALASHNIKOV"
+          ]
+        }
+      ]
+    },
+    {
       "n_companii": 20,
-      "n_companii_bani_stat": 17,
-      "total_bani_stat_ron": 893125627,
+      "n_companii_bani_stat": 16,
+      "total_bani_stat_ron": 891413234,
       "admini": [
         "ADRIANA ELENA IORDACHE",
         "ANCA ELENA BOBALCA",
@@ -6015,7 +5948,7 @@
           "cui": 9256208,
           "nume": "Electrogrup",
           "bani_stat": true,
-          "total_ron": 783142522,
+          "total_ron": 782504691,
           "admini": [
             "MURESAN ANDREI TUDOR",
             "RADU ALEXANDRA",
@@ -6053,7 +5986,7 @@
           "cui": 8982580,
           "nume": "INDAELTRAC",
           "bani_stat": true,
-          "total_ron": 5522922,
+          "total_ron": 5019360,
           "admini": [
             "ANGELESCU NICUSOR",
             "CHIRITA MIHAI",
@@ -6178,15 +6111,6 @@
           ]
         },
         {
-          "cui": 48152011,
-          "nume": "ZAMFIR PROFESSIONAL ARCHIVING S.R.L.",
-          "bani_stat": true,
-          "total_ron": 571000,
-          "admini": [
-            "ZAMFIR MARIAN"
-          ]
-        },
-        {
           "cui": 11054529,
           "nume": "COMPANIA NATIONALA DE CAI FERATE \"CFR\" SA",
           "bani_stat": false,
@@ -6217,55 +6141,14 @@
           "admini": [
             "BUDESCU GABRIEL"
           ]
-        }
-      ]
-    },
-    {
-      "n_companii": 3,
-      "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 892051881,
-      "admini": [
-        "ASANACHE IONEL",
-        "BAZGAN DAN",
-        "BORYS LOZHKIN",
-        "CRACIUN DANIEL",
-        "DOMNICA CORNEL RAZVAN",
-        "NATALIIA POLISHCHUK",
-        "OLEG KALASHNIKOV"
-      ],
-      "n_admini": 7,
-      "companii": [
-        {
-          "cui": 14025927,
-          "nume": "Allplan Proiect",
-          "bani_stat": true,
-          "total_ron": 869379368,
-          "admini": [
-            "ASANACHE IONEL",
-            "CRACIUN DANIEL"
-          ]
         },
         {
-          "cui": 6682144,
-          "nume": "MIDA",
-          "bani_stat": true,
-          "total_ron": 21166741,
+          "cui": 48152011,
+          "nume": "ZAMFIR PROFESSIONAL ARCHIVING S.R.L.",
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
-            "CRACIUN DANIEL"
-          ]
-        },
-        {
-          "cui": 25170469,
-          "nume": "Tensa Art Design SRL",
-          "bani_stat": true,
-          "total_ron": 1505772,
-          "admini": [
-            "BAZGAN DAN",
-            "BORYS LOZHKIN",
-            "CRACIUN DANIEL",
-            "DOMNICA CORNEL RAZVAN",
-            "NATALIIA POLISHCHUK",
-            "OLEG KALASHNIKOV"
+            "ZAMFIR MARIAN"
           ]
         }
       ]
@@ -6599,45 +6482,6 @@
     {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 819737127,
-      "admini": [
-        "ANOAICA DRAGOS",
-        "CONSTANTIN VIOLETA",
-        "DIACONESCU RADU",
-        "KRALL MAZILU-ION",
-        "SERBANESCU VALENTINA",
-        "STATE ION"
-      ],
-      "n_admini": 6,
-      "companii": [
-        {
-          "cui": 11054537,
-          "nume": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
-          "bani_stat": true,
-          "total_ron": 819122714,
-          "admini": [
-            "ANOAICA DRAGOS",
-            "CONSTANTIN VIOLETA",
-            "DIACONESCU RADU",
-            "KRALL MAZILU-ION",
-            "SERBANESCU VALENTINA"
-          ]
-        },
-        {
-          "cui": 908820,
-          "nume": "PIGMENT SRL",
-          "bani_stat": true,
-          "total_ron": 614413,
-          "admini": [
-            "DIACONESCU RADU",
-            "STATE ION"
-          ]
-        }
-      ]
-    },
-    {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
       "total_bani_stat_ron": 784498279,
       "admini": [
         "ANA MARIA BUTUCARU",
@@ -6684,7 +6528,7 @@
     {
       "n_companii": 25,
       "n_companii_bani_stat": 19,
-      "total_bani_stat_ron": 765190806,
+      "total_bani_stat_ron": 767080008,
       "admini": [
         "ALEXANDRESCU - DUCA OANA - MIHAELA",
         "ALEXANDRESCU ALEXANDRU ADRIAN",
@@ -6775,7 +6619,7 @@
           "cui": 37832101,
           "nume": "COMPANIA MUNICIPALĂ MANAGEMENTUL TRAFICULUI BUCUREȘTI S.A.",
           "bani_stat": true,
-          "total_ron": 5639962,
+          "total_ron": 5644583,
           "admini": [
             "CAMBOSIE EMANUEL",
             "CIOBANU VALENTIN IULIAN",
@@ -6783,6 +6627,20 @@
             "CIURESCU RALUCA",
             "DINCA GEORGE-ADRIAN",
             "DOBRE ELENA-ALEXANDRA"
+          ]
+        },
+        {
+          "cui": 37992692,
+          "nume": "TRUSTUL DE CLĂDIRI METROPOLITANE BUCUREŞTI S.A.",
+          "bani_stat": true,
+          "total_ron": 4717230,
+          "admini": [
+            "AMZA MAIR",
+            "CICAN FLORINA-ISABELA",
+            "CIURESCU RALUCA",
+            "DINITA LUCIAN",
+            "MILITARU MARIAN CATALIN",
+            "PASCIUC PAULA"
           ]
         },
         {
@@ -6806,20 +6664,6 @@
             "IRIMIE CALINA-CRISTINA",
             "MUSTAFA MADALINA",
             "NEGRILA VASILE"
-          ]
-        },
-        {
-          "cui": 37992692,
-          "nume": "TRUSTUL DE CLĂDIRI METROPOLITANE BUCUREŞTI S.A.",
-          "bani_stat": true,
-          "total_ron": 2883577,
-          "admini": [
-            "AMZA MAIR",
-            "CICAN FLORINA-ISABELA",
-            "CIURESCU RALUCA",
-            "DINITA LUCIAN",
-            "MILITARU MARIAN CATALIN",
-            "PASCIUC PAULA"
           ]
         },
         {
@@ -6889,7 +6733,7 @@
           "cui": 37804055,
           "nume": "COMPANIA MUNICIPALĂ ECO IGIENIZARE BUCUREȘTI S.A.",
           "bani_stat": true,
-          "total_ron": 776525,
+          "total_ron": 827453,
           "admini": [
             "DUNGACIU RAZVAN DUMITRU",
             "FECIORU ANDREI",
@@ -7116,7 +6960,7 @@
     {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 720734175,
+      "total_bani_stat_ron": 720222700,
       "admini": [
         "CIORBA PETRU"
       ],
@@ -7135,7 +6979,7 @@
           "cui": 3357165,
           "nume": "VIDELI",
           "bani_stat": true,
-          "total_ron": 116368778,
+          "total_ron": 115857303,
           "admini": [
             "CIORBA PETRU"
           ]
@@ -7509,75 +7353,9 @@
       ]
     },
     {
-      "n_companii": 5,
-      "n_companii_bani_stat": 4,
-      "total_bani_stat_ron": 665939428,
-      "admini": [
-        "CARANICA GEORGE-MARIUS",
-        "GURGU VASILICA",
-        "ICHIM SILVIA",
-        "MOTOC RADU-GEORGE",
-        "STINGA IULIAN-FLORENTIN",
-        "STINGA VASILICA"
-      ],
-      "n_admini": 6,
-      "companii": [
-        {
-          "cui": 12912884,
-          "nume": "PROMOTAS S.R.L.",
-          "bani_stat": true,
-          "total_ron": 626123161,
-          "admini": [
-            "MOTOC RADU-GEORGE"
-          ]
-        },
-        {
-          "cui": 40997363,
-          "nume": "STINMEX CONS",
-          "bani_stat": true,
-          "total_ron": 33325083,
-          "admini": [
-            "STINGA IULIAN-FLORENTIN",
-            "STINGA VASILICA"
-          ]
-        },
-        {
-          "cui": 24496751,
-          "nume": "SC MIDOTRANS SRL",
-          "bani_stat": true,
-          "total_ron": 5305905,
-          "admini": [
-            "STINGA IULIAN-FLORENTIN"
-          ]
-        },
-        {
-          "cui": 10625635,
-          "nume": "ECO SA",
-          "bani_stat": true,
-          "total_ron": 1185279,
-          "admini": [
-            "CARANICA GEORGE-MARIUS",
-            "GURGU VASILICA",
-            "ICHIM SILVIA",
-            "MOTOC RADU-GEORGE",
-            "STINGA IULIAN-FLORENTIN"
-          ]
-        },
-        {
-          "cui": 31523115,
-          "nume": "SC General Evo Code SRL",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "STINGA VASILICA"
-          ]
-        }
-      ]
-    },
-    {
       "n_companii": 26,
-      "n_companii_bani_stat": 11,
-      "total_bani_stat_ron": 662400222,
+      "n_companii_bani_stat": 12,
+      "total_bani_stat_ron": 672509176,
       "admini": [
         "ACHIM DAN",
         "ALEXANDRESCU FLORIN-CRISTIAN",
@@ -7594,7 +7372,7 @@
           "cui": 13068733,
           "nume": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
           "bani_stat": true,
-          "total_ron": 459124537,
+          "total_ron": 460456927,
           "admini": [
             "HANZA ADINA-LACRIMIOARA",
             "MIHALACHE COSTIN",
@@ -7607,7 +7385,7 @@
           "cui": 1590120,
           "nume": "REGIA NATIONALA A PADURILOR ROMSILVA RA",
           "bani_stat": true,
-          "total_ron": 74378639,
+          "total_ron": 80623850,
           "admini": [
             "ACHIM DAN",
             "CHISALITA ION",
@@ -7620,7 +7398,7 @@
           "cui": 14232728,
           "nume": "SOCIETATEA PENTRU SERVICII DE MENTENANTA A RETELEI ELECTRICE DE TRANSPORT \"SMART\" S.A.",
           "bani_stat": true,
-          "total_ron": 65084168,
+          "total_ron": 64491205,
           "admini": [
             "BAESCU DECEBAL",
             "BOLINTINEANU GHEORGHE",
@@ -7641,7 +7419,7 @@
           "cui": 21458028,
           "nume": "IZOTERM CONSTRUCT",
           "bani_stat": true,
-          "total_ron": 26077630,
+          "total_ron": 25517153,
           "admini": [
             "PETCU SORIN"
           ]
@@ -7650,7 +7428,7 @@
           "cui": 11672708,
           "nume": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
           "bani_stat": true,
-          "total_ron": 3336027,
+          "total_ron": 3630632,
           "admini": [
             "ARAT OANA-MARIE",
             "BRUMA VASILE",
@@ -7658,6 +7436,20 @@
             "DULCEATA TEODOR",
             "IONESCU SPERANTA-GEORGETA",
             "MATEESCU ELENA"
+          ]
+        },
+        {
+          "cui": 16054368,
+          "nume": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
+          "bani_stat": true,
+          "total_ron": 3333530,
+          "admini": [
+            "BIRCHI ILEANA MIRELA",
+            "BUZASU SEPTIMIU",
+            "DUMITRU ALIN NICOLAE",
+            "MARCU MIREL ALEXANDRU",
+            "MIHALACHE COSTIN",
+            "PISTOL CRISTIAN OVIDIU CATALIN"
           ]
         },
         {
@@ -7698,12 +7490,14 @@
           ]
         },
         {
-          "cui": 37512956,
-          "nume": "SEVEN HILLS MANAGEMENT",
+          "cui": 45374854,
+          "nume": "NUCLEARELECTRICA SERV S.R.L.",
           "bani_stat": true,
-          "total_ron": 614657,
+          "total_ron": 671315,
           "admini": [
-            "MARCU MIREL ALEXANDRU"
+            "ANTON CRISTIAN-IOAN",
+            "ROIBU DRAGOS-STEFAN",
+            "SARAGEA CONSTANTIN"
           ]
         },
         {
@@ -7830,20 +7624,6 @@
           ]
         },
         {
-          "cui": 16054368,
-          "nume": "COMPANIA NAŢIONALĂ DE ADMINISTRARE A INFRASTRUCTURII RUTIERE S.A.",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BIRCHI ILEANA MIRELA",
-            "BUZASU SEPTIMIU",
-            "DUMITRU ALIN NICOLAE",
-            "MARCU MIREL ALEXANDRU",
-            "MIHALACHE COSTIN",
-            "PISTOL CRISTIAN OVIDIU CATALIN"
-          ]
-        },
-        {
           "cui": 31029694,
           "nume": "ACTIVE CONEXE S.A.",
           "bani_stat": false,
@@ -7858,6 +7638,15 @@
           ]
         },
         {
+          "cui": 37512956,
+          "nume": "SEVEN HILLS MANAGEMENT",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "MARCU MIREL ALEXANDRU"
+          ]
+        },
+        {
           "cui": 40817209,
           "nume": "TITAN POWER S.A.",
           "bani_stat": false,
@@ -7869,16 +7658,71 @@
             "IONESCU MIRELA",
             "MARIAN LUIZA"
           ]
+        }
+      ]
+    },
+    {
+      "n_companii": 5,
+      "n_companii_bani_stat": 4,
+      "total_bani_stat_ron": 666057699,
+      "admini": [
+        "CARANICA GEORGE-MARIUS",
+        "GURGU VASILICA",
+        "ICHIM SILVIA",
+        "MOTOC RADU-GEORGE",
+        "STINGA IULIAN-FLORENTIN",
+        "STINGA VASILICA"
+      ],
+      "n_admini": 6,
+      "companii": [
+        {
+          "cui": 12912884,
+          "nume": "PROMOTAS S.R.L.",
+          "bani_stat": true,
+          "total_ron": 626123161,
+          "admini": [
+            "MOTOC RADU-GEORGE"
+          ]
         },
         {
-          "cui": 45374854,
-          "nume": "NUCLEARELECTRICA SERV S.R.L.",
+          "cui": 40997363,
+          "nume": "STINMEX CONS",
+          "bani_stat": true,
+          "total_ron": 33325083,
+          "admini": [
+            "STINGA IULIAN-FLORENTIN",
+            "STINGA VASILICA"
+          ]
+        },
+        {
+          "cui": 24496751,
+          "nume": "SC MIDOTRANS SRL",
+          "bani_stat": true,
+          "total_ron": 5305905,
+          "admini": [
+            "STINGA IULIAN-FLORENTIN"
+          ]
+        },
+        {
+          "cui": 10625635,
+          "nume": "ECO SA",
+          "bani_stat": true,
+          "total_ron": 1303550,
+          "admini": [
+            "CARANICA GEORGE-MARIUS",
+            "GURGU VASILICA",
+            "ICHIM SILVIA",
+            "MOTOC RADU-GEORGE",
+            "STINGA IULIAN-FLORENTIN"
+          ]
+        },
+        {
+          "cui": 31523115,
+          "nume": "SC General Evo Code SRL",
           "bani_stat": false,
           "total_ron": 0,
           "admini": [
-            "ANTON CRISTIAN-IOAN",
-            "ROIBU DRAGOS-STEFAN",
-            "SARAGEA CONSTANTIN"
+            "STINGA VASILICA"
           ]
         }
       ]
@@ -8205,37 +8049,6 @@
       ]
     },
     {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 587650076,
-      "admini": [
-        "MENDREA PETRU SERGIU",
-        "TENEA TUDOR"
-      ],
-      "n_admini": 2,
-      "companii": [
-        {
-          "cui": 33842838,
-          "nume": "TECH IT SOLUTIONS SRL",
-          "bani_stat": true,
-          "total_ron": 587100076,
-          "admini": [
-            "MENDREA PETRU SERGIU",
-            "TENEA TUDOR"
-          ]
-        },
-        {
-          "cui": 44665863,
-          "nume": "TECH IT SOLAR POWER S.R.L.",
-          "bani_stat": true,
-          "total_ron": 550000,
-          "admini": [
-            "TENEA TUDOR"
-          ]
-        }
-      ]
-    },
-    {
       "n_companii": 6,
       "n_companii_bani_stat": 4,
       "total_bani_stat_ron": 587320640,
@@ -8378,8 +8191,8 @@
     },
     {
       "n_companii": 9,
-      "n_companii_bani_stat": 9,
-      "total_bani_stat_ron": 571224008,
+      "n_companii_bani_stat": 8,
+      "total_bani_stat_ron": 570621215,
       "admini": [
         "ADELA MARIA CIUCIOI",
         "ANDREEA VASILESCU",
@@ -8485,8 +8298,8 @@
         {
           "cui": 2627023,
           "nume": "KPMG ROMANIA S.R.L.",
-          "bani_stat": true,
-          "total_ron": 602793,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "ADELA MARIA CIUCIOI",
             "ANDREEA VASILESCU",
@@ -8599,37 +8412,6 @@
     {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 531196319,
-      "admini": [
-        "POP DOREL-VASILE",
-        "POP MARIUS-FLORIN"
-      ],
-      "n_admini": 2,
-      "companii": [
-        {
-          "cui": 33136700,
-          "nume": "S.C. SC MARDO LIGNA SRL S.R.L.",
-          "bani_stat": true,
-          "total_ron": 530667440,
-          "admini": [
-            "POP MARIUS-FLORIN"
-          ]
-        },
-        {
-          "cui": 6460687,
-          "nume": "INTERMASTERS IMPEX S.R.L.",
-          "bani_stat": true,
-          "total_ron": 528879,
-          "admini": [
-            "POP DOREL-VASILE",
-            "POP MARIUS-FLORIN"
-          ]
-        }
-      ]
-    },
-    {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
       "total_bani_stat_ron": 527781561,
       "admini": [
         "ALIMAN DANIEL OCTAVIAN",
@@ -8666,8 +8448,8 @@
     },
     {
       "n_companii": 12,
-      "n_companii_bani_stat": 7,
-      "total_bani_stat_ron": 527767874,
+      "n_companii_bani_stat": 6,
+      "total_bani_stat_ron": 527157874,
       "admini": [
         "POP ANDREI VASILE",
         "POP FLORIN",
@@ -8734,8 +8516,8 @@
         {
           "cui": 10114533,
           "nume": "POP FRANCE SRL",
-          "bani_stat": true,
-          "total_ron": 610000,
+          "bani_stat": false,
+          "total_ron": 0,
           "admini": [
             "POP VASILE"
           ]
@@ -8819,7 +8601,7 @@
     {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 514970783,
+      "total_bani_stat_ron": 514341540,
       "admini": [
         "BUCUR GABRIEL",
         "HAIDU IOAN OLIMPIU",
@@ -8832,7 +8614,7 @@
           "cui": 6148775,
           "nume": "SUTECH",
           "bani_stat": true,
-          "total_ron": 438534977,
+          "total_ron": 437905734,
           "admini": [
             "BUCUR GABRIEL",
             "HAIDU IOAN OLIMPIU"
@@ -9421,41 +9203,9 @@
       ]
     },
     {
-      "n_companii": 2,
-      "n_companii_bani_stat": 2,
-      "total_bani_stat_ron": 468940629,
-      "admini": [
-        "ALGERI ANTONELLO",
-        "GHEORGHITA VALI"
-      ],
-      "n_admini": 2,
-      "companii": [
-        {
-          "cui": 14834294,
-          "nume": "ECOSISTEM",
-          "bani_stat": true,
-          "total_ron": 468352067,
-          "admini": [
-            "ALGERI ANTONELLO",
-            "GHEORGHITA VALI"
-          ]
-        },
-        {
-          "cui": 32769216,
-          "nume": "FINROMEX EUROSERVICE SRL",
-          "bani_stat": true,
-          "total_ron": 588562,
-          "admini": [
-            "ALGERI ANTONELLO",
-            "GHEORGHITA VALI"
-          ]
-        }
-      ]
-    },
-    {
       "n_companii": 4,
-      "n_companii_bani_stat": 3,
-      "total_bani_stat_ron": 455860419,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 455358641,
       "admini": [
         "BOGAERT LAURENT MARIE P.",
         "JOSHUA ELI ZACHARIAS",
@@ -9490,23 +9240,23 @@
           ]
         },
         {
-          "cui": 2830353,
-          "nume": "AGROTEX SRL",
-          "bani_stat": true,
-          "total_ron": 501778,
-          "admini": [
-            "LATA ADRIAN MIRCEA",
-            "MOLDOVAN CRISTIAN",
-            "TONIGARIU-SIMA IULIA"
-          ]
-        },
-        {
           "cui": 2611817,
           "nume": "TURISM MONTANA SRL",
           "bani_stat": false,
           "total_ron": 0,
           "admini": [
             "MOLDOVAN CRISTIAN"
+          ]
+        },
+        {
+          "cui": 2830353,
+          "nume": "AGROTEX SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "LATA ADRIAN MIRCEA",
+            "MOLDOVAN CRISTIAN",
+            "TONIGARIU-SIMA IULIA"
           ]
         }
       ]
@@ -10158,6 +9908,243 @@
       ]
     },
     {
+      "n_companii": 19,
+      "n_companii_bani_stat": 14,
+      "total_bani_stat_ron": 359030300,
+      "admini": [
+        "ANDREI IONUT-VALERIU",
+        "BACHIDE EDUARD",
+        "BALAN CATALIN CLAUDIU",
+        "BALAN CRISTINA PETRONELA",
+        "BANIAS MIRCEA-MARIUS",
+        "BARZU KRISTIAN",
+        "BATRINCA GHIORGHE",
+        "BIRCHI ILEANA-MIRELA"
+      ],
+      "n_admini": 56,
+      "companii": [
+        {
+          "cui": 6788022,
+          "nume": "TEHNOTERM",
+          "bani_stat": true,
+          "total_ron": 206657295,
+          "admini": [
+            "PROFIRE MIHAI"
+          ]
+        },
+        {
+          "cui": 8422035,
+          "nume": "MEDLIFE",
+          "bani_stat": true,
+          "total_ron": 124979202,
+          "admini": [
+            "CHETA VOICU",
+            "FER OVIDIU",
+            "MARCU MIHAIL",
+            "MARCU NICOLAE",
+            "MIHAESCU ANA MARIA",
+            "PELINESCU OMCIUL DIMITRIE"
+          ]
+        },
+        {
+          "cui": 6383983,
+          "nume": "PKF FINCONTA",
+          "bani_stat": true,
+          "total_ron": 6016600,
+          "admini": [
+            "SUSNEA FLORENTINA"
+          ]
+        },
+        {
+          "cui": 15946407,
+          "nume": "CITADIN SA",
+          "bani_stat": true,
+          "total_ron": 4407580,
+          "admini": [
+            "BARZU KRISTIAN",
+            "BULGARU LIVIU-GABRIEL",
+            "GAZEA ANDREI",
+            "GHEORGHIU MARIA",
+            "NECULAU CATALIN",
+            "POSTOLACHE ADRIAN-GIGI"
+          ]
+        },
+        {
+          "cui": 15385770,
+          "nume": "GRB COMMAZ S.R.L.",
+          "bani_stat": true,
+          "total_ron": 3585434,
+          "admini": [
+            "COMAN CONSTANTA"
+          ]
+        },
+        {
+          "cui": 456920,
+          "nume": "ELECTRO TIRON SRL",
+          "bani_stat": true,
+          "total_ron": 3120617,
+          "admini": [
+            "TIRON VASILE"
+          ]
+        },
+        {
+          "cui": 1590236,
+          "nume": "REGISTRUL AUTO ROMAN RA",
+          "bani_stat": true,
+          "total_ron": 2870509,
+          "admini": [
+            "CHIRIAC PETRONEL",
+            "COSTA COSMIN-LASCUT",
+            "MINDRESCU BOGDAN - STELIAN",
+            "MORARU IOAN-DRAGOS",
+            "STEFAN COSTEL -DORIN"
+          ]
+        },
+        {
+          "cui": 11062831,
+          "nume": "COMPANIA NAŢIONALĂ \"ADMINISTRAŢIA PORTURILOR MARITIME\" - S.A.CONSTANŢA",
+          "bani_stat": true,
+          "total_ron": 1847850,
+          "admini": [
+            "BATRINCA GHIORGHE",
+            "CATANA DAN-ALEXANDRU",
+            "CHIRIAC PETRONEL",
+            "DIACONU CATALIN",
+            "DRAGAN MIHAI",
+            "LUNGOCI DUMITRU-LUCIAN"
+          ]
+        },
+        {
+          "cui": 16918650,
+          "nume": "SC ANA CONSTRUCT SRL",
+          "bani_stat": true,
+          "total_ron": 1261640,
+          "admini": [
+            "MIHAI CONSTANTIN"
+          ]
+        },
+        {
+          "cui": 14816433,
+          "nume": "SALUBRIS SA",
+          "bani_stat": true,
+          "total_ron": 1066262,
+          "admini": [
+            "BALAN CATALIN CLAUDIU",
+            "BALAN CRISTINA PETRONELA",
+            "GHEORGHIU MARIA",
+            "IORGA CATALIN IOAN",
+            "PROFIRE MIHAI",
+            "SAUCIUC CLAUDIU NARCIS"
+          ]
+        },
+        {
+          "cui": 28036276,
+          "nume": "TOTAL ENERGY SOLUTIONS SRL",
+          "bani_stat": true,
+          "total_ron": 915796,
+          "admini": [
+            "DIACONU CATALIN"
+          ]
+        },
+        {
+          "cui": 35345355,
+          "nume": "SC EXPERT AQUATERM SRL",
+          "bani_stat": true,
+          "total_ron": 798917,
+          "admini": [
+            "PROFIRE MIHAI"
+          ]
+        },
+        {
+          "cui": 1589932,
+          "nume": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA",
+          "bani_stat": true,
+          "total_ron": 764539,
+          "admini": [
+            "COJOC MARIUS-ADRIAN",
+            "COMAN CONSTANTA",
+            "ILIE LAURENTIU-ANDREI",
+            "SUSNEA FLORENTINA",
+            "TEODORESCU MIHAI"
+          ]
+        },
+        {
+          "cui": 12397185,
+          "nume": "COMPANIA NATIONALA \"LOTERIA ROMANA\" SA",
+          "bani_stat": true,
+          "total_ron": 738059,
+          "admini": [
+            "ANDREI IONUT-VALERIU",
+            "COMAN CONSTANTA",
+            "MIHAI CONSTANTIN",
+            "TIRA IOANA-MARIA"
+          ]
+        },
+        {
+          "cui": 472771,
+          "nume": "COMPANIA NATIONALA ROMTEHNICA SA",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "BACHIDE EDUARD",
+            "COMANESCU MARIA IULIA",
+            "CONSTANTINESCU ADRIAN CATALIN",
+            "IONICA ANGHEL FLORIAN",
+            "IONUT MISA",
+            "LASCU MARIN EUGEN"
+          ]
+        },
+        {
+          "cui": 11087755,
+          "nume": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA CANALELOR NAVIGABILE SA",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "BANIAS MIRCEA-MARIUS",
+            "CHETA VOICU",
+            "GOIDEA FLORIN",
+            "LUNGOCI DUMITRU-LUCIAN",
+            "VOICU ION-LAURENTIU"
+          ]
+        },
+        {
+          "cui": 13630601,
+          "nume": "COMMAZ SERV",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "COMAN CONSTANTA"
+          ]
+        },
+        {
+          "cui": 14134878,
+          "nume": "TERMO-SERVICE SA",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "BARZU KRISTIAN",
+            "DOMINTE EMA MARIA",
+            "FILIP GHEORGHE CRISTIAN",
+            "TIRON VASILE"
+          ]
+        },
+        {
+          "cui": 26490194,
+          "nume": "COMPANIA NATIONALA \"AEROPORTURI BUCURESTI\" SA",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "BACHIDE EDUARD",
+            "BIRCHI ILEANA-MIRELA",
+            "BUMBAC GEORGETA",
+            "BUNDUC CONSTANTIN-GABRIEL",
+            "DIACONU CATALIN",
+            "MIHALTAN COSMIN-FLORIN"
+          ]
+        }
+      ]
+    },
+    {
       "n_companii": 3,
       "n_companii_bani_stat": 3,
       "total_bani_stat_ron": 357275521,
@@ -10225,243 +10212,6 @@
           "admini": [
             "DINCA NICOLAE-IONUT",
             "HODOSAN SORIN-NICOLAE"
-          ]
-        }
-      ]
-    },
-    {
-      "n_companii": 19,
-      "n_companii_bani_stat": 11,
-      "total_bani_stat_ron": 353331654,
-      "admini": [
-        "ANDREI IONUT-VALERIU",
-        "BACHIDE EDUARD",
-        "BALAN CATALIN CLAUDIU",
-        "BALAN CRISTINA PETRONELA",
-        "BANIAS MIRCEA-MARIUS",
-        "BARZU KRISTIAN",
-        "BATRINCA GHIORGHE",
-        "BIRCHI ILEANA-MIRELA"
-      ],
-      "n_admini": 56,
-      "companii": [
-        {
-          "cui": 6788022,
-          "nume": "TEHNOTERM",
-          "bani_stat": true,
-          "total_ron": 206657295,
-          "admini": [
-            "PROFIRE MIHAI"
-          ]
-        },
-        {
-          "cui": 8422035,
-          "nume": "MEDLIFE",
-          "bani_stat": true,
-          "total_ron": 124598125,
-          "admini": [
-            "CHETA VOICU",
-            "FER OVIDIU",
-            "MARCU MIHAIL",
-            "MARCU NICOLAE",
-            "MIHAESCU ANA MARIA",
-            "PELINESCU OMCIUL DIMITRIE"
-          ]
-        },
-        {
-          "cui": 6383983,
-          "nume": "PKF FINCONTA",
-          "bani_stat": true,
-          "total_ron": 6644470,
-          "admini": [
-            "SUSNEA FLORENTINA"
-          ]
-        },
-        {
-          "cui": 15946407,
-          "nume": "CITADIN SA",
-          "bani_stat": true,
-          "total_ron": 4407580,
-          "admini": [
-            "BARZU KRISTIAN",
-            "BULGARU LIVIU-GABRIEL",
-            "GAZEA ANDREI",
-            "GHEORGHIU MARIA",
-            "NECULAU CATALIN",
-            "POSTOLACHE ADRIAN-GIGI"
-          ]
-        },
-        {
-          "cui": 15385770,
-          "nume": "GRB COMMAZ S.R.L.",
-          "bani_stat": true,
-          "total_ron": 3585434,
-          "admini": [
-            "COMAN CONSTANTA"
-          ]
-        },
-        {
-          "cui": 456920,
-          "nume": "ELECTRO TIRON SRL",
-          "bani_stat": true,
-          "total_ron": 3120617,
-          "admini": [
-            "TIRON VASILE"
-          ]
-        },
-        {
-          "cui": 16918650,
-          "nume": "SC ANA CONSTRUCT SRL",
-          "bani_stat": true,
-          "total_ron": 1261640,
-          "admini": [
-            "MIHAI CONSTANTIN"
-          ]
-        },
-        {
-          "cui": 28036276,
-          "nume": "TOTAL ENERGY SOLUTIONS SRL",
-          "bani_stat": true,
-          "total_ron": 915796,
-          "admini": [
-            "DIACONU CATALIN"
-          ]
-        },
-        {
-          "cui": 1590236,
-          "nume": "REGISTRUL AUTO ROMAN RA",
-          "bani_stat": true,
-          "total_ron": 840362,
-          "admini": [
-            "CHIRIAC PETRONEL",
-            "COSTA COSMIN-LASCUT",
-            "MINDRESCU BOGDAN - STELIAN",
-            "MORARU IOAN-DRAGOS",
-            "STEFAN COSTEL -DORIN"
-          ]
-        },
-        {
-          "cui": 35345355,
-          "nume": "SC EXPERT AQUATERM SRL",
-          "bani_stat": true,
-          "total_ron": 798917,
-          "admini": [
-            "PROFIRE MIHAI"
-          ]
-        },
-        {
-          "cui": 472771,
-          "nume": "COMPANIA NATIONALA ROMTEHNICA SA",
-          "bani_stat": true,
-          "total_ron": 501418,
-          "admini": [
-            "BACHIDE EDUARD",
-            "COMANESCU MARIA IULIA",
-            "CONSTANTINESCU ADRIAN CATALIN",
-            "IONICA ANGHEL FLORIAN",
-            "IONUT MISA",
-            "LASCU MARIN EUGEN"
-          ]
-        },
-        {
-          "cui": 1589932,
-          "nume": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "COJOC MARIUS-ADRIAN",
-            "COMAN CONSTANTA",
-            "ILIE LAURENTIU-ANDREI",
-            "SUSNEA FLORENTINA",
-            "TEODORESCU MIHAI"
-          ]
-        },
-        {
-          "cui": 11062831,
-          "nume": "COMPANIA NAŢIONALĂ \"ADMINISTRAŢIA PORTURILOR MARITIME\" - S.A.CONSTANŢA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BATRINCA GHIORGHE",
-            "CATANA DAN-ALEXANDRU",
-            "CHIRIAC PETRONEL",
-            "DIACONU CATALIN",
-            "DRAGAN MIHAI",
-            "LUNGOCI DUMITRU-LUCIAN"
-          ]
-        },
-        {
-          "cui": 11087755,
-          "nume": "COMPANIA NAŢIONALĂ ADMINISTRAŢIA CANALELOR NAVIGABILE SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BANIAS MIRCEA-MARIUS",
-            "CHETA VOICU",
-            "GOIDEA FLORIN",
-            "LUNGOCI DUMITRU-LUCIAN",
-            "VOICU ION-LAURENTIU"
-          ]
-        },
-        {
-          "cui": 12397185,
-          "nume": "COMPANIA NATIONALA \"LOTERIA ROMANA\" SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "ANDREI IONUT-VALERIU",
-            "COMAN CONSTANTA",
-            "MIHAI CONSTANTIN",
-            "TIRA IOANA-MARIA"
-          ]
-        },
-        {
-          "cui": 13630601,
-          "nume": "COMMAZ SERV",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "COMAN CONSTANTA"
-          ]
-        },
-        {
-          "cui": 14134878,
-          "nume": "TERMO-SERVICE SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BARZU KRISTIAN",
-            "DOMINTE EMA MARIA",
-            "FILIP GHEORGHE CRISTIAN",
-            "TIRON VASILE"
-          ]
-        },
-        {
-          "cui": 14816433,
-          "nume": "SALUBRIS SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BALAN CATALIN CLAUDIU",
-            "BALAN CRISTINA PETRONELA",
-            "GHEORGHIU MARIA",
-            "IORGA CATALIN IOAN",
-            "PROFIRE MIHAI",
-            "SAUCIUC CLAUDIU NARCIS"
-          ]
-        },
-        {
-          "cui": 26490194,
-          "nume": "COMPANIA NATIONALA \"AEROPORTURI BUCURESTI\" SA",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "BACHIDE EDUARD",
-            "BIRCHI ILEANA-MIRELA",
-            "BUMBAC GEORGETA",
-            "BUNDUC CONSTANTIN-GABRIEL",
-            "DIACONU CATALIN",
-            "MIHALTAN COSMIN-FLORIN"
           ]
         }
       ]
@@ -10709,6 +10459,82 @@
       ]
     },
     {
+      "n_companii": 6,
+      "n_companii_bani_stat": 5,
+      "total_bani_stat_ron": 339612092,
+      "admini": [
+        "BOTEA CORNEL",
+        "MATEI CLAUDIA-TATIANA",
+        "ROMEDEA RADU-PAUL",
+        "SELBY JESSICA - MAXINE",
+        "SELBY JESSICA-MAXINE",
+        "SELBY MICHAEL LEWIS JOHN"
+      ],
+      "n_admini": 6,
+      "companii": [
+        {
+          "cui": 13362380,
+          "nume": "SANPRODMED S.R.L.",
+          "bani_stat": true,
+          "total_ron": 173298402,
+          "admini": [
+            "ROMEDEA RADU-PAUL",
+            "SELBY JESSICA-MAXINE"
+          ]
+        },
+        {
+          "cui": 13373052,
+          "nume": "INFO WORLD",
+          "bani_stat": true,
+          "total_ron": 154981759,
+          "admini": [
+            "BOTEA CORNEL",
+            "SELBY JESSICA-MAXINE"
+          ]
+        },
+        {
+          "cui": 43058570,
+          "nume": "CYMED SECURITY TECHNOLOGIES S.R.L.",
+          "bani_stat": true,
+          "total_ron": 8329878,
+          "admini": [
+            "SELBY JESSICA - MAXINE",
+            "SELBY MICHAEL LEWIS JOHN"
+          ]
+        },
+        {
+          "cui": 13368447,
+          "nume": "MEDCENTER S.R.L.",
+          "bani_stat": true,
+          "total_ron": 1660351,
+          "admini": [
+            "MATEI CLAUDIA-TATIANA",
+            "ROMEDEA RADU-PAUL"
+          ]
+        },
+        {
+          "cui": 29956940,
+          "nume": "S.C. OPEN SOLUTIONS & SERVICES S.R.L.",
+          "bani_stat": true,
+          "total_ron": 1341702,
+          "admini": [
+            "SELBY JESSICA-MAXINE",
+            "SELBY MICHAEL LEWIS JOHN"
+          ]
+        },
+        {
+          "cui": 7025550,
+          "nume": "MEDICAROM  GROUP S.R.L.",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "ROMEDEA RADU-PAUL",
+            "SELBY JESSICA-MAXINE"
+          ]
+        }
+      ]
+    },
+    {
       "n_companii": 3,
       "n_companii_bani_stat": 3,
       "total_bani_stat_ron": 338873408,
@@ -10789,82 +10615,6 @@
       ]
     },
     {
-      "n_companii": 6,
-      "n_companii_bani_stat": 5,
-      "total_bani_stat_ron": 335365618,
-      "admini": [
-        "BOTEA CORNEL",
-        "MATEI CLAUDIA-TATIANA",
-        "ROMEDEA RADU-PAUL",
-        "SELBY JESSICA - MAXINE",
-        "SELBY JESSICA-MAXINE",
-        "SELBY MICHAEL LEWIS JOHN"
-      ],
-      "n_admini": 6,
-      "companii": [
-        {
-          "cui": 13362380,
-          "nume": "SANPRODMED S.R.L.",
-          "bani_stat": true,
-          "total_ron": 173298402,
-          "admini": [
-            "ROMEDEA RADU-PAUL",
-            "SELBY JESSICA-MAXINE"
-          ]
-        },
-        {
-          "cui": 13373052,
-          "nume": "INFO WORLD",
-          "bani_stat": true,
-          "total_ron": 154981759,
-          "admini": [
-            "BOTEA CORNEL",
-            "SELBY JESSICA-MAXINE"
-          ]
-        },
-        {
-          "cui": 43058570,
-          "nume": "CYMED SECURITY TECHNOLOGIES S.R.L.",
-          "bani_stat": true,
-          "total_ron": 4083404,
-          "admini": [
-            "SELBY JESSICA - MAXINE",
-            "SELBY MICHAEL LEWIS JOHN"
-          ]
-        },
-        {
-          "cui": 13368447,
-          "nume": "MEDCENTER S.R.L.",
-          "bani_stat": true,
-          "total_ron": 1660351,
-          "admini": [
-            "MATEI CLAUDIA-TATIANA",
-            "ROMEDEA RADU-PAUL"
-          ]
-        },
-        {
-          "cui": 29956940,
-          "nume": "S.C. OPEN SOLUTIONS & SERVICES S.R.L.",
-          "bani_stat": true,
-          "total_ron": 1341702,
-          "admini": [
-            "SELBY JESSICA-MAXINE",
-            "SELBY MICHAEL LEWIS JOHN"
-          ]
-        },
-        {
-          "cui": 7025550,
-          "nume": "MEDICAROM  GROUP S.R.L.",
-          "bani_stat": false,
-          "total_ron": 0,
-          "admini": [
-            "ROMEDEA RADU-PAUL",
-            "SELBY JESSICA-MAXINE"
-          ]
-        }
-      ]
-    },
-    {
       "n_companii": 2,
       "n_companii_bani_stat": 2,
       "total_bani_stat_ron": 332140616,
@@ -10892,14 +10642,437 @@
           ]
         }
       ]
+    },
+    {
+      "n_companii": 4,
+      "n_companii_bani_stat": 3,
+      "total_bani_stat_ron": 328807867,
+      "admini": [
+        "BARBU NELU-VASILE",
+        "MILITARU ANDREI MARIAN",
+        "MUSOI ROXANA GEORGIANA",
+        "OLTEANU ADRIAN",
+        "OSMAN AKAN",
+        "PORTASA IULIAN",
+        "SIRBU DRAGOS-NICOLAE",
+        "STANCIU GABRIEL IULIAN"
+      ],
+      "n_admini": 9,
+      "companii": [
+        {
+          "cui": 1397872,
+          "nume": "FORAJ SONDE",
+          "bani_stat": true,
+          "total_ron": 255001681,
+          "admini": [
+            "MUSOI ROXANA GEORGIANA",
+            "PORTASA IULIAN"
+          ]
+        },
+        {
+          "cui": 33427149,
+          "nume": "DUTCH TRUCK SERVICES",
+          "bani_stat": true,
+          "total_ron": 40073205,
+          "admini": [
+            "STANCIU GABRIEL IULIAN"
+          ]
+        },
+        {
+          "cui": 27698631,
+          "nume": "SC FLANCO RETAIL SA",
+          "bani_stat": true,
+          "total_ron": 33732981,
+          "admini": [
+            "MILITARU ANDREI MARIAN",
+            "OLTEANU ADRIAN",
+            "PORTASA IULIAN",
+            "SIRBU DRAGOS-NICOLAE",
+            "STANCIU GABRIEL IULIAN"
+          ]
+        },
+        {
+          "cui": 14893410,
+          "nume": "Grup Exploatare si Intretinere Palat C.F.R. SA",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "BARBU NELU-VASILE",
+            "OLTEANU ADRIAN",
+            "OSMAN AKAN",
+            "TURMAC GEORGE-ADRIAN"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 2,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 328453552,
+      "admini": [
+        "MUNTIANU IOAN",
+        "MUNTIANU ION",
+        "WOLFGANG WEINRICH"
+      ],
+      "n_admini": 3,
+      "companii": [
+        {
+          "cui": 8375340,
+          "nume": "ROMAN IMPEX PREST S.R.L.",
+          "bani_stat": true,
+          "total_ron": 325767863,
+          "admini": [
+            "MUNTIANU IOAN",
+            "MUNTIANU ION"
+          ]
+        },
+        {
+          "cui": 18927728,
+          "nume": "CHV CONTAINER RO S.R.L.",
+          "bani_stat": true,
+          "total_ron": 2685689,
+          "admini": [
+            "MUNTIANU IOAN",
+            "WOLFGANG WEINRICH"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 2,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 324042358,
+      "admini": [
+        "DRAGOMIR IONELA"
+      ],
+      "n_admini": 1,
+      "companii": [
+        {
+          "cui": 28794181,
+          "nume": "GLOBAL TECH XPERT",
+          "bani_stat": true,
+          "total_ron": 323200975,
+          "admini": [
+            "DRAGOMIR IONELA"
+          ]
+        },
+        {
+          "cui": 33383158,
+          "nume": "NEXT BIKE SRL",
+          "bani_stat": true,
+          "total_ron": 841383,
+          "admini": [
+            "DRAGOMIR IONELA"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 10,
+      "n_companii_bani_stat": 3,
+      "total_bani_stat_ron": 323609924,
+      "admini": [
+        "CRETU FLORENTA-SIMONA",
+        "GAZDAG GEZA",
+        "MANOLEA MIRELA-CAMELIA",
+        "POPESCU GHEORGHE"
+      ],
+      "n_admini": 4,
+      "companii": [
+        {
+          "cui": 3523438,
+          "nume": "ELECTROCONSTRUCTIA ELCO TIRGU JIU",
+          "bani_stat": true,
+          "total_ron": 240104256,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 30759240,
+          "nume": "HARD EXPERT CONSULTING S.R.L.",
+          "bani_stat": true,
+          "total_ron": 82765151,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 6605176,
+          "nume": "H EL P HARD ELECTRONIC S.R.L.",
+          "bani_stat": true,
+          "total_ron": 740517,
+          "admini": [
+            "GAZDAG GEZA",
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 7138303,
+          "nume": "SC CONFIDENT EXPERT CP SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 15306157,
+          "nume": "ROMGERMINA SOFT SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 22812017,
+          "nume": "EDEN 2007 SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 24262467,
+          "nume": "MEGTRANS GRUP S.R.L.",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 31718265,
+          "nume": "SPECTAROM AG SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 32743593,
+          "nume": "UTIL-ADSIC FÂNTÂNELE SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "CRETU FLORENTA-SIMONA",
+            "MANOLEA MIRELA-CAMELIA",
+            "POPESCU GHEORGHE"
+          ]
+        },
+        {
+          "cui": 38636359,
+          "nume": "APA SERV TOP STÂLPENI S.R.L.",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "POPESCU GHEORGHE"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 3,
+      "n_companii_bani_stat": 3,
+      "total_bani_stat_ron": 318638276,
+      "admini": [
+        "COSTIN BOGDAN IOAN",
+        "COSTIN BOGDAN-IOAN",
+        "VLAD MIHAI"
+      ],
+      "n_admini": 3,
+      "companii": [
+        {
+          "cui": 36586033,
+          "nume": "COSTIN SI VLAD BIROU DE PROIECTARE SRL",
+          "bani_stat": true,
+          "total_ron": 167073131,
+          "admini": [
+            "COSTIN BOGDAN-IOAN",
+            "VLAD MIHAI"
+          ]
+        },
+        {
+          "cui": 25138697,
+          "nume": "Sc Somes-Top-Grup Srl",
+          "bani_stat": true,
+          "total_ron": 146385145,
+          "admini": [
+            "COSTIN BOGDAN IOAN"
+          ]
+        },
+        {
+          "cui": 46887408,
+          "nume": "CVBP STRUCTURI S.R.L.",
+          "bani_stat": true,
+          "total_ron": 5180000,
+          "admini": [
+            "COSTIN BOGDAN IOAN",
+            "VLAD MIHAI"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 2,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 318617843,
+      "admini": [
+        "ANHELIUC GELU"
+      ],
+      "n_admini": 1,
+      "companii": [
+        {
+          "cui": 27098220,
+          "nume": "ROGERA PREST COM",
+          "bani_stat": true,
+          "total_ron": 183102845,
+          "admini": [
+            "ANHELIUC GELU"
+          ]
+        },
+        {
+          "cui": 15197220,
+          "nume": "ROGERA",
+          "bani_stat": true,
+          "total_ron": 135514998,
+          "admini": [
+            "ANHELIUC GELU"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 2,
+      "n_companii_bani_stat": 2,
+      "total_bani_stat_ron": 315885961,
+      "admini": [
+        "PRUNAS GELU"
+      ],
+      "n_admini": 1,
+      "companii": [
+        {
+          "cui": 37881821,
+          "nume": "CONART STRUCTURI",
+          "bani_stat": true,
+          "total_ron": 280486338,
+          "admini": [
+            "PRUNAS GELU"
+          ]
+        },
+        {
+          "cui": 45389316,
+          "nume": "BIRENDRA",
+          "bani_stat": true,
+          "total_ron": 35399623,
+          "admini": [
+            "PRUNAS GELU"
+          ]
+        }
+      ]
+    },
+    {
+      "n_companii": 8,
+      "n_companii_bani_stat": 7,
+      "total_bani_stat_ron": 310177764,
+      "admini": [
+        "VIDRASCU DAN - ANATOLEVICI",
+        "VIDRASCU DAN ANATOLEVICI",
+        "VIDRASCU DAN-ANATOLEVICI",
+        "VIDRASCU MARIN"
+      ],
+      "n_admini": 4,
+      "companii": [
+        {
+          "cui": 26475186,
+          "nume": "Grup Editorial Litera",
+          "bani_stat": true,
+          "total_ron": 96222545,
+          "admini": [
+            "VIDRASCU DAN - ANATOLEVICI",
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 28930917,
+          "nume": "LITERA EDUCAŢIONAL S.R.L.",
+          "bani_stat": true,
+          "total_ron": 83693655,
+          "admini": [
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 32043930,
+          "nume": "BLOCLIT CONSTRUCT",
+          "bani_stat": true,
+          "total_ron": 58299058,
+          "admini": [
+            "VIDRASCU DAN - ANATOLEVICI",
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 42179344,
+          "nume": "Idea Papel Distribution",
+          "bani_stat": true,
+          "total_ron": 53807475,
+          "admini": [
+            "VIDRASCU DAN-ANATOLEVICI",
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 43276191,
+          "nume": "CITESTE.RO S.R.L.",
+          "bani_stat": true,
+          "total_ron": 13353468,
+          "admini": [
+            "VIDRASCU DAN ANATOLEVICI",
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 48490454,
+          "nume": "DROP OF INK PUBLISHING",
+          "bani_stat": true,
+          "total_ron": 2951200,
+          "admini": [
+            "VIDRASCU DAN ANATOLEVICI",
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 43278559,
+          "nume": "RECREATION.PERFECTIONARE PERSONALĂ ŞI PROFESIONALĂ S.R.L.",
+          "bani_stat": true,
+          "total_ron": 1850363,
+          "admini": [
+            "VIDRASCU DAN-ANATOLEVICI",
+            "VIDRASCU MARIN"
+          ]
+        },
+        {
+          "cui": 10752035,
+          "nume": "SC  Editura Litera International SRL",
+          "bani_stat": false,
+          "total_ron": 0,
+          "admini": [
+            "VIDRASCU DAN ANATOLEVICI"
+          ]
+        }
+      ]
     }
   ],
   "huburi": [
     {
       "admin": "AFENDULIS ION",
       "n_firme": 37,
-      "n_firme_bani_stat": 18,
-      "total_bani_stat_ron": 27529091,
+      "n_firme_bani_stat": 15,
+      "total_bani_stat_ron": 25816899,
       "companii": [
         {
           "cui": 14336680,
@@ -10981,8 +11154,8 @@
     {
       "admin": "POP IOAN",
       "n_firme": 19,
-      "n_firme_bani_stat": 14,
-      "total_bani_stat_ron": 73403379,
+      "n_firme_bani_stat": 12,
+      "total_bani_stat_ron": 72253146,
       "companii": [
         {
           "cui": 13589308,
@@ -11038,16 +11211,6 @@
           "cui": 2219784,
           "nume": "Rohcomplex SRL",
           "total_ron": 643363
-        },
-        {
-          "cui": 15461363,
-          "nume": "BIG JOHN HOLDINGS S.R.L.",
-          "total_ron": 634858
-        },
-        {
-          "cui": 35222182,
-          "nume": "ARCA REZIDENT COSTRUCT SRL",
-          "total_ron": 515375
         },
         {
           "cui": 6064801,
@@ -11125,126 +11288,10 @@
       ]
     },
     {
-      "admin": "BUSUIOC ANAMARIA-FLORINA",
-      "n_firme": 11,
-      "n_firme_bani_stat": 11,
-      "total_bani_stat_ron": 23748641,
-      "companii": [
-        {
-          "cui": 38988894,
-          "nume": "MARISAR SPORT",
-          "total_ron": 14667770
-        },
-        {
-          "cui": 39805910,
-          "nume": "MARISAR PERFECT BUILD",
-          "total_ron": 1364000
-        },
-        {
-          "cui": 38992518,
-          "nume": "SC MARISAR BUILDING SRL",
-          "total_ron": 1287397
-        },
-        {
-          "cui": 39488544,
-          "nume": "MARISAR AGREMENT",
-          "total_ron": 1128500
-        },
-        {
-          "cui": 39804329,
-          "nume": "MARISAR EXTREM",
-          "total_ron": 1000500
-        },
-        {
-          "cui": 39804337,
-          "nume": "MARISAR MULTISPORT SRL",
-          "total_ron": 992281
-        },
-        {
-          "cui": 39488536,
-          "nume": "SC MARISAR PROFOOT SRL",
-          "total_ron": 877000
-        },
-        {
-          "cui": 32921330,
-          "nume": "BRISA CONSULT SRL",
-          "total_ron": 811193
-        },
-        {
-          "cui": 46043948,
-          "nume": "MARISAR IMPERIALAWN S.R.L.",
-          "total_ron": 591000
-        },
-        {
-          "cui": 45886838,
-          "nume": "MARISAR SISTEM",
-          "total_ron": 531000
-        },
-        {
-          "cui": 45841550,
-          "nume": "MARISAR DESIGNSPORT",
-          "total_ron": 498000
-        }
-      ]
-    },
-    {
-      "admin": "BALTSAVIAS SPYRIDON",
-      "n_firme": 9,
-      "n_firme_bani_stat": 9,
-      "total_bani_stat_ron": 72442459,
-      "companii": [
-        {
-          "cui": 25558321,
-          "nume": "TIMOVLADIAN AQUA PARC",
-          "total_ron": 63840481
-        },
-        {
-          "cui": 37170454,
-          "nume": "TIMOVLADIAN BUILDING SRL",
-          "total_ron": 1390272
-        },
-        {
-          "cui": 38128733,
-          "nume": "TIMOVLADIAN EVOLUTION SRL",
-          "total_ron": 1252000
-        },
-        {
-          "cui": 37170462,
-          "nume": "TIMOVLADIAN DESIGN&BUILD SRL",
-          "total_ron": 1219233
-        },
-        {
-          "cui": 38126970,
-          "nume": "TIMOVLADIAN PRODUCT",
-          "total_ron": 1113900
-        },
-        {
-          "cui": 38126961,
-          "nume": "TIMOVLADIAN DISTRIBUTION SRL",
-          "total_ron": 1112714
-        },
-        {
-          "cui": 36873936,
-          "nume": "SC TIMOVLADIAN CONCEPT SRL",
-          "total_ron": 970993
-        },
-        {
-          "cui": 37270879,
-          "nume": "CADBU CONS SRL",
-          "total_ron": 905210
-        },
-        {
-          "cui": 38127037,
-          "nume": "TIMOVLADIAN TRADING SRL",
-          "total_ron": 637656
-        }
-      ]
-    },
-    {
       "admin": "RADU ALEXANDRU",
       "n_firme": 10,
       "n_firme_bani_stat": 9,
-      "total_bani_stat_ron": 67778695,
+      "total_bani_stat_ron": 67275133,
       "companii": [
         {
           "cui": 50826310,
@@ -11254,7 +11301,7 @@
         {
           "cui": 8982580,
           "nume": "INDAELTRAC",
-          "total_ron": 5522922
+          "total_ron": 5019360
         },
         {
           "cui": 34635512,
@@ -11390,179 +11437,98 @@
       ]
     },
     {
-      "admin": "TOMA CONSTANTIN",
-      "n_firme": 8,
+      "admin": "BALTSAVIAS SPYRIDON",
+      "n_firme": 9,
       "n_firme_bani_stat": 8,
-      "total_bani_stat_ron": 8257622,
+      "total_bani_stat_ron": 71804803,
       "companii": [
         {
-          "cui": 27252417,
-          "nume": "TABITA-TIPO",
-          "total_ron": 1996252
+          "cui": 25558321,
+          "nume": "TIMOVLADIAN AQUA PARC",
+          "total_ron": 63840481
         },
         {
-          "cui": 31524463,
-          "nume": "FAIA TEXT S.R.L.",
-          "total_ron": 1972117
+          "cui": 37170454,
+          "nume": "TIMOVLADIAN BUILDING SRL",
+          "total_ron": 1390272
         },
         {
-          "cui": 42039421,
-          "nume": "PRINT CEMIT",
-          "total_ron": 1225444
+          "cui": 38128733,
+          "nume": "TIMOVLADIAN EVOLUTION SRL",
+          "total_ron": 1252000
         },
         {
-          "cui": 25308929,
-          "nume": "SINCRON TRANS CONSTRUCT 2009 SRL",
-          "total_ron": 883406
+          "cui": 37170462,
+          "nume": "TIMOVLADIAN DESIGN&BUILD SRL",
+          "total_ron": 1219233
         },
         {
-          "cui": 47003240,
-          "nume": "IUSTI PRINT S.R.L.",
-          "total_ron": 730938
+          "cui": 38126970,
+          "nume": "TIMOVLADIAN PRODUCT",
+          "total_ron": 1113900
         },
         {
-          "cui": 569791,
-          "nume": "SILVAPEX S.R.L.",
-          "total_ron": 557900
+          "cui": 38126961,
+          "nume": "TIMOVLADIAN DISTRIBUTION SRL",
+          "total_ron": 1112714
         },
         {
-          "cui": 1576509,
-          "nume": "GRIRO S.A.",
-          "total_ron": 540156
+          "cui": 36873936,
+          "nume": "SC TIMOVLADIAN CONCEPT SRL",
+          "total_ron": 970993
         },
         {
-          "cui": 29522037,
-          "nume": "ADY-TOM EXPEDIȚII SERV",
-          "total_ron": 351408
+          "cui": 37270879,
+          "nume": "CADBU CONS SRL",
+          "total_ron": 905210
         }
       ]
     },
     {
-      "admin": "POPESCU ION",
-      "n_firme": 12,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 929312174,
+      "admin": "BUSUIOC ANAMARIA-FLORINA",
+      "n_firme": 11,
+      "n_firme_bani_stat": 8,
+      "total_bani_stat_ron": 22128641,
       "companii": [
         {
-          "cui": 8188318,
-          "nume": "OLTINA TRADING",
-          "total_ron": 918428865
+          "cui": 38988894,
+          "nume": "MARISAR SPORT",
+          "total_ron": 14667770
         },
         {
-          "cui": 12997414,
-          "nume": "MM PRODCOM '56 S.R.L.",
-          "total_ron": 5390441
+          "cui": 39805910,
+          "nume": "MARISAR PERFECT BUILD",
+          "total_ron": 1364000
         },
         {
-          "cui": 5892830,
-          "nume": "NOV EXTRA COMPANY SRL",
-          "total_ron": 2214983
+          "cui": 38992518,
+          "nume": "SC MARISAR BUILDING SRL",
+          "total_ron": 1287397
         },
         {
-          "cui": 18177103,
-          "nume": "SC GLOBAL ELECTROCONSTRUCT SRL",
-          "total_ron": 1670364
+          "cui": 39488544,
+          "nume": "MARISAR AGREMENT",
+          "total_ron": 1128500
         },
         {
-          "cui": 37225550,
-          "nume": "UPETROM 1MAI MANUFACTURING",
-          "total_ron": 885580
+          "cui": 39804329,
+          "nume": "MARISAR EXTREM",
+          "total_ron": 1000500
         },
         {
-          "cui": 28122962,
-          "nume": "SC PIMPOI FOREST SRL",
-          "total_ron": 629240
+          "cui": 39804337,
+          "nume": "MARISAR MULTISPORT SRL",
+          "total_ron": 992281
         },
         {
-          "cui": 17227025,
-          "nume": "FLORPOP",
-          "total_ron": 92700
-        }
-      ]
-    },
-    {
-      "admin": "IONESCU MIHAELA",
-      "n_firme": 7,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 543335740,
-      "companii": [
-        {
-          "cui": 17561261,
-          "nume": "SIMPA CONSULT",
-          "total_ron": 524585370
+          "cui": 39488536,
+          "nume": "SC MARISAR PROFOOT SRL",
+          "total_ron": 877000
         },
         {
-          "cui": 13204347,
-          "nume": "KPMG ADVISORY SRL",
-          "total_ron": 11248902
-        },
-        {
-          "cui": 14607801,
-          "nume": "SC EL&COM PREST 2002  SRL",
-          "total_ron": 4154857
-        },
-        {
-          "cui": 11413193,
-          "nume": "BRODMI S.R.L.",
-          "total_ron": 1386402
-        },
-        {
-          "cui": 21619817,
-          "nume": "IDO NET",
-          "total_ron": 699057
-        },
-        {
-          "cui": 33040591,
-          "nume": "SOFTI COMPACT ACTIV SRL",
-          "total_ron": 658360
-        },
-        {
-          "cui": 2627023,
-          "nume": "KPMG ROMANIA S.R.L.",
-          "total_ron": 602793
-        }
-      ]
-    },
-    {
-      "admin": "POP VASILE",
-      "n_firme": 12,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 527767873,
-      "companii": [
-        {
-          "cui": 4036970,
-          "nume": "LUCY STAR SRL",
-          "total_ron": 410013117
-        },
-        {
-          "cui": 17855216,
-          "nume": "BETASIL S.R.L.",
-          "total_ron": 71404096
-        },
-        {
-          "cui": 41549660,
-          "nume": "BETA RESIDENCE SRL",
-          "total_ron": 38933300
-        },
-        {
-          "cui": 8024439,
-          "nume": "ESEDRA S.R.L.",
-          "total_ron": 3999971
-        },
-        {
-          "cui": 18022605,
-          "nume": "SC VASMOB SRL",
-          "total_ron": 1544455
-        },
-        {
-          "cui": 5207520,
-          "nume": "POVASID COM S.R.L.",
-          "total_ron": 1262935
-        },
-        {
-          "cui": 10114533,
-          "nume": "POP FRANCE SRL",
-          "total_ron": 610000
+          "cui": 32921330,
+          "nume": "BRISA CONSULT SRL",
+          "total_ron": 811193
         }
       ]
     },
@@ -11610,178 +11576,6 @@
       ]
     },
     {
-      "admin": "NASTASIA FLORIN",
-      "n_firme": 11,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 31761153,
-      "companii": [
-        {
-          "cui": 31138772,
-          "nume": "VAL-LUC PROIECT S.R.L.",
-          "total_ron": 13704268
-        },
-        {
-          "cui": 31540833,
-          "nume": "TEHNIC INSTAL INVEST SRL",
-          "total_ron": 7963837
-        },
-        {
-          "cui": 33318931,
-          "nume": "SC ACTIVITY FORMER SRL",
-          "total_ron": 5879311
-        },
-        {
-          "cui": 43125903,
-          "nume": "AMIGAP LEARNING S.R.L.",
-          "total_ron": 2243093
-        },
-        {
-          "cui": 31540981,
-          "nume": "SC TERMICE INTT SRL",
-          "total_ron": 770894
-        },
-        {
-          "cui": 31456342,
-          "nume": "MANUSE SAFETY SRL",
-          "total_ron": 617500
-        },
-        {
-          "cui": 33284839,
-          "nume": "sc statal avantaj srl",
-          "total_ron": 582248
-        }
-      ]
-    },
-    {
-      "admin": "SERBAN ALEXANDRU",
-      "n_firme": 7,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 31032344,
-      "companii": [
-        {
-          "cui": 5668427,
-          "nume": "CRIOMEC S.A.",
-          "total_ron": 13079891
-        },
-        {
-          "cui": 33575501,
-          "nume": "MISAN EXPERT SRL",
-          "total_ron": 5788582
-        },
-        {
-          "cui": 44574978,
-          "nume": "SEDAV SPEED S.R.L.",
-          "total_ron": 3888414
-        },
-        {
-          "cui": 19056770,
-          "nume": "AS IT CONSTRUCT",
-          "total_ron": 3342551
-        },
-        {
-          "cui": 5394445,
-          "nume": "MOBIMEX 94",
-          "total_ron": 2721024
-        },
-        {
-          "cui": 39173414,
-          "nume": "MICROGUARD",
-          "total_ron": 1593366
-        },
-        {
-          "cui": 12433385,
-          "nume": "Global Communications Services Romania S.A.",
-          "total_ron": 618515
-        }
-      ]
-    },
-    {
-      "admin": "POPA ADRIAN",
-      "n_firme": 9,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 26862224,
-      "companii": [
-        {
-          "cui": 24481033,
-          "nume": "ESS S.R.L.",
-          "total_ron": 10165076
-        },
-        {
-          "cui": 34010106,
-          "nume": "AD WEST CONSTRUCT",
-          "total_ron": 9091488
-        },
-        {
-          "cui": 37033236,
-          "nume": "STEMAR EXECUTII CONSTRUCTII",
-          "total_ron": 2904684
-        },
-        {
-          "cui": 32636759,
-          "nume": "AVA GOLD CONSTRUCT",
-          "total_ron": 2420941
-        },
-        {
-          "cui": 36193530,
-          "nume": "ADRIAN TOPOGRAPHY",
-          "total_ron": 866133
-        },
-        {
-          "cui": 31222511,
-          "nume": "TRUSERV BARBER'S SRL",
-          "total_ron": 849486
-        },
-        {
-          "cui": 28044945,
-          "nume": "E DIGITAL SPORT",
-          "total_ron": 564416
-        }
-      ]
-    },
-    {
-      "admin": "OPREA ADRIAN",
-      "n_firme": 8,
-      "n_firme_bani_stat": 7,
-      "total_bani_stat_ron": 11017880,
-      "companii": [
-        {
-          "cui": 36060518,
-          "nume": "DC ART CONCEPT S.R.L.",
-          "total_ron": 5301020
-        },
-        {
-          "cui": 49984855,
-          "nume": "STYLE & DANCE S.R.L.",
-          "total_ron": 1204600
-        },
-        {
-          "cui": 37240509,
-          "nume": "VERTICAL SPACE S.R.L.",
-          "total_ron": 1190700
-        },
-        {
-          "cui": 42453201,
-          "nume": "DAVADI BUILDING S.R.L.",
-          "total_ron": 1109636
-        },
-        {
-          "cui": 48761812,
-          "nume": "DAVIDANS STYLE S.R.L.",
-          "total_ron": 909500
-        },
-        {
-          "cui": 50557599,
-          "nume": "EDUCATION ART",
-          "total_ron": 775012
-        },
-        {
-          "cui": 47494032,
-          "nume": "KIDS ART&TEHNIC S.R.L.",
-          "total_ron": 527412
-        }
-      ]
-    },
-    {
       "admin": "IFTIME SERBAN",
       "n_firme": 6,
       "n_firme_bani_stat": 6,
@@ -11823,7 +11617,7 @@
       "admin": "ENACHE DANIEL",
       "n_firme": 7,
       "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 6385437585,
+      "total_bani_stat_ron": 6384937916,
       "companii": [
         {
           "cui": 4851409,
@@ -11833,7 +11627,7 @@
         {
           "cui": 3008793,
           "nume": "CATENA PHARMA",
-          "total_ron": 9009996
+          "total_ron": 8510327
         },
         {
           "cui": 15682445,
@@ -11861,7 +11655,7 @@
       "admin": "DEVIGNE ERIC PHILIPPE",
       "n_firme": 6,
       "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 5402672725,
+      "total_bani_stat_ron": 5402157164,
       "companii": [
         {
           "cui": 211717,
@@ -11881,7 +11675,7 @@
         {
           "cui": 13818681,
           "nume": "STIZO NUCLEAR",
-          "total_ron": 4491555
+          "total_ron": 3975994
         },
         {
           "cui": 9921068,
@@ -11896,40 +11690,116 @@
       ]
     },
     {
-      "admin": "POPA GHEORGHE",
+      "admin": "POPESCU ION",
       "n_firme": 12,
       "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 1697052494,
+      "total_bani_stat_ron": 928682934,
       "companii": [
         {
-          "cui": 5020610,
-          "nume": "GERVIS",
-          "total_ron": 1688531667
+          "cui": 8188318,
+          "nume": "OLTINA TRADING",
+          "total_ron": 918428865
         },
         {
-          "cui": 2684096,
-          "nume": "GAMMIS S.R.L.",
-          "total_ron": 4616355
+          "cui": 12997414,
+          "nume": "MM PRODCOM '56 S.R.L.",
+          "total_ron": 5390441
         },
         {
-          "cui": 29640130,
-          "nume": "SC D.M.G. Profil Point SRL",
-          "total_ron": 1559236
+          "cui": 5892830,
+          "nume": "NOV EXTRA COMPANY SRL",
+          "total_ron": 2214983
         },
         {
-          "cui": 36883301,
-          "nume": "nico mix shop srl",
-          "total_ron": 1162020
+          "cui": 18177103,
+          "nume": "SC GLOBAL ELECTROCONSTRUCT SRL",
+          "total_ron": 1670364
         },
         {
-          "cui": 27423410,
-          "nume": "S.C. CAR WASH DEN S.R.L.",
-          "total_ron": 658365
+          "cui": 37225550,
+          "nume": "UPETROM 1MAI MANUFACTURING",
+          "total_ron": 885580
         },
         {
-          "cui": 33079893,
-          "nume": "PATYPO",
-          "total_ron": 524851
+          "cui": 17227025,
+          "nume": "FLORPOP",
+          "total_ron": 92700
+        }
+      ]
+    },
+    {
+      "admin": "IONESCU MIHAELA",
+      "n_firme": 7,
+      "n_firme_bani_stat": 6,
+      "total_bani_stat_ron": 542732947,
+      "companii": [
+        {
+          "cui": 17561261,
+          "nume": "SIMPA CONSULT",
+          "total_ron": 524585370
+        },
+        {
+          "cui": 13204347,
+          "nume": "KPMG ADVISORY SRL",
+          "total_ron": 11248902
+        },
+        {
+          "cui": 14607801,
+          "nume": "SC EL&COM PREST 2002  SRL",
+          "total_ron": 4154857
+        },
+        {
+          "cui": 11413193,
+          "nume": "BRODMI S.R.L.",
+          "total_ron": 1386402
+        },
+        {
+          "cui": 21619817,
+          "nume": "IDO NET",
+          "total_ron": 699057
+        },
+        {
+          "cui": 33040591,
+          "nume": "SOFTI COMPACT ACTIV SRL",
+          "total_ron": 658360
+        }
+      ]
+    },
+    {
+      "admin": "POP VASILE",
+      "n_firme": 12,
+      "n_firme_bani_stat": 6,
+      "total_bani_stat_ron": 527157873,
+      "companii": [
+        {
+          "cui": 4036970,
+          "nume": "LUCY STAR SRL",
+          "total_ron": 410013117
+        },
+        {
+          "cui": 17855216,
+          "nume": "BETASIL S.R.L.",
+          "total_ron": 71404096
+        },
+        {
+          "cui": 41549660,
+          "nume": "BETA RESIDENCE SRL",
+          "total_ron": 38933300
+        },
+        {
+          "cui": 8024439,
+          "nume": "ESEDRA S.R.L.",
+          "total_ron": 3999971
+        },
+        {
+          "cui": 18022605,
+          "nume": "SC VASMOB SRL",
+          "total_ron": 1544455
+        },
+        {
+          "cui": 5207520,
+          "nume": "POVASID COM S.R.L.",
+          "total_ron": 1262935
         }
       ]
     },
@@ -11968,44 +11838,6 @@
           "cui": 16259533,
           "nume": "S.C. RER SERVICII ECOLOGICE SRL",
           "total_ron": 904302
-        }
-      ]
-    },
-    {
-      "admin": "BULTOC GHEORGHITA",
-      "n_firme": 6,
-      "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 212491080,
-      "companii": [
-        {
-          "cui": 22724373,
-          "nume": "MERIDIAN SUD INVEST",
-          "total_ron": 171787032
-        },
-        {
-          "cui": 29300928,
-          "nume": "MERIDIAN NORD",
-          "total_ron": 26447706
-        },
-        {
-          "cui": 26510968,
-          "nume": "MERIDIAN ENTERPRISE LEASING",
-          "total_ron": 8558777
-        },
-        {
-          "cui": 16594074,
-          "nume": "MERIDIAN VEST",
-          "total_ron": 4600155
-        },
-        {
-          "cui": 6639012,
-          "nume": "MERIDIAN BUSINESS GRUP S.R.L.",
-          "total_ron": 551468
-        },
-        {
-          "cui": 23686529,
-          "nume": "MERIDIAN OCAZIE",
-          "total_ron": 545943
         }
       ]
     },
@@ -12200,116 +12032,78 @@
       ]
     },
     {
-      "admin": "BALA FLORIN-CRISTIAN",
-      "n_firme": 6,
+      "admin": "SERBAN ALEXANDRU",
+      "n_firme": 7,
       "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 19389670,
+      "total_bani_stat_ron": 30413828,
       "companii": [
         {
-          "cui": 41244983,
-          "nume": "DIBALCRIS APPRAISAL SERVICES",
-          "total_ron": 14259852
+          "cui": 5668427,
+          "nume": "CRIOMEC S.A.",
+          "total_ron": 13079891
         },
         {
-          "cui": 46481514,
-          "nume": "DIBALCRIS PATRIM EXPERT S.R.L.",
-          "total_ron": 1526687
+          "cui": 33575501,
+          "nume": "MISAN EXPERT SRL",
+          "total_ron": 5788582
         },
         {
-          "cui": 46481573,
-          "nume": "DIBALCRIS CARTOGRAPHY S.R.L.",
-          "total_ron": 1367705
+          "cui": 44574978,
+          "nume": "SEDAV SPEED S.R.L.",
+          "total_ron": 3888414
         },
         {
-          "cui": 42150216,
-          "nume": "M&B EVALCONS",
-          "total_ron": 1001500
+          "cui": 19056770,
+          "nume": "AS IT CONSTRUCT",
+          "total_ron": 3342551
         },
         {
-          "cui": 42150275,
-          "nume": "DATA SUPPORT SERVICES",
-          "total_ron": 649000
+          "cui": 5394445,
+          "nume": "MOBIMEX 94",
+          "total_ron": 2721024
         },
         {
-          "cui": 34017031,
-          "nume": "DIBALCRIS CONSULTING SRL",
-          "total_ron": 584926
+          "cui": 39173414,
+          "nume": "MICROGUARD",
+          "total_ron": 1593366
         }
       ]
     },
     {
-      "admin": "CETEAN MIRCEA",
-      "n_firme": 6,
+      "admin": "POPA ADRIAN",
+      "n_firme": 9,
       "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 14986288,
+      "total_bani_stat_ron": 26297808,
       "companii": [
         {
-          "cui": 38271007,
-          "nume": "MIRASERV ADMINISTRARE",
-          "total_ron": 6395583
+          "cui": 24481033,
+          "nume": "ESS S.R.L.",
+          "total_ron": 10165076
         },
         {
-          "cui": 49697840,
-          "nume": "ROYAL SMART CONSTRUCT S.R.L.",
-          "total_ron": 3628988
+          "cui": 34010106,
+          "nume": "AD WEST CONSTRUCT",
+          "total_ron": 9091488
         },
         {
-          "cui": 49254800,
-          "nume": "CETEAN CONSTRUCT S.R.L.",
-          "total_ron": 1908263
+          "cui": 37033236,
+          "nume": "STEMAR EXECUTII CONSTRUCTII",
+          "total_ron": 2904684
         },
         {
-          "cui": 50311186,
-          "nume": "ELITE BUILDING SOLUTION S.R.L.",
-          "total_ron": 1498937
+          "cui": 32636759,
+          "nume": "AVA GOLD CONSTRUCT",
+          "total_ron": 2420941
         },
         {
-          "cui": 48555391,
-          "nume": "HD MORRIS S.R.L.",
-          "total_ron": 930969
+          "cui": 36193530,
+          "nume": "ADRIAN TOPOGRAPHY",
+          "total_ron": 866133
         },
         {
-          "cui": 49670780,
-          "nume": "PERSONAL FAST CONSULTING S.R.L.",
-          "total_ron": 623547
-        }
-      ]
-    },
-    {
-      "admin": "GAFITA MARIA",
-      "n_firme": 6,
-      "n_firme_bani_stat": 6,
-      "total_bani_stat_ron": 13994467,
-      "companii": [
-        {
-          "cui": 21249765,
-          "nume": "DIVERS PRODCOM S.R.L.",
-          "total_ron": 5729213
-        },
-        {
-          "cui": 15198420,
-          "nume": "S.C. GAFI PRODCOM S.R.L.",
-          "total_ron": 4865952
-        },
-        {
-          "cui": 24787793,
-          "nume": "GANA IMPACT S.R.L.",
-          "total_ron": 1021341
-        },
-        {
-          "cui": 17609246,
-          "nume": "S.C. PROMPT TOTAL S.R.L.",
-          "total_ron": 989765
-        },
-        {
-          "cui": 16324844,
-          "nume": "SC AMP COMPROD SRL",
-          "total_ron": 876234
-        },
-        {
-          "cui": 16192310,
-          "nume": "TECLA COMPEX SRL",
-          "total_ron": 511961
+          "cui": 31222511,
+          "nume": "TRUSERV BARBER'S SRL",
+          "total_ron": 849486
         }
       ]
     },
@@ -12348,6 +12142,44 @@
           "cui": 15016510,
           "nume": "FRAMINOR GRUP S.R.L.",
           "total_ron": 727233
+        }
+      ]
+    },
+    {
+      "admin": "OPREA ADRIAN",
+      "n_firme": 8,
+      "n_firme_bani_stat": 6,
+      "total_bani_stat_ron": 10490468,
+      "companii": [
+        {
+          "cui": 36060518,
+          "nume": "DC ART CONCEPT S.R.L.",
+          "total_ron": 5301020
+        },
+        {
+          "cui": 49984855,
+          "nume": "STYLE & DANCE S.R.L.",
+          "total_ron": 1204600
+        },
+        {
+          "cui": 37240509,
+          "nume": "VERTICAL SPACE S.R.L.",
+          "total_ron": 1190700
+        },
+        {
+          "cui": 42453201,
+          "nume": "DAVADI BUILDING S.R.L.",
+          "total_ron": 1109636
+        },
+        {
+          "cui": 48761812,
+          "nume": "DAVIDANS STYLE S.R.L.",
+          "total_ron": 909500
+        },
+        {
+          "cui": 50557599,
+          "nume": "EDUCATION ART",
+          "total_ron": 775012
         }
       ]
     },
@@ -12466,6 +12298,44 @@
       ]
     },
     {
+      "admin": "TOMA CONSTANTIN",
+      "n_firme": 8,
+      "n_firme_bani_stat": 6,
+      "total_bani_stat_ron": 7159566,
+      "companii": [
+        {
+          "cui": 27252417,
+          "nume": "TABITA-TIPO",
+          "total_ron": 1996252
+        },
+        {
+          "cui": 31524463,
+          "nume": "FAIA TEXT S.R.L.",
+          "total_ron": 1972117
+        },
+        {
+          "cui": 42039421,
+          "nume": "PRINT CEMIT",
+          "total_ron": 1225444
+        },
+        {
+          "cui": 25308929,
+          "nume": "SINCRON TRANS CONSTRUCT 2009 SRL",
+          "total_ron": 883406
+        },
+        {
+          "cui": 47003240,
+          "nume": "IUSTI PRINT S.R.L.",
+          "total_ron": 730938
+        },
+        {
+          "cui": 29522037,
+          "nume": "ADY-TOM EXPEDIȚII SERV",
+          "total_ron": 351408
+        }
+      ]
+    },
+    {
       "admin": "OLTEANU ION",
       "n_firme": 5,
       "n_firme_bani_stat": 5,
@@ -12565,35 +12435,35 @@
       ]
     },
     {
-      "admin": "MANOLE GHEORGHE",
-      "n_firme": 5,
+      "admin": "POPA GHEORGHE",
+      "n_firme": 12,
       "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 1356197173,
+      "total_bani_stat_ron": 1695909790,
       "companii": [
         {
-          "cui": 6482146,
-          "nume": "EXIMPROD ENGINEERING",
-          "total_ron": 806117490
+          "cui": 5020610,
+          "nume": "GERVIS",
+          "total_ron": 1688531667
         },
         {
-          "cui": 14157812,
-          "nume": "EXIMPROD POWER SYSTEMS",
-          "total_ron": 547328144
+          "cui": 2684096,
+          "nume": "GAMMIS S.R.L.",
+          "total_ron": 4616355
         },
         {
-          "cui": 19172082,
-          "nume": "MIA TERMOPAN KOM",
-          "total_ron": 1251592
+          "cui": 29640130,
+          "nume": "SC D.M.G. Profil Point SRL",
+          "total_ron": 1559236
         },
         {
-          "cui": 32542344,
-          "nume": "ALPHA CONCEPT TEAM S.R.L.",
-          "total_ron": 873352
+          "cui": 36883301,
+          "nume": "nico mix shop srl",
+          "total_ron": 1162020
         },
         {
-          "cui": 6426790,
-          "nume": "SC Micul Paradis Com SRL",
-          "total_ron": 626594
+          "cui": 27423410,
+          "nume": "S.C. CAR WASH DEN S.R.L.",
+          "total_ron": 40512
         }
       ]
     },
@@ -12697,101 +12567,68 @@
       ]
     },
     {
-      "admin": "RUS VASILE",
-      "n_firme": 6,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 38193714,
-      "companii": [
-        {
-          "cui": 8781993,
-          "nume": "ROMBIANCA PRESTCOM",
-          "total_ron": 34688903
-        },
-        {
-          "cui": 12332380,
-          "nume": "NORD VIO CONSTRUCT",
-          "total_ron": 1778016
-        },
-        {
-          "cui": 17485806,
-          "nume": "FAGET BIACONSTRUCT SRL",
-          "total_ron": 763047
-        },
-        {
-          "cui": 23192878,
-          "nume": "SERA GOLDLUX",
-          "total_ron": 502435
-        },
-        {
-          "cui": 38810209,
-          "nume": "VASIVICOV",
-          "total_ron": 461313
-        }
-      ]
-    },
-    {
-      "admin": "IONITA ION",
-      "n_firme": 6,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 31010076,
-      "companii": [
-        {
-          "cui": 16571917,
-          "nume": "ELECTROGLOBAL",
-          "total_ron": 25405410
-        },
-        {
-          "cui": 20914495,
-          "nume": "PREMIER ENERGY SRL",
-          "total_ron": 4248580
-        },
-        {
-          "cui": 28503720,
-          "nume": "SC AquaPet Instal SRL",
-          "total_ron": 840728
-        },
-        {
-          "cui": 11307397,
-          "nume": "PIGMENTUL S.R.L.",
-          "total_ron": 500558
-        },
-        {
-          "cui": 12567972,
-          "nume": "STICONSTRUCT 2000 SRL",
-          "total_ron": 14800
-        }
-      ]
-    },
-    {
-      "admin": "ALEXANDRU NARCIS-IONUT",
+      "admin": "ANDREEV MIRCEA",
       "n_firme": 5,
       "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 30434779,
+      "total_bani_stat_ron": 38210200,
       "companii": [
         {
-          "cui": 34166840,
-          "nume": "VIVA CONTROL SRL",
-          "total_ron": 22653673
+          "cui": 2258503,
+          "nume": "APAN",
+          "total_ron": 24598614
         },
         {
-          "cui": 30276190,
-          "nume": "VIVA ASIST SRL",
-          "total_ron": 4576485
+          "cui": 17540498,
+          "nume": "Apan Agriculture Equipments",
+          "total_ron": 7055419
         },
         {
-          "cui": 34761804,
-          "nume": "EXPERT TEAMOFFICE SRL",
-          "total_ron": 1450739
+          "cui": 17088342,
+          "nume": "S.C. APAN AUTOMOBILE S.R.L.",
+          "total_ron": 3394006
         },
         {
-          "cui": 37060710,
-          "nume": "Public Management SRL",
-          "total_ron": 1216520
+          "cui": 43582310,
+          "nume": "S.C. BUSINESS FULL ADVICE S.R.L.",
+          "total_ron": 2135653
         },
         {
-          "cui": 33278420,
-          "nume": "VIVA ASCENTRIC S.R.L.",
-          "total_ron": 537361
+          "cui": 13680057,
+          "nume": "APAN MOTORS",
+          "total_ron": 1026508
+        }
+      ]
+    },
+    {
+      "admin": "NASTASIA FLORIN",
+      "n_firme": 11,
+      "n_firme_bani_stat": 5,
+      "total_bani_stat_ron": 30561404,
+      "companii": [
+        {
+          "cui": 31138772,
+          "nume": "VAL-LUC PROIECT S.R.L.",
+          "total_ron": 13704268
+        },
+        {
+          "cui": 31540833,
+          "nume": "TEHNIC INSTAL INVEST SRL",
+          "total_ron": 7963837
+        },
+        {
+          "cui": 33318931,
+          "nume": "SC ACTIVITY FORMER SRL",
+          "total_ron": 5879311
+        },
+        {
+          "cui": 43125903,
+          "nume": "AMIGAP LEARNING S.R.L.",
+          "total_ron": 2243093
+        },
+        {
+          "cui": 31540981,
+          "nume": "SC TERMICE INTT SRL",
+          "total_ron": 770894
         }
       ]
     },
@@ -12829,39 +12666,6 @@
       ]
     },
     {
-      "admin": "DRAGOMIR VASILE",
-      "n_firme": 5,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 26359846,
-      "companii": [
-        {
-          "cui": 19177276,
-          "nume": "BT CONSULTING SRL",
-          "total_ron": 15308749
-        },
-        {
-          "cui": 36419701,
-          "nume": "AGA TECHNOLOGY SYSTEMS SRL",
-          "total_ron": 5234140
-        },
-        {
-          "cui": 13491570,
-          "nume": "DRAGOMIR ELECTRO DEL S.R.L.",
-          "total_ron": 4576062
-        },
-        {
-          "cui": 46932673,
-          "nume": "GWG GREENEUROPAL S.R.L.",
-          "total_ron": 706598
-        },
-        {
-          "cui": 15373946,
-          "nume": "GRASU SRL",
-          "total_ron": 534298
-        }
-      ]
-    },
-    {
       "admin": "RADU FLORIN",
       "n_firme": 5,
       "n_firme_bani_stat": 5,
@@ -12895,35 +12699,35 @@
       ]
     },
     {
-      "admin": "STAN IONEL",
+      "admin": "BALA FLORIN-CRISTIAN",
       "n_firme": 6,
       "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 18011591,
+      "total_bani_stat_ron": 18804744,
       "companii": [
         {
-          "cui": 38095431,
-          "nume": "KRIA SIMBOL SRL",
-          "total_ron": 13780264
+          "cui": 41244983,
+          "nume": "DIBALCRIS APPRAISAL SERVICES",
+          "total_ron": 14259852
         },
         {
-          "cui": 39334847,
-          "nume": "RHEGIA PROIECT",
-          "total_ron": 1454621
+          "cui": 46481514,
+          "nume": "DIBALCRIS PATRIM EXPERT S.R.L.",
+          "total_ron": 1526687
         },
         {
-          "cui": 24601474,
-          "nume": "GREENLAND S.R.L.",
-          "total_ron": 1160397
+          "cui": 46481573,
+          "nume": "DIBALCRIS CARTOGRAPHY S.R.L.",
+          "total_ron": 1367705
         },
         {
-          "cui": 28015923,
-          "nume": "Eco Bau-Parc S.R.L.",
-          "total_ron": 1085281
+          "cui": 42150216,
+          "nume": "M&B EVALCONS",
+          "total_ron": 1001500
         },
         {
-          "cui": 35676472,
-          "nume": "THEIA SOLUTIONS SRL",
-          "total_ron": 531029
+          "cui": 42150275,
+          "nume": "DATA SUPPORT SERVICES",
+          "total_ron": 649000
         }
       ]
     },
@@ -12931,7 +12735,7 @@
       "admin": "STAN GHEORGHE",
       "n_firme": 5,
       "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 17125772,
+      "total_bani_stat_ron": 16601112,
       "companii": [
         {
           "cui": 39357085,
@@ -12949,47 +12753,14 @@
           "total_ron": 1327437
         },
         {
-          "cui": 15081690,
-          "nume": "SRD REAL COMPANY S.R.L.",
-          "total_ron": 1204660
-        },
-        {
           "cui": 1350977,
           "nume": "ELCANI SRL",
           "total_ron": 1038607
-        }
-      ]
-    },
-    {
-      "admin": "DUMITRESCU VALENTIN",
-      "n_firme": 6,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 16652273,
-      "companii": [
-        {
-          "cui": 33435885,
-          "nume": "S.C. VALKONS DESIGN ART S.R.L.",
-          "total_ron": 10401873
         },
         {
-          "cui": 21167002,
-          "nume": "NOROC BUN PLUS",
-          "total_ron": 2632568
-        },
-        {
-          "cui": 32893299,
-          "nume": "VALOMAX TRANS 2014",
-          "total_ron": 1835855
-        },
-        {
-          "cui": 38995379,
-          "nume": "DUMWIN PROD",
-          "total_ron": 1223987
-        },
-        {
-          "cui": 15528897,
-          "nume": "sc alexforest srl",
-          "total_ron": 557989
+          "cui": 15081690,
+          "nume": "SRD REAL COMPANY S.R.L.",
+          "total_ron": 680000
         }
       ]
     },
@@ -13023,39 +12794,6 @@
           "cui": 24705017,
           "nume": "SC CONIF CONSULTING PROJECT SRL",
           "total_ron": 1097912
-        }
-      ]
-    },
-    {
-      "admin": "POPA IONEL",
-      "n_firme": 5,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 15893252,
-      "companii": [
-        {
-          "cui": 17276362,
-          "nume": "DUPLICOM GRUP",
-          "total_ron": 10728426
-        },
-        {
-          "cui": 28727328,
-          "nume": "CORAL CLEAN SERV SRL",
-          "total_ron": 2489173
-        },
-        {
-          "cui": 13043771,
-          "nume": "COMSERVFOREST",
-          "total_ron": 1058846
-        },
-        {
-          "cui": 15095513,
-          "nume": "SC ALY SISTEM 95 SRL",
-          "total_ron": 989832
-        },
-        {
-          "cui": 37118391,
-          "nume": "POPJIM CONSTRUCT SRL",
-          "total_ron": 626975
         }
       ]
     },
@@ -13122,6 +12860,72 @@
           "cui": 48065845,
           "nume": "ROMSERV TEHNOLOGIC STI S.R.L.",
           "total_ron": 1308583
+        }
+      ]
+    },
+    {
+      "admin": "CETEAN MIRCEA",
+      "n_firme": 6,
+      "n_firme_bani_stat": 5,
+      "total_bani_stat_ron": 14362741,
+      "companii": [
+        {
+          "cui": 38271007,
+          "nume": "MIRASERV ADMINISTRARE",
+          "total_ron": 6395583
+        },
+        {
+          "cui": 49697840,
+          "nume": "ROYAL SMART CONSTRUCT S.R.L.",
+          "total_ron": 3628988
+        },
+        {
+          "cui": 49254800,
+          "nume": "CETEAN CONSTRUCT S.R.L.",
+          "total_ron": 1908263
+        },
+        {
+          "cui": 50311186,
+          "nume": "ELITE BUILDING SOLUTION S.R.L.",
+          "total_ron": 1498937
+        },
+        {
+          "cui": 48555391,
+          "nume": "HD MORRIS S.R.L.",
+          "total_ron": 930969
+        }
+      ]
+    },
+    {
+      "admin": "GAFITA MARIA",
+      "n_firme": 6,
+      "n_firme_bani_stat": 5,
+      "total_bani_stat_ron": 13482506,
+      "companii": [
+        {
+          "cui": 21249765,
+          "nume": "DIVERS PRODCOM S.R.L.",
+          "total_ron": 5729213
+        },
+        {
+          "cui": 15198420,
+          "nume": "S.C. GAFI PRODCOM S.R.L.",
+          "total_ron": 4865952
+        },
+        {
+          "cui": 24787793,
+          "nume": "GANA IMPACT S.R.L.",
+          "total_ron": 1021341
+        },
+        {
+          "cui": 17609246,
+          "nume": "S.C. PROMPT TOTAL S.R.L.",
+          "total_ron": 989765
+        },
+        {
+          "cui": 16324844,
+          "nume": "SC AMP COMPROD SRL",
+          "total_ron": 876234
         }
       ]
     },
@@ -13225,101 +13029,35 @@
       ]
     },
     {
-      "admin": "STANESCU ELENA",
-      "n_firme": 6,
+      "admin": "NAGY ISTVAN",
+      "n_firme": 7,
       "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 7212594,
+      "total_bani_stat_ron": 7930150,
       "companii": [
         {
-          "cui": 36587675,
-          "nume": "LAVITEX AERON SRL",
-          "total_ron": 4227180
+          "cui": 36217664,
+          "nume": "SC. TERRA MAP SRL",
+          "total_ron": 3659874
         },
         {
-          "cui": 47146194,
-          "nume": "MODERN BRAND METAL S.R.L.",
-          "total_ron": 1031180
+          "cui": 39716308,
+          "nume": "SEPSI ÚT-ÉPÍTŐ S.R.L.",
+          "total_ron": 1829198
         },
         {
-          "cui": 37911663,
-          "nume": "REAL MET INDUSTRIAL SRL",
-          "total_ron": 697698
+          "cui": 10755074,
+          "nume": "COMPANIA AQUASERV SA",
+          "total_ron": 1049312
         },
         {
-          "cui": 37013638,
-          "nume": "ROCA MOBILIER URBAN",
-          "total_ron": 676625
+          "cui": 24749757,
+          "nume": "MERIDIAN GEO-CENTER SRL",
+          "total_ron": 737035
         },
         {
-          "cui": 45651521,
-          "nume": "METAL IOSIF S.R.L.",
-          "total_ron": 579911
-        }
-      ]
-    },
-    {
-      "admin": "TUGUI VASILICA",
-      "n_firme": 5,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 6915098,
-      "companii": [
-        {
-          "cui": 38191650,
-          "nume": "CISIF Centrul de Idei si Solutii Financiare",
-          "total_ron": 4288550
-        },
-        {
-          "cui": 39473594,
-          "nume": "CISIF Business Partner",
-          "total_ron": 871243
-        },
-        {
-          "cui": 42692349,
-          "nume": "CISIF PUBLIC PROTECTION S.R.L.",
-          "total_ron": 646500
-        },
-        {
-          "cui": 40776460,
-          "nume": "CISIF BUSINESS PROTECTION",
-          "total_ron": 599600
-        },
-        {
-          "cui": 46912595,
-          "nume": "CISIF PROTECTION S.R.L.",
-          "total_ron": 509205
-        }
-      ]
-    },
-    {
-      "admin": "POP MIHAI",
-      "n_firme": 6,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 5728593,
-      "companii": [
-        {
-          "cui": 19050956,
-          "nume": "PARTIZAN SECURITY S.R.L.",
-          "total_ron": 2248289
-        },
-        {
-          "cui": 28205782,
-          "nume": "SC AUDIO VIDEO INTEGRATOR SRL",
-          "total_ron": 1197253
-        },
-        {
-          "cui": 26182062,
-          "nume": "PARTIZAN ECOSERV S.R.L.",
-          "total_ron": 956298
-        },
-        {
-          "cui": 6926168,
-          "nume": "MOLPOP SERVIS S.R.L.",
-          "total_ron": 708171
-        },
-        {
-          "cui": 47728486,
-          "nume": "CGP SYSTEMS S.R.L.",
-          "total_ron": 618582
+          "cui": 8574327,
+          "nume": "HYDROKOV S.A.",
+          "total_ron": 654731
         }
       ]
     },
@@ -13386,39 +13124,6 @@
           "cui": 49505570,
           "nume": "NADENA PREST S.R.L.",
           "total_ron": 818593
-        }
-      ]
-    },
-    {
-      "admin": "ANGELESCU FLOAREA",
-      "n_firme": 5,
-      "n_firme_bani_stat": 5,
-      "total_bani_stat_ron": 4489196,
-      "companii": [
-        {
-          "cui": 36366011,
-          "nume": "S.C. EXPERT DIPLOMATIC PROJECT S.R.L.",
-          "total_ron": 1230634
-        },
-        {
-          "cui": 36720649,
-          "nume": "S.C. EXPERT DIPLOMATIC CONSULTING SRL",
-          "total_ron": 1023673
-        },
-        {
-          "cui": 44320040,
-          "nume": "EXPERT DIPLOMATIC DIGITAL S.R.L.",
-          "total_ron": 889981
-        },
-        {
-          "cui": 39477901,
-          "nume": "EXPERT DIPLOMATIC MANAGEMENT",
-          "total_ron": 790193
-        },
-        {
-          "cui": 35116378,
-          "nume": "EXPERT MEDIA DIPLOMATIC SRL",
-          "total_ron": 554715
         }
       ]
     },
@@ -13507,6 +13212,34 @@
       ]
     },
     {
+      "admin": "GHEORGHE MIHAI",
+      "n_firme": 5,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 2620806868,
+      "companii": [
+        {
+          "cui": 31620860,
+          "nume": "BERTONI CONSTRUCT",
+          "total_ron": 2617451381
+        },
+        {
+          "cui": 5539104,
+          "nume": "GIORGIO 67 SERVICE S.R.L.",
+          "total_ron": 1375021
+        },
+        {
+          "cui": 44695660,
+          "nume": "ROCIP INSTAL",
+          "total_ron": 1065142
+        },
+        {
+          "cui": 27841560,
+          "nume": "SPEAR LINE SRL",
+          "total_ron": 915324
+        }
+      ]
+    },
+    {
       "admin": "ABRUDAN HORIA-OVIDIU",
       "n_firme": 4,
       "n_firme_bani_stat": 4,
@@ -13587,6 +13320,34 @@
           "cui": 13638974,
           "nume": "DRUM TRANSPORT",
           "total_ron": 2369517
+        }
+      ]
+    },
+    {
+      "admin": "MANOLE GHEORGHE",
+      "n_firme": 5,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 1355570579,
+      "companii": [
+        {
+          "cui": 6482146,
+          "nume": "EXIMPROD ENGINEERING",
+          "total_ron": 806117490
+        },
+        {
+          "cui": 14157812,
+          "nume": "EXIMPROD POWER SYSTEMS",
+          "total_ron": 547328144
+        },
+        {
+          "cui": 19172082,
+          "nume": "MIA TERMOPAN KOM",
+          "total_ron": 1251592
+        },
+        {
+          "cui": 32542344,
+          "nume": "ALPHA CONCEPT TEAM S.R.L.",
+          "total_ron": 873352
         }
       ]
     },
@@ -13790,12 +13551,12 @@
       "admin": "RADU DANIEL",
       "n_firme": 4,
       "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 224932648,
+      "total_bani_stat_ron": 224353323,
       "companii": [
         {
           "cui": 5129660,
           "nume": "TECHNICAL SERVICES GROUP - TSG ROMANIA",
-          "total_ron": 219046329
+          "total_ron": 218467004
         },
         {
           "cui": 23131153,
@@ -13815,30 +13576,30 @@
       ]
     },
     {
-      "admin": "STEFANESCU ANDREI",
-      "n_firme": 4,
+      "admin": "BULTOC GHEORGHITA",
+      "n_firme": 6,
       "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 176811191,
+      "total_bani_stat_ron": 211393670,
       "companii": [
         {
-          "cui": 22043010,
-          "nume": "E.ON ENERGIE ROMANIA",
-          "total_ron": 173070165
+          "cui": 22724373,
+          "nume": "MERIDIAN SUD INVEST",
+          "total_ron": 171787032
         },
         {
-          "cui": 45380279,
-          "nume": "BUSINESS SECURITY & IT CONSULTING",
-          "total_ron": 2100163
+          "cui": 29300928,
+          "nume": "MERIDIAN NORD",
+          "total_ron": 26447706
         },
         {
-          "cui": 35364489,
-          "nume": "EDIL TERRA SCAN SRL",
-          "total_ron": 1102422
+          "cui": 26510968,
+          "nume": "MERIDIAN ENTERPRISE LEASING",
+          "total_ron": 8558777
         },
         {
-          "cui": 32332091,
-          "nume": "ATELIER SEA",
-          "total_ron": 538440
+          "cui": 16594074,
+          "nume": "MERIDIAN VEST",
+          "total_ron": 4600155
         }
       ]
     },
@@ -13923,6 +13684,34 @@
           "cui": 26706663,
           "nume": "AMA GAZ PRO SRL",
           "total_ron": 1319307
+        }
+      ]
+    },
+    {
+      "admin": "BADEA ALEXANDRU",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 132344165,
+      "companii": [
+        {
+          "cui": 10751277,
+          "nume": "BRENNTAG",
+          "total_ron": 66613952
+        },
+        {
+          "cui": 4986244,
+          "nume": "CORAL IMPEX",
+          "total_ron": 64679104
+        },
+        {
+          "cui": 15686110,
+          "nume": "BADUC",
+          "total_ron": 807804
+        },
+        {
+          "cui": 40374977,
+          "nume": "KONRO SOLUTIONS",
+          "total_ron": 243305
         }
       ]
     },
@@ -14123,34 +13912,6 @@
       ]
     },
     {
-      "admin": "BALAN STEFAN",
-      "n_firme": 4,
-      "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 72172343,
-      "companii": [
-        {
-          "cui": 18101849,
-          "nume": "ROMOFFICE CONSTRUCT HOLDING AG",
-          "total_ron": 60296341
-        },
-        {
-          "cui": 29221999,
-          "nume": "SC HDD REPAIR SRL",
-          "total_ron": 7357215
-        },
-        {
-          "cui": 27939594,
-          "nume": "SC ROMSERV IT SRL",
-          "total_ron": 3952936
-        },
-        {
-          "cui": 36915497,
-          "nume": "TRIANBIA FORMARE S.R.L",
-          "total_ron": 565851
-        }
-      ]
-    },
-    {
       "admin": "CUCU COSTEL",
       "n_firme": 4,
       "n_firme_bani_stat": 4,
@@ -14175,34 +13936,6 @@
           "cui": 35735005,
           "nume": "PROIECT AIC",
           "total_ron": 2283520
-        }
-      ]
-    },
-    {
-      "admin": "LUNGU STEFAN",
-      "n_firme": 4,
-      "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 66216039,
-      "companii": [
-        {
-          "cui": 20362137,
-          "nume": "GCONF COMERCIAL SRL",
-          "total_ron": 58639306
-        },
-        {
-          "cui": 35622740,
-          "nume": "GESS SHOW SRL-D",
-          "total_ron": 5891876
-        },
-        {
-          "cui": 37534512,
-          "nume": "STEFAN SHOW SRL",
-          "total_ron": 1167193
-        },
-        {
-          "cui": 47535981,
-          "nume": "TRANSYLVANIA SHOW S.R.L.",
-          "total_ron": 517664
         }
       ]
     },
@@ -14238,7 +13971,7 @@
       "admin": "COMAN IOAN",
       "n_firme": 4,
       "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 60885351,
+      "total_bani_stat_ron": 60291069,
       "companii": [
         {
           "cui": 1200600,
@@ -14258,7 +13991,7 @@
         {
           "cui": 32779988,
           "nume": "Frigokom Trading",
-          "total_ron": 841602
+          "total_ron": 247320
         }
       ]
     },
@@ -14322,7 +14055,7 @@
       "admin": "POPESCU ALEXANDRU",
       "n_firme": 7,
       "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 56627698,
+      "total_bani_stat_ron": 57215093,
       "companii": [
         {
           "cui": 38693443,
@@ -14342,7 +14075,7 @@
         {
           "cui": 10644513,
           "nume": "TRANSPORT PUBLIC SA",
-          "total_ron": 632740
+          "total_ron": 1220135
         }
       ]
     },
@@ -14375,34 +14108,6 @@
       ]
     },
     {
-      "admin": "ION GHEORGHE",
-      "n_firme": 4,
-      "n_firme_bani_stat": 4,
-      "total_bani_stat_ron": 53320944,
-      "companii": [
-        {
-          "cui": 8807570,
-          "nume": "DARGOV S.R.L.",
-          "total_ron": 50056003
-        },
-        {
-          "cui": 37117604,
-          "nume": "TEMATIC EVER GREEN",
-          "total_ron": 1921252
-        },
-        {
-          "cui": 32190060,
-          "nume": "SURVEY GEOTOP SRL",
-          "total_ron": 782281
-        },
-        {
-          "cui": 30052001,
-          "nume": "MARIA MARKET ACTIV SRL",
-          "total_ron": 561408
-        }
-      ]
-    },
-    {
       "admin": "POPESCU EMIL",
       "n_firme": 4,
       "n_firme_bani_stat": 4,
@@ -14427,6 +14132,314 @@
           "cui": 14916270,
           "nume": "ELECTRO OPTIC COMPONENTS",
           "total_ron": 471900
+        }
+      ]
+    },
+    {
+      "admin": "LAZAR ION",
+      "n_firme": 5,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 52312476,
+      "companii": [
+        {
+          "cui": 2163560,
+          "nume": "LAZAR SERVICE COM",
+          "total_ron": 47397089
+        },
+        {
+          "cui": 29344819,
+          "nume": "FERTISOL",
+          "total_ron": 4273188
+        },
+        {
+          "cui": 934854,
+          "nume": "MECANPETROL S.A.",
+          "total_ron": 626687
+        },
+        {
+          "cui": 20986602,
+          "nume": "L AUTO S.R.L.",
+          "total_ron": 15512
+        }
+      ]
+    },
+    {
+      "admin": "POPA STEFAN",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 50040497,
+      "companii": [
+        {
+          "cui": 16663344,
+          "nume": "RCH CON INSTAL",
+          "total_ron": 36967354
+        },
+        {
+          "cui": 14616664,
+          "nume": "S.C. AGRESS SERVICE S.R.L. S.R.L.",
+          "total_ron": 11644076
+        },
+        {
+          "cui": 14326946,
+          "nume": "S.C. CRIS ART S.R.L.",
+          "total_ron": 737570
+        },
+        {
+          "cui": 17963749,
+          "nume": "PASPARTU S.R.L.",
+          "total_ron": 691497
+        }
+      ]
+    },
+    {
+      "admin": "SANDOR ISTVAN",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 49401703,
+      "companii": [
+        {
+          "cui": 17542960,
+          "nume": "BALAST CENTRUM S.R.L.",
+          "total_ron": 39859290
+        },
+        {
+          "cui": 17152291,
+          "nume": "SC SAZY MESTER SRL",
+          "total_ron": 4311837
+        },
+        {
+          "cui": 8621852,
+          "nume": "SC SAZY TRANS IMPEX SRL",
+          "total_ron": 3382290
+        },
+        {
+          "cui": 16658720,
+          "nume": "SC SAZY TRADE SRL",
+          "total_ron": 1848286
+        }
+      ]
+    },
+    {
+      "admin": "SANDOR ZOLTAN",
+      "n_firme": 5,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 49401703,
+      "companii": [
+        {
+          "cui": 17542960,
+          "nume": "BALAST CENTRUM S.R.L.",
+          "total_ron": 39859290
+        },
+        {
+          "cui": 17152291,
+          "nume": "SC SAZY MESTER SRL",
+          "total_ron": 4311837
+        },
+        {
+          "cui": 8621852,
+          "nume": "SC SAZY TRANS IMPEX SRL",
+          "total_ron": 3382290
+        },
+        {
+          "cui": 16658720,
+          "nume": "SC SAZY TRADE SRL",
+          "total_ron": 1848286
+        }
+      ]
+    },
+    {
+      "admin": "DRAGOMIR ELENA",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 46729411,
+      "companii": [
+        {
+          "cui": 30514089,
+          "nume": "ALEXA TOPAZ",
+          "total_ron": 17808355
+        },
+        {
+          "cui": 1359259,
+          "nume": "MEDIMFARM",
+          "total_ron": 16872190
+        },
+        {
+          "cui": 24236131,
+          "nume": "SC MI-LUK GENERAL SRL",
+          "total_ron": 10592705
+        },
+        {
+          "cui": 32096993,
+          "nume": "HELEN MAGIC SRL",
+          "total_ron": 1456160
+        }
+      ]
+    },
+    {
+      "admin": "ILIE IONUT-MARIUS",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 42997929,
+      "companii": [
+        {
+          "cui": 21229091,
+          "nume": "VEL PITAR",
+          "total_ron": 33423820
+        },
+        {
+          "cui": 23784748,
+          "nume": "TREI BRUTARI",
+          "total_ron": 4909799
+        },
+        {
+          "cui": 27165574,
+          "nume": "Click Top Management",
+          "total_ron": 3618692
+        },
+        {
+          "cui": 16418035,
+          "nume": "MANAGEMENT OBJECTIVES SRL",
+          "total_ron": 1045618
+        }
+      ]
+    },
+    {
+      "admin": "DUBOU PETRU",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 39804905,
+      "companii": [
+        {
+          "cui": 46355095,
+          "nume": "AGRA`S FOOD FACTORY",
+          "total_ron": 13988345
+        },
+        {
+          "cui": 4705349,
+          "nume": "Carniprod",
+          "total_ron": 13577009
+        },
+        {
+          "cui": 44223365,
+          "nume": "Scandia Food Frozen",
+          "total_ron": 11562372
+        },
+        {
+          "cui": 12602980,
+          "nume": "AGRA'S S.A.",
+          "total_ron": 677179
+        }
+      ]
+    },
+    {
+      "admin": "RUS VASILE",
+      "n_firme": 6,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 37691279,
+      "companii": [
+        {
+          "cui": 8781993,
+          "nume": "ROMBIANCA PRESTCOM",
+          "total_ron": 34688903
+        },
+        {
+          "cui": 12332380,
+          "nume": "NORD VIO CONSTRUCT",
+          "total_ron": 1778016
+        },
+        {
+          "cui": 17485806,
+          "nume": "FAGET BIACONSTRUCT SRL",
+          "total_ron": 763047
+        },
+        {
+          "cui": 38810209,
+          "nume": "VASIVICOV",
+          "total_ron": 461313
+        }
+      ]
+    },
+    {
+      "admin": "MITEA ANDREEA ALICE",
+      "n_firme": 4,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 30689566,
+      "companii": [
+        {
+          "cui": 36707364,
+          "nume": "Mitalis Quality Team SRL",
+          "total_ron": 16079353
+        },
+        {
+          "cui": 36003296,
+          "nume": "Mitalis Office SRL",
+          "total_ron": 7190728
+        },
+        {
+          "cui": 36003270,
+          "nume": "MIT Economy Desk SRL",
+          "total_ron": 4711143
+        },
+        {
+          "cui": 35622030,
+          "nume": "SC MIT Office Sibiu SRL",
+          "total_ron": 2708341
+        }
+      ]
+    },
+    {
+      "admin": "IONITA ION",
+      "n_firme": 6,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 30509518,
+      "companii": [
+        {
+          "cui": 16571917,
+          "nume": "ELECTROGLOBAL",
+          "total_ron": 25405410
+        },
+        {
+          "cui": 20914495,
+          "nume": "PREMIER ENERGY SRL",
+          "total_ron": 4248580
+        },
+        {
+          "cui": 28503720,
+          "nume": "SC AquaPet Instal SRL",
+          "total_ron": 840728
+        },
+        {
+          "cui": 12567972,
+          "nume": "STICONSTRUCT 2000 SRL",
+          "total_ron": 14800
+        }
+      ]
+    },
+    {
+      "admin": "ALEXANDRU NARCIS-IONUT",
+      "n_firme": 5,
+      "n_firme_bani_stat": 4,
+      "total_bani_stat_ron": 29897418,
+      "companii": [
+        {
+          "cui": 34166840,
+          "nume": "VIVA CONTROL SRL",
+          "total_ron": 22653673
+        },
+        {
+          "cui": 30276190,
+          "nume": "VIVA ASIST SRL",
+          "total_ron": 4576485
+        },
+        {
+          "cui": 34761804,
+          "nume": "EXPERT TEAMOFFICE SRL",
+          "total_ron": 1450739
+        },
+        {
+          "cui": 37060710,
+          "nume": "Public Management SRL",
+          "total_ron": 1216520
         }
       ]
     }
@@ -14493,7 +14506,7 @@
       "nume": "INDAELTRAC",
       "n_admini": 4,
       "grad": 10,
-      "total_bani_stat_ron": 5522922,
+      "total_bani_stat_ron": 5019360,
       "bani_stat": true
     },
     {
@@ -14521,6 +14534,14 @@
       "bani_stat": true
     },
     {
+      "cui": 31620860,
+      "nume": "BERTONI CONSTRUCT",
+      "n_admini": 5,
+      "grad": 9,
+      "total_bani_stat_ron": 2617451381,
+      "bani_stat": true
+    },
+    {
       "cui": 1822832,
       "nume": "AGROCOMERT HOLDING SA",
       "n_admini": 5,
@@ -14537,14 +14558,6 @@
       "bani_stat": true
     },
     {
-      "cui": 31620860,
-      "nume": "BERTONI CONSTRUCT",
-      "n_admini": 5,
-      "grad": 8,
-      "total_bani_stat_ron": 2617451381,
-      "bani_stat": true
-    },
-    {
       "cui": 448560,
       "nume": "AEROTEH",
       "n_admini": 5,
@@ -14553,19 +14566,19 @@
       "bani_stat": true
     },
     {
+      "cui": 10644513,
+      "nume": "TRANSPORT PUBLIC SA",
+      "n_admini": 3,
+      "grad": 8,
+      "total_bani_stat_ron": 1220135,
+      "bani_stat": true
+    },
+    {
       "cui": 1956796,
       "nume": "SOCIETATE COOPERATIVA MESTESUGAREASCA DE GRADUL 1 SERVICE SCM IASI",
       "n_admini": 5,
       "grad": 8,
       "total_bani_stat_ron": 789849,
-      "bani_stat": true
-    },
-    {
-      "cui": 10644513,
-      "nume": "TRANSPORT PUBLIC SA",
-      "n_admini": 3,
-      "grad": 8,
-      "total_bani_stat_ron": 632740,
       "bani_stat": true
     },
     {
@@ -14613,7 +14626,7 @@
       "nume": "CATENA PHARMA",
       "n_admini": 4,
       "grad": 7,
-      "total_bani_stat_ron": 9009996,
+      "total_bani_stat_ron": 8510327,
       "bani_stat": true
     },
     {
@@ -14630,6 +14643,14 @@
       "n_admini": 2,
       "grad": 7,
       "total_bani_stat_ron": 3151164,
+      "bani_stat": true
+    },
+    {
+      "cui": 63483,
+      "nume": "ORADEA TRANSPORT LOCAL SA",
+      "n_admini": 7,
+      "grad": 7,
+      "total_bani_stat_ron": 2886843,
       "bani_stat": true
     },
     {
@@ -14665,19 +14686,27 @@
       "bani_stat": true
     },
     {
-      "cui": 63483,
-      "nume": "ORADEA TRANSPORT LOCAL SA",
-      "n_admini": 7,
+      "cui": 10755074,
+      "nume": "COMPANIA AQUASERV SA",
+      "n_admini": 5,
       "grad": 7,
-      "total_bani_stat_ron": 1070468,
+      "total_bani_stat_ron": 1049312,
       "bani_stat": true
     },
     {
-      "cui": 1345008,
-      "nume": "COMREP S.A.",
+      "cui": 11178217,
+      "nume": "SOCIETATEA NAŢIONALĂ \"AEROPORTUL INTERNAŢIONAL TIMIŞOARA-TRAIAN VUIA-\" SA",
+      "n_admini": 7,
+      "grad": 7,
+      "total_bani_stat_ron": 765756,
+      "bani_stat": true
+    },
+    {
+      "cui": 8574327,
+      "nume": "HYDROKOV S.A.",
       "n_admini": 5,
       "grad": 7,
-      "total_bani_stat_ron": 593980,
+      "total_bani_stat_ron": 654731,
       "bani_stat": true
     },
     {
@@ -14721,6 +14750,22 @@
       "bani_stat": true
     },
     {
+      "cui": 11062831,
+      "nume": "COMPANIA NAŢIONALĂ \"ADMINISTRAŢIA PORTURILOR MARITIME\" - S.A.CONSTANŢA",
+      "n_admini": 7,
+      "grad": 6,
+      "total_bani_stat_ron": 1847850,
+      "bani_stat": true
+    },
+    {
+      "cui": 15346437,
+      "nume": "COMPANIA JUDETEANA APA SERV SA",
+      "n_admini": 4,
+      "grad": 6,
+      "total_bani_stat_ron": 1688280,
+      "bani_stat": true
+    },
+    {
       "cui": 25020437,
       "nume": "CRISTAL HARDWARE SRL",
       "n_admini": 2,
@@ -14753,6 +14798,14 @@
       "bani_stat": true
     },
     {
+      "cui": 37804055,
+      "nume": "COMPANIA MUNICIPALĂ ECO IGIENIZARE BUCUREȘTI S.A.",
+      "n_admini": 7,
+      "grad": 6,
+      "total_bani_stat_ron": 827453,
+      "bani_stat": true
+    },
+    {
       "cui": 41668601,
       "nume": "DAVID MET LUX",
       "n_admini": 2,
@@ -14761,19 +14814,11 @@
       "bani_stat": true
     },
     {
-      "cui": 37804055,
-      "nume": "COMPANIA MUNICIPALĂ ECO IGIENIZARE BUCUREȘTI S.A.",
-      "n_admini": 7,
+      "cui": 1589932,
+      "nume": "ADMINISTRATIA ROMANA A SERVICIILOR DE TRAFIC AERIAN ROMATSA RA",
+      "n_admini": 5,
       "grad": 6,
-      "total_bani_stat_ron": 776525,
-      "bani_stat": true
-    },
-    {
-      "cui": 24360678,
-      "nume": "ROVENT INVEST S.R.L.",
-      "n_admini": 2,
-      "grad": 6,
-      "total_bani_stat_ron": 555398,
+      "total_bani_stat_ron": 764539,
       "bani_stat": true
     },
     {
@@ -14885,7 +14930,7 @@
       "nume": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
       "n_admini": 8,
       "grad": 5,
-      "total_bani_stat_ron": 3336027,
+      "total_bani_stat_ron": 3630632,
       "bani_stat": true
     },
     {
@@ -15037,7 +15082,7 @@
       "nume": "TECHNICAL SERVICES GROUP - TSG ROMANIA",
       "n_admini": 2,
       "grad": 4,
-      "total_bani_stat_ron": 219046329,
+      "total_bani_stat_ron": 218467004,
       "bani_stat": true
     },
     {
@@ -15062,6 +15107,14 @@
       "n_admini": 7,
       "grad": 4,
       "total_bani_stat_ron": 93466808,
+      "bani_stat": true
+    },
+    {
+      "cui": 10751277,
+      "nume": "BRENNTAG",
+      "n_admini": 4,
+      "grad": 4,
+      "total_bani_stat_ron": 66613952,
       "bani_stat": true
     },
     {
@@ -15101,7 +15154,7 @@
       "nume": "COMPANIA NATIONALA \"IMPRIMERIA NATIONALA\" SA",
       "n_admini": 5,
       "grad": 4,
-      "total_bani_stat_ron": 19581900,
+      "total_bani_stat_ron": 22141057,
       "bani_stat": true
     },
     {
@@ -15190,46 +15243,6 @@
       "n_admini": 2,
       "grad": 4,
       "total_bani_stat_ron": 5886916,
-      "bani_stat": true
-    },
-    {
-      "cui": 37832101,
-      "nume": "COMPANIA MUNICIPALĂ MANAGEMENTUL TRAFICULUI BUCUREȘTI S.A.",
-      "n_admini": 16,
-      "grad": 4,
-      "total_bani_stat_ron": 5639962,
-      "bani_stat": true
-    },
-    {
-      "cui": 17210538,
-      "nume": "EUROTRANS CHEM SERVICES S.R.L.",
-      "n_admini": 2,
-      "grad": 4,
-      "total_bani_stat_ron": 5339912,
-      "bani_stat": true
-    },
-    {
-      "cui": 11702302,
-      "nume": "ION SERVICE CENTER SRL",
-      "n_admini": 2,
-      "grad": 4,
-      "total_bani_stat_ron": 4689904,
-      "bani_stat": true
-    },
-    {
-      "cui": 15946407,
-      "nume": "CITADIN SA",
-      "n_admini": 7,
-      "grad": 4,
-      "total_bani_stat_ron": 4407580,
-      "bani_stat": true
-    },
-    {
-      "cui": 12727992,
-      "nume": "S.C. SWISO IMPEX S.R.L.",
-      "n_admini": 3,
-      "grad": 4,
-      "total_bani_stat_ron": 4084025,
       "bani_stat": true
     }
   ]

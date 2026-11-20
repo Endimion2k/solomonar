@@ -17,7 +17,9 @@
       "datorii_ron": 192350,
       "auto": 6,
       "nume": "ADOMNICAI MIRELA ELENA",
-      "nume_norm": "ADOMNICAI ELENA MIRELA"
+      "nume_norm": "ADOMNICAI ELENA MIRELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Albu Dumitrita",
@@ -30,7 +32,9 @@
       "datorii_ron": 925530,
       "auto": 5,
       "nume": "ALBU DUMITRITA",
-      "nume_norm": "ALBU DUMITRITA"
+      "nume_norm": "ALBU DUMITRITA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Alecsandru Marius-Nicolae",
@@ -43,7 +47,9 @@
       "datorii_ron": 146450,
       "auto": 4,
       "nume": "ALECSANDRU MARIUS-NICOLAE",
-      "nume_norm": "ALECSANDRU MARIUS NICOLAE"
+      "nume_norm": "ALECSANDRU MARIUS NICOLAE",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Alecu Robert",
@@ -56,7 +62,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ALECU ROBERT",
-      "nume_norm": "ALECU ROBERT"
+      "nume_norm": "ALECU ROBERT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Amet Varol",
@@ -69,7 +77,9 @@
       "datorii_ron": 76319,
       "auto": 7,
       "nume": "AMET VAROL",
-      "nume_norm": "AMET VAROL"
+      "nume_norm": "AMET VAROL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Andrei Alexandru-Ioan",
@@ -82,7 +92,9 @@
       "datorii_ron": 268104,
       "auto": 4,
       "nume": "ANDREI ALEXANDRU-IOAN",
-      "nume_norm": "ALEXANDRU ANDREI IOAN"
+      "nume_norm": "ALEXANDRU ANDREI IOAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Andrei Cosmin",
@@ -95,7 +107,9 @@
       "datorii_ron": 50000,
       "auto": 5,
       "nume": "ANDREI COSMIN",
-      "nume_norm": "ANDREI COSMIN"
+      "nume_norm": "ANDREI COSMIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Andronache Gabriel",
@@ -108,7 +122,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ANDRONACHE GABRIEL",
-      "nume_norm": "ANDRONACHE GABRIEL"
+      "nume_norm": "ANDRONACHE GABRIEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Andrusca Lucian-Nicolae",
@@ -121,7 +137,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ANDRUSCA LUCIAN-NICOLAE",
-      "nume_norm": "ANDRUSCA LUCIAN NICOLAE"
+      "nume_norm": "ANDRUSCA LUCIAN NICOLAE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Atanasiu Corina",
@@ -134,7 +152,9 @@
       "datorii_ron": 105789,
       "auto": 5,
       "nume": "ATANASIU CORINA",
-      "nume_norm": "ATANASIU CORINA"
+      "nume_norm": "ATANASIU CORINA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Avramescu Stefanita-Alin",
@@ -147,7 +167,9 @@
       "datorii_ron": 225000,
       "auto": 5,
       "nume": "AVRAMESCU STEFANITA-ALIN",
-      "nume_norm": "ALIN AVRAMESCU STEFANITA"
+      "nume_norm": "ALIN AVRAMESCU STEFANITA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Baciu Romica-Andrei",
@@ -160,7 +182,32 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BACIU ROMICA-ANDREI",
-      "nume_norm": "ANDREI BACIU ROMICA"
+      "nume_norm": "ANDREI BACIU ROMICA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BCR",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "131",
+          "valoare": "249783 USD"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MFP",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "1000",
+          "valoare": "106333 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MFP",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "1000",
+          "valoare": "103633 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Badea Nelu-Valentin",
@@ -173,7 +220,9 @@
       "datorii_ron": 0,
       "auto": 14,
       "nume": "BADEA NELU-VALENTIN",
-      "nume_norm": "BADEA NELU VALENTIN"
+      "nume_norm": "BADEA NELU VALENTIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Badiu Georgel",
@@ -186,7 +235,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "BADIU GEORGEL",
-      "nume_norm": "BADIU GEORGEL"
+      "nume_norm": "BADIU GEORGEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Balan Ioan",
@@ -199,7 +250,9 @@
       "datorii_ron": 555000,
       "auto": 5,
       "nume": "BALAN IOAN",
-      "nume_norm": "BALAN IOAN"
+      "nume_norm": "BALAN IOAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bara Nicolae-Adrian",
@@ -212,7 +265,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BARA NICOLAE-ADRIAN",
-      "nume_norm": "ADRIAN BARA NICOLAE"
+      "nume_norm": "ADRIAN BARA NICOLAE",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Barbu Florin-Ionut",
@@ -225,7 +280,9 @@
       "datorii_ron": 238200,
       "auto": 5,
       "nume": "BARBU FLORIN-IONUT",
-      "nume_norm": "BARBU FLORIN IONUT"
+      "nume_norm": "BARBU FLORIN IONUT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Barstan Tiberiu-Claudiu",
@@ -238,7 +295,9 @@
       "datorii_ron": 100000,
       "auto": 11,
       "nume": "BARSTAN TIBERIU-CLAUDIU",
-      "nume_norm": "BARSTAN CLAUDIU TIBERIU"
+      "nume_norm": "BARSTAN CLAUDIU TIBERIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bas Ana-Marcela",
@@ -251,7 +310,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BAS ANA-MARCELA",
-      "nume_norm": "ANA BAS MARCELA"
+      "nume_norm": "ANA BAS MARCELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Baisanu Stefan-Alexandru",
@@ -264,7 +325,9 @@
       "datorii_ron": 290674,
       "auto": 6,
       "nume": "BAISANU STEFAN-ALEXANDRU",
-      "nume_norm": "ALEXANDRU BAISANU STEFAN"
+      "nume_norm": "ALEXANDRU BAISANU STEFAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Becali George",
@@ -277,7 +340,9 @@
       "datorii_ron": 0,
       "auto": 11,
       "nume": "BECALI GEORGE",
-      "nume_norm": "BECALI GEORGE"
+      "nume_norm": "BECALI GEORGE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bejinariu Eugen",
@@ -290,7 +355,25 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BEJINARIU EUGEN",
-      "nume_norm": "BEJINARIU EUGEN"
+      "nume_norm": "BEJINARIU EUGEN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Banca Transilvania",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "188",
+          "valoare": "158357 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Banca Transilvania",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "2339",
+          "valoare": "233900 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Bende Sandor",
@@ -303,7 +386,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BENDE SANDOR",
-      "nume_norm": "BENDE SANDOR"
+      "nume_norm": "BENDE SANDOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Berescu Monica-Elena",
@@ -316,7 +401,46 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BERESCU MONICA-ELENA",
-      "nume_norm": "BERESCU ELENA MONICA"
+      "nume_norm": "BERESCU ELENA MONICA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ibeinteritx srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "99 %",
+          "valoare": "198 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Erebul Consulting SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "1",
+          "valoare": "5 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezoreria Romana",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "1",
+          "valoare": "250000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Cloudlab AG",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10 %",
+          "valoare": "100000 CHF"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "IBEIT Solutions LTD",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "100 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Biro Daniel-Razvan",
@@ -329,7 +453,9 @@
       "datorii_ron": 2770350,
       "auto": 4,
       "nume": "BIRO DANIEL-RAZVAN",
-      "nume_norm": "BIRO DANIEL RAZVAN"
+      "nume_norm": "BIRO DANIEL RAZVAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Biro Rozalia-Ibolya",
@@ -342,7 +468,9 @@
       "datorii_ron": 149274,
       "auto": 6,
       "nume": "BIRO ROZALIA-IBOLYA",
-      "nume_norm": "BIRO IBOLYA ROZALIA"
+      "nume_norm": "BIRO IBOLYA ROZALIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Blaga Daniel-Codrut",
@@ -355,7 +483,18 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "BLAGA DANIEL-CODRUT",
-      "nume_norm": "BLAGA CODRUT DANIEL"
+      "nume_norm": "BLAGA CODRUT DANIEL",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Trezoreria Statutului",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "10000",
+          "valoare": "100000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Bode Lucian Nicolae",
@@ -368,7 +507,9 @@
       "datorii_ron": 443788,
       "auto": 5,
       "nume": "BODE LUCIAN NICOLAE",
-      "nume_norm": "BODE LUCIAN NICOLAE"
+      "nume_norm": "BODE LUCIAN NICOLAE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bogdan Ionel-Ovidiu",
@@ -381,7 +522,9 @@
       "datorii_ron": 648500,
       "auto": 5,
       "nume": "BOGDAN IONEL-OVIDIU",
-      "nume_norm": "BOGDAN IONEL OVIDIU"
+      "nume_norm": "BOGDAN IONEL OVIDIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bogdanel Lucian-Gabriel",
@@ -394,7 +537,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BOGDANEL LUCIAN-GABRIEL",
-      "nume_norm": "BOGDANEL GABRIEL LUCIAN"
+      "nume_norm": "BOGDANEL GABRIEL LUCIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bordian Alexandru",
@@ -407,7 +552,9 @@
       "datorii_ron": 100000,
       "auto": 4,
       "nume": "BORDIAN ALEXANDRU",
-      "nume_norm": "ALEXANDRU BORDIAN"
+      "nume_norm": "ALEXANDRU BORDIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bors George-Madalin",
@@ -420,7 +567,9 @@
       "datorii_ron": 200000,
       "auto": 4,
       "nume": "BORS GEORGE-MADALIN",
-      "nume_norm": "BORS GEORGE MADALIN"
+      "nume_norm": "BORS GEORGE MADALIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bosutar Tiberiu-Nicolae",
@@ -433,7 +582,9 @@
       "datorii_ron": 200000,
       "auto": 4,
       "nume": "BOSUTAR TIBERIU-NICOLAE",
-      "nume_norm": "BOSUTAR NICOLAE TIBERIU"
+      "nume_norm": "BOSUTAR NICOLAE TIBERIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Botez Mihai-Catalin",
@@ -446,7 +597,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "BOTEZ MIHAI-CATALIN",
-      "nume_norm": "BOTEZ CATALIN MIHAI"
+      "nume_norm": "BOTEZ CATALIN MIHAI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bouda Stefan",
@@ -459,7 +612,9 @@
       "datorii_ron": 93854,
       "auto": 4,
       "nume": "BOUDA STEFAN",
-      "nume_norm": "BOUDA STEFAN"
+      "nume_norm": "BOUDA STEFAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bruynseels Ramona-Ioana",
@@ -472,7 +627,25 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BRUYNSEELS RAMONA-IOANA",
-      "nume_norm": "BRUYNSEELS IOANA RAMONA"
+      "nume_norm": "BRUYNSEELS IOANA RAMONA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ardora Enterprise SRL Dominic Bruynseels",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "3323000 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC Boston Business Consult SRL Dominic Bruynseels",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "95 %",
+          "valoare": "190 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Bucur Ariana-Oana",
@@ -485,7 +658,9 @@
       "datorii_ron": 198000,
       "auto": 5,
       "nume": "BUCUR ARIANA-OANA",
-      "nume_norm": "ARIANA BUCUR OANA"
+      "nume_norm": "ARIANA BUCUR OANA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bucura-Oprescu Simona",
@@ -498,7 +673,9 @@
       "datorii_ron": 44001,
       "auto": 5,
       "nume": "BUCURA-OPRESCU SIMONA",
-      "nume_norm": "BUCURA OPRESCU SIMONA"
+      "nume_norm": "BUCURA OPRESCU SIMONA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Budaca Vasile",
@@ -511,7 +688,9 @@
       "datorii_ron": 343000,
       "auto": 4,
       "nume": "BUDACA VASILE",
-      "nume_norm": "BUDACA VASILE"
+      "nume_norm": "BUDACA VASILE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Budai Marius-Constantin",
@@ -524,7 +703,39 @@
       "datorii_ron": 0,
       "auto": 8,
       "nume": "BUDAI MARIUS-CONSTANTIN",
-      "nume_norm": "BUDAI CONSTANTIN MARIUS"
+      "nume_norm": "BUDAI CONSTANTIN MARIUS",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HIDROELECTRICA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "86",
+          "valoare": "10216.80 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PREMIER ENERGY PLC",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "123",
+          "valoare": "2356.68 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "FIDELIS",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "400",
+          "valoare": "38566 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BT",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "520",
+          "valoare": "16234.40 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Buican Cristian",
@@ -537,7 +748,9 @@
       "datorii_ron": 452500,
       "auto": 6,
       "nume": "BUICAN CRISTIAN",
-      "nume_norm": "BUICAN CRISTIAN"
+      "nume_norm": "BUICAN CRISTIAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bulai Iulian",
@@ -550,7 +763,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "BULAI IULIAN",
-      "nume_norm": "BULAI IULIAN"
+      "nume_norm": "BULAI IULIAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Bulearca Marius-Felix",
@@ -563,7 +778,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "BULEARCA MARIUS-FELIX",
-      "nume_norm": "BULEARCA FELIX MARIUS"
+      "nume_norm": "BULEARCA FELIX MARIUS",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Burduja Sebastian-Ioan",
@@ -576,7 +793,9 @@
       "datorii_ron": 2021990,
       "auto": 6,
       "nume": "BURDUJA SEBASTIAN-IOAN",
-      "nume_norm": "BURDUJA IOAN SEBASTIAN"
+      "nume_norm": "BURDUJA IOAN SEBASTIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Butura Cristina-Irina",
@@ -589,7 +808,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BUTURA CRISTINA-IRINA",
-      "nume_norm": "BUTURA CRISTINA IRINA"
+      "nume_norm": "BUTURA CRISTINA IRINA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Buzoianu Diana-Anda",
@@ -602,7 +823,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "BUZOIANU DIANA-ANDA",
-      "nume_norm": "ANDA BUZOIANU DIANA"
+      "nume_norm": "ANDA BUZOIANU DIANA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cadar Razvan-Olimpiu",
@@ -615,7 +838,9 @@
       "datorii_ron": 627007,
       "auto": 4,
       "nume": "CADAR RAZVAN-OLIMPIU",
-      "nume_norm": "CADAR OLIMPIU RAZVAN"
+      "nume_norm": "CADAR OLIMPIU RAZVAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Caragata Florin",
@@ -628,7 +853,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CARAGATA FLORIN",
-      "nume_norm": "CARAGATA FLORIN"
+      "nume_norm": "CARAGATA FLORIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Caciu Adrian",
@@ -641,7 +868,9 @@
       "datorii_ron": 210000,
       "auto": 4,
       "nume": "CACIU ADRIAN",
-      "nume_norm": "ADRIAN CACIU"
+      "nume_norm": "ADRIAN CACIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cernit Maria",
@@ -654,7 +883,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CERNIT MARIA",
-      "nume_norm": "CERNIT MARIA"
+      "nume_norm": "CERNIT MARIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Chilat Crina-Fiorela",
@@ -667,7 +898,25 @@
       "datorii_ron": 17540,
       "auto": 7,
       "nume": "CHILAT CRINA-FIORELA",
-      "nume_norm": "CHILAT CRINA FIORELA"
+      "nume_norm": "CHILAT CRINA FIORELA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "micral expert srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "98 %",
+          "valoare": "490 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "micral infodata expert srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "36 %",
+          "valoare": "360 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Chirila Virgil Alin",
@@ -680,7 +929,9 @@
       "datorii_ron": 300728,
       "auto": 5,
       "nume": "CHIRILA VIRGIL ALIN",
-      "nume_norm": "ALIN CHIRILA VIRGIL"
+      "nume_norm": "ALIN CHIRILA VIRGIL",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Chirita Razvan-Mirel",
@@ -693,7 +944,9 @@
       "datorii_ron": 429122,
       "auto": 4,
       "nume": "CHIRITA RAZVAN-MIREL",
-      "nume_norm": "CHIRITA MIREL RAZVAN"
+      "nume_norm": "CHIRITA MIREL RAZVAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciobanu Adrian-Virgil",
@@ -706,7 +959,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "CIOBANU ADRIAN-VIRGIL",
-      "nume_norm": "ADRIAN CIOBANU VIRGIL"
+      "nume_norm": "ADRIAN CIOBANU VIRGIL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciobotaru Dragos-Fanica",
@@ -719,7 +974,9 @@
       "datorii_ron": 75750,
       "auto": 6,
       "nume": "CIOBOTARU DRAGOS-FANICA",
-      "nume_norm": "CIOBOTARU DRAGOS FANICA"
+      "nume_norm": "CIOBOTARU DRAGOS FANICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciocan Doinita",
@@ -732,7 +989,53 @@
       "datorii_ron": 234350,
       "auto": 8,
       "nume": "CIOCAN DOINITA",
-      "nume_norm": "CIOCAN DOINITA"
+      "nume_norm": "CIOCAN DOINITA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC D D JOBS SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "20",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC LAMINORUL SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "67",
+          "valoare": "139 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIF MUNTENIA SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "300",
+          "valoare": "190 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIF OLTENIA SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100",
+          "valoare": "209 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIF TRANSILVANIA SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "464",
+          "valoare": "122 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC PANAIT ISTRATI SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5",
+          "valoare": "12 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Ciornei Daniel-Catalin",
@@ -745,7 +1048,9 @@
       "datorii_ron": 949400,
       "auto": 4,
       "nume": "CIORNEI DANIEL-CATALIN",
-      "nume_norm": "CATALIN CIORNEI DANIEL"
+      "nume_norm": "CATALIN CIORNEI DANIEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciortea Razvan-Iulian",
@@ -758,7 +1063,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CIORTEA RAZVAN-IULIAN",
-      "nume_norm": "CIORTEA IULIAN RAZVAN"
+      "nume_norm": "CIORTEA IULIAN RAZVAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciubuc Ciprian",
@@ -771,7 +1078,9 @@
       "datorii_ron": 125000,
       "auto": 6,
       "nume": "CIUBUC CIPRIAN",
-      "nume_norm": "CIPRIAN CIUBUC"
+      "nume_norm": "CIPRIAN CIUBUC",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciuca Liviu-Bogdan",
@@ -784,7 +1093,9 @@
       "datorii_ron": 467080,
       "auto": 4,
       "nume": "CIUCA LIVIU-BOGDAN",
-      "nume_norm": "BOGDAN CIUCA LIVIU"
+      "nume_norm": "BOGDAN CIUCA LIVIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciunt Ionel",
@@ -797,7 +1108,9 @@
       "datorii_ron": 250000,
       "auto": 5,
       "nume": "CIUNT IONEL",
-      "nume_norm": "CIUNT IONEL"
+      "nume_norm": "CIUNT IONEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cimpan Cristian-Emanuel",
@@ -810,7 +1123,9 @@
       "datorii_ron": 40000,
       "auto": 5,
       "nume": "CIMPAN CRISTIAN-EMANUEL",
-      "nume_norm": "CIMPAN CRISTIAN EMANUEL"
+      "nume_norm": "CIMPAN CRISTIAN EMANUEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cimpean Ovidiu-Vasile",
@@ -823,7 +1138,123 @@
       "datorii_ron": 382701,
       "auto": 5,
       "nume": "CIMPEAN OVIDIU-VASILE",
-      "nume_norm": "CIMPEAN OVIDIU VASILE"
+      "nume_norm": "CIMPEAN OVIDIU VASILE",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ABN Systems International",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "920",
+          "valoare": "347 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Alumil Rom Industry",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "6000",
+          "valoare": "17100 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Arobs Transilvania Software",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "6000",
+          "valoare": "3762 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Biofarm",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10300",
+          "valoare": "7437 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BRD Groupe Societe Generale",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "550",
+          "valoare": "10934 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Societatea Energie Electrica",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "500",
+          "valoare": "7460 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Fondul Proprietatea",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "11000",
+          "valoare": "3866 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Holde Agri Invest",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "3000",
+          "valoare": "2142 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ihunt Technology Import-Export",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "9000",
+          "valoare": "2988 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Life is Hard",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "7105",
+          "valoare": "6906 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Mambricolaj",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "600",
+          "valoare": "912 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Prebet Aiud",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "500",
+          "valoare": "1030 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Star Residence Invest",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "22000",
+          "valoare": "2816 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Safetech Innovation",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "9787",
+          "valoare": "8436 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Sphera Franchise Group",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "800",
+          "valoare": "32800 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Romgaz",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5850",
+          "valoare": "40307 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Cimpianu Andreea-Petronela",
@@ -836,7 +1267,9 @@
       "datorii_ron": 85850,
       "auto": 5,
       "nume": "CIMPIANU ANDREEA-PETRONELA",
-      "nume_norm": "ANDREEA CIMPIANU PETRONELA"
+      "nume_norm": "ANDREEA CIMPIANU PETRONELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cirligea Florin-Eugen",
@@ -849,7 +1282,81 @@
       "datorii_ron": 500000,
       "auto": 4,
       "nume": "CIRLIGEA FLORIN-EUGEN",
-      "nume_norm": "CIRLIGEA EUGEN FLORIN"
+      "nume_norm": "CIRLIGEA EUGEN FLORIN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C COMISION TRADE S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "30000000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C TEHNOCERTI MENTENANTA S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "4000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SCOM CHARTER NEPA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "1 %",
+          "valoare": "14000 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "GESTRETO COM S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ALEXION S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "500200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "GERATELECTRONIC S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "95 %",
+          "valoare": "1900 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ELECTROSTEFF ENERGY S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "5000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SAN STELLA ENERGY S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "5000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "GREENFLY INVESTMENT SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "70 %",
+          "valoare": "7000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ENERGOINSTAL SERVICE SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10 %",
+          "valoare": "400 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Cirligeanu Ariadna-Elena",
@@ -862,7 +1369,9 @@
       "datorii_ron": 200000,
       "auto": 4,
       "nume": "CIRLIGEANU ARIADNA-ELENA",
-      "nume_norm": "ARIADNA CIRLIGEANU ELENA"
+      "nume_norm": "ARIADNA CIRLIGEANU ELENA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Coarna Dumitru",
@@ -875,7 +1384,9 @@
       "datorii_ron": 168900,
       "auto": 6,
       "nume": "COARNA DUMITRU",
-      "nume_norm": "COARNA DUMITRU"
+      "nume_norm": "COARNA DUMITRU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cojocaru Petru-Bogdan",
@@ -888,7 +1399,9 @@
       "datorii_ron": 100000,
       "auto": 6,
       "nume": "COJOCARU PETRU-BOGDAN",
-      "nume_norm": "BOGDAN COJOCARU PETRU"
+      "nume_norm": "BOGDAN COJOCARU PETRU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Colesa Ilie-Alin",
@@ -901,7 +1414,9 @@
       "datorii_ron": 165000,
       "auto": 6,
       "nume": "COLESA ILIE-ALIN",
-      "nume_norm": "ALIN COLESA ILIE"
+      "nume_norm": "ALIN COLESA ILIE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Coliban Allen",
@@ -914,7 +1429,9 @@
       "datorii_ron": 50250,
       "auto": 6,
       "nume": "COLIBAN ALLEN",
-      "nume_norm": "ALLEN COLIBAN"
+      "nume_norm": "ALLEN COLIBAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Coman Dragos-Florin",
@@ -927,7 +1444,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "COMAN DRAGOS-FLORIN",
-      "nume_norm": "COMAN DRAGOS FLORIN"
+      "nume_norm": "COMAN DRAGOS FLORIN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Constantinescu Andra-Claudia",
@@ -940,7 +1459,9 @@
       "datorii_ron": 207050,
       "auto": 4,
       "nume": "CONSTANTINESCU ANDRA-CLAUDIA",
-      "nume_norm": "ANDRA CLAUDIA CONSTANTINESCU"
+      "nume_norm": "ANDRA CLAUDIA CONSTANTINESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Constantinescu Sergiu-Mircea",
@@ -953,7 +1474,9 @@
       "datorii_ron": 291407,
       "auto": 6,
       "nume": "CONSTANTINESCU SERGIU-MIRCEA",
-      "nume_norm": "CONSTANTINESCU MIRCEA SERGIU"
+      "nume_norm": "CONSTANTINESCU MIRCEA SERGIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Corches Codruta-Maria",
@@ -966,7 +1489,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CORCHES CODRUTA-MARIA",
-      "nume_norm": "CODRUTA CORCHES MARIA"
+      "nume_norm": "CODRUTA CORCHES MARIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cotinescu Ilie-Aurelian",
@@ -979,7 +1504,9 @@
       "datorii_ron": 757500,
       "auto": 4,
       "nume": "COTINESCU ILIE-AURELIAN",
-      "nume_norm": "AURELIAN COTINESCU ILIE"
+      "nume_norm": "AURELIAN COTINESCU ILIE",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cotirlet Paul-Claudiu",
@@ -992,7 +1519,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "COTIRLET PAUL-CLAUDIU",
-      "nume_norm": "CLAUDIU COTIRLET PAUL"
+      "nume_norm": "CLAUDIU COTIRLET PAUL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cozma Adrian-Felician",
@@ -1005,7 +1534,9 @@
       "datorii_ron": 514250,
       "auto": 8,
       "nume": "COZMA ADRIAN-FELICIAN",
-      "nume_norm": "ADRIAN COZMA FELICIAN"
+      "nume_norm": "ADRIAN COZMA FELICIAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Cristian Brian",
@@ -1018,7 +1549,18 @@
       "datorii_ron": 130000,
       "auto": 4,
       "nume": "CRISTIAN BRIAN",
-      "nume_norm": "BRIAN CRISTIAN"
+      "nume_norm": "BRIAN CRISTIAN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Bursa de valori Bucuresti H20",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "64",
+          "valoare": "7852.80 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Cristici Ognean",
@@ -1031,7 +1573,9 @@
       "datorii_ron": 187979,
       "auto": 5,
       "nume": "CRISTICI OGNEAN",
-      "nume_norm": "CRISTICI OGNEAN"
+      "nume_norm": "CRISTICI OGNEAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Crusoveanu Marian",
@@ -1044,7 +1588,53 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "CRUSOVEANU MARIAN",
-      "nume_norm": "CRUSOVEANU MARIAN"
+      "nume_norm": "CRUSOVEANU MARIAN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "EVERGENT INVESTMENTS SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18.75",
+          "valoare": "0.10 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "LION CAPITAL SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18.75",
+          "valoare": "0.10 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PILOT SERVICE CONSTANTA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18.75",
+          "valoare": "0.10 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIF MUNTENIA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18.75",
+          "valoare": "0.10 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIF OLTENIA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18.75",
+          "valoare": "0.10 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TRANSILVANIA INVESTMENTS",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18.75",
+          "valoare": "0.10 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Csep Eva-Andrea",
@@ -1057,7 +1647,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "CSEP EVA-ANDREA",
-      "nume_norm": "ANDREA CSEP EVA"
+      "nume_norm": "ANDREA CSEP EVA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Csillag Andrei",
@@ -1070,7 +1662,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CSILLAG ANDREI",
-      "nume_norm": "ANDREI CSILLAG"
+      "nume_norm": "ANDREI CSILLAG",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Csoma Botond",
@@ -1083,7 +1677,9 @@
       "datorii_ron": 326500,
       "auto": 5,
       "nume": "CSOMA BOTOND",
-      "nume_norm": "BOTOND CSOMA"
+      "nume_norm": "BOTOND CSOMA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Culeafa Mihai",
@@ -1096,7 +1692,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "CULEAFA MIHAI",
-      "nume_norm": "CULEAFA MIHAI"
+      "nume_norm": "CULEAFA MIHAI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Dascalu Cristina-Emanuela",
@@ -1109,7 +1707,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "DASCALU CRISTINA-EMANUELA",
-      "nume_norm": "CRISTINA DASCALU EMANUELA"
+      "nume_norm": "CRISTINA DASCALU EMANUELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Dimitriu Alexandru-Paul",
@@ -1122,7 +1722,9 @@
       "datorii_ron": 202000,
       "auto": 5,
       "nume": "DIMITRIU ALEXANDRU-PAUL",
-      "nume_norm": "ALEXANDRU DIMITRIU PAUL"
+      "nume_norm": "ALEXANDRU DIMITRIU PAUL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Dobos Elena",
@@ -1135,7 +1737,9 @@
       "datorii_ron": 52000,
       "auto": 4,
       "nume": "DOBOS ELENA",
-      "nume_norm": "DOBOS ELENA"
+      "nume_norm": "DOBOS ELENA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Dolineaschi Andrei",
@@ -1148,7 +1752,9 @@
       "datorii_ron": 35350,
       "auto": 6,
       "nume": "DOLINEASCHI ANDREI",
-      "nume_norm": "ANDREI DOLINEASCHI"
+      "nume_norm": "ANDREI DOLINEASCHI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Dragoescu Cezar-Mihail",
@@ -1161,7 +1767,9 @@
       "datorii_ron": 885520,
       "auto": 7,
       "nume": "DRAGOESCU CEZAR-MIHAIL",
-      "nume_norm": "CEZAR DRAGOESCU MIHAIL"
+      "nume_norm": "CEZAR DRAGOESCU MIHAIL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Drinceanu Vlad-Florentin",
@@ -1174,7 +1782,9 @@
       "datorii_ron": 387500,
       "auto": 5,
       "nume": "DRINCEANU VLAD-FLORENTIN",
-      "nume_norm": "DRINCEANU FLORENTIN VLAD"
+      "nume_norm": "DRINCEANU FLORENTIN VLAD",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Drula Catalin",
@@ -1187,7 +1797,116 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "DRULA CATALIN",
-      "nume_norm": "CATALIN DRULA"
+      "nume_norm": "CATALIN DRULA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ZIPLINE INTERNATIONAL INC",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "74331",
+          "valoare": "2229930 USD"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "EVERGENT",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5600",
+          "valoare": "7896 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TRANSELECTRICA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50",
+          "valoare": "2485 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TRANSGAZ",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "464",
+          "valoare": "16240 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BANCA TRANSILVANIA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "200",
+          "valoare": "6448 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Indra Sistemas SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100",
+          "valoare": "3628 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TITLURI DE STAT",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "100",
+          "valoare": "102550 USD"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BRD",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "120",
+          "valoare": "2385 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PREMIER ENERGY",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "269",
+          "valoare": "5374 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HIDROELECTRICA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "345",
+          "valoare": "42055 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "WIZZ AIR HOLDINGS PLC",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "250",
+          "valoare": "3017 GBP"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BMW AG",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "120",
+          "valoare": "9237 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Dassault Aviation SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "12",
+          "valoare": "3835 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Nestle SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "229",
+          "valoare": "19953 CHF"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Titluri de stat",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "150",
+          "valoare": "149188 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Dunava Costel Neculai",
@@ -1200,7 +1919,25 @@
       "datorii_ron": 1344466,
       "auto": 5,
       "nume": "DUNAVA COSTEL NECULAI",
-      "nume_norm": "COSTEL DUNAVA NECULAI"
+      "nume_norm": "COSTEL DUNAVA NECULAI",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HIDROELECTRICA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "130 %",
+          "valoare": "15886 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ROMGAZ",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "3450 %",
+          "valoare": "18595 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Echert Adrian",
@@ -1213,7 +1950,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "ECHERT ADRIAN",
-      "nume_norm": "ADRIAN ECHERT"
+      "nume_norm": "ADRIAN ECHERT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Enache Diana",
@@ -1226,7 +1965,9 @@
       "datorii_ron": 844026,
       "auto": 5,
       "nume": "ENACHE DIANA",
-      "nume_norm": "DIANA ENACHE"
+      "nume_norm": "DIANA ENACHE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Enache Mihai-Adrian",
@@ -1239,7 +1980,9 @@
       "datorii_ron": 844026,
       "auto": 5,
       "nume": "ENACHE MIHAI-ADRIAN",
-      "nume_norm": "ADRIAN ENACHE MIHAI"
+      "nume_norm": "ADRIAN ENACHE MIHAI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Enachi Raisa",
@@ -1252,7 +1995,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ENACHI RAISA",
-      "nume_norm": "ENACHI RAISA"
+      "nume_norm": "ENACHI RAISA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ene Gabriela-Corina",
@@ -1265,7 +2010,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ENE GABRIELA-CORINA",
-      "nume_norm": "CORINA ENE GABRIELA"
+      "nume_norm": "CORINA ENE GABRIELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Faget Madalin-Laurentiu",
@@ -1278,7 +2025,18 @@
       "datorii_ron": 78100,
       "auto": 6,
       "nume": "FAGET MADALIN-LAURENTIU",
-      "nume_norm": "FAGET LAURENTIU MADALIN"
+      "nume_norm": "FAGET LAURENTIU MADALIN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Subscriere TEZAUR",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "1000",
+          "valoare": "1000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Fechet Mircea",
@@ -1291,7 +2049,9 @@
       "datorii_ron": 198000,
       "auto": 5,
       "nume": "FECHET MIRCEA",
-      "nume_norm": "FECHET MIRCEA"
+      "nume_norm": "FECHET MIRCEA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Feodor Silviu",
@@ -1304,7 +2064,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "FEODOR SILVIU",
-      "nume_norm": "FEODOR SILVIU"
+      "nume_norm": "FEODOR SILVIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Fifor Mihai-Viorel",
@@ -1317,7 +2079,9 @@
       "datorii_ron": 357932,
       "auto": 6,
       "nume": "FIFOR MIHAI-VIOREL",
-      "nume_norm": "FIFOR MIHAI VIOREL"
+      "nume_norm": "FIFOR MIHAI VIOREL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Firczak Iulius Marian",
@@ -1330,7 +2094,18 @@
       "datorii_ron": 358550,
       "auto": 4,
       "nume": "FIRCZAK IULIUS MARIAN",
-      "nume_norm": "FIRCZAK IULIUS MARIAN"
+      "nume_norm": "FIRCZAK IULIUS MARIAN",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "H2O",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "22",
+          "valoare": "2229 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Florea Gabriel-Florinel",
@@ -1343,7 +2118,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "FLOREA GABRIEL-FLORINEL",
-      "nume_norm": "FLOREA FLORINEL GABRIEL"
+      "nume_norm": "FLOREA FLORINEL GABRIEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Furtuna Mirela",
@@ -1356,7 +2133,18 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "FURTUNA MIRELA",
-      "nume_norm": "FURTUNA MIRELA"
+      "nume_norm": "FURTUNA MIRELA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC LUCAS TLA GRUP SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Gal Calin-Gratian",
@@ -1369,7 +2157,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "GAL CALIN-GRATIAN",
-      "nume_norm": "CALIN GAL GRATIAN"
+      "nume_norm": "CALIN GAL GRATIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gal Karoly",
@@ -1382,7 +2172,9 @@
       "datorii_ron": 174500,
       "auto": 6,
       "nume": "GAL KAROLY",
-      "nume_norm": "GAL KAROLY"
+      "nume_norm": "GAL KAROLY",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gant Ovidiu Victor",
@@ -1395,7 +2187,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "GANT OVIDIU VICTOR",
-      "nume_norm": "GANT OVIDIU VICTOR"
+      "nume_norm": "GANT OVIDIU VICTOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gavrila Anamaria",
@@ -1408,7 +2202,9 @@
       "datorii_ron": 91935,
       "auto": 5,
       "nume": "GAVRILA ANAMARIA",
-      "nume_norm": "ANAMARIA GAVRILA"
+      "nume_norm": "ANAMARIA GAVRILA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gavrila Bianca-Eugenia",
@@ -1421,7 +2217,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GAVRILA BIANCA-EUGENIA",
-      "nume_norm": "BIANCA EUGENIA GAVRILA"
+      "nume_norm": "BIANCA EUGENIA GAVRILA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gavrilescu Gratiela Leocadia",
@@ -1434,7 +2232,18 @@
       "datorii_ron": 137495,
       "auto": 7,
       "nume": "GAVRILESCU GRATIELA LEOCADIA",
-      "nume_norm": "GAVRILESCU GRATIELA LEOCADIA"
+      "nume_norm": "GAVRILESCU GRATIELA LEOCADIA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC ARPACOR SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "3390",
+          "valoare": "27060 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Geamanu Aurora-Adela",
@@ -1447,7 +2256,9 @@
       "datorii_ron": 298000,
       "auto": 4,
       "nume": "GEAMANU AURORA-ADELA",
-      "nume_norm": "ADELA AURORA GEAMANU"
+      "nume_norm": "ADELA AURORA GEAMANU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Georgescu Gheorghe-Daniel",
@@ -1460,7 +2271,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GEORGESCU GHEORGHE-DANIEL",
-      "nume_norm": "DANIEL GEORGESCU GHEORGHE"
+      "nume_norm": "DANIEL GEORGESCU GHEORGHE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gheorghe Andrei Daniel",
@@ -1473,7 +2286,9 @@
       "datorii_ron": 344868,
       "auto": 6,
       "nume": "GHEORGHE ANDREI DANIEL",
-      "nume_norm": "ANDREI DANIEL GHEORGHE"
+      "nume_norm": "ANDREI DANIEL GHEORGHE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gheorghe Ionel",
@@ -1486,7 +2301,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHEORGHE IONEL",
-      "nume_norm": "GHEORGHE IONEL"
+      "nume_norm": "GHEORGHE IONEL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gheorghe Mihai-Claudiu",
@@ -1499,7 +2316,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHEORGHE MIHAI-CLAUDIU",
-      "nume_norm": "CLAUDIU GHEORGHE MIHAI"
+      "nume_norm": "CLAUDIU GHEORGHE MIHAI",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gheorghiu Andrei-Florin",
@@ -1512,7 +2331,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHEORGHIU ANDREI-FLORIN",
-      "nume_norm": "ANDREI FLORIN GHEORGHIU"
+      "nume_norm": "ANDREI FLORIN GHEORGHIU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ghera Giureci-Slobodan",
@@ -1525,7 +2346,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHERA GIURECI-SLOBODAN",
-      "nume_norm": "GHERA GIURECI SLOBODAN"
+      "nume_norm": "GHERA GIURECI SLOBODAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gherasim Laura",
@@ -1538,7 +2361,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GHERASIM LAURA",
-      "nume_norm": "GHERASIM LAURA"
+      "nume_norm": "GHERASIM LAURA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ghigiu Alexandru-Mihai",
@@ -1551,7 +2376,9 @@
       "datorii_ron": 169519,
       "auto": 4,
       "nume": "GHIGIU ALEXANDRU-MIHAI",
-      "nume_norm": "ALEXANDRU GHIGIU MIHAI"
+      "nume_norm": "ALEXANDRU GHIGIU MIHAI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gima George",
@@ -1564,7 +2391,9 @@
       "datorii_ron": 208206,
       "auto": 4,
       "nume": "GIMA GEORGE",
-      "nume_norm": "GEORGE GIMA"
+      "nume_norm": "GEORGE GIMA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Giurgiu Adrian",
@@ -1577,7 +2406,9 @@
       "datorii_ron": 150000,
       "auto": 6,
       "nume": "GIURGIU ADRIAN",
-      "nume_norm": "ADRIAN GIURGIU"
+      "nume_norm": "ADRIAN GIURGIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gliga Dumitrita",
@@ -1590,7 +2421,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "GLIGA DUMITRITA",
-      "nume_norm": "DUMITRITA GLIGA"
+      "nume_norm": "DUMITRITA GLIGA",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C. Gliga Companies S.A",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "12799",
+          "valoare": "1279900 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Goidescu Ionel",
@@ -1603,7 +2445,25 @@
       "datorii_ron": 108000,
       "auto": 4,
       "nume": "GOIDESCU IONEL",
-      "nume_norm": "GOIDESCU IONEL"
+      "nume_norm": "GOIDESCU IONEL",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C. EDIFICIA SERV S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "89",
+          "valoare": "890000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C. EDIFICIA INSTALATII S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "40",
+          "valoare": "1040 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Gorghiu Alina-Stefania",
@@ -1616,7 +2476,32 @@
       "datorii_ron": 164125,
       "auto": 4,
       "nume": "GORGHIU ALINA-STEFANIA",
-      "nume_norm": "ALINA GORGHIU STEFANIA"
+      "nume_norm": "ALINA GORGHIU STEFANIA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Risk and Treasury Advisory Isar Lucian capital social",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "România Gorghiu Alina- Ștefania",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "249",
+          "valoare": "498000 USD"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "România Gorghiu Alina- Ștefania",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "377",
+          "valoare": "377000 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Govor Mircea-Vasile",
@@ -1629,7 +2514,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "GOVOR MIRCEA-VASILE",
-      "nume_norm": "GOVOR MIRCEA VASILE"
+      "nume_norm": "GOVOR MIRCEA VASILE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Grindeanu Sorin-Mihai",
@@ -1642,7 +2529,9 @@
       "datorii_ron": 374620,
       "auto": 4,
       "nume": "GRINDEANU SORIN-MIHAI",
-      "nume_norm": "GRINDEANU MIHAI SORIN"
+      "nume_norm": "GRINDEANU MIHAI SORIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Grofu Daniel",
@@ -1655,7 +2544,9 @@
       "datorii_ron": 50500,
       "auto": 6,
       "nume": "GROFU DANIEL",
-      "nume_norm": "DANIEL GROFU"
+      "nume_norm": "DANIEL GROFU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Grosaru Ioana",
@@ -1668,7 +2559,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "GROSARU IOANA",
-      "nume_norm": "GROSARU IOANA"
+      "nume_norm": "GROSARU IOANA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Grosu Veronica",
@@ -1681,7 +2574,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "GROSU VERONICA",
-      "nume_norm": "GROSU VERONICA"
+      "nume_norm": "GROSU VERONICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Groza Calin-Florin",
@@ -1694,7 +2589,9 @@
       "datorii_ron": 100000,
       "auto": 5,
       "nume": "GROZA CALIN-FLORIN",
-      "nume_norm": "CALIN FLORIN GROZA"
+      "nume_norm": "CALIN FLORIN GROZA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gurlui Silviu-Octavian",
@@ -1707,7 +2604,9 @@
       "datorii_ron": 835360,
       "auto": 5,
       "nume": "GURLUI SILVIU-OCTAVIAN",
-      "nume_norm": "GURLUI OCTAVIAN SILVIU"
+      "nume_norm": "GURLUI OCTAVIAN SILVIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Gusa Andrei-Cosmin",
@@ -1720,7 +2619,25 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "GUSA ANDREI-COSMIN",
-      "nume_norm": "ANDREI COSMIN GUSA"
+      "nume_norm": "ANDREI COSMIN GUSA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ANGUS RESOURCES SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "20",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ANGUS EQUITY SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "15",
+          "valoare": "150 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Hagiu Augustin-Florin",
@@ -1733,7 +2650,9 @@
       "datorii_ron": 128407,
       "auto": 5,
       "nume": "HAGIU AUGUSTIN-FLORIN",
-      "nume_norm": "AUGUSTIN FLORIN HAGIU"
+      "nume_norm": "AUGUSTIN FLORIN HAGIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Hajdu Gabor",
@@ -1746,7 +2665,53 @@
       "datorii_ron": 1542909,
       "auto": 8,
       "nume": "HAJDU GABOR",
-      "nume_norm": "GABOR HAJDU"
+      "nume_norm": "GABOR HAJDU",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Montener Curia SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "12",
+          "valoare": "120 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Spider Drone Security SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "24",
+          "valoare": "240 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ecotricity SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5",
+          "valoare": "50 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Hydrodirect kft",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100",
+          "valoare": "3000000 HUF"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Hydroenergy zrt",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "2944",
+          "valoare": "1472000 HUF"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Last Call kft",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10",
+          "valoare": "300000 HUF"
+        }
+      ]
     },
     {
       "institutie": "Deputat Hangan Pollyanna-Hanellore",
@@ -1759,7 +2724,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "HANGAN POLLYANNA-HANELLORE",
-      "nume_norm": "HANELLORE HANGAN POLLYANNA"
+      "nume_norm": "HANELLORE HANGAN POLLYANNA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Holban Georgeta-Carmen",
@@ -1772,7 +2739,39 @@
       "datorii_ron": 315935,
       "auto": 5,
       "nume": "HOLBAN GEORGETA-CARMEN",
-      "nume_norm": "CARMEN GEORGETA HOLBAN"
+      "nume_norm": "CARMEN GEORGETA HOLBAN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HYPERICI FARM S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "15000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ALIMENTARA S.A. sot Holban Marius",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "976",
+          "valoare": "4480 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HYMARCO CLINIQUE S.R.L. sot Holban Marius",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "33.33 %",
+          "valoare": "16100 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ASOCIATIA HYMARCO DIN DRAGOSTE PENTRU OAMENI sot Holban Marius",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "33.33",
+          "valoare": "300 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Hristu Cosmin",
@@ -1785,7 +2784,9 @@
       "datorii_ron": 555500,
       "auto": 4,
       "nume": "HRISTU COSMIN",
-      "nume_norm": "COSMIN HRISTU"
+      "nume_norm": "COSMIN HRISTU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Hutuca Bogdan-Iulian",
@@ -1798,7 +2799,25 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "HUTUCA BOGDAN-IULIAN",
-      "nume_norm": "BOGDAN HUTUCA IULIAN"
+      "nume_norm": "BOGDAN HUTUCA IULIAN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor Publice",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "450",
+          "valoare": "45000 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor Publice",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "82880",
+          "valoare": "82880 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Iagar Monica",
@@ -1811,7 +2830,9 @@
       "datorii_ron": 176750,
       "auto": 4,
       "nume": "IAGAR MONICA",
-      "nume_norm": "IAGAR MONICA"
+      "nume_norm": "IAGAR MONICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Iancu Marius-Ionel",
@@ -1824,7 +2845,9 @@
       "datorii_ron": 143000,
       "auto": 6,
       "nume": "IANCU MARIUS-IONEL",
-      "nume_norm": "IANCU IONEL MARIUS"
+      "nume_norm": "IANCU IONEL MARIUS",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Intotero Natalia-Elena",
@@ -1837,7 +2860,9 @@
       "datorii_ron": 160058,
       "auto": 8,
       "nume": "INTOTERO NATALIA-ELENA",
-      "nume_norm": "ELENA INTOTERO NATALIA"
+      "nume_norm": "ELENA INTOTERO NATALIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ion Nicolae-Mirel",
@@ -1850,7 +2875,9 @@
       "datorii_ron": 85850,
       "auto": 6,
       "nume": "ION NICOLAE-MIREL",
-      "nume_norm": "ION MIREL NICOLAE"
+      "nume_norm": "ION MIREL NICOLAE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ion Stelian-Cristian",
@@ -1863,7 +2890,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "ION STELIAN-CRISTIAN",
-      "nume_norm": "CRISTIAN ION STELIAN"
+      "nume_norm": "CRISTIAN ION STELIAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ionescu Monica",
@@ -1876,7 +2905,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "IONESCU MONICA",
-      "nume_norm": "IONESCU MONICA"
+      "nume_norm": "IONESCU MONICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ionescu Radu-Mihail",
@@ -1889,7 +2920,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "IONESCU RADU-MIHAIL",
-      "nume_norm": "IONESCU MIHAIL RADU"
+      "nume_norm": "IONESCU MIHAIL RADU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ionescu Tudor",
@@ -1902,7 +2935,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "IONESCU TUDOR",
-      "nume_norm": "IONESCU TUDOR"
+      "nume_norm": "IONESCU TUDOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Iordache Ion",
@@ -1915,7 +2950,9 @@
       "datorii_ron": 0,
       "auto": 11,
       "nume": "IORDACHE ION",
-      "nume_norm": "ION IORDACHE"
+      "nume_norm": "ION IORDACHE",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Iosub Cosmin-Teodor",
@@ -1928,7 +2965,9 @@
       "datorii_ron": 2550000,
       "auto": 4,
       "nume": "IOSUB COSMIN-TEODOR",
-      "nume_norm": "COSMIN IOSUB TEODOR"
+      "nume_norm": "COSMIN IOSUB TEODOR",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Irimia Ancuta-Florina",
@@ -1941,7 +2980,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "IRIMIA ANCUTA-FLORINA",
-      "nume_norm": "ANCUTA FLORINA IRIMIA"
+      "nume_norm": "ANCUTA FLORINA IRIMIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Isac Marius-Adrian",
@@ -1954,7 +2995,9 @@
       "datorii_ron": 743815,
       "auto": 5,
       "nume": "ISAC MARIUS-ADRIAN",
-      "nume_norm": "ADRIAN ISAC MARIUS"
+      "nume_norm": "ADRIAN ISAC MARIUS",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ivan Bogdan-Gruia",
@@ -1967,7 +3010,9 @@
       "datorii_ron": 548000,
       "auto": 6,
       "nume": "IVAN BOGDAN-GRUIA",
-      "nume_norm": "BOGDAN GRUIA IVAN"
+      "nume_norm": "BOGDAN GRUIA IVAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Jianu Iosif-Florin",
@@ -1980,7 +3025,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "JIANU IOSIF-FLORIN",
-      "nume_norm": "FLORIN IOSIF JIANU"
+      "nume_norm": "FLORIN IOSIF JIANU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Kantor Boglarka",
@@ -1993,7 +3040,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "KANTOR BOGLARKA",
-      "nume_norm": "BOGLARKA KANTOR"
+      "nume_norm": "BOGLARKA KANTOR",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Kelemen Hunor",
@@ -2006,7 +3055,9 @@
       "datorii_ron": 0,
       "auto": 8,
       "nume": "KELEMEN HUNOR",
-      "nume_norm": "HUNOR KELEMEN"
+      "nume_norm": "HUNOR KELEMEN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Kolcsar Anquetil-Karoly",
@@ -2019,7 +3070,9 @@
       "datorii_ron": 663000,
       "auto": 10,
       "nume": "KOLCSAR ANQUETIL-KAROLY",
-      "nume_norm": "ANQUETIL KAROLY KOLCSAR"
+      "nume_norm": "ANQUETIL KAROLY KOLCSAR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Koler Eduard-Virgil",
@@ -2032,7 +3085,25 @@
       "datorii_ron": 2666000,
       "auto": 4,
       "nume": "KOLER EDUARD-VIRGIL",
-      "nume_norm": "EDUARD KOLER VIRGIL"
+      "nume_norm": "EDUARD KOLER VIRGIL",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SEVERNAV SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "35",
+          "valoare": "151 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Banca Transilvania",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "103830",
+          "valoare": "3509767 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Konczei Csaba",
@@ -2045,7 +3116,9 @@
       "datorii_ron": 89114,
       "auto": 7,
       "nume": "KONCZEI CSABA",
-      "nume_norm": "CSABA KONCZEI"
+      "nume_norm": "CSABA KONCZEI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Kroncsis Sebastian-Andrei",
@@ -2058,7 +3131,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "KRONCSIS SEBASTIAN-ANDREI",
-      "nume_norm": "ANDREI KRONCSIS SEBASTIAN"
+      "nume_norm": "ANDREI KRONCSIS SEBASTIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Kulcsar-Terza Jozsef-Gyorgy",
@@ -2071,7 +3146,9 @@
       "datorii_ron": 50100,
       "auto": 5,
       "nume": "KULCSAR-TERZA JOZSEF-GYORGY",
-      "nume_norm": "GYORGY JOZSEF KULCSAR TERZA"
+      "nume_norm": "GYORGY JOZSEF KULCSAR TERZA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ladanyi Laszlo-Zsolt",
@@ -2084,7 +3161,9 @@
       "datorii_ron": 130000,
       "auto": 6,
       "nume": "LADANYI LASZLO-ZSOLT",
-      "nume_norm": "LADANYI LASZLO ZSOLT"
+      "nume_norm": "LADANYI LASZLO ZSOLT",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lazar Teodor",
@@ -2097,7 +3176,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "LAZAR TEODOR",
-      "nume_norm": "LAZAR TEODOR"
+      "nume_norm": "LAZAR TEODOR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lapusan Remus-Gabriel",
@@ -2110,7 +3191,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "LAPUSAN REMUS-GABRIEL",
-      "nume_norm": "GABRIEL LAPUSAN REMUS"
+      "nume_norm": "GABRIEL LAPUSAN REMUS",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lazaroi Ioan",
@@ -2123,7 +3206,9 @@
       "datorii_ron": 0,
       "auto": 10,
       "nume": "LAZAROI IOAN",
-      "nume_norm": "IOAN LAZAROI"
+      "nume_norm": "IOAN LAZAROI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lipa Elisabeta",
@@ -2136,7 +3221,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "LIPA ELISABETA",
-      "nume_norm": "ELISABETA LIPA"
+      "nume_norm": "ELISABETA LIPA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Longher Ghervazen",
@@ -2149,7 +3236,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "LONGHER GHERVAZEN",
-      "nume_norm": "GHERVAZEN LONGHER"
+      "nume_norm": "GHERVAZEN LONGHER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lorincz Stefan-Iulian",
@@ -2162,7 +3251,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "LORINCZ STEFAN-IULIAN",
-      "nume_norm": "IULIAN LORINCZ STEFAN"
+      "nume_norm": "IULIAN LORINCZ STEFAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lovin Ramona",
@@ -2175,7 +3266,9 @@
       "datorii_ron": 2866476,
       "auto": 5,
       "nume": "LOVIN RAMONA",
-      "nume_norm": "LOVIN RAMONA"
+      "nume_norm": "LOVIN RAMONA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Lungu Romeo-Daniel",
@@ -2188,7 +3281,9 @@
       "datorii_ron": 304456,
       "auto": 5,
       "nume": "LUNGU ROMEO-DANIEL",
-      "nume_norm": "DANIEL LUNGU ROMEO"
+      "nume_norm": "DANIEL LUNGU ROMEO",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Macovei Ilie Simona-Elena",
@@ -2201,7 +3296,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "MACOVEI ILIE SIMONA-ELENA",
-      "nume_norm": "ELENA ILIE MACOVEI SIMONA"
+      "nume_norm": "ELENA ILIE MACOVEI SIMONA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Magyar Lorand-Balint",
@@ -2214,7 +3311,18 @@
       "datorii_ron": 361889,
       "auto": 4,
       "nume": "MAGYAR LORAND-BALINT",
-      "nume_norm": "BALINT LORAND MAGYAR"
+      "nume_norm": "BALINT LORAND MAGYAR",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SERVICE MARKET SOLUTION SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Manole Petre-Florin",
@@ -2227,7 +3335,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MANOLE PETRE-FLORIN",
-      "nume_norm": "FLORIN MANOLE PETRE"
+      "nume_norm": "FLORIN MANOLE PETRE",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Titluri de stat",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "200000",
+          "valoare": "200000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Manta Claudiu",
@@ -2240,7 +3359,25 @@
       "datorii_ron": 329800,
       "auto": 5,
       "nume": "MANTA CLAUDIU",
-      "nume_norm": "CLAUDIU MANTA"
+      "nume_norm": "CLAUDIU MANTA",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Hidroelectrica S.A",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "57",
+          "valoare": "6954 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Gentiana Farm SRL Titular parti sociale Manta Roxana-Gabriela",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "410 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Marinescu Radu",
@@ -2253,7 +3390,9 @@
       "datorii_ron": 278588,
       "auto": 5,
       "nume": "MARINESCU RADU",
-      "nume_norm": "MARINESCU RADU"
+      "nume_norm": "MARINESCU RADU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Marko Attila-Gabor",
@@ -2266,7 +3405,18 @@
       "datorii_ron": 505000,
       "auto": 7,
       "nume": "MARKO ATTILA-GABOR",
-      "nume_norm": "ATTILA GABOR MARKO"
+      "nume_norm": "ATTILA GABOR MARKO",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "OTP Bank Ungaria",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "1618652",
+          "valoare": "3539518 HUF"
+        }
+      ]
     },
     {
       "institutie": "Deputat Marussi George-Nicolae",
@@ -2279,7 +3429,18 @@
       "datorii_ron": 252500,
       "auto": 5,
       "nume": "MARUSSI GEORGE-NICOLAE",
-      "nume_norm": "GEORGE MARUSSI NICOLAE"
+      "nume_norm": "GEORGE MARUSSI NICOLAE",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PETROSTAR S.A",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5071",
+          "valoare": "400609 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Matei Aneta",
@@ -2292,7 +3453,18 @@
       "datorii_ron": 125000,
       "auto": 6,
       "nume": "MATEI ANETA",
-      "nume_norm": "ANETA MATEI"
+      "nume_norm": "ANETA MATEI",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TREZORERIE",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "40000",
+          "valoare": "40000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Matei Sergiu-Lucian",
@@ -2305,7 +3477,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MATEI SERGIU-LUCIAN",
-      "nume_norm": "LUCIAN MATEI SERGIU"
+      "nume_norm": "LUCIAN MATEI SERGIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Matei Sergiu-Lucian",
@@ -2318,7 +3492,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MATEI SERGIU-LUCIAN",
-      "nume_norm": "LUCIAN MATEI SERGIU"
+      "nume_norm": "LUCIAN MATEI SERGIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Matichescu Mirela-Florenta",
@@ -2331,7 +3507,39 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "MATICHESCU MIRELA-FLORENTA",
-      "nume_norm": "FLORENTA MATICHESCU MIRELA"
+      "nume_norm": "FLORENTA MATICHESCU MIRELA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC NOCHE CALIENTE SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "240 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC AIR TOURS SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "25 %",
+          "valoare": "230 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC BIZARRE FOOD SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "25 %",
+          "valoare": "50 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC ALL AGRA TRADE SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Maties Calin-Gheorghe",
@@ -2344,7 +3552,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MATIES CALIN-GHEORGHE",
-      "nume_norm": "CALIN GHEORGHE MATIES"
+      "nume_norm": "CALIN GHEORGHE MATIES",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Margarit Mitica-Marius",
@@ -2357,7 +3567,9 @@
       "datorii_ron": 1250000,
       "auto": 4,
       "nume": "MARGARIT MITICA-MARIUS",
-      "nume_norm": "MARGARIT MARIUS MITICA"
+      "nume_norm": "MARGARIT MARIUS MITICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Merka Adrian-Miroslav",
@@ -2370,7 +3582,9 @@
       "datorii_ron": 2009860,
       "auto": 4,
       "nume": "MERKA ADRIAN-MIROSLAV",
-      "nume_norm": "ADRIAN MERKA MIROSLAV"
+      "nume_norm": "ADRIAN MERKA MIROSLAV",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Miclau Samuel-Virgil",
@@ -2383,7 +3597,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MICLAU SAMUEL-VIRGIL",
-      "nume_norm": "MICLAU SAMUEL VIRGIL"
+      "nume_norm": "MICLAU SAMUEL VIRGIL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mihaiu Radu-Nicolae",
@@ -2396,7 +3612,9 @@
       "datorii_ron": 75750,
       "auto": 4,
       "nume": "MIHAIU RADU-NICOLAE",
-      "nume_norm": "MIHAIU NICOLAE RADU"
+      "nume_norm": "MIHAIU NICOLAE RADU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mihalcea Ioan",
@@ -2409,7 +3627,32 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "MIHALCEA IOAN",
-      "nume_norm": "IOAN MIHALCEA"
+      "nume_norm": "IOAN MIHALCEA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C. MEXIMPEX S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "22 %",
+          "valoare": "880 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.C. SARA PHARM SOLUTIONS S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "20 %",
+          "valoare": "2000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIF BANAT CRISANA",
+          "calitate": "Acţiuni sau părţi sociale",
+          "nr": "12",
+          "valoare": "1.20 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Mihalcea Remus-Gabriel",
@@ -2422,7 +3665,18 @@
       "datorii_ron": 16048414,
       "auto": 6,
       "nume": "MIHALCEA REMUS-GABRIEL",
-      "nume_norm": "GABRIEL MIHALCEA REMUS"
+      "nume_norm": "GABRIEL MIHALCEA REMUS",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "O-MAC Mihalcea Catalina Ionica",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "3016",
+          "valoare": "301600 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Mihalcea Silvia-Claudia",
@@ -2435,7 +3689,9 @@
       "datorii_ron": 884400,
       "auto": 4,
       "nume": "MIHALCEA SILVIA-CLAUDIA",
-      "nume_norm": "CLAUDIA MIHALCEA SILVIA"
+      "nume_norm": "CLAUDIA MIHALCEA SILVIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mihaescu Mugur",
@@ -2448,7 +3704,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "MIHAESCU MUGUR",
-      "nume_norm": "MIHAESCU MUGUR"
+      "nume_norm": "MIHAESCU MUGUR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mihuti Bogdan-Florian",
@@ -2461,7 +3719,9 @@
       "datorii_ron": 198000,
       "auto": 4,
       "nume": "MIHUTI BOGDAN-FLORIAN",
-      "nume_norm": "BOGDAN FLORIAN MIHUTI"
+      "nume_norm": "BOGDAN FLORIAN MIHUTI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mina Marian",
@@ -2474,7 +3734,9 @@
       "datorii_ron": 128000,
       "auto": 4,
       "nume": "MINA MARIAN",
-      "nume_norm": "MARIAN MINA"
+      "nume_norm": "MARIAN MINA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Miruta Radu-Dinel",
@@ -2487,7 +3749,18 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "MIRUTA RADU-DINEL",
-      "nume_norm": "DINEL MIRUTA RADU"
+      "nume_norm": "DINEL MIRUTA RADU",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.P.E.E.H. HIDROELECTRICA S.A",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "285",
+          "valoare": "28946.53 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Mititelu Eduard-Tatian",
@@ -2500,7 +3773,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "MITITELU EDUARD-TATIAN",
-      "nume_norm": "EDUARD MITITELU TATIAN"
+      "nume_norm": "EDUARD MITITELU TATIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mitrea Dumitrina",
@@ -2513,7 +3788,9 @@
       "datorii_ron": 100000,
       "auto": 5,
       "nume": "MITREA DUMITRINA",
-      "nume_norm": "DUMITRINA MITREA"
+      "nume_norm": "DUMITRINA MITREA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mindrescu Nicolae",
@@ -2526,7 +3803,18 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MINDRESCU NICOLAE",
-      "nume_norm": "MINDRESCU NICOLAE"
+      "nume_norm": "MINDRESCU NICOLAE",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Titluri de stat",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "300",
+          "valoare": "300000 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Mindroc Catalin-Viorel",
@@ -2539,7 +3827,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MINDROC CATALIN-VIOREL",
-      "nume_norm": "CATALIN MINDROC VIOREL"
+      "nume_norm": "CATALIN MINDROC VIOREL",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mocanu Adrian",
@@ -2552,7 +3842,25 @@
       "datorii_ron": 198000,
       "auto": 4,
       "nume": "MOCANU ADRIAN",
-      "nume_norm": "ADRIAN MOCANU"
+      "nume_norm": "ADRIAN MOCANU",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC ROMANITA 93 SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "24 %",
+          "valoare": "100000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC EXPERT AGROGRAPES",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "80 %",
+          "valoare": "200000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Moiseev Alexandrin",
@@ -2565,7 +3873,9 @@
       "datorii_ron": 243675,
       "auto": 5,
       "nume": "MOISEEV ALEXANDRIN",
-      "nume_norm": "ALEXANDRIN MOISEEV"
+      "nume_norm": "ALEXANDRIN MOISEEV",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Moisin Radu-Marin",
@@ -2578,7 +3888,39 @@
       "datorii_ron": 150000,
       "auto": 6,
       "nume": "MOISIN RADU-MARIN",
-      "nume_norm": "MARIN MOISIN RADU"
+      "nume_norm": "MARIN MOISIN RADU",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Tradeville",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "13189",
+          "valoare": "13189 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Potaissa Civitas SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5",
+          "valoare": "50 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Swiss View SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50",
+          "valoare": "500 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Swiss Panorama SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50",
+          "valoare": "500 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Molnar Andrei",
@@ -2591,7 +3933,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "MOLNAR ANDREI",
-      "nume_norm": "ANDREI MOLNAR"
+      "nume_norm": "ANDREI MOLNAR",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Morar Lucian-Ioan-Titus",
@@ -2604,7 +3948,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "MORAR LUCIAN-IOAN-TITUS",
-      "nume_norm": "IOAN LUCIAN MORAR TITUS"
+      "nume_norm": "IOAN LUCIAN MORAR TITUS",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mos Patricia-Simina-Arina",
@@ -2617,7 +3963,9 @@
       "datorii_ron": 151500,
       "auto": 5,
       "nume": "MOS PATRICIA-SIMINA-ARINA",
-      "nume_norm": "ARINA MOS PATRICIA SIMINA"
+      "nume_norm": "ARINA MOS PATRICIA SIMINA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mosteanu Liviu-Ionut",
@@ -2630,7 +3978,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "MOSTEANU LIVIU-IONUT",
-      "nume_norm": "IONUT LIVIU MOSTEANU"
+      "nume_norm": "IONUT LIVIU MOSTEANU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Muncaciu Sorin-Titus",
@@ -2643,7 +3993,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "MUNCACIU SORIN-TITUS",
-      "nume_norm": "MUNCACIU SORIN TITUS"
+      "nume_norm": "MUNCACIU SORIN TITUS",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Munteanu Valeriu",
@@ -2656,7 +4008,9 @@
       "datorii_ron": 198000,
       "auto": 6,
       "nume": "MUNTEANU VALERIU",
-      "nume_norm": "MUNTEANU VALERIU"
+      "nume_norm": "MUNTEANU VALERIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Murad Mohammad",
@@ -2669,7 +4023,39 @@
       "datorii_ron": 164329887,
       "auto": 5,
       "nume": "MURAD MOHAMMAD",
-      "nume_norm": "MOHAMMAD MURAD"
+      "nume_norm": "MOHAMMAD MURAD",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TRIUMF CONSTRUCT SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "99.99 %",
+          "valoare": "150180 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MBM PHEN HOLDING",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "90.74 %",
+          "valoare": "6713000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HEBE SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "23.38 %",
+          "valoare": "542025 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SPRING CONSULTING",
+          "calitate": "Acţiuni sau părţi sociale",
+          "nr": "99 %",
+          "valoare": "9900 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Murariu Oana",
@@ -2682,7 +4068,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "MURARIU OANA",
-      "nume_norm": "MURARIU OANA"
+      "nume_norm": "MURARIU OANA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Muraru Iulian-Alexandru",
@@ -2695,7 +4083,9 @@
       "datorii_ron": 1526616,
       "auto": 5,
       "nume": "MURARU IULIAN-ALEXANDRU",
-      "nume_norm": "ALEXANDRU IULIAN MURARU"
+      "nume_norm": "ALEXANDRU IULIAN MURARU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Musat Doru-Lucian",
@@ -2708,7 +4098,9 @@
       "datorii_ron": 150000,
       "auto": 4,
       "nume": "MUSAT DORU-LUCIAN",
-      "nume_norm": "DORU LUCIAN MUSAT"
+      "nume_norm": "DORU LUCIAN MUSAT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nacov Gheorghe",
@@ -2721,7 +4113,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "NACOV GHEORGHE",
-      "nume_norm": "GHEORGHE NACOV"
+      "nume_norm": "GHEORGHE NACOV",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nagy Szabolcs",
@@ -2734,7 +4128,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "NAGY SZABOLCS",
-      "nume_norm": "NAGY SZABOLCS"
+      "nume_norm": "NAGY SZABOLCS",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nagy Vasile",
@@ -2747,7 +4143,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "NAGY VASILE",
-      "nume_norm": "NAGY VASILE"
+      "nume_norm": "NAGY VASILE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nassar Rodica",
@@ -2760,7 +4158,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "NASSAR RODICA",
-      "nume_norm": "NASSAR RODICA"
+      "nume_norm": "NASSAR RODICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nacuta Sorin",
@@ -2773,7 +4173,9 @@
       "datorii_ron": 368000,
       "auto": 6,
       "nume": "NACUTA SORIN",
-      "nume_norm": "NACUTA SORIN"
+      "nume_norm": "NACUTA SORIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nasui Claudiu-Iulius-Gavril",
@@ -2786,7 +4188,32 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "NASUI CLAUDIU-IULIUS-GAVRIL",
-      "nume_norm": "CLAUDIU GAVRIL IULIUS NASUI"
+      "nume_norm": "CLAUDIU GAVRIL IULIUS NASUI",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Banca Transilvania",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "8347",
+          "valoare": "239558.90 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Muntenia Global Invest",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "20970",
+          "valoare": "167760 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Bio Carpatherra",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "80 %",
+          "valoare": "800 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Neacsu Andreea-Firuta",
@@ -2799,7 +4226,9 @@
       "datorii_ron": 75926,
       "auto": 5,
       "nume": "NEACSU ANDREEA-FIRUTA",
-      "nume_norm": "ANDREEA FIRUTA NEACSU"
+      "nume_norm": "ANDREEA FIRUTA NEACSU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Neacsu Marian",
@@ -2812,7 +4241,32 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "NEACSU MARIAN",
-      "nume_norm": "MARIAN NEACSU"
+      "nume_norm": "MARIAN NEACSU",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC Estrella Imex SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "193768",
+          "valoare": "193768 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC Pui de Carne SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "900000",
+          "valoare": "90000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC Delta Travel SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50",
+          "valoare": "100 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Neagu Petre-Emanoil",
@@ -2825,7 +4279,9 @@
       "datorii_ron": 466954,
       "auto": 6,
       "nume": "NEAGU PETRE-EMANOIL",
-      "nume_norm": "EMANOIL NEAGU PETRE"
+      "nume_norm": "EMANOIL NEAGU PETRE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Neamtu George-Mihail",
@@ -2838,7 +4294,53 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "NEAMTU GEORGE-MIHAIL",
-      "nume_norm": "GEORGE MIHAIL NEAMTU"
+      "nume_norm": "GEORGE MIHAIL NEAMTU",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "NVIDIA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "32.42",
+          "valoare": "129419.20 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TESLA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "17.01",
+          "valoare": "13408.16 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MICROSOFT",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "4.52",
+          "valoare": "8685.38 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "AMAZON",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "4.48",
+          "valoare": "3715.98 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "AKERO Therapeutics",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "29.12",
+          "valoare": "3075.57 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SIEMENS",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "2.94",
+          "valoare": "2516.65 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Neata Eugen",
@@ -2851,7 +4353,9 @@
       "datorii_ron": 62800,
       "auto": 5,
       "nume": "NEATA EUGEN",
-      "nume_norm": "EUGEN NEATA"
+      "nume_norm": "EUGEN NEATA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Neculaescu Laurentiu Adrian",
@@ -2864,7 +4368,9 @@
       "datorii_ron": 200000,
       "auto": 4,
       "nume": "NECULAESCU LAURENTIU ADRIAN",
-      "nume_norm": "ADRIAN LAURENTIU NECULAESCU"
+      "nume_norm": "ADRIAN LAURENTIU NECULAESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Negoescu Mihai-Bogdan",
@@ -2877,7 +4383,25 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "NEGOESCU MIHAI-BOGDAN",
-      "nume_norm": "BOGDAN MIHAI NEGOESCU"
+      "nume_norm": "BOGDAN MIHAI NEGOESCU",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "JOIANA FRANCIZA SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10270",
+          "valoare": "441610 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PARCEL PUZULESCU SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "46446",
+          "valoare": "464460 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Negrea Petru-Gabriel",
@@ -2890,7 +4414,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "NEGREA PETRU-GABRIEL",
-      "nume_norm": "GABRIEL NEGREA PETRU"
+      "nume_norm": "GABRIEL NEGREA PETRU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Nicolae Dan-Mihai",
@@ -2903,7 +4429,9 @@
       "datorii_ron": 101000,
       "auto": 4,
       "nume": "NICOLAE DAN-MIHAI",
-      "nume_norm": "DAN MIHAI NICOLAE"
+      "nume_norm": "DAN MIHAI NICOLAE",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Oancea Silviu-Florin",
@@ -2916,7 +4444,9 @@
       "datorii_ron": 831622,
       "auto": 11,
       "nume": "OANCEA SILVIU-FLORIN",
-      "nume_norm": "FLORIN OANCEA SILVIU"
+      "nume_norm": "FLORIN OANCEA SILVIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Oltenasu Sorin-George",
@@ -2929,7 +4459,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "OLTENASU SORIN-GEORGE",
-      "nume_norm": "GEORGE OLTENASU SORIN"
+      "nume_norm": "GEORGE OLTENASU SORIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Oprea Octavian",
@@ -2942,7 +4474,9 @@
       "datorii_ron": 1979500,
       "auto": 4,
       "nume": "OPREA OCTAVIAN",
-      "nume_norm": "OCTAVIAN OPREA"
+      "nume_norm": "OCTAVIAN OPREA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Pambuccian Varujan",
@@ -2955,7 +4489,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PAMBUCCIAN VARUJAN",
-      "nume_norm": "PAMBUCCIAN VARUJAN"
+      "nume_norm": "PAMBUCCIAN VARUJAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Pandea Ciprian",
@@ -2968,7 +4504,9 @@
       "datorii_ron": 403644,
       "auto": 4,
       "nume": "PANDEA CIPRIAN",
-      "nume_norm": "CIPRIAN PANDEA"
+      "nume_norm": "CIPRIAN PANDEA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Paraschiv Ciprian-Constantin",
@@ -2981,7 +4519,9 @@
       "datorii_ron": 427400,
       "auto": 7,
       "nume": "PARASCHIV CIPRIAN-CONSTANTIN",
-      "nume_norm": "CIPRIAN CONSTANTIN PARASCHIV"
+      "nume_norm": "CIPRIAN CONSTANTIN PARASCHIV",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Paraschivescu Ovidiu-Romulus",
@@ -2994,7 +4534,18 @@
       "datorii_ron": 738365,
       "auto": 6,
       "nume": "PARASCHIVESCU OVIDIU-ROMULUS",
-      "nume_norm": "OVIDIU PARASCHIVESCU ROMULUS"
+      "nume_norm": "OVIDIU PARASCHIVESCU ROMULUS",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC Telecom Hub SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Pascalini Nini-Alexandru",
@@ -3007,7 +4558,9 @@
       "datorii_ron": 30000,
       "auto": 8,
       "nume": "PASCALINI NINI-ALEXANDRU",
-      "nume_norm": "ALEXANDRU NINI PASCALINI"
+      "nume_norm": "ALEXANDRU NINI PASCALINI",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Pascariu Mihai-Cosmin",
@@ -3020,7 +4573,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "PASCARIU MIHAI-COSMIN",
-      "nume_norm": "COSMIN MIHAI PASCARIU"
+      "nume_norm": "COSMIN MIHAI PASCARIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Paun Nicolae",
@@ -3033,7 +4588,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PAUN NICOLAE",
-      "nume_norm": "NICOLAE PAUN"
+      "nume_norm": "NICOLAE PAUN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Paunescu Silviu-Titus",
@@ -3046,7 +4603,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "PAUNESCU SILVIU-TITUS",
-      "nume_norm": "PAUNESCU SILVIU TITUS"
+      "nume_norm": "PAUNESCU SILVIU TITUS",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Petretchi Nicolae-Miroslav",
@@ -3059,7 +4618,9 @@
       "datorii_ron": 308150,
       "auto": 5,
       "nume": "PETRETCHI NICOLAE-MIROSLAV",
-      "nume_norm": "MIROSLAV NICOLAE PETRETCHI"
+      "nume_norm": "MIROSLAV NICOLAE PETRETCHI",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Peta-Stefanescu Eliza-Madalina",
@@ -3072,7 +4633,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "PETA-STEFANESCU ELIZA-MADALINA",
-      "nume_norm": "ELIZA MADALINA PETA STEFANESCU"
+      "nume_norm": "ELIZA MADALINA PETA STEFANESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Pirtea Marilen - Gabriel",
@@ -3085,7 +4648,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PIRTEA MARILEN GABRIEL",
-      "nume_norm": "GABRIEL MARILEN PIRTEA"
+      "nume_norm": "GABRIEL MARILEN PIRTEA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Pistru-Popa Simona-Geanina",
@@ -3098,7 +4663,9 @@
       "datorii_ron": 985000,
       "auto": 4,
       "nume": "PISTRU-POPA SIMONA-GEANINA",
-      "nume_norm": "GEANINA PISTRU POPA SIMONA"
+      "nume_norm": "GEANINA PISTRU POPA SIMONA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Piclisan Gheorghe-Petru",
@@ -3111,7 +4678,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PICLISAN GHEORGHE-PETRU",
-      "nume_norm": "GHEORGHE PETRU PICLISAN"
+      "nume_norm": "GHEORGHE PETRU PICLISAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Plopeanu Rodica",
@@ -3124,7 +4693,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PLOPEANU RODICA",
-      "nume_norm": "PLOPEANU RODICA"
+      "nume_norm": "PLOPEANU RODICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Plujar Andrei George",
@@ -3137,7 +4708,9 @@
       "datorii_ron": 201800,
       "auto": 5,
       "nume": "PLUJAR ANDREI GEORGE",
-      "nume_norm": "ANDREI GEORGE PLUJAR"
+      "nume_norm": "ANDREI GEORGE PLUJAR",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ponta Victor-Viorel",
@@ -3150,7 +4723,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PONTA VICTOR-VIOREL",
-      "nume_norm": "PONTA VICTOR VIOREL"
+      "nume_norm": "PONTA VICTOR VIOREL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Popa Alexandru",
@@ -3163,7 +4738,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "POPA ALEXANDRU",
-      "nume_norm": "ALEXANDRU POPA"
+      "nume_norm": "ALEXANDRU POPA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Popa Dorin",
@@ -3176,7 +4753,9 @@
       "datorii_ron": 0,
       "auto": 11,
       "nume": "POPA DORIN",
-      "nume_norm": "DORIN POPA"
+      "nume_norm": "DORIN POPA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Popa George-Adrian",
@@ -3189,7 +4768,9 @@
       "datorii_ron": 439381,
       "auto": 4,
       "nume": "POPA GEORGE-ADRIAN",
-      "nume_norm": "ADRIAN GEORGE POPA"
+      "nume_norm": "ADRIAN GEORGE POPA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Popa Maricel",
@@ -3202,7 +4783,67 @@
       "datorii_ron": 17136,
       "auto": 5,
       "nume": "POPA MARICEL",
-      "nume_norm": "MARICEL POPA"
+      "nume_norm": "MARICEL POPA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC OMEGA IS COMUNICATIONS SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "474",
+          "valoare": "4740 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC CERTIND SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "120",
+          "valoare": "14400 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC TEHNOTON ELECTRONICS SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "80",
+          "valoare": "800 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC OMEGA-TEHNOTON DISTRIBUTION SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "70",
+          "valoare": "700 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC TEHNO PACK SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10",
+          "valoare": "100 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC COMPANIA DE AVIATIE OMEGA TEHNOTON SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "14",
+          "valoare": "140 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC OMEGA MOB SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "14",
+          "valoare": "140 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC AUGUSTUS SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "580",
+          "valoare": "5800 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Popa Stefan-Ovidiu",
@@ -3215,7 +4856,9 @@
       "datorii_ron": 100000,
       "auto": 6,
       "nume": "POPA STEFAN-OVIDIU",
-      "nume_norm": "OVIDIU POPA STEFAN"
+      "nume_norm": "OVIDIU POPA STEFAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Popescu Antonio-Gabi",
@@ -3228,7 +4871,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "POPESCU ANTONIO-GABI",
-      "nume_norm": "ANTONIO GABI POPESCU"
+      "nume_norm": "ANTONIO GABI POPESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Popovici Florin-Cornel",
@@ -3241,7 +4886,9 @@
       "datorii_ron": 378277,
       "auto": 4,
       "nume": "POPOVICI FLORIN-CORNEL",
-      "nume_norm": "CORNEL FLORIN POPOVICI"
+      "nume_norm": "CORNEL FLORIN POPOVICI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Porumboiu Gabriela",
@@ -3254,7 +4901,9 @@
       "datorii_ron": 81559,
       "auto": 5,
       "nume": "PORUMBOIU GABRIELA",
-      "nume_norm": "GABRIELA PORUMBOIU"
+      "nume_norm": "GABRIELA PORUMBOIU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Priescu Ionelia-Florenta",
@@ -3267,7 +4916,9 @@
       "datorii_ron": 40000,
       "auto": 6,
       "nume": "PRIESCU IONELIA-FLORENTA",
-      "nume_norm": "FLORENTA IONELIA PRIESCU"
+      "nume_norm": "FLORENTA IONELIA PRIESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Prisca Razvan Sorin",
@@ -3280,7 +4931,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PRISCA RAZVAN SORIN",
-      "nume_norm": "PRISCA RAZVAN SORIN"
+      "nume_norm": "PRISCA RAZVAN SORIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Pruna Cristina-Madalina",
@@ -3293,7 +4946,25 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "PRUNA CRISTINA-MADALINA",
-      "nume_norm": "CRISTINA MADALINA PRUNA"
+      "nume_norm": "CRISTINA MADALINA PRUNA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "UiPath",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100",
+          "valoare": "1155 EUR"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Hensoldt AG",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50",
+          "valoare": "4968 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Puscasu Lucian-Florin",
@@ -3306,7 +4977,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "PUSCASU LUCIAN-FLORIN",
-      "nume_norm": "FLORIN LUCIAN PUSCASU"
+      "nume_norm": "FLORIN LUCIAN PUSCASU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Puscasu Petre",
@@ -3319,7 +4992,9 @@
       "datorii_ron": 732250,
       "auto": 8,
       "nume": "PUSCASU PETRE",
-      "nume_norm": "PETRE PUSCASU"
+      "nume_norm": "PETRE PUSCASU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Radu Fabian-Cristian",
@@ -3332,7 +5007,9 @@
       "datorii_ron": 2450000,
       "auto": 5,
       "nume": "RADU FABIAN-CRISTIAN",
-      "nume_norm": "CRISTIAN FABIAN RADU"
+      "nume_norm": "CRISTIAN FABIAN RADU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Rafila Alexandru",
@@ -3345,7 +5022,32 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "RAFILA ALEXANDRU",
-      "nume_norm": "ALEXANDRU RAFILA"
+      "nume_norm": "ALEXANDRU RAFILA",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Transgaz",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "28800",
+          "valoare": "675360 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Banca Transilvania",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "8977",
+          "valoare": "241930 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Teraplast",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "486302",
+          "valoare": "213486 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Raducanu Sebastian",
@@ -3358,7 +5060,18 @@
       "datorii_ron": 1870664,
       "auto": 5,
       "nume": "RADUCANU SEBASTIAN",
-      "nume_norm": "RADUCANU SEBASTIAN"
+      "nume_norm": "RADUCANU SEBASTIAN",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC Epic Society SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "15",
+          "valoare": "150 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Raducea Gheorghe-Valentin",
@@ -3371,7 +5084,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "RADUCEA GHEORGHE-VALENTIN",
-      "nume_norm": "GHEORGHE RADUCEA VALENTIN"
+      "nume_norm": "GHEORGHE RADUCEA VALENTIN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Rigman Ciprian-Doru",
@@ -3384,7 +5099,9 @@
       "datorii_ron": 126250,
       "auto": 5,
       "nume": "RIGMAN CIPRIAN-DORU",
-      "nume_norm": "CIPRIAN DORU RIGMAN"
+      "nume_norm": "CIPRIAN DORU RIGMAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Rinder Ana-Smaranda",
@@ -3397,7 +5114,18 @@
       "datorii_ron": 359434,
       "auto": 6,
       "nume": "RINDER ANA-SMARANDA",
-      "nume_norm": "ANA RINDER SMARANDA"
+      "nume_norm": "ANA RINDER SMARANDA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "300",
+          "valoare": "100 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Rodeanu Bogdan-Ionel",
@@ -3410,7 +5138,9 @@
       "datorii_ron": 250697,
       "auto": 5,
       "nume": "RODEANU BOGDAN-IONEL",
-      "nume_norm": "BOGDAN IONEL RODEANU"
+      "nume_norm": "BOGDAN IONEL RODEANU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Rogobete Alexandru-Florin",
@@ -3423,7 +5153,18 @@
       "datorii_ron": 720810,
       "auto": 4,
       "nume": "ROGOBETE ALEXANDRU-FLORIN",
-      "nume_norm": "ALEXANDRU FLORIN ROGOBETE"
+      "nume_norm": "ALEXANDRU FLORIN ROGOBETE",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Ministerul Finantelor",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "8000",
+          "valoare": "8000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Roman Florin-Claudiu",
@@ -3436,7 +5177,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ROMAN FLORIN-CLAUDIU",
-      "nume_norm": "CLAUDIU FLORIN ROMAN"
+      "nume_norm": "CLAUDIU FLORIN ROMAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Rosca Mircea",
@@ -3449,7 +5192,9 @@
       "datorii_ron": 287850,
       "auto": 6,
       "nume": "ROSCA MIRCEA",
-      "nume_norm": "MIRCEA ROSCA"
+      "nume_norm": "MIRCEA ROSCA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Rusu Sebastian-Mihai",
@@ -3462,7 +5207,9 @@
       "datorii_ron": 50000,
       "auto": 5,
       "nume": "RUSU SEBASTIAN-MIHAI",
-      "nume_norm": "MIHAI RUSU SEBASTIAN"
+      "nume_norm": "MIHAI RUSU SEBASTIAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Samoila Ion",
@@ -3475,7 +5222,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "SAMOILA ION",
-      "nume_norm": "ION SAMOILA"
+      "nume_norm": "ION SAMOILA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Sandu Viorica",
@@ -3488,7 +5237,9 @@
       "datorii_ron": 277200,
       "auto": 5,
       "nume": "SANDU VIORICA",
-      "nume_norm": "SANDU VIORICA"
+      "nume_norm": "SANDU VIORICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Scarlat George",
@@ -3501,7 +5252,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "SCARLAT GEORGE",
-      "nume_norm": "GEORGE SCARLAT"
+      "nume_norm": "GEORGE SCARLAT",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Seres Denes",
@@ -3514,7 +5267,18 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "SERES DENES",
-      "nume_norm": "DENES SERES"
+      "nume_norm": "DENES SERES",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "S.N.T.G.N Transgaz Mediaș",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "23",
+          "valoare": "5900 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Sighiartau Robert-Ionatan",
@@ -3527,7 +5291,9 @@
       "datorii_ron": 584872,
       "auto": 4,
       "nume": "SIGHIARTAU ROBERT-IONATAN",
-      "nume_norm": "IONATAN ROBERT SIGHIARTAU"
+      "nume_norm": "IONATAN ROBERT SIGHIARTAU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Simion George-Nicolae",
@@ -3540,7 +5306,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "SIMION GEORGE-NICOLAE",
-      "nume_norm": "GEORGE NICOLAE SIMION"
+      "nume_norm": "GEORGE NICOLAE SIMION",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Simu Aurora-Tasica",
@@ -3553,7 +5321,9 @@
       "datorii_ron": 522000,
       "auto": 4,
       "nume": "SIMU AURORA-TASICA",
-      "nume_norm": "AURORA SIMU TASICA"
+      "nume_norm": "AURORA SIMU TASICA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Solomon Adrian",
@@ -3566,7 +5336,9 @@
       "datorii_ron": 437234,
       "auto": 8,
       "nume": "SOLOMON ADRIAN",
-      "nume_norm": "ADRIAN SOLOMON"
+      "nume_norm": "ADRIAN SOLOMON",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stancu Ionel",
@@ -3579,7 +5351,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "STANCU IONEL",
-      "nume_norm": "IONEL STANCU"
+      "nume_norm": "IONEL STANCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stanescu Vetuta",
@@ -3592,7 +5366,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "STANESCU VETUTA",
-      "nume_norm": "STANESCU VETUTA"
+      "nume_norm": "STANESCU VETUTA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stoenica Irina-Florentina",
@@ -3605,7 +5381,9 @@
       "datorii_ron": 873595,
       "auto": 5,
       "nume": "STOENICA IRINA-FLORENTINA",
-      "nume_norm": "FLORENTINA IRINA STOENICA"
+      "nume_norm": "FLORENTINA IRINA STOENICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stoica Alin-Bogdan",
@@ -3618,7 +5396,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "STOICA ALIN-BOGDAN",
-      "nume_norm": "ALIN BOGDAN STOICA"
+      "nume_norm": "ALIN BOGDAN STOICA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stoica Bogdan-Alin",
@@ -3631,7 +5411,32 @@
       "datorii_ron": 322800,
       "auto": 4,
       "nume": "STOICA BOGDAN-ALIN",
-      "nume_norm": "ALIN BOGDAN STOICA"
+      "nume_norm": "ALIN BOGDAN STOICA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "HIDROELECTRICA SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "286",
+          "valoare": "35120 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BANCA TRANSILVANIA SA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "906",
+          "valoare": "27180 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "OBLIGAȚIUNI MINISTERUL FINANȚELOR R2908A",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "53",
+          "valoare": "5024 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Stoica Diana",
@@ -3644,7 +5449,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "STOICA DIANA",
-      "nume_norm": "DIANA STOICA"
+      "nume_norm": "DIANA STOICA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stoica Stefan-Bucur",
@@ -3657,7 +5464,18 @@
       "datorii_ron": 402850,
       "auto": 4,
       "nume": "STOICA STEFAN-BUCUR",
-      "nume_norm": "BUCUR STEFAN STOICA"
+      "nume_norm": "BUCUR STEFAN STOICA",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "SC OSCAR GREEN HOLDING SRL IȘANLIȚA",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "180000 EUR"
+        }
+      ]
     },
     {
       "institutie": "Deputat Stroe Ionut-Marian",
@@ -3670,7 +5488,9 @@
       "datorii_ron": 458800,
       "auto": 5,
       "nume": "STROE IONUT-MARIAN",
-      "nume_norm": "IONUT MARIAN STROE"
+      "nume_norm": "IONUT MARIAN STROE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Suciu Vasile-Daniel",
@@ -3683,7 +5503,9 @@
       "datorii_ron": 377863,
       "auto": 6,
       "nume": "SUCIU VASILE-DANIEL",
-      "nume_norm": "DANIEL SUCIU VASILE"
+      "nume_norm": "DANIEL SUCIU VASILE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Szabo Odon",
@@ -3696,7 +5518,9 @@
       "datorii_ron": 75000,
       "auto": 7,
       "nume": "SZABO ODON",
-      "nume_norm": "ODON SZABO"
+      "nume_norm": "ODON SZABO",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Szoke Ecaterina-Mariana",
@@ -3709,7 +5533,9 @@
       "datorii_ron": 909000,
       "auto": 6,
       "nume": "SZOKE ECATERINA-MARIANA",
-      "nume_norm": "ECATERINA MARIANA SZOKE"
+      "nume_norm": "ECATERINA MARIANA SZOKE",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Sendroiu Vlad-Ioan",
@@ -3722,7 +5548,9 @@
       "datorii_ron": 411981,
       "auto": 5,
       "nume": "SENDROIU VLAD-IOAN",
-      "nume_norm": "IOAN SENDROIU VLAD"
+      "nume_norm": "IOAN SENDROIU VLAD",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Serban Ciprian-Constantin",
@@ -3735,7 +5563,9 @@
       "datorii_ron": 126250,
       "auto": 4,
       "nume": "SERBAN CIPRIAN-CONSTANTIN",
-      "nume_norm": "CIPRIAN CONSTANTIN SERBAN"
+      "nume_norm": "CIPRIAN CONSTANTIN SERBAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Serban George Catalin",
@@ -3748,7 +5578,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "SERBAN GEORGE CATALIN",
-      "nume_norm": "CATALIN GEORGE SERBAN"
+      "nume_norm": "CATALIN GEORGE SERBAN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Serban Gianina",
@@ -3761,7 +5593,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "SERBAN GIANINA",
-      "nume_norm": "GIANINA SERBAN"
+      "nume_norm": "GIANINA SERBAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Stirbu Gigel-Sorinel",
@@ -3774,7 +5608,9 @@
       "datorii_ron": 202000,
       "auto": 4,
       "nume": "STIRBU GIGEL-SORINEL",
-      "nume_norm": "GIGEL SORINEL STIRBU"
+      "nume_norm": "GIGEL SORINEL STIRBU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Tanasa Dan",
@@ -3787,7 +5623,9 @@
       "datorii_ron": 1304692,
       "auto": 5,
       "nume": "TANASA DAN",
-      "nume_norm": "DAN TANASA"
+      "nume_norm": "DAN TANASA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Tanasa Stefan",
@@ -3800,7 +5638,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "TANASA STEFAN",
-      "nume_norm": "STEFAN TANASA"
+      "nume_norm": "STEFAN TANASA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Teslariu Andrei-Ionut",
@@ -3813,7 +5653,9 @@
       "datorii_ron": 150000,
       "auto": 4,
       "nume": "TESLARIU ANDREI-IONUT",
-      "nume_norm": "ANDREI IONUT TESLARIU"
+      "nume_norm": "ANDREI IONUT TESLARIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Tilea Dumitru",
@@ -3826,7 +5668,25 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "TILEA DUMITRU",
-      "nume_norm": "DUMITRU TILEA"
+      "nume_norm": "DUMITRU TILEA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TREZORERIA TURNU MAGURELE",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "150000",
+          "valoare": "150000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "TREZORERIA TURNU MAGURELE",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "100000",
+          "valoare": "100000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Tilvar Angel",
@@ -3839,7 +5699,9 @@
       "datorii_ron": 0,
       "auto": 8,
       "nume": "TILVAR ANGEL",
-      "nume_norm": "ANGEL TILVAR"
+      "nume_norm": "ANGEL TILVAR",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Toader Bogdan-Andrei",
@@ -3852,7 +5714,9 @@
       "datorii_ron": 120000,
       "auto": 6,
       "nume": "TOADER BOGDAN-ANDREI",
-      "nume_norm": "ANDREI BOGDAN TOADER"
+      "nume_norm": "ANDREI BOGDAN TOADER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Toader Elena-Laura",
@@ -3865,7 +5729,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "TOADER ELENA-LAURA",
-      "nume_norm": "ELENA LAURA TOADER"
+      "nume_norm": "ELENA LAURA TOADER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Toma Ilie",
@@ -3878,7 +5744,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "TOMA ILIE",
-      "nume_norm": "ILIE TOMA"
+      "nume_norm": "ILIE TOMA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Tomoescu Ion-Alin",
@@ -3891,7 +5759,9 @@
       "datorii_ron": 265550,
       "auto": 6,
       "nume": "TOMOESCU ION-ALIN",
-      "nume_norm": "ALIN ION TOMOESCU"
+      "nume_norm": "ALIN ION TOMOESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Trif Bogdan Gheorghe",
@@ -3904,7 +5774,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "TRIF BOGDAN GHEORGHE",
-      "nume_norm": "BOGDAN GHEORGHE TRIF"
+      "nume_norm": "BOGDAN GHEORGHE TRIF",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Turcan Raluca",
@@ -3917,7 +5789,25 @@
       "datorii_ron": 20700,
       "auto": 4,
       "nume": "TURCAN RALUCA",
-      "nume_norm": "RALUCA TURCAN"
+      "nume_norm": "RALUCA TURCAN",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Valeriu Turcan SIF Muntenia",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "1911",
+          "valoare": "1230 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Valeriu Turcan Arthur and Regents SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "98 %",
+          "valoare": "2200 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Tusa Adriana Diana",
@@ -3930,7 +5820,81 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "TUSA ADRIANA DIANA",
-      "nume_norm": "ADRIANA DIANA TUSA"
+      "nume_norm": "ADRIANA DIANA TUSA",
+      "an": 2024,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "EUROPEAN BUSINESS ENVIRONMENT S.R.L. BUBLE IOSIF",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "260 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Centrul de Sociologie Urbană și Regională CURS S.R.L. BUBLE IOSIF",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "20000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "BLAU KAROTTE S.R.L. BUBLE IOSIF",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ON LINE RESEARCH S.R.L. BUBLE IOSIF",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ZAZA TEAM S.R.L. BUBLE IOSIF",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "QUELLE PR S.R.L",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MINISTERUL FINANȚELOR Tusa Diana",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "55000",
+          "valoare": "55000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MINISTERUL FINANTELOR Tusa Diana",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "110000",
+          "valoare": "110000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "STIRIPESURSE MOLDOVA BUBLE IOSIF",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "49 %",
+          "valoare": "490 MDL"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "MINISTERUL FINANTELOR BUBLE IOSIF",
+          "calitate": "Hârtii de valoare deţinute (titluri de stat, certificate, obligaţiuni)",
+          "nr": "900000",
+          "valoare": "900000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Tinta Stefan",
@@ -3943,7 +5907,53 @@
       "datorii_ron": 13450,
       "auto": 4,
       "nume": "TINTA STEFAN",
-      "nume_norm": "STEFAN TINTA"
+      "nume_norm": "STEFAN TINTA",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PREMIER FLOORING GROUP SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "1250000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PREMIER TRANSPORT AUTO SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "100 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PREMIER RESIDENCIAL SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "33.33 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "PREMIER AGRITECH SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "100 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ANTENA 1 MEDIA SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "5 %",
+          "valoare": "50 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "QUASAR AGENCY SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "11 %",
+          "valoare": "220 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Tiplea Dumitru",
@@ -3956,7 +5966,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "TIPLEA DUMITRU",
-      "nume_norm": "DUMITRU TIPLEA"
+      "nume_norm": "DUMITRU TIPLEA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Tiu Mihai-Adrian",
@@ -3969,7 +5981,18 @@
       "datorii_ron": 565200,
       "auto": 5,
       "nume": "TIU MIHAI-ADRIAN",
-      "nume_norm": "ADRIAN MIHAI TIU"
+      "nume_norm": "ADRIAN MIHAI TIU",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Prysmian Slatina",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "684",
+          "valoare": "215390 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Toiu Oana-Silvia",
@@ -3982,7 +6005,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "TOIU OANA-SILVIA",
-      "nume_norm": "OANA SILVIA TOIU"
+      "nume_norm": "OANA SILVIA TOIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ungureanu Emanuel-Dumitru",
@@ -3995,7 +6020,9 @@
       "datorii_ron": 538374,
       "auto": 6,
       "nume": "UNGUREANU EMANUEL-DUMITRU",
-      "nume_norm": "DUMITRU EMANUEL UNGUREANU"
+      "nume_norm": "DUMITRU EMANUEL UNGUREANU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vass Levente",
@@ -4008,7 +6035,25 @@
       "datorii_ron": 530804,
       "auto": 4,
       "nume": "VASS LEVENTE",
-      "nume_norm": "LEVENTE VASS"
+      "nume_norm": "LEVENTE VASS",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Jetwing Travel Planner SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "Navigarea Pacientilor din Ardeal SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "10 %",
+          "valoare": "200 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Vaduva Dumitru",
@@ -4021,7 +6066,9 @@
       "datorii_ron": 143000,
       "auto": 5,
       "nume": "VADUVA DUMITRU",
-      "nume_norm": "DUMITRU VADUVA"
+      "nume_norm": "DUMITRU VADUVA",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Varga Mariana",
@@ -4034,7 +6081,9 @@
       "datorii_ron": 133000,
       "auto": 5,
       "nume": "VARGA MARIANA",
-      "nume_norm": "MARIANA VARGA"
+      "nume_norm": "MARIANA VARGA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vedinas Verginia",
@@ -4047,7 +6096,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "VEDINAS VERGINIA",
-      "nume_norm": "VEDINAS VERGINIA"
+      "nume_norm": "VEDINAS VERGINIA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vela Ion-Marcel",
@@ -4060,7 +6111,9 @@
       "datorii_ron": 38000,
       "auto": 4,
       "nume": "VELA ION-MARCEL",
-      "nume_norm": "ION MARCEL VELA"
+      "nume_norm": "ION MARCEL VELA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Velcescu Florin-Bogdan",
@@ -4073,7 +6126,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "VELCESCU FLORIN-BOGDAN",
-      "nume_norm": "BOGDAN FLORIN VELCESCU"
+      "nume_norm": "BOGDAN FLORIN VELCESCU",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vexler Silviu",
@@ -4086,7 +6141,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "VEXLER SILVIU",
-      "nume_norm": "SILVIU VEXLER"
+      "nume_norm": "SILVIU VEXLER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vidra Vlad-Andrei",
@@ -4099,7 +6156,46 @@
       "datorii_ron": 1150000,
       "auto": 6,
       "nume": "VIDRA VLAD-ANDREI",
-      "nume_norm": "ANDREI VIDRA VLAD"
+      "nume_norm": "ANDREI VIDRA VLAD",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "coprot srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "50 %",
+          "valoare": "100000 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "AVV parts logistics srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "eurotruck srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "100 %",
+          "valoare": "200 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "arhi cons transilvania srl",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "20 %",
+          "valoare": "40 RON"
+        },
+        {
+          "sursa": "avere_IV2",
+          "entitate": "comalim 84 martin sa",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "18000",
+          "valoare": "45000 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Vulpescu Ioan",
@@ -4112,7 +6208,9 @@
       "datorii_ron": 400000,
       "auto": 4,
       "nume": "VULPESCU IOAN",
-      "nume_norm": "IOAN VULPESCU"
+      "nume_norm": "IOAN VULPESCU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vulpoiu Dorel",
@@ -4125,7 +6223,9 @@
       "datorii_ron": 262600,
       "auto": 6,
       "nume": "VULPOIU DOREL",
-      "nume_norm": "DOREL VULPOIU"
+      "nume_norm": "DOREL VULPOIU",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Vuscan Voicu",
@@ -4138,7 +6238,9 @@
       "datorii_ron": 0,
       "auto": 7,
       "nume": "VUSCAN VOICU",
-      "nume_norm": "VOICU VUSCAN"
+      "nume_norm": "VOICU VUSCAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Weber Mihai",
@@ -4151,7 +6253,9 @@
       "datorii_ron": 171800,
       "auto": 6,
       "nume": "WEBER MIHAI",
-      "nume_norm": "MIHAI WEBER"
+      "nume_norm": "MIHAI WEBER",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Wiener Adrian",
@@ -4164,7 +6268,9 @@
       "datorii_ron": 302500,
       "auto": 5,
       "nume": "WIENER ADRIAN",
-      "nume_norm": "ADRIAN WIENER"
+      "nume_norm": "ADRIAN WIENER",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Zahoranszki Brigitta-Eva",
@@ -4177,7 +6283,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "ZAHORANSZKI BRIGITTA-EVA",
-      "nume_norm": "BRIGITTA EVA ZAHORANSZKI"
+      "nume_norm": "BRIGITTA EVA ZAHORANSZKI",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Zakarias Zoltan",
@@ -4190,7 +6298,9 @@
       "datorii_ron": 92393,
       "auto": 4,
       "nume": "ZAKARIAS ZOLTAN",
-      "nume_norm": "ZAKARIAS ZOLTAN"
+      "nume_norm": "ZAKARIAS ZOLTAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Zisopol Dragos Gabriel",
@@ -4203,7 +6313,9 @@
       "datorii_ron": 0,
       "auto": 8,
       "nume": "ZISOPOL DRAGOS GABRIEL",
-      "nume_norm": "DRAGOS GABRIEL ZISOPOL"
+      "nume_norm": "DRAGOS GABRIEL ZISOPOL",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Afloarei Sorin-Alexandru",
@@ -4216,7 +6328,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "AFLOAREI SORIN-ALEXANDRU",
-      "nume_norm": "AFLOAREI ALEXANDRU SORIN"
+      "nume_norm": "AFLOAREI ALEXANDRU SORIN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ibram Iusein",
@@ -4229,7 +6343,9 @@
       "datorii_ron": 0,
       "auto": 4,
       "nume": "IBRAM IUSEIN",
-      "nume_norm": "IBRAM IUSEIN"
+      "nume_norm": "IBRAM IUSEIN",
+      "an": 2024,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Mircea Florin",
@@ -4242,7 +6358,9 @@
       "datorii_ron": 0,
       "auto": 6,
       "nume": "MIRCEA FLORIN",
-      "nume_norm": "FLORIN MIRCEA"
+      "nume_norm": "FLORIN MIRCEA",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Ciolacu Ion-Marcel",
@@ -4255,7 +6373,18 @@
       "datorii_ron": 35000,
       "auto": 4,
       "nume": "CIOLACU ION-MARCEL",
-      "nume_norm": "CIOLACU ION MARCEL"
+      "nume_norm": "CIOLACU ION MARCEL",
+      "an": 2025,
+      "an_sursa": "document",
+      "participatii": [
+        {
+          "sursa": "avere_IV2",
+          "entitate": "ALCOM SRL",
+          "calitate": "Acţiuni sau părţi sociale în societăţi comerciale",
+          "nr": "301",
+          "valoare": "3010 RON"
+        }
+      ]
     },
     {
       "institutie": "Deputat Artimon Dan-Catalin",
@@ -4268,7 +6397,9 @@
       "datorii_ron": 77300,
       "auto": 4,
       "nume": "ARTIMON DAN-CATALIN",
-      "nume_norm": "ARTIMON CATALIN DAN"
+      "nume_norm": "ARTIMON CATALIN DAN",
+      "an": 2025,
+      "an_sursa": "document"
     },
     {
       "institutie": "Deputat Dobre Ciprian-Minodor",
@@ -4281,7 +6412,9 @@
       "datorii_ron": 0,
       "auto": 2,
       "nume": "DOBRE CIPRIAN-MINODOR",
-      "nume_norm": "CIPRIAN DOBRE MINODOR"
+      "nume_norm": "CIPRIAN DOBRE MINODOR",
+      "an": 2024,
+      "an_sursa": "cale"
     },
     {
       "institutie": "Deputat Miklos Zoltan",
@@ -4294,7 +6427,9 @@
       "datorii_ron": 0,
       "auto": 5,
       "nume": "MIKLOS ZOLTAN",
-      "nume_norm": "MIKLOS ZOLTAN"
+      "nume_norm": "MIKLOS ZOLTAN",
+      "an": 2024,
+      "an_sursa": "cale"
     }
   ]
 }

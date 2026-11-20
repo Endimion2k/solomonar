@@ -5,9 +5,9 @@
     {
       "sector": "Servicii",
       "n_companii": 306,
-      "cifra_afaceri_totala": 2936033255.0,
+      "cifra_afaceri_totala": 3637145398.0,
       "contracte_totale": 21739112514.0,
-      "salariati": 16488,
+      "salariati": 18143,
       "procent_stat_mediu": null
     },
     {
@@ -21,25 +21,25 @@
     {
       "sector": "Transport",
       "n_companii": 113,
-      "cifra_afaceri_totala": 5963856128.0,
+      "cifra_afaceri_totala": 16110662846.0,
       "contracte_totale": 2237507655.0,
-      "salariati": 28367,
+      "salariati": 73609,
       "procent_stat_mediu": 87.8
     },
     {
       "sector": "Energie",
       "n_companii": 55,
-      "cifra_afaceri_totala": 5478435660.0,
+      "cifra_afaceri_totala": 44075018867.0,
       "contracte_totale": 1321356046.0,
-      "salariati": 10756,
+      "salariati": 39280,
       "procent_stat_mediu": 68.1
     },
     {
       "sector": "Industrie",
       "n_companii": 41,
-      "cifra_afaceri_totala": 3241545095.0,
+      "cifra_afaceri_totala": 4327673035.0,
       "contracte_totale": 783799291.0,
-      "salariati": 11016,
+      "salariati": 12752,
       "procent_stat_mediu": 53.0
     },
     {
@@ -53,9 +53,9 @@
     {
       "sector": "IT & comunicații",
       "n_companii": 14,
-      "cifra_afaceri_totala": 952312708.0,
+      "cifra_afaceri_totala": 1211170366.0,
       "contracte_totale": 286492223.0,
-      "salariati": 1848,
+      "salariati": 2990,
       "procent_stat_mediu": null
     },
     {
@@ -69,9 +69,9 @@
     {
       "sector": "Alte sectoare",
       "n_companii": 54,
-      "cifra_afaceri_totala": 1421797974.0,
+      "cifra_afaceri_totala": 5501176273.0,
       "contracte_totale": 14206032.0,
-      "salariati": 3203,
+      "salariati": 13502,
       "procent_stat_mediu": null
     },
     {

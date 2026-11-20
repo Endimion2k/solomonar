@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T10:17:33.372593+00:00",
+  "generated_at": "2026-11-19T22:04:13.245822+00:00",
   "sursa": "ONRC OD_REPREZENTANTI_LEGALI (data.gov.ro)",
-  "companii_cu_reprezentanti": 55327,
-  "total_reprezentanti": 77806,
+  "companii_cu_reprezentanti": 55560,
+  "total_reprezentanti": 78099,
   "companii": [
     {
       "cui": 26484095,
@@ -4467,6 +4467,20 @@
       ]
     },
     {
+      "cui": 25406510,
+      "denumire": "Beval Construct",
+      "reprezentanti": [
+        {
+          "nume": "CII LEFTER ADRIAN",
+          "calitate": "lichidator"
+        },
+        {
+          "nume": "LEFTER ADRIAN",
+          "calitate": "reprezentant al persoanei juridice"
+        }
+      ]
+    },
+    {
       "cui": 16638243,
       "denumire": "LUDWIG PFEIFFER",
       "reprezentanti": [
@@ -5483,6 +5497,16 @@
         {
           "nume": "MARIAN FLORINELA",
           "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 33734380,
+      "denumire": "SC ARDEALUL LEM SRL",
+      "reprezentanti": [
+        {
+          "nume": "TRANSILVANIA MASTER INSOLV SPRL",
+          "calitate": "lichidator judiciar provizoriu"
         }
       ]
     },
@@ -15253,6 +15277,16 @@
         {
           "nume": "CAMPEAN MARIA",
           "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 41931170,
+      "denumire": "ABCONY SERV",
+      "reprezentanti": [
+        {
+          "nume": "CII ATANASE MARIANA",
+          "calitate": "lichidator judiciar"
         }
       ]
     },
@@ -29137,6 +29171,24 @@
       ]
     },
     {
+      "cui": 16058840,
+      "denumire": "ARION",
+      "reprezentanti": [
+        {
+          "nume": "S.O.S. INSOLV SPRL",
+          "calitate": "lichidator"
+        },
+        {
+          "nume": "JUGRASTAN FLORINA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "DOGARU GEORGE-CRISTIAN",
+          "calitate": "reprezentant al persoanei juridice"
+        }
+      ]
+    },
+    {
       "cui": 32577385,
       "denumire": "Eco Euro Inter Proiect",
       "reprezentanti": [
@@ -30824,6 +30876,24 @@
         },
         {
           "nume": "ALINA COSTINAS",
+          "calitate": "reprezentant al persoanei juridice"
+        }
+      ]
+    },
+    {
+      "cui": 15906780,
+      "denumire": "DHL INTERNATIONAL ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "CORPORATE INSOLVENCY IPURL",
+          "calitate": "lichidator"
+        },
+        {
+          "nume": "TĂNASE ELENA ROXANA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "NAFORNITA EDUARD",
           "calitate": "reprezentant al persoanei juridice"
         }
       ]
@@ -39579,6 +39649,16 @@
       ]
     },
     {
+      "cui": 24079070,
+      "denumire": "NEW MEDIA PROMOTION",
+      "reprezentanti": [
+        {
+          "nume": "DIŞA INSOLV IPURL",
+          "calitate": "lichidator"
+        }
+      ]
+    },
+    {
       "cui": 16322932,
       "denumire": "DRAFT CONSTRUCT S.R.L.",
       "reprezentanti": [
@@ -44074,6 +44154,24 @@
       "reprezentanti": [
         {
           "nume": "LG INSOLV SPRL",
+          "calitate": "lichidator judiciar"
+        }
+      ]
+    },
+    {
+      "cui": 12193010,
+      "denumire": "TRANSPORT LOCAL",
+      "reprezentanti": [
+        {
+          "nume": "CII GUZU LUCICA",
+          "calitate": "lichidator judiciar"
+        },
+        {
+          "nume": "GUZU LUCICA",
+          "calitate": "reprezentant al persoanei juridice"
+        },
+        {
+          "nume": "GUZU LUCICA",
           "calitate": "lichidator judiciar"
         }
       ]
@@ -51504,6 +51602,20 @@
         },
         {
           "nume": "SALAGEAN VINCENSSO CONSTANTIN",
+          "calitate": "reprezentant al persoanei juridice"
+        }
+      ]
+    },
+    {
+      "cui": 36951740,
+      "denumire": "AYMING SMART S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ILIE CLAUDIU-IOAN CII",
+          "calitate": "lichidator provizoriu"
+        },
+        {
+          "nume": "ILIE CLAUDIU IOAN",
           "calitate": "reprezentant al persoanei juridice"
         }
       ]
@@ -63551,6 +63663,16 @@
       ]
     },
     {
+      "cui": 45122830,
+      "denumire": "CREATIV CONSULT - MANAGEMENT SI FINANTARE",
+      "reprezentanti": [
+        {
+          "nume": "TUDOSE FLORIN-ADRIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 29948858,
       "denumire": "SC Metal Narcisa Rebeca SRL",
       "reprezentanti": [
@@ -64248,6 +64370,20 @@
       "reprezentanti": [
         {
           "nume": "HORJ EMIL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43644200,
+      "denumire": "TRIDENT MEDICAL COMPANY S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "KOVÁCS ZSUZSÁNNA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "KOVÁCS ZSUZSÁNNA",
           "calitate": "administrator"
         }
       ]
@@ -65153,6 +65289,20 @@
       ]
     },
     {
+      "cui": 48747800,
+      "denumire": "BULDOCIVIL STAS",
+      "reprezentanti": [
+        {
+          "nume": "VRABIE CONSTANTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "VRABIE ANA-MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 24299482,
       "denumire": "CORVIN DESIGN",
       "reprezentanti": [
@@ -65710,6 +65860,16 @@
       "reprezentanti": [
         {
           "nume": "ȘANDOR MARIA-ALINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44106900,
+      "denumire": "CO&CO  Consumer 2002 S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "FLORESCU LEONARD-ALIN",
           "calitate": "administrator"
         }
       ]
@@ -66742,6 +66902,16 @@
         },
         {
           "nume": "INȚA IOAN  VIOREL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43948110,
+      "denumire": "3D PROJECT EVE",
+      "reprezentanti": [
+        {
+          "nume": "ANDRONACHE LIVIU-IONUŢ",
           "calitate": "administrator"
         }
       ]
@@ -72081,6 +72251,20 @@
       ]
     },
     {
+      "cui": 28431160,
+      "denumire": "ENACHE BEST SERVICE",
+      "reprezentanti": [
+        {
+          "nume": "DAVID C. CONSTANTIN-MARIUS",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "DAVID SIMONA-VASILICA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 7093686,
       "denumire": "NELICA-IMPEX S.R.L.",
       "reprezentanti": [
@@ -75901,6 +76085,16 @@
       ]
     },
     {
+      "cui": 35361440,
+      "denumire": "ELECTROCONSTRUCTIA ELCO BISTRITA",
+      "reprezentanti": [
+        {
+          "nume": "GONŢA IGOR",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 34143366,
       "denumire": "VLC DIVISION",
       "reprezentanti": [
@@ -76939,6 +77133,16 @@
       ]
     },
     {
+      "cui": 42915300,
+      "denumire": "MAC'S MEDICAL SURGICAL",
+      "reprezentanti": [
+        {
+          "nume": "TĂRĂU FLAVIU TRAIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 18491512,
       "denumire": "WORLD MEDIA GRAPH",
       "reprezentanti": [
@@ -77378,6 +77582,20 @@
       "reprezentanti": [
         {
           "nume": "CHIRCULESCU CORNEL-MARIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44414250,
+      "denumire": "ROMPETROL DOWNSTREAM",
+      "reprezentanti": [
+        {
+          "nume": "ROTARU MARIUS MARIAN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ROTARU LENUŢA",
           "calitate": "administrator"
         }
       ]
@@ -80165,6 +80383,40 @@
       ]
     },
     {
+      "cui": 51483430,
+      "denumire": "HELENE",
+      "reprezentanti": [
+        {
+          "nume": "VARVAROI NICULAI",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ȘARAMET CONSTANTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "KŐNIG RICHARD-AURELIAN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "URSU CONSTANTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "PETI GHEORGHE",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "LEAHA ADRIAN-GHEORGHE",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "HÎTU NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 38637214,
       "denumire": "ASFALTERRA BETA CONSTRUCT",
       "reprezentanti": [
@@ -82401,6 +82653,20 @@
       ]
     },
     {
+      "cui": 13165477,
+      "denumire": "DONA. LOGISTICA",
+      "reprezentanti": [
+        {
+          "nume": "CONSTANTINESCU DUMITRU",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ENĂCHESCU ANAMARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 7332759,
       "denumire": "NORDENLOR PROD COM IMPEX SRL",
       "reprezentanti": [
@@ -82961,6 +83227,16 @@
         {
           "nume": "PĂNĂZAN MIRELA MARIA",
           "calitate": "administrator si reprezentant"
+        }
+      ]
+    },
+    {
+      "cui": 45410680,
+      "denumire": "GALAN LAZAR INTREPRINDERE INDIVIDUALA",
+      "reprezentanti": [
+        {
+          "nume": "CUC DUMITRU-DANIEL",
+          "calitate": "administrator"
         }
       ]
     },
@@ -87765,6 +88041,20 @@
       ]
     },
     {
+      "cui": 24832460,
+      "denumire": "C&M SOLUTIONS SRL",
+      "reprezentanti": [
+        {
+          "nume": "CONSTANTIN C GRAŢIELA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "CONSTANTIN C GRAŢIELA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 32345113,
       "denumire": "SC CHATELINE SRL",
       "reprezentanti": [
@@ -91375,6 +91665,16 @@
       ]
     },
     {
+      "cui": 42783960,
+      "denumire": "CREATIV CONSULT - MANAGEMENT SI FINANTARE",
+      "reprezentanti": [
+        {
+          "nume": "FULGER GABRIEL-NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 31702633,
       "denumire": "SERVPRIM BALTA ALBA SRL",
       "reprezentanti": [
@@ -92648,6 +92948,16 @@
       "reprezentanti": [
         {
           "nume": "ROŞESCU VIOREL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45413350,
+      "denumire": "METACAD S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "COJOCARU MARIUS-CONSTANTIN",
           "calitate": "administrator"
         }
       ]
@@ -94507,6 +94817,16 @@
       ]
     },
     {
+      "cui": 43644110,
+      "denumire": "METRO CASH & CARRY ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "COVACI RODICA DORINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 24535753,
       "denumire": "INFRA PROIECT",
       "reprezentanti": [
@@ -95030,6 +95350,16 @@
       "reprezentanti": [
         {
           "nume": "GAȘPOR POMPILIU VASILE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 50518620,
+      "denumire": "Sanimet Com",
+      "reprezentanti": [
+        {
+          "nume": "CARAGATA ALEXANDRU-CRISTIAN",
           "calitate": "administrator"
         }
       ]
@@ -97314,6 +97644,16 @@
         },
         {
           "nume": "SMELA LOREDANA ROXANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46346470,
+      "denumire": "CRISS OFFICE S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ZAHARIA MARIA",
           "calitate": "administrator"
         }
       ]
@@ -105171,11 +105511,31 @@
       ]
     },
     {
+      "cui": 43428630,
+      "denumire": "ABRAO EXPERT",
+      "reprezentanti": [
+        {
+          "nume": "CABA MARIUS-NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 19135068,
       "denumire": "MADCOMEX",
       "reprezentanti": [
         {
           "nume": "DINCĂ-OPREA MARIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43446270,
+      "denumire": "OPM NEW EXCLUSIVE GROUP",
+      "reprezentanti": [
+        {
+          "nume": "SIMION EUGEN-LAURENȚIU",
           "calitate": "administrator"
         }
       ]
@@ -109602,6 +109962,20 @@
       "reprezentanti": [
         {
           "nume": "POSTOLACHE GHEORGHE RĂZVAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 25413800,
+      "denumire": "SERV IT",
+      "reprezentanti": [
+        {
+          "nume": "DOBRE LEONARD COSMIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "DOBRE CLAUDIA ELENA",
           "calitate": "administrator"
         }
       ]
@@ -120149,6 +120523,16 @@
       ]
     },
     {
+      "cui": 47014010,
+      "denumire": "ROPE ACCES WORKERS S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ROŞU ROBERT-FLORIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 40420127,
       "denumire": "CARWOOD HSV S.R.L.",
       "reprezentanti": [
@@ -120202,6 +120586,16 @@
       "reprezentanti": [
         {
           "nume": "TOMA-MIHAI MONICA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46634480,
+      "denumire": "ROMBIOMEDICA",
+      "reprezentanti": [
+        {
+          "nume": "LEANCA ALEXANDRU",
           "calitate": "administrator"
         }
       ]
@@ -120716,6 +121110,16 @@
         },
         {
           "nume": "BODU SEBASTIAN-VALENTIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47283000,
+      "denumire": "TOMAS BICICLETE SHOP",
+      "reprezentanti": [
+        {
+          "nume": "NEDELA EMANUELA-DINA",
           "calitate": "administrator"
         }
       ]
@@ -121814,6 +122218,20 @@
       "reprezentanti": [
         {
           "nume": "CENTEA DARIUS-CIPRIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44270480,
+      "denumire": "Centrul de Consultanta si Asistenta SRL",
+      "reprezentanti": [
+        {
+          "nume": "OSVATH EMESE",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "GONDOS SZILARD ZOMBOR",
           "calitate": "administrator"
         }
       ]
@@ -130695,6 +131113,20 @@
       ]
     },
     {
+      "cui": 28428890,
+      "denumire": "VIP IT SVILUPPO SERV",
+      "reprezentanti": [
+        {
+          "nume": "MATEI RODICA FRANCISCA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "POPA RĂZVAN - CONSTANTIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 32397422,
       "denumire": "GEOSILVA M.D.V.",
       "reprezentanti": [
@@ -132631,6 +133063,16 @@
       ]
     },
     {
+      "cui": 45403720,
+      "denumire": "EURO ATASAMENTE S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "NECULAU IONUȚ FLORIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 39256609,
       "denumire": "PROIECT SOLAR",
       "reprezentanti": [
@@ -132716,6 +133158,20 @@
       "reprezentanti": [
         {
           "nume": "SZEGEDI ÁRPÁD-GEZA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45418900,
+      "denumire": "DEDEMAN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "BÂRSAN IOAN CLAUDIU",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "BÂRSAN GABRIELA ANCA",
           "calitate": "administrator"
         }
       ]
@@ -134372,6 +134828,16 @@
         },
         {
           "nume": "BOLOGA KAROLA-MONICA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43506290,
+      "denumire": "VIVA CONTROL",
+      "reprezentanti": [
+        {
+          "nume": "POPA MIHAI - VIOREL",
           "calitate": "administrator"
         }
       ]
@@ -144827,6 +145293,16 @@
       ]
     },
     {
+      "cui": 42879470,
+      "denumire": "RAFLOR COM SRL",
+      "reprezentanti": [
+        {
+          "nume": "MAXIM SIMONA ADINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 87440,
       "denumire": "SCC CONSUMCOOP BEIUS",
       "reprezentanti": [
@@ -145752,6 +146228,16 @@
       "reprezentanti": [
         {
           "nume": "COSTEA MIHAI-CRISTIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45415210,
+      "denumire": "DR.MAX",
+      "reprezentanti": [
+        {
+          "nume": "NETEDU MARIUS ALEXANDRU",
           "calitate": "administrator"
         }
       ]
@@ -148903,6 +149389,16 @@
       ]
     },
     {
+      "cui": 44555950,
+      "denumire": "SC CERES UNION SRL",
+      "reprezentanti": [
+        {
+          "nume": "DINIȚĂ VASILE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 29460163,
       "denumire": "Performs HVR Consulting",
       "reprezentanti": [
@@ -151871,6 +152367,16 @@
       ]
     },
     {
+      "cui": 28452570,
+      "denumire": "EURO ECOLOGIC",
+      "reprezentanti": [
+        {
+          "nume": "RACZ OVIDIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 25266289,
       "denumire": "DAYO CALIXTA S.R.L.",
       "reprezentanti": [
@@ -152366,6 +152872,16 @@
       "reprezentanti": [
         {
           "nume": "PREDA ECATERINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 25412660,
+      "denumire": "MED HEALTHCARE PROJECT",
+      "reprezentanti": [
+        {
+          "nume": "CARAMAN GEORGE-ANDREI",
           "calitate": "administrator"
         }
       ]
@@ -158055,6 +158571,16 @@
       ]
     },
     {
+      "cui": 43182020,
+      "denumire": "SILVER TRADING PARTNERS SRL",
+      "reprezentanti": [
+        {
+          "nume": "VIDU IULIANA-EMILIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 23960046,
       "denumire": "S.C. BOGDAN TRANS S.R.L.",
       "reprezentanti": [
@@ -158902,6 +159428,16 @@
       "reprezentanti": [
         {
           "nume": "DRAGOMIR AURICĂ",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45780240,
+      "denumire": "AEMSELF COMP",
+      "reprezentanti": [
+        {
+          "nume": "CERNEI DANA-MARGARETA",
           "calitate": "administrator"
         }
       ]
@@ -161306,6 +161842,32 @@
       "reprezentanti": [
         {
           "nume": "BONTAȘ RAMONA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 9052135,
+      "denumire": "INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE PENTRU FIZICA LASERILOR, PLASMEI SI ",
+      "reprezentanti": [
+        {
+          "nume": "JUGĂNARU GEORGETA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "MIHĂILESCU NICOLAE-CRISTIAN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "POPESCU ANDREI",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "DUMITRACHE MONICA-ROXANA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "MUȘAT ELENA-CORINA",
           "calitate": "administrator"
         }
       ]
@@ -170552,6 +171114,20 @@
       "reprezentanti": [
         {
           "nume": "ZAMFIR FLORIN-IOAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 41926930,
+      "denumire": "MARBONA CONSULTING",
+      "reprezentanti": [
+        {
+          "nume": "TULBUREANU ALEXANDRU-ANDREI",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "GERU EUGEN-CIPRIAN",
           "calitate": "administrator"
         }
       ]
@@ -180779,6 +181355,16 @@
       ]
     },
     {
+      "cui": 40334000,
+      "denumire": "CRISMIN AND CO. SISTEME DE TELECOMUNICATII S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "DOBREANSCHI IGOR",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 40127560,
       "denumire": "AREMA WATER SOLUTION",
       "reprezentanti": [
@@ -181339,6 +181925,20 @@
       ]
     },
     {
+      "cui": 42692900,
+      "denumire": "global addrum impex",
+      "reprezentanti": [
+        {
+          "nume": "IONEAC RAREŞ-CRISTIAN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ŞEMBERCO MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 13603674,
       "denumire": "NICK TOURING",
       "reprezentanti": [
@@ -181853,6 +182453,20 @@
       ]
     },
     {
+      "cui": 43854570,
+      "denumire": "SPITALUL DE BOLI CRONICE SMEENI",
+      "reprezentanti": [
+        {
+          "nume": "BENGHIAC DARIUS",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "BENGHIAC LILIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 44155503,
       "denumire": "NAPON TRANSPORT CONSULT S.R.L.",
       "reprezentanti": [
@@ -181954,6 +182568,16 @@
         },
         {
           "nume": "TRUICĂ LIVIU-ROBERT",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44858040,
+      "denumire": "vethomeconsult",
+      "reprezentanti": [
+        {
+          "nume": "NIŢĂ ALEXANDRU VASILICĂ",
           "calitate": "administrator"
         }
       ]
@@ -187618,6 +188242,20 @@
       "reprezentanti": [
         {
           "nume": "HRISTU DUMITRU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 15902010,
+      "denumire": "CINOR",
+      "reprezentanti": [
+        {
+          "nume": "CHELMUS LUCIA C.I.I.",
+          "calitate": "lichidator judiciar"
+        },
+        {
+          "nume": "POPA IGOR",
           "calitate": "administrator"
         }
       ]
@@ -194553,6 +195191,16 @@
       ]
     },
     {
+      "cui": 46887360,
+      "denumire": "FRACTAL STUDIO",
+      "reprezentanti": [
+        {
+          "nume": "BANCIU NICOLETA-ROMINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 26416163,
       "denumire": "CSIKI TRANS SRL",
       "reprezentanti": [
@@ -195826,6 +196474,16 @@
       "reprezentanti": [
         {
           "nume": "BODOGA ŞTEFAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43400990,
+      "denumire": "Doimih Design SRL",
+      "reprezentanti": [
+        {
+          "nume": "RABIE ADHAM HOSNY FARGHALY MOHAMED",
           "calitate": "administrator"
         }
       ]
@@ -201209,6 +201867,20 @@
       ]
     },
     {
+      "cui": 5572070,
+      "denumire": "Y.P. CONSTRUCTII SRL",
+      "reprezentanti": [
+        {
+          "nume": "POPA MIRCEA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "STEFANESCU DANUT",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 7415820,
       "denumire": "SC ARABICO SRL",
       "reprezentanti": [
@@ -206246,6 +206918,32 @@
         },
         {
           "nume": "VOICU ALINA-ROZALIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 445238,
+      "denumire": "INSTITUTUL NATIONAL DE CERCETARE - DEZVOLTARE TURBOMOTOARE COMOTI",
+      "reprezentanti": [
+        {
+          "nume": "TĂNASE NARCISA MELANIA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "SILIVESTRU VALENTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "PORUMBEL IONUȚ",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "CĂLIN ANDRA LUIZA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "TUDOR TATIANA ADRIANA",
           "calitate": "administrator"
         }
       ]
@@ -216369,6 +217067,16 @@
       ]
     },
     {
+      "cui": 41463100,
+      "denumire": "BICAR IMPORT EXPORT SRL",
+      "reprezentanti": [
+        {
+          "nume": "STOIAN LIVIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 35073137,
       "denumire": "GLOBAL TOPEXPERT SRL",
       "reprezentanti": [
@@ -216540,6 +217248,16 @@
       "reprezentanti": [
         {
           "nume": "DINU ANA-MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42211100,
+      "denumire": "ELBI ELECTRIC & LIGHTING",
+      "reprezentanti": [
+        {
+          "nume": "DAN RUBEN",
           "calitate": "administrator"
         }
       ]
@@ -216862,6 +217580,16 @@
       "reprezentanti": [
         {
           "nume": "POP IOAN-GHEORGHE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43232330,
+      "denumire": "POLICROM",
+      "reprezentanti": [
+        {
+          "nume": "BUICĂ SABINA MARIA",
           "calitate": "administrator"
         }
       ]
@@ -218464,6 +219192,16 @@
       "reprezentanti": [
         {
           "nume": "BADEA ROBERT-MARIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 48424000,
+      "denumire": "VLADENI BEST CONS S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "AURARU IOSIF",
           "calitate": "administrator"
         }
       ]
@@ -224683,6 +225421,16 @@
       ]
     },
     {
+      "cui": 31273280,
+      "denumire": "SPITALUL GENERAL CAI FERATE GALATI",
+      "reprezentanti": [
+        {
+          "nume": "CONTOLENCU ELENA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 31408051,
       "denumire": "PROPIPE TRADE CO",
       "reprezentanti": [
@@ -227405,6 +228153,16 @@
       ]
     },
     {
+      "cui": 41220780,
+      "denumire": "COMPANIA M.I.R.A. INTERNATIONAL",
+      "reprezentanti": [
+        {
+          "nume": "PĂTRAŞCU PAUL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 29724311,
       "denumire": "HR Consultanta si Formare",
       "reprezentanti": [
@@ -228831,6 +229589,16 @@
       ]
     },
     {
+      "cui": 44207670,
+      "denumire": "SEDONA ALM",
+      "reprezentanti": [
+        {
+          "nume": "HEGEDUS BELA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 45005539,
       "denumire": "SILVCRIS S.R.L.",
       "reprezentanti": [
@@ -229178,6 +229946,20 @@
       "reprezentanti": [
         {
           "nume": "CAZACU IULIAN   CĂTĂLIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45540760,
+      "denumire": "CWTP ONLINE",
+      "reprezentanti": [
+        {
+          "nume": "ROTARI IURIE-CHRISTIAN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ROTARI IURIE-CHRISTIAN",
           "calitate": "administrator"
         }
       ]
@@ -234152,6 +234934,16 @@
       "reprezentanti": [
         {
           "nume": "BADEA NICOLETA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 26129280,
+      "denumire": "ARTE RUBBER DISTRIBUTION",
+      "reprezentanti": [
+        {
+          "nume": "MOLAGAZI ERSIN",
           "calitate": "administrator"
         }
       ]
@@ -239727,6 +240519,20 @@
       ]
     },
     {
+      "cui": 45158400,
+      "denumire": "FLEXISHOP DEVELOPMENT S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "PLOSCARU IULIANA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "PLOSCARU EUGENIA-DANIELA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 7343413,
       "denumire": "ANDCOR",
       "reprezentanti": [
@@ -243796,6 +244602,20 @@
       "reprezentanti": [
         {
           "nume": "ILIE IOAN-TEODOR",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 16282170,
+      "denumire": "RENO",
+      "reprezentanti": [
+        {
+          "nume": "JELIC CORNELIA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "MEGHIȘAN RAREȘ-IOAN",
           "calitate": "administrator"
         }
       ]
@@ -250637,6 +251457,16 @@
       ]
     },
     {
+      "cui": 44950690,
+      "denumire": "TOPO VAROGAVA S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "IONIȚĂ ALIN-ION",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 202042,
       "denumire": "PROIECTANTUL S.A.",
       "reprezentanti": [
@@ -250900,6 +251730,20 @@
       "reprezentanti": [
         {
           "nume": "RUSU GHEORGHE-CRISTINEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45544240,
+      "denumire": "DIHORU SORIN IMPEX SRL",
+      "reprezentanti": [
+        {
+          "nume": "TOMEI VALENTIN-NĂSTASE",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ŞTEFAN MARIUS-ANDREI",
           "calitate": "administrator"
         }
       ]
@@ -251410,6 +252254,16 @@
       "reprezentanti": [
         {
           "nume": "ZVORIŞTEANU ALINA-MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47771400,
+      "denumire": "KIPS PALLETS S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "KOVACS IOANA-CRISTINA",
           "calitate": "administrator"
         }
       ]
@@ -252736,6 +253590,16 @@
       "reprezentanti": [
         {
           "nume": "BARANYI VASILE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43582310,
+      "denumire": "S.C. BUSINESS FULL ADVICE S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ANDREEV MIRCEA",
           "calitate": "administrator"
         }
       ]
@@ -259933,6 +260797,16 @@
       ]
     },
     {
+      "cui": 39637220,
+      "denumire": "PENTAGON 2000",
+      "reprezentanti": [
+        {
+          "nume": "LEDENTU STÉPHANE JEAN MARIE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 17103523,
       "denumire": "S.C. AFIA PROIECT S.R.L.",
       "reprezentanti": [
@@ -261063,6 +261937,16 @@
       ]
     },
     {
+      "cui": 43475690,
+      "denumire": "ALTEX ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "TUDOREANU MARIUS VALENTIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 15970359,
       "denumire": "ANGELS PSI S.R.L.",
       "reprezentanti": [
@@ -261298,6 +262182,16 @@
       "reprezentanti": [
         {
           "nume": "LUPU GHEORGHE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44339530,
+      "denumire": "NISRE",
+      "reprezentanti": [
+        {
+          "nume": "STOICESCU SORINEL",
           "calitate": "administrator"
         }
       ]
@@ -271689,6 +272583,16 @@
       ]
     },
     {
+      "cui": 43648880,
+      "denumire": "Eco Neutralizare Grindasi",
+      "reprezentanti": [
+        {
+          "nume": "PÎNZARIU ANDREEA-CĂTĂLINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 27451231,
       "denumire": "NEW ELLE MEDICAL SRL",
       "reprezentanti": [
@@ -273130,6 +274034,28 @@
         },
         {
           "nume": "ȚABOI FLORIN-MĂDĂLIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 50222470,
+      "denumire": "PALLADIANA",
+      "reprezentanti": [
+        {
+          "nume": "CRĂCIUN DIANA-LARISA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "BRĂDEANU RAREȘ",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "NEGRU GABRIELA-RENATE",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "LUPPA MIHAI-CORNELIU",
           "calitate": "administrator"
         }
       ]
@@ -282201,6 +283127,16 @@
       ]
     },
     {
+      "cui": 46789450,
+      "denumire": "EURO NET SRL",
+      "reprezentanti": [
+        {
+          "nume": "CIUP ROBERT-CĂTĂLIN-ANDREI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 45976833,
       "denumire": "FUM FOREST SINCA",
       "reprezentanti": [
@@ -282544,6 +283480,16 @@
       "reprezentanti": [
         {
           "nume": "TUDORACHE VALENTIN-EUGEN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 48014000,
+      "denumire": "Twins Construct",
+      "reprezentanti": [
+        {
+          "nume": "MEREUŢĂ IONUŢ-GABRIEL",
           "calitate": "administrator"
         }
       ]
@@ -287962,6 +288908,16 @@
       "reprezentanti": [
         {
           "nume": "OANE CALIN IOAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 28430350,
+      "denumire": "PLUXEE ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "BRATU ELENA  FLORENTINA",
           "calitate": "administrator"
         }
       ]
@@ -296771,6 +297727,20 @@
       ]
     },
     {
+      "cui": 14191130,
+      "denumire": "LA BAIATU PRESTCOM SRL",
+      "reprezentanti": [
+        {
+          "nume": "POPESCU I MARIAN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "DAVID D COSTINEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 18658298,
       "denumire": "SC MYK PROD DISTRIBUTION SRL",
       "reprezentanti": [
@@ -301719,6 +302689,16 @@
       ]
     },
     {
+      "cui": 42801080,
+      "denumire": "BUSINESS IDEAS MANAGEMENT S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "CUC PAUL NICHITA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 30439939,
       "denumire": "SC CLINIC MARTVET SRL",
       "reprezentanti": [
@@ -302117,6 +303097,16 @@
       ]
     },
     {
+      "cui": 43677100,
+      "denumire": "CRISGUM",
+      "reprezentanti": [
+        {
+          "nume": "TĂNASE FLORIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 1835573,
       "denumire": "S.C. Elita Construct S.R.L.",
       "reprezentanti": [
@@ -302414,6 +303404,16 @@
       "reprezentanti": [
         {
           "nume": "SCHVAB ANDREI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 33735190,
+      "denumire": "FOCUS EXCLUSIV",
+      "reprezentanti": [
+        {
+          "nume": "NICULESCU ALINA-NETUȚA",
           "calitate": "administrator"
         }
       ]
@@ -302892,6 +303892,16 @@
       "reprezentanti": [
         {
           "nume": "PANAITE SEBASTIAN-FLORIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47856310,
+      "denumire": "MARTEN ENERGY",
+      "reprezentanti": [
+        {
+          "nume": "CASAPU GEORGE",
           "calitate": "administrator"
         }
       ]
@@ -311839,6 +312849,16 @@
       ]
     },
     {
+      "cui": 43063720,
+      "denumire": "RIOLIV S.A.",
+      "reprezentanti": [
+        {
+          "nume": "FIGHIR COSTICĂ",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 43348077,
       "denumire": "DECISIV TOTAL S.R.L.",
       "reprezentanti": [
@@ -312093,6 +313113,16 @@
       ]
     },
     {
+      "cui": 43843890,
+      "denumire": "BN BUSINESS",
+      "reprezentanti": [
+        {
+          "nume": "ZĂGREAN DANIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 44116440,
       "denumire": "TROTTY ELECTRIC SPORT S.R.L.",
       "reprezentanti": [
@@ -312138,6 +313168,16 @@
       "reprezentanti": [
         {
           "nume": "AFRONIE GEORGE-IRINEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43676120,
+      "denumire": "COMPUTER TRADE",
+      "reprezentanti": [
+        {
+          "nume": "MEDELEANU TINEL",
           "calitate": "administrator"
         }
       ]
@@ -312495,6 +313535,20 @@
       ]
     },
     {
+      "cui": 45485380,
+      "denumire": "SARATOGA",
+      "reprezentanti": [
+        {
+          "nume": "ŞOFÎLCĂ MARIUS CONSTANTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ONOFREI FLORIN ILIE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 18146263,
       "denumire": "TRADE OF ART",
       "reprezentanti": [
@@ -312717,6 +313771,24 @@
       ]
     },
     {
+      "cui": 39662810,
+      "denumire": "ICOM OIL",
+      "reprezentanti": [
+        {
+          "nume": "PROCA ROBERT VALENTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "PROCA ROBERT VALENTIN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "PROCA ROBERT VALENTIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 13796788,
       "denumire": "MEDIA INVEST S.R.L.",
       "reprezentanti": [
@@ -312934,6 +314006,20 @@
       "reprezentanti": [
         {
           "nume": "MUTU PETRE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47013120,
+      "denumire": "COMPANIA NATIONALA UNIFARM",
+      "reprezentanti": [
+        {
+          "nume": "NIȚU SORIN-NICUȘOR",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "NIȚU ANDREEA-MARIA",
           "calitate": "administrator"
         }
       ]
@@ -313469,6 +314555,20 @@
       ]
     },
     {
+      "cui": 40386360,
+      "denumire": "INFORMATIONAL",
+      "reprezentanti": [
+        {
+          "nume": "MAILAT MARIA CRISTINA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "FLORICĂ ANA MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 48464986,
       "denumire": "NICOSTANEL",
       "reprezentanti": [
@@ -313622,6 +314722,16 @@
       "reprezentanti": [
         {
           "nume": "NICOLAE IULIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 49383790,
+      "denumire": "TANDEM S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "TURDA CRISTINA-IRINA",
           "calitate": "administrator"
         }
       ]
@@ -330833,6 +331943,20 @@
       ]
     },
     {
+      "cui": 41220860,
+      "denumire": "S.C. IOR SMART TOPO S.R.L",
+      "reprezentanti": [
+        {
+          "nume": "ŞTEFAN BIANCA - VALENTINA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ŞTEFAN BIANCA - VALENTINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 41035103,
       "denumire": "Media2door",
       "reprezentanti": [
@@ -331264,6 +332388,16 @@
       "reprezentanti": [
         {
           "nume": "ANDRÁS RÓBERT",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43225210,
+      "denumire": "KING COMPRES SRL",
+      "reprezentanti": [
+        {
+          "nume": "TUDORACHE ALINA",
           "calitate": "administrator"
         }
       ]
@@ -331736,6 +332870,16 @@
       "reprezentanti": [
         {
           "nume": "CORNĂȚEANU MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44337670,
+      "denumire": "VECTOR INVEST",
+      "reprezentanti": [
+        {
+          "nume": "ȘOAVĂ LUCIANA-ANDREEA",
           "calitate": "administrator"
         }
       ]
@@ -332432,6 +333576,16 @@
         },
         {
           "nume": "DIACONU IONUŢ CĂTĂLIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46390670,
+      "denumire": "COMBRAT 94",
+      "reprezentanti": [
+        {
+          "nume": "ENE ANDA",
           "calitate": "administrator"
         }
       ]
@@ -349717,6 +350871,16 @@
       ]
     },
     {
+      "cui": 42297250,
+      "denumire": "BONEMIX CONSULTING S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "COZMA IONEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 42317129,
       "denumire": "BUCOVINA MSG S.R.L.",
       "reprezentanti": [
@@ -352968,6 +354132,16 @@
         },
         {
           "nume": "IUHASZ PAŞCAN ROZICA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42672570,
+      "denumire": "Spitalul Clinic Nr.1 C.F. Witting",
+      "reprezentanti": [
+        {
+          "nume": "STROIE CRISTINA-DANIELA",
           "calitate": "administrator"
         }
       ]
@@ -357225,6 +358399,16 @@
       ]
     },
     {
+      "cui": 35188900,
+      "denumire": "REGIA PUBLICA LOCALA OCOLUL SILVIC ZARANDUL",
+      "reprezentanti": [
+        {
+          "nume": "TOFĂLEANU MARIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 4196440,
       "denumire": "2M TRAINING & CONSULTING S.R.L.",
       "reprezentanti": [
@@ -359365,6 +360549,16 @@
       ]
     },
     {
+      "cui": 43643140,
+      "denumire": "SCRIPTA VERITAS",
+      "reprezentanti": [
+        {
+          "nume": "FODOREAN ANDREI-VASILE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 44529152,
       "denumire": "RTK TOPO LAND S.R.L.",
       "reprezentanti": [
@@ -359904,6 +361098,16 @@
       "reprezentanti": [
         {
           "nume": "SEBE ADRIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45405420,
+      "denumire": "OFFICE & PACK DISTRIBUTION S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "MICHELIS ROBERT",
           "calitate": "administrator"
         }
       ]
@@ -361083,6 +362287,16 @@
       ]
     },
     {
+      "cui": 51237720,
+      "denumire": "AMM",
+      "reprezentanti": [
+        {
+          "nume": "SANDA FLORIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 47904531,
       "denumire": "Ciga Energy EPIC",
       "reprezentanti": [
@@ -361106,6 +362320,16 @@
         },
         {
           "nume": "MOCANU MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 50575200,
+      "denumire": "DALLANORA IMPEX",
+      "reprezentanti": [
+        {
+          "nume": "ORBAN RADU-MIRCEA-ADMANIUS",
           "calitate": "administrator"
         }
       ]
@@ -362232,6 +363456,16 @@
         },
         {
           "nume": "STANCIU ANDREI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42976650,
+      "denumire": "MEISTER COM",
+      "reprezentanti": [
+        {
+          "nume": "SAVELUC FLORIN-CRISTIAN",
           "calitate": "administrator"
         }
       ]
@@ -364784,6 +366018,20 @@
       "reprezentanti": [
         {
           "nume": "DAMIAN AVRAM",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 681700,
+      "denumire": "Victor",
+      "reprezentanti": [
+        {
+          "nume": "STOICA GH. VICTOR",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "CHECHEDI DANIEL",
           "calitate": "administrator"
         }
       ]
@@ -368817,6 +370065,16 @@
       ]
     },
     {
+      "cui": 47011260,
+      "denumire": "Universitatea Alexandru Ioan Cuza",
+      "reprezentanti": [
+        {
+          "nume": "PĂDUREAN VALENTIN- MIHAI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 35211337,
       "denumire": "SERVAL SOLUTIONS",
       "reprezentanti": [
@@ -368972,6 +370230,16 @@
       "reprezentanti": [
         {
           "nume": "MOLNÁR ZSOLT",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47189500,
+      "denumire": "PRINTECH COMPANY",
+      "reprezentanti": [
+        {
+          "nume": "BECHEANU ELENA ANDRADA",
           "calitate": "administrator"
         }
       ]
@@ -381675,6 +382943,16 @@
       ]
     },
     {
+      "cui": 28432050,
+      "denumire": "ASOCIATIA PROFESIONALA A FORMARII, STANDARDIZARII SI EVALUARII COMPETENTELOR \"AC",
+      "reprezentanti": [
+        {
+          "nume": "ŞOLCĂ IULIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 16261002,
       "denumire": "MARYSTELV SRL",
       "reprezentanti": [
@@ -385763,6 +387041,16 @@
       ]
     },
     {
+      "cui": 42041510,
+      "denumire": "SILVEXIM STAR S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ŞANDRU DAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 24348976,
       "denumire": "SC URBIO RO SRL",
       "reprezentanti": [
@@ -385866,6 +387154,16 @@
         },
         {
           "nume": "MOCANU ANDREEA-DANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42320540,
+      "denumire": "DISCO SYSTEM",
+      "reprezentanti": [
+        {
+          "nume": "SEVERINO CARMONA DENNY ESTHER",
           "calitate": "administrator"
         }
       ]
@@ -388058,6 +389356,16 @@
       "reprezentanti": [
         {
           "nume": "GIURGEA VLAD",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44844850,
+      "denumire": "STARWAY AMD COMPANY SRL",
+      "reprezentanti": [
+        {
+          "nume": "SZABO EVA-GYONGYVER",
           "calitate": "administrator"
         }
       ]
@@ -392881,6 +394189,16 @@
       ]
     },
     {
+      "cui": 36275010,
+      "denumire": "Spitalul de Boli Infectioase si Psihiatrie",
+      "reprezentanti": [
+        {
+          "nume": "BULENCEA PAUL BOGDAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 36749319,
       "denumire": "MET INTER PROD SRL",
       "reprezentanti": [
@@ -392976,6 +394294,16 @@
       "reprezentanti": [
         {
           "nume": "RANCU MIELU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 36626650,
+      "denumire": "DEDEMAN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "BALEA VASILE VALENTIN",
           "calitate": "administrator"
         }
       ]
@@ -395472,6 +396800,16 @@
         },
         {
           "nume": "CALU NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47771320,
+      "denumire": "UTILAJE IMPORT",
+      "reprezentanti": [
+        {
+          "nume": "PASCARIU BOGDAN",
           "calitate": "administrator"
         }
       ]
@@ -402807,6 +404145,20 @@
       ]
     },
     {
+      "cui": 41225400,
+      "denumire": "MARINOS EKO RODOS",
+      "reprezentanti": [
+        {
+          "nume": "MĂGĂDAN MARIA-DIANA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "ISPAS ŞTEFĂNUC",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 41566342,
       "denumire": "HARD - TEAM FOREST",
       "reprezentanti": [
@@ -402920,6 +404272,16 @@
       "reprezentanti": [
         {
           "nume": "MARCU ANDREI-LUCIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42036360,
+      "denumire": "DNS BIROTICA",
+      "reprezentanti": [
+        {
+          "nume": "CĂLUGĂR IOANA",
           "calitate": "administrator"
         }
       ]
@@ -403066,6 +404428,16 @@
       "reprezentanti": [
         {
           "nume": "PĂUNAŞ  ARISTOTEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43506100,
+      "denumire": "LORENA COM",
+      "reprezentanti": [
+        {
+          "nume": "TĂNĂSELEA GEORGIANA",
           "calitate": "administrator"
         }
       ]
@@ -403747,6 +405119,16 @@
       ]
     },
     {
+      "cui": 45155650,
+      "denumire": "DOCTORZET DISTRIBUTION SRL",
+      "reprezentanti": [
+        {
+          "nume": "MĂNICA ROMEO-SEBASTIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 201594,
       "denumire": "ELM ELECTROMONTAJ CLUJ",
       "reprezentanti": [
@@ -403872,6 +405254,20 @@
       "reprezentanti": [
         {
           "nume": "BUTURE FLORIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46976530,
+      "denumire": "ORGANON BIOTEC",
+      "reprezentanti": [
+        {
+          "nume": "BAMBARAC MARIA MAGDALENA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "BAMBARAC ALEXANDRU",
           "calitate": "administrator"
         }
       ]
@@ -411437,6 +412833,16 @@
       ]
     },
     {
+      "cui": 41929600,
+      "denumire": "SPITALUL CLINIC COLTEA",
+      "reprezentanti": [
+        {
+          "nume": "STOICA NONI PUIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 15156807,
       "denumire": "S.C. ECO CLEAN S.R.L.",
       "reprezentanti": [
@@ -411938,6 +413344,16 @@
       "reprezentanti": [
         {
           "nume": "CÎMPEANU EUGEN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43314570,
+      "denumire": "Muzeul National al Unirii Alba Iulia",
+      "reprezentanti": [
+        {
+          "nume": "DICĂ ALEXANDRU-BOGDAN",
           "calitate": "administrator"
         }
       ]
@@ -412583,6 +413999,16 @@
       ]
     },
     {
+      "cui": 48203050,
+      "denumire": "BETHLENDI",
+      "reprezentanti": [
+        {
+          "nume": "RADU ISABELLE-NICOLE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 21435679,
       "denumire": "Drinks Boutique SRL",
       "reprezentanti": [
@@ -413028,6 +414454,20 @@
         },
         {
           "nume": "MORARU BERNARD-DANIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 50747500,
+      "denumire": "INSTALATII MONTAJ",
+      "reprezentanti": [
+        {
+          "nume": "KRAUSS RAINER",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "Fischer Michael",
           "calitate": "administrator"
         }
       ]
@@ -419985,6 +421425,16 @@
       ]
     },
     {
+      "cui": 43532770,
+      "denumire": "BACAUSTING S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ŢÎRTIU SEBASTIAN DUMITRU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 29564393,
       "denumire": "AQUATIC BLUE",
       "reprezentanti": [
@@ -426618,6 +428068,16 @@
       "reprezentanti": [
         {
           "nume": "BLAJ LAURENŢIU-MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 36626570,
+      "denumire": "Multimedia Displays Development Management",
+      "reprezentanti": [
+        {
+          "nume": "ALECU LUCIAN-LAURENȚIU",
           "calitate": "administrator"
         }
       ]
@@ -436867,6 +438327,16 @@
       ]
     },
     {
+      "cui": 42964060,
+      "denumire": "MEDA CONSULT",
+      "reprezentanti": [
+        {
+          "nume": "PREDA SABIN-GABRIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 41493119,
       "denumire": "ALLIED GREEN ENERGY",
       "reprezentanti": [
@@ -437659,6 +439129,16 @@
       ]
     },
     {
+      "cui": 44837900,
+      "denumire": "TIM CICLOP",
+      "reprezentanti": [
+        {
+          "nume": "YOUNES FADI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 22511944,
       "denumire": "VIPER CONCEPT",
       "reprezentanti": [
@@ -437818,6 +439298,16 @@
       "reprezentanti": [
         {
           "nume": "HASAN GELU-TUDOR",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45536310,
+      "denumire": "SAFENET SMART S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "TRUICĂ ELISABETA - VIORICA",
           "calitate": "administrator"
         }
       ]
@@ -439855,11 +441345,31 @@
       ]
     },
     {
+      "cui": 31266240,
+      "denumire": "GURGU C. GABRIEL",
+      "reprezentanti": [
+        {
+          "nume": "SAVU RĂZVAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 34580298,
       "denumire": "MPOWER ADVISORY SRL",
       "reprezentanti": [
         {
           "nume": "ALEXE MIRELA-ELENA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42881100,
+      "denumire": "BN BUSINESS",
+      "reprezentanti": [
+        {
+          "nume": "PĂDURARIU PETRU SILVIU",
           "calitate": "administrator"
         }
       ]
@@ -445377,6 +446887,16 @@
       ]
     },
     {
+      "cui": 40557850,
+      "denumire": "WESTLINE TRAVEL",
+      "reprezentanti": [
+        {
+          "nume": "BENKŐ CSABA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 40608482,
       "denumire": "FLAVRAU CONSTRUCT",
       "reprezentanti": [
@@ -445753,6 +447273,16 @@
       ]
     },
     {
+      "cui": 42304870,
+      "denumire": "NEXIA CONSULTING S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "CONSTANTIN SORIN GABRIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 17116582,
       "denumire": "SC HYDROMET SERVICE S.R.L",
       "reprezentanti": [
@@ -445788,6 +447318,16 @@
       "reprezentanti": [
         {
           "nume": "IVAN LIDIA LOREDANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42661890,
+      "denumire": "QUICK TRAVEL SRL",
+      "reprezentanti": [
+        {
+          "nume": "POTOP MARIAN ȘTEFĂNEL",
           "calitate": "administrator"
         }
       ]
@@ -446618,6 +448158,16 @@
       "reprezentanti": [
         {
           "nume": "VIDREAN GOIA GABRIELA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45623700,
+      "denumire": "PNT TEAM SOCIETY S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "PANTELIMON VALENTINA",
           "calitate": "administrator"
         }
       ]
@@ -453983,6 +455533,16 @@
       ]
     },
     {
+      "cui": 39638030,
+      "denumire": "TOMIS",
+      "reprezentanti": [
+        {
+          "nume": "BOKA JULIETA-LOREDANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 22705274,
       "denumire": "SC LOGI OFFICE SRL",
       "reprezentanti": [
@@ -455147,6 +456707,20 @@
       ]
     },
     {
+      "cui": 47842960,
+      "denumire": "KLUNER",
+      "reprezentanti": [
+        {
+          "nume": "PÂSLARU FLORIN-EUGEN",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "PÂSLARU ANDREEA-RALUCA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 16981658,
       "denumire": "SC ECOPROTPLANT SRL",
       "reprezentanti": [
@@ -455200,6 +456774,16 @@
       "reprezentanti": [
         {
           "nume": "PETREA LILIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 49055920,
+      "denumire": "TENQ ONLINE S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "GÜLEN MURTAZA",
           "calitate": "administrator"
         }
       ]
@@ -461999,6 +463583,16 @@
       ]
     },
     {
+      "cui": 42303980,
+      "denumire": "AUDIT RISCURI PREST",
+      "reprezentanti": [
+        {
+          "nume": "MILEA DANIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 42497330,
       "denumire": "SELENA LEGNIANI  ART",
       "reprezentanti": [
@@ -462088,6 +463682,16 @@
       "reprezentanti": [
         {
           "nume": "ALEXANDRESCU DAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42802050,
+      "denumire": "BEDA IMPEX",
+      "reprezentanti": [
+        {
+          "nume": "CHRISTIAN MAREGA",
           "calitate": "administrator"
         }
       ]
@@ -462212,6 +463816,16 @@
       "reprezentanti": [
         {
           "nume": "PETRESCU CRISTINA-ANAMARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43545400,
+      "denumire": "THREE PHARM",
+      "reprezentanti": [
+        {
+          "nume": "NEAGU CONSTANTIN",
           "calitate": "administrator"
         }
       ]
@@ -462571,6 +464185,20 @@
       ]
     },
     {
+      "cui": 43945440,
+      "denumire": "SC ROMFIL SRL",
+      "reprezentanti": [
+        {
+          "nume": "APALAGHIEI GABRIEL-MIHAI",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "APALAGHIEI ANA-MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 19120067,
       "denumire": "EXPERT SERVICE GRUP S.R.L.",
       "reprezentanti": [
@@ -462580,6 +464208,16 @@
         },
         {
           "nume": "BALAN IONUŢ-ONOREL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43787510,
+      "denumire": "TEHNIC GEOCAD",
+      "reprezentanti": [
+        {
+          "nume": "NICULAE DANA-MARINA",
           "calitate": "administrator"
         }
       ]
@@ -464353,6 +465991,16 @@
       ]
     },
     {
+      "cui": 51483600,
+      "denumire": "MIF PREV PSI",
+      "reprezentanti": [
+        {
+          "nume": "STĂNESCU FRAGA-GEANINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 41829988,
       "denumire": "ELECTRIC TOTAL REPAIR S.R.L.",
       "reprezentanti": [
@@ -465490,6 +467138,16 @@
       "reprezentanti": [
         {
           "nume": "GALIŞ MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 28453460,
+      "denumire": "HERALDICA",
+      "reprezentanti": [
+        {
+          "nume": "SAYTI ANDREA-ELENA",
           "calitate": "administrator"
         }
       ]
@@ -470235,6 +471893,16 @@
       ]
     },
     {
+      "cui": 43446350,
+      "denumire": "SILTECH SOLUTION ENTERPRISE",
+      "reprezentanti": [
+        {
+          "nume": "OPREA ROMULUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 43337850,
       "denumire": "RSR RACHO RIBAROV S.R.L.",
       "reprezentanti": [
@@ -470244,6 +471912,16 @@
         },
         {
           "nume": "RACHO STEFANOV RIBAROV",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43323390,
+      "denumire": "ABAU TEHNIK CONSULT",
+      "reprezentanti": [
+        {
+          "nume": "DAVID-CENARIU MĂDĂLINA",
           "calitate": "administrator"
         }
       ]
@@ -477229,6 +478907,20 @@
       ]
     },
     {
+      "cui": 37969690,
+      "denumire": "TOTAL INSTAL SRL",
+      "reprezentanti": [
+        {
+          "nume": "MIHAI LUCIAN-NICOLAE",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "MIHAI MIRELA-MARIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 30567679,
       "denumire": "SC SARAMAR FRUCT SRL",
       "reprezentanti": [
@@ -478150,6 +479842,16 @@
       "reprezentanti": [
         {
           "nume": "GROȘESCU ANA-MAGDALENA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42537310,
+      "denumire": "PAPER PRINT CONSULTING",
+      "reprezentanti": [
+        {
+          "nume": "DANILOV ADRIAN",
           "calitate": "administrator"
         }
       ]
@@ -479130,6 +480832,16 @@
       "reprezentanti": [
         {
           "nume": "ȘTEȚ ALEXANDRA GEORGIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46747900,
+      "denumire": "SECOMDIACONS",
+      "reprezentanti": [
+        {
+          "nume": "COSTACHE NATALIA",
           "calitate": "administrator"
         }
       ]
@@ -485849,6 +487561,16 @@
       ]
     },
     {
+      "cui": 40645200,
+      "denumire": "VIADUCT",
+      "reprezentanti": [
+        {
+          "nume": "YOUSEF AL DIRAA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 40680330,
       "denumire": "AURACHAIN SOLUTIONS",
       "reprezentanti": [
@@ -485968,6 +487690,16 @@
       "reprezentanti": [
         {
           "nume": "ROMAN ADOLF-MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 41224340,
+      "denumire": "ARA SOFTWARE GROUP S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "FLOREA RODICA-NICOLETA",
           "calitate": "administrator"
         }
       ]
@@ -486712,6 +488444,16 @@
       "reprezentanti": [
         {
           "nume": "MIRONESCU GRIGORAŞ VLAD",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44956030,
+      "denumire": "ZPP BETON GRUP",
+      "reprezentanti": [
+        {
+          "nume": "MAXIM DOMINIC-MARIUS",
           "calitate": "administrator"
         }
       ]
@@ -488038,6 +489780,16 @@
       "reprezentanti": [
         {
           "nume": "IFTIME ȘERBAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44690190,
+      "denumire": "MARKET LA FANE S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "MORAR OVIDIU-POMPILIU",
           "calitate": "administrator"
         }
       ]
@@ -493605,6 +495357,16 @@
       ]
     },
     {
+      "cui": 39638200,
+      "denumire": "Romchemicals",
+      "reprezentanti": [
+        {
+          "nume": "PÎRVU PETRIŞOR-MARIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 35094121,
       "denumire": "HORUS VISION DEFENSE",
       "reprezentanti": [
@@ -494063,6 +495825,16 @@
       ]
     },
     {
+      "cui": 42018640,
+      "denumire": "PRODUCTIE SI COMERCIALA TRIO IMPEX",
+      "reprezentanti": [
+        {
+          "nume": "MIHALYI IRINA-OANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 17300282,
       "denumire": "ASRO ENGINEERING SRL",
       "reprezentanti": [
@@ -494296,6 +496068,16 @@
         },
         {
           "nume": "SELBY JESSICA - MAXINE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42977460,
+      "denumire": "CRINART",
+      "reprezentanti": [
+        {
+          "nume": "MOZEŞ DANIELA LUCIANA",
           "calitate": "administrator"
         }
       ]
@@ -495832,6 +497614,16 @@
       "reprezentanti": [
         {
           "nume": "VRABIE SILVIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 51821590,
+      "denumire": "CREATIVE PEOPLE",
+      "reprezentanti": [
+        {
+          "nume": "LIAKH OLEKSANDR",
           "calitate": "administrator"
         }
       ]
@@ -501792,6 +503584,16 @@
       "reprezentanti": [
         {
           "nume": "ABĂTĂCESEI PETRU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43442790,
+      "denumire": "CASTEL BUSINESS SOLUTIONS",
+      "reprezentanti": [
+        {
+          "nume": "MIRCEA LAURA",
           "calitate": "administrator"
         }
       ]
@@ -507865,6 +509667,16 @@
       ]
     },
     {
+      "cui": 36625680,
+      "denumire": "REGIA NATIONALA A PADURILOR ROMSILVA RA",
+      "reprezentanti": [
+        {
+          "nume": "FLOREA LIVIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 36615910,
       "denumire": "LEXCRISA SRL",
       "reprezentanti": [
@@ -509516,6 +511328,16 @@
       "reprezentanti": [
         {
           "nume": "COJOCARU MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44411580,
+      "denumire": "SEBDAV INGINERING S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "MORAR ALINA-RODICA",
           "calitate": "administrator"
         }
       ]
@@ -515617,6 +517439,16 @@
       ]
     },
     {
+      "cui": 37967800,
+      "denumire": "MIG VAS DISTRIBUTIE",
+      "reprezentanti": [
+        {
+          "nume": "OLTEANU ANDREI IOAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 38085047,
       "denumire": "EUROTRAINING LECTO EXPERT SRL",
       "reprezentanti": [
@@ -515816,6 +517648,16 @@
       "reprezentanti": [
         {
           "nume": "RADU MIHAIL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 38787750,
+      "denumire": "EVENTS PARTY INNOVATION",
+      "reprezentanti": [
+        {
+          "nume": "LEBARON PASCAL FRAÉDERICJACQUES",
           "calitate": "administrator"
         }
       ]
@@ -523613,6 +525455,16 @@
       ]
     },
     {
+      "cui": 37968880,
+      "denumire": "ATLAS PRO DESIGN",
+      "reprezentanti": [
+        {
+          "nume": "PITICARIU MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 38232440,
       "denumire": "SOUND RITMIC CONCERT SRL",
       "reprezentanti": [
@@ -526163,6 +528015,16 @@
       ]
     },
     {
+      "cui": 54538000,
+      "denumire": "GROUPAMA ASIGURARI",
+      "reprezentanti": [
+        {
+          "nume": "RAŢĂ IOAN CLAUDIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 44472200,
       "denumire": "SEPSI PROTEKT S.A.",
       "reprezentanti": [
@@ -526578,6 +528440,16 @@
       "reprezentanti": [
         {
           "nume": "ALĂMARU ROBERT MĂDĂLIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 41344800,
+      "denumire": "HOCEANU HGH SRL",
+      "reprezentanti": [
+        {
+          "nume": "MORARIU IONEL",
           "calitate": "administrator"
         }
       ]
@@ -527154,6 +529026,16 @@
       "reprezentanti": [
         {
           "nume": "DIACONESCU ROXANA   CORNELIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 17673800,
+      "denumire": "SC RIVALY CH SRL",
+      "reprezentanti": [
+        {
+          "nume": "GĂLETEANU BEBE - SAMIR",
           "calitate": "administrator"
         }
       ]
@@ -528443,6 +530325,20 @@
       ]
     },
     {
+      "cui": 26133620,
+      "denumire": "La Fantana",
+      "reprezentanti": [
+        {
+          "nume": "BELDESCU ECATERINA-SORINA",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "BELDESCU MIHAIL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 27173143,
       "denumire": "S.C. Dream Development S.R.L.",
       "reprezentanti": [
@@ -528478,6 +530374,16 @@
       "reprezentanti": [
         {
           "nume": "KACSÓ TIBERIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 28429860,
+      "denumire": "Munteanu Marieta Construct",
+      "reprezentanti": [
+        {
+          "nume": "BENEDEK BERTA-ILONA",
           "calitate": "administrator"
         }
       ]
@@ -529934,6 +531840,16 @@
       "reprezentanti": [
         {
           "nume": "BĂDEŢ ION",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 33651250,
+      "denumire": "DCN PLUS INDCOM",
+      "reprezentanti": [
+        {
+          "nume": "CHIRIAC NADIA",
           "calitate": "administrator"
         }
       ]
@@ -532143,6 +534059,16 @@
       ]
     },
     {
+      "cui": 45087890,
+      "denumire": "Servicii Publice Tulcea",
+      "reprezentanti": [
+        {
+          "nume": "BERECZKY SZILÁRD-JÓZSEF",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 5179765,
       "denumire": "SALPORT",
       "reprezentanti": [
@@ -532212,6 +534138,16 @@
       "reprezentanti": [
         {
           "nume": "COLCERIU MIRCEA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45533720,
+      "denumire": "BATRANUL METEU",
+      "reprezentanti": [
+        {
+          "nume": "MITREA ADRIAN",
           "calitate": "administrator"
         }
       ]
@@ -539193,6 +541129,16 @@
       ]
     },
     {
+      "cui": 43235000,
+      "denumire": "MUZEUL JUDETEAN MURES",
+      "reprezentanti": [
+        {
+          "nume": "ALBULESCU MARIUS-NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 18272121,
       "denumire": "RCG SRL",
       "reprezentanti": [
@@ -541124,6 +543070,20 @@
       "reprezentanti": [
         {
           "nume": "COSTIN GEORGIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43742020,
+      "denumire": "MAXYGO BROKER DE ASIGURARE",
+      "reprezentanti": [
+        {
+          "nume": "COŢAN DORINEL",
+          "calitate": "administrator"
+        },
+        {
+          "nume": "COŢAN FLOARE",
           "calitate": "administrator"
         }
       ]
@@ -546157,6 +548117,16 @@
       ]
     },
     {
+      "cui": 43580530,
+      "denumire": "NEW WAVEMOTORS",
+      "reprezentanti": [
+        {
+          "nume": "OPREA IONUȚ-BOGDAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 43366545,
       "denumire": "AQUAVIL TOTAL S.R.L.",
       "reprezentanti": [
@@ -546367,6 +548337,16 @@
       ]
     },
     {
+      "cui": 44413360,
+      "denumire": "BFR WATER DESIGN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "MĂNIȚEANU IOAN-GABRIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 34356917,
       "denumire": "Clinica Medicala ACESO",
       "reprezentanti": [
@@ -546451,6 +548431,16 @@
       ]
     },
     {
+      "cui": 44433880,
+      "denumire": "TEVAG INSTAL",
+      "reprezentanti": [
+        {
+          "nume": "JIN LI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 44527615,
       "denumire": "Abyss Restruct",
       "reprezentanti": [
@@ -546476,6 +548466,16 @@
       "reprezentanti": [
         {
           "nume": "SELEA CRISTINA ELISABETA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44043380,
+      "denumire": "ROXIT ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "LUNGU MIRELA",
           "calitate": "administrator"
         }
       ]
@@ -549069,6 +551069,16 @@
       ]
     },
     {
+      "cui": 25411770,
+      "denumire": "FUNDING PLAN INVESTMENT S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "GĂMAN FLORIN ADRIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 18628793,
       "denumire": "FILA PREST CONSTRUCT S.R.L.",
       "reprezentanti": [
@@ -551086,6 +553096,16 @@
       "reprezentanti": [
         {
           "nume": "PETREA SĂNDEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 16426020,
+      "denumire": "VILA",
+      "reprezentanti": [
+        {
+          "nume": "POPA MIRELA  CRISTINA",
           "calitate": "administrator"
         }
       ]
@@ -553643,6 +555663,16 @@
       ]
     },
     {
+      "cui": 41543390,
+      "denumire": "ELECTRO-MONTAJ-PETROL-DIVERS",
+      "reprezentanti": [
+        {
+          "nume": "SIMON TEODOR IONUȚ",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 13543572,
       "denumire": "ALMAPART",
       "reprezentanti": [
@@ -553825,6 +555855,16 @@
       ]
     },
     {
+      "cui": 44434850,
+      "denumire": "MIRACONS",
+      "reprezentanti": [
+        {
+          "nume": "BORA VLAD VASILE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 21112350,
       "denumire": "Hugo Invest SRL",
       "reprezentanti": [
@@ -553834,6 +555874,16 @@
         },
         {
           "nume": "ȚERMURE ALINA VERONICA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43643220,
+      "denumire": "SOF SERVICE",
+      "reprezentanti": [
+        {
+          "nume": "OTVOS STELA",
           "calitate": "administrator"
         }
       ]
@@ -554067,11 +556117,31 @@
       ]
     },
     {
+      "cui": 44854560,
+      "denumire": "MARBO CONSTRUCT CONSULT",
+      "reprezentanti": [
+        {
+          "nume": "IONICHE CAMELIA-GABRIELA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 45175819,
       "denumire": "DCPD ESTATE S.R.L.",
       "reprezentanti": [
         {
           "nume": "GÎRDA GABRIEL-MARIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45408280,
+      "denumire": "DEDEMAN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "PETRESCU MARIAN",
           "calitate": "administrator"
         }
       ]
@@ -554873,6 +556943,16 @@
       ]
     },
     {
+      "cui": 51821400,
+      "denumire": "PATRATEL IMPEX S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "EYADA OBEID",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 34313126,
       "denumire": "COMIS EXPEDITION",
       "reprezentanti": [
@@ -555353,6 +557433,16 @@
         {
           "nume": "LĂZĂROAIE MIHAELA",
           "calitate": "administrator special"
+        }
+      ]
+    },
+    {
+      "cui": 45469440,
+      "denumire": "RMB INTER AUTO SRL",
+      "reprezentanti": [
+        {
+          "nume": "SMECICAŞ GHEORGHE",
+          "calitate": "administrator"
         }
       ]
     },
@@ -560415,6 +562505,16 @@
       ]
     },
     {
+      "cui": 40558660,
+      "denumire": "AXR ARCHITECTURE",
+      "reprezentanti": [
+        {
+          "nume": "CÎRSTINOIU ELENA-LILIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 41380195,
       "denumire": "ATANASIU & SKILLS",
       "reprezentanti": [
@@ -562474,6 +564574,16 @@
       "reprezentanti": [
         {
           "nume": "AVRAM MARIOARA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44695660,
+      "denumire": "ROCIP INSTAL",
+      "reprezentanti": [
+        {
+          "nume": "GHEORGHE MIHAI",
           "calitate": "administrator"
         }
       ]
@@ -567671,11 +569781,31 @@
       ]
     },
     {
+      "cui": 38968870,
+      "denumire": "ROAD MOND",
+      "reprezentanti": [
+        {
+          "nume": "ZBANȚ ȘTEFAN NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 38781790,
       "denumire": "BIT ENERGY SYSTEM SRL",
       "reprezentanti": [
         {
           "nume": "PREDA CORNELIU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 38971140,
+      "denumire": "PRO SYNTAX",
+      "reprezentanti": [
+        {
+          "nume": "NEACŞIU ANGELA-RODICA",
           "calitate": "administrator"
         }
       ]
@@ -567791,11 +569921,31 @@
       ]
     },
     {
+      "cui": 39522190,
+      "denumire": "PLUXEE ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "DINU MIHAELA IULIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 39588977,
       "denumire": "DARINA UNIC S.R.L.",
       "reprezentanti": [
         {
           "nume": "MARIŞ GHEORGHE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 39663890,
+      "denumire": "NEXT GENERATION TECHNOLOGIES S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "ION FLORENTIN IONUŢ",
           "calitate": "administrator"
         }
       ]
@@ -568341,6 +570491,26 @@
       ]
     },
     {
+      "cui": 43427820,
+      "denumire": "ELMIPET MARKETING S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "BOTEZATU ROBERT-IULIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43426930,
+      "denumire": "NCS PROJECT & DESIGN",
+      "reprezentanti": [
+        {
+          "nume": "ALEXANDRESCU BOGDAN IONUT",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 8695515,
       "denumire": "NIVA TRANSIMEX SRL",
       "reprezentanti": [
@@ -568736,6 +570906,16 @@
       "reprezentanti": [
         {
           "nume": "DINCĂ ELTON-ANDREI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44838620,
+      "denumire": "MUSIC SOUND ASSISTANCE",
+      "reprezentanti": [
+        {
+          "nume": "ASLAN EMBRAH-LAURENȚIU",
           "calitate": "administrator"
         }
       ]
@@ -569262,6 +571442,16 @@
       "reprezentanti": [
         {
           "nume": "FLORESCU MARIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47305710,
+      "denumire": "ENERGOGAN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "RADU-MIHAI PETRU-VASILE",
           "calitate": "administrator"
         }
       ]
@@ -570134,6 +572324,16 @@
         },
         {
           "nume": "MÎNDRU MARIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47772210,
+      "denumire": "APOLLO SOLAR ENERGY S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "RĂDULESCU ALEXANDRU",
           "calitate": "administrator"
         }
       ]
@@ -573001,6 +575201,16 @@
       ]
     },
     {
+      "cui": 5296900,
+      "denumire": "INDUSTRY TRANSILVAN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "GRECU MITRUS F. ELENA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 27932111,
       "denumire": "Cadimob SRL",
       "reprezentanti": [
@@ -573996,6 +576206,16 @@
       "reprezentanti": [
         {
           "nume": "SMARANDACHE GHEORGHE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 34663750,
+      "denumire": "SC Aldis SRL",
+      "reprezentanti": [
+        {
+          "nume": "DRĂGUŞIN LIANA-ANDREEA",
           "calitate": "administrator"
         }
       ]
@@ -575813,6 +578033,16 @@
       ]
     },
     {
+      "cui": 44453380,
+      "denumire": "DNS BIROTICA",
+      "reprezentanti": [
+        {
+          "nume": "BUSUIOCEANU MARIUS RĂZVAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 43909102,
       "denumire": "GREEN CYCLE S.R.L.",
       "reprezentanti": [
@@ -576268,6 +578498,16 @@
       "reprezentanti": [
         {
           "nume": "RADU STELICĂ",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46469430,
+      "denumire": "PLUXEE ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "PLATONOV ALBINA",
           "calitate": "administrator"
         }
       ]
@@ -585333,6 +587573,16 @@
       ]
     },
     {
+      "cui": 28457100,
+      "denumire": "VOPSESCU TRADE DISTRIBUTION",
+      "reprezentanti": [
+        {
+          "nume": "CORNEL POPA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 27427780,
       "denumire": "MYCAR LINE SERVICES",
       "reprezentanti": [
@@ -589673,6 +591923,16 @@
       ]
     },
     {
+      "cui": 42407230,
+      "denumire": "SC Concept Studio SRL",
+      "reprezentanti": [
+        {
+          "nume": "FURAK LEVENTE-CASSIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 27829133,
       "denumire": "S.C. S.C. MRB ELECTRIC S.R.L. S.R.L.",
       "reprezentanti": [
@@ -590064,6 +592324,26 @@
       "reprezentanti": [
         {
           "nume": "CRIȘAN MARIUS CĂLIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43845670,
+      "denumire": "DIAMISO CONSTRUCT",
+      "reprezentanti": [
+        {
+          "nume": "ZVÎNCĂ MARIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44170600,
+      "denumire": "OMV PETROM MARKETING",
+      "reprezentanti": [
+        {
+          "nume": "SAVAŞ TANIA-ELENA",
           "calitate": "administrator"
         }
       ]
@@ -593082,6 +595362,16 @@
       "reprezentanti": [
         {
           "nume": "STATIE ALEXANDRU ŞTEFAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 15686110,
+      "denumire": "BADUC",
+      "reprezentanti": [
+        {
+          "nume": "BADEA ALEXANDRU",
           "calitate": "administrator"
         }
       ]
@@ -596607,6 +598897,16 @@
       ]
     },
     {
+      "cui": 47939360,
+      "denumire": "AGROCOS GRECI S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "CIUBOTARIU CRISTIAN-OCTAVIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 25063551,
       "denumire": "GECOR",
       "reprezentanti": [
@@ -597291,6 +599591,16 @@
       ]
     },
     {
+      "cui": 50775950,
+      "denumire": "PRINT HOUSE ADVERTISING",
+      "reprezentanti": [
+        {
+          "nume": "BAICULESCU MIRCEA-IONUT",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 33750572,
       "denumire": "AVANTECH INTERACTIVE SYSTEMS",
       "reprezentanti": [
@@ -597400,6 +599710,16 @@
       "reprezentanti": [
         {
           "nume": "CRUCIAT IOANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 48747630,
+      "denumire": "SC ELDOMIR SRL",
+      "reprezentanti": [
+        {
+          "nume": "BUCUR MARIA RALUCA",
           "calitate": "administrator"
         }
       ]
@@ -601043,6 +603363,16 @@
       ]
     },
     {
+      "cui": 33468750,
+      "denumire": "FARMEXIM S.A.",
+      "reprezentanti": [
+        {
+          "nume": "MIHAI LENUŢA VERONICA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 33562080,
       "denumire": "REDTYB PROJECT CONS SRL-D",
       "reprezentanti": [
@@ -603405,6 +605735,16 @@
       ]
     },
     {
+      "cui": 48161850,
+      "denumire": "SICAL",
+      "reprezentanti": [
+        {
+          "nume": "TRINCĂ CRISTINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 47776025,
       "denumire": "DIALOG PRIMA CONSTRUCT S.R.L.",
       "reprezentanti": [
@@ -603594,6 +605934,16 @@
       "reprezentanti": [
         {
           "nume": "DUMITRU CRISTINEL-IONUȚ",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 48560150,
+      "denumire": "INSTAUDITOR S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "BAKOȘ ATTILA-ȘTEFAN",
           "calitate": "administrator"
         }
       ]
@@ -608093,6 +610443,16 @@
       ]
     },
     {
+      "cui": 36271450,
+      "denumire": "SC REVIS NOVI SRL",
+      "reprezentanti": [
+        {
+          "nume": "BIRTI GEORGE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 36348694,
       "denumire": "SPALATORIA AUTO VALI SRL",
       "reprezentanti": [
@@ -609341,6 +611701,16 @@
       ]
     },
     {
+      "cui": 43227180,
+      "denumire": "SC ARCANA CIVIL ENGINEERING SRL",
+      "reprezentanti": [
+        {
+          "nume": "SARU IONUŢ-ANDREI",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 15683696,
       "denumire": "SC ANDANAUTO SRL",
       "reprezentanti": [
@@ -609551,6 +611921,16 @@
       ]
     },
     {
+      "cui": 43677010,
+      "denumire": "EVENTS & BOOKING SOLUTIONS S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "RADU ROZALINA-VIOLETA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 33393186,
       "denumire": "MARKER Birotica SRL",
       "reprezentanti": [
@@ -609666,6 +612046,16 @@
       "reprezentanti": [
         {
           "nume": "TEREC MANUEL GEORGE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44853590,
+      "denumire": "TUSCHER & MILAS COMPANY",
+      "reprezentanti": [
+        {
+          "nume": "ALMOSDI ANDREEA-LILIANA",
           "calitate": "administrator"
         }
       ]
@@ -609996,6 +612386,16 @@
       "reprezentanti": [
         {
           "nume": "ROŞU GEORGIAN ROBERTO",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 47077060,
+      "denumire": "RIK",
+      "reprezentanti": [
+        {
+          "nume": "HAPCA GRIGORE-DORIN",
           "calitate": "administrator"
         }
       ]
@@ -612359,6 +614759,16 @@
       ]
     },
     {
+      "cui": 25739000,
+      "denumire": "DRV CONSULT SOLUTIONS S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "TRAŞCĂ RADU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 16394106,
       "denumire": "SC ROMFER TRANS SRL",
       "reprezentanti": [
@@ -613627,11 +616037,31 @@
       ]
     },
     {
+      "cui": 28452650,
+      "denumire": "FARMEXIM S.A.",
+      "reprezentanti": [
+        {
+          "nume": "TĂUŢAN CĂLIN MIREL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 30603372,
       "denumire": "S.C. ELECTRIC INVESTMENT PH S.R.L.",
       "reprezentanti": [
         {
           "nume": "FILIP DOREL CRISTIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 30545360,
+      "denumire": "STAR 2000 SA",
+      "reprezentanti": [
+        {
+          "nume": "HRIOR DUMITRU",
           "calitate": "administrator"
         }
       ]
@@ -615711,6 +618141,16 @@
       ]
     },
     {
+      "cui": 42658410,
+      "denumire": "CLIMTEH S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "BEŞLIU ANIA-COSTELA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 29505044,
       "denumire": "ANKELMAN TECH SRL",
       "reprezentanti": [
@@ -615746,6 +618186,16 @@
       "reprezentanti": [
         {
           "nume": "OANEA GEORGETA EUGENIA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 42788410,
+      "denumire": "KARCHER ROMANIA",
+      "reprezentanti": [
+        {
+          "nume": "ROȘIORU ELENA",
           "calitate": "administrator"
         }
       ]
@@ -616081,6 +618531,16 @@
       ]
     },
     {
+      "cui": 44474600,
+      "denumire": "SIRIUS DISTRIBUTION",
+      "reprezentanti": [
+        {
+          "nume": "NICOLA NELU",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 41285754,
       "denumire": "BREGSON S.R.L.",
       "reprezentanti": [
@@ -616231,6 +618691,16 @@
       ]
     },
     {
+      "cui": 44854480,
+      "denumire": "QUADRION TOUR",
+      "reprezentanti": [
+        {
+          "nume": "MITRU IONUȚ",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 23373882,
       "denumire": "SC VLASER SRL",
       "reprezentanti": [
@@ -616351,6 +618821,16 @@
       ]
     },
     {
+      "cui": 45623890,
+      "denumire": "SILVALEX EXPERT",
+      "reprezentanti": [
+        {
+          "nume": "MOISE CRISTIANA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 5725522,
       "denumire": "ENEA ALINA IMPEX SRL",
       "reprezentanti": [
@@ -616416,6 +618896,16 @@
       "reprezentanti": [
         {
           "nume": "TRETIU TRAIAN-FLORIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 46133420,
+      "denumire": "SPITALUL JUDETEAN DE URGENTA ALBA IULIA",
+      "reprezentanti": [
+        {
+          "nume": "ROȘU MARINA",
           "calitate": "administrator"
         }
       ]
@@ -616866,6 +619356,16 @@
       "reprezentanti": [
         {
           "nume": "HOINĂRESCU ANDREI-CORNELIUS",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45154760,
+      "denumire": "MEDA CONSULT",
+      "reprezentanti": [
+        {
+          "nume": "UNGURUȘAN CRISTIAN",
           "calitate": "administrator"
         }
       ]
@@ -623495,6 +625995,16 @@
       ]
     },
     {
+      "cui": 53133270,
+      "denumire": "TOP SKY VALUATION",
+      "reprezentanti": [
+        {
+          "nume": "State GEORGE  - CĂTĂLIN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 45034747,
       "denumire": "ZIAN INVEST CONSULT S.R.L.",
       "reprezentanti": [
@@ -628804,6 +631314,16 @@
       "reprezentanti": [
         {
           "nume": "MĂRGUŢĂ ALINA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 44862300,
+      "denumire": "SC EUSTEL PROD COM SRL",
+      "reprezentanti": [
+        {
+          "nume": "CÂNDEA ADRIANA",
           "calitate": "administrator"
         }
       ]
@@ -634695,6 +637215,16 @@
       ]
     },
     {
+      "cui": 40881970,
+      "denumire": "DEDEMAN S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "DUMITRACHE MIHAIL-LUCIAN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 40951706,
       "denumire": "EM MARELISA CADASTRU",
       "reprezentanti": [
@@ -635004,6 +637534,16 @@
       "reprezentanti": [
         {
           "nume": "PÂŢU DĂNUŢ-EUGEN",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 43545230,
+      "denumire": "PHI ELECTRO DISTRIBUTION",
+      "reprezentanti": [
+        {
+          "nume": "BARCAN ALIN-RAUL",
           "calitate": "administrator"
         }
       ]
@@ -635898,6 +638438,16 @@
       "reprezentanti": [
         {
           "nume": "IPATE NICOLAE",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 49351780,
+      "denumire": "VLADMARLAR",
+      "reprezentanti": [
+        {
+          "nume": "FILIPESCU FLORIN-ANDREI",
           "calitate": "administrator"
         }
       ]
@@ -641297,6 +643847,16 @@
       ]
     },
     {
+      "cui": 43404630,
+      "denumire": "INTERNRAIL FEROVIAR S.R.L.",
+      "reprezentanti": [
+        {
+          "nume": "STĂNESCU MARIA MÎNDRA",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
       "cui": 4900110,
       "denumire": "SC TDN IMEX SRL",
       "reprezentanti": [
@@ -641672,6 +644232,16 @@
       "reprezentanti": [
         {
           "nume": "RĂDULESCU DANIEL",
+          "calitate": "administrator"
+        }
+      ]
+    },
+    {
+      "cui": 45213700,
+      "denumire": "BAF FLATRANS",
+      "reprezentanti": [
+        {
+          "nume": "STOICA CRISTIAN CONSTANTIN",
           "calitate": "administrator"
         }
       ]

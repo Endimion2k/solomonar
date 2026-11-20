@@ -1,5 +1,5 @@
 {
-  "generat": "2026-09-27T14:59:39.253496+00:00",
+  "generat": "2026-11-20T08:03:29.046702+00:00",
   "declaratii": {
     "total": 146791,
     "avere": 77978,
@@ -8,7 +8,7 @@
   "companii_stat": {
     "total": 1256,
     "cu_reprezentanti": 1250,
-    "cu_bilant": 1174
+    "cu_bilant": 1197
   },
   "cv_uri": {
     "total": 1237,
@@ -23,8 +23,8 @@
     "parlamentari_companii": 3
   },
   "comisii_cdep": {
-    "plx": 2011,
-    "documente": 22115
+    "plx": 2165,
+    "documente": 23626
   },
   "motiuni": 175,
   "partide": {
@@ -32,25 +32,25 @@
     "subventii_inreg": 121,
     "rapoarte_rvc": 428,
     "subventie_totala_top": {
-      "PSD": 944609234.6200001,
-      "PNL": 624442213.12,
-      "USR": 288362344.47,
-      "AUR": 155433823.42000002,
-      "PMP": 42837380.20999999
+      "PSD": 965179820.6200001,
+      "PNL": 635641549.12,
+      "USR": 296311544.47,
+      "AUR": 167597534.42000002,
+      "PMP": 43128412.20999999
     }
   },
   "bugete": {
     "uat_inreg": 6389,
-    "bgc_luni": 32
+    "bgc_luni": 33
   },
   "gold": {
     "versiune": "v2 institution-aware",
-    "persoane_canonice": 109339,
+    "persoane_canonice": 109624,
     "parlamentari": 466,
     "incredere": {
       "high": 466,
       "context": 267,
-      "candidat": 108606
+      "candidat": 108891
     },
     "cross_links_total": 320,
     "cross_links_confirmate": 303,
@@ -60,14 +60,14 @@
     "firme_castigatoare": 11945,
     "follow_the_money_leaduri": 47,
     "confirmate_autodeclarate": 12,
-    "achizitii_directe_total": 33001961,
-    "furnizori_directe": 246864,
-    "valoare_directe_mld": 149.5,
+    "achizitii_directe_total": 36360484,
+    "furnizori_directe": 288583,
+    "valoare_directe_mld": 174.4,
     "persoane_cu_achizitii_directe": 57656
   },
   "audit": {
-    "dna_comunicate": 7689,
-    "dna_ro": 6781,
+    "dna_comunicate": 7716,
+    "dna_ro": 6799,
     "curtea_de_conturi": 11
   },
   "legislatie": {
@@ -75,7 +75,7 @@
   },
   "comisii_senat": {
     "comisii": 23,
-    "locuri": 322,
+    "locuri": 321,
     "senatori": 131
   },
   "actionariat": {
@@ -84,7 +84,7 @@
     "sursa": "BVB (gratis, listate)"
   },
   "search": {
-    "entitati": 110612
+    "entitati": 110897
   },
   "coverage": {
     "companii_cu_declaratii": 834,
@@ -104,16 +104,16 @@
     "engine": "DuckDB la build (efemer)"
   },
   "legislativ": {
-    "plx": 2011,
-    "plx_cu_initiatori_parlamentari": 1370,
-    "plx_guvern": 743,
+    "plx": 2165,
+    "plx_cu_initiatori_parlamentari": 1517,
+    "plx_guvern": 768,
     "legislatie_acte": 1051
   },
   "opensanctions": {
-    "entitati_ro": 7036,
-    "sanctiuni": 22,
-    "pep": 7014,
-    "in_graf": 1452
+    "entitati_ro": 7030,
+    "sanctiuni": 23,
+    "pep": 7007,
+    "in_graf": 1432
   },
   "rezolutie_splink": {
     "mentiuni": 91282,
@@ -122,8 +122,8 @@
     "acord_pct": 98.7
   },
   "firme_onrc": {
-    "total": 56773,
-    "cu_caen": 55000,
+    "total": 57147,
+    "cu_caen": 55335,
     "firme_noi_cu_bani_stat": 10175
   },
   "alerte": {
@@ -147,8 +147,8 @@
   },
   "companii": {},
   "reprezentanti": {
-    "companii_cu_reps": 55327,
-    "total_reps": 77806
+    "companii_cu_reps": 55560,
+    "total_reps": 78099
   },
   "guvernanta": {
     "companii": 121,
@@ -159,6 +159,6 @@
       "candidat": 52
     },
     "cumul": 76,
-    "sursa_generata": "2026-09-25T12:49:57.422836Z"
+    "sursa_generata": "2026-09-25T13:49:57.422836Z"
   }
 }

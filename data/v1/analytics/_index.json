@@ -1,11 +1,11 @@
 {
   "nota": "View-uri analitice generate de stratul gold DuckDB (build_duckdb.py). Engine relational la build; API ramane JSON static.",
   "tabele": {
-    "person": 109339,
+    "person": 109624,
     "company": 1256,
-    "person_company": 77806,
+    "person_company": 78099,
     "party": 17,
-    "committee_member": 322,
+    "committee_member": 321,
     "state_holding": 16,
     "direct_supplier": 50000
   },

@@ -1,15 +1,413 @@
 {
   "sursa": "DNA comunicate (dna.ro)",
-  "generated_at": "2026-09-27T10:08:09.185389+00:00",
-  "total": 7689,
+  "generated_at": "2026-11-19T19:46:05.764319+00:00",
+  "total": 7716,
   "pe_limba": {
-    "ro": 6781,
-    "en": 908
+    "ro": 6799,
+    "en": 917
   },
   "nota": "Comunicate de presă DNA; versiunile în engleză sunt marcate limba='en'. Hotărârile judecătorești anonimizate publicate prin același endpoint sunt excluse.",
-  "hotarari_si_pagini_excluse": 1519,
-  "nume_distincte": 4884,
+  "hotarari_si_pagini_excluse": 1570,
+  "nume_distincte": 4914,
   "data": [
+    {
+      "an": 2026,
+      "data": "19 noiembrie 2026",
+      "data_iso": "2026-11-19",
+      "limba": "ro",
+      "nr": "778/I-36",
+      "titlu": " Nr. 778/I-36 COMUNICAT Actualizare: 19.11.2026 La data de 19 noiembrie 2026, ca urmare a propunerii de arestare preventivă solicitată de procurorii anticorupți",
+      "nume_extrase": [
+        "BUȘU ATENA",
+        "MOGARU RALUCA MIHAELA"
+      ],
+      "id": 14077,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14077"
+    },
+    {
+      "an": 2026,
+      "data": "17 noiembrie 2026",
+      "data_iso": "2026-11-17",
+      "limba": "ro",
+      "nr": "774/I-36",
+      "titlu": " Nr. 774/I-36 COMUNICAT La data de 17 noiembrie 2026, judecătorul de drepturi și libertăți din cadrul Tribunalului Suceava a admis propunerea formulată de procu",
+      "nume_extrase": [],
+      "id": 14076,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14076"
+    },
+    {
+      "an": 2026,
+      "data": "November, 5 th , 2026",
+      "data_iso": "2026-11-05",
+      "limba": "en",
+      "nr": "vember",
+      "titlu": " No. 764/I-36 Press release Prosecutors from the National Anti-Corruption Directorate – Pitești Territorial Service have ordered the continuation of criminal pr",
+      "nume_extrase": [
+        "PĂUNESCU RAOUL ALEXANDRU",
+        "THE INFORMATION AND PUBLIC",
+        "RELATIONS OFFICE"
+      ],
+      "id": 14074,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14074"
+    },
+    {
+      "an": 2026,
+      "data": "05 noiembrie 2026",
+      "data_iso": "2026-11-05",
+      "limba": "ro",
+      "nr": "764/I-36",
+      "titlu": " Nr. 764/I-36 COMUNICAT Actualizare (05.11.2026): La data de 05 noiembrie 2026, ca urmare a propunerii de arestare preventivă solicitată de procurorii anticorup",
+      "nume_extrase": [
+        "PĂUNESCU RAOUL ALEXANDRU",
+        "BIROUL DE INFORM"
+      ],
+      "id": 14073,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14073"
+    },
+    {
+      "an": 2026,
+      "data": "4 noiembrie 2026",
+      "data_iso": "2026-11-04",
+      "limba": "ro",
+      "nr": "762/I-36",
+      "titlu": " Nr. 762/I-36 COMUNICAT La data de 4 noiembrie 2026, judecătorul de drepturi și libertăți din cadrul Tribunalului Brașov a admis propunerea formulată de procuro",
+      "nume_extrase": [
+        "BĂVIȚĂ DANIEL",
+        "TRUȘCĂ CONSTANTIN ALIN",
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 14072,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14072"
+    },
+    {
+      "an": 2026,
+      "data": "29 octombrie 2026",
+      "data_iso": "2026-10-29",
+      "limba": "ro",
+      "nr": "756/I-36",
+      "titlu": " Nr. 756/I-36 COMUNICAT Procurorii din cadrul Direcției Naționale Anticorupție – Serviciul teritorial Brașov au dispus punerea în mișcare a acțiunii penale și r",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 14067,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14067"
+    },
+    {
+      "an": 2026,
+      "data": "28 octombrie 2026",
+      "data_iso": "2026-10-28",
+      "limba": "ro",
+      "nr": "746/I-36",
+      "titlu": " Nr. 746/I-36 COMUNICAT Actualizare (28.10.2026): La data de 28 octombrie 2026, ca urmare a propunerii de arestare preventivă solicitată de procurorii anticorup",
+      "nume_extrase": [
+        "MORARU BENONE",
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 14057,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14057"
+    },
+    {
+      "an": 2026,
+      "data": "October, 23 rd , 2026",
+      "data_iso": "2026-10-23",
+      "limba": "en",
+      "nr": "708/I-36",
+      "titlu": " No. 708/I-36 Press release The prosecutors from the National Anti-corruption Directorate –Bacău Territorial Service have ordered the initiation of criminal pro",
+      "nume_extrase": [
+        "GABUR LUCIAN-NICOLAE"
+      ],
+      "id": 14056,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14056"
+    },
+    {
+      "an": 2026,
+      "data": "23 octombrie 2026",
+      "data_iso": "2026-10-23",
+      "limba": "ro",
+      "nr": "708/I-36",
+      "titlu": " Nr. 708/I-36 COMUNICAT Procurorii din cadrul Direcției Naționale Anticorupție – Serviciul Teritorial Bacău au dispus punerea în mișcare a acțiunii penale și lu",
+      "nume_extrase": [
+        "GABUR LUCIAN-NICOLAE"
+      ],
+      "id": 14050,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14050"
+    },
+    {
+      "an": 2026,
+      "data": "23 octombrie 2026",
+      "data_iso": "2026-10-23",
+      "limba": "ro",
+      "nr": "706/I-36",
+      "titlu": " Nr. 706/I-36 COMUNICAT Actualizare (23.10.2026): În data de 23 octombrie 2026, ca urmare a propunerii de arestare preventivă solicitată de procurorii anticorup",
+      "nume_extrase": [
+        "COZOȘ IOAN ANDREI"
+      ],
+      "id": 14049,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14049"
+    },
+    {
+      "an": 2026,
+      "data": "21 octombrie 2026",
+      "data_iso": "2026-10-21",
+      "limba": "ro",
+      "nr": "702/I-36",
+      "titlu": " Nr. 702/I-36 COMUNICAT În cauza mediatizată prin comunicatele nr. 740/VIII/3 și 742/VIII/3 din data de 6 noiembrie 2025, respectiv nr. 590/I-36 din data de 25 ",
+      "nume_extrase": [
+        "BARBU MIHAI",
+        "TRĂILĂ CRISTINA"
+      ],
+      "id": 14048,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14048"
+    },
+    {
+      "an": 2026,
+      "data": "October, 5 th , 2026",
+      "data_iso": "2026-10-05",
+      "limba": "en",
+      "nr": "662/I-36",
+      "titlu": " No. 662/I-36 Press release In the case publicised in the press release No. 658/I-36 of 5 October 2026 , prosecutors from the National Anti-Corruption Directora",
+      "nume_extrase": [
+        "BABICI ADIEL VIOREL",
+        "KIS MIHAI",
+        "HERȚEG VASILE-IOSIF",
+        "VIDA REMUS-VASILE",
+        "HENDRE NELU-GHEORGHE",
+        "URECHEAN SORIN-FLAVIU",
+        "GÎRBA MARIUS-ADRIAN",
+        "ȘICHET MARCEL-DOREL"
+      ],
+      "id": 14045,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14045"
+    },
+    {
+      "an": 2026,
+      "data": "October, 14 th , 2026",
+      "data_iso": "2026-10-14",
+      "limba": "en",
+      "nr": "698/I-36",
+      "titlu": " No. 698/I-36 Press release In the case publicized in press releases No. 658/I-36 of October 5, 2026 , and No. 662/I-36 of October 6, 2026 , prosecutors from th",
+      "nume_extrase": [
+        "GHIURĂU-SCHIESZ AURELIAN-FLORIN",
+        "DARIDA MIRCEA",
+        "NERGHEȘ RADU-ADRIAN",
+        "ILONCZAI SZILARD RICHARD",
+        "JUHASZ ATTILA",
+        "CĂPĂȚÂNĂ DANIEL-CONSTANTIN",
+        "CĂPĂȚÂNĂ ELENA-MĂDĂLINA"
+      ],
+      "id": 14044,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14044"
+    },
+    {
+      "an": 2026,
+      "data": "October, 14 th , 2026",
+      "data_iso": "2026-10-14",
+      "limba": "en",
+      "nr": "694/I-36",
+      "titlu": " No. 694/I-36 Press release Update (15.10.2026): On October 14, 2026, following a request for pre-trial detention filed by anti-corruption prosecutors, the judg",
+      "nume_extrase": [
+        "NIȚĂ MIHAI",
+        "DOBRE COSMIN",
+        "GRIGORE DAN-MIRCEA"
+      ],
+      "id": 14043,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14043"
+    },
+    {
+      "an": 2026,
+      "data": "October, 14 th , 2026",
+      "data_iso": "2026-10-14",
+      "limba": "en",
+      "nr": "696/I-36",
+      "titlu": " No. 696/I-36 Press release The prosecutors from the National Anticorruption Directorate – the Section for combatting corruption assimilated offences are conduc",
+      "nume_extrase": [
+        "THE INFORMATION AND PUBLIC",
+        "RELATIONS OFFICE"
+      ],
+      "id": 14042,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14042"
+    },
+    {
+      "an": 2026,
+      "data": "14 octombrie 2026",
+      "data_iso": "2026-10-14",
+      "limba": "ro",
+      "nr": "698/I-36",
+      "titlu": " Nr. 698/I-36 COMUNICAT În cauza mediatizată prin comunicatele nr. 658/I-36 din 5 octombrie 2026 și 662/I-36 din 6 octombrie 2026 , procurorii din cadrul Direcț",
+      "nume_extrase": [
+        "GHIURĂU-SCHIESZ AURELIAN-FLORIN",
+        "DARIDA MIRCEA",
+        "NERGHEȘ RADU-ADRIAN",
+        "ILONCZAI SZILARD RICHARD",
+        "JUHASZ ATTILA",
+        "CĂPĂȚÂNĂ DANIEL-CONSTANTIN",
+        "CĂPĂȚÂNĂ ELENA-MĂDĂLINA"
+      ],
+      "id": 14041,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14041"
+    },
+    {
+      "an": 2026,
+      "data": "14 octombrie 2026",
+      "data_iso": "2026-10-14",
+      "limba": "ro",
+      "nr": "696/I-36",
+      "titlu": " Nr. 696/I-36 COMUNICAT Procurorii din cadrul Direcției Naționale Anticorupție – Secția de combatere a infracțiunilor asimilate infracțiunilor de corupție efect",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 14040,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14040"
+    },
+    {
+      "an": 2026,
+      "data": "14 octombrie 2026",
+      "data_iso": "2026-10-14",
+      "limba": "ro",
+      "nr": "694/I-36",
+      "titlu": " Nr. 694/I-36 COMUNICAT Actualizare (15.10.2026): La data de 14 octombrie 2026, ca urmare a propunerii de arestare preventivă solicitată de procurorii anticorup",
+      "nume_extrase": [
+        "NIȚĂ MIHAI",
+        "DOBRE COSMIN",
+        "GRIGORE DAN-MIRCEA"
+      ],
+      "id": 14039,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14039"
+    },
+    {
+      "an": 2026,
+      "data": "13 octombrie 2026",
+      "data_iso": "2026-10-13",
+      "limba": "ro",
+      "nr": "692/I-36",
+      "titlu": " Nr. 692/I-36 COMUNICAT Ca răspuns la solicitările formulate de reprezentanții mass-media, Biroul de Informare și Relații Publice este abilitat să transmită urm",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 14034,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14034"
+    },
+    {
+      "an": 2026,
+      "data": "09 octombrie 2026",
+      "data_iso": "2026-10-09",
+      "limba": "ro",
+      "nr": "666/I-36",
+      "titlu": " Nr. 666/I-36 COMUNICAT Procurorii din cadrul Direcției Naționale Anticorupție – Secția de combatere a corupției au dispus punerea în mișcare a acțiunii penale ",
+      "nume_extrase": [],
+      "id": 14012,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14012"
+    },
+    {
+      "an": 2026,
+      "data": "08 octombrie 2026",
+      "data_iso": "2026-10-08",
+      "limba": "ro",
+      "nr": "664/I-36",
+      "titlu": " Nr. 664/I-36 BULETIN DE PRESĂ Prezentăm o selecție a unor dosare penale finalizate în lunile august și septembrie 2026 , care nu au fost mediatizate la zi, în ",
+      "nume_extrase": [
+        "BULETIN DE PRESĂ",
+        "LUPEȘ CRISTIAN",
+        "PREDA MĂRIOARA"
+      ],
+      "id": 14011,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14011"
+    },
+    {
+      "an": 2026,
+      "data": "October, 6 th , 2026",
+      "data_iso": "2026-10-06",
+      "limba": "en",
+      "nr": "660/I-36",
+      "titlu": " No. 660/I-36 Press release In response to inquiries from media representatives, the Information and Public Relations Office is authorized to issue the followin",
+      "nume_extrase": [
+        "CHIRICA MIHAI",
+        "TERMO SERVICE"
+      ],
+      "id": 14007,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14007"
+    },
+    {
+      "an": 2026,
+      "data": "06 octombrie 2026",
+      "data_iso": "2026-10-06",
+      "limba": "ro",
+      "nr": "662/I-36",
+      "titlu": " Nr. 662/I-36 COMUNICAT În cauza mediatizată prin comunicatul nr. 658/I-36 din 5 octombrie 2026 , procurorii din cadrul Direcției Naționale Anticorupție – Servi",
+      "nume_extrase": [
+        "BABICI ADIEL VIOREL",
+        "KIS MIHAI",
+        "HERȚEG VASILE-IOSIF",
+        "VIDA REMUS-VASILE",
+        "HENDRE NELU-GHEORGHE",
+        "URECHEAN SORIN-FLAVIU",
+        "GÎRBA MARIUS-ADRIAN",
+        "ȘICHET MARCEL-DOREL"
+      ],
+      "id": 14006,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14006"
+    },
+    {
+      "an": 2026,
+      "data": "06 octombrie 2026",
+      "data_iso": "2026-10-06",
+      "limba": "ro",
+      "nr": "660/I-36",
+      "titlu": " Nr. 660/I-36 COMUNICAT Ca răspuns la solicitările formulate de reprezentanții mass-media, Biroul de Informare și Relații Publice este abilitat să transmită urm",
+      "nume_extrase": [
+        "CHIRICA MIHAI",
+        "TERMO SERVICE"
+      ],
+      "id": 14005,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14005"
+    },
+    {
+      "an": 2026,
+      "data": "October, 5 th , 2026",
+      "data_iso": "2026-10-05",
+      "limba": "en",
+      "nr": "658/I-36",
+      "titlu": " No. 658/I-36 Press release In response to inquiries from media representatives, the Information and Public Relations Office is authorized to convey the followi",
+      "nume_extrase": [
+        "THE INFORMATION AND PUBLIC",
+        "RELATIONS OFFICE"
+      ],
+      "id": 14003,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14003"
+    },
+    {
+      "an": 2026,
+      "data": "5 octombrie 2026",
+      "data_iso": "2026-10-05",
+      "limba": "ro",
+      "nr": "658/I-36",
+      "titlu": " Nr. 658/I-36 COMUNICAT Ca răspuns la solicitările formulate de reprezentanții mass-media, Biroul de Informare și Relații Publice este abilitat să transmită urm",
+      "nume_extrase": [
+        "BIROUL DE INFORMARE ȘI",
+        "RELAȚII PUBLICE"
+      ],
+      "id": 14002,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14002"
+    },
+    {
+      "an": 2026,
+      "data": "September, 27 th , 2026",
+      "data_iso": "2026-09-27",
+      "limba": "en",
+      "nr": "652/I-36",
+      "titlu": " No. 652/I-36 Press release On the 26 th of September 2026, the Judge for Rights and Liberties of the Bucharest Tribunal granted the request for the pre-trial d",
+      "nume_extrase": [
+        "THE INFORMATION AND PUBLIC",
+        "RELATIONS OFFICE"
+      ],
+      "id": 14000,
+      "url": "https://www.dna.ro/comunicat.xhtml?id=14000"
+    },
     {
       "an": 2026,
       "data": "27 septembrie 2026",

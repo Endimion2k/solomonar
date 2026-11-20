@@ -28,7 +28,7 @@
         }
       ],
       "procent_stat": 87.7579,
-      "capitalizare_ron": "350.669.724,44",
+      "capitalizare_ron": "416.607.621,35",
       "capital_social_ron": "299.717.713,20"
     },
     {
@@ -55,7 +55,7 @@
         }
       ],
       "procent_stat": 82.498,
-      "capitalizare_ron": "15.956.961.992,60",
+      "capitalizare_ron": "18.008.140.471,80",
       "capital_social_ron": "3.016.438.940,00"
     },
     {
@@ -82,7 +82,7 @@
         }
       ],
       "procent_stat": 80.056,
-      "capitalizare_ron": "81.504.225.140,40",
+      "capitalizare_ron": "84.652.843.109,40",
       "capital_social_ron": "4.498.025.670,00"
     },
     {
@@ -109,7 +109,7 @@
         }
       ],
       "procent_stat": 70.0071,
-      "capitalizare_ron": "59.355.049.600,00",
+      "capitalizare_ron": "67.834.342.400,00",
       "capital_social_ron": "3.854.224.000,00"
     },
     {
@@ -163,7 +163,7 @@
         }
       ],
       "procent_stat": 58.6882,
-      "capitalizare_ron": "6.619.273.722,60",
+      "capitalizare_ron": "7.330.314.200,00",
       "capital_social_ron": "733.031.420,00"
     },
     {
@@ -190,7 +190,7 @@
         }
       ],
       "procent_stat": 58.5096,
-      "capitalizare_ron": "14.015.583.897,60",
+      "capitalizare_ron": "16.313.838.246,40",
       "capital_social_ron": "1.883.815.040,00"
     },
     {
@@ -205,14 +205,14 @@
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "123.164.496",
-          "procent": 18.3463,
+          "actiuni": "123.887.296",
+          "procent": 18.4539,
           "stat": false
         },
         {
-          "actionar": "Pers.Fizice",
-          "actiuni": "119.852.773",
-          "procent": 17.8528,
+          "actionar": "Pers. Fizice",
+          "actiuni": "119.129.973",
+          "procent": 17.7452,
           "stat": false
         },
         {
@@ -223,7 +223,7 @@
         }
       ],
       "procent_stat": 53.0172,
-      "capitalizare_ron": "1.247.346.078,32",
+      "capitalizare_ron": "1.264.800.867,36",
       "capital_social_ron": "67.133.804,00"
     },
     {
@@ -250,7 +250,7 @@
         }
       ],
       "procent_stat": 49.7849,
-      "capitalizare_ron": "16.892.761.949,00",
+      "capitalizare_ron": "17.656.756.208,00",
       "capital_social_ron": "3.395.530.040,00"
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "procent_stat": 20.698,
-      "capitalizare_ron": "72.780.027.123,74",
+      "capitalizare_ron": "82.313.712.183,62",
       "capital_social_ron": "6.231.166.705,80"
     },
     {
@@ -316,7 +316,7 @@
         }
       ],
       "procent_stat": 11.5739,
-      "capitalizare_ron": "1.904.466.787,02",
+      "capitalizare_ron": "1.821.246.389,60",
       "capital_social_ron": "1.664.407.948,32"
     },
     {
@@ -367,7 +367,7 @@
         }
       ],
       "procent_stat": 10.2111,
-      "capitalizare_ron": "992.152.997,65",
+      "capitalizare_ron": "1.006.428.580,35",
       "capital_social_ron": "356.889.567,50"
     },
     {
@@ -400,7 +400,7 @@
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "1.209.084.982,56",
+      "capitalizare_ron": "1.177.098.607,36",
       "capital_social_ron": "63.972.750,40"
     },
     {
@@ -439,7 +439,7 @@
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "146.610.095,46",
+      "capitalizare_ron": "149.673.589,99",
       "capital_social_ron": "21.882.103,80"
     },
     {
@@ -472,7 +472,7 @@
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "1.112.055.915,98",
+      "capitalizare_ron": "1.136.067.919,57",
       "capital_social_ron": "300.150.044,80"
     },
     {
@@ -487,25 +487,19 @@
         },
         {
           "actionar": "Pers. Fizice",
-          "actiuni": "44.910.884",
-          "procent": 16.1441,
-          "stat": false
-        },
-        {
-          "actionar": "ING LUXEMBOURG KJK BALKAN HOLDING SARL Loc. LUXEMBOURG LUX",
-          "actiuni": "29.709.950",
-          "procent": 10.6796,
+          "actiuni": "61.675.018",
+          "procent": 22.1701,
           "stat": false
         },
         {
           "actionar": "Pers. Juridice",
-          "actiuni": "459.916",
-          "procent": 0.1653,
+          "actiuni": "13.405.732",
+          "procent": 4.8189,
           "stat": false
         }
       ],
       "procent_stat": 0,
-      "capitalizare_ron": "180.824.085,00",
+      "capitalizare_ron": "152.448.613,20",
       "capital_social_ron": "27.819.090,00"
     }
   ]
