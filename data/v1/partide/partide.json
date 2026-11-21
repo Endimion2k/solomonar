@@ -1,5 +1,5 @@
 {
-  "total_partide": 17,
+  "total_partide": 19,
   "sursa": "subventii (EFOR/AEP) + RVC (Monitorul Oficial) + parlament",
   "partide": [
     {
@@ -325,11 +325,17 @@
           "doc_id": "310037",
           "url": "https://legislatie.just.ro/public/DetaliiDocument/310037",
           "venituri": 224829.1
+        },
+        {
+          "an": 2025,
+          "doc_id": "310039",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/310039",
+          "venituri": null
         }
       ],
       "nr_deputati": 0,
       "nr_senatori": 0,
-      "nr_rapoarte_rvc": 6
+      "nr_rapoarte_rvc": 7
     },
     {
       "cod": "ALDE",
@@ -341,10 +347,41 @@
         "2020": 14498479
       },
       "total_subventie_lei": 41011185,
-      "rapoarte_rvc": [],
+      "rapoarte_rvc": [
+        {
+          "an": 2020,
+          "doc_id": "241980",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/241980",
+          "venituri": 1159529.47
+        },
+        {
+          "an": 2021,
+          "doc_id": "254548",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/254548",
+          "venituri": 669147.0
+        },
+        {
+          "an": 2021,
+          "doc_id": "258205",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/258205",
+          "venituri": null
+        },
+        {
+          "an": 2022,
+          "doc_id": "267480",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267480",
+          "venituri": 884835.0
+        },
+        {
+          "an": 2023,
+          "doc_id": "282356",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/282356",
+          "venituri": 385583.0
+        }
+      ],
       "nr_deputati": 0,
       "nr_senatori": 0,
-      "nr_rapoarte_rvc": 0
+      "nr_rapoarte_rvc": 5
     },
     {
       "cod": "SOS",
@@ -415,6 +452,58 @@
       "nr_rapoarte_rvc": 3
     },
     {
+      "cod": "PRO",
+      "subventii_pe_an": {
+        "2020": 12380242,
+        "2021": 3412509,
+        "2022": 3735362.25,
+        "2023": 3340582.29,
+        "2024": 2937071.29
+      },
+      "total_subventie_lei": 25805766.83,
+      "rapoarte_rvc": [
+        {
+          "an": 2020,
+          "doc_id": "241973",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/241973",
+          "venituri": 2643994.45
+        },
+        {
+          "an": 2021,
+          "doc_id": "254476",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/254476",
+          "venituri": 490077.18
+        },
+        {
+          "an": 2022,
+          "doc_id": "267482",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267482",
+          "venituri": 249572.5
+        },
+        {
+          "an": 2023,
+          "doc_id": "282353",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/282353",
+          "venituri": 252471.0
+        },
+        {
+          "an": 2024,
+          "doc_id": "296970",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/296970",
+          "venituri": 78390.0
+        },
+        {
+          "an": 2025,
+          "doc_id": "309965",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/309965",
+          "venituri": 107.51
+        }
+      ],
+      "nr_deputati": 0,
+      "nr_senatori": 0,
+      "nr_rapoarte_rvc": 6
+    },
+    {
       "cod": "PDL",
       "subventii_pe_an": {
         "2008": 1599126,
@@ -446,6 +535,44 @@
       "nr_deputati": 0,
       "nr_senatori": 0,
       "nr_rapoarte_rvc": 0
+    },
+    {
+      "cod": "FD",
+      "subventii_pe_an": {
+        "2024": 810758.69,
+        "2025": 1030344,
+        "2026": 685332
+      },
+      "total_subventie_lei": 2526434.69,
+      "rapoarte_rvc": [
+        {
+          "an": 2022,
+          "doc_id": "267609",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267609",
+          "venituri": 270371.9
+        },
+        {
+          "an": 2023,
+          "doc_id": "302429",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/302429",
+          "venituri": 590901.31
+        },
+        {
+          "an": 2024,
+          "doc_id": "298369",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/298369",
+          "venituri": 4773111.24
+        },
+        {
+          "an": 2025,
+          "doc_id": "310991",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/310991",
+          "venituri": 175184.6
+        }
+      ],
+      "nr_deputati": 0,
+      "nr_senatori": 0,
+      "nr_rapoarte_rvc": 4
     },
     {
       "cod": "PFN",
@@ -502,11 +629,95 @@
           "doc_id": "310034",
           "url": "https://legislatie.just.ro/public/DetaliiDocument/310034",
           "venituri": 3155963.12
+        },
+        {
+          "an": 2020,
+          "doc_id": "242067",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/242067",
+          "venituri": 100628.0
+        },
+        {
+          "an": 2020,
+          "doc_id": "242077",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/242077",
+          "venituri": null
+        },
+        {
+          "an": 2020,
+          "doc_id": "241994",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/241994",
+          "venituri": null
+        },
+        {
+          "an": 2021,
+          "doc_id": "254536",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/254536",
+          "venituri": null
+        },
+        {
+          "an": 2021,
+          "doc_id": "254542",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/254542",
+          "venituri": 6300.0
+        },
+        {
+          "an": 2021,
+          "doc_id": "254547",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/254547",
+          "venituri": 27595.0
+        },
+        {
+          "an": 2022,
+          "doc_id": "267426",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267426",
+          "venituri": null
+        },
+        {
+          "an": 2022,
+          "doc_id": "267427",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267427",
+          "venituri": null
+        },
+        {
+          "an": 2022,
+          "doc_id": "267447",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267447",
+          "venituri": 58199.0
+        },
+        {
+          "an": 2023,
+          "doc_id": "282391",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/282391",
+          "venituri": null
+        },
+        {
+          "an": 2023,
+          "doc_id": "282297",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/282297",
+          "venituri": null
+        },
+        {
+          "an": 2024,
+          "doc_id": "296971",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/296971",
+          "venituri": null
+        },
+        {
+          "an": 2024,
+          "doc_id": "296976",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/296976",
+          "venituri": 241400.0
+        },
+        {
+          "an": 2025,
+          "doc_id": "309966",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/309966",
+          "venituri": null
         }
       ],
       "nr_deputati": 22,
-      "nr_senatori": 0,
-      "nr_rapoarte_rvc": 6
+      "nr_senatori": 10,
+      "nr_rapoarte_rvc": 20
     },
     {
       "cod": "PC",
@@ -522,10 +733,41 @@
         "2016": 43212
       },
       "total_subventie_lei": 1440009,
-      "rapoarte_rvc": [],
+      "rapoarte_rvc": [
+        {
+          "an": 2021,
+          "doc_id": "257885",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/257885",
+          "venituri": 100.0
+        },
+        {
+          "an": 2022,
+          "doc_id": "267479",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267479",
+          "venituri": 100.0
+        },
+        {
+          "an": 2023,
+          "doc_id": "282417",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/282417",
+          "venituri": 1500.0
+        },
+        {
+          "an": 2024,
+          "doc_id": "297051",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/297051",
+          "venituri": 8600.0
+        },
+        {
+          "an": 2025,
+          "doc_id": "310045",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/310045",
+          "venituri": 1450.0
+        }
+      ],
       "nr_deputati": 0,
       "nr_senatori": 0,
-      "nr_rapoarte_rvc": 0
+      "nr_rapoarte_rvc": 5
     },
     {
       "cod": "PRM",
@@ -533,10 +775,35 @@
         "2008": 968542
       },
       "total_subventie_lei": 968542,
-      "rapoarte_rvc": [],
+      "rapoarte_rvc": [
+        {
+          "an": 2020,
+          "doc_id": "267603",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267603",
+          "venituri": 0.0
+        },
+        {
+          "an": 2023,
+          "doc_id": "283215",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/283215",
+          "venituri": 0.0
+        },
+        {
+          "an": 2024,
+          "doc_id": "299157",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/299157",
+          "venituri": 0.0
+        },
+        {
+          "an": 2025,
+          "doc_id": "310177",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/310177",
+          "venituri": null
+        }
+      ],
       "nr_deputati": 0,
       "nr_senatori": 0,
-      "nr_rapoarte_rvc": 0
+      "nr_rapoarte_rvc": 4
     },
     {
       "cod": "UNPR",
@@ -574,10 +841,47 @@
         "2016": 3744
       },
       "total_subventie_lei": 61259,
-      "rapoarte_rvc": [],
+      "rapoarte_rvc": [
+        {
+          "an": 2020,
+          "doc_id": "243103",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/243103",
+          "venituri": 272259.0
+        },
+        {
+          "an": 2021,
+          "doc_id": "254406",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/254406",
+          "venituri": 119506.0
+        },
+        {
+          "an": 2022,
+          "doc_id": "267487",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/267487",
+          "venituri": 85517.89
+        },
+        {
+          "an": 2023,
+          "doc_id": "280692",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/280692",
+          "venituri": 153308.48
+        },
+        {
+          "an": 2024,
+          "doc_id": "297030",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/297030",
+          "venituri": 1078694.0
+        },
+        {
+          "an": 2025,
+          "doc_id": "310157",
+          "url": "https://legislatie.just.ro/public/DetaliiDocument/310157",
+          "venituri": 40455.53
+        }
+      ],
       "nr_deputati": 0,
       "nr_senatori": 0,
-      "nr_rapoarte_rvc": 0
+      "nr_rapoarte_rvc": 6
     }
   ]
 }

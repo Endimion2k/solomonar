@@ -1,6 +1,11 @@
 {
   "total_firme": 11945,
-  "sursa": "SICAP/ADR data.gov.ro 2023-2025",
+  "sursa": "SICAP/ADR data.gov.ro 2024-2025",
+  "ani": [
+    2024,
+    2025
+  ],
+  "nota_valori": "brute: valoarea lotului se repetă la fiecare ofertant",
   "firme": [
     {
       "cui": 2020223271,
@@ -108453,7 +108458,7 @@
     {
       "cui": 29877005,
       "nume": "Hospital Equipment S.R.L.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 6,
       "ani": [
         2024,
@@ -108463,7 +108468,7 @@
     {
       "cui": 4780567632,
       "nume": "INTETRA ELEKTRONIK SANAYI VE TICARET AS",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108472,7 +108477,7 @@
     {
       "cui": 32405479,
       "nume": "BIA OPTIME PRODUCTION S.R.L.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 3,
       "ani": [
         2025
@@ -108481,7 +108486,7 @@
     {
       "cui": 35762891,
       "nume": "ENERGOCONTACT SRL Vaslui",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 7,
       "ani": [
         2025
@@ -108490,7 +108495,7 @@
     {
       "cui": 18527411,
       "nume": "DISTRISTOC COMPREST",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108499,7 +108504,7 @@
     {
       "cui": 39278291,
       "nume": "EDN BIGBLUE FARMER S.R.L.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108508,7 +108513,7 @@
     {
       "cui": 4058919,
       "nume": "AGORA IMPORT EXPORT 40/",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108517,7 +108522,7 @@
     {
       "cui": 5690092,
       "nume": "TEHNOERG S.A.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108526,7 +108531,7 @@
     {
       "cui": 25936311,
       "nume": "NET FARMING S.R.L.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108535,7 +108540,7 @@
     {
       "cui": 18992106,
       "nume": "RADOX S.R.L.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108544,7 +108549,7 @@
     {
       "cui": 7305690,
       "nume": "ALVI SERV",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108553,7 +108558,7 @@
     {
       "cui": 33670503,
       "nume": "NOMAPREST DUO",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 8,
       "ani": [
         2025
@@ -108562,7 +108567,7 @@
     {
       "cui": 35270180,
       "nume": "SC PNC DINAMIC CONSTRUCT SRL",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108571,7 +108576,7 @@
     {
       "cui": 21294898,
       "nume": "SON-MAX SRL",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108580,7 +108585,7 @@
     {
       "cui": 37751805,
       "nume": "BPT TRADUCERI",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108589,7 +108594,7 @@
     {
       "cui": 29131314,
       "nume": "BEST ROMANS COMPANY SRL",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108598,7 +108603,7 @@
     {
       "cui": 35580180,
       "nume": "OPTIMAR CONSULT INVEST SRL",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108607,7 +108612,7 @@
     {
       "cui": 25955046,
       "nume": "SILENTIUM AETERNUM",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108616,7 +108621,7 @@
     {
       "cui": 12527609,
       "nume": "UPRUC CTR",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108625,7 +108630,7 @@
     {
       "cui": 26949220,
       "nume": "S.C. GLOBAL PLAST HORECA S.R.L.",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108634,7 +108639,7 @@
     {
       "cui": 14597252,
       "nume": "RESING GROUP",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108643,7 +108648,7 @@
     {
       "cui": 37012250,
       "nume": "SC VIACON STEEL SRL",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 4,
       "ani": [
         2025
@@ -108652,7 +108657,7 @@
     {
       "cui": 18218599,
       "nume": "CHIC ARHITECTURAL DESIGN",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108661,7 +108666,7 @@
     {
       "cui": 30644828,
       "nume": "NEROLI GENERAL SOLUTIONS",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 2,
       "ani": [
         2025
@@ -108670,7 +108675,7 @@
     {
       "cui": 39440155,
       "nume": "DROEXPERT DAVCONS",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108679,7 +108684,7 @@
     {
       "cui": 17744560,
       "nume": "Medicomp Lab",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025
@@ -108688,7 +108693,7 @@
     {
       "cui": 30950037,
       "nume": "ALL DISPOMEDICALS SRL",
-      "total_ron": 0,
+      "total_ron": 0.0,
       "nr_contracte": 1,
       "ani": [
         2025

@@ -1,11 +1,11 @@
 {
   "disclaimer": "Semnale de verificat, nu acuzații. Alertele sunt generate automat din date deschise, prin reguli fixe. Legătura dintre o firmă și o persoană se face de cele mai multe ori după nume, fără CNP, deci poate fi vorba de un omonim, mai ales la companiile mari. Fără verificare suplimentară se susțin doar conflictele confirmate, unde firma apare în propria declarație de interese a persoanei. Restul cer verificare manuală în ONRC, în declarațiile de interese și în SICAP. Valorile de contracte pot fi cumulate pe mai mulți ani.",
   "generat": "2026-11-20",
-  "total": 1765,
+  "total": 1746,
   "pe_severitate": {
     "mare": 12,
     "medie": 1656,
-    "mica": 97
+    "mica": 78
   },
   "pe_tip": {
     "conflict_confirmat": 12,
@@ -15,7 +15,7 @@
     "firma_noua_bani_stat": 1645,
     "outlier_valoare_contract": 4,
     "concentrare_persoana": 61,
-    "firma_mama_straina": 32
+    "firma_mama_straina": 13
   },
   "agregate": {
     "firme_noi_cu_bani_stat_total": 9353,
@@ -45978,60 +45978,6 @@
     {
       "tip": "firma_mama_straina",
       "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — Denira S.R.L.",
-      "entitate": {
-        "cui": 13254582,
-        "nume": "Denira S.R.L.",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "POP FLORIN-RAUL",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "POP ADRIANA-IOAN",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — DIDACT FORUM S.R.L.",
-      "entitate": {
-        "cui": 11064212,
-        "nume": "DIDACT FORUM S.R.L.",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "ZAMATOCZKY ISTVAN LASZLONE",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "NAGY ATTILA",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "ZAMATOCZKY LASZLO",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
       "titlu": "Firmă cu mamă în Austria cu bani de stat — Horiba GmbH Tulln Sucursala Pitesti",
       "entitate": {
         "cui": 25715841,
@@ -46048,43 +45994,6 @@
     {
       "tip": "firma_mama_straina",
       "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — COMPANIA DE APA OLTENIA SA",
-      "entitate": {
-        "cui": 11400673,
-        "nume": "COMPANIA DE APA OLTENIA SA",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "ROȘCA MARIAN OVIDIU",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "VINTILĂ MARIN",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "CÎMPEANU ADRIANA",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "MANOLESCU SILVIU-FLORIN",
-            "calitate": "reprezentant al persoanei juridice"
-          },
-          {
-            "nume": "COANDĂ TUDORIȚA",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
       "titlu": "Firmă cu mamă în Italia cu bani de stat — S.A.V.E.T. MONTERIGGIONI SUC AGIGEA",
       "entitate": {
         "cui": 42865830,
@@ -46094,84 +46003,6 @@
       "detalii": {
         "tara_mama": "Italia",
         "reprezentanti": []
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — CYBERNET AUTO CENTER S.R.L. BACAU - SUCURSALA NEAMT",
-      "entitate": {
-        "cui": 24620751,
-        "nume": "CYBERNET AUTO CENTER S.R.L. BACAU - SUCURSALA NEAMT",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": []
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — IRIDEX GROUP SALUBRIZARE SRL",
-      "entitate": {
-        "cui": 24342060,
-        "nume": "IRIDEX GROUP SALUBRIZARE SRL",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "ANGHEL DAN-TIBERIU",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "ANGHEL DAN-TIBERIU",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — CUPRU MIN SA ABRUD",
-      "entitate": {
-        "cui": 11551757,
-        "nume": "CUPRU MIN SA ABRUD",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "RADU MARCEL",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "DUICU ADRIAN OVIDIU",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "ROȘCA RADU CLAUDIU",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "CHIȚESCU BOGDAN ȘTEFAN",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "FABIAN-MĂRINCEAN IULIA",
-            "calitate": "administrator"
-          }
-        ]
       },
       "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
       "scor": 1
@@ -46209,64 +46040,6 @@
       "detalii": {
         "tara_mama": "Bulgaria",
         "reprezentanti": []
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — SOCIETATEA TIPOGRAFICĂ FILARET S.A.",
-      "entitate": {
-        "cui": 14547106,
-        "nume": "SOCIETATEA TIPOGRAFICĂ FILARET S.A.",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "RADU CLAUDIA-CARMEN",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "UNGUREANU MIHAI",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "POP IOAN",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "LAZĂR ION-PAUL",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "TIMIŞ IULIANA-ADRIANA",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — SC PROTGUARD BN SRL",
-      "entitate": {
-        "cui": 13253307,
-        "nume": "SC PROTGUARD BN SRL",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "TURCU IOAN",
-            "calitate": "administrator si reprezentant"
-          }
-        ]
       },
       "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
       "scor": 1
@@ -46327,56 +46100,6 @@
     {
       "tip": "firma_mama_straina",
       "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — REFRACERAM S.R.L.",
-      "entitate": {
-        "cui": 15776493,
-        "nume": "REFRACERAM S.R.L.",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "CRĂCIUNESCU PETRE",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — DRUMURI SI PODURI MURES",
-      "entitate": {
-        "cui": 1213309,
-        "nume": "DRUMURI SI PODURI MURES",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "MURESAN FLOREA LUCIA",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "MURESAN FLOREA MIRCEA",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "MUREŞAN DANIEL",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
       "titlu": "Firmă cu mamă în Ungaria cu bani de stat — UNIX AUTO S.R.L.",
       "entitate": {
         "cui": 10542416,
@@ -46391,97 +46114,6 @@
             "calitate": "administrator"
           }
         ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — SOCIETATEA COMERCIALA DE PRODUCTIE INDUSTRIALA DE APARATAJ, CENTRALIZARE SI TELECOMANDA CAI FERATE \"SPIACT ARAD\"",
-      "entitate": {
-        "cui": 14411340,
-        "nume": "SOCIETATEA COMERCIALA DE PRODUCTIE INDUSTRIALA DE APARATAJ, CENTRALIZARE SI TELECOMANDA CAI FERATE \"SPIACT ARAD\"",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "LEMNARU GHEORGHE",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "STOCKLOSA MIRELA IONELA",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "STOCKLOSA IULIU",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — CONPROIECT AKY S.R.L.",
-      "entitate": {
-        "cui": 15146323,
-        "nume": "CONPROIECT AKY S.R.L.",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "ACHIŢEI DANIEL IOAN",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — NOVARA T IMPEX",
-      "entitate": {
-        "cui": 11736925,
-        "nume": "NOVARA T IMPEX",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "TOMESCU MIHAI",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "TOMESCU VIORICA",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU INGINERIE ELECTRICĂ ICPE - CA BUCUREŞTI SUBUNITATEA ICEMENERG",
-      "entitate": {
-        "cui": 49042467,
-        "nume": "INSTITUTUL NAŢIONAL DE CERCETARE-DEZVOLTARE PENTRU INGINERIE ELECTRICĂ ICPE - CA BUCUREŞTI SUBUNITATEA ICEMENERG",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": []
       },
       "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
       "scor": 1
@@ -46505,31 +46137,6 @@
     {
       "tip": "firma_mama_straina",
       "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — SPIACT CLUJ",
-      "entitate": {
-        "cui": 14390868,
-        "nume": "SPIACT CLUJ",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "ELIS 7 SRL",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "SABĂU VASILE",
-            "calitate": "reprezentant al persoanei juridice"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
       "titlu": "Firmă cu mamă în Austria cu bani de stat — TK ELEVATOR EASTERN EUROPE GmbH VIENA SUCURSALA BUCURESTI",
       "entitate": {
         "cui": 43044949,
@@ -46539,52 +46146,6 @@
       "detalii": {
         "tara_mama": "Austria",
         "reprezentanti": []
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — KLEINON EDUTOUR S.R.L.",
-      "entitate": {
-        "cui": 41541380,
-        "nume": "KLEINON EDUTOUR S.R.L.",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "KLEINON S.R.L.",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "MICU GHEORGHE",
-            "calitate": "reprezentant al persoanei juridice"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — FIRERO SRL",
-      "entitate": {
-        "cui": 4727754,
-        "nume": "FIRERO SRL",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "SERB ANDREI-CRISTIAN",
-            "calitate": "administrator"
-          }
-        ]
       },
       "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
       "scor": 1
@@ -46608,35 +46169,6 @@
     {
       "tip": "firma_mama_straina",
       "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — ACTIVITATEA GOSCOM SA",
-      "entitate": {
-        "cui": 3186960,
-        "nume": "ACTIVITATEA GOSCOM SA",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
-        "reprezentanti": [
-          {
-            "nume": "LUPȘA ADRIAN MARCEL",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "ORZESCU CRISTINA",
-            "calitate": "administrator"
-          },
-          {
-            "nume": "PAȘCA IOAN",
-            "calitate": "administrator"
-          }
-        ]
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
       "titlu": "Firmă cu mamă în Austria cu bani de stat — CUI 25939245",
       "entitate": {
         "cui": 25939245,
@@ -46645,22 +46177,6 @@
       },
       "detalii": {
         "tara_mama": "Austria",
-        "reprezentanti": []
-      },
-      "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
-      "scor": 1
-    },
-    {
-      "tip": "firma_mama_straina",
-      "severitate": "mica",
-      "titlu": "Firmă cu mamă în România cu bani de stat — ARTA MODEI",
-      "entitate": {
-        "cui": 25396220,
-        "nume": "ARTA MODEI",
-        "tara_mama": "România"
-      },
-      "detalii": {
-        "tara_mama": "România",
         "reprezentanti": []
       },
       "provenance": "ONRC firmă-mamă × SICAP — context, nu neregulă",
