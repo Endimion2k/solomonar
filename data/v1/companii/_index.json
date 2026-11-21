@@ -141,9 +141,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BAZON DANIEL",
-        "KOSA IMOLA",
-        "NAGY ÉVA"
+        "B&B INSOLVENCY SOLUTION IPURL"
       ],
       "shareholders": [],
       "financials": {
@@ -479,7 +477,6 @@
         "BRUMĂ VASILE",
         "MIHAESCU MARIA",
         "PETCU SORIN",
-        "RADU RALUCA-IONELA",
         "STANCIU TIBERIU",
         "ŞERBAN IONUŢ"
       ],
@@ -533,7 +530,6 @@
         "GHEORGHIU BOGDAN VALENTIN",
         "HORGA MARIA-GABRIELA",
         "IRIMIA ALINA ROXANA",
-        "KENNETH SPITERI",
         "MĂRCUŢ ADRIAN",
         "PARASCHIV CRISTIAN",
         "PÎRVULESCU DUMITRU",
@@ -693,9 +689,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FEDOROVICI RAMONA IRINA",
-        "HANTELMANN VICTOR",
-        "VATAMANU CRISTIAN TIBERIUS"
+        "HANTELMANN VICTOR"
       ],
       "shareholders": [],
       "financials": {
@@ -832,7 +826,6 @@
       "legal_reps": [
         "AVRAMESCU ROXANA",
         "GHIȚĂ DANIEL",
-        "GRIGORE MIHAI",
         "ZAVINCU ADRIANA"
       ],
       "shareholders": [],
@@ -879,10 +872,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "RADU IONUŢ VICTOR",
-        "RADU IONUŢ-VICTOR",
-        "ZEGREA LAURENȚIU",
-        "ŞERBAN CRISTIAN"
+        "CĂPĂTOIU EUGENIA-ROXANA",
+        "RADU IONUŢ-VICTOR"
       ],
       "shareholders": [],
       "financials": {
@@ -916,8 +907,7 @@
       "bvb_listed": null,
       "financial_status": null,
       "legal_reps": [
-        "CIUREA INSOLV EXPERT IPURL",
-        "NITU CORNEL"
+        "CIUREA INSOLV EXPERT IPURL"
       ],
       "shareholders": [],
       "financials": {
@@ -967,7 +957,6 @@
         "COJOCARU SIMONA",
         "COTÎRŢĂ ANCA  MIHAELA",
         "COTÎRŢĂ ANCA- MIHAELA",
-        "NICOLESCU DANIELA",
         "SIMONA COJOCARU",
         "STĂNOIU LIVIU"
       ],
@@ -1015,16 +1004,12 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BACHIDE EDUARD",
-        "COMĂNESCU MARIA IULIA",
-        "CONSTANTINESCU ADRIAN CĂTĂLIN",
-        "COSTIN LUMINIŢA-MARINELA",
+        "CÂRNU FĂNICĂ",
         "IONICA ANGHEL FLORIAN",
-        "IONUŢ MIŞA",
         "LASCU MARIN EUGEN",
-        "MINCU RAZVAN",
-        "NASTA NICOLAE",
-        "SIMONA COJOCARU"
+        "LISENCHE ROBERT-ŞTEFAN",
+        "RUS ADRIAN-IOAN",
+        "VASILACHI DRAGOŞ-CĂTĂLIN"
       ],
       "shareholders": [],
       "financials": {
@@ -1070,10 +1055,12 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "ANGHEL GABRIELA",
         "BONDALICI MĂDĂLIN-MIHAI",
+        "BOZIAN CIPRIAN",
         "CATELIU DANIEL",
-        "CEAUŞESCU ANDREEA",
         "PRAHOVEANU ALINA",
+        "STOIAN MIRCEA",
         "ZAHARIA FLORIN - ALEXANDRU"
       ],
       "shareholders": [],
@@ -1116,7 +1103,6 @@
       "legal_reps": [
         "BUICĂ NICUŞOR-MARIAN",
         "BUICĂ NICUȘOR-MARIAN",
-        "CANTACUZ MAGDA-AURA",
         "CHIRTEŞ IOAN-CRISTIAN",
         "CLADOVEANU FLAVIUS-VALERIU",
         "NICA GABRIELA-ANDREEA",
@@ -1167,14 +1153,12 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BANCIU MIHAELA LEILA",
-        "DRĂGOI ANTOANELLA- MARIYEANE",
         "IFTIME MIHAI CIPRIAN",
         "MATEI CRISTINA",
         "NOVAC DIANA   OLIVIA",
         "PETOLEA FLORIN",
         "STANIU CONSTANTIN MĂDĂLIN",
-        "VIŞOIANU CORNELIU",
-        "ZEGREA EMANUEL"
+        "VIŞOIANU CORNELIU"
       ],
       "shareholders": [],
       "financials": {
@@ -1220,7 +1204,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "ARAGEA SILVIA",
         "BULUMAC FLORIN-GABRIEL",
         "BĂLĂCEANU CRISTINA-TEODORA",
         "CRISTESCU IOAN",
@@ -1231,7 +1214,6 @@
         "POCORA MIHAIL SILVIU",
         "POPESCU CRISTINA",
         "PREDA IRINA",
-        "ROȘCA DUMITRU-DAN",
         "TAPALAGĂ CONSTANTIN-CRISTIAN",
         "VLAICU DAN",
         "VLAŞCU ADRIAN-CASIAN",
@@ -1283,7 +1265,7 @@
       "legal_reps": [
         "COVALIU ELISABETA",
         "MINEA FLORIN",
-        "STEJEROIU CARMEN-GABRIELA"
+        "PĂUN GHEORGHE"
       ],
       "shareholders": [],
       "financials": {
@@ -1429,6 +1411,7 @@
       "bvb_listed": true,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "COLOMAR ADRIAN-JAN",
         "IOANA MARIUS",
         "MACAVEIU MIHAI-ION",
         "MINA CAMELIA-ANDREEA",
@@ -1579,12 +1562,11 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "BALAS MIRCEA",
+        "GABRIELA ANGHEL",
         "LUPEA GHEORGHE",
         "MANU ION",
         "MISCHIE DUMITRU",
-        "POPA IOANA",
-        "STAN ANCA   MARIA",
-        "TEREC CĂLIN-GHEORGHE",
+        "TANASE IULIA GABRIELA",
         "TUDOR CONSTANTIN"
       ],
       "shareholders": [],
@@ -1632,7 +1614,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "COSTAȘ BOGDAN",
-        "MACAVEIU IOAN",
         "MĂRIȘTEANU CRISTIAN",
         "ONESCU SIMONA",
         "VODĂ DARIUS-GEORGEL",
@@ -1682,11 +1663,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BRANIŞTE FELIX   FLORIN",
-        "CORDOŞ ALEXANDRU",
-        "GHEORGHE CONSTANTIN GABRIEL",
-        "LUCACI SORIN",
-        "PETCU MONICA AURELIANA"
+        "BORDEI CRISTIAN",
+        "CONSTANTIN DRAGOŞ - OCTAVIAN",
+        "COZAC SOFIA - ELENA",
+        "GHINESCU MIHAI",
+        "JIDA MIHAI"
       ],
       "shareholders": [],
       "financials": {
@@ -1734,10 +1715,12 @@
       "legal_reps": [
         "BĂLAN CORNELIU-PETRE",
         "CHEŢA VOICU",
+        "CHEȚA VOICU",
         "CHIRIAC CRISTINA",
         "DOROBANTU GEORGE-DUMITRU",
         "FĂNIŢĂ GABRIELA-ALINA",
         "GRIGORESCU MIHAI",
+        "HASCHKA LUIZA MIHAELA",
         "HASCHKA LUIZA-MIHAELA",
         "LIVEZEANU DANIEL",
         "MÎNDRICAN MIHAI",
@@ -1840,8 +1823,7 @@
       "legal_reps": [
         "BUZU CORNELIU",
         "MIHAI CONSTANTIN-MARIAN",
-        "NEGHINĂ FLORIN-AUREL",
-        "ROȘU VASILE"
+        "NEGHINĂ FLORIN-AUREL"
       ],
       "shareholders": [],
       "financials": {
@@ -1887,10 +1869,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALIC DELI MARIA",
-        "ARDELEAN NELU",
-        "DUICU ADRIAN OVIDIU",
-        "LUPEA IULIANA"
+        "CHISĂLIȚĂ IOAN-NARCIS",
+        "MATEI CRISTINA",
+        "SPÂNU ION"
       ],
       "shareholders": [],
       "financials": {
@@ -1938,7 +1919,6 @@
       "legal_reps": [
         "COSTACHE ALEXANDRA-ANDREEA",
         "DIACONU IULIAN",
-        "POPA VIORICA",
         "RUSU COSMIN-ALEXANDRU",
         "SMARANDACHE SIMONA",
         "TUTUNARU NICOLAE"
@@ -1989,8 +1969,7 @@
       "legal_reps": [
         "ANDREI FLORIN",
         "BREZOI CONSTANTIN-GEORGE",
-        "COZAC SOFIA-ELENA",
-        "PARASCHIV AURELIA"
+        "COZAC SOFIA-ELENA"
       ],
       "shareholders": [],
       "financials": {
@@ -2280,9 +2259,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "MURĂRAŞU ELENA",
-        "MUŞAT IULIANA",
-        "NICHIFOR ELENA-ANDREEA"
+        "MUŞAT Iuliana",
+        "NICHIFOR ELENA-ANDREEA",
+        "ŞERBAN MUGUREL"
       ],
       "shareholders": [],
       "financials": {
@@ -2331,7 +2310,7 @@
         "ANDREI IONUŢ-VALERIU",
         "COMAN CONSTANŢA",
         "MIHAI CONSTANTIN",
-        "ZEGREA LAURENŢIU",
+        "MITU ANCA",
         "ŢÎRA IOANA-MARIA"
       ],
       "shareholders": [],
@@ -2429,7 +2408,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "GUZUN ALEXANDRU",
-        "MIHĂILESCU ION",
+        "NICOLAESCU ANDREI-CRISTIAN",
         "TANȚĂU MIRCEA-PETRU",
         "VIȘAN ALEXANDRA"
       ],
@@ -2479,9 +2458,7 @@
       "legal_reps": [
         "COLOMAR ADRIAN-JAN",
         "FĂNIȚĂ GABRIELA-ALINA",
-        "MIHĂILESCU ION",
         "POCORA MIHAIL SILVIU",
-        "TEREC CĂLIN-GHEORGHE",
         "VIŞOIANU CORNELIU"
       ],
       "shareholders": [],
@@ -2528,10 +2505,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FARA REPREZENTANT",
         "FLOREA ELENA CLAUDIA",
         "MARIN DUMITRU",
-        "MIHĂILESCU ION",
         "MIRON ADRIANA-LAURA",
         "PÎRCĂLĂBESCU RĂZVAN-MARIAN"
       ],
@@ -2627,7 +2602,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ION MARIUS-IRINEL",
-        "MORAR IOAN-DAN",
         "SPÂNU ION",
         "VASILESCU ALEXANDRU-CRISTIAN"
       ],
@@ -2676,10 +2650,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ALBU RADU-CRISTIAN",
-        "COSTIN LUMINIȚA-MARINELA",
         "ION MARIUS-IRINEL",
-        "PÎRCĂLĂBESCU RĂZVAN-MARIAN",
-        "RUSU GHEORGHE"
+        "PÎRCĂLĂBESCU RĂZVAN-MARIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -2727,7 +2699,6 @@
       "legal_reps": [
         "BĂDULESCU EMANUEL REMUS",
         "DOBRE FLORIN",
-        "TEREC CĂLIN-GHEORGHE",
         "VIŞAN ALEXANDRA"
       ],
       "shareholders": [],
@@ -2826,7 +2797,6 @@
         "COTIGĂ MIHAELA",
         "MISCHIE DUMITRU",
         "NĂSTASE CORNELIA",
-        "TEREC CĂLIN-GHEORGHE",
         "ȘENDRONI AUREL"
       ],
       "shareholders": [],
@@ -2921,12 +2891,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "LUNGU DUMITRU",
-        "NEGRUȚIU SIMONA-ADELA",
-        "NICĂLĂU BUCUR-GHEORGHE",
+        "BOZIAN CIPRIAN",
         "RADU GABRIEL",
-        "SAVA MARIUS CRISTIAN",
-        "STAN ADRIANA FLORINA"
+        "SAVA MARIUS CRISTIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -2974,8 +2941,8 @@
       "legal_reps": [
         "BRIE OLIMPIU-MIHAIL",
         "MACAVEIU IOAN",
-        "TEODORESCU CARMEN-ARETA",
-        "TUDOSE MARIANA"
+        "NICOLAESCU ANDREI-CRISTIAN",
+        "PETRU ANDREEA ELENA"
       ],
       "shareholders": [],
       "financials": {
@@ -3021,12 +2988,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "DRAGOMIR ADRIAN - VIOREL",
-        "GEANTĂ FLORIAN - DANIEL",
-        "JURCUŢ LAURA - MIHAELA",
-        "MAIORESCU MIRCEA - ADRIAN",
-        "POPA IOANA",
-        "ROMAŞCU LAURA"
+        "BAIAS GAVRILĂ MARIUS",
+        "GHEORGHE ALEXANDRU COSMIN",
+        "MIHAI LAURA-DANIELA",
+        "MĂLUREANU LIVIU",
+        "STRATAN DAN ARTUR"
       ],
       "shareholders": [],
       "financials": {
@@ -3072,11 +3038,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COSTACHE LAURENȚIU",
-        "COZMA OLIVIA-MIHAELA",
-        "FILIP COSMIN",
-        "SÂRBU ANCA",
-        "TURCU TUDOR-IOAN"
+        "MOLDOVEANU ANY-NADINE",
+        "MĂLUREANU LIVIU",
+        "TAMAȘ IOLANDA"
       ],
       "shareholders": [],
       "financials": {
@@ -3122,10 +3086,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "GRAD GABRIEL-MARIUS",
-        "PETCU MONICA-AURELIANA",
-        "ROVENŢA MIHAI-GEORGE",
-        "STĂNOIU ELENA-ECATERINA"
+        "BARBU OCTAVIAN",
+        "GIESSWEIN CRISTIN",
+        "PETRU ANDREEA ELENA"
       ],
       "shareholders": [],
       "financials": {
@@ -3174,8 +3137,7 @@
         "BĂDIȚĂ DANIELA",
         "MICACIU ALEXANDRU CĂTĂLIN",
         "ROF MARIUS NICOLAE",
-        "TAMAS-SZORA ATILA",
-        "ȘENDRONI AUREL"
+        "TAMAS-SZORA ATILA"
       ],
       "shareholders": [],
       "financials": {
@@ -3224,10 +3186,9 @@
         "LEABU CĂTĂLIN-AUREL",
         "MARIN DUMITRU",
         "MOISOIU CRISTIAN MARIUS",
-        "NEGRUȚIU SIMONA-ADELA",
         "NICĂLĂU BUCUR GHEORGHE",
         "OPREA CRISTINA-ELENA",
-        "TANȚĂU MIRCEA-PETRU"
+        "VOINESCU MAGDALENA"
       ],
       "shareholders": [],
       "financials": {
@@ -3564,13 +3525,11 @@
       "bvb_listed": true,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BENGHEA MĂLĂIEȘ ANDREI GABRIEL",
         "CAZAN LAURENŢIU NICOLAE",
         "CHIRLEŞAN DUMITRU",
         "GRĂJDAN VASILICA",
         "IONIŢĂ GHEORGHE",
-        "POPA NINA",
-        "ŞUŞNEA FLORENTINA"
+        "POPA NINA"
       ],
       "shareholders": [],
       "financials": {
@@ -3621,10 +3580,9 @@
         "BADEA BOGDAN NICOLAE",
         "BOBIRCĂ ANA-BARBARA",
         "CONSTANTIN RADU-IOAN",
-        "JAN MIKAEL OLSSON",
-        "KHAN FARRUKH ZAFAR",
         "MERDAN EMIL",
         "NAFTALI DANIEL-ADRIAN",
+        "PLAVETI IULIUS-DAN",
         "POPESCU CĂTĂLIN VLĂDUȚ",
         "RADU CARMEN",
         "RĂDOI IANĂŞ",
@@ -3778,7 +3736,6 @@
       "legal_reps": [
         "GUŢĂ ROBERT CIPRIAN",
         "POPESCU GEORGIANA",
-        "STANCIU-STOIAN MARIN",
         "TĂLĂU IOANA"
       ],
       "shareholders": [],
@@ -3825,7 +3782,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FURDEA OLGA-CARMEN",
+        "BRÎNZAN ADELA",
         "JIANU DORINA",
         "MOȚA IUSTIN"
       ],
@@ -3877,7 +3834,6 @@
         "CIUCUR IONUŢ",
         "MERAN ŞTEFAN-DAN",
         "PAVEL MIRELA-ADRIANA",
-        "ROTARU FLORIN",
         "VĂDUVA SILVIU"
       ],
       "shareholders": [],
@@ -3926,13 +3882,10 @@
       "legal_reps": [
         "BALACCIU OANA-CRISTINA",
         "CHILEA CRISTINA ELLA",
-        "DOBRICA ANCA  IOANA",
         "FOGHIS ADRIAN GEORGE",
-        "IRINA ANA - SMARANDITA",
         "MUSTAFA SINAN",
         "POPESCU ELENA",
-        "TUDOR LAURENŢIU - DAN",
-        "ŢÎRDEA ANDREI ALEXANDRU"
+        "TUDOR LAURENŢIU - DAN"
       ],
       "shareholders": [],
       "financials": {
@@ -4037,11 +3990,10 @@
         "DĂIANU ADRIAN",
         "IONIȚĂ ION-VALERIU",
         "MARINESCU CONSTANTIN-ADRIAN",
-        "MUSTAFA SINAN",
-        "PLAVETI IULIUS-DAN",
+        "PETRONIU ION",
         "POPESCU LUMINIȚA GEORGETA",
-        "SEFERIS CHRISTODOULOS CONSTANDINOU",
-        "TRUFELEA CONSTANTIN-COSMIN"
+        "TRUFELEA CONSTANTIN-COSMIN",
+        "VINTILĂ MIHAI-ADRIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -4091,8 +4043,7 @@
         "BUDA GHEORGHE",
         "MARINESCU DAN-CONSTANTIN",
         "POŞA MARIUS-VIOREL",
-        "ROȘU IOAN-CRISTIAN",
-        "ȘENDRONI AUREL"
+        "ROȘU IOAN-CRISTIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -4138,12 +4089,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BONDALICI MĂDĂLIN-MIHAI",
-        "CHIRIŢĂ SORIN",
         "COSTINA ANDREI-IOAN",
-        "MANOLESCU FLORIN",
         "MARINESCU DAN CONSTANTIN",
-        "SCARLAT FLORIN DAN"
+        "POPESCU DOINA"
       ],
       "shareholders": [],
       "financials": {
@@ -4242,12 +4190,10 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ANDREI JEAN-VASILE",
-        "BADIU ANDREI",
         "CHIRIŢĂ SORIN",
-        "EMMANOUILIDIS ALEXANDROS",
-        "FOGHIS ADRIAN GEORGE",
+        "FOGHIŞ ADRIAN GEORGE",
         "NANCU DUMITRU",
-        "TOMA FLORIN",
+        "POPESCU DOINA",
         "VĂDAN LAURA EUGENIA"
       ],
       "shareholders": [],
@@ -4295,7 +4241,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CIORNEA ANCA-ISABELA",
-        "DEACONESCU FLORIN",
         "NIȚULESCU PAVEL CASIAN",
         "ȚĂRÎNDĂ ILEANA"
       ],
@@ -4344,7 +4289,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ANTON CRISTIAN-IOAN",
-        "CEAUȘESCU ANDREEA",
         "CERNEA MIHNEA - VALERIU",
         "GEORGESCU IONEL",
         "IONESCU MIRELA",
@@ -4397,7 +4341,6 @@
       "legal_reps": [
         "BĂCĂINȚAN CRISTINA",
         "DOBRE RALUCA",
-        "FOGHIȘ ADRIAN-GEORGE",
         "VLĂSCEANU SILVIA"
       ],
       "shareholders": [],
@@ -4445,8 +4388,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ANTON CRISTIAN-IOAN",
-        "CHILEA ELLA CRISTINA",
         "CHILEA ELLA-CRISTINA",
+        "CHIRIŢĂ SORIN",
         "PURICĂ IONUŢ",
         "ROIBU DRAGOȘ-ȘTEFAN",
         "SARAGEA CONSTANTIN"
@@ -4497,7 +4440,6 @@
       "legal_reps": [
         "CASA DE INSOLVENTA GMC SPRL",
         "INFINEXA RESTRUCTURING SPRL FILIALA BUCUREŞTI",
-        "SEFERIS CHRISTODOULOS CONSTANDINOU",
         "VOICAN LORENA"
       ],
       "shareholders": [],
@@ -4545,8 +4487,8 @@
       "financial_status": "INACTIVĂ",
       "legal_reps": [
         "BĂLU OVIDIU",
-        "POPOVICI MIHAELA",
-        "TOMA SERGIU"
+        "JIANU DORINA",
+        "POPOVICI MIHAELA"
       ],
       "shareholders": [],
       "financials": {
@@ -4622,10 +4564,10 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BRANIŞTE FELIX FLORIN",
         "FARA DAN-CORNEL",
         "MARSAVINA LIVIU",
-        "SÂRBU ANCA"
+        "NEGRU ANTONIE MARIUS",
+        "NIȚULESCU PAVEL-CASIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -4671,10 +4613,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FÂRTAT SEBASTIAN",
-        "KHAN FARRUKH ZAFAR",
-        "MEDREA BOGDAN",
-        "VINTILĂ MARIUS-ŞTEFAN"
+        "BRANIŞTE FELIX-FLORIN",
+        "GRECU MARIUS-CRISTIAN",
+        "LEVENDI DINCA"
       ],
       "shareholders": [],
       "financials": {
@@ -4722,7 +4663,7 @@
       "legal_reps": [
         "BUD ANA-MARIA",
         "BURCEA EUGEN",
-        "CIOBANU IONEL"
+        "TELICEANU CLAUDIU DANIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -4770,7 +4711,6 @@
       "legal_reps": [
         "DRAGU MARIUS-ALEXANDRU",
         "MOTOC ELENA",
-        "PARASCHIV AURELIA",
         "ROȘCA DANIEL-ANDREI-GEORGE"
       ],
       "shareholders": [],
@@ -4817,9 +4757,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDRIAN VASILE",
         "GHEORGHE MĂDĂLINA",
-        "MIREA IOANA-ALINA",
+        "LĂDUNCĂ CIPRIAN",
+        "MIRON MARIA-MIRABELA",
         "MORARU LIVIU-ALEXANDRU",
         "STERIU VALERIU-ANDREI",
         "TOADER SORIN",
@@ -4869,13 +4809,13 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDRIAN VASILE",
         "BADEA DORIN-ALEXANDRU",
         "BURLĂ ALINA-IOANA",
         "COSTEA CIPRIAN-DAN",
         "IONESCU-FELEAGĂ LILIANA",
         "JIANU FLORIN-NICOLAE",
-        "LEONTE CĂTĂLIN"
+        "LEONTE CĂTĂLIN",
+        "STĂNICĂ NICOLAE-CRISTIAN"
       ],
       "shareholders": [],
       "financials": []
@@ -4915,7 +4855,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUTUCARU RĂZVAN",
         "FUDULEA STERICĂ",
         "GAVRILAS MIRELA",
         "NIŢU MĂRIOARA"
@@ -4947,7 +4886,6 @@
       "financial_status": null,
       "legal_reps": [
         "FLORESCU ADRIAN RAZVAN",
-        "FURTUNA CEZAR-GABRIEL",
         "MICU ANDREI RAZVAN",
         "OLTEAN GABRIEL VASILE",
         "PATRICHE CEZAR-FLAVIAN",
@@ -5039,26 +4977,20 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "BOGDAN ALEXANDRA",
         "BOHALTEANU TUDOR - GABRIEL",
-        "CHRISTODOULOS CONSTANDINOU SEVERIS",
         "COJOCARU LUCIAN",
         "COMAN VASILE",
-        "CRĂCIUN RADA-COSMINA",
-        "GURGUIATU ELENA",
+        "COSTEA TITUS   CIPRIAN",
         "HIDEGCUTI IOAN",
-        "JUHÁSZ JÁCINT-ATTILA",
         "KLEININGER ELENA",
         "MEDAN ROMEO - MARCEL",
+        "PETRE ALINA - MIRELA",
         "POPESCU IONEL",
         "PRESECAN NICOLAE",
         "SARAMET AUREL",
-        "SIMION ANDREEA ROXANA",
-        "STANICA NICOLAE - CRISTIAN",
-        "STĂNICĂ NICOLAE-CRISTIAN",
-        "SURCEL ANDREIA-MAGDALENA",
-        "SĂNDULESCU LAURA-ANDREEA",
-        "TOADER ŞERBAN-CRISTIAN",
-        "VARGA CSABA"
+        "STAICU MIRCEA-CRISTIAN",
+        "STANICA NICOLAE - CRISTIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -5104,13 +5036,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUTUCARU RĂZVAN",
-        "CHIOREAN IOAN-CIPRIAN",
-        "LIANU IONUŢ",
-        "LUCHIAN CAMELIA",
-        "PINTEA ADRIAN",
-        "POPESCU RADU",
-        "TOMA ALINA-MIHAELA"
+        "CHIOREAN ION CIPRIAN",
+        "LAZĂR DIANA",
+        "LISENCHE ROBERT - ŞTEFAN",
+        "TOMA ALINA - MIHAELA",
+        "ŞELARU VLADIMIR - MIHAI"
       ],
       "shareholders": [],
       "financials": []
@@ -5200,8 +5130,6 @@
         "ANDREI SIMONA",
         "BADEA CIPRIAN SEBASTIAN",
         "CÎRCIUMARU NICOLETA - MIOARA",
-        "FURTUNA CEZAR GABRIEL",
-        "IUGA VASILE",
         "MAVRODIN TIBERIU-VALENTIN",
         "MIRELA IOVU",
         "NEACŞU BOGDAN-CONSTANTIN",
@@ -5249,8 +5177,7 @@
         "ACHIM DAN",
         "CHIŞĂLIŢĂ ION",
         "COZMANCIUC CORNELIU - MUGUREL",
-        "IONESCU SPERANŢA-GEORGETA",
-        "LISTOSCHI CORINA"
+        "IONESCU SPERANŢA-GEORGETA"
       ],
       "shareholders": [],
       "financials": {
@@ -5296,14 +5223,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ARAT OANA-MARIE",
-        "BRUMĂ VASILE",
-        "DIACONU ANDREEA",
-        "DULCEAȚĂ TEODOR",
-        "IONESCU SPERANŢA-GEORGETA",
-        "MATEESCU ELENA",
-        "MOCANU DORINA   SIMONA",
-        "TUDOSE MARIANA"
+        "CRĂCIUN RADA COSMINA",
+        "DULCEAȚĂ TEODOR"
       ],
       "shareholders": [],
       "financials": {
@@ -5350,10 +5271,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BONIFATE MĂDĂLINA-ANCA",
-        "FARA REPREZENTANT",
         "IAVOR IONUŢ-SEBASTIAN",
         "LUNGU CĂTĂLIN",
-        "MIREA IOANA ALINA",
         "NANI IOAN",
         "NOVAC ANDREI-TIBERIU",
         "POPESCU CĂTĂLIN CODRUŢ",
@@ -5404,14 +5323,10 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "AMARIE PATRICIA-MONICA",
-        "COSTEA ALINA SANDA",
-        "DOBRE ADRIAN-MARIUS",
-        "LUNGU CĂTĂLIN",
+        "DOBRE ADRIAN - MARIUS",
         "MIHĂILESCU CIPRIAN-TEODOR",
-        "POPA DĂNUŢ-CRISTIAN",
-        "TUDOSE LAURENŢIU-CONSTANTIN",
-        "ZAHARIA VIORELA"
+        "POPA DĂNUŢ - CRISTIAN",
+        "TUDOSE LAURENŢIU - CONSTANTIN"
       ],
       "shareholders": [],
       "financials": {
@@ -5714,11 +5629,11 @@
         "ANGHEL ALEXANDRU",
         "CORNEANU BOGDAN DRAGOS",
         "HAMZA MIRCEA",
-        "ILEA GEORGE-BOGDAN",
+        "ILEA GEORGE BOGDAN",
         "IONESCU MIHAI VICTOR",
         "MATEI GEORGE",
         "MIKE EDUARD",
-        "MÎNDRESCU BOGDAN-STELIAN",
+        "MÎNDRESCU BOGDAN STELIAN",
         "NASTASE MIRELA GABRIELA",
         "NEACŞU MIHAI",
         "NICOLESCU IOAN",
@@ -5728,9 +5643,7 @@
         "STAMATE FLORIAN",
         "STEFANESCU GABRIEL - MARIAN",
         "STOICA NICOLAE OCTAVIAN",
-        "TAROPA LUCIAN-DOREL",
-        "TĂNASE LUMINIȚA-MARINELA",
-        "ŞTEFĂNESCU RELA-NICOLETA"
+        "TAROPA LUCIAN DOREL"
       ],
       "shareholders": [],
       "financials": {
@@ -5778,8 +5691,7 @@
       "legal_reps": [
         "COSTEA IONUŢ",
         "MATEI RAZVAN MARIAN",
-        "MUNTEANU ȘTEFĂNIȚĂ",
-        "RISTEA FLORENTINA"
+        "MUNTEANU ȘTEFĂNIȚĂ"
       ],
       "shareholders": [],
       "financials": {
@@ -5825,7 +5737,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "CEAUȘESCU ANDREEA",
         "CHIPER MARIAN-MARIUS",
         "DAMIAN ION",
         "MAŞALA IONUŢ-LAURENŢIU",
@@ -5931,7 +5842,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COZMANCIUC CORNELIU - MUGUREL",
         "FLUTUR SORIN-GEORGEL",
         "MICU GEORGE",
         "POPA GABRIEL",
@@ -5983,8 +5893,7 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "CII IORGULESCU GABRIEL",
-        "SABĂU GABRIELA",
-        "ŞENDRONI AUREL"
+        "SABĂU GABRIELA"
       ],
       "shareholders": [],
       "financials": {
@@ -6036,7 +5945,6 @@
         "DIACONU CĂTĂLIN",
         "DRĂGAN MIHAI",
         "LUNGOCI DUMITRU-LUCIAN",
-        "SEFERIS CHRISTODOULOS CONSTANDINOU",
         "TEODORESCU MIHAI"
       ],
       "shareholders": [],
@@ -6239,14 +6147,11 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BRÎNZĂ VLĂDUȚ",
-        "CONSTANTIN RALUCA MARIA",
         "COSTEA MARCELA DANIELA",
         "DĂNĂILĂ ANGELICA",
         "FĂTU SIMONA CARMEN",
         "FĂTU SIMONA-CARMEN",
-        "MUNTEANU ANETA",
-        "TIVILICHI NICOLAE-DAN",
-        "VOICU ION LAURENŢIU"
+        "TIVILICHI NICOLAE-DAN"
       ],
       "shareholders": [],
       "financials": {
@@ -6343,7 +6248,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "COSTEA IONUȚ",
-        "DRĂGOI ANTONELLA-MARIYEANE",
         "HANGANU AIDA",
         "MANOLE MIHAIL VICTOR",
         "PREOTEASA TRAIAN",
@@ -6393,6 +6297,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "DUMITRU IONELIA",
         "LAZĂR ION-PAUL",
         "POP IOAN",
         "RADU CLAUDIA-CARMEN",
@@ -6494,7 +6399,6 @@
       "legal_reps": [
         "CEŞA PETRU",
         "CHIPER MARIAN-MARIUS",
-        "COSTIN LUMINIŢA-MARINELA",
         "MICU CRISTIAN-ALEXANDRU",
         "MĂNTESCU IULIAN- FLORIN",
         "PIPA GEORGE-RADU",
@@ -6601,8 +6505,7 @@
         "MARCU MIREL ALEXANDRU",
         "MIHALACHE COSTIN",
         "MIU CONSTANTIN",
-        "PISTOL CRISTIAN OVIDIU CATALIN",
-        "STOICA MARCEL ALEXANDRU"
+        "PISTOL CRISTIAN OVIDIU CATALIN"
       ],
       "shareholders": [],
       "financials": {
@@ -6840,7 +6743,6 @@
       "bvb_listed": null,
       "financial_status": null,
       "legal_reps": [
-        "MAN GHEORGHE- ALEXANDRU",
         "RESSOLVE IPURL"
       ],
       "shareholders": [],
@@ -6938,11 +6840,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDRIAN VASILE",
-        "COJOCARU TEODOR",
+        "DIMITRIU ANDREI VICTOR",
         "ENE ALIN",
         "PARASCHIV CRISTIAN",
-        "SOARE VERONICA"
+        "SOARE VERONICA",
+        "VLĂSCEANU SILVIA"
       ],
       "shareholders": [],
       "financials": {
@@ -7015,7 +6917,6 @@
         "DUMITRU FLORIN VICTOR",
         "ILAŞI LIVIU",
         "IVAN ŞTEFAN-VALERIU",
-        "KHAN FARRUKH ZAFAR",
         "MARCU CORNELIU-BOGDAN",
         "MIHALCEA FĂNEL",
         "MITRICĂ ALIN-SORIN",
@@ -7091,10 +6992,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "ANDREI GABRIELA",
         "BOLINTINEANU GHEORGHE",
         "BĂESCU DECEBAL",
-        "ISPIR RALUCA CRISTINA",
-        "MANOLESCU FLORIN"
+        "COZMANCIUC CORNELIU-MUGUREL",
+        "ISPIR RALUCA CRISTINA"
       ],
       "shareholders": [],
       "financials": {
@@ -7129,7 +7031,6 @@
       "financial_status": null,
       "legal_reps": [
         "BALACI DANIEL",
-        "DIACONESCU ADRIANA",
         "MEKKAOUI ALIA",
         "MORARIU VASILE MARIUS"
       ],
@@ -7181,7 +7082,6 @@
         "DIMITRIU VICTOR-ANDREI",
         "ENE ALIN",
         "IONESCU MIRELA",
-        "OBADĂ CĂLIN MIHAI",
         "SOARE VERONICA"
       ],
       "shareholders": [],
@@ -7280,8 +7180,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BENGHEA-MĂLĂIEȘ ANDREI-GABRIEL",
-        "ROȘCA RADU-CLAUDIU",
-        "TROCAN LAURENȚIU"
+        "TROCAN LAURENŢIU",
+        "VOICU BOGDAN LAURENTIU"
       ],
       "shareholders": [],
       "financials": {
@@ -7321,7 +7221,6 @@
       "bvb_listed": true,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BUTEICĂ MARIANA",
         "EMIL GROS",
         "EXPERT INSOLVENTA SPRL FILIALA BUCURESTI",
         "MUNTEANU AURORA-SPERANŢA"
@@ -7408,6 +7307,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "CORLEA VISTIAN IOAN",
         "CRIȘAN VASILE",
         "GĂISEANU DANA",
         "ROȘIAN RADU CĂLIN"
@@ -7492,13 +7392,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BULGĂR IONEL",
-        "GLIGOR TRAIAN",
-        "JUCAN ALIN ALEXANDRU",
-        "LOMBREA VASILE",
-        "MARTA ALIN ALEXANDRU",
-        "PANDOR TRAIAN",
-        "PENCIU IOAN RADU"
+        "MARTA ALIN ALEXANDRU"
       ],
       "shareholders": [],
       "financials": {
@@ -7881,8 +7775,6 @@
         "BĂLȚAT SEBASTIAN-DUȘAN",
         "DRAGOŞ-BOTOȘAN CORINA-MARINELA",
         "GODJA CLAUDIU PETRU",
-        "GYURICZA SEBASTIAN-IULIU",
-        "ILIE OVIDIU",
         "NIȚĂ DANIEL OCTAVIAN",
         "PETRILA COSMIN IOAN",
         "STANCU OANA-ANTOANELA"
@@ -7967,9 +7859,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FURDEA OLGA-CARMEN",
         "GANTNER CRISTIAN",
-        "HRISTOV CONSTANTIN"
+        "HRISTOV CONSTANTIN",
+        "JENESCU ANDA-CRISTIANA"
       ],
       "shareholders": [],
       "financials": {
@@ -8009,11 +7901,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COSTEA ALINA TEODORA",
-        "GALI IZABELLA",
-        "GHIB IOAN LUCIAN",
-        "MORAR IOAN FLORIN",
-        "TABUIA ROXANA-ADRIANA"
+        "CHIRILOV ADRIANA",
+        "HRISTOV CONSTANTIN",
+        "NEAMȚIU CORNELIU PAUL"
       ],
       "shareholders": [],
       "financials": {
@@ -8227,9 +8117,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "DRONCA NICOLAE",
-        "FEIEŞ GHEORGHE CLAUDIU",
         "MIHALACHE CRISTINA DANIELA",
-        "PÎRV RAUL-ŞTEFAN",
+        "SIDA ANA-MARIA-LAURA",
         "VASII VASILE"
       ],
       "shareholders": [],
@@ -8431,8 +8320,7 @@
         "CISMAŞ ELENA",
         "IERCOŞAN COSMIN MIHAI",
         "MAN NICOLAE",
-        "MOŞ MARCEL-RAUL",
-        "ŞENDRONI AUREL"
+        "MOŞ MARCEL-RAUL"
       ],
       "shareholders": [],
       "financials": {
@@ -8796,7 +8684,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COSTI BOBY",
         "FARAGO ROMULUS-IOAN",
         "KRISTOF EDINA-ANA",
         "STOICU MIHAELA-NARCISA"
@@ -8881,9 +8768,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CIOCNITU EDUARD-DUMITRU",
-        "ILINESCU LILIANA",
-        "STOICEA ALIN-MIHAIL"
+        "CIOCNITU EDUARD DUMITRU",
+        "ILINA IONELA",
+        "STOICEA ALIN MIHAIL"
       ],
       "shareholders": [],
       "financials": {
@@ -8923,9 +8810,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "ANTONESCU AURELIA-GABRIELA",
         "CORCODEL IONUŢ",
-        "FALCĂ-MATEI NICOLAE-DORIN",
-        "RAINEA ALIN-MARIAN"
+        "FALCĂ-MATEI NICOLAE-DORIN"
       ],
       "shareholders": [],
       "financials": {
@@ -9009,7 +8896,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "POPA CONSTANTIN-ADRIAN"
+        "POPA CONSTANTIN ADRIAN",
+        "RAINEA ALIN-MARIAN",
+        "SMEU RODICA"
       ],
       "shareholders": [],
       "financials": {
@@ -9217,10 +9106,9 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CONWAY ADRIANA",
-        "MIHĂILESCU CIPRIAN-TEODOR",
         "MIHĂILESCU ILEANA-CLAUDIA",
         "STANCIU DUMITRU",
-        "STOICESCU MIHAI DANIEL"
+        "SUHAN VICTOR-ION"
       ],
       "shareholders": [],
       "financials": {
@@ -9380,6 +9268,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "COLCEA SILVIU-NICUŞOR",
         "COMUNA DOBREŞTI PRIN CONSILIUL LOCAL DOBREŞTI"
       ],
       "shareholders": [],
@@ -9704,8 +9593,7 @@
         "MATEI LAZĂR-GHEORGHE",
         "ROTARU MANUEL-VASILE",
         "SANDU MARIA-MONICA",
-        "UNGUREANU MIHAELA",
-        "ŞENDRONI AUREL"
+        "UNGUREANU MIHAELA"
       ],
       "shareholders": [],
       "financials": {
@@ -9880,8 +9768,7 @@
         "BĂDOIU ALIN-ALEXANDRU",
         "COSTESCU CĂTĂLIN",
         "SABIE GHEORGHE GABRIEL",
-        "TRUICĂ CONSTANTIN",
-        "ŞENDRONI AUREL"
+        "TRUICĂ CONSTANTIN"
       ],
       "shareholders": [],
       "financials": {
@@ -10243,7 +10130,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "DUMITRESCU CORINA-IONELA",
+        "DUMITRESCU CORINA IONELA",
         "MINCIUNĂ ION-MUGUREL"
       ],
       "shareholders": [],
@@ -10646,7 +10533,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CALINCIUC MIOARA",
         "CONSTANTIN DORU",
         "FILIP BOGDAN",
         "ILIȘANU CLAUDIU-AUGUSTIN",
@@ -10739,7 +10625,6 @@
       "financial_status": "OPACĂ",
       "legal_reps": [
         "DRAGOMIR FLORIN",
-        "IANCU MIHAELA ELENA",
         "LUNCANU CLARA",
         "NECULA COSMIN",
         "POPA SEBASTIAN-DUMITRU",
@@ -10912,7 +10797,6 @@
         "BĂNCILĂ MARIUS-ALEXANDRU",
         "CATINCA VIOREL",
         "GAMAN ADRIAN-IONUŢ",
-        "PRĂJIȘTEANU ANIȘOARA",
         "ŢÎRU LILIANA-GABRIELA"
       ],
       "shareholders": [],
@@ -11071,6 +10955,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "BALCANU DORIN",
         "LEOLEACĂ LENUŢA",
         "PĂUN SILVIU BOGDAN"
       ],
@@ -11113,6 +10998,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BOBOC MIRELA-SIMONA",
+        "OANCEA TUDOREL-PĂSTOREL",
         "STOEAN MIHAI ROMEO",
         "STOEAN MIHAI-ROMEO",
         "ŞERBAN DANIEL"
@@ -11155,11 +11041,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "BALINT IOANA MARIANA",
         "CUPȘA IOAN",
-        "DRĂGHICIU ALEXANDRA-CRISTINA",
-        "JIDAV TUDOR",
-        "OLARI IULIA-TEODORA",
-        "POPUŞ DAN-ADRIAN"
+        "MARCU FLORIN MARIUS",
+        "OLARI IULIA TEODORA",
+        "SILAGHI TEODORA ALINA"
       ],
       "shareholders": [],
       "financials": {
@@ -11199,8 +11085,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "JURCA ROXANA-CĂTĂLINA",
-        "LEZEU DOREL",
+        "MARCU FLORIN-MARIUS",
+        "MICULA GEORGE-COSMIN",
         "POPA LIDIA",
         "TEAHA OCTAVIAN-COSMIN"
       ],
@@ -11327,8 +11213,7 @@
         "BORDAS KAROLY",
         "HODIȘAN SORIN-DUMITRU",
         "JURCUȚ VASILE",
-        "LAZEA COSTEL",
-        "ZĂPODEANU DANIELA-MARIOARA"
+        "LAZEA COSTEL"
       ],
       "shareholders": [],
       "financials": {
@@ -11368,11 +11253,11 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BARBARIC ADRIAN-GABRIEL",
-        "BICA IOAN",
+        "Barbaric ADRIAN-GABRIEL",
         "LELE FLORIN",
-        "NOJEA ALIN-ALEXANDRU",
-        "POP LEONTIN"
+        "PALI ȘTEFAN",
+        "POP LEONTIN",
+        "RETI LUCIAN-PETRU"
       ],
       "shareholders": [],
       "financials": {
@@ -11412,7 +11297,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BEJUŞCA CRISTIAN-FLORIAN"
+        "BEJUŞCA CRISTIAN FLORIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -11579,8 +11464,7 @@
         "LEUCA-LATA CAMELIA- ADRIANA",
         "MOGOROASE CRISTINA",
         "ROBEL PETER",
-        "SANYO ELISABETA-CAROLINA",
-        "ZĂPODEANU DANIELA-MARIOARA"
+        "SANYO ELISABETA-CAROLINA"
       ],
       "shareholders": [],
       "financials": {
@@ -11624,8 +11508,7 @@
         "KINDLE WALTER",
         "NAGY LASZLO",
         "PAL CSABA-ZSOLT",
-        "SANYO ELISABETA-CAROLINA",
-        "SĂLĂJAN GABRIEL-COSMIN"
+        "SANYO ELISABETA-CAROLINA"
       ],
       "shareholders": [],
       "financials": {
@@ -11667,8 +11550,7 @@
       "legal_reps": [
         "BOR ANIKO-TIMEA",
         "CSER ATTILA",
-        "KAKOCZ EMILIA",
-        "ZĂPODEANU DANIELA-MARIOARA"
+        "KAKOCZ EMILIA"
       ],
       "shareholders": [],
       "financials": {
@@ -11997,8 +11879,7 @@
       "legal_reps": [
         "DUCA LIANA",
         "GHINTE DAN",
-        "MATEI DAN-OVIDIU",
-        "ZĂPODEANU DANIELA-MARIOARA"
+        "MATEI DAN-OVIDIU"
       ],
       "shareholders": [],
       "financials": {
@@ -12451,8 +12332,7 @@
         "FONOAGE VASILE",
         "GROZA MIHAI-DAN",
         "HAȘ NADIA RAMONA",
-        "OROS CLAUDIU-ROMULUS",
-        "ȘENDRONI AUREL"
+        "OROS CLAUDIU-ROMULUS"
       ],
       "shareholders": [],
       "financials": {
@@ -12496,7 +12376,6 @@
         "BRAGHINĂ IOANA-MONICA",
         "BÂRSAN IOAN",
         "DEHELEAN CRISTIAN",
-        "MOCAN DIANA-CORINA",
         "NICA ROMEO-EMILIAN",
         "NICORUŢ MARIUS COSMIN",
         "POPUŞ DAN ADRIAN",
@@ -12675,9 +12554,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "HAȘ NADIA-RAMONA",
-        "NICA ROMEO-EMILIAN",
-        "OROS CLAUDIU-ROMULUS"
+        "CODREANU MONICA DIANA",
+        "DEHELEAN CRISTIAN",
+        "HAȘ NADIA-RAMONA"
       ],
       "shareholders": [],
       "financials": {
@@ -12959,7 +12838,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "DAVID GEORGE-FLORIN"
+        "POPA CRISTIAN-DANIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -13454,7 +13333,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MORARU RĂZVAN-IONUȚ"
+        "STANA ADRIAN-NICOLAIE"
       ],
       "shareholders": [],
       "financials": {
@@ -13618,9 +13497,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "HEBRIȘTEAN SEBASTIAN GABRIEL",
-        "PALLAG RODICA BERNADETT",
-        "Popescu VERONICA-RENATE"
+        "HEBRIȘTEAN SEBASTIAN-GABRIEL",
+        "PALLAG RODICA-BERNADETT",
+        "POPESCU VERONICA-RENATE"
       ],
       "shareholders": [],
       "financials": {
@@ -13743,7 +13622,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BILIUS RUXANDRA IULIANA",
         "BĂTINAȘ DANA",
         "KOZUK ANDREI-IOAN",
         "NICULAE CRISTIAN-MARIUS",
@@ -14167,7 +14045,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BODEA VERONICA",
         "BOZGA GEORGETA LENUȚA",
         "MOIȘAN CORINA MARINA",
         "POP IOAN",
@@ -14252,7 +14129,7 @@
       "legal_reps": [
         "JAUCA ALEXANDRU-IOAN",
         "POP MAXIM",
-        "VOICU MARIUS GEORGE"
+        "VOICU MARIUS GHEORGHE"
       ],
       "shareholders": [],
       "financials": {
@@ -14293,6 +14170,7 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "BODEA VERONICA",
+        "IENCIU DĂNUȚ IOAN",
         "POP DANIEL IOAN",
         "TIMOCE GRIGORE VASILE",
         "ZĂGREAN GRIGORE"
@@ -14513,12 +14391,11 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BOSOVICI CĂLIN-GEORGE",
-        "ISPAS BOGDAN",
+        "CIOATĂ CEZAR",
         "MERGHIDAN CONSTANTIN-OVIDIU",
         "OLARU CĂTĂLIN-CRISTIAN",
         "TANASĂ PETRU-ALBERT",
-        "VARASCIUC BOGDAN-CĂTĂLIN",
-        "VLĂGEA ELISABETA"
+        "VARASCIUC BOGDAN-CĂTĂLIN"
       ],
       "shareholders": [],
       "financials": {
@@ -14880,8 +14757,7 @@
         "AVRAM IONEL",
         "BĂLAN MIHAELA",
         "LUPȘA ELENA -CRISTINA",
-        "SURDU MARIUS-RADU",
-        "TĂNASE LUMINIŢA-MARINELA"
+        "SURDU MARIUS-RADU"
       ],
       "shareholders": [],
       "financials": {
@@ -14968,7 +14844,6 @@
         "CARANICA GEORGE-MARIUS",
         "GURGU VASILICA",
         "ICHIM SILVIA",
-        "IONAȘCU MARIA",
         "MOTOC RADU-GEORGE",
         "STÎNGĂ IULIAN-FLORENTIN"
       ],
@@ -15016,8 +14891,7 @@
         "DRĂGAN ION",
         "DRĂGUȚ MELUȚA",
         "GRIGORE IONELA-VIORICA",
-        "STOIAN DANIEL",
-        "SĂVESCU JENICA"
+        "STOIAN DANIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -15257,12 +15131,10 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "AGAFIŢEI GABRIELA",
-        "BARABÁS LASZLO",
-        "MATEESCU DANIELA LENUŢA",
-        "PANAIT FLOAREA",
-        "POPA TEODOR",
-        "TOADER ŞERBAN-CRISTIAN"
+        "BARABAS LASZLO",
+        "MATEESCU DANIELA LENUTA",
+        "OANCEA PETRICA",
+        "PANAIT FLOAREA"
       ],
       "shareholders": [],
       "financials": {
@@ -15302,11 +15174,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MATICA FLORIAN CĂTĂLIN",
-        "NIȚĂ PAUL ALEX",
-        "OLARIU DANIELA",
-        "PĂȘOIU ADRIAN",
-        "SMARANDA MIHAI"
+        "CÎRSTOLOVEAN ȘTEFAN-EUGEN",
+        "IANCU COSTEL",
+        "PĂȘOIU ADRIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -15392,7 +15262,6 @@
       "legal_reps": [
         "BLEJDEA ELVISS-LIVIU",
         "BUSUIOCEANU STELIANA",
-        "FARA REPREZENTANT",
         "MANEA IOAN"
       ],
       "shareholders": [],
@@ -15520,7 +15389,6 @@
         "ANTOHE-MARICA GEORGE-ADRIAN",
         "CAȚAVEI CORNEL",
         "CRUCERU MIHAI-ȘTEFAN",
-        "PAPADOURIS MICHALAKIS",
         "PETRE PETRU",
         "VLAD GABRIELA-DANA"
       ],
@@ -15696,7 +15564,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BOLBOACĂ FELICIA",
         "BRĂGĂU MIHAIL BOGDAN",
         "NOAGHIU ALEXANDRU",
         "PAMPU CONSTANTIN"
@@ -15739,7 +15606,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BĂJAN NICOLAE",
         "DIACONESCU MATEI",
         "FILIP IOAN",
         "NICUȘAN DIANA-ILEANA",
@@ -15862,6 +15728,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "COTICIU DRAGOȘ-VASILE",
+        "DABU PAUL",
         "MICU MARIUS-MIHAI",
         "ROȘALĂ FLORIN",
         "TOMA MONICA-ALINA"
@@ -15948,9 +15815,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BOTĂ DOINA-TATIANA",
-        "NISTOR MAGDALENA-SILVIA",
-        "ROGOZEA IOAN-DOREL"
+        "FOGOROȘ CRISTINA PETRONELA",
+        "FUCIU IOANA ELIZA",
+        "NISTOR MAGDALENA SILVIA"
       ],
       "shareholders": [],
       "financials": {
@@ -15993,7 +15860,6 @@
         "BOGDAN NICOLAE DUMITRU",
         "BURLĂCESCU MARIAN",
         "CIORA IOAN-VASILE",
-        "DIACONU MIHAI",
         "KORCH ADINA-LILIANA",
         "NICOARĂ CIPRIAN-IONUȚ"
       ],
@@ -16120,7 +15986,6 @@
       "legal_reps": [
         "CRISTEA COSMIN",
         "ROŞU CONSTANTIN",
-        "SZITAS LIVIA",
         "ŢOP-FERGHETE FLORIANA-CARMEN"
       ],
       "shareholders": [],
@@ -16287,8 +16152,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CIOLAN ADRIAN",
-        "MICU MARIUS-MIHAI",
-        "MORAR MATEI"
+        "MATEI MORAR",
+        "MICU MARIUS-MIHAI"
       ],
       "shareholders": [],
       "financials": {
@@ -16414,7 +16279,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "DAMIAN ALEXANDRU"
+        "DAMIAN ALEXANDRU",
+        "PREDELEANU MUGUR MIHAI",
+        "SIGHEARTĂU ANDREEA-ROXANA"
       ],
       "shareholders": [],
       "financials": {
@@ -16497,7 +16364,6 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "AMBRUŞ ALEXANDRU-MIHAI",
-        "BĂJAN NICOLAE",
         "CENŢU SPRL"
       ],
       "shareholders": [],
@@ -16581,7 +16447,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "FIANU IOANA-MONICA",
-        "GAURICI ANTONELA-ADINA",
+        "LIURCA BOGDAN MIRCEA",
         "TOD SORIN-VICTOR"
       ],
       "shareholders": [],
@@ -16664,9 +16530,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MIHĂILĂ FLORICA-ANA",
-        "POLGAR ANDREI",
-        "SUMA GHERGHE-BOGDAN",
+        "BORICEANU ILIE ADRIAN",
+        "SUMA GHEORGHE BOGDAN",
         "SZEN ŞTEFAN"
       ],
       "shareholders": [],
@@ -17072,11 +16937,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ABRUDAN IOAN-VASILE",
+        "ABRUDAN IOAN VASILE",
         "BARBU ILIE-MIRCEA",
-        "CURTU ALEXANDRU-LUCIAN",
-        "GLĂVAN-ROMAN ROXANA-XIMENA",
-        "IONESCU OVIDIU"
+        "CURTU ALEXANDRU LUCIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -17117,8 +16980,8 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "CEAPĂ TRAIAN",
-        "ITTU ANDA-IULIA",
-        "SUCIU ROXANA-ŞTEFANIA"
+        "LETCĂ DORINELA",
+        "ROŞALĂ FLORIN"
       ],
       "shareholders": [],
       "financials": {
@@ -17198,12 +17061,14 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "BAICU CIUDIN ALEXANDRU",
         "CHIRIŢĂ SORIN",
-        "MAXIM IOAN-OVIDIU",
-        "PREDA VIRGIL-DANIEL",
+        "DUMITRU OANA",
+        "MAXIM IOAN OVIDIU",
+        "PREDA VIRGIL DANIEL",
         "SENDRONI AUREL",
         "VISU MIHAELA",
-        "VITAN ERMILIA-CODRUŢA"
+        "VITAN ERMILIA CODRUŢA"
       ],
       "shareholders": [],
       "financials": {
@@ -17243,14 +17108,13 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "ANTIPA ADRIANA LARISA",
+        "ANTIPA ADRIANA-LARISA",
         "BULEA - BÂRDEŞ MARIANA - CARMEN",
         "CREŢU CRISTIAN - DAN",
-        "DINCĂ GEORGE ADRIAN",
+        "DINCĂ GEORGE-ADRIAN",
         "FRAGULEA ŞTEFAN - ALEXANDRU",
         "GAMAN FLORIAN",
-        "LAZANU DANIELA - GIANINA",
-        "ZEGREA EMANUEL"
+        "PORUMB RAMONA"
       ],
       "shareholders": [],
       "financials": {
@@ -17290,14 +17154,10 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BĂLĂCESCU CAMELIA ROXANA",
-        "COCEI RĂZVAN - ALEXANDRU",
-        "DINCULESCU BIGHEA ANDREI",
-        "GEORGESCU BOGDAN CRISTIAN",
-        "MELCIU FLORIN",
-        "PECINGINA GHEORGHE",
-        "SAVU ILEANA",
-        "ZINCA MARIUS"
+        "CERES INSOLV SPRL",
+        "EURO INSOL SPRL",
+        "PECINGINĂ GHEORGHE",
+        "TURMAC INSOLVENCY SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -17386,10 +17246,10 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "COSTIN LUMINIȚA-MARINELA",
-        "DOGARU IOAN - VICTOR",
-        "VOICU MIHAI ALEXANDRU",
-        "ŢURCANU MĂDĂLINA MIRUNA"
+        "DINUCU DAIANA-MIHAELA",
+        "DOGARU IOAN-VICTOR",
+        "INFINEXA RESTRUCTURING SPRL",
+        "ŢURCANU MĂDĂLINA-MIRUNA"
       ],
       "shareholders": [],
       "financials": {
@@ -17429,7 +17289,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUTEICĂ MARIANA",
         "CAMBOSIE EMANUEL",
         "DOGARU IOAN VICTOR",
         "GEAMĂNĂ ANCA  ELENA"
@@ -17472,10 +17331,12 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "AZOIȚEI FLORINA CARMEN",
-        "BROD RAREŞ VICENŢIU",
+        "AZOIŢEI FLORINA-CARMEN",
+        "BROD RAREŞ-VICENŢIU",
         "CAMBOSIE EMANUEL",
-        "DOBRE ALEXANDRU"
+        "DOBRE ALEXANDRU",
+        "PASCU BOGDAN",
+        "PREDOI ALEXANDRU"
       ],
       "shareholders": [],
       "financials": {
@@ -17515,11 +17376,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "BULEA-BÂRDEŞ MARIANA-CARMEN",
         "CHIVU BOGDAN-ALEXANDRU-MIHNEA",
         "DEFTU DANIELA-SIMONA",
         "DIACONU ANA-MARIA",
-        "PETRE STELIAN-ALEXANDRU",
-        "ZEVEDEI EDUARD"
+        "PETRE STELIAN-ALEXANDRU"
       ],
       "shareholders": [],
       "financials": {
@@ -17601,9 +17462,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MIELU MARIUS GIANI",
-        "MOLDOVAN MIHAI",
-        "PANAIT RADU ALIN"
+        "COSTEA IONUŢ",
+        "PANAIT RADU-ALIN"
       ],
       "shareholders": [],
       "financials": {
@@ -17644,7 +17504,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CIOCAN IOANA-RUXANDRA",
-        "ODOROG GEORGE-COSTIN",
+        "ODOROG GEORGE COSTIN",
         "PAVEL ENE"
       ],
       "shareholders": [],
@@ -17685,10 +17545,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CHITULESCU FLORINA",
         "DUMITRU OANA",
         "FURDUI FLAVIU-BOGDAN",
-        "NICA DUMITRU",
+        "MILITARU EMIL",
         "NICULA FLAMINIU   IONUŢ",
         "ZAHORTEA ECATERINA"
       ],
@@ -17730,10 +17589,10 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CRISTEA DIANA MARIA",
+        "CRISTEA DIANA-MARIA",
         "MUSTAFA GEICUN",
-        "MUSTĂŢEANU PETRIŞOR",
-        "NEAGU ALINA-CRISTINA",
+        "MUSTĂŢEANU PETRU",
+        "NEAGU ALINA CRISTINA",
         "POPESCU ANDREEA-NICOLETA",
         "STÂNGĂ GABRIELA",
         "TURCU ALEXANDRA ANDREEA"
@@ -17777,13 +17636,11 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ALBU TEODORA-DANIELA",
-        "ANGHEL ANCA MIHAELA",
         "CETI CLAUDIU OCTAVIAN",
         "CRISTEA DIANA MARIA",
         "IOFCIU ION",
-        "MUSTAFA CEICUN",
-        "MUSTAFA GEICUN",
-        "PETROVICI SORIN ANTONIU"
+        "MATEI ANCA MIHAELA",
+        "MUSTAFA CEICUN"
       ],
       "shareholders": [],
       "financials": {
@@ -17823,10 +17680,10 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANGHEL ANCA-MIHAELA",
         "CETI CLAUDIU-OCTAVIAN",
         "GUŢU ALIN",
         "MAIORESCU MIRCEA-ADRIAN",
+        "MATEI ANCA-MIHAELA",
         "NĂSTASE CRISANDA-ANTOANETA",
         "SOARE GEORGE-CRISTIAN-CIPRIAN"
       ],
@@ -17917,7 +17774,6 @@
         "BACIUNA MIHAI-LUCIAN",
         "BRUMARU ELENA-ADRIANA",
         "JUDELE CLAUDIU",
-        "MANOLESCU FLORIN",
         "MAZILU ALEXANDRU",
         "MICU ŞTEFAN-DANIEL",
         "RANZBURG ELENA-CRISTINA",
@@ -17966,18 +17822,17 @@
         "CIOCÂRLAN CĂTĂLIN GEORGE",
         "CIURESCU RALUCA",
         "DINCĂ GEORGE-ADRIAN",
-        "DOBRE ELENA-ALEXANDRA",
         "FECIORU ANDREI",
         "IANCU LIVIA ELENA",
         "IONIŢOIU VASILE-DUMITRU",
+        "LAZAROV ELENA-ALEXANDRA",
         "LOGOFĂTU-CÂRSTOCEA LAURA",
         "MARINESCU FLORIN-CIPRIAN",
         "NICOLAU FLORIN-IVANCIU",
         "SEREDIUC MIRCEA",
         "STANCIU VALENTIN-VIOREL",
         "SÎRBU SORIN",
-        "TUFĂ RADIAN-DORU",
-        "ȘUȘNEA FLORENTINA"
+        "TUFĂ RADIAN-DORU"
       ],
       "shareholders": [],
       "financials": {
@@ -18017,7 +17872,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COSTIN LUMINIŢA - MARINELA",
         "CÂRLOGEA IULIAN-CONSTANTIN",
         "DINCULESCU-BIGHEA ANDREI",
         "DUNGACIU RĂZVAN DUMITRU",
@@ -18074,9 +17928,7 @@
         "CICAN FLORINA-ISABELA",
         "CIURESCU RALUCA",
         "DINIŢĂ LUCIAN",
-        "MILITARU MARIAN CĂTĂLIN",
-        "PASCIUC PAULA",
-        "TANASE IULIA GABRIELA"
+        "MILITARU MARIAN CĂTĂLIN"
       ],
       "shareholders": [],
       "financials": {
@@ -18118,8 +17970,7 @@
       "legal_reps": [
         "ANGHELINA PETRE-COSMIN",
         "DRĂGAN DANIEL-COSTEL",
-        "PANȚU COSMIN-MARIAN",
-        "PRODAN MARIANA"
+        "PANȚU COSMIN-MARIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -18160,10 +18011,10 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CUZA DAN",
-        "HINTA PETRUȘ",
+        "LAZĂR MARIA",
         "NEGOIȚĂ DELIA",
-        "NIȚĂ CRISTINA",
-        "PISTOL EDUARD"
+        "PISTOL EDUARD",
+        "SĂVULESCU MARIANA-SIMONA"
       ],
       "shareholders": [],
       "financials": {
@@ -18203,7 +18054,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ARION MARIA",
         "BACIU GABRIEL-PAUL",
         "BREAZ MARIANA",
         "CUZA DAN",
@@ -18416,7 +18266,6 @@
         "CRISTEA GEORGETA",
         "DOBRE NICOLETA DANIELA",
         "LAZĂR MARIA",
-        "NEGOIȚĂ DANIEL",
         "TOADER GICĂ"
       ],
       "shareholders": [],
@@ -18499,7 +18348,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BOBESCU RALUCA-ELENA",
+        "NEDELCU GHEORGHE",
         "RĂICAN COSMIN-ALEXANDRU",
         "TOADER GICĂ"
       ],
@@ -18870,6 +18719,7 @@
       "bvb_listed": false,
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
+        "OPREA MIRELA-DORINA CII",
         "POPA GHEORGHE"
       ],
       "shareholders": [],
@@ -18910,7 +18760,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "NECULA NICOLAE"
+        "TUDOSE ROXANA CII"
       ],
       "shareholders": [],
       "financials": {
@@ -19106,9 +18956,7 @@
       "bvb_listed": false,
       "financial_status": "OPACĂ",
       "legal_reps": [
-        "BOȚOACĂ VASILE",
-        "SAVIN CRISTINA LAVINIA",
-        "VASILE ALEXANDRU-CRISTIAN"
+        "CII TUDOSE ROXANA"
       ],
       "shareholders": [],
       "financials": []
@@ -19750,13 +19598,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BIRTA MIHAI",
-        "CSOKMAI ADRIAN",
-        "CĂLIN RAMONA DANIELA",
-        "ISAC BRANCO",
-        "MUȚIU MIHAI GABRIEL",
-        "SUIUGAN DANIEL-SORIN",
-        "VODĂ FLORIN EFTIMIE"
+        "BISTRIAN DORIN-NICOLAE",
+        "POPESCU HADRIAN-CONSTANTIN",
+        "VĂDUVA DANA-CRISTINA"
       ],
       "shareholders": [],
       "financials": {
@@ -19796,13 +19640,13 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDREȘ SOLOMIA",
-        "CHELBEA MIHAI-ILIE",
+        "BRĂTESCU PATRICIA ANGELA",
+        "BÎTEA CRISTIAN FLORIN",
+        "BĂLĂNESCU IOAN",
+        "CHELBEA MIHAI ILIE",
         "FILIPESCU GHEORGHE",
-        "ISPAS ARIN",
-        "PEREŞ CRISTIAN ELIAN",
         "POPESCU HADRIAN CONSTANTIN",
-        "STANCIU LAURENŢIU"
+        "STANCIU LAURENȚIU"
       ],
       "shareholders": [],
       "financials": {
@@ -20049,7 +19893,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CIOROGARIU MONICA-ILEANA"
+        "CIOROGARIU MONICA-ILEANA",
+        "MISCHIE GHEORGHE",
+        "NECHITA DANIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -20326,8 +20172,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANINOIU MARIA-DIANA",
-        "DRAGOMIR ION-FLORIN"
+        "ANINOIU MARIA-DIANA"
       ],
       "shareholders": [],
       "financials": {
@@ -20576,9 +20421,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COLŢEA TEODOR",
         "CÎINEANU ALINA LIGIA",
-        "FEȘNIC CLAUDIA SILVIA"
+        "FEȘNIC CLAUDIA SILVIA",
+        "SZŐCS ENDRE"
       ],
       "shareholders": [],
       "financials": {
@@ -20618,13 +20463,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "AVRAM MIRCEA CONSTANTIN",
-        "CIOTLĂUȘ PAUL",
         "FEDERIGA VIOREL",
-        "LUPAȘ MIRELA",
         "POP LEOPOLD OVIDIU",
-        "POPA IRIMIE EMIL",
-        "TAT IOAN CRISTIAN"
+        "POPA IRIMIE EMIL"
       ],
       "shareholders": [],
       "financials": {
@@ -20664,13 +20505,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "AVRAM MIRCEA-CONSTANTIN",
-        "MATARAGIU CARMEN",
+        "AVRAM MIRCEA CONSTANTIN",
+        "HENTER ANDREA ELISABETA",
         "MORAR MARIAN",
-        "MĂRINCEAN-CORDA ROXANA-ANDREEA",
-        "NEAMȚU ADRIAN",
-        "RADU RODICA-RENATA",
-        "SZOSZ ENDRE"
+        "MĂRINCEAN CORDA ROXANA ANDREEA",
+        "RADU RODICA RENATA"
       ],
       "shareholders": [],
       "financials": {
@@ -20836,8 +20675,7 @@
       "legal_reps": [
         "CÎMPEAN PAUL-CRISTIAN",
         "DORNER PETER EGON",
-        "DORNER PETER-EGON",
-        "MISCHIAN AUGUSTIN"
+        "INSOLV 2007 SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -20879,7 +20717,6 @@
       "legal_reps": [
         "BOLOG SIMONA-SARMIZA",
         "GIURGIU CRISTIAN",
-        "MISCHIAN AUGUSTIN",
         "TEOREANU CĂTĂLIN"
       ],
       "shareholders": [],
@@ -20922,7 +20759,6 @@
       "legal_reps": [
         "GUTTMANN SZABOLCS ISTVAN",
         "MACREA MARIA FLORICA",
-        "MAN GHEORGHE ALEXANDRU",
         "MARCU VALTĂR",
         "NEAG GHEORGHE LIVIU",
         "PAȘCALĂU PAUL IONUȚ",
@@ -20970,7 +20806,7 @@
         "FILIP VICTOR",
         "MARINA OTILIA MARIOARA",
         "MOROCĂZAN IOAN",
-        "POPOVICI SEPTIMIU CIPRIAN",
+        "MUNTEANU RADU IOAN",
         "VAMAN DANIEL"
       ],
       "shareholders": [],
@@ -21011,12 +20847,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALBU CĂLIN MIRCEA",
+        "ALBU CĂLIN-MIRCEA",
         "COROIAN ALEXANDRU",
-        "FORNA CALIN VASILE",
-        "MIRON EMIL",
-        "MUNTEANU RADU-IOAN",
-        "SZASZ ȘTEFAN-RUDOLF"
+        "FORNA CĂLIN VASILE",
+        "MARINA OTILIA MARIOARA",
+        "SZASZ ȘTEFAN RUDOLF"
       ],
       "shareholders": [],
       "financials": {
@@ -21058,9 +20893,7 @@
       "legal_reps": [
         "BONCUȚIU PAUL",
         "BUGNAR VASILE IULIAN",
-        "CHIOREAN TEODOR ALIN",
-        "COSTIN LUMINIȚA-MARINELA",
-        "POP GHEORGHE"
+        "MACOVEI VASILE-DAN"
       ],
       "shareholders": [],
       "financials": {
@@ -21100,13 +20933,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUGNAR VASILE IULIAN",
         "COLCER RĂZVAN DOREL",
-        "COSTIN LUMINIȚA MARINELA",
         "CĂLIAN PETRU",
-        "MACOVEI VASILE DAN",
-        "NUȚ MARIUS GABRIEL",
-        "RARĂU ANCA LAURA"
+        "RARĂU ANCA-LAURA"
       ],
       "shareholders": [],
       "financials": {
@@ -21187,7 +21016,6 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "LAPOSI VILHELM",
-        "MAN GHEORGHE ALEXANDRU",
         "POP GEORGE TEODOR",
         "POPAN RUS CLAUDIA"
       ],
@@ -21268,7 +21096,9 @@
       "sector": "Apă-canal · salubritate",
       "bvb_listed": false,
       "financial_status": "INACTIVĂ",
-      "legal_reps": [],
+      "legal_reps": [
+        "GRP SPRL"
+      ],
       "shareholders": [],
       "financials": {
         "an": 2023,
@@ -21308,7 +21138,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BEUDEAN SILVIU MARIN",
-        "COSTIN  LUMINIȚA MARINELA",
         "FODOR MIHAI MARIUS",
         "ROTAR IZABELLA CRISTINA"
       ],
@@ -21351,7 +21180,6 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "GABOR DUMITRU-FLORIN",
-        "GROZA ALEXANDRU",
         "MOCAN ALINA CARMEN",
         "PAVEL SIMION CĂLIN IOAN"
       ],
@@ -21644,7 +21472,6 @@
         "FARCAȘ TRAIAN",
         "GOIA RADU ANDREI",
         "POP VASILE-CRISTIAN",
-        "SENDRONI AUREL",
         "SÂSÂEAC DAIANA-RAMONA",
         "VARGA PETRU"
       ],
@@ -21688,7 +21515,6 @@
       "legal_reps": [
         "CORPODEAN DOREL",
         "FILIP DRAGOȘ MIHAI",
-        "MAN GHEORGHE ALEXANDRU",
         "SÂRBU LIDIA ANCUȚA"
       ],
       "shareholders": [],
@@ -21810,8 +21636,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BERCEA CORNELIA ELENA",
-        "POPESCU ALIN",
+        "BERCEA CORNELIA-ELENA",
+        "MOLDOVAN FLORIN ION",
         "ZDRENGHEA OLGA EUGENIA"
       ],
       "shareholders": [],
@@ -21894,13 +21720,10 @@
       "legal_reps": [
         "CHIRILĂ CONSTANTIN",
         "CIUTUREANU VIOREL-SORIN",
+        "COSTACHE IONELA-MARILENA",
         "IURUC LUMINIȚA",
-        "NEAGU CEZAR-PAUL",
         "PRESURĂ AUREL",
-        "SZITÁS LIVIA",
-        "SZITÁS ȘTEFAN",
-        "VLAD ELENA",
-        "ȘERBAN DANIELA"
+        "SZITÁS ȘTEFAN"
       ],
       "shareholders": [],
       "financials": {
@@ -21940,7 +21763,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CHIRU DAN ŞTEFAN",
         "DUICULETE MIHAI"
       ],
       "shareholders": [],
@@ -22266,8 +22088,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ANTON LAVINIA",
-        "CHIRTOP LAURENȚIU",
-        "SCHIAU MIHAELA"
+        "CHIRTOP LAURENȚIU"
       ],
       "shareholders": [],
       "financials": {
@@ -22348,7 +22169,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "DABIJA ADRIAN FLORIN",
-        "GÂJU MARIANA",
         "OPREANU DĂNUȚ",
         "STANCU CORNELIA"
       ],
@@ -22390,7 +22210,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COJEA FLORIAN"
+        "COJEA FLORIAN",
+        "MAESTRO SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -22472,7 +22293,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "OSIP PAULA"
+        "GAVRILĂ IRINA"
       ],
       "shareholders": [],
       "financials": {
@@ -22720,8 +22541,7 @@
         "FLOREA ALINA",
         "JUNCU CIPRIAN-LUIGIO",
         "MARINESCU ANGELA",
-        "TURNEA MIHAI COSMIN",
-        "ȘENDRONI AUREL"
+        "TURNEA MIHAI COSMIN"
       ],
       "shareholders": [],
       "financials": {
@@ -23288,9 +23108,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "NECULAI FEVRONINA-NINA",
-        "TRĂISTARU ELENA",
-        "VLAD SILVIU-LAURENTIU"
+        "POPESCU ADINA",
+        "VLĂDESCU LUMINIȚA"
       ],
       "shareholders": [],
       "financials": {
@@ -23451,7 +23270,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "COVACIU ŞTEFAN-DAN",
-        "FEJÉR LÓRÁNT",
         "GERGELY GYÖRGY",
         "TÖRÖK SÁNDOR"
       ],
@@ -23535,7 +23353,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDREI ERZSÉBET",
         "DIMÉNY MÓNIKA",
         "FANCSAL ZSOLT-GERŐ",
         "GERE MOZES-JÓZSEF",
@@ -23621,9 +23438,7 @@
       "bvb_listed": false,
       "financial_status": "INACTIVĂ",
       "legal_reps": [
-        "BARABÁS EDIT-JUDIT",
-        "HURGHI GHEORGHE",
-        "VAJDA BEÁTA"
+        "CII FLOROI GHEORGHE"
       ],
       "shareholders": [],
       "financials": {
@@ -23707,11 +23522,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ION VALERIAN",
-        "MARIN GHEORGHE",
-        "RADU COSMIN-MIREL",
-        "SPOREA IOAN",
-        "VERESS ALEXANDRU"
+        "BOCÎRNEA CONSTANTIN",
+        "MUREA ELENA",
+        "STOICA ANAMARIA"
       ],
       "shareholders": [],
       "financials": {
@@ -23751,7 +23564,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDREI ERZSÉBET",
         "BOJIN ADRIAN",
         "GODRA ÁRPÁD",
         "VAJNA KINGA-ENIKŐ"
@@ -23836,8 +23648,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ANDREI ERZSEBET",
-        "COJOCARU MIHAELA-CARMEN",
         "FEJÉR ÁRON",
         "KOZSOKÁR ATTILA",
         "MADARASI EDIT-RITA",
@@ -23884,7 +23694,6 @@
       "legal_reps": [
         "BARDOCZ ILDIKÓ",
         "BOJIN ADRIAN",
-        "FEJÉR LÓRÁNT",
         "KRECHT RUDOLF",
         "SZÉP MIKLÓS",
         "VAJNA KINGA ENIKŐ"
@@ -24010,7 +23819,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ANDREI MIHAI-MARIUS",
-        "FEJÉR LÓRÁNT",
         "GERGELY-BITAI ZSUZSA-MÁRIA",
         "KÁDÁR JUDIT"
       ],
@@ -24141,7 +23949,6 @@
         "ANTAL EMŐKE",
         "BALOGH BOGLÁRKA-ETELKA",
         "Baka ERNŐ",
-        "FEJÉR LÓRÁNT",
         "KERESZTES ZSUZSA",
         "ZONDA BALÁZS"
       ],
@@ -24183,9 +23990,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FEJÉR ÁRON",
-        "KOVÁCS GYULA",
-        "RANCZ ZSUZSÁNNA"
+        "BALOGH BOGLÁRKA-ETELKA",
+        "DEMETER HAJNAL",
+        "FEJÉR ÁRON"
       ],
       "shareholders": [],
       "financials": {
@@ -24231,7 +24038,6 @@
         "IONETE GEORGE-FLORIN",
         "POPA IOANA",
         "SANDA IOANA-MĂDĂLINA",
-        "SEFERIS CHRISTODOULOS COSTANDINOU",
         "ŢUŢUIANU IOAN"
       ],
       "shareholders": [],
@@ -24276,7 +24082,6 @@
         "BOBOACĂ CORNEL",
         "IOAN FLORIN",
         "MILEA VIOREL",
-        "NIŢU CORNEL",
         "PAVEL SORIN ION"
       ],
       "shareholders": [],
@@ -24359,7 +24164,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CRISTEA MINODORA",
         "SPRINŢARU ELENA LILIANA",
         "STANCIU COSMINEL NICUSOR",
         "STEFANOV MAGDALENA ALINA",
@@ -24569,7 +24373,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUTCĂ IOAN DORU"
+        "BUTCA IOAN-DORU",
+        "CRISTEA MINODORA",
+        "MANOLE MIHAI-ALIN"
       ],
       "shareholders": [],
       "financials": {
@@ -24651,7 +24457,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "PĂUNESCU MIHAI-ANDREI"
+        "OANĂ LIVIANA MARINA",
+        "PĂUNESCU MIHAI ANDREI",
+        "VOINESCU RAMONA FLORENTINA"
       ],
       "shareholders": [],
       "financials": {
@@ -24691,7 +24499,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "OPREA IONUŢ"
+        "EUGENIA NEGREA",
+        "OPREA IONUŢ",
+        "TUDOR COSMIN EMILIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -24733,7 +24543,8 @@
       "legal_reps": [
         "GROZA MARIA",
         "IONIŢĂ GHEORGHE MARIAN",
-        "IONIŢĂ ŞTEFAN"
+        "IONIŢĂ ŞTEFAN",
+        "VOINESCU RAMONA FLORENTINA"
       ],
       "shareholders": [],
       "financials": {
@@ -24939,8 +24750,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "COSTACHE VASILE",
-        "ILIESCU DUMITRU"
+        "COSTACHE VASILE"
       ],
       "shareholders": [],
       "financials": {
@@ -25026,7 +24836,6 @@
       "legal_reps": [
         "BUNTA GABRIEL",
         "GHIȚĂ VASILE",
-        "PETRESCU SIMONA",
         "UNGUREANU ADRIANA-LORENA",
         "VIERU LAURENŢIU-GRIGORE",
         "ZULEAM COSMINA-MĂDĂLINA"
@@ -25201,8 +25010,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "DEMETRESCU VASILE",
-        "URTILĂ CRISTINEL"
+        "DEMETRESCU VASILE"
       ],
       "shareholders": [],
       "financials": {
@@ -25242,8 +25050,7 @@
       "bvb_listed": false,
       "financial_status": "OPACĂ",
       "legal_reps": [
-        "EFREM ION DUMITRU",
-        "ENEA CONSTANTIN"
+        "EFREM ION DUMITRU"
       ],
       "shareholders": [],
       "financials": []
@@ -25477,7 +25284,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "GRIGORIE MARINEL-CRISTIAN"
+        "COSTACHE ALEXANDRA-ANDREEA",
+        "DIȘTEANU NELU",
+        "DUMITRU SILVIU IONEL",
+        "LUNGU FLORIN GABRIEL",
+        "REȘCEANU CĂTĂLIN IONUȚ"
       ],
       "shareholders": [],
       "financials": {
@@ -25557,7 +25368,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MĂRĂCINE ALIN MĂDĂLIN"
+        "DIACONU IULIAN",
+        "NEMȚEANU OANA-ELENA",
+        "TUTUNARU NICOLAE"
       ],
       "shareholders": [],
       "financials": {
@@ -25597,7 +25410,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BUFU IONEL",
         "MARTIN ION"
       ],
       "shareholders": [],
@@ -25759,7 +25571,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "TRINCU CONSTANTIN-DANIEL"
+        "TUDOR LIVIU RĂDUȚ"
       ],
       "shareholders": [],
       "financials": {
@@ -26202,7 +26014,6 @@
       "bvb_listed": false,
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
-        "GHEORGHIȚĂ AUREL-FLORIN",
         "PREDA DORIN CONSTANTIN"
       ],
       "shareholders": [],
@@ -26363,8 +26174,7 @@
       "bvb_listed": false,
       "financial_status": "OPACĂ",
       "legal_reps": [
-        "ENSO SPRL FILIALA DOLJ",
-        "PÎRVAN GHEORGHE"
+        "ENSO SPRL FILIALA DOLJ"
       ],
       "shareholders": [],
       "financials": []
@@ -26441,6 +26251,7 @@
         "COANDĂ TUDORIȚA",
         "CÎMPEANU ADRIANA",
         "MANOLESCU SILVIU-FLORIN",
+        "MITRIȚĂ CONSTANTIN",
         "ROȘCA MARIAN OVIDIU",
         "VINTILĂ MARIN"
       ],
@@ -26562,7 +26373,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "DUMINICĂ DĂNUȚA-MIHAELA",
+        "COJOCARU CĂTĂLIN",
         "GĂVAN EUGEN",
         "STADOLEANU IOAN-DANIEL"
       ],
@@ -26606,7 +26417,6 @@
       "legal_reps": [
         "CONDURACHE AUREL",
         "DĂNĂILĂ ANGELICA",
-        "HÂRLEA ADRIANA-SORELA",
         "MAGEARU DRAGOȘ LUCIAN",
         "STAN GELU",
         "UDRIȘ CRISTIAN",
@@ -26782,7 +26592,7 @@
         "CANDREA ALINA",
         "CIUCĂ SILVIU",
         "LUNGEANU NECULAI",
-        "POALELUNGI DUMITRU",
+        "POALELUNG DUMITRU",
         "TOPALĂ RĂZVAN-CIPRIAN"
       ],
       "shareholders": [],
@@ -26823,13 +26633,12 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CANDREA ALINA",
-        "CIUCĂ SILVIU",
-        "DĂNĂILĂ ANGELICA",
-        "IOVIȚĂ CARMEN-LAVINIA",
+        "CAZAN ADRIAN",
+        "MARIAN ALEXANDRU",
         "MUNTEANU VALENTIN",
         "OLARU CONSTANTIN",
-        "PARASCHIV GHIȚĂ"
+        "PARASCHIV GHIȚĂ",
+        "PÎSLARU PETRICA"
       ],
       "shareholders": [],
       "financials": {
@@ -26912,12 +26721,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COJOCARU CĂTĂLIN",
+        "CANDREA ALINA",
+        "IOVIȚĂ CARMEN-LAVINIA",
         "MAGEARU DRAGOȘ-LUCIAN",
-        "MANOLESCU FLORIN",
         "MARIN RELU",
-        "ONEȚ GABRIEL",
-        "PATRICHE RALUCA",
+        "OLARU CONSTANTIN",
         "PROFIR MARIAN"
       ],
       "shareholders": [],
@@ -27122,8 +26930,7 @@
       "legal_reps": [
         "ANGHEL AUREL",
         "MARIN AUREL",
-        "NEDELCU LIVIU",
-        "ȚEPUȘ-VELCEA GABRIELA"
+        "NEDELCU LIVIU"
       ],
       "shareholders": [],
       "financials": {
@@ -27167,8 +26974,7 @@
         "RUSU DANIEL CEZAR",
         "STAN ANDREEA-CONSTANȚA",
         "UNGUREANU DĂNUȚ-CĂTĂLIN",
-        "ȘTEFAN VALI-ȘTEFANIA",
-        "ȚEPUȘ-VELCEA GABRIELA"
+        "ȘTEFAN VALI-ȘTEFANIA"
       ],
       "shareholders": [],
       "financials": {
@@ -27366,8 +27172,7 @@
         "IONIȚESCU CONSTANȚA",
         "MOISE VASILE",
         "PEICEA MILAN",
-        "PÎRCĂLĂBOIU DANIELA",
-        "ȚONE DANIELA"
+        "PÎRCĂLĂBOIU DANIELA"
       ],
       "shareholders": [],
       "financials": {
@@ -27537,8 +27342,7 @@
       "legal_reps": [
         "BUCIU NELU SANDU",
         "POPESCU ALEXANDRU-GEORGE",
-        "TOMA ELVIS FLORENTIN",
-        "ȘTUBEANU GHEORGHE"
+        "TOMA ELVIS FLORENTIN"
       ],
       "shareholders": [],
       "financials": {
@@ -27744,7 +27548,7 @@
       "bvb_listed": false,
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
-        "TRIFU DANA-MIRELA"
+        "VASILE CRISTIAN-VIOREL"
       ],
       "shareholders": [],
       "financials": {
@@ -27784,7 +27588,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "TRIFU DANA-MIRELA"
+        "VASILE CRISTIAN-VIOREL"
       ],
       "shareholders": [],
       "financials": {
@@ -28300,9 +28104,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "GIUBALCĂ ANDREI",
-        "GRUESCU ION",
-        "PÎRCĂLĂBOIU ION-DORIN"
+        "DĂDĂLĂU DUMITRU",
+        "GRUESCU ION"
       ],
       "shareholders": [],
       "financials": {
@@ -28589,10 +28392,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CIOCÂRLAN DUMITRU",
+        "BUCĂLAE FLORIN-PETRE",
+        "CHERCIU IONELA DESPINA",
+        "MUNTEAN LUCIAN-FLORIN",
         "NAVLEA ION",
-        "POPESCU VICTOR",
-        "TIRIPLICĂ ION"
+        "TOARNĂ MARIUS-EMILIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -28673,6 +28477,8 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "CIOATĂ PETRICĂ",
+        "RAŢĂ BOGDAN-CĂTĂLIN",
+        "TĂMÎRŞ ILEANA-FELICIA",
         "ȘALAPA BIANCA-EUGENIA"
       ],
       "shareholders": [],
@@ -28753,7 +28559,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BLAJ FABIAN"
+        "DOBROMIRESCU ADRIAN",
+        "GIUBALCĂ ANDREI",
+        "PETRIA ŞTEFANIA-MONICA"
       ],
       "shareholders": [],
       "financials": {
@@ -28793,8 +28601,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "A.R.T. INSOLV SPRL",
-        "GIUBALCĂ ANDREI"
+        "A.R.T. INSOLV SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -28834,9 +28641,8 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "GHIGA ION",
-        "GIUBALCĂ ANDREI",
         "GLOMNICU DAN-CONSTANTIN",
+        "GĂDĂU ION",
         "LONEA ARISTIDE-MARIUS"
       ],
       "shareholders": [],
@@ -28917,8 +28723,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CILIBIU CARMEN-ELENA",
-        "POPESCU VIORICA",
+        "CIMPOERU ROMEO-ALIN",
+        "OLARU MIHAELA",
         "VILĂU VIOREL"
       ],
       "shareholders": [],
@@ -28959,7 +28765,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MARCU EMIL-GEORGIAN"
+        "MARCU EMIL GEORGIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -29042,12 +28848,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CHIRIȚESCU DUMITRU-DOREL",
-        "COSTACHE NICOLAE-COSMIN",
         "DAVID EMILIAN-GEORGE",
         "DRONDOE GRIGORE",
-        "DĂIANU ADRIAN",
-        "JIANU GRIGORE",
         "NODEA RAMONA",
         "PRUNĂ SORIN-COSTIN",
         "TOROP SORIN-STELIAN"
@@ -29807,8 +29609,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BOGÁTI CSABA",
-        "FÜLÖP ÁRPÁD-ZOLTÁN",
-        "MÁTHÉ TIMEA-ERZSÉBET"
+        "FÜLÖP ÁRPÁD ZOLTÁN",
+        "MÁTHÉ TIMEA ERZSÉBET"
       ],
       "shareholders": [],
       "financials": {
@@ -29849,6 +29651,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BODOR ZSOLT",
+        "ISÁN ISTVÁN-CSONGOR",
         "NAGY BENEDEK",
         "PÁL TAMÁS",
         "PÁLL ÁRPÁD",
@@ -29932,7 +29735,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "DEMÉNY ATTILA"
+        "LAKÓ CSABA",
+        "NAGY BENEDEK",
+        "PÁL-ANTAL ILDIKÓ"
       ],
       "shareholders": [],
       "financials": {
@@ -29972,9 +29777,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "IMREH BEÁTA",
         "INCZE CSONGOR",
-        "PÁL-ANTAL ILDIKÓ",
+        "KOVÁCS ZOLTÁN",
         "ZSOMBORI CSONGOR"
       ],
       "shareholders": [],
@@ -30302,7 +30106,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "ANDREI GHEORGHE"
+        "TĂMAȘ ANAMARIA"
       ],
       "shareholders": [],
       "financials": {
@@ -30431,8 +30235,7 @@
         "PETER RODICA-MARIANA",
         "RADU SORIN-MIHAI",
         "SURULESCU DANIEL-LUCIAN",
-        "TARCEA MONICA",
-        "ȘENDRONI AUREL"
+        "TARCEA MONICA"
       ],
       "shareholders": [],
       "financials": {
@@ -30477,8 +30280,7 @@
         "LEANCA MARIUS",
         "NICULESCU AUREL",
         "RONCIOIU COSMIN-ALIN",
-        "STANCA NICOLAE",
-        "ȘENDRONI AUREL"
+        "STANCA NICOLAE"
       ],
       "shareholders": [],
       "financials": {
@@ -30771,7 +30573,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALIC DELI-MARIA"
+        "ALIC DELI-MARIA",
+        "MORAR NICOLAE-SIMION",
+        "ROTEA ADRIAN-OVIDIU"
       ],
       "shareholders": [],
       "financials": {
@@ -30853,9 +30657,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BIRIȘ LIVIU IOAN",
-        "PERȚA EMIL-CRISTIAN",
-        "STOENESCU VALENTIN-ADRIAN"
+        "DUMITRIAN DORIN-BOGDAN"
       ],
       "shareholders": [],
       "financials": {
@@ -30895,10 +30697,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BIRIŞ LIVIU IOAN",
         "FAN VALENTIN DORIN",
         "PERȚA EMIL-CRISTIAN",
-        "ȘUTA BIANCA"
+        "ŞUTA BIANCA"
       ],
       "shareholders": [],
       "financials": {
@@ -31185,7 +30986,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BARAC MARIA",
-        "BIRIȘ LIVIU IOAN",
         "BOATCĂ VICTOR",
         "CRISTOCEA-PÎRVULESCU LUCIA-GABRIELA",
         "PREDA NICOLAE",
@@ -31269,8 +31069,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CIOANA MARIOARA-RODICA",
         "FILAN VIOLIN",
+        "SABĂU-ŞENDRONI RALUCA-PETRONELA",
         "TUDUCEA TRAIAN"
       ],
       "shareholders": [],
@@ -31351,8 +31151,8 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BEREHOLSCHI AURELIAN-ORLANDO",
-        "BIRIȘ LIVIU-IOAN",
+        "BEREHOLSCHI AURELIAN ORLANDO",
+        "BIRIȘ LIVIU IOAN",
         "HAŢEGAN ELENA-ADRIANA"
       ],
       "shareholders": [],
@@ -31474,9 +31274,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALBONI ADRIAN-PETRIŞOR",
-        "FILAN VIOLIN",
-        "SZABO FERENCZ"
+        "BADEA PUIU ADRIAN",
+        "IANCU SIMONA VALERICA",
+        "TEREC CĂLIN-GHEORGHE"
       ],
       "shareholders": [],
       "financials": {
@@ -31560,11 +31360,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BIZDRIGHEANU LOLA",
         "CÂNTĂ-BINE IULIAN",
         "DIMA COSTIN VLĂDUȚ",
         "GHINEA VASILE",
         "IORDAN BRADUŢ CRISTIAN",
+        "OLTEANU IULIAN",
         "PIRPILIU MARIUS ROMEO",
         "ŞTEF MARIUS VASILE"
       ],
@@ -31915,7 +31715,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "POPA VERONICA"
+        "CIOBANU MIHAELA ALINA",
+        "JIANU VASILE",
+        "NEAGU EMILIA"
       ],
       "shareholders": [],
       "financials": {
@@ -32035,11 +31837,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ARON RODEL",
-        "CIOBANU MIHAELA ALINA",
         "CODLEANU MARIANA GEORGETA",
+        "GHIBANU ȘTEFAN",
         "HOINARU MARIAN",
         "IONESCU LIVIU",
+        "LIXANDRU IONEL FLORIAN",
         "POTINCHE ALIN LUCIAN"
       ],
       "shareholders": [],
@@ -32122,7 +31924,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CHIȚU VALENTIN-GABRIEL",
-        "DINU MARIANA"
+        "DINU MARIANA",
+        "Popa Doinita Adriana"
       ],
       "shareholders": [],
       "financials": {
@@ -32204,9 +32007,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CIOBANU MIHAELA ALINA",
-        "DOGARU IULIAN GRIGORIN",
-        "POTINCHE ALIN LUCIAN"
+        "IONESCU LIVIU",
+        "POTINCHE ALIN LUCIAN",
+        "PREDA SILVIU"
       ],
       "shareholders": [],
       "financials": {
@@ -32440,7 +32243,6 @@
         "DAMIAN IONEL",
         "DORUŞ MIHAIL",
         "GÎRJAN CĂTĂLIN",
-        "ROTARU FLORIN",
         "TEODOSIU CARMEN"
       ],
       "shareholders": [],
@@ -32482,11 +32284,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "FULGER AURELIA",
-        "IORDACHE ELENA",
-        "IORDACHE MIHAI",
-        "LUNGU DANIEL CRISTIAN",
-        "SOROCEANU MIRCEA",
-        "ZAHARIA SORIN-EUGEN"
+        "IORDACHE ELENA"
       ],
       "shareholders": [],
       "financials": {
@@ -32527,8 +32325,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CHIRILĂ GABRIEL ŞTEFAN",
-        "CONSILIUL LOCAL AL MUNICIPIULUI IAŞI",
-        "TĂNASE LUMINIŢA MARINELA"
+        "CONSILIUL LOCAL AL MUNICIPIULUI IAŞI"
       ],
       "shareholders": [],
       "financials": {
@@ -32570,7 +32367,7 @@
       "legal_reps": [
         "LUPU LUCIAN-MARIUS",
         "NEACŞU IRINA DANIELA",
-        "PRICOP CONSTANTIN-COSMIN"
+        "PĂDURARU NICUŞOR"
       ],
       "shareholders": [],
       "financials": {
@@ -32650,8 +32447,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MELNICIUC GABRIEL ALEXANDRU",
-        "NICOLESCU DANIELA"
+        "MELNICIUC GABRIEL ALEXANDRU"
       ],
       "shareholders": [],
       "financials": {
@@ -32694,8 +32490,7 @@
         "BÂRZU KRISTIAN",
         "DOMINTE EMA MARIA",
         "FILIP GHEORGHE CRISTIAN",
-        "TIRON VASILE",
-        "TOFAN GABRIELA-NICOLETA"
+        "TIRON VASILE"
       ],
       "shareholders": [],
       "financials": {
@@ -32828,7 +32623,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "AFRĂSINEI MIHAI BOGDAN",
-        "CHIORESCU NICOLETA",
         "FLUTUR SORIN GEORGEL",
         "MÎNDRILĂ NICOLAIE",
         "PODIANU VIVIANA",
@@ -32874,7 +32668,6 @@
       "legal_reps": [
         "AIVĂNOAEI CONSTANTIN ALIN",
         "DOBOŞ IOAN",
-        "GRIGORIU IOAN",
         "HUŢANU ION",
         "TEODORESCU GABRIEL",
         "TURTĂ IOANA MARINELA"
@@ -33127,9 +32920,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BADIU ANDREI",
-        "CIOBANU-OPRESCU OLIVIA-ANA",
-        "COJEA GABRIELA",
+        "CROITORU ROBERT-IONUŢ",
         "MIHALCEA PETRE-DORIN",
         "STĂNICA ANDREEA"
       ],
@@ -33217,9 +33008,7 @@
       "legal_reps": [
         "CONSTANTINESCU BOGDAN",
         "FRUNZĂ ROBERT-GEORGE",
-        "IONIŢĂ VICTORIA",
         "MILDNER EDUARD-RĂDUCANU",
-        "ONCIOIU IONICA",
         "VLĂSCEANU LILIANA-MARINELA",
         "VĂSII ŞTEFAN"
       ],
@@ -33465,9 +33254,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "CHELU MARINEL-VALENTIN",
         "LAZĂR FLORENTINA-LAURA",
-        "NEAȚU LAURENȚIU",
-        "NICA-PARANCEA DORIAN-SORIN"
+        "MARINESCU RADU-TITUS"
       ],
       "shareholders": [],
       "financials": {
@@ -33550,9 +33339,9 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ALECU DĂNUŢ",
-        "CARAIANE LICA",
         "CHELU MARINEL VALENTIN",
         "COSTACHE MARIN",
+        "CĂLUIAN LICA",
         "TIGHEAN ION"
       ],
       "shareholders": [],
@@ -33675,9 +33464,9 @@
       "bvb_listed": false,
       "financial_status": "OPACĂ",
       "legal_reps": [
-        "ALEXE IONELIA",
-        "JULA SORIN-NICOLAE",
-        "MIHAI LAURA-DANIELA"
+        "LUNGU SEBASTIAN",
+        "SABĂU FLORIN-DUMITRU",
+        "SAFCA CARMEN-LAURA"
       ],
       "shareholders": [],
       "financials": {
@@ -34124,13 +33913,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "GEORGESCU CARMEN MARIANA",
+        "GEORGESCU CARMEN-MARIANA",
         "IONIȚĂ STELICĂ",
-        "IONIȚĂ VIORICA",
         "MOLDOVAN ADRIAN-TEODOR",
         "PAIERELE ADA",
-        "PÂRVULESCU VALENTINA",
-        "SATMARI TUDORIŢA"
+        "PÂRVULESCU VALENTINA"
       ],
       "shareholders": [],
       "financials": {
@@ -34172,7 +33959,7 @@
       "legal_reps": [
         "CONSTANTIN RADU",
         "IANCU ADRIANA",
-        "VIŞAN HATIGE ANA MARIA"
+        "VIȘAN HATIGE-ANA-MARIA"
       ],
       "shareholders": [],
       "financials": {
@@ -34214,8 +34001,7 @@
       "legal_reps": [
         "CHINȚĂ MARINEL-ROBERTO",
         "GOIA IONUȚ MIHAI",
-        "LAZĂR DANIELA",
-        "RANETE EUGENIA"
+        "LAZĂR DANIELA"
       ],
       "shareholders": [],
       "financials": {
@@ -34340,9 +34126,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "C.I.I. COSTACHE LAURA",
-        "IVAN MARIUS CĂTĂLIN",
-        "IVĂNESCU CONSTANTIN-SORIN",
-        "NECULA GABRIEL-LAURENȚIU"
+        "CONSTANTIN MIHAIL-GABRIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -34383,8 +34167,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ABOU-SAAD OSAMA",
-        "BUZILĂ CRISTINA-ILEANA",
-        "MITROI ȘTEFAN-CRISTINEL"
+        "BUZILĂ CRISTINA ILEANA"
       ],
       "shareholders": [],
       "financials": {
@@ -34425,8 +34208,7 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "BUCUR ANDREI-ALEXANDRU",
-        "CANTACUZ MAGDA-AURA",
-        "CONSTANTIN ANIŞOARA",
+        "CONSTANTIN ANIȘOARA",
         "GAGU CONSTANTIN"
       ],
       "shareholders": [],
@@ -34467,9 +34249,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CHITCĂ SORIN-RĂZVAN",
-        "MIHAI GELU-MARIAN",
-        "MOCANU ANA-MIHAELA",
+        "CHITCĂ SORIN RĂZVAN",
+        "MIHAI GELU MARIAN",
+        "MOCANU ANA MIHAELA",
         "OPREA MARIANA",
         "RANETE EUGENIA",
         "UDRESCU OVIDIU"
@@ -34634,9 +34416,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "PANDELE MIHAELA",
-        "TABLĂ-POPESCU MARIUS-CEZAR",
-        "VELCIU VIOLETA-CĂTĂLINA"
+        "LASLĂU CONSTANTIN",
+        "VELCIU VIOLETA CĂTĂLINA"
       ],
       "shareholders": [],
       "financials": {
@@ -34976,8 +34757,7 @@
       "legal_reps": [
         "BANCOŞ TRAIAN",
         "POP-OFRIM BOGDAN-VLAD",
-        "SPĂTAR COSMIN-RĂZVAN",
-        "STAMATOIU IOANA DANIELA"
+        "SPĂTAR COSMIN-RĂZVAN"
       ],
       "shareholders": [],
       "financials": {
@@ -35066,7 +34846,6 @@
         "BONDICI VALERIA",
         "BUDE IOAN",
         "CIOCAŞ VALERIA",
-        "COSTIN LUMINIŢA MARINELA",
         "TRĂNIŞAN CLAUDIU-DANIEL",
         "WEISENBACHER VASILE"
       ],
@@ -35109,8 +34888,8 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "BONDICI VALERIA",
-        "LEŞE IOAN-LIVIU",
         "NEGRUŢ CORNELIA",
+        "TUŞ FLORENTIN-NICOLAE",
         "ZOICAŞ RADU MIRCEA"
       ],
       "shareholders": [],
@@ -35643,7 +35422,6 @@
         "ALSTANI ȘTEFAN",
         "IORDACHE ION",
         "TĂEREL CONSTANTIN",
-        "VELICAN OANA-LUMINIȚA",
         "VĂTĂŞESCU ANA-FLORINA"
       ],
       "shareholders": [],
@@ -35995,7 +35773,9 @@
       "bvb_listed": false,
       "financial_status": "INACTIVĂ",
       "legal_reps": [
-        "MODOACĂ DUMITRU"
+        "CILICĂ SORIN",
+        "FUSU DĂNUȚ",
+        "VIZOTIU ELENA-ADELA"
       ],
       "shareholders": [],
       "financials": {
@@ -36183,8 +35963,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "IOVANOVICI IOVAN",
-        "VLĂDULESCU MIHAI-LUCIAN"
+        "VLĂDULESCU MIHAI LUCIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -36224,7 +36003,7 @@
       "bvb_listed": false,
       "financial_status": "OPACĂ",
       "legal_reps": [
-        "DRONDU NICUȘOR"
+        "POPESCU LIDIA-CARMEN"
       ],
       "shareholders": [],
       "financials": []
@@ -36298,6 +36077,8 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
+        "DURECI GEORGE",
+        "FLOREA TRAIAN-DAN",
         "IAŞU VERONICA-NELI"
       ],
       "shareholders": [],
@@ -36339,9 +36120,9 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BAKOS LEVENTE-ATTILA",
-        "COVRIG CRISTINA-CLAUDIA",
         "CRIŞAN LUCIAN EUGEN",
-        "NAGY ISTVAN",
+        "Covrig Cristina-Claudia",
+        "FRUNZA ANDREA",
         "Sipos Levente"
       ],
       "shareholders": [],
@@ -36427,6 +36208,7 @@
         "NAGY ISTVAN",
         "OROSZ ATTILA",
         "PAL ANTAL ILDIKO",
+        "SUCIU ADRIANA-TATIANA",
         "SÓFALVI GYŐRGY-ZSOLT",
         "TAVASZI EMESE-IBOLYA"
       ],
@@ -36468,11 +36250,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUCULEU DĂNILĂ",
-        "CENGHER IONUŢ-OVIDIU",
-        "DEAC ARTEMUS-CORNELIU",
-        "ERŐS CSABA",
-        "SIMIONESCU MIRCEA"
+        "ASZALOS GAVRIL",
+        "DEAC ARTEMUS-CORNEL",
+        "MOLDOVAN MIRELA"
       ],
       "shareholders": [],
       "financials": {
@@ -36635,10 +36415,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "IACOB MIRCEA-LUCIAN",
+        "IACOB MIRCEA LUCIAN",
         "MAIOR GHEORGHE",
-        "MARIAN ADRIANA PAULA",
-        "SPINEI MARIA"
+        "MARIAN ADRIANA-PAULA"
       ],
       "shareholders": [],
       "financials": {
@@ -37010,7 +36789,7 @@
       "legal_reps": [
         "DAVID RAMONA",
         "ENACHE VASILE",
-        "NASTASĂ ION",
+        "MUNTEANU MIHAELA-GINA",
         "PĂDURE CLAUDIU",
         "SIMIONICĂ IOAN"
       ],
@@ -37052,7 +36831,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUCUREI OVIDIU SERGIU",
         "OPRIȚĂ VASILE",
         "RUSU-FERARU TEODOR",
         "STĂCESCU VALERIU-VASILE",
@@ -37099,7 +36877,6 @@
       "legal_reps": [
         "ACSINTE ELENA",
         "ANGHELUȚĂ IOAN-VLAD",
-        "BUCUREI OVIDIU-SERGIU",
         "DIACONIŢA OCTAVIAN",
         "GAMAN CLAUDIU",
         "STANCIU GHEORGHE"
@@ -37183,7 +36960,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ASAVEI ALEXANDRINA",
-        "NASTASĂ ION",
         "PASCARU ELENA-LĂCRĂMIOARA",
         "PĂCALĂ IOAN",
         "SCURTU VALENTINA",
@@ -37475,6 +37251,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
+        "BANU LAURA",
         "DOGARU IOAN"
       ],
       "shareholders": [],
@@ -37515,8 +37292,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "BRICEAG EMILIAN",
         "COPILĂU JENEL",
-        "CĂLIN MARIAN",
         "LUCA GHEORGHE"
       ],
       "shareholders": [],
@@ -37837,8 +37614,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "MATEI IULIAN-ALEXANDRU",
-        "SVETLIK CLAUDIA-FĂNICA",
+        "GHIŢĂ MARIANA",
+        "POPESCU RALUCA-MIHAELA",
         "TEODORESCU GHEORGHE-VIOREL"
       ],
       "shareholders": [],
@@ -39331,15 +39108,13 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUCUR ADRIAN-IONUȚ",
         "COSTACHE IOANA ALINA",
         "CÎRCIOREANU MIHAI-LEONARD",
         "GHEOCA GEANINA-MIHAELA",
         "MANOLACHE MARCELA CRISTINA",
+        "RÎNCIOG MARIUS",
         "SLĂVESCU MIHAI ADRIAN",
-        "TUDOR MIRCEA",
-        "VOICU IOAN",
-        "ȘUȘNEA FLORENTINA"
+        "VOICU IOAN"
       ],
       "shareholders": [],
       "financials": {
@@ -39379,10 +39154,10 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BARBU ELVIRA-MIHAELA",
+        "BUCUR ADRIAN IONUȚ",
         "COSTACHE IOANA ALINA",
+        "DUMITRESCU IONUȚ",
         "GRAMA CEZAR",
-        "IONIȚĂ MARIAN",
         "SLĂVESCU MIHAI ADRIAN",
         "TUDOR MĂDĂLINA"
       ],
@@ -39468,7 +39243,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUCUR ADRIAN IONUȚ",
+        "BUCUR ADRIAN-IONUȚ",
         "DUMITRESCU IONUȚ",
         "HUZA ȘTEFAN OCTAVIAN",
         "NICULCEA VALENTIN",
@@ -39512,7 +39287,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "CONSTANTIN VALERICĂ",
         "GANEA CRISTIAN-MIHAI",
         "IAMANDI MIHAELA-IRINA",
         "LUPU BOGDAN",
@@ -39599,9 +39373,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "FĂCĂLEȚ DANIEL-IONUȚ",
         "GRAMA MIHAI",
-        "IVAȘCU MIHAI CLAUDIU"
+        "IVAȘCU MIHAI-CLAUDIU",
+        "NICOLAU ALEXANDRU-NICOLAE"
       ],
       "shareholders": [],
       "financials": {
@@ -39725,7 +39499,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALEXANDRU DANIEL",
         "ANDREI DANIELA",
         "GRECU MĂDĂLINA",
         "TAMÎRJAN EUGENIA"
@@ -39886,9 +39659,10 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
+        "CHIRONEȚ GEORGIAN-ALIN",
         "COJOCARU LILIANA-GEORGETA",
-        "GRĂDINARU DANIEL",
-        "STATE DRAGOȘ CONSTANTIN"
+        "CRĂCIUNICĂ IOAN",
+        "STATE DRAGOȘ-CONSTANTIN"
       ],
       "shareholders": [],
       "financials": {
@@ -40177,8 +39951,7 @@
         "LUNGU GABRIEL RĂZVAN",
         "MARIN TEODORA",
         "SCARLAT MARIA MANUELA",
-        "STOICHICI VALENTIN PETRU",
-        "TĂNASE LUMINIȚA-MARINELA"
+        "STOICHICI VALENTIN PETRU"
       ],
       "shareholders": [],
       "financials": {
@@ -40220,9 +39993,7 @@
       "legal_reps": [
         "BĂCANU VIORICA",
         "DOBRESCU CĂTĂLIN",
-        "ION ALINA ELENA",
-        "POPA VIORICA",
-        "VIȘINESCU IULIAN SEVERUS",
+        "PANTAZI FLORENTINA",
         "ȘCHIOPU CRISTINEL",
         "ȚABOI FLORIN-MĂDĂLIN"
       ],
@@ -40264,9 +40035,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "GUNIA DRAGOȘ IONEL",
         "JIANU FLORIN",
         "MANOLACHE MARCELA CRISTINA",
+        "SCARLAT MARIA MANUELA",
         "STOICHICI VALENTIN PETRU",
         "VLAD COSTEL CĂTĂLIN"
       ],
@@ -40309,7 +40080,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "SORI DANIEL GHEORGHE",
-        "TACHE ION-OCTAVIAN",
+        "TACHE ION OCTAVIAN",
         "VANE ALEXANDRU FLORIN",
         "VLAD COSTEL CĂTĂLIN",
         "VÂRLAN ALEXANDRU"
@@ -40354,7 +40125,6 @@
       "legal_reps": [
         "CHELMU SORIN GEORGE",
         "ION MARIA ARGENTINA",
-        "NIȚU CORNEL",
         "PÎRVU ANA",
         "SCARLAT MARIA MANUELA",
         "TACHE ION OCTAVIAN"
@@ -40520,7 +40290,7 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "BRAN IOANA MIHAELA",
-        "COJOCARU VLADIMIR",
+        "BURLACU GHEORGHE",
         "OCEANU ADRIAN IULIAN"
       ],
       "shareholders": [],
@@ -40561,10 +40331,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALDESCU AURORA",
-        "CIURCANU GABRIEL WILHELM",
         "FRUSINOIU MARIA-SÎNZIANA",
-        "MARINICĂ VALENTIN-NICOLAE"
+        "ION VALENTIN LUCIAN",
+        "MARINICĂ VALENTIN NICOLAE"
       ],
       "shareholders": [],
       "financials": {
@@ -40604,9 +40373,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ALBULESCU ELENA SIMONA",
         "ION VALENTIN LUCIAN",
-        "IORDACHE ȘTEFANIA"
+        "IORDACHE ȘTEFANIA",
+        "OPREA NICOLAE"
       ],
       "shareholders": [],
       "financials": {
@@ -40646,8 +40415,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CONSTANTIN MARIA",
-        "ILIE MIHAI VIOREL",
+        "IVAN ECATERINA-RALUCA",
+        "MANTA ADRIAN",
         "SIMA ELENA-MIHAELA",
         "VOICILAŞ NICOLAE RĂZVAN"
       ],
@@ -40772,7 +40541,6 @@
       "financial_status": "INACTIVĂ",
       "legal_reps": [
         "BĂDULESCU EMANUEL REMUS",
-        "DĂSCĂLECIU VIOREL",
         "RĂDULESCU EUGEN",
         "STOICA FLORIN-IRINEL"
       ],
@@ -40815,8 +40583,9 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BANU NICULAE",
-        "MARINICĂ VALENTIN-NICOLAE",
-        "SCUMPU ELENA-DORINA"
+        "MARINICĂ VALENTIN NICOLAE",
+        "POPESCU ION VIOREL",
+        "SCUMPU ELENA DORINA"
       ],
       "shareholders": [],
       "financials": {
@@ -40858,12 +40627,9 @@
       "legal_reps": [
         "BOBIC IONUȚ BOGDAN",
         "CĂTĂRIG HORAȚIU LIVIU",
-        "HENTER ANDREA-ELISABETA",
-        "MARCU VALTĂR",
-        "POP EMANUELA MARIA",
+        "MORAR MARIAN",
         "POP IOAN CRISTIAN",
-        "ROȘCA IOAN EMILIAN",
-        "STOICA FILIP"
+        "ROȘCA IOAN EMILIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -41142,8 +40908,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "CONDEA ROMAN-FLORIAN",
+        "GAAL OTTO LEVENTE",
         "KULCSÁR-SZABÓ ANDRÁS",
-        "LAKATOS ALEXANDRU",
         "MUREŞAN OVIDIU VLAD",
         "SEUTE IOAN GAVRIL"
       ],
@@ -41268,7 +41034,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ANTAL ISTVAN JANOS",
-        "BILIUS RUXANDRA IULIANA",
+        "EGEI ATTILA",
         "GIURGIU OVIDIU",
         "KIS LORAND-ENDRE",
         "POP VASILE RADU",
@@ -42131,8 +41897,7 @@
         "DĂNCĂNEŢ IOANA",
         "IROM ALEXANDRU DANIEL",
         "MAIER-BONDREA VASILE",
-        "SERGHE EVA",
-        "ŞENDRONI AUREL"
+        "SERGHE EVA"
       ],
       "shareholders": [],
       "financials": {
@@ -42303,8 +42068,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "POPESCU VIOREL",
-        "TUDOR CONSTANTIN"
+        "POPESCU VIOREL"
       ],
       "shareholders": [],
       "financials": {
@@ -42471,8 +42235,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BICHICEAN MARIA RAMONA",
-        "SINKIEVICI IOAN ADRIAN",
-        "UNGUR OANA MARIA"
+        "OPREAN IULIANA MARIA",
+        "TEREC CĂLIN-GHEORGHE"
       ],
       "shareholders": [],
       "financials": {
@@ -42597,12 +42361,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BALAZS BOTOND",
-        "CĂLIN MARIUS ALIN",
         "FOCŞĂNEANU MARIANA",
-        "GAIDARJI STELA",
-        "NEAG RAMONA",
-        "SEICEAN BOGDAN",
-        "VULCAN MARIA"
+        "POPA OVIDIU"
       ],
       "shareholders": [],
       "financials": {
@@ -42644,7 +42404,8 @@
       "legal_reps": [
         "FOCŞĂNEANU MARIANA",
         "PIETRARU OVIDIU",
-        "PINTEA ŞTEFAN"
+        "PINTEA ŞTEFAN",
+        "PREMIER INSOLV SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -42685,10 +42446,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BALTEȘ ELENA",
-        "GHIMIȘ EUGEN",
         "GRUIAN PAUL EUGEN",
-        "OPRIŞOR ISAIA",
-        "TĂNASE OLIMPIU EUGENIU"
+        "TOADER ȘTEFAN CĂTĂLIN"
       ],
       "shareholders": [],
       "financials": {
@@ -42811,7 +42570,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "FLESCHIN PARASCHIVA"
+        "FLESCHIN PARASCHIVA",
+        "PODARIU ALEMAN",
+        "TOLCIU AUGUSTIN"
       ],
       "shareholders": [],
       "financials": {
@@ -42895,9 +42656,9 @@
       "legal_reps": [
         "BEJU DANIL",
         "BRAD TIBERIU",
-        "COVACI IOAN-HORIA",
         "LUCA LUCIAN",
-        "ROŞCA LIVIU-VIRGIL"
+        "ROȘCA LIVIU VIRGIL",
+        "STIRECIU GABRIEL COSMIN"
       ],
       "shareholders": [],
       "financials": {
@@ -42937,7 +42698,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COCEI RĂZVAN-ALEXANDRU",
         "GAGEA ALEXANDRU MIHAI",
         "MAIER-BONDREA VASILE",
         "ŢEPEŞ IRINA"
@@ -42981,7 +42741,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BIRŢ TEODOR IOAN",
-        "CORACIONI ALEXANDRU TEODOR",
         "POPA IOAN RAREŞ",
         "SERGHE EVA",
         "TICU FLORIN TRAIAN"
@@ -43025,9 +42784,8 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BUCĂȚA SIMONA",
-        "CORACIONI ALEXANDRU TEODOR",
-        "DĂNCĂNEŢ IOANA",
-        "IROM ALEXANDRU DANIEL"
+        "IROM ALEXANDRU DANIEL",
+        "POPA IOAN RAREȘ"
       ],
       "shareholders": [],
       "financials": {
@@ -43069,8 +42827,7 @@
       "legal_reps": [
         "BELEA PUŞA",
         "DRAGOMIR BOGDAN GHEORGHE",
-        "MOLDOVAN IOSIF",
-        "TRANĂ JAN"
+        "MOLDOVAN IOSIF"
       ],
       "shareholders": [],
       "financials": {
@@ -43230,7 +42987,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BĂRDAŞU TEODORA"
+        "DRAGOTĂ IOAN"
       ],
       "shareholders": [],
       "financials": {
@@ -43270,9 +43027,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COPARIU VASILE",
         "HOAJĂ ADRIANA",
-        "OLTEAN IOAN OVIDIU"
+        "OLTEAN IOAN-OVIDIU"
       ],
       "shareholders": [],
       "financials": {
@@ -43312,10 +43068,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CHIHAI LUMINIŢA- PAULA",
-        "MARCAN DIONISIE",
+        "ERCSE LAJOS-LORAND",
         "MERCHEA DAN",
-        "MIHĂILĂ LOREDANA-IULIA",
         "OLARU FLORIN-COSTICĂ",
         "PĂDURARU ANDREI-GEORGE",
         "RAȚĂ ANDA-VIOLETA"
@@ -43480,8 +43234,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "TATAR NISTOR",
-        "TĂNASE LUMINIŢA-MARINELA"
+        "TATAR NISTOR"
       ],
       "shareholders": [],
       "financials": {
@@ -43522,7 +43275,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BREABĂN DAN-IOAN",
-        "DIMOFTE SORINA",
         "MARICI GEORGE ROMEO",
         "PRODAN TIBERIU-AURELIAN"
       ],
@@ -43568,7 +43320,6 @@
         "JURAVLE EMIL-VASILE",
         "MUNTEANU OVIDIU",
         "PETRUC GABRIEL",
-        "RAŢĂ ANDA-VIOLETA",
         "ROMANIUC DARIŢĂ",
         "SÂRGHE TEODOR SEBASTIAN",
         "TĂTĂRANU COSTEL"
@@ -44024,7 +43775,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ORBEȘTEANU RADU   ROBERT"
+        "VLADU OANA-COSMINA"
       ],
       "shareholders": [],
       "financials": {
@@ -44144,7 +43895,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "DINEAŢĂ MARIANA"
+        "TANASA SI ASOCIATII SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -44621,8 +44372,7 @@
       "legal_reps": [
         "ADRIAN MIREA",
         "LAZAR MARINELA ADELA",
-        "STANCU MINEL NELU",
-        "ȘENDRONI AUREL"
+        "STANCU MINEL NELU"
       ],
       "shareholders": [],
       "financials": {
@@ -44924,13 +44674,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BURDUȘEL ALEXANDRU-LUCIAN",
         "BĂLĂCEANU FLORIAN",
-        "CIOCĂNELĂ IONICA MIRABELA",
-        "DEGERATU NELU",
-        "STUPARU PETRICĂ",
-        "TOMULEASA CONSTANTIN",
-        "UBA MARIA"
+        "CRUŞOVEANU ELENA",
+        "VITIUC MARIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -44970,14 +44716,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BECHEANU ȘTEFAN",
-        "BURADA PETRE",
-        "COSAC MARIAN",
-        "CĂPĂȚÎNĂ IOANA",
-        "ION EMIL GABRIEL",
-        "PETCULESCU ANIŞOARA",
-        "VLAD COSTEL VALENTIN",
-        "ȘARAMPOI CONSTANTIN"
+        "BĂLĂCEANU FLORIAN",
+        "HODINĂ VIOREL",
+        "VITIUC MARIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -45017,11 +44758,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "COMAN GEORGE",
-        "CRAIU ADRIAN FLORIN",
-        "IVAN CORINA NICOLAE",
+        "IVAN CORINA NICOLETA",
         "MÂNDREANU IONICĂ",
-        "PARASCHIVESCU EMILIA"
+        "RĂDULESCU FLORIN"
       ],
       "shareholders": [],
       "financials": {
@@ -45345,7 +45084,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "GHIRAN-BĂLA ADRIAN-AUGUSTIN"
+        "BEJAN MIRELA-JEANINA",
+        "COSTINA ANDREI-IOAN",
+        "DICA NELU"
       ],
       "shareholders": [],
       "financials": {
@@ -45985,7 +45726,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BRONȚ ALEXANDRU-SORIN",
         "Vieriu ANDREI-OVIDIU"
       ],
       "shareholders": [],
@@ -46151,6 +45891,7 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "JURJESCU ALINA-DAIANA",
+        "OCNEAN MONICA",
         "PĂCURAR VIRGIL-IOAN"
       ],
       "shareholders": [],
@@ -46351,7 +46092,8 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "CHIHAIA RAMONA"
+        "CHIHAIA RAMONA",
+        "UGA INSOLV IPURL"
       ],
       "shareholders": [],
       "financials": {
@@ -46596,7 +46338,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "FARCANE NICOLETA",
         "KIS ALMA-RAMONA",
         "KUBIK ANDREI-ATILA",
         "LĂCĂTUȘ BIANCA-ILEANA",
@@ -46642,9 +46383,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BĂLIN DANIEL DOREL",
-        "DOGARU DORIN MĂDĂLIN",
-        "FINTA PAUL",
+        "BĂLIN DANIEL-DOREL",
+        "DOGARU DORIN-MĂDĂLIN",
         "GHEORGHE MĂDĂLIN-ION",
         "MIHAI DAN-GHEORGHE",
         "PETOLEA FLORIN",
@@ -46652,7 +46392,7 @@
         "POPESCU BOGDAN-DANIEL",
         "SIMIONAȘ TIBERIU VASILE",
         "SIMIONESCU CIPRIAN",
-        "VELICAN OANA-LUMINIȚA"
+        "UNGURUȘAN SORIN-FLORIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -46696,9 +46436,7 @@
         "DUMITREL GABRIELA-ALINA",
         "NOVAC AURELIAN-REMUS",
         "POPESCU CARMEN-NICOLETA",
-        "RESITNEC DAN",
         "TIUCH CĂTĂLIN",
-        "VELICAN OANA LUMINIŢA",
         "VLAICU ILIE",
         "ZORILĂ ANDREI-MIRCEA",
         "ȘTEFEA PETRU MARIN"
@@ -46741,17 +46479,11 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "AFRONIE ALEXANDRU-PAUL",
         "ALIC DELI-MARIA",
         "COSMA PAUL-COSMIN",
         "FLORESCU MIHAI-DORIN",
-        "HERCZEG ANDREI",
-        "IENEI CSABA",
         "MARTÂNOV VALENTIN CONSTANTIN",
-        "MICLĂUŞ CRISTIAN-DANIEL",
-        "POPA DAN-VIOREL",
-        "PÎRVA CANTEMIR",
-        "SÎRBU NICUŞOR-ALIN"
+        "POPA DAN-VIOREL"
       ],
       "shareholders": [],
       "financials": {
@@ -46872,7 +46604,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUNGET OVIDIU-CONSTANTIN",
         "DENTEANU RADU-DANIEL",
         "GAVRILCIUC CRISTINA-GABRIELA",
         "GERE ELENA-DELIA",
@@ -46958,6 +46689,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "DUAL INSOLV SPRL",
         "SCHAAK ROMINA"
       ],
       "shareholders": [],
@@ -47121,9 +46853,9 @@
       "legal_reps": [
         "CIUPITU GABRIEL",
         "CONDRAT NICUŞOR",
-        "DUMITRU DORIAN",
         "ENCIU GEORGE",
-        "STOICA ELENA"
+        "STOICA ELENA",
+        "VĂDUVA AURELIA"
       ],
       "shareholders": [],
       "financials": {
@@ -47452,7 +47184,6 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "CONSTANTIN AURELIAN",
         "CĂLIN CRISTIAN",
         "DIMOFTE CĂTĂLIN",
         "IUREŞ DORA-ANDREEA",
@@ -47822,7 +47553,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUCUREI OVIDIU SERGIU",
         "CONSTANTINESCU EMIL",
         "POPESCU ALEXANDRU",
         "Stamule Elena"
@@ -47869,7 +47599,6 @@
         "BUMBAC IONELA",
         "MIHAI VERONICA",
         "MORARU ANASTASE",
-        "PASCALE FLORIN",
         "PASCALE RODICA",
         "VÂLCU STOIAN",
         "ZAMFIR IONEL"
@@ -47912,12 +47641,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BIBU NICOLAE-FLORIN",
         "FLORESCU MIRCEA-SORIN",
-        "IDEVO SPRL",
-        "MICU CAMELIA-DOINA",
-        "SIMIONOV MIHAELA",
-        "VANĂ NARCIS ADRIAN"
+        "IDEVO SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -47957,7 +47682,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COSTIN LUMINIȚA-MARINELA",
         "HOLOSTENCU VALERIU",
         "PASCALE RODICA",
         "SIMIONOV MIHAELA"
@@ -48165,8 +47889,10 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BITU DRAGOŞ AURELIAN",
-        "COCOŞ VASILE",
-        "FLORICA LAURA ȘTEFANIA"
+        "DICU ELENA",
+        "EURO INSOL SPRL",
+        "FLORICA LAURA ȘTEFANIA",
+        "VIZAL CONSULTING IPURL"
       ],
       "shareholders": [],
       "financials": {
@@ -48247,7 +47973,6 @@
       "bvb_listed": false,
       "financial_status": "INACTIVĂ",
       "legal_reps": [
-        "MUNTEANU-LAZĂR ADRIAN-DUMITRU",
         "ROESCU ION"
       ],
       "shareholders": [],
@@ -48288,7 +48013,6 @@
       "bvb_listed": false,
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
-        "UDREA CARMEN",
         "VIZAL CONSULTING IPURL"
       ],
       "shareholders": [],
@@ -48329,7 +48053,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COCONU IULIAN"
+        "BOTORAN GEORGE",
+        "COCONU IULIAN",
+        "STANCIU-STOIAN MARIN"
       ],
       "shareholders": [],
       "financials": {
@@ -48574,7 +48300,8 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "PETRESCU SERGIU-ADRIAN"
+        "PETRESCU SERGIU-ADRIAN",
+        "VIZAL CONSULTING IPURL"
       ],
       "shareholders": [],
       "financials": {
@@ -48777,9 +48504,8 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "IONESCU NICOLETA IUSTINA",
-        "MIHĂILĂ ELISABETA",
-        "URUCU CONSTANTIN ALIN"
+        "BÎRZAN GABRIELA",
+        "URUCU CONSTANTIN-ALIN"
       ],
       "shareholders": [],
       "financials": {
@@ -48821,9 +48547,8 @@
       "legal_reps": [
         "DUŢU MIHAI-GHEORGHE",
         "HREBENCIUC IOAN",
-        "IRICIUC IULIAN-CRISTIAN",
         "PREDESCU ELENA-SIMONA",
-        "SEFERIS CHRISTODOULOS CONSTANDINOU",
+        "STĂVĂROIU PETRE",
         "VOICU MARIUS  -IULIAN"
       ],
       "shareholders": [],
@@ -48868,7 +48593,6 @@
         "MANDA PETRIȘOR-ALIN",
         "MĂRGINEAN RODICA",
         "POPESCU ADRIANA",
-        "STANCIU STOIAN MARIN",
         "URECHE SILVIU MIHAI"
       ],
       "shareholders": [],
@@ -49073,7 +48797,6 @@
       "legal_reps": [
         "ANTON AUREL",
         "BEJENARU  EMIL",
-        "ISAC NICU",
         "NISTOR MARIN",
         "PRICOPE CONSTANTIN",
         "SÎRBU  FLORIN"
@@ -49117,11 +48840,9 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "BEŞLEAGĂ GABRIEL",
-        "CHIORESCU NICOLETA",
-        "COSTĂCHESCU IOANA",
+        "GROZA ȘTEFAN",
         "IGNAT ELENA SMĂRĂNDIŢA",
-        "MEGLEI IONEL VASILE",
-        "ŢIBULCĂ IOAN"
+        "MEGLEI IONEL VASILE"
       ],
       "shareholders": [],
       "financials": {
@@ -49161,7 +48882,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ISAC NICU",
         "NISTOR MARIN",
         "SÎRBU FLORIN",
         "ȚUȚUIANU MIRCEA"
@@ -49204,8 +48924,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "CASA DE INSOLVENŢĂ MOLDOVA SPRL",
-        "MUNTEANU CIPRIAN COSTEL"
+        "CASA DE INSOLVENŢĂ MOLDOVA SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -49249,7 +48968,6 @@
         "BOBEICĂ NICOLAE-ADRIAN",
         "DUMITRAȘC ANDI-CONSTANTIN",
         "MARTIN DIMOFTE",
-        "MUNTEANU CIPRIAN COSTEL",
         "TĂNASE EDUARD-LUCIAN"
       ],
       "shareholders": [],
@@ -49495,7 +49213,6 @@
         "ALEXANDRU VIOLETA-CAMELIA",
         "APRODU CĂTĂLIN",
         "AVRAM-RUSU GICĂ",
-        "ISAC NICU",
         "MOLDOVEANU IOAN ALIN",
         "VECHIU CONSTANTIN-IOAN"
       ],
@@ -49623,12 +49340,10 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "COSTIN LUMINIŢA-MARINELA",
         "GHEOCA CORNELIU-DUMITRU",
         "GHEORGHE ANCA IONELA",
         "LUNGU ANCA-MARIANA",
         "OLOERIU IOAN-LIVIU",
-        "POPESCU FLORIN",
         "PUŞCAŞU LUCIAN",
         "VRABIE CĂTĂLIN"
       ],
@@ -49763,7 +49478,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "GORGHIU GEORGETA",
         "ROTARU MIHAI-OVIDIU"
       ],
       "shareholders": [],
@@ -49804,7 +49518,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "ION MARIAN - IONEL"
+        "BUCUR CORNEL",
+        "MOCANU IULIAN",
+        "VULPE GHEORGHE LUCIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -49844,6 +49560,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
+        "GRUP SERVICII INSOLV SPRL",
         "ŞTEFAN IONEL"
       ],
       "shareholders": [],
@@ -49884,12 +49601,9 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "COSTIN LUMINIŢA-MARINELA",
-        "GABOR VICTOR",
-        "MOISĂ IONUŢ-GABRIEL",
-        "NEDELCU IULIANA",
-        "RADU IGNAT",
-        "STOICA CRISTINA"
+        "GHEORGHE ANCA-IONELA",
+        "MOISĂ IONUŢ GABRIEL",
+        "NEGRU DANIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -49931,7 +49645,6 @@
       "legal_reps": [
         "BÎZNĂ IULIAN",
         "CIUPERCĂ ADRIAN",
-        "COSTIN LUMINIŢA MARINELA",
         "DIACONU ION",
         "GOGEAN DANIELA-NICOLETA",
         "MISĂILĂ CRISTI-VALENTIN",
@@ -50135,7 +49848,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "RĂILEANU VICTORIŢA-CAMELIA"
+        "GRUP SERVICII INSOLV SPRL"
       ],
       "shareholders": [],
       "financials": {
@@ -50175,8 +49888,9 @@
       "bvb_listed": false,
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
-        "BUCUR NELU NICUŞOR",
-        "GEORGESCU ŞTEFAN"
+        "CIOBANU GHEORGHE",
+        "GOGEAN DANIELA NICOLETA",
+        "MOISĂ IONUŢ GABRIEL"
       ],
       "shareholders": [],
       "financials": {
@@ -50944,9 +50658,9 @@
       "bvb_listed": false,
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
-        "BOLOLOI CORNELIUS-SORIN",
-        "CHIRCU VIRGIL-NICUȘOR",
-        "ROMOȘAN ILIE-ADRIAN"
+        "BABA CARMEN",
+        "SINK EUGEN-ADRIAN",
+        "ȘENDRONI AUREL"
       ],
       "shareholders": [],
       "financials": []
@@ -51020,7 +50734,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "GROZA ALEXANDRU",
         "LUPOU CLAUDIA RAMONA",
         "MIZGAIU RAREȘ TUDOR",
         "MOCAN ALINA CARMEN",
@@ -51146,8 +50859,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "EGYED VINCZE",
-        "HAJMAȘAN DAN IONEL"
+        "EGYED VINCZE"
       ],
       "shareholders": [],
       "financials": {
@@ -51227,6 +50939,7 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
+        "IONESCU SI ASOCIATII SPRL",
         "IVANCEA MERLIN",
         "MAXIM FĂNUȚĂ"
       ],
@@ -51268,9 +50981,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BURICEA SIMONA DANIELA",
-        "MINIUSI MARIO   EMANUEL",
-        "SAFTA IRINA"
+        "GAVRILĂ DIMA BOGDAN TEONIU",
+        "GEANTĂ DELIA IOANA",
+        "MINIUSI MARIO EMANUEL"
       ],
       "shareholders": [],
       "financials": {
@@ -51350,9 +51063,7 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BORZA OANA",
-        "RĂDOI MĂDĂLINA-IONELA-MĂRIOARA",
-        "TĂTARU OANA-GEORGETA"
+        "BORZA OANA"
       ],
       "shareholders": [],
       "financials": {
@@ -51554,9 +51265,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BARBU ELENA-IRINA",
-        "BURLACU GHEORGHE",
-        "BUZĂȚEL ELENA",
+        "BARBU ELENA IRINA",
+        "BONTIC ANDREI",
         "POIENARIU GHEORGHE"
       ],
       "shareholders": [],
@@ -51679,10 +51389,9 @@
       "bvb_listed": false,
       "financial_status": "OPACĂ",
       "legal_reps": [
-        "BUZĂȚEL ELENA",
+        "ANTON NICOLETA",
         "CONSTANTIN ADRIAN-ION",
-        "GHIOCA TEODOR-VASILE",
-        "MUȘAT MIHAELA-ALINA"
+        "HOGEA IOANA"
       ],
       "shareholders": [],
       "financials": {
@@ -51803,7 +51512,8 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "BORUGĂ ADRIAN",
-        "OCNEAN MONICA"
+        "IENEI CSABA",
+        "SIMIONESCU CIPRIAN"
       ],
       "shareholders": [],
       "financials": {
@@ -52052,7 +51762,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUNGET OVIDIU-CONSTANTIN",
         "LOGA ION",
         "SELEȘTEAN-DIOS LAURA-OANA",
         "TOBĂ LAURA-TEODORA"
@@ -52261,7 +51970,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BIRIȘ LIVIU IOAN",
         "LEANCA MARIUS",
         "POPA CAMELIA"
       ],
@@ -52385,7 +52093,6 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "BUZĂȚEL ELENA",
         "BĂLĂCEANU IRINA ELENA",
         "TUDOR GHEORGHE",
         "TUDORACHE FLORIAN"
@@ -52429,7 +52136,6 @@
       "financial_status": "PROFIT",
       "legal_reps": [
         "ACHIȚEI RAMONA DANIELA",
-        "DASCALU MARICEL",
         "PĂDUREANU STELIAN LEONARD",
         "TABACARU ION"
       ],
@@ -52642,8 +52348,8 @@
       "financial_status": "DEFICITARĂ",
       "legal_reps": [
         "LAKATOS ALEXANDRU",
-        "NEDELCU CRISTINA MARIANA",
-        "TEȘINSCHII EMANOIL TIBERIU"
+        "NEDELCU CRISTINA-MARIANA",
+        "TEȘINSCHII EMANOIL-TIBERIU"
       ],
       "shareholders": [],
       "financials": {
@@ -52726,7 +52432,7 @@
       "financial_status": "PIERDERE",
       "legal_reps": [
         "ANGHELACHE FELICIA GEORGIANA",
-        "OLTEAN GABRIEL VASILE",
+        "OLTEAN GABRIEL-VASILE",
         "SAVA RADU COSTIN"
       ],
       "shareholders": [],
@@ -52977,10 +52683,8 @@
       "bvb_listed": false,
       "financial_status": "PROFIT",
       "legal_reps": [
-        "DRĂGAN NICOLETA-CARMEN",
-        "HODORCĂ NECULAI",
-        "JIANU CORINA EUGENIA",
-        "PĂTRUȚOIU CRISTIAN",
+        "BUTISEACĂ ALEXANDRU",
+        "GOIDEA FLORIN",
         "TEREC CĂLIN-GHEORGHE",
         "ȚUȚUI EMILIA GEORGETA"
       ],
@@ -53152,7 +52856,6 @@
         "BACAINTAN IRIMIE-GABRIEL",
         "CITR FILIALA BUCUREȘTI SPRL",
         "CONSTANTIN FLORIN - MĂDPLIN",
-        "NAN RODICA",
         "RIEDL IOANA - CRISTINA"
       ],
       "shareholders": [],
@@ -53322,10 +53025,9 @@
       "bvb_listed": false,
       "financial_status": "PIERDERE",
       "legal_reps": [
-        "BUZĂȚEL ELENA",
-        "HEREA CONSTANTIN",
-        "HOGEA IOANA",
-        "POIENARIU GHEORGHE"
+        "BĂLĂCEANU IRINA ELENA",
+        "ILIE GHERSON GHEORGHE",
+        "PETRE GHEORGHE"
       ],
       "shareholders": [],
       "financials": {
