@@ -1,13 +1,13 @@
 {
- "generat": "2026-11-19",
+ "generat": "2026-11-21",
  "perioada": {
   "de_la": "2026-10-19",
   "pana_la": "2026-11-18",
   "zile": 30
  },
- "n_sedinte": 32,
- "n_comisii_active": 9,
- "n_plx_unice": 78,
+ "n_sedinte": 57,
+ "n_comisii_active": 16,
+ "n_plx_unice": 166,
  "sedinte": [
   {
    "comisie": "Comisia pentru comunităţile de români din afara graniţelor ţării",
@@ -140,6 +140,547 @@
       }
      ],
      "n_documente": 11
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia pentru cultură, arte şi mijloace de informare în masă",
+   "tip": 10,
+   "data": "2026-11-17",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1062049678/ordine%20de%20zi%202026-11-17.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia juridică, de disciplină şi imunităţi",
+   "tip": 11,
+   "data": "2026-11-17",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1802540543/oz17.11.pdf",
+   "n_plx": 26,
+   "plx": [
+    {
+     "idp": "19851",
+     "titlu": "PL-x nr. 102/2022",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19851",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2022/100/00/2/em124.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2022/100/00/2/cl124.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2022/100/00/2/se124.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "22850",
+     "titlu": "Pl-x nr. 555/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22850",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/500/50/5/em710.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/500/50/5/pl710.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/500/50/5/cl710.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "22964",
+     "titlu": "Pl-x nr. 55/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22964",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/000/50/5/em43.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/000/50/5/pl43.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/000/50/5/cl43.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23054",
+     "titlu": "Pl-x nr. 399/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23054",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/9/em435.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/9/pl435.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/9/cl435.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23290",
+     "titlu": "PL-x nr. 733/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23290",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/30/3/em828.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/30/3/cl828.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/700/30/3/se828.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23348",
+     "titlu": "Pl-x nr. 705/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23348",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/5/em805.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/5/pl805.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/5/cl805.pdf"
+      }
+     ],
+     "n_documente": 12
+    },
+    {
+     "idp": "23349",
+     "titlu": "Pl-x nr. 634/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23349",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/30/4/em718.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/30/4/pl718.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/30/4/cl718.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23362",
+     "titlu": "Pl-x nr. 711/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23362",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/1/em806.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/1/pl806.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/1/cl806.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23366",
+     "titlu": "Pl-x nr. 700/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23366",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/0/em793.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/0/pl793.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/0/cl793.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23372",
+     "titlu": "Pl-x nr. 713/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23372",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/3/em808.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/3/pl808.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/3/cl808.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23481",
+     "titlu": "PL-x nr. 568/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23481",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/8/em648.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/8/cl648.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/8/se648.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23564",
+     "titlu": "Pl-x nr. 614/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23564",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/10/4/em734.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/10/4/pl734.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/10/4/cl734.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23577",
+     "titlu": "Pl-x nr. 650/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23577",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/0/em751.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/0/pl751.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/0/cl751.pdf"
+      }
+     ],
+     "n_documente": 14
+    },
+    {
+     "idp": "23580",
+     "titlu": "PL-x nr. 666/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23580",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/60/6/em757.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/60/6/cl757.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/60/6/se757.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23583",
+     "titlu": "Pl-x nr. 668/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23583",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/60/8/em761.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/60/8/pl761.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/60/8/cl668.pdf"
+      }
+     ],
+     "n_documente": 6
+    },
+    {
+     "idp": "23586",
+     "titlu": "PL-x nr. 676/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23586",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/6/em768.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/6/cl768.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/6/se768.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23597",
+     "titlu": "Pl-x nr. 686/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23597",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/6/em777.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/6/pl777.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/6/cl777.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23602",
+     "titlu": "Pl-x nr. 688/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23602",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/8/em782.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/8/pl782.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/8/cl782.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23604",
+     "titlu": "PL-x nr. 690/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23604",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/em784.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/pl784.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/cl784.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/gv690.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23607",
+     "titlu": "PL-x nr. 696/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23607",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/6/em788.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/6/cl788.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/6/se788.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23608",
+     "titlu": "Pl-x nr. 697/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23608",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/7/em789.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/7/pl789.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/7/cl789.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23611",
+     "titlu": "Pl-x nr. 693/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23611",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/3/em794.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/3/pl794.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/3/cl794.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23617",
+     "titlu": "PL-x nr. 707/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23617",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/7/em800.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/7/cl800.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/700/00/7/se800.pdf"
+      }
+     ],
+     "n_documente": 13
+    },
+    {
+     "idp": "23618",
+     "titlu": "Pl-x nr. 715/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23618",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/5/em810.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/5/pl810.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/5/cl810.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23627",
+     "titlu": "Pl-x nr. 718/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23627",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/8/em816.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/8/pl816.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/10/8/cl816.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23638",
+     "titlu": "PL-x nr. 726/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23638",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/700/20/6/em835.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/700/20/6/cl835.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/700/20/6/se835.pdf"
+      }
+     ],
+     "n_documente": 10
     }
    ]
   },
@@ -325,6 +866,14 @@
    ]
   },
   {
+   "comisie": "Comisia pentru egalitatea de şanse pentru femei şi bărbaţi",
+   "tip": 20,
+   "data": "2026-11-17",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1255116000/OZ%2017.11.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
    "comisie": "Comisia pentru știință și tehnologie",
    "tip": 72,
    "data": "2026-11-17",
@@ -494,6 +1043,231 @@
       }
      ],
      "n_documente": 6
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+   "tip": 6,
+   "data": "2026-11-16",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F2096624542/oz16noiembrie.pdf",
+   "n_plx": 11,
+   "plx": [
+    {
+     "idp": "20308",
+     "titlu": "PL-x nr. 528/2022",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20308",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2022/500/20/8/em655.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2022/500/20/8/cl655.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2022/500/20/8/se655.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "20675",
+     "titlu": "PL-x nr. 85/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20675",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/000/80/5/em62.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/000/80/5/cl62.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2023/000/80/5/se62.pdf"
+      }
+     ],
+     "n_documente": 6
+    },
+    {
+     "idp": "21200",
+     "titlu": "Pl-x nr. 594/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21200",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/500/90/4/em679.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/500/90/4/pl679.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/500/90/4/cl679.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "21236",
+     "titlu": "Pl-x nr. 618/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21236",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/600/10/8/em713.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/600/10/8/pl713.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/600/10/8/cl713.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "21450",
+     "titlu": "Pl-x nr. 822/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21450",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/800/20/2/em963.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/800/20/2/pl963.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/800/20/2/cl963.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "22187",
+     "titlu": "Pl-x nr. 32/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22187",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/000/30/2/em791.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/000/30/2/pl791.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/000/30/2/cl791.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "22669",
+     "titlu": "Pl-x nr. 406/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22669",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/400/00/6/em501.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/400/00/6/pl501.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/400/00/6/cl501.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "22750",
+     "titlu": "Pl-x nr. 478/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22750",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/400/70/8/em600.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/400/70/8/pl600.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/400/70/8/cl600.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "22796",
+     "titlu": "Pl-x nr. 513/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22796",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/500/10/3/em651.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/500/10/3/pl651.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/500/10/3/cl651.pdf"
+      }
+     ],
+     "n_documente": 14
+    },
+    {
+     "idp": "23077",
+     "titlu": "PL-x nr. 181/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23077",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/100/80/1/em190.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/100/80/1/cl190.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/100/80/1/se190.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23395",
+     "titlu": "Pl-x nr. 516/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23395",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/6/em568.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/6/pl568.pdf"
+      }
+     ],
+     "n_documente": 11
     }
    ]
   },
@@ -801,6 +1575,22 @@
    ]
   },
   {
+   "comisie": "Comisia pentru cultură, arte şi mijloace de informare în masă",
+   "tip": 10,
+   "data": "2026-11-10",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F897023341/ordine%20de%20zi%202026-11-10.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia juridică, de disciplină şi imunităţi",
+   "tip": 11,
+   "data": "2026-11-10",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F467041360/oz10.11-STUDIU.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
    "comisie": "Comisia pentru tehnologia informaţiei şi comunicaţiilor",
    "tip": 19,
    "data": "2026-11-10",
@@ -980,6 +1770,14 @@
      "n_documente": 14
     }
    ]
+  },
+  {
+   "comisie": "Comisia pentru egalitatea de şanse pentru femei şi bărbaţi",
+   "tip": 20,
+   "data": "2026-11-10",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F606671426/OZ%2010.11.pdf",
+   "n_plx": 0,
+   "plx": []
   },
   {
    "comisie": "Comisia pentru constituționalitate",
@@ -1176,6 +1974,215 @@
    ]
   },
   {
+   "comisie": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+   "tip": 6,
+   "data": "2026-11-09",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1386900510/oz9noiembrie.pdf",
+   "n_plx": 10,
+   "plx": [
+    {
+     "idp": "20670",
+     "titlu": "Pl-x nr. 82/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20670",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/000/80/2/em71.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/000/80/2/pl71.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/000/80/2/cl71.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "20727",
+     "titlu": "PL-x nr. 367/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20727",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/300/60/7/em414.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/300/60/7/cl414.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2023/300/60/7/se414.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "20795",
+     "titlu": "Pl-x nr. 226/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20795",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/200/20/6/em229.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/200/20/6/pl229.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/200/20/6/cl229.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "21389",
+     "titlu": "Pl-x nr. 768/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21389",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/700/60/8/em893.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/700/60/8/pl893.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/700/60/8/cl893.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "21420",
+     "titlu": "Pl-x nr. 790/2023",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21420",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2023/700/90/0/em926.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2023/700/90/0/pl926.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2023/700/90/0/cl926.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "22107",
+     "titlu": "Pl-x nr. 633/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22107",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/3/em714.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/3/pl714.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/3/cl714.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23158",
+     "titlu": "Pl-x nr. 281/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23158",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/1/em300.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/1/pl300.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/1/cl300.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23208",
+     "titlu": "Pl-x nr. 322/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23208",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/20/2/em348.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/300/20/2/pl348.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/20/2/cl348.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23224",
+     "titlu": "Pl-x nr. 341/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23224",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/40/1/em371.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/300/40/1/pl371.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/40/1/cl371.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23476",
+     "titlu": "PL-x nr. 558/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23476",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/50/8/em641.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/50/8/cl641.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/500/50/8/se641.pdf"
+      }
+     ],
+     "n_documente": 10
+    }
+   ]
+  },
+  {
    "comisie": "Comisia pentru politică economică, reformă şi privatizare",
    "tip": 1,
    "data": "2026-11-05",
@@ -1341,6 +2348,308 @@
    ]
   },
   {
+   "comisie": "Comisia pentru apărare, ordine publică şi siguranţă naţională",
+   "tip": 12,
+   "data": "2026-11-04",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1932891900/OZ%20sedinta%20MIERCURI,%204.11.2026%20,%20ora%209.pdf",
+   "n_plx": 7,
+   "plx": [
+    {
+     "idp": "22191",
+     "titlu": "PL-x nr. 26/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22191",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/000/20/6/em796.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/000/20/6/cl796.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2025/000/20/6/se796.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "22629",
+     "titlu": "Pl-x nr. 370/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22629",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/300/70/0/em461.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/300/70/0/pl461.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/300/70/0/cl461.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23189",
+     "titlu": "PL-x nr. 567/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23189",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/7/em646.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/7/cl646.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/7/se646.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23276",
+     "titlu": "PL-x nr. 406/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23276",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/6/em441.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/6/cl441.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/6/se441.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/6/gv441.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23387",
+     "titlu": "Pl-x nr. 495/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23387",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/90/5/em557.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/400/90/5/pl557.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/docs?2026/pl495_cd495_26_(1).pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23392",
+     "titlu": "PL-x nr. 506/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23392",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/00/6/em562.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/00/6/cl562.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/500/00/6/se562.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23517",
+     "titlu": "Pl-x nr. 602/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23517",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/2/em686.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/2/pl686.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/2/cl686.pdf"
+      }
+     ],
+     "n_documente": 10
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia pentru buget, finanţe şi bănci",
+   "tip": 2,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F407639019/OZ%203.11.2026.pdf",
+   "n_plx": 6,
+   "plx": [
+    {
+     "idp": "22119",
+     "titlu": "PL-x nr. 639/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22119",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/9/em723.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/9/cl723.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/9/se723.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2024/600/30/9/gv723.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23173",
+     "titlu": "PL-x nr. 286/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23173",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/6/em306.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/6/cl306.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/6/se306.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/200/80/6/gv306.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23221",
+     "titlu": "PL-x nr. 338/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23221",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/30/8/em368.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/30/8/cl368.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/300/30/8/se368.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/300/30/8/gv368.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23278",
+     "titlu": "PL-x nr. 408/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23278",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/8/em443.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/8/cl443.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/8/se443.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/400/00/8/gv443.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23428",
+     "titlu": "PL-x nr. 544/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23428",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/4/em588.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/4/cl588.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/4/se588.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/4/gv588.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23606",
+     "titlu": "PL-x nr. 695/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23606",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/5/em787.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/5/cl787.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/5/se787.pdf"
+      }
+     ],
+     "n_documente": 8
+    }
+   ]
+  },
+  {
    "comisie": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
    "tip": 4,
    "data": "2026-11-03",
@@ -1386,6 +2695,591 @@
       }
      ],
      "n_documente": 8
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia pentru muncă şi protecţie socială",
+   "tip": 7,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F-1143383552/oz%2003.11.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia pentru cultură, arte şi mijloace de informare în masă",
+   "tip": 10,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F2124710832/ordine%20de%20zi%202026-11-03.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia juridică, de disciplină şi imunităţi",
+   "tip": 11,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F179647151/oz03.11.pdf",
+   "n_plx": 28,
+   "plx": [
+    {
+     "idp": "22418",
+     "titlu": "PL-x nr. 324/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22418",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/300/20/4/em419.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/300/20/4/cl419.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2025/300/20/4/se419.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "22577",
+     "titlu": "PL-x nr. 300/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22577",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/300/00/0/em393.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/300/00/0/cl393.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2025/300/00/0/se393.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "22984",
+     "titlu": "Pl-x nr. 69/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22984",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/000/60/9/em61.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/000/60/9/pl61.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23071",
+     "titlu": "PL-x nr. 488/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23071",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/80/8/em551.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/80/8/cl551.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/400/80/8/se551.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23266",
+     "titlu": "PL-x nr. 675/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23266",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/5/em766.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/5/cl766.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/5/se766.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23269",
+     "titlu": "Pl-x nr. 396/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23269",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/6/em433.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/6/pl433.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/6/cl433.pdf"
+      }
+     ],
+     "n_documente": 14
+    },
+    {
+     "idp": "23270",
+     "titlu": "Pl-x nr. 398/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23270",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/8/em434.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/8/pl434.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/90/8/cl434.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23291",
+     "titlu": "Pl-x nr. 421/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23291",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/1/em461.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/1/pl461.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/1/cl461.pdf"
+      }
+     ],
+     "n_documente": 13
+    },
+    {
+     "idp": "23296",
+     "titlu": "PL-x nr. 427/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23296",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/7/em466.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/7/cl466.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/7/se466.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/400/20/7/gv466.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23305",
+     "titlu": "PL-x nr. 433/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23305",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/30/3/em476.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/30/3/cl476.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/400/30/3/se476.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "23392",
+     "titlu": "PL-x nr. 506/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23392",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/00/6/em562.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/00/6/cl562.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/500/00/6/se562.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23396",
+     "titlu": "Pl-x nr. 515/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23396",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/5/em567.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/5/pl567.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/5/cl567.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23436",
+     "titlu": "Pl-x nr. 543/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23436",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/3/em597.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/3/pl597.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/40/3/cl543.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23508",
+     "titlu": "Pl-x nr. 591/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23508",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/1/em675.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/1/pl675.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/1/cl591.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23509",
+     "titlu": "Pl-x nr. 592/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23509",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/2/em676.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/2/pl676.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/2/cl592.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23533",
+     "titlu": "PL-x nr. 608/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23533",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/8/em702.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/8/cl702.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/8/se702.pdf"
+      }
+     ],
+     "n_documente": 13
+    },
+    {
+     "idp": "23534",
+     "titlu": "PL-x nr. 620/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23534",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/20/0/em703.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/20/0/cl703.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/20/0/se703.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23541",
+     "titlu": "Pl-x nr. 627/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23541",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/20/7/em711.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/20/7/pl711.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/20/7/cl711.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23562",
+     "titlu": "Pl-x nr. 642/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23562",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/2/em731.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/2/pl731.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/2/cl731.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23567",
+     "titlu": "PL-x nr. 651/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23567",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/1/em738.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/1/cl738.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/1/se738.pdf"
+      }
+     ],
+     "n_documente": 5
+    },
+    {
+     "idp": "23572",
+     "titlu": "PL-x nr. 656/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23572",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/6/em743.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/6/cl743.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/50/6/se743.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "23573",
+     "titlu": "PL nr. 646/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23573",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/6/em744.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/6/cl744.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/6/se744.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23584",
+     "titlu": "PL-x nr. 673/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23584",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/3/em770.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/3/cl770.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/3/se770.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23592",
+     "titlu": "Pl-x nr. 679/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23592",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/9/em772.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/9/pl772.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/70/9/cl772.pdf"
+      }
+     ],
+     "n_documente": 12
+    },
+    {
+     "idp": "23593",
+     "titlu": "Pl-x nr. 680/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23593",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/0/em773.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/0/pl773.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/0/cl773.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23599",
+     "titlu": "Pl-x nr. 687/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23599",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/7/em779.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/7/pl779.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/7/cl779.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23600",
+     "titlu": "Pl-x nr. 683/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23600",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/3/em780.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/3/pl780.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/3/cl780.pdf"
+      }
+     ],
+     "n_documente": 14
+    },
+    {
+     "idp": "23602",
+     "titlu": "Pl-x nr. 688/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23602",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/8/em782.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/8/pl782.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/80/8/cl782.pdf"
+      }
+     ],
+     "n_documente": 10
     }
    ]
   },
@@ -1477,6 +3371,30 @@
      "n_documente": 11
     }
    ]
+  },
+  {
+   "comisie": "Comisia pentru egalitatea de şanse pentru femei şi bărbaţi",
+   "tip": 20,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F969778813/OZ%2003.11.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia pentru mediu şi echilibru ecologic",
+   "tip": 46,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F311222734/Oz%20site_3.11.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia pentru știință și tehnologie",
+   "tip": 72,
+   "data": "2026-11-03",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1841251155/oz%20-%203.11.2026.pdf",
+   "n_plx": 0,
+   "plx": []
   },
   {
    "comisie": "Comisia pentru tineret și sport",
@@ -1747,6 +3665,235 @@
      "n_documente": 10
     }
    ]
+  },
+  {
+   "comisie": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+   "tip": 6,
+   "data": "2026-11-02",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F185058397/oz2noiembrie.pdf",
+   "n_plx": 10,
+   "plx": [
+    {
+     "idp": "18523",
+     "titlu": "PL-x nr. 174/2020",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18523",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2020/100/70/4/em248.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2020/100/70/4/cl248.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2020/100/70/4/se248.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "19480",
+     "titlu": "PL-x nr. 366/2021",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19480",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2021/300/60/6/em450.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2021/300/60/6/pl450.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2021/300/60/6/cl450.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2021/300/60/6/se450.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "19851",
+     "titlu": "PL-x nr. 102/2022",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19851",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2022/100/00/2/em124.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2022/100/00/2/cl124.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2022/100/00/2/se124.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "21742",
+     "titlu": "PL-x nr. 273/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21742",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/200/70/3/em309.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/200/70/3/cl309.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2024/200/70/3/se309.pdf"
+      }
+     ],
+     "n_documente": 7
+    },
+    {
+     "idp": "22764",
+     "titlu": "Pl-x nr. 73/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22764",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/000/70/3/em66.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/000/70/3/pl66.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/000/70/3/cl66.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23007",
+     "titlu": "PL-x nr. 101/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23007",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/100/00/1/em98.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/100/00/1/cl98.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/100/00/1/se98.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/100/00/1/gv98.pdf"
+      }
+     ],
+     "n_documente": 9
+    },
+    {
+     "idp": "23515",
+     "titlu": "Pl-x nr. 599/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23515",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/9/em683.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/9/pl683.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/90/9/cl683.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23517",
+     "titlu": "Pl-x nr. 602/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23517",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/2/em686.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/2/pl686.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/2/cl686.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23520",
+     "titlu": "Pl-x nr. 604/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23520",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/4/em689.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/4/pl689.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/00/4/cl689.pdf"
+      }
+     ],
+     "n_documente": 12
+    },
+    {
+     "idp": "23604",
+     "titlu": "PL-x nr. 690/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23604",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/em784.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/pl784.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/cl784.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2026/600/90/0/gv690.pdf"
+      }
+     ],
+     "n_documente": 10
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia specială comună a Camerei Deputaţilor şi Senatului în domeniul legislaţiei privind prevenirea, combaterea şi sancţionarea ",
+   "tip": 252,
+   "data": "2026-11-02",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1508133498/ordzi02.11.pdf",
+   "n_plx": 0,
+   "plx": []
   },
   {
    "comisie": "Comisia pentru politică economică, reformă şi privatizare",
@@ -2595,6 +4742,267 @@
    ]
   },
   {
+   "comisie": "Comisia pentru administraţie publică şi amenajarea teritoriului",
+   "tip": 6,
+   "data": "2026-10-26",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1164064741/oz26octombrie.pdf",
+   "n_plx": 12,
+   "plx": [
+    {
+     "idp": "21669",
+     "titlu": "PL-x nr. 202/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21669",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/200/00/2/em230.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/200/00/2/cl230.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2024/200/00/2/se230.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "21698",
+     "titlu": "PL-x nr. 231/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21698",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/200/30/1/em262.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/200/30/1/cl262.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2024/200/30/1/se262.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "21756",
+     "titlu": "Pl-x nr. 283/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21756",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/200/80/3/em323.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2024/200/80/3/pl323.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/200/80/3/cl323.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "21969",
+     "titlu": "PL-x nr. 493/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21969",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/400/90/3/em562.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/400/90/3/cl562.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2024/400/90/3/se562.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2024/400/90/3/gv562.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "21986",
+     "titlu": "PL-x nr. 523/2024",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21986",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2024/500/20/3/em579.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2024/500/20/3/cl579.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2024/500/20/3/se579.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "22186",
+     "titlu": "Pl-x nr. 20/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22186",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/000/20/0/em790.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/000/20/0/pl790.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/000/20/0/cl790.pdf"
+      }
+     ],
+     "n_documente": 8
+    },
+    {
+     "idp": "22368",
+     "titlu": "PL-x nr. 385/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22368",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/300/80/5/em486.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/300/80/5/cl486.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2025/300/80/5/se486.pdf"
+      }
+     ],
+     "n_documente": 14
+    },
+    {
+     "idp": "22553",
+     "titlu": "PL-x nr. 282/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22553",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/200/80/2/em369.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/200/80/2/cl369.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2025/200/80/2/se369.pdf"
+      },
+      {
+       "tip": "punct de vedere Guvern",
+       "url": "https://www.cdep.ro/proiecte/2025/200/80/2/gv369.pdf"
+      }
+     ],
+     "n_documente": 13
+    },
+    {
+     "idp": "22929",
+     "titlu": "PL-x nr. 319/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22929",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/10/9/em341.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/10/9/cl341.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/300/10/9/se341.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23345",
+     "titlu": "PL-x nr. 470/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23345",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/400/70/0/em520.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/400/70/0/cl520.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/400/70/0/se520.pdf"
+      }
+     ],
+     "n_documente": 13
+    },
+    {
+     "idp": "23395",
+     "titlu": "Pl-x nr. 516/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23395",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/6/em568.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/10/6/pl568.pdf"
+      }
+     ],
+     "n_documente": 11
+    },
+    {
+     "idp": "23491",
+     "titlu": "Pl-x nr. 565/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23491",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/5/em656.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/5/pl656.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/500/60/5/cl565.pdf"
+      }
+     ],
+     "n_documente": 10
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia juridică, de disciplină şi imunităţi",
+   "tip": 11,
+   "data": "2026-10-26",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F82297435/oz26.10.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
    "comisie": "Comisia pentru politică economică, reformă şi privatizare",
    "tip": 1,
    "data": "2026-10-22",
@@ -2752,6 +5160,99 @@
    ]
   },
   {
+   "comisie": "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
+   "tip": 4,
+   "data": "2026-10-22",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F914026825/Ord%20zi%2021-22%20OCT%202026.pdf",
+   "n_plx": 3,
+   "plx": [
+    {
+     "idp": "22630",
+     "titlu": "Pl-x nr. 371/2025",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22630",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2025/300/70/1/em462.pdf"
+      },
+      {
+       "tip": "forma inițiatorului",
+       "url": "https://www.cdep.ro/proiecte/2025/300/70/1/pl462.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2025/300/70/1/cl462.pdf"
+      }
+     ],
+     "n_documente": 10
+    },
+    {
+     "idp": "23262",
+     "titlu": "PL-x nr. 385/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23262",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/300/80/5/em426.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/300/80/5/cl426.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/300/80/5/se426.pdf"
+      }
+     ],
+     "n_documente": 6
+    },
+    {
+     "idp": "23379",
+     "titlu": "PL-x nr. 648/2026",
+     "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23379",
+     "acte_baza": [
+      {
+       "tip": "expunere de motive",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/8/em746.pdf"
+      },
+      {
+       "tip": "aviz Consiliul Legislativ",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/8/cl746.pdf"
+      },
+      {
+       "tip": "sesizare",
+       "url": "https://www.cdep.ro/proiecte/2026/600/40/8/se746.pdf"
+      }
+     ],
+     "n_documente": 8
+    }
+   ]
+  },
+  {
+   "comisie": "Comisia juridică, de disciplină şi imunităţi",
+   "tip": 11,
+   "data": "2026-10-21",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1301666640/oz21.10.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia juridică, de disciplină şi imunităţi",
+   "tip": 11,
+   "data": "2026-10-20",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1175827150/oz20.10.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia pentru egalitatea de şanse pentru femei şi bărbaţi",
+   "tip": 20,
+   "data": "2026-10-20",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F315913978/OZ%2020.10.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
    "comisie": "Comisia pentru comunităţile de români din afara graniţelor ţării",
    "tip": 32,
    "data": "2026-10-20",
@@ -2780,6 +5281,14 @@
    "tip": 4,
    "data": "2026-10-19",
    "agenda_url": "https://www.cdep.ro/ords/co/docs?F955554040/Ord%20zi%2019.10.2026.pdf",
+   "n_plx": 0,
+   "plx": []
+  },
+  {
+   "comisie": "Comisia pentru cultură, arte şi mijloace de informare în masă",
+   "tip": 10,
+   "data": "2026-10-19",
+   "agenda_url": "https://www.cdep.ro/ords/co/docs?F1260238470/ordine%20de%20zi%202026-10-19.pdf",
    "n_plx": 0,
    "plx": []
   },
@@ -2848,6 +5357,53 @@
    ]
   },
   {
+   "idp": "23577",
+   "titlu": "Pl-x nr. 650/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23577",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/50/0/em751.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/50/0/pl751.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/50/0/cl751.pdf"
+    }
+   ],
+   "n_documente": 14,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
+    "Comisia pentru tineret și sport"
+   ]
+  },
+  {
+   "idp": "22796",
+   "titlu": "Pl-x nr. 513/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22796",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/500/10/3/em651.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/500/10/3/pl651.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/500/10/3/cl651.pdf"
+    }
+   ],
+   "n_documente": 14,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
    "idp": "22368",
    "titlu": "PL-x nr. 385/2025",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22368",
@@ -2867,7 +5423,54 @@
    ],
    "n_documente": 14,
    "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului",
     "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+   ]
+  },
+  {
+   "idp": "23269",
+   "titlu": "Pl-x nr. 396/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23269",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/6/em433.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/6/pl433.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/6/cl433.pdf"
+    }
+   ],
+   "n_documente": 14,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23600",
+   "titlu": "Pl-x nr. 683/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23600",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/3/em780.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/3/pl780.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/3/cl780.pdf"
+    }
+   ],
+   "n_documente": 14,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -2895,26 +5498,26 @@
    ]
   },
   {
-   "idp": "23577",
-   "titlu": "Pl-x nr. 650/2026",
-   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23577",
+   "idp": "23617",
+   "titlu": "PL-x nr. 707/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23617",
    "acte_baza": [
     {
      "tip": "expunere de motive",
-     "url": "https://www.cdep.ro/proiecte/2026/600/50/0/em751.pdf"
-    },
-    {
-     "tip": "forma inițiatorului",
-     "url": "https://www.cdep.ro/proiecte/2026/600/50/0/pl751.pdf"
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/7/em800.pdf"
     },
     {
      "tip": "aviz Consiliul Legislativ",
-     "url": "https://www.cdep.ro/proiecte/2026/600/50/0/cl751.pdf"
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/7/cl800.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/7/se800.pdf"
     }
    ],
-   "n_documente": 14,
+   "n_documente": 13,
    "comisii": [
-    "Comisia pentru tineret și sport"
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -2945,6 +5548,52 @@
    ]
   },
   {
+   "idp": "23291",
+   "titlu": "Pl-x nr. 421/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23291",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/1/em461.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/1/pl461.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/1/cl461.pdf"
+    }
+   ],
+   "n_documente": 13,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23533",
+   "titlu": "PL-x nr. 608/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23533",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/00/8/em702.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/00/8/cl702.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/00/8/se702.pdf"
+    }
+   ],
+   "n_documente": 13,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
    "idp": "22943",
    "titlu": "PL-x nr. 33/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22943",
@@ -2969,6 +5618,79 @@
    "n_documente": 13,
    "comisii": [
     "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "22553",
+   "titlu": "PL-x nr. 282/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22553",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/200/80/2/em369.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/200/80/2/cl369.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2025/200/80/2/se369.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2025/200/80/2/gv369.pdf"
+    }
+   ],
+   "n_documente": 13,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23345",
+   "titlu": "PL-x nr. 470/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23345",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/70/0/em520.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/400/70/0/cl520.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/400/70/0/se520.pdf"
+    }
+   ],
+   "n_documente": 13,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23348",
+   "titlu": "Pl-x nr. 705/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23348",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/5/em805.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/5/pl805.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/5/cl805.pdf"
+    }
+   ],
+   "n_documente": 12,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -3076,6 +5798,29 @@
    ]
   },
   {
+   "idp": "23592",
+   "titlu": "Pl-x nr. 679/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23592",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/9/em772.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/9/pl772.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/9/cl772.pdf"
+    }
+   ],
+   "n_documente": 12,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
    "idp": "22946",
    "titlu": "PL-x nr. 35/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22946",
@@ -3108,6 +5853,29 @@
    "n_documente": 12,
    "comisii": [
     "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "23520",
+   "titlu": "Pl-x nr. 604/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23520",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/00/4/em689.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/00/4/pl689.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/00/4/cl689.pdf"
+    }
+   ],
+   "n_documente": 12,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
    ]
   },
   {
@@ -3222,8 +5990,101 @@
    ],
    "n_documente": 11,
    "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
     "Comisia pentru buget, finanţe şi bănci",
     "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "23054",
+   "titlu": "Pl-x nr. 399/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23054",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/9/em435.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/9/pl435.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/9/cl435.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23349",
+   "titlu": "Pl-x nr. 634/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23349",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/30/4/em718.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/30/4/pl718.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/30/4/cl718.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23608",
+   "titlu": "Pl-x nr. 697/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23608",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/7/em789.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/7/pl789.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/7/cl789.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23627",
+   "titlu": "Pl-x nr. 718/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23627",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/8/em816.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/8/pl816.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/8/cl816.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -3277,6 +6138,72 @@
    ]
   },
   {
+   "idp": "21200",
+   "titlu": "Pl-x nr. 594/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21200",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/500/90/4/em679.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/500/90/4/pl679.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/500/90/4/cl679.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "21450",
+   "titlu": "Pl-x nr. 822/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21450",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/800/20/2/em963.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/800/20/2/pl963.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/800/20/2/cl963.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23395",
+   "titlu": "Pl-x nr. 516/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23395",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/10/6/em568.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/10/6/pl568.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului",
+    "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+   ]
+  },
+  {
    "idp": "20358",
    "titlu": "PL-x nr. 574/2022",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20358",
@@ -3304,6 +6231,56 @@
    ]
   },
   {
+   "idp": "22119",
+   "titlu": "PL-x nr. 639/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22119",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/9/em723.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/9/cl723.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/9/se723.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/9/gv723.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru buget, finanţe şi bănci"
+   ]
+  },
+  {
+   "idp": "23270",
+   "titlu": "Pl-x nr. 398/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23270",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/8/em434.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/8/pl434.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/300/90/8/cl434.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
    "idp": "23573",
    "titlu": "PL nr. 646/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23573",
@@ -3323,6 +6300,7 @@
    ],
    "n_documente": 11,
    "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
     "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
    ]
   },
@@ -3373,6 +6351,29 @@
    ]
   },
   {
+   "idp": "22764",
+   "titlu": "Pl-x nr. 73/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22764",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/000/70/3/em66.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/000/70/3/pl66.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/000/70/3/cl66.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
    "idp": "22917",
    "titlu": "PL-x nr. 9/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22917",
@@ -3400,25 +6401,6 @@
    ]
   },
   {
-   "idp": "23395",
-   "titlu": "Pl-x nr. 516/2026",
-   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23395",
-   "acte_baza": [
-    {
-     "tip": "expunere de motive",
-     "url": "https://www.cdep.ro/proiecte/2026/500/10/6/em568.pdf"
-    },
-    {
-     "tip": "forma inițiatorului",
-     "url": "https://www.cdep.ro/proiecte/2026/500/10/6/pl568.pdf"
-    }
-   ],
-   "n_documente": 11,
-   "comisii": [
-    "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
-   ]
-  },
-  {
    "idp": "23514",
    "titlu": "PL-x nr. 596/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23514",
@@ -3439,6 +6421,75 @@
    "n_documente": 11,
    "comisii": [
     "Comisia pentru tineret și sport"
+   ]
+  },
+  {
+   "idp": "21669",
+   "titlu": "PL-x nr. 202/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21669",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/200/00/2/em230.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/200/00/2/cl230.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2024/200/00/2/se230.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "21756",
+   "titlu": "Pl-x nr. 283/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21756",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/200/80/3/em323.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2024/200/80/3/pl323.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/200/80/3/cl323.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22929",
+   "titlu": "PL-x nr. 319/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22929",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/300/10/9/em341.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/300/10/9/cl341.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/300/10/9/se341.pdf"
+    }
+   ],
+   "n_documente": 11,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
    ]
   },
   {
@@ -3489,6 +6540,267 @@
    "n_documente": 10,
    "comisii": [
     "Comisia pentru buget, finanţe şi bănci"
+   ]
+  },
+  {
+   "idp": "19851",
+   "titlu": "PL-x nr. 102/2022",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19851",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2022/100/00/2/em124.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2022/100/00/2/cl124.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2022/100/00/2/se124.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22850",
+   "titlu": "Pl-x nr. 555/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22850",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/500/50/5/em710.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/500/50/5/pl710.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/500/50/5/cl710.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
+   "idp": "23290",
+   "titlu": "PL-x nr. 733/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23290",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/30/3/em828.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/30/3/cl828.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/700/30/3/se828.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23366",
+   "titlu": "Pl-x nr. 700/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23366",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/0/em793.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/0/pl793.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/00/0/cl793.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23372",
+   "titlu": "Pl-x nr. 713/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23372",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/3/em808.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/3/pl808.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/3/cl808.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23481",
+   "titlu": "PL-x nr. 568/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23481",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/8/em648.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/8/cl648.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/8/se648.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23586",
+   "titlu": "PL-x nr. 676/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23586",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/6/em768.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/6/cl768.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/6/se768.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23602",
+   "titlu": "Pl-x nr. 688/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23602",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/8/em782.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/8/pl782.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/8/cl782.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23604",
+   "titlu": "PL-x nr. 690/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23604",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/em784.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/pl784.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/cl784.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/gv690.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
+    "Comisia pentru administraţie publică şi amenajarea teritoriului",
+    "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "23618",
+   "titlu": "Pl-x nr. 715/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23618",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/5/em810.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/5/pl810.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/5/cl810.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23638",
+   "titlu": "PL-x nr. 726/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23638",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/20/6/em835.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/20/6/cl835.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/700/20/6/se835.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -3615,29 +6927,6 @@
    ]
   },
   {
-   "idp": "22850",
-   "titlu": "Pl-x nr. 555/2025",
-   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22850",
-   "acte_baza": [
-    {
-     "tip": "expunere de motive",
-     "url": "https://www.cdep.ro/proiecte/2025/500/50/5/em710.pdf"
-    },
-    {
-     "tip": "forma inițiatorului",
-     "url": "https://www.cdep.ro/proiecte/2025/500/50/5/pl710.pdf"
-    },
-    {
-     "tip": "aviz Consiliul Legislativ",
-     "url": "https://www.cdep.ro/proiecte/2025/500/50/5/cl710.pdf"
-    }
-   ],
-   "n_documente": 10,
-   "comisii": [
-    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
-   ]
-  },
-  {
    "idp": "23347",
    "titlu": "PL-x nr. 703/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23347",
@@ -3707,6 +6996,79 @@
    ]
   },
   {
+   "idp": "20727",
+   "titlu": "PL-x nr. 367/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20727",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/300/60/7/em414.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/300/60/7/cl414.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2023/300/60/7/se414.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23476",
+   "titlu": "PL-x nr. 558/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23476",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/50/8/em641.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/50/8/cl641.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/500/50/8/se641.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23276",
+   "titlu": "PL-x nr. 406/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23276",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/00/6/em441.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/400/00/6/cl441.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/400/00/6/se441.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2026/400/00/6/gv441.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
    "idp": "23517",
    "titlu": "Pl-x nr. 602/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23517",
@@ -3726,7 +7088,197 @@
    ],
    "n_documente": 10,
    "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului",
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională",
     "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+   ]
+  },
+  {
+   "idp": "23173",
+   "titlu": "PL-x nr. 286/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23173",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/6/em306.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/6/cl306.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/6/se306.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/6/gv306.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru buget, finanţe şi bănci"
+   ]
+  },
+  {
+   "idp": "23071",
+   "titlu": "PL-x nr. 488/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23071",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/80/8/em551.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/400/80/8/cl551.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/400/80/8/se551.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23266",
+   "titlu": "PL-x nr. 675/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23266",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/5/em766.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/5/cl766.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/5/se766.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23436",
+   "titlu": "Pl-x nr. 543/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23436",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/40/3/em597.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/40/3/pl597.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/40/3/cl543.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23534",
+   "titlu": "PL-x nr. 620/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23534",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/20/0/em703.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/20/0/cl703.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/20/0/se703.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23562",
+   "titlu": "Pl-x nr. 642/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23562",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/40/2/em731.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/40/2/pl731.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/40/2/cl731.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23593",
+   "titlu": "Pl-x nr. 680/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23593",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/0/em773.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/0/pl773.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/0/cl773.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23599",
+   "titlu": "Pl-x nr. 687/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23599",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/7/em779.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/7/pl779.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/7/cl779.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -3799,30 +7351,76 @@
    ]
   },
   {
-   "idp": "23604",
-   "titlu": "PL-x nr. 690/2026",
-   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23604",
+   "idp": "18523",
+   "titlu": "PL-x nr. 174/2020",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=18523",
    "acte_baza": [
     {
      "tip": "expunere de motive",
-     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/em784.pdf"
-    },
-    {
-     "tip": "forma inițiatorului",
-     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/pl784.pdf"
+     "url": "https://www.cdep.ro/proiecte/2020/100/70/4/em248.pdf"
     },
     {
      "tip": "aviz Consiliul Legislativ",
-     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/cl784.pdf"
+     "url": "https://www.cdep.ro/proiecte/2020/100/70/4/cl248.pdf"
     },
     {
-     "tip": "punct de vedere Guvern",
-     "url": "https://www.cdep.ro/proiecte/2026/600/90/0/gv690.pdf"
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2020/100/70/4/se248.pdf"
     }
    ],
    "n_documente": 10,
    "comisii": [
-    "Comisia pentru politică economică, reformă şi privatizare"
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "19480",
+   "titlu": "PL-x nr. 366/2021",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=19480",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2021/300/60/6/em450.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2021/300/60/6/pl450.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2021/300/60/6/cl450.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2021/300/60/6/se450.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23515",
+   "titlu": "Pl-x nr. 599/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23515",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/9/em683.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/9/pl683.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/9/cl683.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
    ]
   },
   {
@@ -3868,7 +7466,219 @@
    ],
    "n_documente": 10,
    "comisii": [
+    "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice",
     "Comisia pentru tehnologia informaţiei şi comunicaţiilor"
+   ]
+  },
+  {
+   "idp": "21698",
+   "titlu": "PL-x nr. 231/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21698",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/200/30/1/em262.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/200/30/1/cl262.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2024/200/30/1/se262.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "21969",
+   "titlu": "PL-x nr. 493/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21969",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/400/90/3/em562.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/400/90/3/cl562.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2024/400/90/3/se562.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2024/400/90/3/gv562.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23491",
+   "titlu": "Pl-x nr. 565/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23491",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/5/em656.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/5/pl656.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/5/cl565.pdf"
+    }
+   ],
+   "n_documente": 10,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23597",
+   "titlu": "Pl-x nr. 686/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23597",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/6/em777.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/6/pl777.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/80/6/cl777.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23611",
+   "titlu": "Pl-x nr. 693/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23611",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/3/em794.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/3/pl794.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/3/cl794.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "20308",
+   "titlu": "PL-x nr. 528/2022",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20308",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2022/500/20/8/em655.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2022/500/20/8/cl655.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2022/500/20/8/se655.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "21236",
+   "titlu": "Pl-x nr. 618/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21236",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/600/10/8/em713.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/600/10/8/pl713.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/600/10/8/cl713.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22187",
+   "titlu": "Pl-x nr. 32/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22187",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/000/30/2/em791.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/000/30/2/pl791.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/000/30/2/cl791.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22750",
+   "titlu": "Pl-x nr. 478/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22750",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/400/70/8/em600.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/400/70/8/pl600.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/400/70/8/cl600.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
    ]
   },
   {
@@ -3972,6 +7782,240 @@
    ]
   },
   {
+   "idp": "20670",
+   "titlu": "Pl-x nr. 82/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20670",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/000/80/2/em71.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/000/80/2/pl71.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/000/80/2/cl71.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "20795",
+   "titlu": "Pl-x nr. 226/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20795",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/200/20/6/em229.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/200/20/6/pl229.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/200/20/6/cl229.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22107",
+   "titlu": "Pl-x nr. 633/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22107",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/3/em714.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/3/pl714.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/600/30/3/cl714.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23158",
+   "titlu": "Pl-x nr. 281/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23158",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/1/em300.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/1/pl300.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/200/80/1/cl300.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23208",
+   "titlu": "Pl-x nr. 322/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23208",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/300/20/2/em348.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/300/20/2/pl348.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/300/20/2/cl348.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23224",
+   "titlu": "Pl-x nr. 341/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23224",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/300/40/1/em371.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/300/40/1/pl371.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/300/40/1/cl371.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23387",
+   "titlu": "Pl-x nr. 495/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23387",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/90/5/em557.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/400/90/5/pl557.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/docs?2026/pl495_cd495_26_(1).pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
+   "idp": "23296",
+   "titlu": "PL-x nr. 427/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23296",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/7/em466.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/7/cl466.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/7/se466.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2026/400/20/7/gv466.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23396",
+   "titlu": "Pl-x nr. 515/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23396",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/10/5/em567.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/10/5/pl567.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/10/5/cl567.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23584",
+   "titlu": "PL-x nr. 673/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23584",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/3/em770.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/3/cl770.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/70/3/se770.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
    "idp": "22914",
    "titlu": "PL-x nr. 7/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22914",
@@ -4024,6 +8068,34 @@
    "comisii": [
     "Comisia pentru buget, finanţe şi bănci",
     "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "23007",
+   "titlu": "PL-x nr. 101/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23007",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/em98.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/cl98.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/se98.pdf"
+    },
+    {
+     "tip": "punct de vedere Guvern",
+     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/gv98.pdf"
+    }
+   ],
+   "n_documente": 9,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului",
+    "Comisia pentru buget, finanţe şi bănci"
    ]
   },
   {
@@ -4123,33 +8195,6 @@
    ]
   },
   {
-   "idp": "23007",
-   "titlu": "PL-x nr. 101/2026",
-   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23007",
-   "acte_baza": [
-    {
-     "tip": "expunere de motive",
-     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/em98.pdf"
-    },
-    {
-     "tip": "aviz Consiliul Legislativ",
-     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/cl98.pdf"
-    },
-    {
-     "tip": "sesizare",
-     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/se98.pdf"
-    },
-    {
-     "tip": "punct de vedere Guvern",
-     "url": "https://www.cdep.ro/proiecte/2026/100/00/1/gv98.pdf"
-    }
-   ],
-   "n_documente": 9,
-   "comisii": [
-    "Comisia pentru buget, finanţe şi bănci"
-   ]
-  },
-  {
    "idp": "23277",
    "titlu": "PL-x nr. 407/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23277",
@@ -4200,6 +8245,98 @@
    ]
   },
   {
+   "idp": "23362",
+   "titlu": "Pl-x nr. 711/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23362",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/1/em806.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/1/pl806.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/700/10/1/cl806.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23564",
+   "titlu": "Pl-x nr. 614/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23564",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/10/4/em734.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/10/4/pl734.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/10/4/cl734.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23580",
+   "titlu": "PL-x nr. 666/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23580",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/60/6/em757.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/60/6/cl757.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/60/6/se757.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23077",
+   "titlu": "PL-x nr. 181/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23077",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/100/80/1/em190.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/100/80/1/cl190.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/100/80/1/se190.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
    "idp": "22191",
    "titlu": "PL-x nr. 26/2025",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22191",
@@ -4246,6 +8383,7 @@
    ],
    "n_documente": 8,
    "comisii": [
+    "Comisia pentru buget, finanţe şi bănci",
     "Comisia pentru politică economică, reformă şi privatizare"
    ]
   },
@@ -4273,7 +8411,123 @@
    ],
    "n_documente": 8,
    "comisii": [
+    "Comisia pentru buget, finanţe şi bănci",
     "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "21389",
+   "titlu": "Pl-x nr. 768/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21389",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/700/60/8/em893.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/700/60/8/pl893.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/700/60/8/cl893.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "21420",
+   "titlu": "Pl-x nr. 790/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21420",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/700/90/0/em926.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2023/700/90/0/pl926.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/700/90/0/cl926.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22629",
+   "titlu": "Pl-x nr. 370/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22629",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/300/70/0/em461.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/300/70/0/pl461.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/300/70/0/cl461.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
+   "idp": "23189",
+   "titlu": "PL-x nr. 567/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23189",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/7/em646.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/7/cl646.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/500/60/7/se646.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
+   "idp": "23606",
+   "titlu": "PL-x nr. 695/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23606",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/5/em787.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/5/cl787.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/5/se787.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru buget, finanţe şi bănci"
    ]
   },
   {
@@ -4297,6 +8551,52 @@
    "n_documente": 8,
    "comisii": [
     "Comisia pentru agricultură, silvicultură, industrie alimentară şi servicii specifice"
+   ]
+  },
+  {
+   "idp": "22418",
+   "titlu": "PL-x nr. 324/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22418",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/300/20/4/em419.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/300/20/4/cl419.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2025/300/20/4/se419.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23305",
+   "titlu": "PL-x nr. 433/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23305",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/400/30/3/em476.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/400/30/3/cl476.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/400/30/3/se476.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
    ]
   },
   {
@@ -4442,6 +8742,75 @@
    ]
   },
   {
+   "idp": "21986",
+   "titlu": "PL-x nr. 523/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21986",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/500/20/3/em579.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/500/20/3/cl579.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2024/500/20/3/se579.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "22186",
+   "titlu": "Pl-x nr. 20/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22186",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/000/20/0/em790.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/000/20/0/pl790.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/000/20/0/cl790.pdf"
+    }
+   ],
+   "n_documente": 8,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
+   "idp": "23607",
+   "titlu": "PL-x nr. 696/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23607",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/6/em788.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/6/cl788.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/90/6/se788.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
    "idp": "16140",
    "titlu": "PL-x nr. 96/2017",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=16140",
@@ -4488,6 +8857,29 @@
    ]
   },
   {
+   "idp": "22669",
+   "titlu": "Pl-x nr. 406/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22669",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/400/00/6/em501.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2025/400/00/6/pl501.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/400/00/6/cl501.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
+   ]
+  },
+  {
    "idp": "22984",
    "titlu": "Pl-x nr. 69/2026",
    "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22984",
@@ -4503,7 +8895,170 @@
    ],
    "n_documente": 7,
    "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
     "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
+   "idp": "23392",
+   "titlu": "PL-x nr. 506/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23392",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/00/6/em562.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/00/6/cl562.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/500/00/6/se562.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
+    "Comisia pentru apărare, ordine publică şi siguranţă naţională"
+   ]
+  },
+  {
+   "idp": "22577",
+   "titlu": "PL-x nr. 300/2025",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=22577",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2025/300/00/0/em393.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2025/300/00/0/cl393.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2025/300/00/0/se393.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23508",
+   "titlu": "Pl-x nr. 591/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23508",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/1/em675.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/1/pl675.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/1/cl591.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23509",
+   "titlu": "Pl-x nr. 592/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23509",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/2/em676.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/2/pl676.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/500/90/2/cl592.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23541",
+   "titlu": "Pl-x nr. 627/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23541",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/20/7/em711.pdf"
+    },
+    {
+     "tip": "forma inițiatorului",
+     "url": "https://www.cdep.ro/proiecte/2026/600/20/7/pl711.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/20/7/cl711.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "23572",
+   "titlu": "PL-x nr. 656/2026",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=23572",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2026/600/50/6/em743.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2026/600/50/6/cl743.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2026/600/50/6/se743.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi"
+   ]
+  },
+  {
+   "idp": "21742",
+   "titlu": "PL-x nr. 273/2024",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=21742",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2024/200/70/3/em309.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2024/200/70/3/cl309.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2024/200/70/3/se309.pdf"
+    }
+   ],
+   "n_documente": 7,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
    ]
   },
   {
@@ -4595,7 +9150,31 @@
    ],
    "n_documente": 6,
    "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
     "Comisia pentru politică economică, reformă şi privatizare"
+   ]
+  },
+  {
+   "idp": "20675",
+   "titlu": "PL-x nr. 85/2023",
+   "url": "https://www.cdep.ro/ords/pls/proiecte/upl_pck2015.proiect?cam=2&idp=20675",
+   "acte_baza": [
+    {
+     "tip": "expunere de motive",
+     "url": "https://www.cdep.ro/proiecte/2023/000/80/5/em62.pdf"
+    },
+    {
+     "tip": "aviz Consiliul Legislativ",
+     "url": "https://www.cdep.ro/proiecte/2023/000/80/5/cl62.pdf"
+    },
+    {
+     "tip": "sesizare",
+     "url": "https://www.cdep.ro/proiecte/2023/000/80/5/se62.pdf"
+    }
+   ],
+   "n_documente": 6,
+   "comisii": [
+    "Comisia pentru administraţie publică şi amenajarea teritoriului"
    ]
   },
   {
@@ -4668,6 +9247,7 @@
    ],
    "n_documente": 5,
    "comisii": [
+    "Comisia juridică, de disciplină şi imunităţi",
     "Comisia pentru apărare, ordine publică şi siguranţă naţională",
     "Comisia pentru tineret și sport"
    ]
