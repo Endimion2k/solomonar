@@ -289,6 +289,13 @@ def avere_anomalii() -> dict:
 
 
 @st.cache_data(show_spinner=False)
+def comisii_activitate() -> dict:
+    """Toate ședințele comisiilor Camerei (istoric complet, `data` null când agenda n-are dată clară).
+    Dacă fișierul lipsește (date vechi), cade pe activitatea din ultima lună."""
+    return _load_raw("comisii/activitate.json") or comisii_recent()
+
+
+@st.cache_data(show_spinner=False)
 def comisii_recent() -> dict:
     """Activitatea recentă a comisiilor (ședințe + PLx + acte de bază). Vezi build_comisii_recent.py."""
     return _load_raw("comisii/activitate_recenta.json")

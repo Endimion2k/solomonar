@@ -7,6 +7,7 @@ PLx discutate + actele de bază), (2) componența comisiilor Senatului, (3) ini�
 from __future__ import annotations
 
 import collections
+import datetime
 
 import pandas as pd
 import plotly.graph_objects as go
@@ -86,38 +87,72 @@ def _fmt_guvern(c: dict) -> str:
 # ====================================================================
 # TAB 1 — Activitate recentă a comisiilor (Camera Deputaților)
 # ====================================================================
+def _zi(d) -> str:
+    return f"{d[8:10]}.{d[5:7]}.{d[:4]}" if isinstance(d, str) and len(d) == 10 else "—"
+
+
 def _render_activitate() -> None:
-    ac = data.comisii_recent()
-    if not ac or not ac.get("sedinte"):
-        st.warning("Nu există date de activitate recentă. Rulează `python -m pipeline.harvest_comisii` "
+    ac = data.comisii_activitate()
+    toate = ac.get("sedinte") if ac else None
+    if not toate:
+        st.warning("Nu există date despre activitatea comisiilor. Rulează `python -m pipeline.harvest_comisii` "
                    "apoi `python -m pipeline.build_comisii_recent`.")
         return
 
-    per = ac.get("perioada", {})
+    zile = sorted(s["data"] for s in toate if s.get("data"))
+    d_min, d_max = datetime.date.fromisoformat(zile[0]), datetime.date.fromisoformat(zile[-1])
+    f1, f2 = st.columns([3, 2])
+    nume_com = sorted({s["comisie"] for s in toate})
+    alese = f1.multiselect("Comisia", nume_com, placeholder="Toate comisiile", key="act_com")
+    per = f2.date_input("Perioada", value=(max(d_min, d_max - datetime.timedelta(days=30)), d_max),
+                        min_value=d_min, max_value=d_max, format="DD.MM.YYYY", key="act_per")
+    if isinstance(per, (tuple, list)):   # în timpul alegerii intervalului vine doar prima dată
+        de_la, pana_la = (per[0], per[-1]) if per else (d_min, d_max)
+    else:
+        de_la = pana_la = per
+    g1, g2, g3 = st.columns([3, 1, 2])
+    q = g1.text_input("Caută în comisie sau în titlul PLx", placeholder="ex: sănătate, buget…",
+                      key="act_q").strip().lower()
+    doar_plx = g2.checkbox("Doar cu PLx", value=True, key="act_doar")
+    n_fara = sum(1 for s in toate if not s.get("data"))
+    fara_data = g3.checkbox(f"Include ședințele fără dată exactă ({fmt_int(n_fara)})", value=False,
+                            key="act_fara", help="Agende al căror nume de fișier nu conține o dată clară "
+                                                 "(ex. „oz0204”). Se includ cele din anii perioadei alese.")
+
+    a, b = de_la.isoformat(), pana_la.isoformat()
+    ani = set(range(de_la.year, pana_la.year + 1))
+    sed = [s for s in toate if (s.get("data") and a <= s["data"] <= b)
+           or (fara_data and not s.get("data") and s.get("an") in ani)]
+    if alese:
+        sed = [s for s in sed if s["comisie"] in alese]
+    if q:
+        sed = [s for s in sed if q in (s.get("comisie") or "").lower()
+               or any(q in (p.get("titlu") or "").lower() for p in s.get("plx", []))]
+    cu_plx = [s for s in sed if s.get("n_plx")]
+    plx_unice: dict = {}
+    for s in cu_plx:
+        for p in s.get("plx", []):
+            u = plx_unice.setdefault(p["idp"], {**p, "comisii": set(), "sedinte": 0})
+            u["comisii"].add(s["comisie"])
+            u["sedinte"] += 1
+
     c1, c2, c3, c4 = st.columns(4)
-    kpi_card(c1, "Ședințe", fmt_int(ac.get("n_sedinte")))
-    kpi_card(c2, "Comisii active", fmt_int(ac.get("n_comisii_active")))
-    kpi_card(c3, "PLx discutate (unice)", fmt_int(ac.get("n_plx_unice")))
-    kpi_card(c4, "Perioada", f"{per.get('de_la', '')} → {per.get('pana_la', '')}")
-    st.caption("„Acte de bază” = documentele fundamentale ale proiectului (forma inițiatorului, expunere "
-               "de motive, aviz Consiliul Legislativ, punct de vedere Guvern), nu rapoartele comisiei.")
+    kpi_card(c1, "Ședințe", fmt_int(len(sed)))
+    kpi_card(c2, "Comisii active", fmt_int(len({s["comisie"] for s in sed})))
+    kpi_card(c3, "PLx discutate (unice)", fmt_int(len(plx_unice)))
+    kpi_card(c4, "Perioada", f"{_zi(a)} → {_zi(b)}")
+    st.caption(f"Date disponibile: {_zi(zile[0])} → {_zi(zile[-1])}. „Acte de bază” = documentele fundamentale "
+               "ale proiectului (forma inițiatorului, expunere de motive, aviz Consiliul Legislativ, punct de "
+               "vedere Guvern), nu rapoartele comisiei.")
 
     sub_sed, sub_plx = st.tabs(["Ședințe (cronologic)", "PLx discutate + acte de bază"])
 
     with sub_sed:
-        cf1, cf2 = st.columns([2, 1])
-        q = cf1.text_input("Caută comisie sau PLx", placeholder="ex: sănătate, buget…",
-                           key="act_q").strip().lower()
-        doar_plx = cf2.checkbox("Doar ședințe cu PLx", value=True, key="act_doar")
-        sed = ac["sedinte"]
-        if doar_plx:
-            sed = [s for s in sed if s.get("n_plx")]
-        if q:
-            sed = [s for s in sed if q in (s.get("comisie") or "").lower()
-                   or any(q in (p.get("titlu") or "").lower() for p in s.get("plx", []))]
-        st.caption(f"{fmt_int(len(sed))} ședințe afișate.")
-        for s in sed[:80]:
-            head = f"{s['data']} · {s['comisie']} · {s.get('n_plx', 0)} PLx"
+        afis = cu_plx if doar_plx else sed
+        st.caption(f"{fmt_int(len(afis))} ședințe afișate" + (f" (primele 200)" if len(afis) > 200 else "") + ".")
+        for s in afis[:200]:
+            head = f"{_zi(s.get('data')) if s.get('data') else str(s.get('an')) + ', fără dată exactă'} · " \
+                   f"{s['comisie']} · {s.get('n_plx', 0)} PLx"
             with st.expander(head):
                 if s.get("agenda_url"):
                     st.markdown(f"[Ordinea de zi (PDF)]({s['agenda_url']})")
@@ -134,14 +169,15 @@ def _render_activitate() -> None:
                     st.markdown(line)
 
     with sub_plx:
-        st.caption("Proiectele discutate în perioadă (deduplicate), cu numărul de documente la dosar.")
-        plx = ac.get("plx_unice", [])
+        st.caption("Proiectele discutate în ședințele selectate (deduplicate), cu numărul de documente la dosar.")
+        plx = sorted(plx_unice.values(), key=lambda p: (-p["sedinte"], -p.get("n_documente", 0)))
         if not plx:
-            st.info("Niciun PLx în perioadă.")
+            st.info("Niciun PLx în selecție.")
         else:
             rows = [{
                 "PLx / titlu": p.get("titlu"),
-                "Comisii": ", ".join(p.get("comisii", [])),
+                "Comisii": ", ".join(sorted(p["comisii"])),
+                "Ședințe": p["sedinte"],
                 "Acte de bază": ", ".join(a["tip"] for a in p.get("acte_baza", [])) or "—",
                 "Documente": p.get("n_documente", 0),
                 "Link": p.get("url"),
@@ -151,6 +187,7 @@ def _render_activitate() -> None:
                 column_config={
                     "PLx / titlu": st.column_config.TextColumn(width="medium"),
                     "Comisii": st.column_config.TextColumn(width="medium"),
+                    "Ședințe": st.column_config.NumberColumn(format="%d", help="În câte ședințe a fost pe ordinea de zi."),
                     "Acte de bază": st.column_config.TextColumn(width="medium"),
                     "Documente": st.column_config.NumberColumn(format="%d"),
                     "Link": st.column_config.LinkColumn("cdep.ro", display_text="deschide"),
@@ -387,7 +424,7 @@ def _render_legislativ() -> None:
 
 
 tab_act, tab_sen, tab_leg = st.tabs([
-    "Activitate recentă (Camera)",
+    "Activitatea comisiilor (Camera)",
     "Comisiile Senatului",
     "Inițiative legislative (PLx)"])
 with tab_act:

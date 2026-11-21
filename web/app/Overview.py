@@ -16,7 +16,7 @@ import importlib as _il  # noqa: E402
 
 from app import data as _data  # noqa: E402
 
-if not hasattr(_data, "reprezentanti_firma"):  # proces pornit cu data.py vechi în sys.modules
+if not hasattr(_data, "comisii_activitate"):  # proces pornit cu data.py vechi în sys.modules
     _il.reload(_data)
 _data.refresh_if_new()  # date noi împinse fără cod nou: golește cache-urile
 

@@ -30,14 +30,42 @@ def _load(p):
     return json.load(open(os.path.join(V, p), encoding="utf-8"))
 
 
+_LUNI = {"ian": 1, "feb": 2, "mar": 3, "apr": 4, "mai": 5, "iun": 6, "iul": 7, "aug": 8,
+         "sep": 9, "oct": 10, "noi": 11, "nov": 11, "dec": 12}
+
+
+def _iso(an, luna, zi):
+    try:
+        return datetime.date(int(an), int(luna), int(zi)).isoformat()
+    except (TypeError, ValueError):
+        return None
+
+
 def _eff_date(s):
-    """Data ședinței: câmpul `data` sau, dacă lipsește, extrasă din URL-ul agendei (OZ DD.MM.YYYY)."""
+    """Data ședinței: câmpul `data` sau, dacă lipsește, extrasă din numele PDF-ului agendei.
+
+    Formate recunoscute (doar cele fără ambiguitate): DD.MM.YYYY, YYYY-MM-DD, „2 sept 2025”,
+    „oz18mai” / „OZ 10.06” (anul din câmpul `an`). „oz0204” sau „oz100508” rămân fără dată:
+    nu se știe dacă e zi-lună sau lună-zi.
+    """
     if s.get("data"):
         return s["data"]
     u = urllib.parse.unquote(s.get("agenda_pdf_url") or "")
-    m = re.search(r"(\d{2})[.\-_ ](\d{2})[.\-_ ](20\d{2})", u)
-    if m and 1 <= int(m.group(2)) <= 12 and 1 <= int(m.group(1)) <= 31:
-        return f"{m.group(3)}-{m.group(2)}-{m.group(1)}"
+    nume = u.rsplit("/", 1)[-1].lower()
+    m = re.search(r"(?<!\d)(\d{1,2})[.\-_ ](\d{1,2})[.\-_ ](20\d{2})(?!\d)", nume)
+    if m:
+        return _iso(m.group(3), m.group(2), m.group(1))
+    m = re.search(r"(20\d{2})[.\-_](\d{2})[.\-_](\d{2})(?!\d)", nume)
+    if m:
+        return _iso(m.group(1), m.group(2), m.group(3))
+    an = s.get("an")
+    m = re.search(r"(?<!\d)(\d{1,2})\s*(ian|feb|mar|apr|mai|iun|iul|aug|sep|oct|noi|nov|dec)[a-zăâîșțş]*"
+                  r"(?:\s*(20\d{2}))?", nume)
+    if m and (m.group(3) or an):
+        return _iso(m.group(3) or an, _LUNI[m.group(2)], m.group(1))
+    m = re.search(r"(?<!\d)(\d{1,2})\.(\d{1,2})(?!\d)(?!\.\d)", nume)
+    if m and an:
+        return _iso(an, m.group(2), m.group(1))
     return None
 
 
@@ -105,6 +133,26 @@ def main() -> dict:
     }
     json.dump(out, open(os.path.join(V, "activitate_recenta.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
+
+    # tot istoricul, pentru filtrul pe comisie + perioadă din aplicație. Ședințele fără dată exactă
+    # rămân cu `data: null` și anul agendei; aplicația le arată doar la cerere.
+    toate: dict = {}
+    for s in sedinte:
+        k = (s["tip"], s["_d"]) if s["_d"] else (s["tip"], None, s.get("agenda_pdf_url"))
+        m = toate.setdefault(k, {"tip": s["tip"], "_d": s["_d"], "an": s.get("an"),
+                                 "agenda_pdf_url": s.get("agenda_pdf_url"), "plx_idps": set()})
+        m["plx_idps"].update(s.get("plx_idps", []))
+    ist = []
+    for s in sorted(toate.values(), key=lambda s: (s["_d"] or f"{s['an']}-00-00"), reverse=True):
+        idps = sorted(s["plx_idps"], key=lambda x: int(x) if str(x).isdigit() else 0)
+        ist.append({"comisie": comisii.get(s["tip"], f"comisie tip {s['tip']}"), "tip": s["tip"],
+                    "data": s["_d"], "an": int(s["_d"][:4]) if s["_d"] else s["an"],
+                    "agenda_url": s.get("agenda_pdf_url"), "n_plx": len(idps), "plx": [_plx_view(i) for i in idps]})
+    zile = [s["data"] for s in ist if s["data"]]
+    json.dump({"generat": out["generat"], "perioada": {"de_la": min(zile), "pana_la": max(zile)},
+               "n_sedinte": len(ist), "n_fara_data": sum(1 for s in ist if not s["data"]), "sedinte": ist},
+              open(os.path.join(V, "activitate.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    out["n_istoric"] = len(ist)
     return out
 
 
