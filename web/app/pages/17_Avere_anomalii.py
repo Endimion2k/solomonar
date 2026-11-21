@@ -16,7 +16,7 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
-from app.theme import apply_theme, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand
+from app.theme import apply_theme, despre, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand
 
 st.set_page_config(page_title="Anomalii avere · SOLOMONAR", layout="wide")
 apply_theme()
@@ -24,6 +24,21 @@ sidebar_brand()
 page_header("Anomalii de avere",
             "Profiluri declarate statistic neobișnuite față de restul (PyOD/ECOD pe venituri, conturi, "
             "datorii, terenuri, clădiri, auto). Piste de verificat — nu dovezi de îmbogățire.")
+despre(
+    sursa="Declarațiile de avere publicate în PDF de ministere și alte instituții pe site-urile proprii "
+          "(obligație din Legea 176/2010), din care textul este extras automat.",
+    calcul="Pentru fiecare persoană se ia cea mai recentă declarație și se formează un profil din 6 "
+           "valori: venituri, sume în conturi, datorii, număr de terenuri, de clădiri și de vehicule. "
+           "Algoritmul ECOD (biblioteca PyOD) măsoară pe fiecare valoare cât de rar este profilul față "
+           "de toate celelalte și adună aceste rarități într-un scor, rescalat între 0 și 100. "
+           "„Driver” este valoarea care contribuie cel mai mult la scor.",
+    legaturi="Declarațiile aceleiași persoane se grupează după numele normalizat, iar anul declarației "
+             "se ia din adresa PDF-ului. Pagina nu leagă persoanele de firme sau contracte.",
+    limite="Scorul arată doar cât de diferit este profilul față de restul, așa că o avere mare, declarată "
+           "și legală, iese la fel de sus. Extragerea automată din PDF poate număra greșit bunurile sau "
+           "sumele, iar doi oameni cu același nume pot fi tratați ca unul singur. Verifică în declarația "
+           "originală.",
+)
 
 av = data.avere_anomalii()
 items = (av or {}).get("items") or []

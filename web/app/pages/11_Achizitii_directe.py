@@ -14,7 +14,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 
 from app import data
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
-                       kpi_card, page_header, sidebar_brand)
+                       despre, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Achiziții directe · SOLOMONAR", layout="wide")
 apply_theme()
@@ -25,6 +25,17 @@ page_header("Achiziții directe — cumpărări directe SICAP",
             f"{_mil:.1f} milioane de cumpărări directe (sub pragul de licitație) "
             f"{meta.get('acoperire') or ''}, agregate pe furnizor. Al doilea canal de bani publici, "
             "pe lângă contractele de achiziție publică.".replace(".", ",", 1))
+despre(
+    sursa="Achizițiile directe din SICAP, din seturile de date publicate de ADR pe data.gov.ro "
+          "(fișiere CSV și Excel, pe ani).",
+    calcul="Fiecare achiziție se adună la furnizorul ei, după CUI: valoarea atribuită, numărul de achiziții, "
+           "anii cu cel puțin o achiziție și cele 3 autorități care au cumpărat cel mai des de la el. "
+           "Indicatorii de sus sunt calculați pe toți furnizorii.",
+    legaturi="Fișa furnizorului verifică dacă același CUI apare în lista companiilor de stat din SOLOMONAR.",
+    limite="Achizițiile peste 2 milioane lei sunt tratate ca erori de date și nu intră în calcul, la fel cele "
+           "fără valoare. Persoanele fizice (PFA, întreprinderi individuale) sunt grupate după nume, fără CNP. "
+           "Fișierul publicat păstrează cel mult 50.000 de furnizori, cei mai mari după valoare.",
+)
 
 df = data.achizitii_directe_df()
 
@@ -40,7 +51,7 @@ kpi_card(c3, "Valoare totală", fmt_lei(meta["valoare_totala_ron"]))
 medie = meta["valoare_totala_ron"] / max(meta["total_achizitii"], 1)
 kpi_card(c4, "Medie / achiziție", fmt_lei(medie))
 st.caption(f"Sursă: {meta['sursa']}. Afișați primii {fmt_int(len(df))} furnizori după valoare. "
-           "Valorile per achiziție sunt plafonate la 2M lei (sanitizare outlieri/garbage).")
+           "Achizițiile de peste 2 milioane lei sunt tratate ca erori de date și nu intră în calcul.")
 
 # ---------------- top furnizori ----------------
 st.subheader("Top 20 furnizori după valoarea totală")

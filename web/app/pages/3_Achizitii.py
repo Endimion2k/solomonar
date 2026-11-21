@@ -13,7 +13,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
-                       kpi_card, page_header, sidebar_brand)
+                       despre, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Achiziții · SOLOMONAR", layout="wide")
 apply_theme()
@@ -21,6 +21,18 @@ sidebar_brand()
 page_header("Achiziții publice — firme câștigătoare",
             "Firmele care au câștigat contracte cu statul, valoarea totală și numărul de contracte. "
             "Date agregate din achizițiile publice.")
+despre(
+    sursa="Exporturile SICAP (sistemul electronic de achiziții publice) cu contractele atribuite, publicate "
+          "de ADR pe data.gov.ro. Graficul pe sectoare folosește și lista companiilor de stat "
+          "(companiidestat.ro și raportul AMEPIP).",
+    calcul="Pentru fiecare firmă, identificată prin CUI, se adună valoarea contractelor și se numără "
+           "contractele. Graficul pe sectoare adună, pentru companiile de stat din fiecare sector, valoarea "
+           "contractelor câștigate de ele.",
+    legaturi="Contractele se leagă de companiile de stat prin CUI.",
+    limite="Sumele pe firmă sunt brute: în exportul SICAP valoarea unui contract se repetă la fiecare "
+           "ofertant din lot, deci totalurile depășesc banii plătiți efectiv. Folosește-le pentru comparații "
+           "între firme.",
+)
 
 df = data.contracte_df()
 

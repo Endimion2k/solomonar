@@ -15,7 +15,7 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
-from app.theme import (DANGER, WARNING, apply_theme, fmt_int, fmt_lei, kpi_card,
+from app.theme import (DANGER, WARNING, apply_theme, despre, fmt_int, fmt_lei, kpi_card,
                        page_header, sidebar_brand)
 
 st.set_page_config(page_title="Red-flags · SOLOMONAR", layout="wide")
@@ -24,6 +24,16 @@ sidebar_brand()
 page_header("Red-flags achiziții",
             "Indicatori de risc din datele per-linie SICAP: contracte cu o singură ofertă (single-bid) "
             "și atribuiri directe repetate (fragmentare). Metodologie OCDS — lead-uri de verificat.")
+despre(
+    sursa="Datele SICAP linie cu linie publicate de ADR pe data.gov.ro: contractele atribuite prin "
+          "proceduri și cumpărările directe.",
+    calcul="Trei indicatori de risc după metodologia OCDS (Open Contracting Data Standard): o singură "
+           "ofertă, procedură fără competiție și cumpărări directe repetate. Pragurile sunt fixe și "
+           "sunt explicate în fiecare tab.",
+    limite="Fiecare listă arată cel mult primele 1.500 de cazuri, iar „Valoare single-bid (top)” adună "
+           "doar cazurile listate. Sunt piste de verificat: o ofertă unică sau atribuirile directe "
+           "repetate pot fi perfect legale.",
+)
 
 rf = data.redflags()
 if not rf or not (rf.get("single_bid") or rf.get("fragmentare")):
@@ -71,6 +81,16 @@ tab_sb, tab_pr, tab_fr = st.tabs([
     "Fragmentare (atribuiri directe repetate)"])
 
 with tab_sb:
+    despre(
+        sursa="Contractele atribuite prin licitație din SICAP, pe anii în care fișierul publicat are "
+              "coloana cu numărul de oferte primite.",
+        calcul="Un contract intră în listă dacă a primit exact o ofertă și are o valoare de cel puțin "
+               "200.000 lei (indicatorul R018 din metodologia OCDS). Lista e ordonată după valoare.",
+        legaturi="Câștigătorul este identificat prin CUI-ul din SICAP. La persoanele fizice (PFA, II) "
+                 "codul este de fapt un CNP și nu se publică.",
+        limite="Anii publicați în format .xls nu au numărul de oferte, deci lipsesc de aici; pentru ei "
+               "vezi tabul „Procedură necompetitivă”.",
+    )
     st.caption(sb.get("nota", ""))
     if sb_items:
         df = pd.DataFrame(sb_items)
@@ -85,6 +105,16 @@ with tab_sb:
         st.info("Niciun contract single-bid în setul curent.")
 
 with tab_pr:
+    despre(
+        sursa="Contractele din SICAP, cu tipul de procedură declarat de autoritate.",
+        calcul="Un contract intră aici dacă tipul procedurii conține „negociere fără”, „fără public” "
+               "(publicare sau publicitate) sau „fără invitație” și valoarea este de cel puțin 500.000 "
+               "lei. Contractele deja prinse ca single-bid nu se repetă aici.",
+        legaturi="Câștigătorul este identificat prin CUI-ul din SICAP; CNP-ul persoanelor fizice nu se "
+                 "publică.",
+        limite="Procedura poate fi perfect legală. Indicatorul ajută mai ales pe anii în care SICAP nu "
+               "publică numărul de oferte.",
+    )
     st.caption(pr.get("nota", "") + "  Relevant mai ales pe anii .xls recenți (fără nr. ofertanți).")
     if pr_items:
         df = pd.DataFrame(pr_items).rename(columns={
@@ -97,6 +127,16 @@ with tab_pr:
         st.info("Nicio procedură necompetitivă în setul curent.")
 
 with tab_fr:
+    despre(
+        sursa="Cumpărările directe din SICAP, din toți anii procesați.",
+        calcul="Pentru fiecare pereche autoritate → furnizor se numără cumpărările directe și se adună "
+               "valorile. Perechea intră în listă dacă are cel puțin 10 cumpărări și un total de cel "
+               "puțin 100.000 lei; ordinea e după număr, apoi după total.",
+        legaturi="Perechea se formează din CUI-ul autorității și CUI-ul furnizorului; rândurile fără CUI "
+                 "de autoritate sunt sărite. Furnizorii persoane fizice se grupează după nume, fără CNP.",
+        limite="O cumpărare directă de peste 2 milioane lei (plafonul folosit în calcul) este ignorată. "
+               "Cumpărările repetate de la același furnizor pot fi perfect legale.",
+    )
     st.caption(fr.get("nota", ""))
     if fr_items:
         df = pd.DataFrame(fr_items)

@@ -19,7 +19,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, DANGER, SUCCESS, WARNING, TEXT_DIM,
-                       apply_theme, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand)
+                       apply_theme, despre, fmt_int, fmt_lei, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Follow the money · SOLOMONAR", layout="wide")
 apply_theme()
@@ -27,6 +27,21 @@ sidebar_brand()
 page_header("Follow the money",
             "Legături între persoane publice și firme care au contracte cu statul. "
             "Separăm strict legăturile confirmate de potrivirile pe nume neverificate.")
+despre(
+    sursa="Contractele atribuite din SICAP (data.gov.ro), reprezentanții legali ai firmelor din dump-ul ONRC "
+          "de pe data.gov.ro, declarațiile de avere și de interese publicate pe site-urile instituțiilor și "
+          "listele de deputați și senatori.",
+    calcul="Valoarea contractelor unei persoane adună contractele firmelor la care numele ei apare ca "
+           "reprezentant legal. Sumele de contract sunt brute, ca pe pagina Achiziții.",
+    legaturi="Persoana și firma se leagă după nume, fără CNP: numele din declarații sau al parlamentarului e "
+             "comparat cu reprezentanții legali din ONRC. Legătura devine confirmată când un cuvânt distinctiv "
+             "din numele firmei apare la conducere, acționariat sau entități în declarația de interese a "
+             "persoanei. Rețelele de co-administrare sunt firmele cu contracte la care ONRC are cel puțin doi "
+             "reprezentanți legali.",
+    limite="Potrivirea pe nume prinde și omonimi, mai ales la firmele mari. Declarațiile sunt citite automat "
+           "din PDF-uri, deci o firmă scrisă diferit poate scăpa. Listele sunt limitate: 100 de legături "
+           "confirmate, 200 de candidați și 80 de firme în rețele, cele mai mari după valoarea contractelor.",
+)
 
 fm = data.follow_money()
 

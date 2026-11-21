@@ -14,7 +14,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, WARNING, TEXT_DIM, CONF_COLORS,
-                       apply_theme, fmt_int, fmt_lei, page_header, sidebar_brand)
+                       apply_theme, despre, fmt_int, fmt_lei, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Analytics · SOLOMONAR", layout="wide")
 apply_theme()
@@ -23,6 +23,24 @@ sidebar_brand()
 page_header("Analytics — vitrina stratului gold",
             "View-uri analitice pre-agregate, generate de stratul gold DuckDB: sectoare, "
             "ministere tutelare, oficiali cu contracte și participații de stat la BVB.")
+despre(
+    sursa="Lista companiilor de stat (AMEPIP și companiidestat.ro), bilanțurile publicate de "
+          "Ministerul Finanțelor pe data.gov.ro, contractele din SICAP, acționariatul publicat pe "
+          "bvb.ro, declarațiile de avere și de interese publicate de instituții, reprezentanții "
+          "legali din registrul ONRC și lista parlamentarilor.",
+    calcul="Tabelele adună, pe sector și pe minister tutelar, cifra de afaceri, angajații și valoarea "
+           "contractelor câștigate de companiile de stat (valorile pot cumula mai mulți ani). Procentul "
+           "de stat mediu se calculează doar din companiile pentru care bvb.ro publică acționariatul. "
+           "La oficiali, suma este totalul contractelor tuturor firmelor asociate persoanei.",
+    legaturi="Companiile se leagă de bilanțuri și contracte prin CUI. Oficialii se leagă de firme după "
+             "nume, fără CNP: numele administratorilor din ONRC se compară cu numele din declarații și "
+             "cu lista parlamentarilor. Încredere: high = parlamentar identificat după data nașterii, "
+             "context = persoana declară la aceeași organizație pe care o conduce, candidat = doar "
+             "potrivire de nume.",
+    limite="Nivelul high confirmă identitatea parlamentarului, dar legătura lui cu o firmă rămâne o "
+           "potrivire de nume, deci poate fi un omonim. Băncile, asigurătorii și IFN-urile nu au cifre "
+           "financiare aici, pentru că depun alt tip de bilanț.",
+)
 
 
 def _num(series):

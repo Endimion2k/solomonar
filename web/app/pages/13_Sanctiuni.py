@@ -12,7 +12,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme,
-                       fmt_int, kpi_card, page_header, sidebar_brand)
+                       despre, fmt_int, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Sancțiuni & PEP · SOLOMONAR", layout="wide")
 apply_theme()
@@ -21,6 +21,18 @@ page_header("Sancțiuni & PEP",
             "Entități cu legătură ROMÂNIA care apar pe liste internaționale de sancțiuni "
             "(EU / OFAC / UN ș.a.) sau sunt Politically Exposed Persons (PEP). "
             "Sursă: OpenSanctions. Lista este o REFERINȚĂ, nu o acuzație.")
+despre(
+    sursa="OpenSanctions (data.opensanctions.org): colecția de sancțiuni, care adună listele oficiale (UE, OFAC, "
+          "ONU și altele), și colecția de persoane expuse politic (PEP). Se păstrează doar persoanele și "
+          "organizațiile care au România ca țară, cetățenie, naționalitate sau jurisdicție.",
+    calcul="Pentru fiecare entitate se afișează primul nume, prima poziție și prima notă sau program de "
+           "sancțiuni din OpenSanctions, plus cel mult 6 liste pe care apare.",
+    legaturi="„În graful SOLOMONAR” înseamnă că numele are aceleași cuvinte (în orice ordine, fără diacritice și "
+             "titluri) ca o persoană din datele SOLOMONAR. Nu se folosesc data nașterii sau alt identificator, "
+             "deci potrivirea poate fi un omonim. Coloanele Declarații și Companii sunt ale persoanei potrivite.",
+    limite="Se compară doar primul nume al entității, fără variantele lui, și doar cu persoanele din SOLOMONAR. "
+           "Entitățile fără legătură cu România înregistrată în OpenSanctions nu apar.",
+)
 
 # -------- etichete prietenoase pentru coduri liste / țări --------
 LISTE_LABEL = {

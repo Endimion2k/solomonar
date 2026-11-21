@@ -16,7 +16,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data, ui
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, SUCCESS, TEXT_DIM, WARNING, apply_theme, fmt_int,
-                       fmt_lei, fmt_pct, kpi_card, page_header, sidebar_brand)
+                       despre, fmt_lei, fmt_pct, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Companii · SOLOMONAR", layout="wide")
 apply_theme()
@@ -24,6 +24,26 @@ sidebar_brand()
 page_header("Companii de stat",
             "Cele 1.256 de companii cu capital de stat — sector, minister tutelar, "
             "listare BVB, salariați și contracte cu statul.")
+despre(
+    sursa="Lista companiilor de stat vine din raportul anual AMEPIP (cu ministerul tutelar) și de pe "
+          "companiidestat.ro (cu sectorul). Bilanțurile sunt situațiile financiare depuse la Ministerul "
+          "Finanțelor, publicate pe data.gov.ro; reprezentanții legali vin din dump-ul ONRC de pe "
+          "data.gov.ro, contractele din SICAP, acționariatul de pe bvb.ro, iar conducerea oficială și "
+          "remunerațiile de pe guvernanta.gov.ro.",
+    calcul="„Total contracte cu statul” adună valoarea contractelor SICAP asociate CUI-ului companiilor "
+           "filtrate. Procentul de stat însumează acționarii de pe bvb.ro recunoscuți ca stat (Statul "
+           "Român, ministere, Fondul Proprietatea, consilii județene sau locale, primării). La guvernanță, "
+           "„Cumul de funcții” numără persoanele numite la cel puțin două companii, iar tabelul de "
+           "remunerații arată mediana și maximul brutului lunar declarat, pe rol.",
+    legaturi="Sursele se leagă între ele după CUI. Persoanele de pe guvernanta.gov.ro se leagă de graful "
+             "de persoane după nume: „confirmat” când persoana apare deja la aceeași companie, „candidat” "
+             "când există un singur om cu acel nume, fără legătură cu compania. Comparația cu ONRC pune "
+             "față în față numele din lista oficială și reprezentanții legali ONRC ai aceleiași companii.",
+    limite="Valorile contractelor sunt brute: suma unui lot se repetă la fiecare ofertant. Bilanțurile "
+           "băncilor, asigurătorilor și IFN-urilor nu sunt acoperite. Procentul de stat există doar pentru "
+           "o listă fixă de companii listate la BVB, iar ONRC publică doar starea curentă a "
+           "reprezentanților, fără date de numire.",
+)
 
 df = data.companii_df()
 if df.empty:

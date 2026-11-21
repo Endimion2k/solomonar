@@ -15,7 +15,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, DANGER, SUCCESS, TEXT_DIM, WARNING,
-                       apply_theme, fmt_int, fmt_lei, kpi_card, page_header,
+                       apply_theme, despre, fmt_int, fmt_lei, kpi_card, page_header,
                        sidebar_brand)
 
 st.set_page_config(page_title="Bugete · SOLOMONAR", layout="wide")
@@ -23,6 +23,21 @@ apply_theme()
 sidebar_brand()
 page_header("Bugete",
             "Bugete locale (UAT) · execuția bugetului general consolidat · agregare pe județe.")
+despre(
+    sursa="Bugetele locale: situația veniturilor și cheltuielilor pe unități administrativ-teritoriale, "
+          "publicată de Ministerul Dezvoltării (DPFBL). Bugetul general consolidat: buletinele lunare de "
+          "execuție ale Ministerului Finanțelor. Companiile de stat pe județ: companiidestat.ro, raportul "
+          "AMEPIP și bilanțurile depuse la Ministerul Finanțelor (data.gov.ro).",
+    calcul="Indicatorii de sus adună veniturile și cheltuielile tuturor rândurilor UAT, iar soldul e diferența "
+           "lor. Execuția bugetului general consolidat e cumulată de la 1 ianuarie, deci crește în cursul "
+           "anului și pornește din nou în ianuarie; cifrele sunt nete, după operațiunile financiare, iar "
+           "procentul din PIB e cel din buletin. Pe județe se numără companiile de stat și se adună cifra lor "
+           "de afaceri și salariații.",
+    limite="Datele UAT acoperă ultimii doi ani publicați și fiecare UAT apare o dată pentru fiecare an, deci "
+           "indicatorii de sus adună ambii ani (coloana An îi separă în tabel). Consiliile județene nu sunt "
+           "incluse. Seria lunară începe cu ianuarie 2024. Anul bilanțului poate diferi de la o companie la "
+           "alta, iar companiile fără bilanț nu intră în sume.",
+)
 
 # ---------------------------------------------------------------- date
 uat = data.bugete_uat_df()

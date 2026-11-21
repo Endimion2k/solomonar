@@ -17,7 +17,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 
 from app import data, ui
 from app.theme import tabel
-from app.theme import (DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme, fmt_int,
+from app.theme import (DANGER, SUCCESS, TEXT_DIM, WARNING, apply_theme, despre, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Alerte · SOLOMONAR", layout="wide")
@@ -27,6 +27,29 @@ sidebar_brand()
 page_header("Alerte & semnale",
             "Semnale de interes generate automat din date deschise prin reguli deterministe. "
             "Acestea sunt indicii de verificat, nu acuzații.")
+despre(
+    sursa="Declarațiile de avere și de interese publicate de instituții, reprezentanții legali și "
+          "profilul firmelor din registrul ONRC, contractele și achizițiile directe din SICAP, "
+          "bilanțurile de la Ministerul Finanțelor și subvențiile partidelor publicate de EFOR "
+          "(banipartide.ro).",
+    calcul="Opt reguli fixe. Severitate mare: firma cu contracte de stat apare în propria declarație "
+           "de interese a persoanei. Medie: parlamentar cu rol de conducere la o companie de stat; "
+           "companie de stat cu profit net negativ și contracte de cel puțin 5 milioane lei; partid cu "
+           "subvenții de peste 1 milion lei și niciun deputat sau senator; firmă înființată cu cel mult "
+           "un an înainte de prima achiziție publică și care are contracte. Mică: valoare medie pe "
+           "contract de cel puțin 50 de milioane lei, la un total de cel puțin 100 de milioane lei; "
+           "persoană în mai mult de 3 companii; firmă cu firmă-mamă trecută în ONRC care ia bani publici.",
+    legaturi="Persoanele se leagă de firme după nume, fără CNP: numele administratorilor din ONRC se "
+             "compară cu numele din declarații și cu lista parlamentarilor, iar mențiunile cu același "
+             "nume se unesc când au în comun un cuvânt distinctiv din numele organizației. Conflictul "
+             "documentat cere în plus ca denumirea firmei să aibă cuvinte distinctive comune cu firmele "
+             "trecute de persoană în declarația de interese (conducere, acționariat, alte entități). "
+             "Firmele se leagă de contracte și bilanțuri prin CUI.",
+    limite="Un nume identic cu al unui parlamentar este atașat parlamentarului, deci regulile despre "
+           "parlamentari și companii pot prinde omonimi, mai ales la companiile mari. Valorile "
+           "contractelor pot cumula mai mulți ani sau acorduri-cadru. Sunt semnale de verificat în "
+           "ONRC, în declarații și în SICAP, nu acuzații.",
+)
 
 raw = data.alerte()
 alerte = raw.get("alerte", []) if isinstance(raw, dict) else []

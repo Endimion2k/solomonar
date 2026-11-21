@@ -22,7 +22,7 @@ def _norm_judet(s: str) -> str:
     s = "".join(c for c in s if not unicodedata.combining(c))
     return re.sub(r"[\s\-]+", " ", s.strip().upper())
 from app.theme import tabel
-from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
+from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, despre, fmt_int, fmt_lei,
                        kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Harta · SOLOMONAR", layout="wide")
@@ -32,6 +32,16 @@ sidebar_brand()
 page_header("Harta companiilor de stat",
             "Distribuția companiilor cu participare de stat pe județe — număr de "
             "companii, angajați și cifra de afaceri agregată.")
+despre(
+    sursa="Lista companiilor cu capital de stat de pe companiidestat.ro și din raportul AMEPIP, cu bilanțurile "
+          "depuse la Ministerul Finanțelor (data.gov.ro).",
+    calcul="Fiecare companie e numărată în județul trecut în fișa ei de pe companiidestat.ro. Pe județ se "
+           "numără companiile și se adună angajații și cifra de afaceri din bilanț. Culoarea de pe hartă arată "
+           "valoarea metricii alese pentru fiecare județ.",
+    limite="Anul bilanțului poate diferi de la o companie la alta. Băncile, asigurătorii și companiile fără "
+           "bilanț nu intră în sumele de angajați și cifră de afaceri. Companiile fără județ în fișă nu apar pe "
+           "hartă.",
+)
 
 df = data.analytics("sumar_judet")
 

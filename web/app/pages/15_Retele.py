@@ -17,7 +17,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 
 from app import data, ui
 from app.theme import tabel
-from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, fmt_int,
+from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, despre, fmt_int,
                        fmt_lei, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Rețele & inele · SOLOMONAR", layout="wide")
@@ -26,6 +26,19 @@ sidebar_brand()
 page_header("Rețele & inele",
             "Firme legate prin administratori comuni (date reale ONRC) — grupuri de control, "
             "administratori-hub și firme-pod. Calcul de graf cu igraph.")
+despre(
+    sursa="Reprezentanții legali din registrul ONRC (data.gov.ro), pentru companiile de stat, firmele "
+          "relevante și furnizorii din SICAP, plus sumele din contractele și achizițiile directe SICAP.",
+    calcul="Se construiește un graf în care două firme sunt legate dacă au cel puțin un administrator "
+           "comun. Pe acest graf se calculează inelele, administratorii-hub și firmele-pod (detalii în "
+           "fiecare tab).",
+    legaturi="Se folosesc administratorii actuali din ultimul dump ONRC. Se exclud lichidatorii, "
+             "administratorii judiciari sau provizorii, cenzorii și reprezentanții care sunt ei înșiși "
+             "firme (de exemplu practicieni în insolvență). Numele se compară după normalizare: "
+             "majuscule, fără diacritice, spații unificate.",
+    limite="Potrivirea după nume poate uni omonimi. A administra mai multe firme nu este ilegal. Sumele "
+           "de la stat pot cumula mai mulți ani și acorduri-cadru.",
+)
 
 net = data.network_metrics()
 if not net or not net.get("inele"):
@@ -55,6 +68,18 @@ tab_inele, tab_hub, tab_pod = st.tabs(
 
 # ============================ INELE ============================
 with tab_inele:
+    despre(
+        sursa="Administratorii din ONRC și sumele din SICAP (contracte și achiziții directe).",
+        calcul="Un inel este un grup de firme legate între ele, direct sau printr-un lanț de alte firme, "
+               "prin administratori comuni (o componentă conexă a grafului). Se păstrează doar inelele cu "
+               "cel puțin o firmă care a luat bani publici; primele sunt cele cu cel puțin 2 astfel de "
+               "firme, apoi ordinea e după suma totală primită de firmele din inel.",
+        legaturi="Două firme sunt legate dacă au un administrator cu același nume normalizat. Un "
+                 "administrator cu peste 25 de firme nu creează legături, pentru că la acest număr e "
+                 "probabil o coincidență de nume.",
+        limite="Un singur omonim poate lipi două grupuri fără legătură reală. Intră în calcul doar "
+               "firmele pentru care avem reprezentanții din ONRC.",
+    )
     st.markdown("#### Inele de control cu bani de stat")
     st.caption("Grupuri de firme cu administratori comuni, în care cel puțin o firmă a luat bani de la "
                "stat. Sortate după valoarea totală. Un grup de firme controlate de aceiași oameni nu e "
@@ -132,6 +157,16 @@ with tab_inele:
 
 # ============================ HUBURI ============================
 with tab_hub:
+    despre(
+        sursa="Administratorii din ONRC și sumele din SICAP (contracte și achiziții directe).",
+        calcul="Pentru fiecare administrator se numără firmele pe care le administrează și câte dintre "
+               "ele au luat bani publici. Apar doar cei cu cel puțin 2 firme cu bani de stat, ordonați "
+               "după numărul acestor firme, apoi după suma totală.",
+        legaturi="Firmele se adună sub același nume normalizat de administrator. Aici nu se aplică "
+                 "plafonul de 25 de firme folosit la inele.",
+        limite="Un nume comun poate aduna pe același rând mai multe persoane diferite. Verifică "
+               "identitatea în ONRC înainte de orice concluzie.",
+    )
     st.markdown("#### Administratori care controlează cele mai multe firme cu bani de stat")
     st.caption("Numele se potrivesc pe text — nume comune (ex. „Pop Ioan”) pot reuni mai multe "
                "persoane diferite (omonimi). Tratează ca lead, verifică în ONRC după CNP.")
@@ -164,6 +199,16 @@ with tab_hub:
 
 # ============================ PODURI ============================
 with tab_pod:
+    despre(
+        sursa="Administratorii din ONRC și sumele din SICAP (contracte și achiziții directe).",
+        calcul="O firmă-pod este un punct de articulație în graf: dacă o scoți, grupul ei se rupe în "
+               "bucăți separate. Se păstrează doar podurile care au luat bani publici sau au cel puțin 2 "
+               "administratori. „Conexiuni (grad)” este numărul de firme cu care are un administrator comun.",
+        legaturi="Aceleași legături prin administrator comun ca la inele, cu același plafon de 25 de "
+                 "firme per administrator.",
+        limite="Un pod poate apărea și dintr-un singur omonim aflat între două grupuri. Poziția de pod "
+               "descrie structura grafului, nu rolul real al firmei.",
+    )
     st.markdown("#### Firme-pod (intermediari între grupuri)")
     st.caption("Firme care leagă mai multe grupuri altfel separate (puncte de articulație în graf). "
                "Au mai mulți administratori din clustere diferite — posibili intermediari.")

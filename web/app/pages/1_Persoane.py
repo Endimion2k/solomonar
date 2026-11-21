@@ -18,7 +18,7 @@ from app import data, ui
 from app.dossier import persoana_docx
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, CONF_COLORS, TEXT_DIM, apply_theme,
-                       fmt_int, fmt_lei, kpi_card, page_header, party_color,
+                       despre, fmt_int, fmt_lei, kpi_card, page_header, party_color,
                        sidebar_brand)
 
 st.set_page_config(page_title="Persoane · SOLOMONAR", layout="wide")
@@ -27,6 +27,28 @@ sidebar_brand()
 page_header("Persoane",
             "Caută printre persoanele din graf: parlamentari, administratori de "
             "companii, declaranți de avere. Filtrează și deschide fișa individuală.")
+despre(
+    sursa="Parlamentarii vin de pe cdep.ro și senat.ro. Declarațiile de avere și de interese sunt PDF-uri "
+          "publicate de ministere, agenții, instituții deconcentrate și companii de stat pe site-urile "
+          "proprii (Legea 176/2010) și de Camera Deputaților pe profilul fiecărui deputat. Funcțiile în "
+          "firme vin din dump-ul ONRC de pe data.gov.ro, contractele din SICAP (data.gov.ro), numirile "
+          "oficiale de pe guvernanta.gov.ro, iar CV-urile de pe site-urile instituțiilor, cdep.ro și senat.ro.",
+    calcul="„Companii conduse” numără firmele la care numele persoanei apare ca reprezentant legal în "
+           "ONRC. „Contracte de stat” adună valoarea contractelor SICAP asociate acestor firme; suma e a "
+           "firmelor. În fișă, declarațiile se caută după aceleași cuvinte din nume și aceeași instituție, "
+           "iar anul vine din data completării citită din document sau, dacă lipsește, din numele ori "
+           "calea fișierului.",
+    legaturi="Fără CNP, potrivirea se face pe nume, indiferent de ordinea cuvintelor, diacritice și "
+             "titluri; mențiunile cu același nume se unesc doar dacă au în comun un cuvânt distinctiv din "
+             "numele instituției sau al firmei. „Confirmată” înseamnă parlamentar identificat după data "
+             "nașterii, „Cu context” înseamnă că persoana declară la o organizație și o și conduce, "
+             "„Candidat” înseamnă potrivire doar pe nume. Variantele de scriere (de exemplu un prenume în "
+             "plus) se unesc automat doar când un nume e cuprins în celălalt și au o organizație comună.",
+    limite="Declarațiile și firmele găsite pe numele unui parlamentar se atașează fișei lui, deci pot "
+           "aparține unui omonim. CV-ul se leagă doar pe nume. Cifrele din declarații sunt extrase automat "
+           "din PDF-uri, unele scanate, iar valorile contractelor sunt brute (suma unui lot se repetă la "
+           "fiecare ofertant).",
+)
 
 # ---- nivel de încredere: etichete lizibile ----
 CONF_LABEL = {"high": "Confirmată", "context": "Cu context", "candidat": "Candidat"}

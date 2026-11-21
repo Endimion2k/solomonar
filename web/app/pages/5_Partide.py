@@ -14,12 +14,28 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data, ui
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, TEXT_DIM, apply_theme, fmt_int, fmt_lei,
-                       kpi_card, page_header, party_color, sidebar_brand)
+                       despre, kpi_card, page_header, party_color, sidebar_brand)
 
 st.set_page_config(page_title="Partide · SOLOMONAR", layout="wide")
 apply_theme()
 sidebar_brand()
 page_header("Partide", "Subvenții de stat alocate partidelor, evoluție anuală și prezență parlamentară.")
+despre(
+    sursa="Subvențiile de la bugetul de stat, pe ani: platforma banipartide.ro a Expert Forum (EFOR). "
+          "Rapoartele financiare anuale: Portalul Legislativ (legislatie.just.ro), care preia situațiile "
+          "publicate de partide în Monitorul Oficial. Parlamentarii: cdep.ro și senat.ro; numirile în "
+          "conducerea companiilor de stat: registrul guvernanta.gov.ro.",
+    calcul="Subvenția totală a unui partid este suma subvențiilor din toți anii disponibili. Graficul pe ani "
+           "arată implicit cele 6 partide cu cea mai mare sumă cumulată. „Numiți în conducere SOE” numără "
+           "persoanele distincte din registru care și-au declarat afilierea la acel partid.",
+    legaturi="Denumirile aceluiași partid din surse diferite (siglă, nume complet, nume de grup parlamentar) "
+             "sunt aduse la o siglă comună prin potrivire de text, fără diacritice. Unele sigle sunt grupate "
+             "(de exemplu PLUS intră la USR). Numirile din registrul Guvernului se adună doar când afilierea "
+             "declarată este exact sigla partidului.",
+    limite="Numărul de deputați și senatori arată doar mandatul curent. Partidele a căror denumire nu se "
+           "potrivește cu nicio siglă cunoscută lipsesc din totaluri și din tabel, dar pot apărea în graficul "
+           "pe ani, care folosește denumirile din sursă. Subvențiile sunt disponibile doar pe an, fără detaliu lunar.",
+)
 
 p = data.partide_df()
 
@@ -198,5 +214,5 @@ if guv.get("numiri"):
         alege = st.selectbox("Partid", partide_soe,
                              format_func=lambda k: f"{k} — {guv_afil[k]} persoane")
         ui.guvernanta_numiri([n for n in guv["numiri"] if n.get("partid") == alege], key="guv_partid")
-st.caption("Surse: subvenții de la bugetul de stat (AEP) și rapoartele de venituri/cheltuieli ale partidelor. "
+st.caption("Surse: subvenții de la bugetul de stat (date Expert Forum, banipartide.ro) și rapoartele de venituri/cheltuieli ale partidelor. "
            "Numărul de deputați/senatori reflectă mandatul curent.")

@@ -12,7 +12,7 @@ for _a in _pl.Path(__file__).resolve().parents:
         _sys.path.insert(0, str(_a)); break
 
 from app import data
-from app.theme import (ACCENT, ACCENT_2, apply_theme, fmt_int, kpi_card, page_header,
+from app.theme import (ACCENT, ACCENT_2, apply_theme, despre, fmt_int, kpi_card, page_header,
                        party_color, sidebar_brand, tabel)
 
 st.set_page_config(page_title="Parlament · SOLOMONAR", layout="wide")
@@ -20,6 +20,9 @@ apply_theme()
 sidebar_brand()
 page_header("Parlament",
             "Moțiunile depuse din legislatura 2000 încoace și componența actuală a Camerei Deputaților și a Senatului.")
+despre(
+    sursa="cdep.ro (moțiuni și deputați) și senat.ro (senatori). Fiecare tab are mai jos propria explicație.",
+)
 
 TIP_MOTIUNE = {"cenzura": "de cenzură", "simpla_cdep": "simplă (Camera Deputaților)"}
 PARTID_SCURT = (("Social Democrat", "PSD"), ("Național Liberal", "PNL"), ("Naţional Liberal", "PNL"),
@@ -79,6 +82,20 @@ tab_motiuni, tab_deputati, tab_senatori = st.tabs(["Moțiuni", "Deputați", "Sen
 
 # ============================================================ MOȚIUNI
 with tab_motiuni:
+    despre(
+        sursa="Listele de moțiuni de pe cdep.ro, pentru fiecare legislatură din 2000 încoace: moțiunile de cenzură "
+              "(Camerele reunite) și moțiunile simple depuse la Camera Deputaților. Pentru fiecare moțiune se citesc "
+              "fișa (dată, rezultat, voturi, semnatari) și documentul PDF.",
+        calcul="Rezultatul și voturile sunt cele din fișa de pe cdep.ro. „Cine semnează cel mai des” numără, în "
+               "legislatura aleasă, moțiunile pe care apare fiecare parlamentar ca semnatar. Textul moțiunii este "
+               "citit automat (OCR) din PDF-ul scanat și poate avea erori.",
+        legaturi="Semnatarii sunt luați din linkurile către fișele parlamentarilor de pe pagina moțiunii. Partidul "
+                 "unui deputat semnatar vine din lista deputaților, după codul lui de pe cdep.ro; senatorii apar "
+                 "doar ca „senator”, pentru că au alt sistem de coduri.",
+        limite="Partidul semnatarilor este disponibil doar pentru legislatura curentă și este partidul actual al "
+               "deputatului, care poate diferi de cel din momentul semnării. Moțiunile simple depuse la Senat nu "
+               "sunt incluse.",
+    )
     mot = data.motiuni_df()
     if mot.empty:
         st.info("Nu există date despre moțiuni.")
@@ -197,6 +214,12 @@ with tab_motiuni:
 
 # ============================================================ DEPUTAȚI
 with tab_deputati:
+    despre(
+        sursa="Lista deputaților din legislatura curentă și fișa fiecăruia, de pe cdep.ro.",
+        calcul="Partidul este dedus din numele partidului scris în fișă și redus la siglă. Numele care nu se "
+               "potrivesc cu o siglă cunoscută apar ca „Altele”, iar fișele fără partid ca „Neafiliați”.",
+        limite="Partidul afișat este cel actual, fără istoricul schimbărilor de partid.",
+    )
     dep = data.deputati_df()
     if dep.empty:
         st.info("Nu există lista deputaților.")
@@ -238,6 +261,12 @@ with tab_deputati:
 
 # ============================================================ SENATORI
 with tab_senatori:
+    despre(
+        sursa="Lista senatorilor din legislatura curentă și fișa fiecăruia, de pe senat.ro.",
+        calcul="Partidul este dedus din numele grupului parlamentar scris în fișă și redus la siglă. Senatorii "
+               "fără grup apar ca „Neafiliați”.",
+        limite="senat.ro nu publică județul senatorului. Partidul afișat este cel al grupului parlamentar actual.",
+    )
     sen = data.senatori_df()
     if sen.empty:
         st.info("Nu există lista senatorilor.")

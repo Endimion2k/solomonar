@@ -21,7 +21,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, WARNING, apply_theme,
-                       fmt_int, kpi_card, page_header, sidebar_brand)
+                       despre, fmt_int, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Comisii & Legislativ · SOLOMONAR", layout="wide")
 apply_theme()
@@ -30,6 +30,10 @@ sidebar_brand()
 page_header("Comisii & Legislativ",
             "Activitatea recentă a comisiilor Camerei Deputaților (ședințe + proiecte discutate), "
             "componența comisiilor Senatului și inițiatorii proiectelor legislative (PLx).")
+despre(
+    sursa="cdep.ro (ordinile de zi ale comisiilor Camerei Deputaților și dosarele proiectelor de lege) și "
+          "senat.ro (componența comisiilor Senatului). Fiecare tab are mai jos propria explicație.",
+)
 
 # etichete + ordinea de afișare a tipurilor de documente la dosarul unui PLx
 DOC_LABEL = {
@@ -428,10 +432,42 @@ tab_act, tab_sen, tab_leg = st.tabs([
     "Comisiile Senatului",
     "Inițiative legislative (PLx)"])
 with tab_act:
+    despre(
+        sursa="Ordinile de zi (PDF) publicate de fiecare comisie a Camerei Deputaților pe cdep.ro și pagina "
+              "fiecărui proiect de lege (PLx) de pe cdep.ro, cu documentele de la dosar.",
+        calcul="Data ședinței se citește din numele fișierului PDF al ordinii de zi. Ordinile de zi ale aceleiași "
+               "comisii din aceeași zi formează o singură ședință. „PLx discutate” numără proiectele distincte "
+               "din ședințele selectate.",
+        legaturi="Un proiect este legat de o ședință doar dacă ordinea de zi conține un link către pagina lui de "
+                 "pe cdep.ro. „Actele de bază” sunt documentele de la dosar marcate ca forma inițiatorului, "
+                 "expunere de motive, aviz al Consiliului Legislativ, punct de vedere al Guvernului sau sesizare.",
+        limite="Proiectele scrise în ordinea de zi fără link (de exemplu în PDF-uri scanate) nu apar. Multe ordini de "
+               "zi au în numele fișierului o dată ambiguă (de exemplu „oz0204”) și rămân fără dată exactă; ele "
+               "apar doar dacă bifezi opțiunea, după anul agendei.",
+    )
     _render_activitate()
 with tab_sen:
+    despre(
+        sursa="Paginile de componență ale comisiilor permanente ale Senatului, de pe senat.ro.",
+        calcul="„Mandate în comisii” adună membrii tuturor comisiilor, deci un senator din două comisii este "
+               "numărat de două ori. Rolurile (președinte, vicepreședinte, secretar, membru) sunt cele scrise pe senat.ro.",
+        limite="Este componența de la ultima actualizare a datelor, fără istoricul schimbărilor.",
+    )
     _render_senat()
 with tab_leg:
+    despre(
+        sursa="Pagina fiecărui proiect de lege de pe cdep.ro (inițiatori și documentele de la dosar) și textul "
+              "acestor documente PDF.",
+        calcul="Un proiect este socotit inițiativă a Guvernului când pagina lui menționează Guvernul în dreptul "
+               "inițiatorului. Numărul de inițiatori este cifra scrisă de cdep.ro sau, în lipsa ei, numărul de "
+               "parlamentari cu link în lista de inițiatori. Avizele, soluția din raport și punctul de vedere al "
+               "Guvernului sunt extrase automat din fraza de decizie a fiecărui document.",
+        legaturi="Inițiatorii parlamentari sunt identificați prin codul lor de pe cdep.ro, luat din linkul către "
+                 "fișa parlamentarului, fără potrivire pe nume.",
+        limite="Lista cuprinde doar proiectele care au apărut cu link pe ordinea de zi a unei comisii a Camerei "
+               "Deputaților. Documentele scanate sunt citite prin OCR doar pe primele pagini, iar verdictele "
+               "extrase automat pot greși: verifică documentul original.",
+    )
     _render_legislativ()
 
 st.divider()

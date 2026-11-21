@@ -18,7 +18,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, DANGER, TEXT_DIM, WARNING, apply_theme,
-                       fmt_int, kpi_card, page_header, sidebar_brand)
+                       despre, fmt_int, kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="DNA · SOLOMONAR", layout="wide")
 apply_theme()
@@ -27,6 +27,17 @@ sidebar_brand()
 page_header("Comunicate DNA",
             "Comunicate publice ale Direcției Naționale Anticorupție. Căutare în titlu și "
             "în numele extrase. Date publice, agregate din sursa oficială.")
+despre(
+    sursa="Comunicatele de presă publicate pe dna.ro, citite pe rând din arhiva site-ului. Sunt incluse și "
+          "versiunile în limba engleză ale comunicatelor.",
+    calcul="Data și anul se iau din data scrisă în comunicat, iar titlul afișat este începutul textului de după "
+           "dată. Numele sunt extrase automat: secvențe de 2 până la 4 cuvinte scrise integral cu majuscule "
+           "(forma în care DNA scrie de obicei numele persoanelor), cel mult 8 pe comunicat. Căutarea găsește "
+           "textul tastat în titlu sau în aceste nume, literă cu literă, deci ține cont de diacritice.",
+    limite="Paginile fără o dată recunoscută și hotărârile judecătorești publicate pe același site sunt excluse. "
+           "Numele extrase pot conține denumiri de instituții sau antete și pot rata nume scrise cu litere mici. "
+           "Pentru context complet, deschide comunicatul original.",
+)
 
 st.warning(
     "**Prezumția de nevinovăție.** Comunicatele DNA se referă la trimiteri în judecată, "

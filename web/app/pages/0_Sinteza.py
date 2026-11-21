@@ -13,7 +13,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 from app import data
 from app.theme import tabel
 from app.theme import (ACCENT, ACCENT_2, apply_theme, data_freshness, fmt_int, kpi_card,
-                       page_header, sidebar_brand)
+                       page_header, despre, sidebar_brand)
 
 st.set_page_config(page_title="Sinteză · SOLOMONAR", layout="wide",
                    initial_sidebar_state="expanded")
@@ -23,6 +23,25 @@ sidebar_brand()
 page_header("Cine conduce statul și pe unde trec banii publici",
             "Declarații de avere, conducerile companiilor de stat, contracte publice, partide și "
             "bugete, legate între ele din surse oficiale.")
+despre(
+    sursa="Declarații de avere și de interese publicate de instituții și companii de stat pe site-urile "
+          "proprii și de deputați pe cdep.ro; reprezentanții legali din dump-ul ONRC și contractele din "
+          "exportul SICAP, ambele de pe data.gov.ro. Lista companiilor de stat vine din raportul anual "
+          "AMEPIP și de pe companiidestat.ro, acționariatul de pe bvb.ro, comunicatele de pe dna.ro.",
+    calcul="Cifrele de sus numără înregistrările din setul publicat. Graficul pe sectoare adună, pentru "
+           "companiile de stat din fiecare sector, valoarea contractelor SICAP asociate CUI-ului lor și "
+           "arată primele 8 sectoare. Graficul BVB arată, pentru companiile listate, procentul deținut de "
+           "acționarii recunoscuți ca stat (Statul Român, ministere, Fondul Proprietatea, consilii "
+           "județene sau locale, primării).",
+    legaturi="Tabelul de conflicte cuprinde persoanele care apar în ONRC ca reprezentant legal al unei "
+             "firme cu contracte publice, firmă trecută și în propria lor declarație de interese "
+             "(cuvintele distinctive din denumire apar printre entitățile declarate). Se afișează "
+             "primele 10 persoane, cu o singură firmă fiecare.",
+    limite="Valorile contractelor sunt brute: în exportul SICAP suma unui lot se repetă la fiecare "
+           "ofertant, deci totalurile sunt mai mari decât banii încasați. Legătura persoană-firmă din "
+           "ONRC se face după nume, fără CNP. Dacă fișierul unei surse lipsește la o actualizare, cifra "
+           "ei rămâne la valoarea anterioară.",
+)
 
 s = data.stats()
 d = s.get("declaratii", {})

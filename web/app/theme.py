@@ -149,6 +149,15 @@ def page_header(title: str, subtitle: str = "") -> None:
         st.markdown(f"<div class='solomonar-hero'>{subtitle}</div>", unsafe_allow_html=True)
 
 
+def despre(sursa: str, calcul: str = "", legaturi: str = "", limite: str = "") -> None:
+    """Explicația scurtă a unei pagini sau a unui tab: de unde vin datele, cum se calculează
+    graficele, cum se găsesc legăturile, ce nu acoperă. Pliată, ca să nu împingă conținutul în jos."""
+    rows = [("De unde sunt datele", sursa), ("Cum se calculează", calcul),
+            ("Cum se găsesc legăturile", legaturi), ("Limite", limite)]
+    with st.expander("Despre date: sursă și metodă", icon=":material/info:"):
+        st.markdown("\n".join(f"**{t}.** {x}  " for t, x in rows if x))
+
+
 def kpi_card(col, label: str, value: str, help: str = "") -> None:
     col.metric(label, value, help=help or None)
 

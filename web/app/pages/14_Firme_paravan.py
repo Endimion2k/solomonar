@@ -19,7 +19,7 @@ for _a in _pl.Path(__file__).resolve().parents:
 
 from app import data
 from app.theme import tabel
-from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, fmt_int,
+from app.theme import (ACCENT, DANGER, TEXT_DIM, WARNING, apply_theme, despre, fmt_int,
                        kpi_card, page_header, sidebar_brand)
 
 st.set_page_config(page_title="Firme noi cu bani de stat · SOLOMONAR",
@@ -30,6 +30,21 @@ page_header("Firme noi cu bani de stat",
             "Firme înființate cu cel mult un an înainte de prima achiziție de la stat, "
             "care au câștigat contracte publice — canalul mare. Sunt lead-uri de verificat, "
             "nu acuzații.")
+despre(
+    sursa="Registrul firmelor ONRC publicat pe data.gov.ro (data înmatriculării, forma juridică, județul, "
+          "țara firmei-mamă, codurile CAEN) și contractele și achizițiile directe din SICAP, publicate "
+          "de ADR pe data.gov.ro.",
+    calcul="Anul înmatriculării din ONRC se compară cu primul an în care firma apare în SICAP, cu un "
+           "contract sau cu o achiziție directă. Dacă diferența este de cel mult un an, firma primește "
+           "semnalul „firmă nouă cu bani de stat”; pagina arată doar firmele care au și contracte, "
+           "restul apar numai în nota de context. Domeniul CAEN vine din primul cod CAEN din lista ONRC "
+           "a firmei.",
+    legaturi="Firmele din ONRC și cele din SICAP se potrivesc după CUI. Firma-mamă este câmpul „țara "
+             "firmei-mamă” din ONRC; „străină” înseamnă orice țară în afară de România.",
+    limite="Calculul folosește doar anii, deci „cel mult un an” poate însemna în realitate aproape doi "
+           "ani. Primul an de achiziție este cel mai vechi an găsit în datele SICAP încărcate. O firmă "
+           "tânără cu contracte poate fi perfect legitimă.",
+)
 
 df = data.firme_onrc()
 meta = data.firme_onrc_meta()
