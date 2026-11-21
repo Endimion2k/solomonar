@@ -235,6 +235,29 @@ def firme_nume_map() -> dict:
     return out
 
 
+@st.cache_data(show_spinner=False)
+def _reprezentanti_map() -> dict:
+    out = {}
+    for c in _load_raw("companii/reprezentanti.json").get("companii", []) or []:
+        try:
+            out[int(c.get("cui"))] = c
+        except (TypeError, ValueError):
+            continue
+    return out
+
+
+def reprezentanti_firma(cui) -> dict:
+    """Reprezentanții legali ONRC ai unei firme: actuali + foști (istoric între dump-uri).
+    Întoarce {"actuali": [...], "fosti": [...], "data_dump": ..., "dump_anterior": ...}."""
+    meta = _load_raw("companii/reprezentanti.json") or {}
+    try:
+        c = _reprezentanti_map().get(int(cui)) or {}
+    except (TypeError, ValueError):
+        c = {}
+    return {"actuali": c.get("reprezentanti") or [], "fosti": c.get("fosti") or [],
+            "data_dump": meta.get("data_dump"), "dump_anterior": meta.get("dump_anterior")}
+
+
 # ---------------- analiză de rețea (inele / huburi / poduri) ----------------
 @st.cache_data(show_spinner=False)
 def network_metrics() -> dict:

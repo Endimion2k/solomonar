@@ -6,6 +6,7 @@ COD_INMATRICULARE). Stream filtrat (nu încărcăm ~1GB în RAM):
   2. stream OD_FIRME → COD_INMATRICULARE → CUI (doar pt. ținte).
   3. stream OD_REPREZENTANTI_LEGALI → reprezentanți (nume + calitate) pt. acele coduri.
   4. publică companii/reprezentanti.json + îmbogățește companii/_index.json (legal_reps).
+     Păstrează istoricul: cine dispare față de dump-ul anterior trece la `fosti` (vezi reps_istoric).
 
 Follow-the-money: cine administrează CFR/Tarom/Romgaz + firmele cu contracte de stat.
 """
@@ -21,9 +22,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, ROOT)
 
 from pipeline.onrc_stream import dump_curent, randuri  # noqa: E402
+from pipeline.reps_istoric import combina, data_dump, disparute  # noqa: E402
 
 V = os.path.join(ROOT, "data/v1")
 MIN_KEEP_RATIO = 0.9   # țintele includ tot ce e publicat, deci o scădere mare = dump citit parțial
+MAX_DISPARUTE_RATIO = 0.02  # între două dump-uri dispar ~0,05% din firme; mult mai mult = citire parțială
 
 
 def _load(p):
@@ -74,7 +77,8 @@ def _target_cuis() -> tuple[set, dict]:
 def main() -> dict:
     cuis, names = _target_cuis()
     print(f"CUI-uri țintă: {len(cuis)}", flush=True)
-    publicate = len((_load(os.path.join(V, "companii/reprezentanti.json")) or {}).get("companii") or [])
+    publicate = sum(1 for c in (_load(os.path.join(V, "companii/reprezentanti.json")) or {}).get("companii") or []
+                    if c.get("reprezentanti"))
     dump, urls = dump_curent("OD_FIRME", "OD_REPREZENTANTI_LEGALI")
     url_firme, url_reps = urls["OD_FIRME"], urls["OD_REPREZENTANTI_LEGALI"]
 
@@ -117,9 +121,21 @@ def main() -> dict:
     if len(reps) < publicate * MIN_KEEP_RATIO:
         raise SystemExit(f"REFUZ să suprascriu reprezentanti.json: {len(reps)} companii față de {publicate} "
                          f"publicate. Dump-ul ONRC a fost citit parțial; fișierul publicat rămâne neschimbat.")
-    out =[{"cui": cui, "denumire": names.get(cui, ""), "reprezentanti": r} for cui, r in reps.items()]
+    prev = _load(os.path.join(V, "companii/reprezentanti.json")) or {}
+    prev_comp = prev.get("companii") or []
+    prev_data, cur_data = prev.get("data_dump") or data_dump(prev.get("dump")), data_dump(dump)
+    if not cur_data:
+        raise SystemExit(f"REFUZ: nu pot citi data dump-ului ONRC din eticheta {dump!r}; istoricul ar fi greșit.")
+    cu_reps = sum(1 for c in prev_comp if c.get("reprezentanti"))
+    if prev_data and prev_data != cur_data and disparute(prev_comp, reps) > cu_reps * MAX_DISPARUTE_RATIO:
+        raise SystemExit(f"REFUZ: {disparute(prev_comp, reps)} din {cu_reps} firme și-ar pierde toți reprezentanții "
+                         f"(peste {MAX_DISPARUTE_RATIO:.0%}). Probabil dump citit parțial; istoricul nu se scrie.")
+    out = combina(prev_comp, prev_data, reps, cur_data, names)
     json.dump({"generated_at": datetime.now(timezone.utc).isoformat(), "sursa": "ONRC OD_REPREZENTANTI_LEGALI (data.gov.ro)", "dump": dump,
-               "companii_cu_reprezentanti": len(reps), "total_reprezentanti": sum(len(r) for r in reps.values()),
+               "data_dump": cur_data, "dump_anterior": prev_data if prev_data != cur_data else prev.get("dump_anterior"),
+               "companii_cu_reprezentanti": len(reps),
+               "total_reprezentanti": sum(len(c["reprezentanti"]) for c in out),
+               "total_fosti": sum(len(c.get("fosti") or []) for c in out),
                "companii": out},
               open(os.path.join(V, "companii/reprezentanti.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     # îmbogățește indexul de companii

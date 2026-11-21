@@ -247,6 +247,22 @@ if pick != "—":
         st.caption("Sursă: situațiile financiare anuale depuse la Ministerul Finanțelor. Un an fără "
                    "valoare înseamnă că bilanțul nu era publicat la data colectării.")
 
+    rp = data.reprezentanti_firma(row["cui"])
+    if rp["actuali"] or rp["fosti"]:
+        st.markdown("**Reprezentanți legali ONRC: actuali și foști**")
+        zi = lambda d: f"{d[8:10]}.{d[5:7]}.{d[:4]}" if isinstance(d, str) and len(d) == 10 else "—"  # noqa: E731
+        rows_rp = [{"Persoană": r["nume"], "Calitate": r.get("calitate") or "—", "Stare": "actual",
+                    "Schimbare": f"numit între {zi(r['aparut_dupa'])} și {zi(r['vazut_din'])}"
+                    if r.get("aparut_dupa") else f"în ONRC din {zi(r.get('vazut_din'))} sau mai devreme"}
+                   for r in rp["actuali"]]
+        rows_rp += [{"Persoană": r["nume"], "Calitate": r.get("calitate") or "—", "Stare": "fost",
+                     "Schimbare": f"plecat între {zi(r.get('vazut_pana_la'))} și {zi(r.get('absent_din'))}"}
+                    for r in rp["fosti"]]
+        tabel(pd.DataFrame(rows_rp), use_container_width=True, hide_index=True)
+        st.caption("Sursă: dump-urile ONRC de pe data.gov.ro. ONRC publică doar starea curentă, fără date de "
+                   "numire sau revocare; schimbarea s-a produs între cele două dump-uri indicate. "
+                   "Istoricul începe cu dump-ul din " + zi(rp.get("dump_anterior")) + ".")
+
     gc = data.guvernanta_companie(row["cui"])
     if gc:
         st.markdown("**Conducerea oficială — guvernanta.gov.ro**")
