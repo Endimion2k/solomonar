@@ -28,14 +28,13 @@ despre(
           "publicată de Ministerul Dezvoltării (DPFBL). Bugetul general consolidat: buletinele lunare de "
           "execuție ale Ministerului Finanțelor. Companiile de stat pe județ: companiidestat.ro, raportul "
           "AMEPIP și bilanțurile depuse la Ministerul Finanțelor (data.gov.ro).",
-    calcul="Indicatorii de sus adună veniturile și cheltuielile tuturor rândurilor UAT, iar soldul e diferența "
-           "lor. Execuția bugetului general consolidat e cumulată de la 1 ianuarie, deci crește în cursul "
+    calcul="Indicatorii de sus adună veniturile și cheltuielile tuturor UAT-urilor din anul ales, iar soldul e "
+           "diferența lor. Execuția bugetului general consolidat e cumulată de la 1 ianuarie, deci crește în cursul "
            "anului și pornește din nou în ianuarie; cifrele sunt nete, după operațiunile financiare, iar "
            "procentul din PIB e cel din buletin. Pe județe se numără companiile de stat și se adună cifra lor "
            "de afaceri și salariații.",
-    limite="Datele UAT acoperă ultimii doi ani publicați și fiecare UAT apare o dată pentru fiecare an, deci "
-           "indicatorii de sus adună ambii ani (coloana An îi separă în tabel). Consiliile județene nu sunt "
-           "incluse. Seria lunară începe cu ianuarie 2024. Anul bilanțului poate diferi de la o companie la "
+    limite="Datele UAT acoperă ultimii doi ani publicați; indicatorii, graficul și tabelul arată un singur an, "
+           "ales mai jos. Consiliile județene nu sunt incluse. Seria lunară începe cu ianuarie 2024. Anul bilanțului poate diferi de la o companie la "
            "alta, iar companiile fără bilanț nu intră în sume.",
 )
 
@@ -48,15 +47,19 @@ jud = data.analytics("sumar_judet")
 if uat.empty:
     st.warning("Nu există date despre bugetele UAT.")
 else:
+    # fiecare UAT apare o dată pe an: sumele se fac pe un singur an, altfel se dublează
+    ani = sorted(uat["an"].dropna().astype(int).unique().tolist(), reverse=True)
+    sel_an = st.radio("Anul bugetelor locale", ani, index=0, horizontal=True, key="uat_an")
+    uat = uat[uat["an"] == sel_an]
     ven_total = uat["venituri_lei"].sum()
     chelt_total = uat["cheltuieli_lei"].sum()
     sold_total = ven_total - chelt_total
     c1, c2, c3, c4 = st.columns(4)
-    kpi_card(c1, "UAT înregistrate", fmt_int(len(uat)))
-    kpi_card(c2, "Venituri totale UAT", fmt_lei(ven_total))
-    kpi_card(c3, "Cheltuieli totale UAT", fmt_lei(chelt_total))
-    kpi_card(c4, "Sold agregat", fmt_lei(sold_total),
-             help="Venituri minus cheltuieli, însumat pe toate UAT-urile.")
+    kpi_card(c1, f"UAT înregistrate ({sel_an})", fmt_int(len(uat)))
+    kpi_card(c2, f"Venituri totale UAT ({sel_an})", fmt_lei(ven_total))
+    kpi_card(c3, f"Cheltuieli totale UAT ({sel_an})", fmt_lei(chelt_total))
+    kpi_card(c4, f"Sold agregat ({sel_an})", fmt_lei(sold_total),
+             help="Venituri minus cheltuieli, însumat pe toate UAT-urile din anul ales.")
 
     st.divider()
 

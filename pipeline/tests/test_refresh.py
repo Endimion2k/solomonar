@@ -23,6 +23,7 @@ def test_order_respects_dependencies():
     before = [("comisii", "plx_initiatori"), ("plx_initiatori", "comisii_recent"),
               ("comisii", "comisii_docs"), ("comisii_docs", "comisii_docs_text"),
               ("achizitii_directe", "reprezentanti"), ("reprezentanti", "gold"), ("bilanturi", "gold"),
+              ("contracte_firme", "firme_relevante"), ("contracte_firme", "gold"),
               ("gold", "splink_apply"), ("splink_apply", "opensanctions"), ("gold", "guvernanta"),
               ("alerte", "feeds"), ("search", "stats"), ("stats", "pii_check"), ("pii_scrub", "pii_check")]
     for a, b in before:

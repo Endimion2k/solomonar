@@ -34,11 +34,11 @@ despre(
            "La oficiali, suma este totalul contractelor tuturor firmelor asociate persoanei.",
     legaturi="Companiile se leagă de bilanțuri și contracte prin CUI. Oficialii se leagă de firme după "
              "nume, fără CNP: numele administratorilor din ONRC se compară cu numele din declarații și "
-             "cu lista parlamentarilor. Încredere: high = parlamentar identificat după data nașterii, "
+             "cu lista parlamentarilor. Încredere: high = parlamentar identificat după data nașterii, fără "
+             "firme sau cu firme confirmate prin context, "
              "context = persoana declară la aceeași organizație pe care o conduce, candidat = doar "
-             "potrivire de nume.",
-    limite="Nivelul high confirmă identitatea parlamentarului, dar legătura lui cu o firmă rămâne o "
-           "potrivire de nume, deci poate fi un omonim. Băncile, asigurătorii și IFN-urile nu au cifre "
+             "potrivire de nume (inclusiv parlamentarii ale căror firme vin doar din nume).",
+    limite="Potrivirea pe nume poate prinde omonimi, mai ales la firmele mari. Băncile, asigurătorii și IFN-urile nu au cifre "
            "financiare aici, pentru că depun alt tip de bilanț.",
 )
 

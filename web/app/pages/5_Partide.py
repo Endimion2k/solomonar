@@ -32,9 +32,10 @@ despre(
              "sunt aduse la o siglă comună prin potrivire de text, fără diacritice. Unele sigle sunt grupate "
              "(de exemplu PLUS intră la USR). Numirile din registrul Guvernului se adună doar când afilierea "
              "declarată este exact sigla partidului.",
-    limite="Numărul de deputați și senatori arată doar mandatul curent. Partidele a căror denumire nu se "
-           "potrivește cu nicio siglă cunoscută lipsesc din totaluri și din tabel, dar pot apărea în graficul "
-           "pe ani, care folosește denumirile din sursă. Subvențiile sunt disponibile doar pe an, fără detaliu lunar.",
+    limite="Numărul de deputați și senatori arată doar mandatul curent. Deputații minorităților naționale și "
+           "grupurile parlamentare fără partid corespondent (de exemplu PACE la Senat) nu se atribuie niciunui "
+           "partid. Graficul pe ani folosește denumirile din sursă. Subvențiile sunt disponibile doar pe an, "
+           "fără detaliu lunar.",
 )
 
 p = data.partide_df()

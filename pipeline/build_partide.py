@@ -22,11 +22,11 @@ CANON = {
     "PNL": ["pnl", "national liberal"],
     "AUR": ["aur", "alianta pentru unirea romanilor"],
     "USR": ["usr", "uniunea salvati romania", "salvati romania", "plus"],
-    "UDMR": ["udmr", "maghiara", "rmdsz"],
+    "UDMR": ["udmr", "maghiar", "rmdsz"],
     "POT": ["pot", "partidul oamenilor tineri"],
     "SOS": ["sos", "s.o.s"],
     "PMP": ["pmp", "miscarea populara"],
-    "PRO": ["pro romania"],
+    "PRO": ["pro romania", "ppro"],
     "ALDE": ["alde"],
     "PDL": ["pdl", "democrat liberal"],
     "PRM": ["prm", "romania mare"],
@@ -34,14 +34,14 @@ CANON = {
     "PPDD": ["poporului dan diaconescu", "ppdd"],
     "UNPR": ["unpr"],
     "FC": ["forta civica"],
-    "FD": ["forta dreptei"],
+    "FD": ["forta dreptei", "fdreptei"],
     "PNTCD": ["pntcd", "taranesc crestin"],
     "PFN": ["pfn"],
 }
 
 
 def _norm(s):
-    return unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower()
+    return unicodedata.normalize("NFKD", s or "").encode("ascii", "ignore").decode().lower().replace("_", " ")
 
 
 def _canon(name):
@@ -75,7 +75,7 @@ def main() -> dict:
     if os.path.exists(rvc_path):
         rvc = json.load(open(rvc_path, encoding="utf-8"))
         for r in (rvc.get("data") or rvc.get("rapoarte") or []):
-            c = _canon(r.get("partid") or r.get("partid_cod"))
+            c = _canon(r.get("partid_cod") or r.get("partid") or r.get("partid_nume"))
             if not c:
                 continue
             P(c)["rapoarte_rvc"].append({"an": r.get("an"), "doc_id": r.get("doc_id"),

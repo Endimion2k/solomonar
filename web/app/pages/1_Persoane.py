@@ -41,7 +41,8 @@ despre(
     legaturi="Fără CNP, potrivirea se face pe nume, indiferent de ordinea cuvintelor, diacritice și "
              "titluri; mențiunile cu același nume se unesc doar dacă au în comun un cuvânt distinctiv din "
              "numele instituției sau al firmei. „Confirmată” înseamnă parlamentar identificat după data "
-             "nașterii, „Cu context” înseamnă că persoana declară la o organizație și o și conduce, "
+             "nașterii, fără firme sau cu firme confirmate prin context; un parlamentar ale cărui firme vin "
+             "doar din potrivirea pe nume rămâne „Candidat”. „Cu context” înseamnă că persoana declară la o organizație și o și conduce, "
              "„Candidat” înseamnă potrivire doar pe nume. Variantele de scriere (de exemplu un prenume în "
              "plus) se unesc automat doar când un nume e cuprins în celălalt și au o organizație comună.",
     limite="Declarațiile și firmele găsite pe numele unui parlamentar se atașează fișei lui, deci pot "

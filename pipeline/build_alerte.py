@@ -367,11 +367,17 @@ def regula7_firma_noua_bani_stat(firme: list, fl: dict) -> list:
     return alerte
 
 
+def mama_straina(tara) -> bool:
+    """ONRC completează „țara firmei-mamă” și pentru mame din România: acelea nu sunt străine."""
+    t = str(tara or "").strip().lower()
+    return bool(t) and t not in ("românia", "romania", "româniа", "ro")
+
+
 def regula8_firma_mama_straina(firme: list, fl: dict) -> list:
     """Firme cu firmă-mamă în alt stat, care iau bani de stat."""
     alerte = []
     for f in firme:
-        if f.get("tara_mama") and (f.get("are_contracte") or f.get("are_achizitii_directe")):
+        if mama_straina(f.get("tara_mama")) and (f.get("are_contracte") or f.get("are_achizitii_directe")):
             info = fl.get(_cui_int(f.get("cui"))) or {}
             nume = info.get("nume")
             alerte.append({

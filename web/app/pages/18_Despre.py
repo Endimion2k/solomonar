@@ -60,7 +60,7 @@ st.markdown(
     "Sursele publice nu conțin CNP-ul, care este redactat prin lege. De aceea, legătura dintre o "
     "persoană și o firmă se face după nume și după context. Fiecare persoană are un nivel de încredere:")
 niveluri = pd.DataFrame([
-    ("Confirmată", inc.get("high"), "Identitate stabilită cu date suplimentare, de exemplu data nașterii la parlamentari."),
+    ("Confirmată", inc.get("high"), "Parlamentar identificat după data nașterii, fără firme sau cu firme confirmate prin context."),
     ("Cu context", inc.get("context"), "Același nume și aceeași instituție sau companie în două surse diferite."),
     ("Candidat", inc.get("candidat"), "Potrivire doar după nume. Poate fi un omonim și trebuie verificată."),
 ], columns=["Nivel", "Persoane", "Ce înseamnă"])

@@ -96,6 +96,21 @@ class UF:
         self.p[self.find(a)] = self.find(b)
 
 
+def nivel_incredere(is_mp: bool, n_companii: int, ctx_link: bool) -> str:
+    """Încrederea în LEGĂTURILE persoanei (dosarul o afișează ca atare).
+
+    high = parlamentar (identitate pe dată naștere) fără firme sau cu firme confirmate prin context;
+    context = declară LA + conduce ACEEAȘI organizație (nume + organizație, fără CNP);
+    candidat = firmele sunt legate doar pe nume. Un parlamentar ale cărui firme vin doar din potrivirea
+    pe nume rămâne candidat: data nașterii îi confirmă identitatea, nu și că el e administratorul din ONRC.
+    """
+    if ctx_link:
+        return "high" if is_mp else "context"
+    if is_mp and not n_companii:
+        return "high"
+    return "candidat"
+
+
 def main() -> dict:
     os.makedirs(GOLD, exist_ok=True)
 
@@ -237,12 +252,7 @@ def main() -> dict:
         decl_tok = set().union(*p["orgs_decl"]) if p["orgs_decl"] else set()
         comp_tok = set().union(*p["orgs_comp"]) if p["orgs_comp"] else set()
         ctx_link = bool(decl_tok & comp_tok)
-        if is_mp:
-            conf = "high"   # identitate ancorată pe dată naștere
-        elif ctx_link:
-            conf = "context"  # declară LA + conduce ACEEAȘI org (nume+context)
-        else:
-            conf = "candidat"
+        conf = nivel_incredere(is_mp, ncomp, ctx_link)
         # contracte de stat câștigate de firmele persoanei (follow-the-money)
         afil = p.get("afil_tokens", set())
         firme_ctr = {}
