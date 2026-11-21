@@ -168,8 +168,10 @@ with tab_hub:
                "identitatea în ONRC înainte de orice concluzie.",
     )
     st.markdown("#### Administratori care controlează cele mai multe firme cu bani de stat")
-    st.caption("Numele se potrivesc pe text — nume comune (ex. „Pop Ioan”) pot reuni mai multe "
-               "persoane diferite (omonimi). Tratează ca lead, verifică în ONRC după CNP.")
+    st.caption("Numele se potrivesc pe text, fără CNP (datele publice nu îl conțin). Un nume comun, de "
+               "exemplu „Pop Ioan”, poate aduna pe același rând mai multe persoane diferite. Tratează rândul ca "
+               "pistă: compară firmele între ele (județ, sediu, ceilalți administratori) sau cere certificatul "
+               "constatator de la ONRC.")
     hdf = pd.DataFrame([{
         "Administrator": h["admin"].title(),
         "Firme (total)": h["n_firme"],

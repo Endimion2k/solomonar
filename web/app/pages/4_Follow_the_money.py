@@ -129,8 +129,9 @@ st.markdown(
     "<b>De citit înainte.</b> Aceste legături sunt deduse din <b>potrivirea numelui</b> dintre o persoană "
     "publică și administratorul/asociatul unei firme cu contracte de stat. "
     "Pot fi <b>omonime</b> (persoane diferite cu același nume) și <b>nu constituie acuzații</b>. "
-    "Sunt piste de cercetare care necesită verificare independentă (CUI, CNP, surse oficiale) "
-    "înainte de orice concluzie.</div>",
+    "Sunt piste de cercetare care necesită verificare independentă înainte de orice concluzie: "
+    "declarația de interese a persoanei, certificatul constatator ONRC al firmei, alte surse oficiale. "
+    "SOLOMONAR nu are CNP-uri: datele publice nu le conțin.</div>",
     unsafe_allow_html=True)
 
 if leaduri:
