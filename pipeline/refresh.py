@@ -56,6 +56,8 @@ STEPS: list[tuple[str, str, list[str], dict, str]] = [
     ("curtea_conturi", "surse", ["-m", "pipeline.harvest_curteadeconturi"], {}, "rapoarte Curtea de Conturi"),
     ("bvb", "surse", ["-m", "pipeline.harvest_actionariat_bvb"], {}, "acționariat SOE listate"),
     ("sicap_map", "surse", ["-m", "pipeline.build_achizitii_map"], {}, "catalog SICAP data.gov.ro"),
+    ("contracte_nete", "surse", ["-m", "pipeline.harvest_contracte_nete"], {},
+     "contracte pe firmă și an, valori nete (fiecare contract o dată)"),
     ("contracte_firme", "surse", ["-m", "pipeline.build_contracte_firme"], {},
      "contracte pe firmă din _sicap_<an>.json (2024-2025)"),
 
