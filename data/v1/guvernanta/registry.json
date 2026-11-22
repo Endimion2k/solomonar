@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:02:28.380829+00:00",
+ "generated_at": "2026-11-22T09:48:52.250125+00:00",
  "sursa": "guvernanta.gov.ro — Guvernul României, registrul companiilor de stat (OUG 109/2011 art. 51)",
  "source_url": "https://guvernanta.gov.ro/data/registry.json",
  "source_generated_at": "2026-09-25T13:49:57.422836Z",
@@ -9,8 +9,8 @@
  "n_persoane": 586,
  "n_numiri": 697,
  "n_potrivite": {
-  "confirmat": 506,
-  "candidat": 52
+  "confirmat": 567,
+  "candidat": 36
  },
  "afiliere_politica": {
   "Fără apartenență politică": 371,
@@ -82,7 +82,6 @@
      "Chitu Alin",
      "Gheorghiu Bogdan Valentin",
      "Horga Maria-Gabriela",
-     "Kenneth Spiteri",
      "Paraschiv Cristian",
      "Pîrvulescu Dumitru"
     ],
@@ -107,16 +106,9 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Cosmina Crăciun Rada"
+     "Elena Mateescu"
     ],
-    "doar_onrc": [
-     "Arat Oana-Marie",
-     "Brumă Vasile",
-     "Diaconu Andreea",
-     "Ionescu Speranţa-Georgeta",
-     "Mocanu Dorina   Simona",
-     "Tudose Mariana"
-    ],
+    "doar_onrc": [],
     "comune": 2
    }
   },
@@ -173,8 +165,6 @@
      "Ștefania Alexandru"
     ],
     "doar_onrc": [
-     "Fara Reprezentant",
-     "Mirea Ioana Alina",
      "Popescu Cătălin Codruţ"
     ],
     "comune": 7
@@ -203,8 +193,7 @@
    "comparatie_onrc": {
     "doar_oficial": [],
     "doar_onrc": [
-     "Mihaescu Maria",
-     "Radu Raluca-Ionela"
+     "Mihaescu Maria"
     ],
     "comune": 5
    }
@@ -262,9 +251,7 @@
      "Rus Iosif",
      "Sandu Daniela",
      "Stamate Florian",
-     "Stefanescu Gabriel - Marian",
-     "Tănase Luminița-Marinela",
-     "Ştefănescu Rela-Nicoleta"
+     "Stefanescu Gabriel - Marian"
     ],
     "comune": 7
    }
@@ -289,9 +276,7 @@
     "doar_oficial": [
      "Mișa Popic"
     ],
-    "doar_onrc": [
-     "Popa Viorica"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -318,9 +303,7 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [],
-    "doar_onrc": [
-     "Paraschiv Aurelia"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -368,13 +351,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Claudiu Daniel Teliceanu",
      "Daniel Andrei George Roșca"
     ],
-    "doar_onrc": [
-     "Ciobanu Ionel"
-    ],
-    "comune": 2
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -425,13 +405,10 @@
    "comparatie_onrc": {
     "doar_oficial": [
      "Adela Brînzan",
-     "Dorina Jianu",
      "Olga Costescu"
     ],
-    "doar_onrc": [
-     "Toma Sergiu"
-    ],
-    "comune": 2
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -528,8 +505,6 @@
      "Mircea Petru Tanţău"
     ],
     "doar_onrc": [
-     "Fara Reprezentant",
-     "Mihăilescu Ion",
      "Miron Adriana-Laura"
     ],
     "comune": 3
@@ -552,15 +527,12 @@
    ],
    "contracte_mandat_model": [],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Daniel Apostolache"
-    ],
+    "doar_oficial": [],
     "doar_onrc": [
-     "Goicea Mirela-Cristina",
-     "Nuncă Otilia-Florentina",
-     "Radu Alexandru"
+     "Goicea Mirela   Cristina",
+     "Miclăuş Mariana"
     ],
-    "comune": 2
+    "comune": 3
    }
   },
   {
@@ -636,11 +608,7 @@
     "doar_oficial": [
      "Mihaela Ene"
     ],
-    "doar_onrc": [
-     "Constantin Raluca Maria",
-     "Munteanu Aneta",
-     "Voicu Ion Laurenţiu"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -691,8 +659,7 @@
     "doar_onrc": [
      "Fara Reprezentant",
      "George Ivanovici",
-     "Miu Constantin",
-     "Stoica Marcel Alexandru"
+     "Miu Constantin"
     ],
     "comune": 6
    }
@@ -776,9 +743,7 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [],
-    "doar_onrc": [
-     "Seferis Christodoulos Constandinou"
-    ],
+    "doar_onrc": [],
     "comune": 7
    }
   },
@@ -822,15 +787,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Ciprian Bozian",
-     "Florin Valentin Ştefan",
-     "Gabriela Anghel",
-     "Mircea Stoian"
+     "Florin Valentin Ştefan"
     ],
-    "doar_onrc": [
-     "Ceauşescu Andreea"
-    ],
-    "comune": 4
+    "doar_onrc": [],
+    "comune": 7
    }
   },
   {
@@ -856,23 +816,13 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Adrian Ioan Rus",
-     "Dragoș Cătălin Vasilachi",
-     "Fănică Cârnu",
-     "Robert Ștefan Lisenche"
+     "Răzvan Mincu"
     ],
     "doar_onrc": [
-     "Bachide Eduard",
-     "Comănescu Maria Iulia",
-     "Constantinescu Adrian Cătălin",
-     "Costin Luminiţa-Marinela",
      "Ionica Anghel Florian",
-     "Ionuţ Mişa",
-     "Lascu Marin Eugen",
-     "Nasta Nicolae",
-     "Simona Cojocaru"
+     "Lascu Marin Eugen"
     ],
-    "comune": 1
+    "comune": 4
    }
   },
   {
@@ -894,11 +844,7 @@
    "comparatie_onrc": {
     "doar_oficial": [],
     "doar_onrc": [
-     "Amarie Patricia-Monica",
-     "Costea Alina Sanda",
-     "Lungu Cătălin",
-     "Mihăilescu Ciprian-Teodor",
-     "Zaharia Viorela"
+     "Mihăilescu Ciprian-Teodor"
     ],
     "comune": 3
    }
@@ -917,18 +863,10 @@
    "comparatie_onrc": {
     "doar_oficial": [
      "Alina Petronela Brusturean",
-     "Cristina Matei",
-     "Cristina Monica Niculescu",
-     "Ioan Narcis Chisăliță",
-     "Ion Spânu"
+     "Cristina Monica Niculescu"
     ],
-    "doar_onrc": [
-     "Alic Deli Maria",
-     "Ardelean Nelu",
-     "Duicu Adrian Ovidiu",
-     "Lupea Iuliana"
-    ],
-    "comune": 0
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -962,7 +900,6 @@
      "Iulian Florin Măntescu"
     ],
     "doar_onrc": [
-     "Ceaușescu Andreea",
      "Stoica Marcel-Alexandru",
      "Tănasie Maria Aurelia"
     ],
@@ -1019,7 +956,7 @@
      "Artopolescu Ovidiu - Petrisor",
      "Badea Dorin Alexandru",
      "Balacciu Oana-Cristina",
-     "Blăjan Adrian Nicolae",
+     "Blăjan Adrian-Nicolae",
      "Bobora Bogdan",
      "Bugica Radu",
      "Bădilă Ionică",
@@ -1038,7 +975,6 @@
      "Dumitru Florin Victor",
      "Ilaşi Liviu",
      "Ivan Ştefan-Valeriu",
-     "Khan Farrukh Zafar",
      "Marcu Corneliu-Bogdan",
      "Mihalcea Fănel",
      "Mitrică Alin-Sorin",
@@ -1181,16 +1117,11 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Ciprian Lăduncă",
      "Cristian Virgilius Iorgulescu",
-     "Maria Mirabela Miron",
      "Valentin Moroiu"
     ],
-    "doar_onrc": [
-     "Andrian Vasile",
-     "Mirea Ioana-Alina"
-    ],
-    "comune": 5
+    "doar_onrc": [],
+    "comune": 7
    }
   },
   {
@@ -1210,13 +1141,9 @@
    ],
    "contracte_mandat_model": [],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Anca Mitu"
-    ],
-    "doar_onrc": [
-     "Zegrea Laurenţiu"
-    ],
-    "comune": 4
+    "doar_oficial": [],
+    "doar_onrc": [],
+    "comune": 5
    }
   },
   {
@@ -1243,7 +1170,6 @@
    "comparatie_onrc": {
     "doar_oficial": [],
     "doar_onrc": [
-     "Furtuna Cezar-Gabriel",
      "Patriche Cezar-Flavian"
     ],
     "comune": 4
@@ -1267,23 +1193,11 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Alexandru Cosmin Gheorghe",
-     "Dan Artur Stratan",
-     "Gavrilă Marius Baias",
-     "Laura Daniela Mihai",
-     "Liviu Mălureanu",
      "Mihaela Alexandra Nebunu",
      "Mihai Dorin Bobora"
     ],
-    "doar_onrc": [
-     "Dragomir Adrian - Viorel",
-     "Geantă Florian - Daniel",
-     "Jurcuţ Laura - Mihaela",
-     "Maiorescu Mircea - Adrian",
-     "Popa Ioana",
-     "Romaşcu Laura"
-    ],
-    "comune": 0
+    "doar_onrc": [],
+    "comune": 5
    }
   },
   {
@@ -1414,9 +1328,7 @@
     "doar_oficial": [
      "Ion Marcel Vîlcă"
     ],
-    "doar_onrc": [
-     "Rotaru Florin"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -1440,9 +1352,7 @@
     "doar_oficial": [
      "Cristina Gabriela Mihăilescu"
     ],
-    "doar_onrc": [
-     "Terec Călin-Gheorghe"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -1468,10 +1378,7 @@
      "Vasile Dascălu"
     ],
     "doar_onrc": [
-     "Chilea Cristina Ella",
-     "Dobrica Anca  Ioana",
-     "Irina Ana - Smarandita",
-     "Ţîrdea Andrei Alexandru"
+     "Chilea Cristina Ella"
     ],
     "comune": 5
    }
@@ -1525,8 +1432,7 @@
     "doar_oficial": [],
     "doar_onrc": [
      "Micaciu Alexandru Cătălin",
-     "Tamas-Szora Atila",
-     "Șendroni Aurel"
+     "Tamas-Szora Atila"
     ],
     "comune": 2
    }
@@ -1551,9 +1457,7 @@
     "doar_oficial": [
      "Florin Iulian Cucu"
     ],
-    "doar_onrc": [
-     "Foghiș Adrian-George"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -1569,16 +1473,12 @@
    "rapoarte_remunerare": [],
    "contracte_mandat_model": [],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Magdalena Voinescu"
-    ],
+    "doar_oficial": [],
     "doar_onrc": [
      "Moisoiu Cristian Marius",
-     "Negruțiu Simona-Adela",
-     "Nicălău Bucur Gheorghe",
-     "Tanțău Mircea-Petru"
+     "Nicălău Bucur Gheorghe"
     ],
-    "comune": 3
+    "comune": 4
    }
   },
   {
@@ -1595,14 +1495,12 @@
    "comparatie_onrc": {
     "doar_oficial": [
      "Daniel Ionuț Stavre",
-     "Ioana Cristina Vasilescu",
-     "Nicolae Cristian Stănică"
+     "Ioana Cristina Vasilescu"
     ],
     "doar_onrc": [
-     "Andrian Vasile",
      "Burlă Alina-Ioana"
     ],
-    "comune": 5
+    "comune": 6
    }
   },
   {
@@ -1631,34 +1529,20 @@
     }
    ],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Alexandra Bogdan",
-     "Alina Mirela Petre",
-     "Mircea Cristian Staicu",
-     "Titus Ciprian Costea"
-    ],
+    "doar_oficial": [],
     "doar_onrc": [
      "Bohalteanu Tudor - Gabriel",
-     "Christodoulos Constandinou Severis",
      "Cojocaru Lucian",
      "Coman Vasile",
-     "Crăciun Rada-Cosmina",
-     "Gurguiatu Elena",
      "Hidegcuti Ioan",
-     "Juhász Jácint-Attila",
      "Kleininger Elena",
      "Medan Romeo - Marcel",
      "Popescu Ionel",
      "Presecan Nicolae",
      "Saramet Aurel",
-     "Simion Andreea Roxana",
-     "Stanica Nicolae - Cristian",
-     "Surcel Andreia-Magdalena",
-     "Săndulescu Laura-Andreea",
-     "Toader Şerban-Cristian",
-     "Varga Csaba"
+     "Stanica Nicolae - Cristian"
     ],
-    "comune": 0
+    "comune": 4
    }
   },
   {
@@ -1674,20 +1558,12 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Ciprian Chiorean",
-     "Diana Lazăr",
-     "Robert Ștefan Lisenche",
-     "Vladimir Mihai Șelaru"
+     "Ciprian Chiorean"
     ],
     "doar_onrc": [
-     "Butucaru Răzvan",
-     "Chiorean Ioan-Ciprian",
-     "Lianu Ionuţ",
-     "Luchian Camelia",
-     "Pintea Adrian",
-     "Popescu Radu"
+     "Chiorean Ion Ciprian"
     ],
-    "comune": 1
+    "comune": 4
    }
   },
   {
@@ -1739,9 +1615,7 @@
     "doar_oficial": [
      "Marian Iulian Rasaliu"
     ],
-    "doar_onrc": [
-     "Macaveiu Ioan"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -1758,11 +1632,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Adrian Jan Colomar",
      "Daniel Oancea"
     ],
     "doar_onrc": [],
-    "comune": 4
+    "comune": 5
    }
   },
   {
@@ -1786,8 +1659,7 @@
      "Adrian Pătru"
     ],
     "doar_onrc": [
-     "Chiper Marian-Marius",
-     "Costin Luminiţa-Marinela"
+     "Chiper Marian-Marius"
     ],
     "comune": 7
    }
@@ -1810,9 +1682,7 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [],
-    "doar_onrc": [
-     "Cantacuz Magda-Aura"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -1865,9 +1735,7 @@
     "doar_oficial": [
      "Carmen Ursu"
     ],
-    "doar_onrc": [
-     "Roșu Vasile"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -1887,9 +1755,7 @@
      "Ecaterina Păun",
      "Gabriel Giorgian Giorgi"
     ],
-    "doar_onrc": [
-     "Stanciu-Stoian Marin"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -1911,16 +1777,12 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Andreea Elena Petru",
-     "Andrei Cristian Nicolaescu",
      "Marin Chifelea"
     ],
     "doar_onrc": [
-     "Macaveiu Ioan",
-     "Teodorescu Carmen-Areta",
-     "Tudose Mariana"
+     "Macaveiu Ioan"
     ],
-    "comune": 1
+    "comune": 3
    }
   },
   {
@@ -2002,13 +1864,10 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Adela Brînzan",
      "Dumitru Oprea"
     ],
-    "doar_onrc": [
-     "Furdea Olga-Carmen"
-    ],
-    "comune": 2
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -2064,14 +1923,13 @@
    "comparatie_onrc": {
     "doar_oficial": [
      "Bogdan Termegan",
-     "Ionuţ Sorin Purică",
-     "Sorin Chiriţă"
+     "Ionuţ Sorin Purică"
     ],
     "doar_onrc": [
-     "Chilea Ella Cristina",
+     "Chilea Ella-Cristina",
      "Purică Ionuţ"
     ],
-    "comune": 3
+    "comune": 4
    }
   },
   {
@@ -2134,15 +1992,10 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Cristina Șetran",
-     "Silvia Vlăsceanu",
-     "Victor Andrei Dimitriu"
+     "Cristina Șetran"
     ],
-    "doar_onrc": [
-     "Andrian Vasile",
-     "Cojocaru Teodor"
-    ],
-    "comune": 3
+    "doar_onrc": [],
+    "comune": 5
    }
   },
   {
@@ -2158,16 +2011,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Ciprian Bozian",
      "Ioan Bârsan"
     ],
-    "doar_onrc": [
-     "Lungu Dumitru",
-     "Negruțiu Simona-Adela",
-     "Nicălău Bucur-Gheorghe",
-     "Stan Adriana Florina"
-    ],
-    "comune": 2
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -2193,9 +2040,7 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [],
-    "doar_onrc": [
-     "Grigore Mihai"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -2218,8 +2063,7 @@
    "comparatie_onrc": {
     "doar_oficial": [],
     "doar_onrc": [
-     "Bobircă Nicoleta",
-     "Nicolescu Daniela"
+     "Bobircă Nicoleta"
     ],
     "comune": 3
    }
@@ -2239,9 +2083,7 @@
     "doar_oficial": [
      "Gabriel Sorin Batalu"
     ],
-    "doar_onrc": [
-     "Ristea Florentina"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -2286,13 +2128,9 @@
     }
    ],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Bogdan Laurențiu Voicu"
-    ],
-    "doar_onrc": [
-     "Roșca Radu-Claudiu"
-    ],
-    "comune": 2
+    "doar_oficial": [],
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -2471,9 +2309,7 @@
     "doar_oficial": [
      "Jean Vișan"
     ],
-    "doar_onrc": [
-     "Listoschi Corina"
-    ],
+    "doar_onrc": [],
     "comune": 4
    }
   },
@@ -2531,7 +2367,6 @@
    "comparatie_onrc": {
     "doar_oficial": [],
     "doar_onrc": [
-     "Aragea Silvia",
      "Cristescu Ioan",
      "Dobrin Octavian Cosmin",
      "Hurjui Mariana",
@@ -2539,7 +2374,6 @@
      "Pocora Mihail Silviu",
      "Popescu Cristina",
      "Preda Irina",
-     "Roșca Dumitru-Dan",
      "Vlaicu Dan",
      "Vlaşcu Adrian-Casian",
      "Vreme Cătălin"
@@ -2569,7 +2403,6 @@
      "Viorel Traian Lascu"
     ],
     "doar_onrc": [
-     "Morar Ioan-Dan",
      "Vasilescu Alexandru-Cristian"
     ],
     "comune": 2
@@ -2601,14 +2434,11 @@
     }
    ],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Gheorghe Păun"
-    ],
+    "doar_oficial": [],
     "doar_onrc": [
-     "Minea Florin",
-     "Stejeroiu Carmen-Gabriela"
+     "Minea Florin"
     ],
-    "comune": 1
+    "comune": 2
    }
   },
   {
@@ -2628,16 +2458,9 @@
    ],
    "contracte_mandat_model": [],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Ion Petroniu",
-     "Mihai Adrian Vintilă"
-    ],
-    "doar_onrc": [
-     "Mustafa Sinan",
-     "Plaveti Iulius-Dan",
-     "Seferis Christodoulos Constandinou"
-    ],
-    "comune": 8
+    "doar_oficial": [],
+    "doar_onrc": [],
+    "comune": 10
    }
   },
   {
@@ -2669,9 +2492,7 @@
     "doar_oficial": [
      "Samuel Dione"
     ],
-    "doar_onrc": [
-     "Șendroni Aurel"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -2697,14 +2518,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Camelia Bereș",
-     "Eugenia Roxana Căpătoiu"
+     "Camelia Bereș"
     ],
-    "doar_onrc": [
-     "Zegrea Laurențiu",
-     "Şerban Cristian"
-    ],
-    "comune": 1
+    "doar_onrc": [],
+    "comune": 2
    }
   },
   {
@@ -2812,13 +2629,10 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Adrian Constantin Volintiru",
-     "Mugurel Șerban"
+     "Adrian Constantin Volintiru"
     ],
-    "doar_onrc": [
-     "Murăraşu Elena"
-    ],
-    "comune": 2
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -2844,21 +2658,13 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Cristian Bordei",
-     "Dragoș Octavian Constantin",
      "Dumitru Florian Staicu",
-     "Mihai Ghinescu",
-     "Mihnea Jida",
-     "Sofia Elena Cozac"
+     "Mihnea Jida"
     ],
     "doar_onrc": [
-     "Branişte Felix   Florin",
-     "Cordoş Alexandru",
-     "Gheorghe Constantin Gabriel",
-     "Lucaci Sorin",
-     "Petcu Monica Aureliana"
+     "Jida Mihai"
     ],
-    "comune": 0
+    "comune": 4
    }
   },
   {
@@ -2893,11 +2699,11 @@
     ],
     "doar_onrc": [
      "Bălan Corneliu-Petre",
-     "Cheţa Voicu",
+     "Cheța Voicu",
      "Chiriac Cristina",
      "Dorobantu George-Dumitru",
      "Grigorescu Mihai",
-     "Haschka Luiza-Mihaela",
+     "Haschka Luiza Mihaela",
      "Livezeanu Daniel",
      "Mîndrican Mihai",
      "Olaru Neculai",
@@ -2975,9 +2781,7 @@
     "doar_oficial": [
      "Sanda Mădălina Moise"
     ],
-    "doar_onrc": [
-     "Deaconescu Florin"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -3015,10 +2819,7 @@
      "Gabriela Sabău",
      "Mircea Stoian"
     ],
-    "doar_onrc": [
-     "Drăgoi Antoanella- Mariyeane",
-     "Zegrea Emanuel"
-    ],
+    "doar_onrc": [],
     "comune": 7
    }
   },
@@ -3049,9 +2850,7 @@
    ],
    "comparatie_onrc": {
     "doar_oficial": [],
-    "doar_onrc": [
-     "Cozmanciuc Corneliu - Mugurel"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -3081,10 +2880,7 @@
      "Cosmin Ghiță",
      "Daniel Adam"
     ],
-    "doar_onrc": [
-     "Benghea Mălăieș Andrei Gabriel",
-     "Şuşnea Florentina"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -3118,9 +2914,7 @@
      "Bogdan Pîrvulescu"
     ],
     "doar_onrc": [
-     "Badiu Andrei",
-     "Emmanouilidis Alexandros",
-     "Toma Florin"
+     "Popescu Doina"
     ],
     "comune": 5
    }
@@ -3167,15 +2961,11 @@
     }
    ],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Iulius Dan Plaveti"
-    ],
+    "doar_oficial": [],
     "doar_onrc": [
-     "Jan Mikael Olsson",
-     "Khan Farrukh Zafar",
      "Naftali Daniel-Adrian"
     ],
-    "comune": 10
+    "comune": 11
    }
   },
   {
@@ -3198,9 +2988,7 @@
     "doar_oficial": [
      "Laurențiu Nicolae Ilie"
     ],
-    "doar_onrc": [
-     "Drăgoi Antonella-Mariyeane"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -3222,18 +3010,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Dincă Levendi",
-     "Felix Florin Braniște",
-     "Marius Cristian Grecu",
      "Vasile Iacoboae"
     ],
-    "doar_onrc": [
-     "Fârtat Sebastian",
-     "Khan Farrukh Zafar",
-     "Medrea Bogdan",
-     "Vintilă Marius-Ştefan"
-    ],
-    "comune": 0
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -3312,7 +3092,8 @@
    "comparatie_onrc": {
     "doar_oficial": [],
     "doar_onrc": [
-     "Manolescu Florin"
+     "Andrei Gabriela",
+     "Cozmanciuc Corneliu-Mugurel"
     ],
     "comune": 3
    }
@@ -3366,9 +3147,7 @@
     "doar_oficial": [
      "Florin Nicolae Mârza"
     ],
-    "doar_onrc": [
-     "Obadă Călin Mihai"
-    ],
+    "doar_onrc": [],
     "comune": 5
    }
   },
@@ -3385,19 +3164,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Any Nadine Moldoveanu",
-     "George Cazacu",
-     "Iolanda Tamaș",
-     "Liviu Mălureanu"
+     "George Cazacu"
     ],
-    "doar_onrc": [
-     "Costache Laurențiu",
-     "Cozma Olivia-Mihaela",
-     "Filip Cosmin",
-     "Sârbu Anca",
-     "Turcu Tudor-Ioan"
-    ],
-    "comune": 0
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -3420,7 +3190,6 @@
     "doar_oficial": [],
     "doar_onrc": [
      "Anton Cristian-Ioan",
-     "Ceaușescu Andreea",
      "Cernea Mihnea - Valeriu"
     ],
     "comune": 4
@@ -3444,21 +3213,16 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Gabriela Anghel",
      "Ioan Manu",
-     "Iulia Gabriela Tănase",
      "Laurențiu Dinu"
     ],
     "doar_onrc": [
      "Balas Mircea",
      "Lupea Gheorghe",
      "Manu Ion",
-     "Popa Ioana",
-     "Stan Anca   Maria",
-     "Terec Călin-Gheorghe",
      "Tudor Constantin"
     ],
-    "comune": 1
+    "comune": 3
    }
   },
   {
@@ -3569,18 +3333,10 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [
-     "Andreea Elena Petru",
-     "Cristin Giesswein",
-     "Nicu Fălcoi",
-     "Octavian Barbu"
+     "Nicu Fălcoi"
     ],
-    "doar_onrc": [
-     "Grad Gabriel-Marius",
-     "Petcu Monica-Aureliana",
-     "Rovenţa Mihai-George",
-     "Stănoiu Elena-Ecaterina"
-    ],
-    "comune": 0
+    "doar_onrc": [],
+    "comune": 3
    }
   },
   {
@@ -3601,10 +3357,7 @@
    "contracte_mandat_model": [],
    "comparatie_onrc": {
     "doar_oficial": [],
-    "doar_onrc": [
-     "Mihăilescu Ion",
-     "Terec Călin-Gheorghe"
-    ],
+    "doar_onrc": [],
     "comune": 4
    }
   },
@@ -3631,7 +3384,6 @@
      "Viorel Salvador Caragea"
     ],
     "doar_onrc": [
-     "Terec Călin-Gheorghe",
      "Șendroni Aurel"
     ],
     "comune": 3
@@ -3649,15 +3401,9 @@
    "rapoarte_remunerare": [],
    "contracte_mandat_model": [],
    "comparatie_onrc": {
-    "doar_oficial": [
-     "Antonie Marius Negru",
-     "Pavel Casian Nițulescu"
-    ],
-    "doar_onrc": [
-     "Branişte Felix Florin",
-     "Sârbu Anca"
-    ],
-    "comune": 2
+    "doar_oficial": [],
+    "doar_onrc": [],
+    "comune": 4
    }
   },
   {
@@ -3720,10 +3466,7 @@
      "Horațiu Cătălin Barbu",
      "Mihaela Tudor"
     ],
-    "doar_onrc": [
-     "Costin Luminița-Marinela",
-     "Rusu Gheorghe"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   },
@@ -3742,9 +3485,7 @@
     "doar_oficial": [
      "Doru Jianu"
     ],
-    "doar_onrc": [
-     "Paraschiv Aurelia"
-    ],
+    "doar_onrc": [],
     "comune": 3
    }
   }
@@ -3833,7 +3574,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/31029694/CV_Vasile_Bruma_Redacted.pdf",
    "romega_id": "g:ac6b9541cb573015",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_9a772c99ea5caa84ae",
@@ -3865,8 +3606,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2029-12-04",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11672708/CV_Cosmina_Craciun_Rada_Redacted.pdf",
-   "romega_id": "g:e72f28e2153ac592",
-   "potrivire": "candidat",
+   "romega_id": "g:ff63b80b097a57f9",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -3899,9 +3640,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11672708/CV_Elena_Mateescu_Redacted.pdf",
-   "romega_id": "g:7176e1919a74c545",
-   "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "romega_id": "g:a6ee8b9c06ba1add",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_563ea12676ff39c06e",
@@ -3918,7 +3659,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1589932/CV_Florentina_Susnea_Redacted.pdf",
    "romega_id": "g:e0231a3a061b40ba",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 24
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_a7d341d2f1ec9361e5",
@@ -4241,7 +3982,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11369861/CV_Vasile_Bruma_Redacted.pdf",
    "romega_id": "g:6d5ffdea03ee106c",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_775f4c7eef99d9580b",
@@ -4477,7 +4218,7 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2029-12-17",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2326144/CV_Alexandra_Andreea_Costache.pdf",
-   "romega_id": "g:57c3413eced3ddde",
+   "romega_id": "g:7fb81f87b266b2d6",
    "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
@@ -4511,7 +4252,7 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2029-12-17",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2326144/CV_Iulian_Diaconu.pdf",
-   "romega_id": "g:2e916431841592b6",
+   "romega_id": "g:17c5deef38de5631",
    "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
@@ -4528,7 +4269,7 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2029-12-17",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2326144/CV_Nicolae_Tutunaru.pdf",
-   "romega_id": "g:2b94a6e50aba286d",
+   "romega_id": "g:5200f118e69272fe",
    "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
@@ -4547,7 +4288,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2326144/CV_Simona_Smarandache.pdf",
    "romega_id": "g:a6ad45aa04419f85",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_8bb2d56cc7042af846",
@@ -4783,9 +4524,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-13",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1573170/CV_Claudiu_Daniel_Teliceanu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:55b58e0b1e6b01a0",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_6f801e2a048cbdf0d8",
@@ -4870,7 +4611,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/42790517/CV_Aurelia_Vaduva_Redacted.pdf",
    "romega_id": "g:fb2357c31b784777",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_b82b479062dbbc7d33",
@@ -4919,9 +4660,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-09-09",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/48790613/CV_Dorina_Jianu.pdf",
-   "romega_id": "g:dab4398dc94c6724",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:35e62abf06668e42",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_baf016052b449dd498",
@@ -5057,7 +4798,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1384767/CV_Remus_Constantin_Baicu_Redacted.pdf",
    "romega_id": "g:86a4b8c3e1c1bb3a",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_5b02f3dd2e8c9d3424",
@@ -5091,7 +4832,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1384767/CV_Bogdan_Cristian_Georgescu_Redacted.pdf",
    "romega_id": "g:c06e8b0716a94e84",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_b9f4e7384b029cbc7b",
@@ -5261,7 +5002,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1350020/CV_Sanda_Toader_Redacted.pdf",
    "romega_id": null,
    "potrivire": null,
-   "n_omonimi_graf": 6
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_a4323e0b7e00f17c58",
@@ -5295,7 +5036,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13945863/CV_Marin_G.h._Dumitru_Redacted.pdf",
    "romega_id": "g:e5c6b8aa919dfc67",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 4
+   "n_omonimi_graf": 5
   },
   {
    "id": "appt_974c27d27d76821447",
@@ -5327,9 +5068,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2029-02-27",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13945863/CV_Mircea_Petru_Tantau.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 2
+   "romega_id": "g:0e21daf82ad397eb",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_12d2d44faf52041806",
@@ -5378,9 +5119,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/50826310/CV_Daniel_Apostolache_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:2ce24ac727c52e5e",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_52ff053bbdffc7829d",
@@ -5533,7 +5274,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11087755/CV_Florin_Goidea.pdf",
    "romega_id": "g:38f9517dac5cd1e3",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_0a0034ee04119b8903",
@@ -5550,7 +5291,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11087755/CV_Laurentiu_Voicu.pdf",
    "romega_id": "g:f3f2dd986c34805b",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_2b8b8ed9c6c1542146",
@@ -5584,7 +5325,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11087755/CV_Florin_Goidea.pdf",
    "romega_id": "g:38f9517dac5cd1e3",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_0957ac1dfc8d3a3dc9",
@@ -5599,9 +5340,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11087755/CV_Alexandru_Butiseaca.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:49e27dcfb36fa120",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_0390032ed29f4cbf12",
@@ -5618,7 +5359,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11776466/CV_Angelica_Danaila.pdf",
    "romega_id": "g:2fbdc2b1bdce3d46",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 5
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_b3ac4ea335cdaecb93",
@@ -6060,7 +5801,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/27787860/CV-Andronic-Bogdan-Constantin_Redacted.pdf",
    "romega_id": "g:63c145b89773ecc0",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_ad52ac02b7f19762b7",
@@ -6145,7 +5886,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/27787860/CV_Mustafa_Sinan.pdf",
    "romega_id": null,
    "potrivire": null,
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_95b572ec2e1caf4d02",
@@ -6449,9 +6190,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-09-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/427410/CV_Ciprian_Bozian.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:921d4ee35863792e",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_7f99b39fb52f9d4aa4",
@@ -6483,9 +6224,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-09-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/427410/CV_Gabriela_Anghel.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:5b8f7d5d7917bf2b",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_87f1e31cc7b34ae402",
@@ -6500,9 +6241,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-09-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/427410/CV_Mircea_Stoian.pdf",
-   "romega_id": "g:da079a2748ee659f",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:2e88718d0c4fa2ec",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_efc34743f8b8a51cd7",
@@ -6519,7 +6260,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/427410/CV_Madalin_Bondalici.pdf",
    "romega_id": "g:f693671093c26e41",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_98a9473b76ddc5e12c",
@@ -6551,9 +6292,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-05-24",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/472771/CV_Adrian_Ioan_Rus.pdf",
-   "romega_id": "g:f3dbdf6d1e890953",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:d116101acf111528",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_f11f0197a80f6a46be",
@@ -6568,9 +6309,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-05-27",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/472771/CV_Dragos_Catalin_Vasilachi.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:9b4e5fa175a845aa",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_30966b8800c419b217",
@@ -6585,9 +6326,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2025-05-06",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/472771/CV_Fanica_Carnu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:4641e39cf5086845",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_322aed31a3f1bbcc4c",
@@ -6602,9 +6343,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-05-24",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/472771/CV_Robert_Stefan_Lisenche.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:73b5682d57b8bb69",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_8630a0ac9b15e1beb3",
@@ -6619,9 +6360,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": null,
-   "romega_id": "g:8e5e32348faaf123",
-   "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "romega_id": null,
+   "potrivire": null,
+   "n_omonimi_graf": 0
   },
   {
    "id": "appt_5c014e6a46c238f91f",
@@ -6704,9 +6445,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-01-18",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2117946/CV_CRISTINA_MATEI.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 3
+   "romega_id": "g:02767d8b5800f70e",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_e897a354a3bc746ff9",
@@ -6738,9 +6479,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-08-18",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2117946/CV_Ioan_Narcis_Chisalita.pdf",
-   "romega_id": "g:04e5d85619b9b513",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:756ff68d8bf2d891",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_b48673bf96862921ad",
@@ -6755,9 +6496,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-08-18",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2117946/CV_Ion_Spanu.pdf",
-   "romega_id": "g:6909886db18ec980",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:3d1a3e0d0c13d5ac",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_5d94efe7669e3f06a4",
@@ -7437,7 +7178,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/26490194/CV_Eduard_Bachide.pdf",
    "romega_id": "g:5923b7122ee86961",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_0db992b7babbb05ff1",
@@ -7520,9 +7261,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-03",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2779625/CV_Ciprian_Ladunca.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 2
+   "romega_id": "g:37199ff9a315db4b",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_7ec147d2d07927e768",
@@ -7554,9 +7295,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-03",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2779625/CV_Maria_Mirabela_Miron_Redacted.pdf",
-   "romega_id": "g:058d5f227c547cad",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:fc13b3317c3dbef1",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_5d757299bd2c474966",
@@ -7673,9 +7414,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-30",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/12397185/CV_Anca_Mitu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 2
+   "romega_id": "g:f8f6f13cc1163eb9",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_b7149f9e95ee396a19",
@@ -7743,7 +7484,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/12397185/CV_Mihai_Constantin.pdf",
    "romega_id": "g:cd2660988b2edab4",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 8
+   "n_omonimi_graf": 9
   },
   {
    "id": "appt_ebbbff6c7a18b09388",
@@ -7843,9 +7584,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-29",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14923006/CV_Alexandru_Cosmin_Gheorghe.pdf",
-   "romega_id": "g:060782b97d24f027",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:6dc5f7fef82415bf",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_55693debb28d7c137b",
@@ -7860,9 +7601,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14923006/CV_Dan_Artur_Stratan.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:77cdccf7e6af624f",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_5a103a44fcdd5d5d93",
@@ -7877,9 +7618,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-29",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14923006/CV_Gavrila_Marius_Baias.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:0aa9d41d5144ec5b",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_6055a9dba2acd8832a",
@@ -7894,8 +7635,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-29",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14923006/CV_Laura_Daniela_Mihai.pdf",
-   "romega_id": "g:bccf44f87599b481",
-   "potrivire": "candidat",
+   "romega_id": "g:bffd6a259dee50b9",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -7911,9 +7652,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-29",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14923006/CV_Liviu_Malureanu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:785a04d15e2e5ad6",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_364aaa62faa4fc1290",
@@ -8032,7 +7773,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11551757/CV_Radu_Claudiu_Rosca.pdf",
    "romega_id": "g:a20895035f8265cf",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_554153b1b53f16ee74",
@@ -8100,7 +7841,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/360557/CV_Vasile_Cocos_Redacted.pdf",
    "romega_id": "g:b4baedd7d53babc1",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_8022a00bbcaf35196e",
@@ -8491,7 +8232,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/25344972/CV_Adrian_George_Foghis.pdf",
    "romega_id": "g:409df5a45f3c142b",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_6ecb07404b54513569",
@@ -8542,7 +8283,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/25344972/CV_Mustafa_Sinan.pdf",
    "romega_id": "g:9ec23ade36b91da6",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_673066438deb03e026",
@@ -8814,7 +8555,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/44958790/CV_Silvia_Vlasceanu_Redacted.pdf",
    "romega_id": "g:7deb1f3730bd6cd5",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_50e2dcc1f890fd0da6",
@@ -8865,7 +8606,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/21727401/CV_Dumitru_Marin_Redacted.pdf",
    "romega_id": "g:34a5d337e11efef0",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 4
+   "n_omonimi_graf": 5
   },
   {
    "id": "appt_062b6663bc251e9e3e",
@@ -8880,9 +8621,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-16",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/21727401/CV_Magdalena_Voinescu_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:1a914a8add452d7e",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_1f642db2a3c20c3abc",
@@ -8982,8 +8723,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-21",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14367083/CV_Nicolae_Stanica_Redacted.pdf",
-   "romega_id": "g:c08346ea1a7a77e6",
-   "potrivire": "candidat",
+   "romega_id": "g:d7878aea9c02407e",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -9050,9 +8791,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-28",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/26308846/CV_Alexandra_Bogdan.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:3cb9cdeeca8251ef",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_8660e1ac1386ad8939",
@@ -9067,9 +8808,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-24",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/26308846/CV_Alina_Petre_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:fb81f687ff9bae32",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_9897638022e8f48281",
@@ -9084,9 +8825,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-04",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/26308846/CV_Mircea_Cristian_Staicu.pdf",
-   "romega_id": "g:e5a7279b70b95698",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:9844c040b2a662b6",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_9a31aad18cb8627008",
@@ -9101,9 +8842,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": null,
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:f2948270d28e3b1f",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_bd18a1bc20ec8a541a",
@@ -9153,7 +8894,7 @@
    "mandat_pana_la": "2030-08-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/5439903/CV_Diana_Lazar.pdf",
    "romega_id": "g:2f34c25e17d43164",
-   "potrivire": "candidat",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -9169,9 +8910,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-08-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/5439903/CV_Robert_Stefan_Lisenche.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:3c3f816f58aedeb8",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_7db0d3e1b5c1117840",
@@ -9186,9 +8927,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-08-26",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/5439903/CV_Vladimir_Mihai_Selaru.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:da0c904f9847b812",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_fc6a0bb1cd7dbcfa04",
@@ -9424,9 +9165,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/340312/CV_Adrian_Jan_Colomar.pdf",
-   "romega_id": "g:4a6f5d327ba5f27d",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:86eb166470ca9820",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_88b6b3cbc32e86de41",
@@ -9477,7 +9218,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/340312/CV_Gabriel_Radu.pdf",
    "romega_id": "g:a1133ebf75e46176",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 12
+   "n_omonimi_graf": 7
   },
   {
    "id": "appt_d8efa8d5ff9b330d05",
@@ -9613,7 +9354,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14966210/CV_Alexandru_Radu.pdf",
    "romega_id": "g:4dd48b6905affdbc",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 13
+   "n_omonimi_graf": 12
   },
   {
    "id": "appt_e3bf671f6bf69a290e",
@@ -10019,9 +9760,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-15",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14531223/CV_Andreea_Elena_Petru_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:d1ee8bd2c2c5e0e4",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_476c38d9f01f0695e4",
@@ -10036,9 +9777,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-15",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14531223/CV_Andrei_Cristian_Nicolaescu_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:6bade657c3b59d85",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_95761c242c6fac54d3",
@@ -10106,7 +9847,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13863739/CV_Aurelia_Vaduva.pdf",
    "romega_id": "g:e0436c7dec40b010",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_49c409c262039f2246",
@@ -10138,9 +9879,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-02-09",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13863739/CV_Mariana_Miclaus_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:6ed1764c1750a577",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_1fa402cf50b10cd288",
@@ -10155,9 +9896,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-02-09",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13863739/CV_Ioana_Diaconu-redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:3eb43cf535adcf22",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_28cae0394b977952f4",
@@ -10174,7 +9915,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14325363/CV_Mustafa_Sinan_Redacted.pdf",
    "romega_id": "g:874b8b10f47a8b0d",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_ad506338c76b4dcb4b",
@@ -10225,7 +9966,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14325363/CV_Marius_Gabriel_Nut_Redacted.pdf",
    "romega_id": "g:78a5423c24a3e03e",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_b855cbe749b47bbced",
@@ -10275,7 +10016,7 @@
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14814483/CV_Adela_Brinzan_Redacted.pdf",
    "romega_id": "g:41d9107614ccb29e",
-   "potrivire": "candidat",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -10293,7 +10034,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14814483/CV_Dorina_Jianu_Redacted.pdf",
    "romega_id": "g:dab4398dc94c6724",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_cb45c0898527cfd18e",
@@ -10512,8 +10253,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-02",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/45374854/CV_Sorin_Chirita_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
+   "romega_id": "g:10c75599137de04a",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 3
   },
   {
@@ -10599,7 +10340,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2410163/CV_George_Teseleanu_Redacted.pdf",
    "romega_id": "g:84ce0774e38ec97c",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_09e3aab43806d9953b",
@@ -10716,9 +10457,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2028-12-22",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13278352/CV_Silvia_Vlasceanu.pdf",
-   "romega_id": "g:7deb1f3730bd6cd5",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:64e79b4583964421",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_0e767f0e039b24555f",
@@ -10750,8 +10491,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2028-12-22",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13278352/CV_Victor_Andrei_Dimitriu.pdf",
-   "romega_id": null,
-   "potrivire": null,
+   "romega_id": "g:9c20a67fc23b03f3",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 3
   },
   {
@@ -10784,9 +10525,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-15",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14469423/CV_Ciprian_Bozian_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:53d99b078c386202",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_8e09d92d932d62f959",
@@ -10820,7 +10561,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14469423/CV_Gabriel_Radu_Redacted.pdf",
    "romega_id": "g:bd8ae71c198e153d",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 12
+   "n_omonimi_graf": 7
   },
   {
    "id": "appt_53054ffde6f6b81245",
@@ -10956,7 +10697,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/29136150/CV_Simona_Cojocaru_Redacted.pdf",
    "romega_id": "g:6e6f0a27025fccfb",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_037a0a359c4f114622",
@@ -10990,7 +10731,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/9825567/CV_Ionut_Costea_Redacted.pdf",
    "romega_id": "g:685a8ff4572b865a",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 4
+   "n_omonimi_graf": 5
   },
   {
    "id": "appt_79ec76c34311d70cfe",
@@ -11092,7 +10833,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/16695222/CV_Vasile_Cocos_Redacted.pdf",
    "romega_id": "g:d8c22d5b85b21685",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_a969df1ba31ea8b745",
@@ -11143,7 +10884,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/7061781/CV_Andrei_Gabriel_Benghea_Malaies_Redacted.pdf",
    "romega_id": "g:d71cda7374a7fcd3",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_4638f51cddd47aac5f",
@@ -11158,9 +10899,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-06-08",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/7061781/CV_Bogdan_Laurentiu_Voicu_Redacted.pdf",
-   "romega_id": "g:edfef1248f476d3b",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:ed836e99fac2615e",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_f62c2b63bd3f614077",
@@ -11364,7 +11105,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/32306920/CV_Ionut_Misa_Redacted.pdf",
    "romega_id": "g:a1b97242a0bc1eae",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_d9de7ef36a63d7eff8",
@@ -11449,7 +11190,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/39669478/CV_Andrei_Ioan_Costina_Redacted.pdf",
    "romega_id": "g:df12d9ce854df532",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_2baed70c5086e73e8f",
@@ -11534,7 +11275,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1644670/CV_Dorian_Dumitru.pdf",
    "romega_id": "g:6e3a6a1a8f9a74d3",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_4e742da51e12033ab5",
@@ -11636,7 +11377,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2351555/CV_Anca_Mitu.pdf",
    "romega_id": "g:46eb9eb151296609",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_d5815d7d2cca3f4f65",
@@ -11772,7 +11513,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1590120/CV_Speranta_Georgeta_Ionescu_Redacted.pdf",
    "romega_id": "g:db9bf9e86a3ae3c6",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_cb116e9871fdf1c8c1",
@@ -11993,7 +11734,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14322197/CV_Ion_Spanu_Redacted.pdf",
    "romega_id": "g:6909886db18ec980",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_18d71f556332032c00",
@@ -12027,7 +11768,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14322197/CV_Viorel_Traian_Lascu_Redacted.pdf",
    "romega_id": null,
    "potrivire": null,
-   "n_omonimi_graf": 0
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_1545c60682e2535310",
@@ -12059,9 +11800,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2030-06-11",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/338819/CV_Gheorghe_Paun_Redacted.pdf",
-   "romega_id": "g:019ddfc174a71ac9",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:5354e6e242670f17",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_6c363e339220cba087",
@@ -12095,7 +11836,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/30267310/CV_Adrian_Daianu_Redacted.pdf",
    "romega_id": "g:6e7b7666fdba123a",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_548a11db38f9520e36",
@@ -12178,9 +11919,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-11",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/30267310/CV_Mihai_Adrian_Vintila_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:4edbe5004d6e9b1d",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_91991e195e3af4b35c",
@@ -12247,7 +11988,7 @@
    "mandat_pana_la": "2026-11-12",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/30267310/CV_Ion_Petroniu_Redacted.pdf",
    "romega_id": "g:b9686b7e2b8cfcd4",
-   "potrivire": "candidat",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -12333,7 +12074,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/30859649/CV_Liviu_Ioan_Biris_Redacted.pdf",
    "romega_id": "g:299a3bf04f2886b4",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 8
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_eb8be3387e4fe090ec",
@@ -12382,9 +12123,9 @@
    "net_lunar_ron": 4800,
    "mandat_pana_la": null,
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/40379770/CV_Roxana_Capatoiu_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:66470acec863231f",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_a429cab3a1733bbb4c",
@@ -12435,7 +12176,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13068733/CV_Nicolae_Minea.pdf",
    "romega_id": "g:5f823fdf7965a167",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_32ad6f1629009fb89d",
@@ -12605,7 +12346,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11212645/CV_George_Teseleanu.pdf",
    "romega_id": "g:44e0e78728e2fa93",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_ffb75cf3914746b864",
@@ -12892,9 +12633,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-09",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11945506/CV_Mugurel_Serban_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 3
+   "romega_id": "g:5fee19eb6b457d62",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_86961bfeb88f3723d3",
@@ -12926,9 +12667,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-14",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1590040/CV_Cristian_Bordei.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:ff17036167591050",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_0ae5395ae968bbdbf8",
@@ -12943,9 +12684,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-14",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1590040/CV_Dragos_Octavian_Constantin.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:d0e76b9e8a45f4f8",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_eae99ba12dc33251f3",
@@ -12960,9 +12701,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-14",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1590040/CV_Mihai_Ghinescu_Redacted.pdf",
-   "romega_id": "g:50b3c54850a4ecf9",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:fd66d34e20b6d20b",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_d8399abe3708d9a3c9",
@@ -12994,9 +12735,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-14",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1590040/CV_Sofia_Elena_Cozac.pdf",
-   "romega_id": "g:1940f6124f967a27",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": "g:ffdc2c7c7308a9a8",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_5b9f71ecb5727a0c42",
@@ -13098,7 +12839,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14056826/CV_Marius_Gabriel_Nut_Redacted.pdf",
    "romega_id": "g:a54cc879ea25e5f6",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_43041654df8e7372e2",
@@ -13115,7 +12856,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14056826/CV_Andrei_Gabriel_Benghea_Malaies.pdf",
    "romega_id": "g:73e8d59dd9ea5ee0",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_a3cb3a1acad35e9fb0",
@@ -13251,7 +12992,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/34915261/CV_Pavel_Casian_Nitulescu.pdf",
    "romega_id": "g:623c6a3785642172",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_c877b0818bf0497f58",
@@ -13353,7 +13094,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/10881986/CV_Cristina_Matei.pdf",
    "romega_id": "g:be5c1339f15a1554",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 4
   },
   {
    "id": "appt_22b99b1cf4cc4c3967",
@@ -13436,9 +13177,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-01",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/10881986/CV_Mircea_Stoian.pdf",
-   "romega_id": "g:da079a2748ee659f",
-   "potrivire": "candidat",
-   "n_omonimi_graf": 1
+   "romega_id": null,
+   "potrivire": null,
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_c2d760f4e6577b5115",
@@ -13472,7 +13213,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/11054545/CV_Gabriel_Popa.pdf",
    "romega_id": "g:284a5d702fdf738c",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 9
+   "n_omonimi_graf": 10
   },
   {
    "id": "appt_66baa0e624a7d83fe1",
@@ -13625,7 +13366,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/10874881/CV_Nina_Popa.pdf",
    "romega_id": "g:0b3f359a2cdf99c1",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_ab4e311e32c76895f6",
@@ -13727,7 +13468,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/33134190/CV_Adrian_George_Foghis.pdf",
    "romega_id": "g:215253ac946915b7",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 3
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_3c5d0bd0dfee20a536",
@@ -13759,9 +13500,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-11-17",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/33134190/CV_Bogdan_Pirvulescu_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:3c321ed14b25b761",
+   "potrivire": "candidat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_9b88cc9e40bd307e31",
@@ -13912,8 +13653,8 @@
    "net_lunar_ron": 38462,
    "mandat_pana_la": "2027-11-07",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13267213/CV_Iulius_Dan_Plaveti_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
+   "romega_id": "g:4b2b5554c3cf534b",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 3
   },
   {
@@ -14016,7 +13757,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14257595/CV_Ionut_Costea_Redacted.pdf",
    "romega_id": "g:37ed5ddfb67f4aa7",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 4
+   "n_omonimi_graf": 5
   },
   {
    "id": "appt_49f6d183a237161edf",
@@ -14082,9 +13823,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-03",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/32097794/CV_Marius_Cristian_Grecu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:e4c3464993727ddb",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_0163c64e23b97766b0",
@@ -14099,9 +13840,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-03",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/32097794/CV_Dinca_Levendi.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:e5da9d2ec0a5672d",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_0734467833040d9a15",
@@ -14116,8 +13857,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-03",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/32097794/CV_Felix_Florin_Braniste.pdf",
-   "romega_id": null,
-   "potrivire": null,
+   "romega_id": "g:1c69e90724a9f0f0",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 2
   },
   {
@@ -14305,7 +14046,7 @@
    "cv_url": null,
    "romega_id": "g:c70cf5cc1f13ef05",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 17
+   "n_omonimi_graf": 18
   },
   {
    "id": "appt_84d615b370b1040e1a",
@@ -14558,9 +14299,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-21",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/15551423/CV_Any_Nadine_Moldoveanu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:ae48bea915aae7e8",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_ce5389c47242bca902",
@@ -14575,9 +14316,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-21",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/15551423/CV_Iolanda_Tamas.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:678bc7fa258c875b",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_7da5e30195e12f615b",
@@ -14592,9 +14333,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-10-21",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/15551423/CV_Liviu_Malureanu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:98e6331c8da9b7b6",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_ca27dc1396490ce055",
@@ -14711,9 +14452,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-01-11",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/938970/CV_Gabriela_Anghel_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:4fdd5b0f604ab965",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_a840995f3006f57b64",
@@ -14728,8 +14469,8 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2027-01-11",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/938970/CV_Iulia_Tanase_Redacted.pdf",
-   "romega_id": "g:c977e4303c2621bb",
-   "potrivire": "candidat",
+   "romega_id": "g:707ef6322f90f824",
+   "potrivire": "confirmat",
    "n_omonimi_graf": 1
   },
   {
@@ -14866,7 +14607,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/14423850/CV_Aurelia_Vaduva.pdf",
    "romega_id": null,
    "potrivire": null,
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_8e328dd785c8e73fcf",
@@ -14883,7 +14624,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/1769224/CV_Adriana_Florina_Stan_Redacted.pdf",
    "romega_id": "g:e87e9f9aea61870a",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 2
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_b206eaabc73fa6593d",
@@ -15051,9 +14792,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-04",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/15657042/CV_Andreea_Elena_Petru.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:4364cdae5d830f38",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_15993da765d8777f6a",
@@ -15068,9 +14809,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-04",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/15657042/CV_Cristin_Giesswein.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:59351fb6088153ab",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_2cca56263f2e6c058d",
@@ -15102,9 +14843,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-11-04",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/15657042/CV_Octavian_Barbu.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:c5174354d005d881",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_953f5c4082a29b3705",
@@ -15121,7 +14862,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/13741804/CV_Adrian_Jan_Colomar.pdf",
    "romega_id": "g:4a6f5d327ba5f27d",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_93c3f699bd36c834f6",
@@ -15306,9 +15047,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-05",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/49594720/CV_Antonie_Marius_Negru_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 0
+   "romega_id": "g:dccc517fd32c4870",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 1
   },
   {
    "id": "appt_1866801624c8856c4d",
@@ -15340,9 +15081,9 @@
    "net_lunar_ron": null,
    "mandat_pana_la": "2026-12-05",
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/49594720/CV_Pavel_Casian_Nitulescu_Redacted.pdf",
-   "romega_id": null,
-   "potrivire": null,
-   "n_omonimi_graf": 2
+   "romega_id": "g:59e469fb1d6804e4",
+   "potrivire": "confirmat",
+   "n_omonimi_graf": 3
   },
   {
    "id": "appt_1365c51068a6432e59",
@@ -15580,7 +15321,7 @@
    "cv_url": "https://guvernanta.gov.ro/CUI_Documente_Companii_Stat/2413593/CV_Sofia_Elena_Cozac.pdf",
    "romega_id": "g:1940f6124f967a27",
    "potrivire": "confirmat",
-   "n_omonimi_graf": 1
+   "n_omonimi_graf": 2
   },
   {
    "id": "appt_80acc63e6334e85a57",
@@ -15938,7 +15679,7 @@
   {
    "persoana_id": "person_chirita-sorin_08a2f97b44",
    "nume": "Sorin Chiriţă",
-   "romega_id": null,
+   "romega_id": "g:10c75599137de04a",
    "n_companii": 2,
    "brut_lunar_total_ron": 47589,
    "functii": [
@@ -16014,7 +15755,7 @@
   {
    "persoana_id": "person_mircea-stoian_f60b2d05a4",
    "nume": "Mircea Stoian",
-   "romega_id": "g:da079a2748ee659f",
+   "romega_id": "g:2e88718d0c4fa2ec",
    "n_companii": 2,
    "brut_lunar_total_ron": 40604,
    "functii": [
@@ -16133,7 +15874,7 @@
   {
    "persoana_id": "person_lisenche-robert-stefan_913d971413",
    "nume": "Robert Ștefan Lisenche",
-   "romega_id": null,
+   "romega_id": "g:73b5682d57b8bb69",
    "n_companii": 2,
    "brut_lunar_total_ron": 33928,
    "functii": [
@@ -16209,7 +15950,7 @@
   {
    "persoana_id": "person_andrei-dimitriu-victor_11b60d7a56",
    "nume": "Victor Andrei Dimitriu",
-   "romega_id": null,
+   "romega_id": "g:9c20a67fc23b03f3",
    "n_companii": 2,
    "brut_lunar_total_ron": 32000,
    "functii": [
@@ -16575,7 +16316,7 @@
   {
    "persoana_id": "person_cristina-matei_7cfe9ede12",
    "nume": "Cristina Matei",
-   "romega_id": null,
+   "romega_id": "g:02767d8b5800f70e",
    "n_companii": 2,
    "brut_lunar_total_ron": 17982,
    "functii": [
@@ -16594,7 +16335,7 @@
   {
    "persoana_id": "person_dorina-jianu_bcd36323e6",
    "nume": "Dorina Jianu",
-   "romega_id": "g:dab4398dc94c6724",
+   "romega_id": "g:35e62abf06668e42",
    "n_companii": 2,
    "brut_lunar_total_ron": 17900,
    "functii": [
@@ -16732,7 +16473,7 @@
   {
    "persoana_id": "person_anca-mitu_28071fd935",
    "nume": "Anca Mitu",
-   "romega_id": null,
+   "romega_id": "g:f8f6f13cc1163eb9",
    "n_companii": 2,
    "brut_lunar_total_ron": 12933,
    "functii": [
@@ -16751,7 +16492,7 @@
   {
    "persoana_id": "person_anghel-gabriela_60a89b9eb5",
    "nume": "Gabriela Anghel",
-   "romega_id": null,
+   "romega_id": "g:5b8f7d5d7917bf2b",
    "n_companii": 2,
    "brut_lunar_total_ron": 12304,
    "functii": [
@@ -16789,7 +16530,7 @@
   {
    "persoana_id": "person_cozac-elena-sofia_a579ef0111",
    "nume": "Sofia Elena Cozac",
-   "romega_id": "g:1940f6124f967a27",
+   "romega_id": "g:ffdc2c7c7308a9a8",
    "n_companii": 2,
    "brut_lunar_total_ron": 11630,
    "functii": [
@@ -16808,7 +16549,7 @@
   {
    "persoana_id": "person_bozian-ciprian_6ce463b5c0",
    "nume": "Ciprian Bozian",
-   "romega_id": null,
+   "romega_id": "g:921d4ee35863792e",
    "n_companii": 2,
    "brut_lunar_total_ron": 11304,
    "functii": [
@@ -16865,7 +16606,7 @@
   {
    "persoana_id": "person_adrian-colomar-jan_d618460aad",
    "nume": "Adrian Jan Colomar",
-   "romega_id": "g:4a6f5d327ba5f27d",
+   "romega_id": "g:86eb166470ca9820",
    "n_companii": 2,
    "brut_lunar_total_ron": 7553,
    "functii": [
@@ -16979,7 +16720,7 @@
   {
    "persoana_id": "person_liviu-malureanu_aa1c4c580a",
    "nume": "Liviu Mălureanu",
-   "romega_id": null,
+   "romega_id": "g:785a04d15e2e5ad6",
    "n_companii": 2,
    "brut_lunar_total_ron": 6815,
    "functii": [
@@ -16998,7 +16739,7 @@
   {
    "persoana_id": "person_ion-spanu_72d16dc983",
    "nume": "Ion Spânu",
-   "romega_id": "g:6909886db18ec980",
+   "romega_id": "g:3d1a3e0d0c13d5ac",
    "n_companii": 2,
    "brut_lunar_total_ron": 6710,
    "functii": [
@@ -17036,7 +16777,7 @@
   {
    "persoana_id": "person_andreea-elena-petru_b35e976250",
    "nume": "Andreea Elena Petru",
-   "romega_id": null,
+   "romega_id": "g:d1ee8bd2c2c5e0e4",
    "n_companii": 2,
    "brut_lunar_total_ron": 5811,
    "functii": [

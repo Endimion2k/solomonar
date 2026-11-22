@@ -1,6 +1,6 @@
 {
   "an": 2025,
-  "total": 1060,
+  "total": 1066,
   "sursa": "MF/ANAF situatii financiare (data.gov.ro)",
   "bilanturi": [
     {
@@ -9542,6 +9542,66 @@
       "profit_net": 344339,
       "datorii": 1297687,
       "nr_salariati": 48
+    },
+    {
+      "cui": 25252500,
+      "denumire": "COMPANIA DE ASIGURARI-REASIGURARI EXIM ROMANIA (CARE-ROMANIA) SA",
+      "an": 2025,
+      "cifra_afaceri": 140848307,
+      "profit_net": 21288006,
+      "datorii": 84559118,
+      "nr_salariati": 42,
+      "tip_raportare": "asigurator"
+    },
+    {
+      "cui": 14367083,
+      "denumire": "FONDUL NATIONAL DE GARANTARE A CREDITELOR PENTRU INTREPRINDERILE MICI SI MIJLOCII SA - IFN",
+      "an": 2025,
+      "cifra_afaceri": 208839659,
+      "profit_net": 125112555,
+      "datorii": 1363686,
+      "nr_salariati": null,
+      "tip_raportare": "ifn"
+    },
+    {
+      "cui": 5439903,
+      "denumire": "FONDUL DE GARANTARE A CREDITULUI RURAL - IFN SA",
+      "an": 2025,
+      "cifra_afaceri": 131990455,
+      "profit_net": 27505561,
+      "datorii": 97423,
+      "nr_salariati": null,
+      "tip_raportare": "ifn"
+    },
+    {
+      "cui": 49176892,
+      "denumire": "BANCA DE INVESTITII SI DEZVOLTARE SA",
+      "an": 2025,
+      "cifra_afaceri": 201180017,
+      "profit_net": 98150779,
+      "datorii": 8423388,
+      "nr_salariati": null,
+      "tip_raportare": "banca"
+    },
+    {
+      "cui": 361560,
+      "denumire": "EXIM BANCA ROMÂNEASCĂ S.A",
+      "an": 2025,
+      "cifra_afaceri": 1871507378,
+      "profit_net": 139077035,
+      "datorii": 26052611447,
+      "nr_salariati": null,
+      "tip_raportare": "banca"
+    },
+    {
+      "cui": 361897,
+      "denumire": "CEC BANK SA",
+      "an": 2025,
+      "cifra_afaceri": 6457853678,
+      "profit_net": 812756705,
+      "datorii": 99653430596,
+      "nr_salariati": null,
+      "tip_raportare": "banca"
     }
   ]
 }

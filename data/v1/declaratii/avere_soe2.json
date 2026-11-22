@@ -54544,8 +54544,8 @@
       "auto": 2,
       "nume": "MARIANA IACOB MR",
       "nume_norm": "IACOB MARIANA MR",
-      "an": null,
-      "an_sursa": null
+      "an": 2017,
+      "an_sursa": "document_ocr"
     },
     {
       "institutie": "Posta Romana",
@@ -55519,8 +55519,8 @@
       "auto": 3,
       "nume": "TAPALAGA CONSTANTIN EDIT",
       "nume_norm": "CONSTANTIN EDIT TAPALAGA",
-      "an": null,
-      "an_sursa": null
+      "an": 2024,
+      "an_sursa": "document_ocr"
     },
     {
       "institutie": "Posta Romana",

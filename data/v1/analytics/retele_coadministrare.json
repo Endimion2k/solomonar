@@ -1,290 +1,307 @@
 {
   "generat_de": "build_duckdb",
-  "total": 48,
+  "total": 63,
   "data": [
     {
       "firma": "TOTUL VERDE. S.A.",
-      "contracte": 21547795579.0,
-      "n_administratori": 6,
-      "administratori": [
-        "dumitru nica",
-        "flaminiu ionut nicula",
-        "ecaterina zahortea",
-        "dumitru oana",
-        "bogdan flaviu furdui",
-        "chitulescu florina"
-      ]
-    },
-    {
-      "firma": "COMPANIA NATIONALA UNIFARM SA",
-      "contracte": 3797294049.0,
-      "n_administratori": 8,
-      "administratori": [
-        "ciprian mihailescu teodor",
-        "constantin laurentiu tudose",
-        "adrian dobre marius",
-        "catalin lungu",
-        "alina costea sanda",
-        "viorela zaharia"
-      ]
-    },
-    {
-      "firma": "COMPANIA NATIONALA POSTA ROMANA SA",
-      "contracte": 1183824865.0,
+      "contracte": 896029740.0,
       "n_administratori": 5,
       "administratori": [
-        "bondalici madalin mihai",
-        "cateliu daniel",
-        "andreea ceausescu",
-        "alina prahoveanu",
-        "alexandru florin zaharia"
+        "emil militaru",
+        "dumitru oana",
+        "bogdan flaviu furdui",
+        "ecaterina zahortea",
+        "flaminiu ionut nicula"
       ]
     },
     {
-      "firma": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
-      "contracte": 819122714.0,
-      "n_administratori": 6,
+      "firma": "SOCIETATEA PENTRU SERVICII DE MENTENANTA A RETELEI ELECTRICE DE TRANSPORT \"SMART\" S.A.",
+      "contracte": 655623469.0,
+      "n_administratori": 5,
       "administratori": [
-        "alexandru gheorghe man",
-        "anoaica dragos",
-        "serbanescu valentina",
-        "constantin violeta",
-        "ion krall mazilu",
-        "diaconescu radu"
+        "bolintineanu gheorghe",
+        "cristina ispir raluca",
+        "corneliu cozmanciuc mugurel",
+        "baescu decebal",
+        "andrei gabriela"
       ]
     },
     {
       "firma": "SOCIETATEA DE SERVICII HIDROENERGETICE HIDROSERV S.A.",
-      "contracte": 519030448.0,
-      "n_administratori": 4,
+      "contracte": 530374157.0,
+      "n_administratori": 3,
       "administratori": [
-        "farrukh khan zafar",
-        "bogdan medrea",
-        "fartat sebastian",
-        "marius stefan vintila"
+        "braniste felix florin",
+        "dinca levendi",
+        "cristian grecu marius"
       ]
     },
     {
-      "firma": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
-      "contracte": 459124537.0,
+      "firma": "SOCIETATEA NATIONALA DE TRANSPORT FEROVIAR DE MARFA \"CFR - MARFA\" SA",
+      "contracte": 363399708.0,
       "n_administratori": 6,
       "administratori": [
-        "adina hanza lacrimioara",
-        "mircea tudor",
-        "ion sterian",
-        "costin mihalache",
-        "minea nicolae",
-        "derenthall ilinca von"
+        "ion krall mazilu",
+        "anoaica dragos",
+        "alexandru gheorghe man",
+        "constantin violeta",
+        "serbanescu valentina",
+        "diaconescu radu"
       ]
     },
     {
       "firma": "SOCIETATEA DE PRODUCERE A ENERGIEI ELECTRICE IN HIDROCENTRALE \" HIDROELECTRICA\" S.A.",
-      "contracte": 327248019.0,
-      "n_administratori": 13,
+      "contracte": 360555864.0,
+      "n_administratori": 12,
       "administratori": [
-        "catalin popescu vladut",
-        "ianas radoi",
-        "badea bogdan nicolae",
-        "farrukh khan zafar",
+        "emil merdan",
+        "dan iulius plaveti",
+        "carmen radu",
+        "george marius toniuc",
         "avram razvan silviu",
-        "adrian daniel naftali"
+        "ana barbara bobirca"
+      ]
+    },
+    {
+      "firma": "COMPANIA NATIONALA POSTA ROMANA SA",
+      "contracte": 291125141.0,
+      "n_administratori": 7,
+      "administratori": [
+        "anghel gabriela",
+        "alina prahoveanu",
+        "mircea stoian",
+        "bondalici madalin mihai",
+        "cateliu daniel",
+        "bozian ciprian"
+      ]
+    },
+    {
+      "firma": "DRUMURI SI PODURI LOCALE ALBA SA",
+      "contracte": 269420136.0,
+      "n_administratori": 4,
+      "administratori": [
+        "corlea ioan vistian",
+        "calin radu rosian",
+        "crisan vasile",
+        "dana gaiseanu"
       ]
     },
     {
       "firma": "IOR SA",
-      "contracte": 276219562.0,
-      "n_administratori": 4,
+      "contracte": 197729767.0,
+      "n_administratori": 5,
       "administratori": [
         "gabriel radu",
+        "adrian colomar jan",
         "ioana marius",
         "ion macaveiu mihai",
         "andreea camelia mina"
       ]
     },
     {
-      "firma": "COMPANIA NATIONALA DE TRANSPORTURI AERIENE ROMANE TAROM SA",
-      "contracte": 234315076.0,
-      "n_administratori": 14,
-      "administratori": [
-        "bichel roxana",
-        "ioan nicolescu",
-        "sorin stoicescu",
-        "ioan lixandru",
-        "anca boagiu daniela",
-        "alina bontea loredana"
-      ]
-    },
-    {
-      "firma": "DRUMURI SI PODURI LOCALE ALBA SA",
-      "contracte": 225438871.0,
-      "n_administratori": 3,
-      "administratori": [
-        "calin radu rosian",
-        "dana gaiseanu",
-        "crisan vasile"
-      ]
-    },
-    {
-      "firma": "ADMINISTRARE ACTIVE SECTOR 3 SRL",
-      "contracte": 188580727.0,
-      "n_administratori": 5,
-      "administratori": [
-        "daniela deftu simona",
-        "alexandru bogdan chivu mihnea",
-        "ana diaconu maria",
-        "eduard zevedei",
-        "alexandru petre stelian"
-      ]
-    },
-    {
-      "firma": "Telecomunicatii C.F.R. SA",
-      "contracte": 168798060.0,
-      "n_administratori": 2,
-      "administratori": [
-        "balan florin jean",
-        "ardelean elena laura"
-      ]
-    },
-    {
       "firma": "COMPANIA NATIONALA ROMARM SA",
-      "contracte": 133427590.0,
+      "contracte": 191592211.0,
       "n_administratori": 5,
       "administratori": [
-        "gorun laurentiu nicusor",
-        "bogdan costas",
         "alexie bodolan constantin cotan",
+        "bogdan costas",
+        "gorun laurentiu nicusor",
         "butunoi daniel ionel",
         "dan mihail stan"
       ]
     },
     {
-      "firma": "DRUMURI SI PODURI COVASNA SA",
-      "contracte": 126671177.0,
+      "firma": "SOCIETATEA NAŢIONALĂ DE TRANSPORT GAZE NATURALE TRANSGAZ SA",
+      "contracte": 185645494.0,
+      "n_administratori": 6,
+      "administratori": [
+        "derenthall ilinca von",
+        "adina hanza lacrimioara",
+        "mircea tudor",
+        "minea nicolae",
+        "ion sterian",
+        "costin mihalache"
+      ]
+    },
+    {
+      "firma": "COMPANIA NATIONALA UNIFARM SA",
+      "contracte": 155908483.0,
       "n_administratori": 4,
       "administratori": [
-        "sandor torok",
-        "gergely gyorgy",
+        "ciprian mihailescu teodor",
+        "cristian danut popa",
+        "adrian dobre marius",
+        "constantin laurentiu tudose"
+      ]
+    },
+    {
+      "firma": "DRUMURI SI PODURI COVASNA SA",
+      "contracte": 110884812.0,
+      "n_administratori": 3,
+      "administratori": [
         "covaciu dan stefan",
-        "fejer lorant"
+        "gergely gyorgy",
+        "sandor torok"
       ]
     },
     {
       "firma": "CEC BANK SA",
-      "contracte": 117782294.0,
-      "n_administratori": 10,
+      "contracte": 78970171.0,
+      "n_administratori": 8,
       "administratori": [
-        "cristian florin saitariu",
-        "iovu mirela",
-        "iuga vasile",
-        "badea ciprian sebastian",
         "circiumaru mioara nicoleta",
-        "bogdan constantin neacsu"
+        "andrei simona",
+        "badea ciprian sebastian",
+        "iovu mirela",
+        "cristian florin saitariu",
+        "mavrodin tiberiu valentin"
+      ]
+    },
+    {
+      "firma": "TERMICA BRAD SA",
+      "contracte": 74779875.0,
+      "n_administratori": 3,
+      "administratori": [
+        "farau horia liviu",
+        "aurel sendroni",
+        "dines nicolae"
       ]
     },
     {
       "firma": "IAR SA",
-      "contracte": 85414198.0,
-      "n_administratori": 6,
+      "contracte": 71893050.0,
+      "n_administratori": 5,
       "administratori": [
         "bogdan costas",
-        "cristian maristeanu",
-        "ioan macaveiu",
         "darius georgel voda",
         "tiberiu ticlea",
-        "onescu simona"
+        "onescu simona",
+        "cristian maristeanu"
+      ]
+    },
+    {
+      "firma": "COMPANIA NATIONALA DE TRANSPORTURI AERIENE ROMANE TAROM SA",
+      "contracte": 53368657.0,
+      "n_administratori": 14,
+      "administratori": [
+        "daniel idolu iulian",
+        "monica sasarman",
+        "iliuta nicolae",
+        "alina bontea loredana",
+        "andrei tancu",
+        "ioan nicolescu"
+      ]
+    },
+    {
+      "firma": "URBANA SA",
+      "contracte": 45301500.0,
+      "n_administratori": 3,
+      "administratori": [
+        "csongor incze",
+        "kovacs zoltan",
+        "csongor zsombori"
       ]
     },
     {
       "firma": "RASIROM RA",
-      "contracte": 69061534.0,
+      "contracte": 38797927.0,
       "n_administratori": 3,
       "administratori": [
-        "claudiu radu rosca",
         "andrei benghea gabriel malaies",
-        "laurentiu trocan"
-      ]
-    },
-    {
-      "firma": "SOCIETATEA PENTRU SERVICII DE MENTENANTA A RETELEI ELECTRICE DE TRANSPORT \"SMART\" S.A.",
-      "contracte": 64491205.0,
-      "n_administratori": 4,
-      "administratori": [
-        "cristina ispir raluca",
-        "florin manolescu",
-        "baescu decebal",
-        "bolintineanu gheorghe"
-      ]
-    },
-    {
-      "firma": "EDITURA DIDACTICĂ ŞI PEDAGOGICĂ S.A.",
-      "contracte": 46294891.0,
-      "n_administratori": 12,
-      "administratori": [
-        "claudiu saftoiu",
-        "gabriela mirela toma",
-        "maria mihaela nistor",
-        "darie george grosu",
-        "dan dumitru radu",
-        "popescu sorin valentin"
+        "laurentiu trocan",
+        "bogdan laurentiu voicu"
       ]
     },
     {
       "firma": "ADMINISTRATIA PATRIMONIULUI PROTOCOLULUI DE STAT RA",
-      "contracte": 36231907.0,
+      "contracte": 32167949.0,
       "n_administratori": 6,
       "administratori": [
-        "anca mitu",
-        "alina dragota laura raluca",
+        "niculae teodorescu",
         "gambuteanu horia marian",
-        "cringasu daniela",
+        "anca mitu",
         "condrea dragos",
-        "niculae teodorescu"
+        "alina dragota laura raluca",
+        "cringasu daniela"
       ]
     },
     {
-      "firma": "ŞANTIERUL NAVAL MANGALIA SA",
-      "contracte": 33338033.0,
+      "firma": "ADMINISTRARE ACTIVE SECTOR 3 SRL",
+      "contracte": 25458417.0,
       "n_administratori": 5,
       "administratori": [
-        "costin luminita marinela",
-        "gheorghe rusu",
-        "albu cristian radu",
-        "marian pircalabescu razvan",
-        "ion irinel marius"
+        "alexandru petre stelian",
+        "ana diaconu maria",
+        "alexandru bogdan chivu mihnea",
+        "daniela deftu simona",
+        "bardes bulea carmen mariana"
       ]
     },
     {
-      "firma": "OLT DRUM SA",
-      "contracte": 20662998.0,
+      "firma": "ALGORITHM RESIDENTIAL S3 SRL",
+      "contracte": 24809121.0,
       "n_administratori": 3,
       "administratori": [
-        "gheorghe luca",
-        "copilau jenel",
-        "calin marian"
+        "calangiu lucia",
+        "alexandru vicu",
+        "adrian alexandrescu alexandru"
+      ]
+    },
+    {
+      "firma": "REGIA AUTONOMA JUDETEANA DE DRUMURI SI PODURI VALCEA RA",
+      "contracte": 17716270.0,
+      "n_administratori": 5,
+      "administratori": [
+        "euro insol sprl",
+        "aurelian bitu dragos",
+        "consulting ipurl vizal",
+        "dicu elena",
+        "florica laura stefania"
       ]
     },
     {
       "firma": "RO-ARMYSECURITY SA",
-      "contracte": 19886698.0,
-      "n_administratori": 5,
+      "contracte": 16829693.0,
+      "n_administratori": 4,
       "administratori": [
-        "cojocaru simona",
-        "anca cotirta mihaela",
-        "daniela nicolescu",
+        "bobirca nicoleta",
         "liviu stanoiu",
-        "bobirca nicoleta"
+        "cojocaru simona",
+        "anca cotirta mihaela"
       ]
     },
     {
-      "firma": "TERMO PLOIEȘTI S.R.L.",
-      "contracte": 14986076.0,
+      "firma": "REGIA AUTONOMĂ TEHNOLOGII PENTRU ENERGIA NUCLEARĂ - RATEN",
+      "contracte": 16288572.0,
+      "n_administratori": 7,
+      "administratori": [
+        "ion octavian uta",
+        "barica gheorghe",
+        "catalin ducu marian",
+        "daniela trancota",
+        "fulger nicolae",
+        "ionut misa"
+      ]
+    },
+    {
+      "firma": "DRUPO NEAMT SA",
+      "contracte": 15918880.0,
       "n_administratori": 5,
       "administratori": [
-        "alexandru florin vane",
-        "daniel gheorghe sori",
-        "catalin costel vlad",
-        "alexandru varlan",
-        "ion octavian tache"
+        "claudiu padure",
+        "enache vasile",
+        "ioan simionica",
+        "gina mihaela munteanu",
+        "david ramona"
+      ]
+    },
+    {
+      "firma": "UTILITĂŢI PUBLICE CERNAVODĂ SRL",
+      "contracte": 15363629.0,
+      "n_administratori": 2,
+      "administratori": [
+        "liliana voicu",
+        "iorgu liviu"
       ]
     },
     {
@@ -298,75 +315,130 @@
       ]
     },
     {
-      "firma": "SOCIETATEA NATIONALA A SARII SA",
-      "contracte": 8063000.0,
-      "n_administratori": 13,
+      "firma": "OLT DRUM SA",
+      "contracte": 13674170.0,
+      "n_administratori": 3,
       "administratori": [
-        "balan corneliu petre",
-        "chiriac cristina",
-        "daniel livezeanu",
-        "dolores rocsana ungureanu",
-        "dorobantu dumitru george",
-        "alina fanita gabriela"
+        "gheorghe luca",
+        "copilau jenel",
+        "briceag emilian"
       ]
     },
     {
-      "firma": "ALGORITHM RESIDENTIAL S3 SRL",
-      "contracte": 6470243.0,
+      "firma": "ŞANTIERUL NAVAL MANGALIA SA",
+      "contracte": 10716205.0,
       "n_administratori": 3,
       "administratori": [
-        "alexandru vicu",
-        "adrian alexandrescu alexandru",
-        "calangiu lucia"
+        "ion irinel marius",
+        "albu cristian radu",
+        "marian pircalabescu razvan"
+      ]
+    },
+    {
+      "firma": "SALUBRITAS SA",
+      "contracte": 10139275.0,
+      "n_administratori": 5,
+      "administratori": [
+        "gabriel ionut mahu",
+        "ciurea silviu stefan",
+        "constantin cristian tapalaga",
+        "viorel zama",
+        "nistor olga"
+      ]
+    },
+    {
+      "firma": "EDIL SAL PREST S.A.",
+      "contracte": 8813128.0,
+      "n_administratori": 5,
+      "administratori": [
+        "cristocea gabriela lucia pirvulescu",
+        "barac maria",
+        "ion paducel",
+        "boatca victor",
+        "nicolae preda"
       ]
     },
     {
       "firma": "MINPREST SERV SA",
-      "contracte": 6143032.0,
+      "contracte": 7992916.0,
       "n_administratori": 3,
       "administratori": [
-        "carmen furdea olga",
-        "dorina jianu",
-        "iustin mota"
+        "adela brinzan",
+        "iustin mota",
+        "dorina jianu"
       ]
     },
     {
-      "firma": "REGIA AUTONOMĂ TEHNOLOGII PENTRU ENERGIA NUCLEARĂ - RATEN",
-      "contracte": 5414952.0,
+      "firma": "TERMO - CONSTRUCT SA",
+      "contracte": 7641825.0,
+      "n_administratori": 4,
+      "administratori": [
+        "dronca nicolae",
+        "ana laura maria sida",
+        "vasii vasile",
+        "cristina daniela mihalache"
+      ]
+    },
+    {
+      "firma": "SOCIETATEA NATIONALA A SARII SA",
+      "contracte": 7428000.0,
+      "n_administratori": 13,
+      "administratori": [
+        "mihai mindrican",
+        "dolores rocsana ungureanu",
+        "dorobantu dumitru george",
+        "alina fanita gabriela",
+        "grigore pop",
+        "cheta voicu"
+      ]
+    },
+    {
+      "firma": "TERMO PLOIEȘTI S.R.L.",
+      "contracte": 6822235.0,
+      "n_administratori": 5,
+      "administratori": [
+        "ion octavian tache",
+        "alexandru florin vane",
+        "catalin costel vlad",
+        "daniel gheorghe sori",
+        "alexandru varlan"
+      ]
+    },
+    {
+      "firma": "MUNICIPAL CONSTRUCT SA",
+      "contracte": 4765701.0,
+      "n_administratori": 4,
+      "administratori": [
+        "groza maria",
+        "florentina ramona voinescu",
+        "ionita stefan",
+        "gheorghe ionita marian"
+      ]
+    },
+    {
+      "firma": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
+      "contracte": 3944746.0,
       "n_administratori": 7,
       "administratori": [
-        "ionut misa",
-        "gheorghe ionita",
-        "ion octavian uta",
-        "barica gheorghe",
-        "catalin ducu marian",
-        "daniela trancota"
+        "ciprian iftime mihai",
+        "corneliu visoianu",
+        "constantin madalin staniu",
+        "cristina matei",
+        "banciu leila mihaela",
+        "florin petolea"
       ]
     },
     {
       "firma": "COMPANIA MUNICIPALĂ ENERGETICA SERVICII BUCUREŞTI S.A.",
-      "contracte": 3257578.0,
-      "n_administratori": 6,
+      "contracte": 3222695.0,
+      "n_administratori": 8,
       "administratori": [
+        "alexandru baicu ciudin",
         "daniel preda virgil",
-        "chirita sorin",
-        "ioan maxim ovidiu",
-        "codruta ermilia vitan",
+        "dumitru oana",
         "aurel sendroni",
+        "ioan maxim ovidiu",
         "mihaela visu"
-      ]
-    },
-    {
-      "firma": "INSTITUTUL DE CERCETARI IN TRANSPORTURI INCERTRANS SA",
-      "contracte": 3219000.0,
-      "n_administratori": 6,
-      "administratori": [
-        "cladoveanu flavius valeriu",
-        "andreea gabriela nica",
-        "aura cantacuz magda",
-        "buica marian nicusor",
-        "chirtes cristian ioan",
-        "miron zapciu"
       ]
     },
     {
@@ -379,65 +451,61 @@
       ]
     },
     {
-      "firma": "COMPANIA NAŢIONALĂ PENTRU CONTROLUL CAZANELOR, INSTALAŢIILOR DE RIDICAT ŞI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
-      "contracte": 2853123.0,
-      "n_administratori": 8,
-      "administratori": [
-        "manuela olteanu petronela stan",
-        "emanuel ioana",
-        "andronic bogdan constantin",
-        "cornelia nastase",
-        "angelica petrache ramona",
-        "dobre mircea titus"
-      ]
-    },
-    {
-      "firma": "COMPANIA DE ASIGURARI-REASIGURARI EXIM ROMANIA (CARE-ROMANIA) SA",
-      "contracte": 2637706.0,
-      "n_administratori": 6,
-      "administratori": [
-        "andrei micu razvan",
-        "bogdan iulian popa",
-        "adrian florescu razvan",
-        "gabriel oltean vasile",
-        "cezar furtuna gabriel",
-        "cezar flavian patriche"
-      ]
-    },
-    {
-      "firma": "MUNICIPAL CONSTRUCT SA",
-      "contracte": 2359491.0,
-      "n_administratori": 3,
-      "administratori": [
-        "gheorghe ionita marian",
-        "groza maria",
-        "ionita stefan"
-      ]
-    },
-    {
-      "firma": "COMPANIA NATIONALA \"IMPRIMERIA NATIONALA\" SA",
-      "contracte": 2327976.0,
+      "firma": "SOCIETATEA NATIONALA DE GAZE NATURALE \" ROMGAZ \" SA",
+      "contracte": 1999999.0,
       "n_administratori": 7,
       "administratori": [
-        "nicolae tudor",
-        "andrei steriu valeriu",
-        "sorin toader",
-        "gheorghe madalina",
-        "andrian vasile",
-        "alexandru liviu moraru"
+        "dan iulius plaveti",
+        "brasla razvan",
+        "aristotel jude marius",
+        "andrei benghea gabriel malaies",
+        "gabriel marius nut",
+        "elena lorena stoian"
       ]
     },
     {
-      "firma": "SOCIETATEA NATIONALA DE RADIOCOMUNICATII SA",
-      "contracte": 2324538.0,
-      "n_administratori": 9,
+      "firma": "UZINA DE CONSTRUCTII MASINI HIDROENERGETICE S.R.L.",
+      "contracte": 1944075.0,
+      "n_administratori": 4,
       "administratori": [
-        "banciu leila mihaela",
-        "ciprian iftime mihai",
-        "antoanella dragoi mariyeane",
-        "emanuel zegrea",
-        "corneliu visoianu",
-        "constantin madalin staniu"
+        "cornel dan fara",
+        "liviu marsavina",
+        "casian nitulescu pavel",
+        "antonie marius negru"
+      ]
+    },
+    {
+      "firma": "INSTITUTUL DE CERCETARI IN TRANSPORTURI INCERTRANS SA",
+      "contracte": 1767000.0,
+      "n_administratori": 5,
+      "administratori": [
+        "cladoveanu flavius valeriu",
+        "andreea gabriela nica",
+        "buica marian nicusor",
+        "chirtes cristian ioan",
+        "miron zapciu"
+      ]
+    },
+    {
+      "firma": "ALGORITHM CONSTRUCTII S3 SRL",
+      "contracte": 1673329.0,
+      "n_administratori": 2,
+      "administratori": [
+        "costea ionut",
+        "alin panait radu"
+      ]
+    },
+    {
+      "firma": "COMPANIA NAŢIONALĂ PENTRU CONTROLUL CAZANELOR, INSTALAŢIILOR DE RIDICAT ŞI RECIPIENTELOR SUB PRESIUNE - (CNCIR) SA",
+      "contracte": 1532505.0,
+      "n_administratori": 8,
+      "administratori": [
+        "cornelia nastase",
+        "andronic bogdan constantin",
+        "manuela olteanu petronela stan",
+        "anton cristian ioan",
+        "clement negrut",
+        "dobre mircea titus"
       ]
     },
     {
@@ -445,126 +513,209 @@
       "contracte": 1200000.0,
       "n_administratori": 3,
       "administratori": [
-        "ilinescu liliana",
+        "ilina ionela",
         "alin mihail stoicea",
         "ciocnitu dumitru eduard"
       ]
     },
     {
-      "firma": "ALGORITHM CONSTRUCTII S3 SRL",
-      "contracte": 834089.0,
+      "firma": "S.T. SALTIM SLATINA - TIMIŞ SRL",
+      "contracte": 1044000.0,
       "n_administratori": 3,
       "administratori": [
-        "alin panait radu",
-        "giani marius mielu",
-        "mihai moldovan"
-      ]
-    },
-    {
-      "firma": "UTILITĂŢI PUBLICE CERNAVODĂ SRL",
-      "contracte": 697103.0,
-      "n_administratori": 2,
-      "administratori": [
-        "liliana voicu",
-        "iorgu liviu"
+        "blaj diana maria",
+        "bona ion",
+        "miculescu petru"
       ]
     },
     {
       "firma": "REGIA NATIONALA A PADURILOR ROMSILVA RA",
-      "contracte": 663489.0,
-      "n_administratori": 5,
+      "contracte": 995233.0,
+      "n_administratori": 4,
       "administratori": [
-        "corina listoschi",
+        "achim dan",
         "chisalita ion",
         "corneliu cozmanciuc mugurel",
-        "georgeta ionescu speranta",
-        "achim dan"
+        "georgeta ionescu speranta"
       ]
     },
     {
-      "firma": "SALUBRITAS SA",
-      "contracte": 564599.0,
+      "firma": "SOCIETATEA PENTRU SERVICII DE TELECOMUNICAŢII ŞI TEHNOLOGIA INFORMAŢIEI ÎN REŢELE ELECTRICE DE TRANSPORT\"TELETRANS\" S.A.",
+      "contracte": 897092.0,
       "n_administratori": 5,
       "administratori": [
-        "gabriel ionut mahu",
-        "constantin cristian tapalaga",
-        "viorel zama",
-        "nistor olga",
-        "ciurea silviu stefan"
+        "andrei dimitriu victor",
+        "baescu decebal",
+        "alin ene",
+        "ionescu mirela",
+        "soare veronica"
       ]
     },
     {
-      "firma": "SERVICE CICLOP SA",
-      "contracte": 454800.0,
-      "n_administratori": 10,
+      "firma": "Telecomunicatii C.F.R. SA",
+      "contracte": 661484.0,
+      "n_administratori": 2,
       "administratori": [
-        "gabriela stanga",
-        "negrila vasile",
-        "alexandrescu duca mihaela oana",
-        "dinu nicolae",
-        "gorneanu mihaela",
-        "madalina mustafa"
+        "ardelean elena laura",
+        "balan florin jean"
       ]
     },
     {
       "firma": "ADMINISTRATIA NATIONALA DE METEOROLOGIE RA",
-      "contracte": 327997.0,
-      "n_administratori": 8,
+      "contracte": 641470.0,
+      "n_administratori": 2,
       "administratori": [
-        "arat marie oana",
-        "andreea diaconu",
-        "georgeta ionescu speranta",
-        "mariana tudose",
-        "bruma vasile",
+        "cosmina craciun rada",
         "dulceata teodor"
+      ]
+    },
+    {
+      "firma": "PAZĂ OBIECTIVE ŞI INTERVENŢIE SRL",
+      "contracte": 587526.0,
+      "n_administratori": 2,
+      "administratori": [
+        "crisan danut marian",
+        "andrei seres tiberiu"
+      ]
+    },
+    {
+      "firma": "COMPANIA DE ASIGURARI-REASIGURARI EXIM ROMANIA (CARE-ROMANIA) SA",
+      "contracte": 527541.0,
+      "n_administratori": 5,
+      "administratori": [
+        "gabriel oltean vasile",
+        "bogdan iulian popa",
+        "adrian florescu razvan",
+        "cezar flavian patriche",
+        "andrei micu razvan"
+      ]
+    },
+    {
+      "firma": "ECO URBIS CRAIOVA S.R.L.",
+      "contracte": 518840.0,
+      "n_administratori": 5,
+      "administratori": [
+        "catalin ionut resceanu",
+        "disteanu nelu",
+        "alexandra andreea costache",
+        "florin gabriel lungu",
+        "dumitru ionel silviu"
+      ]
+    },
+    {
+      "firma": "MATSALUBRIS SRL",
+      "contracte": 500600.0,
+      "n_administratori": 3,
+      "administratori": [
+        "adrian dobromirescu",
+        "monica petria stefania",
+        "andrei giubalca"
+      ]
+    },
+    {
+      "firma": "ETA SA",
+      "contracte": 480000.0,
+      "n_administratori": 4,
+      "administratori": [
+        "marginean rodica",
+        "andi davidescu stefan",
+        "mardale nicolaie",
+        "elena simona stefanescu"
+      ]
+    },
+    {
+      "firma": "SERVICE CICLOP SA",
+      "contracte": 473527.0,
+      "n_administratori": 10,
+      "administratori": [
+        "catalin popescu vladut",
+        "gabriel radu",
+        "calina cristina irimie",
+        "madalina mustafa",
+        "gorneanu mihaela",
+        "negrila vasile"
+      ]
+    },
+    {
+      "firma": "RADIOACTIV MINERAL MAGURELE SA",
+      "contracte": 298964.0,
+      "n_administratori": 3,
+      "administratori": [
+        "ionel malenda",
+        "cocos vasile",
+        "pana traian"
       ]
     },
     {
       "firma": "SOCIETATEA COMPLEXUL ENERGETIC OLTENIA S.A.",
       "contracte": 269863.0,
-      "n_administratori": 11,
+      "n_administratori": 10,
       "administratori": [
-        "mustafa sinan",
-        "adrian constantin marinescu",
-        "georgeta luminita popescu",
-        "constantin cosmin trufelea",
         "ion ionita valeriu",
-        "adrian daianu"
-      ]
-    },
-    {
-      "firma": "ETA SA",
-      "contracte": 245000.0,
-      "n_administratori": 4,
-      "administratori": [
-        "marginean rodica",
-        "mardale nicolaie",
-        "elena simona stefanescu",
-        "andi davidescu stefan"
+        "constantin cosmin trufelea",
+        "calinoiu catalin ionel",
+        "banta victor",
+        "adrian daianu",
+        "georgeta luminita popescu"
       ]
     },
     {
       "firma": "SALUBRI SA",
       "contracte": 220176.0,
-      "n_administratori": 6,
+      "n_administratori": 5,
       "administratori": [
-        "bordas karoly",
-        "daniela marioara zapodeanu",
-        "dumitru hodisan sorin",
-        "jurcut vasile",
+        "costel lazea",
         "alexandrina bodea gabriela",
-        "costel lazea"
+        "bordas karoly",
+        "jurcut vasile",
+        "dumitru hodisan sorin"
       ]
     },
     {
       "firma": "INSTITUTUL DE CERCETARE STIINTIFICA, INGINERIE TEHNOLOGICA SI PROIECTARE MINE PE LIGNIT SA",
-      "contracte": 139999.0,
+      "contracte": 209999.0,
       "n_administratori": 4,
       "administratori": [
-        "cristina ionela stancu",
-        "adriana lorena ungureanu",
+        "gheorghe goreci",
         "nicolae niculita",
-        "gheorghe goreci"
+        "adriana lorena ungureanu",
+        "cristina ionela stancu"
+      ]
+    },
+    {
+      "firma": "RÎUDEMOREANA SRL",
+      "contracte": 125580.0,
+      "n_administratori": 3,
+      "administratori": [
+        "petronela raluca sabau sendroni",
+        "traian tuducea",
+        "filan violin"
+      ]
+    },
+    {
+      "firma": "COMPANIA NATIONALA \"IMPRIMERIA NATIONALA\" SA",
+      "contracte": 102190.0,
+      "n_administratori": 7,
+      "administratori": [
+        "ciprian ladunca",
+        "sorin toader",
+        "alexandru liviu moraru",
+        "gheorghe madalina",
+        "andrei steriu valeriu",
+        "maria mirabela miron"
+      ]
+    },
+    {
+      "firma": "MONITORUL OFICIAL RA",
+      "contracte": 18052.0,
+      "n_administratori": 10,
+      "administratori": [
+        "andreea mirela stancescu",
+        "ana turtureanu",
+        "dorina stan",
+        "ioan raceu",
+        "ioan mihalcea",
+        "ardeleanu iulian"
       ]
     }
   ]

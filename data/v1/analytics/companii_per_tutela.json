@@ -5,49 +5,49 @@
     {
       "tutela": "MINISTERUL ECONOMIEI, ANTREPRENORIATULUI SI TURISMULUI",
       "n_companii": 39,
-      "contracte": 536462383.0,
+      "contracte": 479359233.0,
       "salariati": 11197
     },
     {
       "tutela": "MINISTERUL TRANSPORTURILOR ȘI INFRASTRUCTURII",
       "n_companii": 28,
-      "contracte": 1222235850.0,
+      "contracte": 417429849.0,
       "salariati": 58914
     },
     {
       "tutela": "MINISTERUL ENERGIEI",
       "n_companii": 26,
-      "contracte": 861099436.0,
+      "contracte": 921167950.0,
       "salariati": 31427
     },
     {
       "tutela": "AUTORITATEA PENTRU ADMINISTRAREA ACTIVELOR STATULUI",
       "n_companii": 13,
-      "contracte": null,
+      "contracte": 298964.0,
       "salariati": 178
     },
     {
       "tutela": "MINISTERUL FINANTELOR",
       "n_companii": 9,
-      "contracte": 122747976.0,
-      "salariati": 470
+      "contracte": 79599902.0,
+      "salariati": 512
     },
     {
       "tutela": "SECRETARIATUL GENERAL AL GUVERNULUI",
       "n_companii": 7,
-      "contracte": 559847649.0,
+      "contracte": 874334004.0,
       "salariati": 8809
     },
     {
       "tutela": "MINISTERUL CERCETARII, INOVARII SI DIGITALIZARII",
       "n_companii": 4,
-      "contracte": 1189368403.0,
+      "contracte": 296836887.0,
       "salariati": 1219
     },
     {
       "tutela": "MINISTERUL APARARII NATIONALE",
       "n_companii": 3,
-      "contracte": 19886698.0,
+      "contracte": 16829693.0,
       "salariati": 602
     },
     {
@@ -57,22 +57,10 @@
       "salariati": 7
     },
     {
-      "tutela": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
-      "n_companii": 2,
-      "contracte": null,
-      "salariati": 1196
-    },
-    {
       "tutela": "MINISTERUL MEDIULUI, APELOR SI PADURILOR",
       "n_companii": 2,
-      "contracte": 991486.0,
+      "contracte": 1636703.0,
       "salariati": 14018
-    },
-    {
-      "tutela": "MINISTERUL SANATATII",
-      "n_companii": 2,
-      "contracte": 3797294049.0,
-      "salariati": 1438
     },
     {
       "tutela": "AGENTIA DOMENIILOR STATULUI",
@@ -87,16 +75,22 @@
       "salariati": 19
     },
     {
-      "tutela": "CAMERA DEPUTATILOR",
-      "n_companii": 1,
+      "tutela": "MINISTERUL DEZVOLTARII, LUCRARILOR PUBLICE SI ADMINISTRATIEI",
+      "n_companii": 2,
       "contracte": null,
-      "salariati": 264
+      "salariati": 1196
     },
     {
-      "tutela": "ADMINISTRATIA NATIONALA APELE ROMANE",
+      "tutela": "MINISTERUL SANATATII",
+      "n_companii": 2,
+      "contracte": 155908483.0,
+      "salariati": 1438
+    },
+    {
+      "tutela": "CAMERA DEPUTATILOR",
       "n_companii": 1,
-      "contracte": null,
-      "salariati": 244
+      "contracte": 18052.0,
+      "salariati": 264
     },
     {
       "tutela": "MINISTERUL CULTURII",
@@ -105,15 +99,21 @@
       "salariati": 1
     },
     {
+      "tutela": "ADMINISTRATIA NATIONALA APELE ROMANE",
+      "n_companii": 1,
+      "contracte": null,
+      "salariati": 244
+    },
+    {
       "tutela": "SERVICIUL ROMAN DE INFORMATII",
       "n_companii": 1,
-      "contracte": 69061534.0,
+      "contracte": 38797927.0,
       "salariati": 426
     },
     {
       "tutela": "MINISTERUL EDUCATIEI",
       "n_companii": 1,
-      "contracte": 46294891.0,
+      "contracte": 0.0,
       "salariati": 34
     }
   ]

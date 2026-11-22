@@ -5,7 +5,7 @@
     {
       "judet": "București",
       "n_companii": 96,
-      "cifra_afaceri": 52084772720.0,
+      "cifra_afaceri": 60956143907.0,
       "salariati": 106255
     },
     {
@@ -51,10 +51,10 @@
       "salariati": 4837
     },
     {
-      "judet": "Olt",
+      "judet": "Teleorman",
       "n_companii": 45,
-      "cifra_afaceri": 190734675.0,
-      "salariati": 985
+      "cifra_afaceri": 159552147.0,
+      "salariati": 1303
     },
     {
       "judet": "Argeș",
@@ -63,10 +63,10 @@
       "salariati": 3460
     },
     {
-      "judet": "Teleorman",
+      "judet": "Olt",
       "n_companii": 45,
-      "cifra_afaceri": 159552147.0,
-      "salariati": 1303
+      "cifra_afaceri": 190734675.0,
+      "salariati": 985
     },
     {
       "judet": "Harghita",
@@ -81,10 +81,10 @@
       "salariati": 4238
     },
     {
-      "judet": "Cluj",
+      "judet": "Gorj",
       "n_companii": 32,
-      "cifra_afaceri": 1441292700.0,
-      "salariati": 5314
+      "cifra_afaceri": 3789013572.0,
+      "salariati": 11256
     },
     {
       "judet": "Sibiu",
@@ -93,10 +93,10 @@
       "salariati": 11401
     },
     {
-      "judet": "Gorj",
+      "judet": "Cluj",
       "n_companii": 32,
-      "cifra_afaceri": 3789013572.0,
-      "salariati": 11256
+      "cifra_afaceri": 1441292700.0,
+      "salariati": 5314
     },
     {
       "judet": "Giurgiu",
@@ -135,16 +135,22 @@
       "salariati": 855
     },
     {
+      "judet": "Satu Mare",
+      "n_companii": 22,
+      "cifra_afaceri": 199921302.0,
+      "salariati": 784
+    },
+    {
       "judet": "Vâlcea",
       "n_companii": 22,
       "cifra_afaceri": 245868677.0,
       "salariati": 1498
     },
     {
-      "judet": "Satu Mare",
-      "n_companii": 22,
-      "cifra_afaceri": 199921302.0,
-      "salariati": 784
+      "judet": "Covasna",
+      "n_companii": 19,
+      "cifra_afaceri": 233644602.0,
+      "salariati": 1024
     },
     {
       "judet": "Iași",
@@ -153,22 +159,16 @@
       "salariati": 6633
     },
     {
-      "judet": "Dâmbovița",
-      "n_companii": 19,
-      "cifra_afaceri": 527679017.0,
-      "salariati": 2537
-    },
-    {
       "judet": "Mehedinți",
       "n_companii": 19,
       "cifra_afaceri": 60850143.0,
       "salariati": 477
     },
     {
-      "judet": "Covasna",
+      "judet": "Dâmbovița",
       "n_companii": 19,
-      "cifra_afaceri": 233644602.0,
-      "salariati": 1024
+      "cifra_afaceri": 527679017.0,
+      "salariati": 2537
     },
     {
       "judet": "Maramureș",
@@ -183,22 +183,16 @@
       "salariati": 1548
     },
     {
-      "judet": "Vrancea",
-      "n_companii": 16,
-      "cifra_afaceri": 185231559.0,
-      "salariati": 1033
-    },
-    {
       "judet": "Bistrița-Năsăud",
       "n_companii": 16,
       "cifra_afaceri": 227788890.0,
       "salariati": 944
     },
     {
-      "judet": "Galați",
-      "n_companii": 15,
-      "cifra_afaceri": 644712177.0,
-      "salariati": 3356
+      "judet": "Vrancea",
+      "n_companii": 16,
+      "cifra_afaceri": 185231559.0,
+      "salariati": 1033
     },
     {
       "judet": "Călărași",
@@ -207,16 +201,22 @@
       "salariati": 750
     },
     {
-      "judet": "Alba",
-      "n_companii": 14,
-      "cifra_afaceri": 1135385187.0,
-      "salariati": 3508
+      "judet": "Galați",
+      "n_companii": 15,
+      "cifra_afaceri": 644712177.0,
+      "salariati": 3356
     },
     {
       "judet": "Neamț",
       "n_companii": 14,
       "cifra_afaceri": 210036953.0,
       "salariati": 936
+    },
+    {
+      "judet": "Alba",
+      "n_companii": 14,
+      "cifra_afaceri": 1135385187.0,
+      "salariati": 3508
     },
     {
       "judet": "Bacău",
@@ -231,16 +231,16 @@
       "salariati": 1379
     },
     {
-      "judet": "Botoșani",
-      "n_companii": 11,
-      "cifra_afaceri": 231184549.0,
-      "salariati": 1075
-    },
-    {
       "judet": "Sălaj",
       "n_companii": 11,
       "cifra_afaceri": 92556226.0,
       "salariati": 708
+    },
+    {
+      "judet": "Botoșani",
+      "n_companii": 11,
+      "cifra_afaceri": 231184549.0,
+      "salariati": 1075
     },
     {
       "judet": "Suceava",

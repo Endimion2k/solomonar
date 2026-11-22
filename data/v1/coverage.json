@@ -4,8 +4,8 @@
     "total": 1256,
     "cu_declaratii": 844,
     "cu_site": 91,
-    "cu_reps": 1250,
-    "cu_financials": 1197,
+    "cu_reps": 1251,
+    "cu_financials": 1203,
     "cu_actionariat": 19,
     "GOL_nici_site_nici_declaratii": 388,
     "fara_declaratii": 412
@@ -554,7 +554,7 @@
       "cui": "361897",
       "sector": "Servicii",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "CENTRUL MEDICAL SĂNĂTATEA PENTRU TOŢI SRL",
@@ -1177,7 +1177,7 @@
       "cui": "14367083",
       "sector": "Servicii",
       "reps": true,
-      "financials": false
+      "financials": true
     },
     {
       "name": "FONTANA BALNEO S.R.L.",

@@ -1,5 +1,5 @@
 {
-  "generat": "2026-11-20T08:03:29.046702+00:00",
+  "generat": "2026-11-22T09:50:00.005832+00:00",
   "declaratii": {
     "total": 146791,
     "avere": 77978,
@@ -7,8 +7,8 @@
   },
   "companii_stat": {
     "total": 1256,
-    "cu_reprezentanti": 1250,
-    "cu_bilant": 1197
+    "cu_reprezentanti": 1251,
+    "cu_bilant": 1203
   },
   "cv_uri": {
     "total": 1237,
@@ -28,7 +28,7 @@
   },
   "motiuni": 175,
   "partide": {
-    "total": 17,
+    "total": 19,
     "subventii_inreg": 121,
     "rapoarte_rvc": 428,
     "subventie_totala_top": {
@@ -45,24 +45,24 @@
   },
   "gold": {
     "versiune": "v2 institution-aware",
-    "persoane_canonice": 109624,
+    "persoane_canonice": 116497,
     "parlamentari": 466,
     "incredere": {
-      "high": 466,
-      "context": 267,
-      "candidat": 108891
+      "high": 432,
+      "context": 231,
+      "candidat": 115834
     },
-    "cross_links_total": 320,
-    "cross_links_confirmate": 303,
+    "cross_links_total": 282,
+    "cross_links_confirmate": 232,
     "registru": "data/gold/registry.sqlite"
   },
   "achizitii": {
-    "firme_castigatoare": 11945,
-    "follow_the_money_leaduri": 47,
-    "confirmate_autodeclarate": 12,
-    "achizitii_directe_total": 36360484,
-    "furnizori_directe": 288583,
-    "valoare_directe_mld": 174.4,
+    "firme_castigatoare": 15510,
+    "follow_the_money_leaduri": 57,
+    "confirmate_autodeclarate": 14,
+    "achizitii_directe_total": 17724150,
+    "furnizori_directe": 137725,
+    "valoare_directe_mld": 85.5,
     "persoane_cu_achizitii_directe": 57656
   },
   "audit": {
@@ -84,7 +84,7 @@
     "sursa": "BVB (gratis, listate)"
   },
   "search": {
-    "entitati": 110897
+    "entitati": 117772
   },
   "coverage": {
     "companii_cu_declaratii": 834,
@@ -113,7 +113,7 @@
     "entitati_ro": 7030,
     "sanctiuni": 23,
     "pep": 7007,
-    "in_graf": 1432
+    "in_graf": 1476
   },
   "rezolutie_splink": {
     "mentiuni": 91282,
@@ -127,16 +127,16 @@
     "firme_noi_cu_bani_stat": 10175
   },
   "alerte": {
-    "total": 1765,
+    "total": 1752,
     "pe_tip": {
-      "conflict_confirmat": 12,
-      "soe_pierdere_contracte_mari": 2,
-      "partid_subventie_fara_parlamentari": 6,
+      "conflict_confirmat": 14,
+      "soe_pierdere_contracte_mari": 3,
+      "partid_subventie_fara_parlamentari": 8,
       "parlamentar_conduce_soe": 3,
       "firma_noua_bani_stat": 1645,
-      "outlier_valoare_contract": 4,
-      "concentrare_persoana": 61,
-      "firma_mama_straina": 32
+      "outlier_valoare_contract": 1,
+      "concentrare_persoana": 65,
+      "firma_mama_straina": 13
     }
   },
   "ani_central": {
@@ -147,16 +147,16 @@
   },
   "companii": {},
   "reprezentanti": {
-    "companii_cu_reps": 55560,
-    "total_reps": 78099
+    "companii_cu_reps": 62261,
+    "total_reps": 82613
   },
   "guvernanta": {
     "companii": 121,
     "numiri": 697,
     "persoane": 586,
     "potrivite_graf": {
-      "confirmat": 506,
-      "candidat": 52
+      "confirmat": 567,
+      "candidat": 36
     },
     "cumul": 76,
     "sursa_generata": "2026-09-25T13:49:57.422836Z"

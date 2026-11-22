@@ -3,34 +3,10 @@
   "total": 11,
   "data": [
     {
-      "sector": "Servicii",
-      "n_companii": 306,
-      "cifra_afaceri_totala": 3637145398.0,
-      "contracte_totale": 21739112514.0,
-      "salariati": 18143,
-      "procent_stat_mediu": null
-    },
-    {
-      "sector": "Comerț",
-      "n_companii": 11,
-      "cifra_afaceri_totala": 1994081882.0,
-      "contracte_totale": 3797748849.0,
-      "salariati": 233,
-      "procent_stat_mediu": null
-    },
-    {
-      "sector": "Transport",
-      "n_companii": 113,
-      "cifra_afaceri_totala": 16110662846.0,
-      "contracte_totale": 2237507655.0,
-      "salariati": 73609,
-      "procent_stat_mediu": 87.8
-    },
-    {
       "sector": "Energie",
       "n_companii": 55,
       "cifra_afaceri_totala": 44075018867.0,
-      "contracte_totale": 1321356046.0,
+      "contracte_totale": 1221112616.0,
       "salariati": 39280,
       "procent_stat_mediu": 68.1
     },
@@ -38,23 +14,47 @@
       "sector": "Industrie",
       "n_companii": 41,
       "cifra_afaceri_totala": 4327673035.0,
-      "contracte_totale": 783799291.0,
+      "contracte_totale": 1155059384.0,
       "salariati": 12752,
       "procent_stat_mediu": 53.0
+    },
+    {
+      "sector": "Servicii",
+      "n_companii": 306,
+      "cifra_afaceri_totala": 12508516585.0,
+      "contracte_totale": 1060321016.0,
+      "salariati": 18143,
+      "procent_stat_mediu": null
+    },
+    {
+      "sector": "Transport",
+      "n_companii": 113,
+      "cifra_afaceri_totala": 16110662846.0,
+      "contracte_totale": 708373506.0,
+      "salariati": 73609,
+      "procent_stat_mediu": 87.8
     },
     {
       "sector": "Infrastructură",
       "n_companii": 131,
       "cifra_afaceri_totala": 1889619192.0,
-      "contracte_totale": 382436869.0,
+      "contracte_totale": 460272641.0,
       "salariati": 7035,
+      "procent_stat_mediu": null
+    },
+    {
+      "sector": "Comerț",
+      "n_companii": 11,
+      "cifra_afaceri_totala": 1994081882.0,
+      "contracte_totale": 156382010.0,
+      "salariati": 233,
       "procent_stat_mediu": null
     },
     {
       "sector": "IT & comunicații",
       "n_companii": 14,
       "cifra_afaceri_totala": 1211170366.0,
-      "contracte_totale": 286492223.0,
+      "contracte_totale": 44332501.0,
       "salariati": 2990,
       "procent_stat_mediu": null
     },
@@ -62,7 +62,7 @@
       "sector": "Apă-canal · salubritate",
       "n_companii": 443,
       "cifra_afaceri_totala": 8719393826.0,
-      "contracte_totale": 21682974.0,
+      "contracte_totale": 38137927.0,
       "salariati": 40028,
       "procent_stat_mediu": null
     },
@@ -70,7 +70,7 @@
       "sector": "Alte sectoare",
       "n_companii": 54,
       "cifra_afaceri_totala": 5501176273.0,
-      "contracte_totale": 14206032.0,
+      "contracte_totale": 15719880.0,
       "salariati": 13502,
       "procent_stat_mediu": null
     },
@@ -78,7 +78,7 @@
       "sector": "Agricultură",
       "n_companii": 73,
       "cifra_afaceri_totala": 3610300852.0,
-      "contracte_totale": 1838193.0,
+      "contracte_totale": 1514073.0,
       "salariati": 15402,
       "procent_stat_mediu": null
     },

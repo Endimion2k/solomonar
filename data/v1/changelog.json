@@ -1,9 +1,5411 @@
 {
-  "generat": "2026-11-20",
+  "generat": "2026-11-22",
   "are_baza_anterioara": true,
-  "n_persoane_monitorizate": 109624,
-  "n_persoane_noi": 0,
-  "n_modificari": 0,
-  "persoane_noi": [],
-  "modificari": []
+  "n_persoane_monitorizate": 116497,
+  "n_persoane_noi": 2225,
+  "n_modificari": 16102,
+  "persoane_noi": [
+    {
+      "romega_id": "g:f0352cc2690f8bcd",
+      "nume": "Anamaria Busuioc Florina",
+      "contracte_ron": 6774869,
+      "n_companii": 15,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:85ead61d962692a3",
+      "nume": "Company Ipurl Management",
+      "contracte_ron": 114318531,
+      "n_companii": 5,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:28c5a16ae6509729",
+      "nume": "Jurubita Ramona",
+      "contracte_ron": 50051341,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:258957e8a97d4e9f",
+      "nume": "Baciu Rodica",
+      "contracte_ron": 4104477,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a557720207767273",
+      "nume": "Nicolae Ovidiu Palea",
+      "contracte_ron": 400000,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c6f37aa49a241ea0",
+      "nume": "Csaba Niomati Robert",
+      "contracte_ron": 1331000,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e25c3adf6f9341e7",
+      "nume": "Berindean Denis Razvan",
+      "contracte_ron": 3334079,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:39a3f158d3e9ebdc",
+      "nume": "Catalin Pintea",
+      "contracte_ron": 3334079,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:910d82231a8e7a36",
+      "nume": "Coroama Lacrimioara Olguta",
+      "contracte_ron": 1131318,
+      "n_companii": 4,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:d981a4a05e9a64e6",
+      "nume": "Consulting Ipurl Vizal",
+      "contracte_ron": 17716270,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:72684ea9771d5899",
+      "nume": "Bogdan Ion",
+      "contracte_ron": 36130101,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4d7bba37d3535da1",
+      "nume": "Cezar Furtuna Gabriel",
+      "contracte_ron": 49043741,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:21b0bfce5d56bf1d",
+      "nume": "Mihaita Verbita",
+      "contracte_ron": 11509909,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6c6b48d6215e03c4",
+      "nume": "Insolv Practice Prime Sprl",
+      "contracte_ron": 633333,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1f4fd8f2513512a0",
+      "nume": "Druga Mihaela",
+      "contracte_ron": 3465090,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8b409c08026bc151",
+      "nume": "Carnu Casapu Daniela",
+      "contracte_ron": 3465090,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4d1419fc32254493",
+      "nume": "Cristian Maier Tiberiu",
+      "contracte_ron": 3465090,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:eef86a0ad4b821d8",
+      "nume": "Alexandru Crestin Dumitru",
+      "contracte_ron": 8444628,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:ca5d6381ec75b6bf",
+      "nume": "Calarasi Cc Filiala Insol Sprl",
+      "contracte_ron": 1399999,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e932c2bd75e284f3",
+      "nume": "Ivanov Lucian",
+      "contracte_ron": 675905,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7df37402d1a11e1c",
+      "nume": "Gherghe Vlad",
+      "contracte_ron": 2340704,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9ac217a463626eb2",
+      "nume": "George Lidichiu Mihai",
+      "contracte_ron": 29956514,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:506230183e89ba7f",
+      "nume": "Dorinel Gheorghe Mironescu",
+      "contracte_ron": 38367290,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:f17f1b319ddb26c1",
+      "nume": "Catalin Gabriel Ganea",
+      "contracte_ron": 10744541,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2de0ee9595ef5988",
+      "nume": "Diaconu Laurentiu",
+      "contracte_ron": 2454112,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7875d15dda41ae7a",
+      "nume": "Anamaria Luca Sigina",
+      "contracte_ron": 1241883,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:56acc955d5af0a22",
+      "nume": "Adrian Moldovan Nelu",
+      "contracte_ron": 28684913,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:20273e9c38248216",
+      "nume": "Coca Constantin Ovidiu",
+      "contracte_ron": 28684913,
+      "n_companii": 3,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:ab330d2509b1214f",
+      "nume": "Carina Jasmin Schwarz",
+      "contracte_ron": 355861893,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:ef74f2d2c005a5fb",
+      "nume": "Alina Rus",
+      "contracte_ron": 10724764,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6b9e9286be8ddc3e",
+      "nume": "Bradu Cozmin",
+      "contracte_ron": 30307024,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:77bd50095688359f",
+      "nume": "Luscan Manuel",
+      "contracte_ron": 1882270,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:148e33bb9d5c775e",
+      "nume": "Ceapchie Nicolae",
+      "contracte_ron": 2953166,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:10152bb2b087d591",
+      "nume": "George Ionita",
+      "contracte_ron": 1937146,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1ffa6b9f49518cb9",
+      "nume": "Euro Insol Sprl",
+      "contracte_ron": 17716270,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c6236fdaab471c4a",
+      "nume": "Alexandr Milcev",
+      "contracte_ron": 10485096,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7fb81f87b266b2d6",
+      "nume": "Alexandra Andreea Costache",
+      "contracte_ron": 518840,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7b03fdf43904eb99",
+      "nume": "Aura Giurcaneanu Stefana",
+      "contracte_ron": 45418421,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:86c5527f82f60bf3",
+      "nume": "Horatiu Mihai Mihali",
+      "contracte_ron": 45418421,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e96e365d157cc91e",
+      "nume": "Paula Raluca Soare",
+      "contracte_ron": 45418421,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:39a934cda7aeedb1",
+      "nume": "Dan George Ofrim",
+      "contracte_ron": 12400444,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3a85401b3edf3b2f",
+      "nume": "Bobeico Marc",
+      "contracte_ron": 13643970,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0ba64e99c1955e23",
+      "nume": "Didica Dolea",
+      "contracte_ron": 2050288,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4aeb4643a9570295",
+      "nume": "Dobrica Ionela Simionca Viorela",
+      "contracte_ron": 138664104,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5f0f8cc47003d75e",
+      "nume": "Carmen Elena Gugosa",
+      "contracte_ron": 10131096,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:31e4e370907e5293",
+      "nume": "Bercea Ciprian George",
+      "contracte_ron": 10131096,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:81de2cd25b6cf38f",
+      "nume": "Andrei Rosulescu Traian",
+      "contracte_ron": 524713492,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:29b6a639fe5e1ae2",
+      "nume": "Costel Gabriel Olteanu",
+      "contracte_ron": 6046604,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2d55e6c9bac36003",
+      "nume": "Ciolcan Dana Mihaela",
+      "contracte_ron": 192463984,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8a13331b9bcc031a",
+      "nume": "Constantin Ioane Victor",
+      "contracte_ron": 22315657,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:f2e384f7e009bb5f",
+      "nume": "Flavia Gules Lorena",
+      "contracte_ron": 143104,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9c9d098acee013aa",
+      "nume": "Ionut Mateescu",
+      "contracte_ron": 4507443022,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3d307bf0bf4451cc",
+      "nume": "Radu Stincescu",
+      "contracte_ron": 1327691,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:28c20418839be59f",
+      "nume": "Mihaela Mitescu",
+      "contracte_ron": 1327691,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6698eba7cf479cd1",
+      "nume": "Cretiu Ilie",
+      "contracte_ron": 273780,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6bfb58ac206780d8",
+      "nume": "Constantin Florin Purghel",
+      "contracte_ron": 2845782,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:f92d87bc689abd96",
+      "nume": "Alexandru Marina Viorel",
+      "contracte_ron": 41487682,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:36fa3c2554a9e70c",
+      "nume": "Dorin Lazar Octavian",
+      "contracte_ron": 345128,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8a4fc680a46f9af0",
+      "nume": "Florina Mindu",
+      "contracte_ron": 1067557,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4a7b86a843caec54",
+      "nume": "Bogdan Roman Victor",
+      "contracte_ron": 11574216,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6c4f0a5a73d65695",
+      "nume": "Nicolae Tudor",
+      "contracte_ron": 292504,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7afe7131fa82ac03",
+      "nume": "Cristian Trestianu",
+      "contracte_ron": 5195746,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7d34ea011b33ab59",
+      "nume": "Alin Andrei Haret",
+      "contracte_ron": 1891607,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:abe79a0afbff0b3a",
+      "nume": "Mugurel Stancu",
+      "contracte_ron": 130483143,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6255f5f5bb0ca9c3",
+      "nume": "Ionut Lazar",
+      "contracte_ron": 529652,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4b2b5554c3cf534b",
+      "nume": "Dan Iulius Plaveti",
+      "contracte_ron": 360555864,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:eb86f021a9ed1afd",
+      "nume": "Adrian Dragomir Vasile",
+      "contracte_ron": 10562603,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:71eb90ef1bbd690f",
+      "nume": "Dobre Liviu",
+      "contracte_ron": 70680892,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b1c40c66499eafee",
+      "nume": "Dorin Matei Oliviu",
+      "contracte_ron": 8368984,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:064f603045a4d796",
+      "nume": "Aurel Sendroni",
+      "contracte_ron": 219000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b292fdbf21f43760",
+      "nume": "Melinda Torok",
+      "contracte_ron": 1696433,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1f72cec1ba9724d5",
+      "nume": "Balinisteanu Cezar Ionut",
+      "contracte_ron": 14456390,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6d5df11ddf744929",
+      "nume": "Csaba Nyulas",
+      "contracte_ron": 2352847,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5566ef549bc4dd8d",
+      "nume": "Constantin Razvan Vasilescu",
+      "contracte_ron": 24400,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:d952a3f33d6cfb16",
+      "nume": "Bobeica Dorian Laurentiu",
+      "contracte_ron": 845379,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7bbd4576330ca984",
+      "nume": "Gilceava Marius Teofil",
+      "contracte_ron": 21982778,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:071604f44f3fac0f",
+      "nume": "Andreea Colibaba Diana",
+      "contracte_ron": 22006707,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9acf848aaa703ab2",
+      "nume": "Bidasca Marian",
+      "contracte_ron": 785145,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:fb4684cc7dfc8780",
+      "nume": "Amuraritei Dan",
+      "contracte_ron": 1205649198,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5ab48b3472caac38",
+      "nume": "Ciobanu Dimitrie Laurian",
+      "contracte_ron": 8845250,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:025b4b058368504f",
+      "nume": "Gheorghe Trufasila",
+      "contracte_ron": 324951,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1e62643067e55aa2",
+      "nume": "Mihai Moldovan Virgil",
+      "contracte_ron": 1475101,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:39ad690375c4cff4",
+      "nume": "Marian Mircea Nicolae",
+      "contracte_ron": 1475101,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:11974a6595dd528c",
+      "nume": "Knuth Ramona Rodica Rosca",
+      "contracte_ron": 8791875,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:df0dcf506cbfa9d3",
+      "nume": "Lidia Luminita Manolache",
+      "contracte_ron": 5178848,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e178d3233c343643",
+      "nume": "Alexandru Aurelian Chirita",
+      "contracte_ron": 601535781,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1749aadba5bfe0db",
+      "nume": "Andrei Dan Rotaru",
+      "contracte_ron": 2258490,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:591b2242225f6f56",
+      "nume": "Constantin Giura",
+      "contracte_ron": 141216981,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:796874b6a8b54981",
+      "nume": "Bogdan Florea Liviu",
+      "contracte_ron": 236434162,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:40ca885c762c3b95",
+      "nume": "Alexandru Atanasiu Dragos",
+      "contracte_ron": 4397905,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2bd8bdd350ff9be8",
+      "nume": "Constantin Cristian Poteras",
+      "contracte_ron": 167672052,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:9799a10e053b2a46",
+      "nume": "Daniel Ionel Oprea",
+      "contracte_ron": 1314321,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:634804d8061f5b8f",
+      "nume": "Ciprian Florin Panait",
+      "contracte_ron": 44094232,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6a9e398774cf2796",
+      "nume": "Cezar Romica Serban",
+      "contracte_ron": 51193292,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8341a4d950130524",
+      "nume": "Gromek Kamil",
+      "contracte_ron": 30994490,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5ae50a14596f313d",
+      "nume": "Aldea Gabriel Ianos",
+      "contracte_ron": 422600,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c6122acdeaa266c7",
+      "nume": "Alin Mihail Sevastru",
+      "contracte_ron": 6287667,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:665e437208b9da32",
+      "nume": "Petru Tudorache",
+      "contracte_ron": 19560099,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3be7b059ebc6ed29",
+      "nume": "Florentin Stan",
+      "contracte_ron": 7499752,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a4695abf304bd272",
+      "nume": "Cii Goicea Roxana",
+      "contracte_ron": 14830231,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3b3b278de06c4699",
+      "nume": "Costel Moldoveanu",
+      "contracte_ron": 3559990,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8bba4d6d9b35aa98",
+      "nume": "Florentina Ramona Voinescu",
+      "contracte_ron": 4765701,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:eda4cfcd1965118d",
+      "nume": "Ciobanu Denis Ionut",
+      "contracte_ron": 260000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b550aab7ea61a14d",
+      "nume": "Ciobanu Florentina",
+      "contracte_ron": 260000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6482b932d4bd169b",
+      "nume": "Cristina Popescu",
+      "contracte_ron": 13832728,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:ff78a7b4d382c3b0",
+      "nume": "Avadanei Claudiu Florentin",
+      "contracte_ron": 32408583,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2b114319083dcf70",
+      "nume": "Vasile Vladutoiu",
+      "contracte_ron": 206957048,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4e884cccc0e73f27",
+      "nume": "Gabriel Vlad",
+      "contracte_ron": 140696,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b5ad73eb0bfcef95",
+      "nume": "Grigore Holhos",
+      "contracte_ron": 30733460,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3023f7c0785bb139",
+      "nume": "Andrei Ganea Valeriu",
+      "contracte_ron": 3517197,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a102610c457b58c5",
+      "nume": "Ana Ganea Georgiana",
+      "contracte_ron": 3517197,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:93291d0100cb235b",
+      "nume": "Ivascu Lilian Traian",
+      "contracte_ron": 844687,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:47100d08c982f959",
+      "nume": "Cosman Florian",
+      "contracte_ron": 442338112,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8cce5b4aab3335c4",
+      "nume": "Dumitru Ioan",
+      "contracte_ron": 8575250,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a658e6172334f580",
+      "nume": "Cristina Monica Stef",
+      "contracte_ron": 2281087,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:da31f9967af68c99",
+      "nume": "Insolvency Ipurl",
+      "contracte_ron": 81,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:36cfcf5df741a62b",
+      "nume": "Blanaru Catalin Marian",
+      "contracte_ron": 1697972,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6e69b0f44057a301",
+      "nume": "Centrala De Divizia Insolventa Sprl",
+      "contracte_ron": 8928044,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6d822764a598e551",
+      "nume": "Cornel Mihalcea Silviu",
+      "contracte_ron": 158310138,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:fbadd638429062ff",
+      "nume": "Anghel Mihai",
+      "contracte_ron": 396540,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2619cf1396640011",
+      "nume": "Daniel Tudor",
+      "contracte_ron": 396540,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a19a2783fc8b5e9a",
+      "nume": "Marius Precu",
+      "contracte_ron": 4590792,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3c34bee586beca3f",
+      "nume": "Coman Crudu Mirela Valerica",
+      "contracte_ron": 157892790,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7a343e695d83673d",
+      "nume": "Cirlan Constantin Remus",
+      "contracte_ron": 56500,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b1d7a14a83ad90f3",
+      "nume": "Ionut Tudoroiu",
+      "contracte_ron": 25845930,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5ee189724dbf8d6e",
+      "nume": "Ionescu Marius",
+      "contracte_ron": 475000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e42037f8bc9bf17d",
+      "nume": "Lucian Soveja",
+      "contracte_ron": 19182371,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:8d369ca4c1d23936",
+      "nume": "Andrei Grigoras Ion",
+      "contracte_ron": 78732,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:bdd2b0abcbe1bcdf",
+      "nume": "Eugen Handra Rodanim",
+      "contracte_ron": 698197,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4e46249c6787f9fb",
+      "nume": "Aurelia Sanislav",
+      "contracte_ron": 11538494,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:757ea04e9ee81be8",
+      "nume": "Business Partners Restructuring Sprl",
+      "contracte_ron": 105984140,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0d6f7aa063de314d",
+      "nume": "Asavei Cristian Ionut",
+      "contracte_ron": 366950,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:74f8ff143362b1d9",
+      "nume": "Eurobusiness Lrj Sprl",
+      "contracte_ron": 12712852,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6d14e81aae5372a4",
+      "nume": "Istvan Nyika",
+      "contracte_ron": 33461409,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:707e46d6b9964b1d",
+      "nume": "Aron Udvari",
+      "contracte_ron": 33461409,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:559ac21c205a5bf8",
+      "nume": "Gheorghe Nistor Petreus",
+      "contracte_ron": 1014136,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:39137d0a5e8e4873",
+      "nume": "Cosmin Covrig",
+      "contracte_ron": 1311373,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:dada90fcac325886",
+      "nume": "Cina Mihai",
+      "contracte_ron": 250000,
+      "n_companii": 2,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:eeb1265c334f4dc6",
+      "nume": "Alexandru Butmi Catman De Valentin Vasile",
+      "contracte_ron": 51100,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5eee4c8bca0f977b",
+      "nume": "Dorian Macrea",
+      "contracte_ron": 51100,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:ec88db0973d6885b",
+      "nume": "Chiriacescu Mihaela Roxana",
+      "contracte_ron": 51100,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e5e8aedeaea9cf34",
+      "nume": "Silviu Stratulat",
+      "contracte_ron": 3296075263,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0cb89a23804f40db",
+      "nume": "Catalina Neacsu",
+      "contracte_ron": 3296075263,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:97878e8c5640d33a",
+      "nume": "Dorobantu Dumitru George",
+      "contracte_ron": 3296075263,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c12af27408b07453",
+      "nume": "Fara Reprezentant",
+      "contracte_ron": 707502,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:abbd8a60cb710662",
+      "nume": "Cocheci Matei Radu",
+      "contracte_ron": 199000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4f39b3092a3415ac",
+      "nume": "Andrei Calin Zincenco",
+      "contracte_ron": 3610888,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:71c5a5aa56454209",
+      "nume": "Raul Ritter Stefan",
+      "contracte_ron": 554802,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a1142adc4edffa25",
+      "nume": "Insolv Ipurl Prompt",
+      "contracte_ron": 20717367,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7e42ada608d319e0",
+      "nume": "Burtescu Claudia Lucretia",
+      "contracte_ron": 251333742,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:84f7239349549870",
+      "nume": "Arsureanu Dan Ilie",
+      "contracte_ron": 320000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:36ba5e371f322928",
+      "nume": "Ferenc Szigeti",
+      "contracte_ron": 6125296,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6bc5426220d964ca",
+      "nume": "Drummen Ludwig Martin",
+      "contracte_ron": 6125296,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:563808390af226dc",
+      "nume": "Bonta Dan Silviu",
+      "contracte_ron": 509821225,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:e6b9e5d79a9c85c4",
+      "nume": "Alexandru Ghircoias",
+      "contracte_ron": 257240,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:727283ad6ee49ff4",
+      "nume": "Imola Kirizsan",
+      "contracte_ron": 194500,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b74cffc9558601aa",
+      "nume": "Hetea Ioan",
+      "contracte_ron": 2175376,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:402993ae7537e21b",
+      "nume": "Hanga Radu",
+      "contracte_ron": 78705545,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:86eb166470ca9820",
+      "nume": "Adrian Colomar Jan",
+      "contracte_ron": 197729767,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5030a9c92ca3b7d2",
+      "nume": "Jeffery Smith",
+      "contracte_ron": 50942,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c3d7c3503da244a5",
+      "nume": "Cristina Omacini",
+      "contracte_ron": 111022738,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b6f32edca79a37fd",
+      "nume": "Bartenieff Cecile Dansaert",
+      "contracte_ron": 27605987,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:c6fa59a1d3309ac1",
+      "nume": "Baiculescu Cerasela Venera",
+      "contracte_ron": 52401704,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:07a9d917e7077cc2",
+      "nume": "Enache Fanel",
+      "contracte_ron": 52401704,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b8184d72fd56b74c",
+      "nume": "Florin Pascu",
+      "contracte_ron": 48819260,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b3988c9b45e4d97f",
+      "nume": "Daniel Liviu Rotaru",
+      "contracte_ron": 71202,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3aaa1a0ddddef592",
+      "nume": "Chirita Coleta Mihaela",
+      "contracte_ron": 53009006,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3f7b82d6511028dd",
+      "nume": "Ducarroz Julien",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:db7aa40550f3d72c",
+      "nume": "Bogdan Laurentiu Voicu",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:1d2a891688e00a05",
+      "nume": "Adela Guedon Irinel",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0d60a60de235d346",
+      "nume": "Alin Demian Ioan",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:bfd7cf159275460d",
+      "nume": "Jego Laveissiere Marie Noelle",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7164d4bf88da14f8",
+      "nume": "Christian Luginbuhl",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:0f46c0202b5ee5c2",
+      "nume": "Bogdan Dumea Mihai",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:13cdba8ea291660a",
+      "nume": "Clarisse Dubreuil Heriard",
+      "contracte_ron": 322430715,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:921d4ee35863792e",
+      "nume": "Bozian Ciprian",
+      "contracte_ron": 291125141,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:5b8f7d5d7917bf2b",
+      "nume": "Anghel Gabriela",
+      "contracte_ron": 291125141,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:2e88718d0c4fa2ec",
+      "nume": "Mircea Stoian",
+      "contracte_ron": 291125141,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:6784381b89a1976f",
+      "nume": "Iancu Laura Maria",
+      "contracte_ron": 14582236725,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:23f216d078c60031",
+      "nume": "Ionel Paunescu",
+      "contracte_ron": 12828610,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:433db6c8135c8c52",
+      "nume": "Mihalache Radu",
+      "contracte_ron": 39977360,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4166bec424ce3172",
+      "nume": "Kinda Laszlo",
+      "contracte_ron": 115877,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:46f045fac7bd1faa",
+      "nume": "Asztalos Endre",
+      "contracte_ron": 115877,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:62fb59f75cbdc685",
+      "nume": "Elena Hrimiuc",
+      "contracte_ron": 2858000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:06bb3317632bf41e",
+      "nume": "Aykut Ibrahim Ozuner",
+      "contracte_ron": 21700000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:f2aa1a4be04cb0a5",
+      "nume": "Sedef Ugur Vehbi",
+      "contracte_ron": 21700000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b23c9232777e7217",
+      "nume": "Haydar Yenigun",
+      "contracte_ron": 21700000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:40617b9a0f86b67a",
+      "nume": "Bularda Carmen",
+      "contracte_ron": 674798,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7fed0d6ddb66ff79",
+      "nume": "Green Project Riv Srl",
+      "contracte_ron": 23018281,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:4b843532fdcc07d0",
+      "nume": "Ratoi Viorel",
+      "contracte_ron": 23018281,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b3b689178c831a60",
+      "nume": "Liliana Patrascu",
+      "contracte_ron": 501683,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:a5c9f100409b8ebc",
+      "nume": "Dan Marian",
+      "contracte_ron": 501683,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:611a2d577232e496",
+      "nume": "Andrei Dovgani",
+      "contracte_ron": 501683,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:48a56553ea2f13fb",
+      "nume": "Rares Totolici Vasile",
+      "contracte_ron": 103485,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:b44e7f04a1bc7c7d",
+      "nume": "Ceres Insolv Sprl",
+      "contracte_ron": 3267000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:f785f0d19bd88969",
+      "nume": "Ds Insolv Sprl",
+      "contracte_ron": 3267000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:7a7ca53c8ce06f53",
+      "nume": "Dan Nicolae Obadau",
+      "contracte_ron": 3267000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:daea0fa8cb147d55",
+      "nume": "Daniela Pop Sorina",
+      "contracte_ron": 3267000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:fa4554ef23223e93",
+      "nume": "Drula Mihai",
+      "contracte_ron": 3267000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    },
+    {
+      "romega_id": "g:3af90c3e4537f32e",
+      "nume": "Alexandru Schmidt Victor",
+      "contracte_ron": 3267000,
+      "n_companii": 1,
+      "n_declaratii": 0
+    }
+  ],
+  "modificari": [
+    {
+      "romega_id": "g:df62e467c0529b60",
+      "nume": "Anthony Gorsuch Joseph Richard",
+      "camp": "contracte de stat (lei)",
+      "vechi": 130703702497,
+      "nou": 7141080194,
+      "delta": -123562622303
+    },
+    {
+      "romega_id": "g:60a07887e725c682",
+      "nume": "Emilian Trasnea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 130703702497,
+      "nou": 7141080194,
+      "delta": -123562622303
+    },
+    {
+      "romega_id": "g:3aeb7f320a2d33f1",
+      "nume": "George Iulian Trandafir",
+      "camp": "contracte de stat (lei)",
+      "vechi": 130703702497,
+      "nou": 7141080194,
+      "delta": -123562622303
+    },
+    {
+      "romega_id": "g:7f175fd600805977",
+      "nume": "Hans Wallisch Wolfgang",
+      "camp": "contracte de stat (lei)",
+      "vechi": 104331287986,
+      "nou": 1871310466,
+      "delta": -102459977520
+    },
+    {
+      "romega_id": "g:6d44850769192fa3",
+      "nume": "Seidel Sven",
+      "camp": "contracte de stat (lei)",
+      "vechi": 104331287986,
+      "nou": 1871310466,
+      "delta": -102459977520
+    },
+    {
+      "romega_id": "g:865f38fdfd02c6d4",
+      "nume": "Freitag Marcus",
+      "camp": "contracte de stat (lei)",
+      "vechi": 104331287986,
+      "nou": 1871310466,
+      "delta": -102459977520
+    },
+    {
+      "romega_id": "g:9deea5393ec5b049",
+      "nume": "Joachim Sowada",
+      "camp": "contracte de stat (lei)",
+      "vechi": 104331287986,
+      "nou": 1871310466,
+      "delta": -102459977520
+    },
+    {
+      "romega_id": "g:7c8c21dbd4ad5846",
+      "nume": "Carsten Sauerland",
+      "camp": "contracte de stat (lei)",
+      "vechi": 104331287986,
+      "nou": 1871310466,
+      "delta": -102459977520
+    },
+    {
+      "romega_id": "g:722be0aa98458288",
+      "nume": "Consulting Zacman",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:e0cb2545f26e195e",
+      "nume": "Adkit Serv Srl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:1862785d3c15b6a8",
+      "nume": "Consulting Finance Tech",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:d6adbac87e60881e",
+      "nume": "Chita Dan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:3fefe482ccc08a63",
+      "nume": "Camelia Naciadi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:323b9d87b071541f",
+      "nume": "Marius Puica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:46c0e54396ca494d",
+      "nume": "Ionel Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:1d8a66e100f1b927",
+      "nume": "Bianca Cristina Grama",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:d744508d23ae1915",
+      "nume": "Cezar Constantin Zaharia",
+      "camp": "contracte de stat (lei)",
+      "vechi": 100936943202,
+      "nou": 4295829605,
+      "delta": -96641113597
+    },
+    {
+      "romega_id": "g:b3739cbb368989f9",
+      "nume": "Cristian Erbasu Romeo",
+      "camp": "contracte de stat (lei)",
+      "vechi": 77303367211,
+      "nou": 14621494475,
+      "delta": -62681872736
+    },
+    {
+      "romega_id": "g:0ce542a57ec34c6f",
+      "nume": "Erbasu Ion",
+      "camp": "contracte de stat (lei)",
+      "vechi": 77250827694,
+      "nou": 14587277778,
+      "delta": -62663549916
+    },
+    {
+      "romega_id": "g:61a1a8b4098eee78",
+      "nume": "Alexandru Erbasu Marius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 77234987370,
+      "nou": 14582236725,
+      "delta": -62652750645
+    },
+    {
+      "romega_id": "g:7e915b306bf5bd0b",
+      "nume": "Beniamin Catalin Visan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 65641651648,
+      "nou": 4449057159,
+      "delta": -61192594489
+    },
+    {
+      "romega_id": "g:32f637d65bc5329c",
+      "nume": "Daniel Piturlea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 61214586493,
+      "nou": 3203579812,
+      "delta": -58011006681
+    },
+    {
+      "romega_id": "g:506ecfb464ff7c0a",
+      "nume": "Adina Iordache Liliana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 57142043095,
+      "nou": 1726739684,
+      "delta": -55415303411
+    },
+    {
+      "romega_id": "g:8442ba2a42314294",
+      "nume": "Alexandru Doicescu Lucian Raul",
+      "camp": "contracte de stat (lei)",
+      "vechi": 55486281094,
+      "nou": 4725133591,
+      "delta": -50761147503
+    },
+    {
+      "romega_id": "g:5d2224cf8ec641d6",
+      "nume": "Greu Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 55486281094,
+      "nou": 4725133591,
+      "delta": -50761147503
+    },
+    {
+      "romega_id": "g:2d5a79ebb4eeeec1",
+      "nume": "Aldea Catalin Doru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 51939181227,
+      "nou": 4306361314,
+      "delta": -47632819913
+    },
+    {
+      "romega_id": "g:68e6140ce8e1b875",
+      "nume": "Bunea Daniel Traian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 51939181227,
+      "nou": 4306361314,
+      "delta": -47632819913
+    },
+    {
+      "romega_id": "g:484316c0b3499594",
+      "nume": "Equinox Vr",
+      "camp": "contracte de stat (lei)",
+      "vechi": 43653060567,
+      "nou": 1707701682,
+      "delta": -41945358885
+    },
+    {
+      "romega_id": "g:66459397f8c56e88",
+      "nume": "Florentina Marina Predut",
+      "camp": "contracte de stat (lei)",
+      "vechi": 43653060567,
+      "nou": 1707701682,
+      "delta": -41945358885
+    },
+    {
+      "romega_id": "g:d3453705d3a175be",
+      "nume": "Cornelia Georgescu Nirvana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 25447029856,
+      "nou": 110966604,
+      "delta": -25336063252
+    },
+    {
+      "romega_id": "g:6c6cc1e724675865",
+      "nume": "Chreih Constantin Fady",
+      "camp": "contracte de stat (lei)",
+      "vechi": 25447029856,
+      "nou": 110966604,
+      "delta": -25336063252
+    },
+    {
+      "romega_id": "g:b0663883f18e4ed8",
+      "nume": "Hadi Rahimian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 25447029856,
+      "nou": 110966604,
+      "delta": -25336063252
+    },
+    {
+      "romega_id": "g:535629e58f6d9e5f",
+      "nume": "Andu Catalin Copaescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 25447029856,
+      "nou": 110966604,
+      "delta": -25336063252
+    },
+    {
+      "romega_id": "g:820c842461c04b14",
+      "nume": "Cristinel Gheorghiu Ioan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 25308554548,
+      "nou": 116983,
+      "delta": -25308437565
+    },
+    {
+      "romega_id": "g:e7c17035f68d4585",
+      "nume": "Eleonora Gheorghiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 25308506859,
+      "nou": 69294,
+      "delta": -25308437565
+    },
+    {
+      "romega_id": "g:42498e6d37f06a16",
+      "nume": "Alina Nunu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 30184904155,
+      "nou": 6034306576,
+      "delta": -24150597579
+    },
+    {
+      "romega_id": "g:d61068af73ef79db",
+      "nume": "Alina Nunu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 30184904155,
+      "nou": 6034306576,
+      "delta": -24150597579
+    },
+    {
+      "romega_id": "g:d90cb6639950219a",
+      "nume": "Bunghiuz Cornel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 30184904155,
+      "nou": 6034306576,
+      "delta": -24150597579
+    },
+    {
+      "romega_id": "g:f02e8818aa23c5d1",
+      "nume": "Duta Francoise Zadio",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21328940987,
+      "nou": 540185206,
+      "delta": -20788755781
+    },
+    {
+      "romega_id": "g:2ff0e9962ead92a8",
+      "nume": "Capital First Ipurl Solution",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21042564363,
+      "nou": 330590970,
+      "delta": -20711973393
+    },
+    {
+      "romega_id": "g:28be64a21809fc25",
+      "nume": "Alexandru Cezar Coman",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21042564363,
+      "nou": 330590970,
+      "delta": -20711973393
+    },
+    {
+      "romega_id": "g:a20e207a5bf229d7",
+      "nume": "Liviu Nitescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21042564363,
+      "nou": 330590970,
+      "delta": -20711973393
+    },
+    {
+      "romega_id": "g:691e6e2b1f15b8e7",
+      "nume": "Ionel Vamesu Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21042564363,
+      "nou": 330590970,
+      "delta": -20711973393
+    },
+    {
+      "romega_id": "g:fae30de2d68cc6be",
+      "nume": "Ioana Toma",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21042564363,
+      "nou": 330590970,
+      "delta": -20711973393
+    },
+    {
+      "romega_id": "g:599d2ef28400327d",
+      "nume": "Ecaterina Zahortea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21547795579,
+      "nou": 896029740,
+      "delta": -20651765839
+    },
+    {
+      "romega_id": "g:b1f56212c0f19be9",
+      "nume": "Bogdan Flaviu Furdui",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21547795579,
+      "nou": 896029740,
+      "delta": -20651765839
+    },
+    {
+      "romega_id": "g:1433e057f4e87e7c",
+      "nume": "Dumitru Oana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21547795579,
+      "nou": 896029740,
+      "delta": -20651765839
+    },
+    {
+      "romega_id": "g:59f68a9079097d0b",
+      "nume": "Flaminiu Ionut Nicula",
+      "camp": "contracte de stat (lei)",
+      "vechi": 21547795579,
+      "nou": 896029740,
+      "delta": -20651765839
+    },
+    {
+      "romega_id": "g:728a884e67e89068",
+      "nume": "Angela Elena Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:fbb67812d06feba0",
+      "nume": "Bucur Maria Monica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:70ffeaaab32d87a1",
+      "nume": "Serbanescu Silvian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:3010f2aca7315b7b",
+      "nume": "Marcu Victor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:57750f0408aa2501",
+      "nume": "Dumitru Sorescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:30b49773922d3914",
+      "nume": "Cristian Dinu Mugurel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:ca4f0654518b7081",
+      "nume": "Claudiu Nicolae Radulescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:a2294613210616b2",
+      "nume": "Ionel Pepenica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:9d0d3b261ba84a22",
+      "nume": "Andrei Radulescu Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:b048331f0f6039fb",
+      "nume": "Alexandru Cornel Ivanescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 20592047581,
+      "nou": 395086794,
+      "delta": -20196960787
+    },
+    {
+      "romega_id": "g:153b2517c5be5bf2",
+      "nume": "Darie Iulia Raluca",
+      "camp": "contracte de stat (lei)",
+      "vechi": 19798588574,
+      "nou": 220112617,
+      "delta": -19578475957
+    },
+    {
+      "romega_id": "g:7105174255a5e133",
+      "nume": "Dumitru Ioan Ovidiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 18911898256,
+      "nou": 606422273,
+      "delta": -18305475983
+    },
+    {
+      "romega_id": "g:46d9afa6ba89a98d",
+      "nume": "Miorita Videanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17980651289,
+      "nou": 328144850,
+      "delta": -17652506439
+    },
+    {
+      "romega_id": "g:5dbcdf595020e128",
+      "nume": "Catalin Codan Danut",
+      "camp": "contracte de stat (lei)",
+      "vechi": 18197086532,
+      "nou": 640783787,
+      "delta": -17556302745
+    },
+    {
+      "romega_id": "g:2fc3784083a5d2d4",
+      "nume": "Cristina Elena Ranzburg",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17523152597,
+      "nou": 148559586,
+      "delta": -17374593011
+    },
+    {
+      "romega_id": "g:2804822dbfb3e945",
+      "nume": "Elena Mihaela Neagu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17523152597,
+      "nou": 148559586,
+      "delta": -17374593011
+    },
+    {
+      "romega_id": "g:e82cf3e6b89e4656",
+      "nume": "Halcyon Management Srl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17618156989,
+      "nou": 348714069,
+      "delta": -17269442920
+    },
+    {
+      "romega_id": "g:9fd2982f77ae0da7",
+      "nume": "Cristian Marinel Mihai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17618156989,
+      "nou": 348714069,
+      "delta": -17269442920
+    },
+    {
+      "romega_id": "g:bacab44bd27ca08b",
+      "nume": "Andrei Cristian Lupu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17618156989,
+      "nou": 348714069,
+      "delta": -17269442920
+    },
+    {
+      "romega_id": "g:45a0fd9cd0e3a5cc",
+      "nume": "Burada Ecaterina Nicoleta",
+      "camp": "contracte de stat (lei)",
+      "vechi": 17618156989,
+      "nou": 348714069,
+      "delta": -17269442920
+    },
+    {
+      "romega_id": "g:3e37d648a6605297",
+      "nume": "Ana Oprea Somarlea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16919628071,
+      "nou": 265963285,
+      "delta": -16653664786
+    },
+    {
+      "romega_id": "g:27bfd890951128cb",
+      "nume": "Ivan Liviu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16919628071,
+      "nou": 448549530,
+      "delta": -16471078541
+    },
+    {
+      "romega_id": "g:72a6b2397d5ab293",
+      "nume": "Andrei Condrea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16919628071,
+      "nou": 448549530,
+      "delta": -16471078541
+    },
+    {
+      "romega_id": "g:134744e56091efdc",
+      "nume": "Catalin Gruianu Valentin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16919628071,
+      "nou": 448549530,
+      "delta": -16471078541
+    },
+    {
+      "romega_id": "g:e400e174df300565",
+      "nume": "Casa Citr De Fosta Insolventa Sprl Transilvania",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16408481353,
+      "nou": 129482723,
+      "delta": -16278998630
+    },
+    {
+      "romega_id": "g:82cf8e1b614a5015",
+      "nume": "Cornel Dogaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16408481353,
+      "nou": 129482723,
+      "delta": -16278998630
+    },
+    {
+      "romega_id": "g:73625132966517cd",
+      "nume": "Adrian Budacu George",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16215610947,
+      "nou": 21640038,
+      "delta": -16193970909
+    },
+    {
+      "romega_id": "g:2320cda7291ff268",
+      "nume": "Cosmin Ghita Valentin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16102554430,
+      "nou": 31387613,
+      "delta": -16071166817
+    },
+    {
+      "romega_id": "g:e9fccc167065fe4b",
+      "nume": "Porojan Vali",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16076649064,
+      "nou": 12646488,
+      "delta": -16064002576
+    },
+    {
+      "romega_id": "g:8e3596786e135506",
+      "nume": "Nicolae Preda",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16156016543,
+      "nou": 112261892,
+      "delta": -16043754651
+    },
+    {
+      "romega_id": "g:de68103aca6ed698",
+      "nume": "Lucian Ninoiu Petrisor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16412775597,
+      "nou": 469466776,
+      "delta": -15943308821
+    },
+    {
+      "romega_id": "g:e524bc9109efd6cb",
+      "nume": "Daniel Pirpiliu Stefan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 15040190457,
+      "nou": 145549946,
+      "delta": -14894640511
+    },
+    {
+      "romega_id": "g:fbe2737b92bef332",
+      "nume": "Costel Nica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14891833927,
+      "nou": 182586245,
+      "delta": -14709247682
+    },
+    {
+      "romega_id": "g:c3687cb061a07a00",
+      "nume": "Iancu Marius Petrica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14891833927,
+      "nou": 182586245,
+      "delta": -14709247682
+    },
+    {
+      "romega_id": "g:4772300be5c9ec6e",
+      "nume": "Andreea Biota Monica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14891833927,
+      "nou": 182586245,
+      "delta": -14709247682
+    },
+    {
+      "romega_id": "g:ec5770cd8379b7e3",
+      "nume": "Banciu Eugen Marcel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14891833927,
+      "nou": 182586245,
+      "delta": -14709247682
+    },
+    {
+      "romega_id": "g:3d99a96009d218d4",
+      "nume": "Aldea Ioana Maria Radu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14891833927,
+      "nou": 182586245,
+      "delta": -14709247682
+    },
+    {
+      "romega_id": "g:7cb841e38e006ea8",
+      "nume": "Cosmin Nicolae Savulescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14891833927,
+      "nou": 182586245,
+      "delta": -14709247682
+    },
+    {
+      "romega_id": "g:19e88b482969f2c2",
+      "nume": "Cezarina Dragomir Paula",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16776996478,
+      "nou": 3067190047,
+      "delta": -13709806431
+    },
+    {
+      "romega_id": "g:42fe2c44146eeb41",
+      "nume": "Crijanovschi Radion",
+      "camp": "contracte de stat (lei)",
+      "vechi": 16776996478,
+      "nou": 3067190047,
+      "delta": -13709806431
+    },
+    {
+      "romega_id": "g:bae094f4fe598856",
+      "nume": "Albert Attila",
+      "camp": "contracte de stat (lei)",
+      "vechi": 13671152602,
+      "nou": 300195585,
+      "delta": -13370957017
+    },
+    {
+      "romega_id": "g:0594584e21961ac6",
+      "nume": "Ciulei Daniela",
+      "camp": "contracte de stat (lei)",
+      "vechi": 13671152602,
+      "nou": 300195585,
+      "delta": -13370957017
+    },
+    {
+      "romega_id": "g:333e6b0fc320c791",
+      "nume": "Consulting Finance Srl Tech",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:746079ccd87c5637",
+      "nume": "Advice Srl Target",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:75597e7b91fd2129",
+      "nume": "Adkit Serv Srl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:f7cae43fb9d1fc8f",
+      "nume": "Consulting Srl Zacman",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:8702ba61bc32b3cb",
+      "nume": "Cristian Mirica Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:ae6661afcc540263",
+      "nume": "Ionel Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:6cc846fd6330e92f",
+      "nume": "Cezar Constantin Zaharia",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:c1d123f1533c1ec4",
+      "nume": "Camelia Naciadi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:9faaef1202bf2f2a",
+      "nume": "Chita Dan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 14674063511,
+      "nou": 2138363289,
+      "delta": -12535700222
+    },
+    {
+      "romega_id": "g:adc0d055ed8f63a5",
+      "nume": "Leonard Mihai Rotaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 15439583633,
+      "nou": 3094365050,
+      "delta": -12345218583
+    },
+    {
+      "romega_id": "g:84b8b8b31d0475aa",
+      "nume": "Ivars Silins",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11906297516,
+      "nou": 442778981,
+      "delta": -11463518535
+    },
+    {
+      "romega_id": "g:556d119be3623559",
+      "nume": "Cristian Rusu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11906297516,
+      "nou": 442778981,
+      "delta": -11463518535
+    },
+    {
+      "romega_id": "g:0733419b41597a1e",
+      "nume": "Cristian Liviu Vasilescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11252656359,
+      "nou": 199393068,
+      "delta": -11053263291
+    },
+    {
+      "romega_id": "g:50ac3d16109841ab",
+      "nume": "Andreescu Niculae",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11252793315,
+      "nou": 306558041,
+      "delta": -10946235274
+    },
+    {
+      "romega_id": "g:49a2327fa9205f72",
+      "nume": "Cristian Plocon",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11645746786,
+      "nou": 922592691,
+      "delta": -10723154095
+    },
+    {
+      "romega_id": "g:f810cc94c419d2b3",
+      "nume": "Mihail Peloiu Robert",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11643676846,
+      "nou": 920522751,
+      "delta": -10723154095
+    },
+    {
+      "romega_id": "g:e04a9d7cc10865c9",
+      "nume": "Ionescu Orlando Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 10364053304,
+      "nou": 291034670,
+      "delta": -10073018634
+    },
+    {
+      "romega_id": "g:3c1cb4c75b6d42f9",
+      "nume": "Anton Petroianu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 10364053304,
+      "nou": 291034670,
+      "delta": -10073018634
+    },
+    {
+      "romega_id": "g:4e0981447b58e235",
+      "nume": "Pintilie Tudor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11454699189,
+      "nou": 2145623202,
+      "delta": -9309075987
+    },
+    {
+      "romega_id": "g:b73f5dcfccf52954",
+      "nume": "Constantin Pintilie",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11454699189,
+      "nou": 2145623202,
+      "delta": -9309075987
+    },
+    {
+      "romega_id": "g:7acc742059d89765",
+      "nume": "Carmen Daniela Pintilie",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11454699189,
+      "nou": 2145623202,
+      "delta": -9309075987
+    },
+    {
+      "romega_id": "g:9f298f026fffddd6",
+      "nume": "Mantu Spiru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 18318392567,
+      "nou": 9153990371,
+      "delta": -9164402196
+    },
+    {
+      "romega_id": "g:f8b0f0fe50cecbde",
+      "nume": "Mantu Mariana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 18318392567,
+      "nou": 9153990371,
+      "delta": -9164402196
+    },
+    {
+      "romega_id": "g:d544ecb88e2e6f9b",
+      "nume": "Huma Mihai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 18318392567,
+      "nou": 9153990371,
+      "delta": -9164402196
+    },
+    {
+      "romega_id": "g:4cc4340213538325",
+      "nume": "Calaras Vitalie",
+      "camp": "contracte de stat (lei)",
+      "vechi": 9195298166,
+      "nou": 216643412,
+      "delta": -8978654754
+    },
+    {
+      "romega_id": "g:063151d8955cb8b5",
+      "nume": "Istodorescu Mircea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 9195298166,
+      "nou": 216643412,
+      "delta": -8978654754
+    },
+    {
+      "romega_id": "g:2f889c3c9b49878d",
+      "nume": "Damian George Radu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8281317242,
+      "nou": 225795720,
+      "delta": -8055521522
+    },
+    {
+      "romega_id": "g:386fe2c08d18f0cc",
+      "nume": "Constantin Panaitescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8646436626,
+      "nou": 648302893,
+      "delta": -7998133733
+    },
+    {
+      "romega_id": "g:697c91a6a2c102d4",
+      "nume": "Gheorghita Gordan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 11489744297,
+      "nou": 3562555522,
+      "delta": -7927188775
+    },
+    {
+      "romega_id": "g:43daf5fd72bc8d49",
+      "nume": "De Ep Hortense Joybert Laparre Marie Saint Sernin Veronique",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8016073848,
+      "nou": 392708101,
+      "delta": -7623365747
+    },
+    {
+      "romega_id": "g:e088815a7143f5ff",
+      "nume": "Ioan Scurtu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 10586476747,
+      "nou": 3151363355,
+      "delta": -7435113392
+    },
+    {
+      "romega_id": "g:5facd12f73e75ad3",
+      "nume": "Lucretia Neluta Scurtu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 10586476747,
+      "nou": 3151363355,
+      "delta": -7435113392
+    },
+    {
+      "romega_id": "g:5addacff7d2980d9",
+      "nume": "Ion Olteanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7685077114,
+      "nou": 344781661,
+      "delta": -7340295453
+    },
+    {
+      "romega_id": "g:92c9eef786d0bdf9",
+      "nume": "Florina Gaura Lenuta",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8065817356,
+      "nou": 731709029,
+      "delta": -7334108327
+    },
+    {
+      "romega_id": "g:5c9174cb2b4f96c7",
+      "nume": "Ionut Manea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7464098047,
+      "nou": 265623470,
+      "delta": -7198474577
+    },
+    {
+      "romega_id": "g:4f1a3861b17913c7",
+      "nume": "Andreea Nicoleta Stefan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7464098047,
+      "nou": 265623470,
+      "delta": -7198474577
+    },
+    {
+      "romega_id": "g:f421e807b04a58bc",
+      "nume": "Constantin Nicuta",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7308046395,
+      "nou": 335146050,
+      "delta": -6972900345
+    },
+    {
+      "romega_id": "g:187f5631cbc940e7",
+      "nume": "Cozma Gabriela",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7308046395,
+      "nou": 335146050,
+      "delta": -6972900345
+    },
+    {
+      "romega_id": "g:527d45699f55b7ef",
+      "nume": "Ionascu Sergiu Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7308046395,
+      "nou": 335146050,
+      "delta": -6972900345
+    },
+    {
+      "romega_id": "g:df4a4a58f69adeb9",
+      "nume": "Carina Daniela Muntean",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7142597809,
+      "nou": 197384806,
+      "delta": -6945213003
+    },
+    {
+      "romega_id": "g:f0f81a7394663d65",
+      "nume": "Ana Breber Maria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7142597809,
+      "nou": 197384806,
+      "delta": -6945213003
+    },
+    {
+      "romega_id": "g:3492cfce1c7f4f30",
+      "nume": "Andrei Ovidiu Ramba",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7142597809,
+      "nou": 197384806,
+      "delta": -6945213003
+    },
+    {
+      "romega_id": "g:05b5fda9dade9e5c",
+      "nume": "Carmenuta Vasilescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7288715899,
+      "nou": 525370556,
+      "delta": -6763345343
+    },
+    {
+      "romega_id": "g:f31c61a6086d3fcc",
+      "nume": "Antoniadis Savvas",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7288715899,
+      "nou": 525370556,
+      "delta": -6763345343
+    },
+    {
+      "romega_id": "g:76c6d6884c5b6d28",
+      "nume": "Elena Madalina Visan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7288715899,
+      "nou": 525370556,
+      "delta": -6763345343
+    },
+    {
+      "romega_id": "g:2b8cf455d774d363",
+      "nume": "Consulting Srl Strategy",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7382024889,
+      "nou": 789171563,
+      "delta": -6592853326
+    },
+    {
+      "romega_id": "g:7d3e681c9145a8bb",
+      "nume": "Leonard Mihai Rotaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7382024889,
+      "nou": 789171563,
+      "delta": -6592853326
+    },
+    {
+      "romega_id": "g:346e9ffa46e052f8",
+      "nume": "Marian Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7382024889,
+      "nou": 789171563,
+      "delta": -6592853326
+    },
+    {
+      "romega_id": "g:ea9b1f29a96cb2b4",
+      "nume": "Constantinescu Liliana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6512166974,
+      "nou": 78239943,
+      "delta": -6433927031
+    },
+    {
+      "romega_id": "g:a9bd4b30c40bb3f4",
+      "nume": "Iftime Serban",
+      "camp": "contracte de stat (lei)",
+      "vechi": 9305831545,
+      "nou": 2876934828,
+      "delta": -6428896717
+    },
+    {
+      "romega_id": "g:d65bff1d56ffe656",
+      "nume": "Alina Cristina Duminica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6505233445,
+      "nou": 265819019,
+      "delta": -6239414426
+    },
+    {
+      "romega_id": "g:59e67ff5d015f39e",
+      "nume": "Biziru Petru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6548090622,
+      "nou": 364703834,
+      "delta": -6183386788
+    },
+    {
+      "romega_id": "g:691052cdf14cfcf6",
+      "nume": "Florian Pal Sopronyi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:d10c7de2083d206e",
+      "nume": "Benchis Ovidiu Vasile",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:6a8f4f5da6be99b3",
+      "nume": "Daniel Gigi Marin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:5ce9239ab0fc7931",
+      "nume": "Aurelian Mitroi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:aa7b0a362e4bec34",
+      "nume": "Grosu Nicu Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:e996f96fd0b75a0b",
+      "nume": "Ciprian Dan Lungu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:0648852e79fb8a8c",
+      "nume": "Mihail Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:f299be0157fbb4ab",
+      "nume": "Daniel Enache",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:775a10e2478a4e05",
+      "nume": "Cristina Dan Maria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:279cece324781972",
+      "nume": "Dragos Mihai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:f0d515c1b003749c",
+      "nume": "Alexandra Ioana Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:0d3373ca1c115f62",
+      "nume": "Chelu Valentin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:e57693adc7ac48d3",
+      "nume": "Mihaela Olteanu Scarlat",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:4ed97f8c3fb7e501",
+      "nume": "Sobea Victor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:f8f93d566e0544dd",
+      "nume": "Claudia Florina Valeanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6263592283,
+      "nou": 234733655,
+      "delta": -6028858628
+    },
+    {
+      "romega_id": "g:df498fdbad2f8060",
+      "nume": "Catalin Cristian Stancic",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8368163811,
+      "nou": 2609578572,
+      "delta": -5758585239
+    },
+    {
+      "romega_id": "g:02f52bd1d6fbfa73",
+      "nume": "Forga Ioana Maria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6243572096,
+      "nou": 562012642,
+      "delta": -5681559454
+    },
+    {
+      "romega_id": "g:d4fb79aa6e0c45d4",
+      "nume": "Bulat Gheorghe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6243572096,
+      "nou": 562012642,
+      "delta": -5681559454
+    },
+    {
+      "romega_id": "g:1e11eb1447bafe2b",
+      "nume": "Mariana Nita",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5180875200,
+      "nou": 16764362,
+      "delta": -5164110838
+    },
+    {
+      "romega_id": "g:c9792d4b50509ae0",
+      "nume": "Burghiu Cristian Daniel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5348280332,
+      "nou": 211831093,
+      "delta": -5136449239
+    },
+    {
+      "romega_id": "g:302edd65fdc119b1",
+      "nume": "Bichir Calin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5542738840,
+      "nou": 467231197,
+      "delta": -5075507643
+    },
+    {
+      "romega_id": "g:55bacca70424aec5",
+      "nume": "Alexandru Moldovan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5542738840,
+      "nou": 467231197,
+      "delta": -5075507643
+    },
+    {
+      "romega_id": "g:9d2ff86ff16cb4a6",
+      "nume": "Serban Tanasescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5227201530,
+      "nou": 226938524,
+      "delta": -5000263006
+    },
+    {
+      "romega_id": "g:a1a90ac3faded790",
+      "nume": "Catalin Homeag Mihai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5227201530,
+      "nou": 226938524,
+      "delta": -5000263006
+    },
+    {
+      "romega_id": "g:03e1290efea04e5c",
+      "nume": "Danut Dumitru Sterea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7039301536,
+      "nou": 2078903437,
+      "delta": -4960398099
+    },
+    {
+      "romega_id": "g:e8b75a917ee7e8f2",
+      "nume": "Daniel Sorin Stratulat",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5265544663,
+      "nou": 335046790,
+      "delta": -4930497873
+    },
+    {
+      "romega_id": "g:5510154405de0e45",
+      "nume": "Dumitru Ioan Ovidiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5265544663,
+      "nou": 335046790,
+      "delta": -4930497873
+    },
+    {
+      "romega_id": "g:8e0165e296e8cbe6",
+      "nume": "Sorin Tivig Victor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5189855759,
+      "nou": 309947268,
+      "delta": -4879908491
+    },
+    {
+      "romega_id": "g:4d2a0a097cd2552a",
+      "nume": "Carlaont Silviu Vasile",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4929659358,
+      "nou": 210479713,
+      "delta": -4719179645
+    },
+    {
+      "romega_id": "g:1e9d76cf648dc0bb",
+      "nume": "Houst Michal",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4967348706,
+      "nou": 265106830,
+      "delta": -4702241876
+    },
+    {
+      "romega_id": "g:d2216494ea8f584e",
+      "nume": "Kreml Michal",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4967348706,
+      "nou": 265106830,
+      "delta": -4702241876
+    },
+    {
+      "romega_id": "g:e0b41c42b392fe27",
+      "nume": "Anca Ciuca Cristina",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4967348706,
+      "nou": 265106830,
+      "delta": -4702241876
+    },
+    {
+      "romega_id": "g:1f6bf14b3aab916b",
+      "nume": "Felix Guerrero Igea Manuel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4967348706,
+      "nou": 265106830,
+      "delta": -4702241876
+    },
+    {
+      "romega_id": "g:b4e99dd4ee9f5866",
+      "nume": "Alexandru Bogdan Fulga",
+      "camp": "contracte de stat (lei)",
+      "vechi": 6351449337,
+      "nou": 1713525824,
+      "delta": -4637923513
+    },
+    {
+      "romega_id": "g:17b87ccacc7991d6",
+      "nume": "Eugeniu Lucian Puiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4815186706,
+      "nou": 192753208,
+      "delta": -4622433498
+    },
+    {
+      "romega_id": "g:6d02d3d044a0da4c",
+      "nume": "Balan Maria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4817360128,
+      "nou": 196357071,
+      "delta": -4621003057
+    },
+    {
+      "romega_id": "g:0e72666ddf97423a",
+      "nume": "Lucia Urdareanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:94cb4bbe6fecb511",
+      "nume": "Investments Management Srl Tiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:78864be050402f4b",
+      "nume": "Management Srl Tiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:7169814ccb04adc9",
+      "nume": "Constantin Florentina",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:412ae7cb8198aeef",
+      "nume": "Dimitrescu Florin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:63d11ce598ac4120",
+      "nume": "Emilian George Tornea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:356a3503e0caf783",
+      "nume": "Alin Costin Margineanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:09bb161c1601f2cf",
+      "nume": "Costea Cristian Ionut",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:da3d24eba66bbf99",
+      "nume": "Liliana Lupu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:7c34e4332fd709f8",
+      "nume": "Armasu Ramona",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:d6d3235ff0f360e7",
+      "nume": "Petrescu Razvan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 7370971501,
+      "nou": 2804534550,
+      "delta": -4566436951
+    },
+    {
+      "romega_id": "g:6354cd499bb7fea4",
+      "nume": "Ciubotaru Gheorghe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5793491836,
+      "nou": 1395820681,
+      "delta": -4397671155
+    },
+    {
+      "romega_id": "g:06a6b7b56ca99133",
+      "nume": "Mihai Sergiu Voicu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4415669161,
+      "nou": 55486185,
+      "delta": -4360182976
+    },
+    {
+      "romega_id": "g:49f422443dfb472f",
+      "nume": "Deaconescu Florin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8130464720,
+      "nou": 3803945672,
+      "delta": -4326519048
+    },
+    {
+      "romega_id": "g:889f9342aa8888f0",
+      "nume": "Lucian Manea Tudor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8130464720,
+      "nou": 3803945672,
+      "delta": -4326519048
+    },
+    {
+      "romega_id": "g:4e2f470254160d86",
+      "nume": "Jacobus Olivier Petrus Pretorius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 8130464720,
+      "nou": 3803945672,
+      "delta": -4326519048
+    },
+    {
+      "romega_id": "g:dc5a53f2fb1f3538",
+      "nume": "Andra Croitoru Sorina",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4685458280,
+      "nou": 497539500,
+      "delta": -4187918780
+    },
+    {
+      "romega_id": "g:8d3d8ec77c030338",
+      "nume": "Claudia Liliana Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4685458280,
+      "nou": 497539500,
+      "delta": -4187918780
+    },
+    {
+      "romega_id": "g:6e5a5fd47ee441a4",
+      "nume": "Gelu Palamaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4276754499,
+      "nou": 240399495,
+      "delta": -4036355004
+    },
+    {
+      "romega_id": "g:3823bf75992b88e8",
+      "nume": "Ioachim Mihai Valentin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4818480938,
+      "nou": 785570390,
+      "delta": -4032910548
+    },
+    {
+      "romega_id": "g:66238cf50f06c78b",
+      "nume": "Alin Constantin Dumitrescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4818480938,
+      "nou": 785570390,
+      "delta": -4032910548
+    },
+    {
+      "romega_id": "g:a9a6d40f700016cb",
+      "nume": "Adina Alexandra Selaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4057188686,
+      "nou": 42348173,
+      "delta": -4014840513
+    },
+    {
+      "romega_id": "g:7941e5da5e5d554a",
+      "nume": "Bodea Corneliu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 5602890555,
+      "nou": 1631319229,
+      "delta": -3971571326
+    },
+    {
+      "romega_id": "g:1ab1121902bb5e74",
+      "nume": "Anca Monica Muntean",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4324461250,
+      "nou": 389362310,
+      "delta": -3935098940
+    },
+    {
+      "romega_id": "g:b74f0d1c0e958aa1",
+      "nume": "Cornel Daniel Varga",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4224903217,
+      "nou": 347327324,
+      "delta": -3877575893
+    },
+    {
+      "romega_id": "g:d3a282b69c66a4a1",
+      "nume": "Alina Costea Sanda",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3797294049,
+      "nou": 0,
+      "delta": -3797294049
+    },
+    {
+      "romega_id": "g:ff1ff43339127f07",
+      "nume": "Catalin Lungu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3797294049,
+      "nou": 0,
+      "delta": -3797294049
+    },
+    {
+      "romega_id": "g:56371c8e23e49b8e",
+      "nume": "Popa Traian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4048196107,
+      "nou": 331179838,
+      "delta": -3717016269
+    },
+    {
+      "romega_id": "g:681885a64930dd69",
+      "nume": "Bernard Dietrich Horman",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4271253713,
+      "nou": 596840308,
+      "delta": -3674413405
+    },
+    {
+      "romega_id": "g:924e58014510366e",
+      "nume": "Doina Ionascu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4271253713,
+      "nou": 596840308,
+      "delta": -3674413405
+    },
+    {
+      "romega_id": "g:89db79453de39557",
+      "nume": "Bogdan Florin Ionascu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4271253713,
+      "nou": 596840308,
+      "delta": -3674413405
+    },
+    {
+      "romega_id": "g:9018e34e50f1cc3f",
+      "nume": "Constantin Laurentiu Tudose",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3797294049,
+      "nou": 155908483,
+      "delta": -3641385566
+    },
+    {
+      "romega_id": "g:177e60b5cda6ecac",
+      "nume": "Cristian Danut Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3797294049,
+      "nou": 155908483,
+      "delta": -3641385566
+    },
+    {
+      "romega_id": "g:fffdba3f8a45962a",
+      "nume": "Adrian Dobre Marius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3797294049,
+      "nou": 155908483,
+      "delta": -3641385566
+    },
+    {
+      "romega_id": "g:a5dc7671131dc9ed",
+      "nume": "Ciprian Mihailescu Teodor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3797294049,
+      "nou": 155908483,
+      "delta": -3641385566
+    },
+    {
+      "romega_id": "g:11bac02da4369c4f",
+      "nume": "Badea Ion Marius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3722063060,
+      "nou": 96940768,
+      "delta": -3625122292
+    },
+    {
+      "romega_id": "g:4ba9c03e2b1a4cc8",
+      "nume": "Bogdan Petcu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3636353786,
+      "nou": 29205396,
+      "delta": -3607148390
+    },
+    {
+      "romega_id": "g:1c8cbf1b62597bc8",
+      "nume": "Ciceala Horia Razvan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3636353786,
+      "nou": 29205396,
+      "delta": -3607148390
+    },
+    {
+      "romega_id": "g:d3650c966eaa3356",
+      "nume": "Dumitrescu Marius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4053620904,
+      "nou": 474464586,
+      "delta": -3579156318
+    },
+    {
+      "romega_id": "g:b3b741ba44fc1b4d",
+      "nume": "Catalin Costel Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3800538291,
+      "nou": 304499375,
+      "delta": -3496038916
+    },
+    {
+      "romega_id": "g:93c2552a0bcbbd7a",
+      "nume": "Maarouf Mohammed",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3686172405,
+      "nou": 194718625,
+      "delta": -3491453780
+    },
+    {
+      "romega_id": "g:2d6207e289a9b747",
+      "nume": "Dumitrescu Eugen Liviu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3686172405,
+      "nou": 194718625,
+      "delta": -3491453780
+    },
+    {
+      "romega_id": "g:5303150e52c1828a",
+      "nume": "Asociatii Dinu Si Sprl Urse",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4531698443,
+      "nou": 1091700302,
+      "delta": -3439998141
+    },
+    {
+      "romega_id": "g:7eef381e12907098",
+      "nume": "Consulting Finance Tech",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:c77c411d0ddc2366",
+      "nume": "Consulting Srl Zacman",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:956a59fdf1b0330d",
+      "nume": "Ionel Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:7776acec5f3728b4",
+      "nume": "Arpad Gotze Gyorgy",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:70841715a3868a11",
+      "nume": "Gabor Gulacsi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:1e7c012da1ccf56e",
+      "nume": "Dan Elena Valeria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:c3f9d541f93144f3",
+      "nume": "Camelia Naciadi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:eab96a62090c7200",
+      "nume": "Hazslinszky Istvanne Peter",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:945d24d969054216",
+      "nume": "Kovats Sandor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:79a1aafd50302749",
+      "nume": "Jozsef Kelemen Laszlo",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:5b1e66c7e6c926c2",
+      "nume": "Cezar Constantin Zaharia",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:b124f0c8b6fa6b11",
+      "nume": "Gabor Teleki",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4005400336,
+      "nou": 576164995,
+      "delta": -3429235341
+    },
+    {
+      "romega_id": "g:7924dcd1b914057c",
+      "nume": "Claudiu Ionut Stefan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3438218043,
+      "nou": 57114309,
+      "delta": -3381103734
+    },
+    {
+      "romega_id": "g:7cedf737aa262ba4",
+      "nume": "Creanga Florin Mircea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3437664915,
+      "nou": 59657649,
+      "delta": -3378007266
+    },
+    {
+      "romega_id": "g:e8a28e45c4fc47cc",
+      "nume": "Iulia Mihai Mirela",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3437664915,
+      "nou": 59657649,
+      "delta": -3378007266
+    },
+    {
+      "romega_id": "g:ae0cdb3cebfe327c",
+      "nume": "Dumitru Ghionoiu Narcis",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3377841582,
+      "nou": 3800000,
+      "delta": -3374041582
+    },
+    {
+      "romega_id": "g:9d98770c51b34d91",
+      "nume": "Mindrila Nicolae",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3373827082,
+      "nou": 1665250,
+      "delta": -3372161832
+    },
+    {
+      "romega_id": "g:3de18eb8858c4fc7",
+      "nume": "Alexandru Cosmin Popescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3370241582,
+      "nou": 0,
+      "delta": -3370241582
+    },
+    {
+      "romega_id": "g:79b580adb5a807f4",
+      "nume": "Laura Mihaela Mirel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3370241582,
+      "nou": 0,
+      "delta": -3370241582
+    },
+    {
+      "romega_id": "g:111d4bdc9e3be72d",
+      "nume": "Adriana Barbu Maria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3370241582,
+      "nou": 0,
+      "delta": -3370241582
+    },
+    {
+      "romega_id": "g:e02ec5a405cee751",
+      "nume": "Oana Sandu Sorina",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3418346907,
+      "nou": 48105325,
+      "delta": -3370241582
+    },
+    {
+      "romega_id": "g:c4668e5406425816",
+      "nume": "Dan Popa Virgiliu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3373827082,
+      "nou": 7964500,
+      "delta": -3365862582
+    },
+    {
+      "romega_id": "g:faf14a48f5e8d3af",
+      "nume": "Mazilu Petre",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3431049523,
+      "nou": 78100001,
+      "delta": -3352949522
+    },
+    {
+      "romega_id": "g:0b154acb63809214",
+      "nume": "Besciu Dan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4374230926,
+      "nou": 1049173641,
+      "delta": -3325057285
+    },
+    {
+      "romega_id": "g:e1fe69ff4cec5281",
+      "nume": "Frank Hajdinjak",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4362248551,
+      "nou": 1124907800,
+      "delta": -3237340751
+    },
+    {
+      "romega_id": "g:c5e53c275e617a81",
+      "nume": "Aurel Stanciu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4546467337,
+      "nou": 1354149611,
+      "delta": -3192317726
+    },
+    {
+      "romega_id": "g:3bb3991b14e3be3c",
+      "nume": "Eos Insolvency Sprl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3180004744,
+      "nou": 0,
+      "delta": -3180004744
+    },
+    {
+      "romega_id": "g:b2cc931350168465",
+      "nume": "Genoveva Lacramioara Rosu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3180004744,
+      "nou": 0,
+      "delta": -3180004744
+    },
+    {
+      "romega_id": "g:697690079bcad427",
+      "nume": "Adrian Bodea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4161685763,
+      "nou": 994645116,
+      "delta": -3167040647
+    },
+    {
+      "romega_id": "g:ed00ce5624b50bd9",
+      "nume": "Francisc Mathe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4161685763,
+      "nou": 994645116,
+      "delta": -3167040647
+    },
+    {
+      "romega_id": "g:1399bffa89ae4ce5",
+      "nume": "Capstone Consulting Srl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3260661373,
+      "nou": 121393876,
+      "delta": -3139267497
+    },
+    {
+      "romega_id": "g:c45ea3271725f02b",
+      "nume": "Gheorghe Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3260661373,
+      "nou": 121393876,
+      "delta": -3139267497
+    },
+    {
+      "romega_id": "g:6aae2df2e908828b",
+      "nume": "Luciani Massimiliano",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3260661373,
+      "nou": 121393876,
+      "delta": -3139267497
+    },
+    {
+      "romega_id": "g:aae78c5f18eae41a",
+      "nume": "Grigore Pogonici Stanciu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3260661373,
+      "nou": 123419528,
+      "delta": -3137241845
+    },
+    {
+      "romega_id": "g:9943c2950c4d77a5",
+      "nume": "Dobra Georgeta Monica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3114639821,
+      "nou": 59741663,
+      "delta": -3054898158
+    },
+    {
+      "romega_id": "g:c8a69e641fb133c4",
+      "nume": "George Ionut Sava",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3437729224,
+      "nou": 392631876,
+      "delta": -3045097348
+    },
+    {
+      "romega_id": "g:9b8f57009bf070e7",
+      "nume": "Asit Patnaik",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3058008681,
+      "nou": 57121706,
+      "delta": -3000886975
+    },
+    {
+      "romega_id": "g:d32567ac36eae21c",
+      "nume": "Dohot Fica Oprisan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3058008681,
+      "nou": 57121706,
+      "delta": -3000886975
+    },
+    {
+      "romega_id": "g:63d275bbfdb7bf43",
+      "nume": "Ciubotaru George",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4101442172,
+      "nou": 1164857890,
+      "delta": -2936584282
+    },
+    {
+      "romega_id": "g:504423db5f3ada84",
+      "nume": "Gosav Manuel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4101442172,
+      "nou": 1164857890,
+      "delta": -2936584282
+    },
+    {
+      "romega_id": "g:ce0f7f7bb637555d",
+      "nume": "Adrian Florea Razvan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4101442172,
+      "nou": 1164857890,
+      "delta": -2936584282
+    },
+    {
+      "romega_id": "g:861ad0c8e7d6fae1",
+      "nume": "Constantinescu Simona",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4101442172,
+      "nou": 1164857890,
+      "delta": -2936584282
+    },
+    {
+      "romega_id": "g:26548e1ae7ade3c2",
+      "nume": "Marius Persinaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4101442172,
+      "nou": 1164857890,
+      "delta": -2936584282
+    },
+    {
+      "romega_id": "g:02beb00fd5dea1b9",
+      "nume": "Ivylon Management",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3330169329,
+      "nou": 433895875,
+      "delta": -2896273454
+    },
+    {
+      "romega_id": "g:60a44545e7535e28",
+      "nume": "Adrian Stanescu Victor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3330169329,
+      "nou": 433895875,
+      "delta": -2896273454
+    },
+    {
+      "romega_id": "g:12971b60d6e3774b",
+      "nume": "Cristian Ion Logofatu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3330169329,
+      "nou": 433895875,
+      "delta": -2896273454
+    },
+    {
+      "romega_id": "g:5cba60853aa1525a",
+      "nume": "Emanuel Lacatus Mihail",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2907455553,
+      "nou": 23770256,
+      "delta": -2883685297
+    },
+    {
+      "romega_id": "g:43451a0cd0a92952",
+      "nume": "Emily Woodworth",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2884761040,
+      "nou": 36871173,
+      "delta": -2847889867
+    },
+    {
+      "romega_id": "g:fa7a076528931d90",
+      "nume": "Devigne Eric Philippe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3469089818,
+      "nou": 693613212,
+      "delta": -2775476606
+    },
+    {
+      "romega_id": "g:6c6b00565725b1b1",
+      "nume": "Florea Liviu Vasile",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3469089818,
+      "nou": 693613212,
+      "delta": -2775476606
+    },
+    {
+      "romega_id": "g:b97d784e638a5582",
+      "nume": "Florin Mircea Pop",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3477133355,
+      "nou": 709888433,
+      "delta": -2767244922
+    },
+    {
+      "romega_id": "g:96dc3346e101bb2f",
+      "nume": "Alexandra Alina Horpos",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4195945875,
+      "nou": 1437770187,
+      "delta": -2758175688
+    },
+    {
+      "romega_id": "g:2655be3a6558b7e7",
+      "nume": "Catalina Ciubreag Iuliana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4453586294,
+      "nou": 1702381562,
+      "delta": -2751204732
+    },
+    {
+      "romega_id": "g:b490ec05bb215a28",
+      "nume": "Constantin Dinu Minzat",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4453586294,
+      "nou": 1702381562,
+      "delta": -2751204732
+    },
+    {
+      "romega_id": "g:867815f66137ed08",
+      "nume": "Bogdan Liliana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4453586294,
+      "nou": 1702381562,
+      "delta": -2751204732
+    },
+    {
+      "romega_id": "g:29ed2c5f7b48a3e2",
+      "nume": "Adrian Oros",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3916431643,
+      "nou": 1165504325,
+      "delta": -2750927318
+    },
+    {
+      "romega_id": "g:ecf066d9b5fbbbe2",
+      "nume": "Cristea Narcis Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3916431643,
+      "nou": 1165504325,
+      "delta": -2750927318
+    },
+    {
+      "romega_id": "g:58cad73e2b6aa2a0",
+      "nume": "Aida Cipolla",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3113477664,
+      "nou": 430719673,
+      "delta": -2682757991
+    },
+    {
+      "romega_id": "g:a0e88db8ad2e6697",
+      "nume": "Gregoris Joseph Stephen",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3113477664,
+      "nou": 430719673,
+      "delta": -2682757991
+    },
+    {
+      "romega_id": "g:41c42fece3f879c8",
+      "nume": "Anne Brenda Macdonald",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3113477664,
+      "nou": 430719673,
+      "delta": -2682757991
+    },
+    {
+      "romega_id": "g:2b73faa89c22ce60",
+      "nume": "Cernat Dumitru Ovidiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3161978729,
+      "nou": 483211676,
+      "delta": -2678767053
+    },
+    {
+      "romega_id": "g:e48068de65bfb17b",
+      "nume": "Dobre Romeo",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3121659308,
+      "nou": 466746896,
+      "delta": -2654912412
+    },
+    {
+      "romega_id": "g:b0ffa65ae595ddaa",
+      "nume": "David Jordan Joshua",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2947613164,
+      "nou": 336171308,
+      "delta": -2611441856
+    },
+    {
+      "romega_id": "g:0e3f4a390f6c343e",
+      "nume": "Frank Loffler",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2947613164,
+      "nou": 336171308,
+      "delta": -2611441856
+    },
+    {
+      "romega_id": "g:afd0e2cbe436034b",
+      "nume": "Andrei Ionut Visan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2947613164,
+      "nou": 336171308,
+      "delta": -2611441856
+    },
+    {
+      "romega_id": "g:b75908f456f835a1",
+      "nume": "Bleck Oliver",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2947613164,
+      "nou": 336171308,
+      "delta": -2611441856
+    },
+    {
+      "romega_id": "g:1d2311d45ed60390",
+      "nume": "Cortizo Jose Juan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2947613164,
+      "nou": 336171308,
+      "delta": -2611441856
+    },
+    {
+      "romega_id": "g:09c0a8cbe3d879c5",
+      "nume": "Alin Calinescu Stelian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2759004402,
+      "nou": 177808955,
+      "delta": -2581195447
+    },
+    {
+      "romega_id": "g:8106f3cae4de0b56",
+      "nume": "Alin Neamtu Paul",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2827849747,
+      "nou": 257349847,
+      "delta": -2570499900
+    },
+    {
+      "romega_id": "g:f6134ad6170b9423",
+      "nume": "Banuta George Marius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2827849747,
+      "nou": 257349847,
+      "delta": -2570499900
+    },
+    {
+      "romega_id": "g:33602c99fc6752aa",
+      "nume": "Adamides Constantinos",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2720895588,
+      "nou": 159607247,
+      "delta": -2561288341
+    },
+    {
+      "romega_id": "g:e18185f87f3c146e",
+      "nume": "Bujor Gabriela Maria",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2720895588,
+      "nou": 159607247,
+      "delta": -2561288341
+    },
+    {
+      "romega_id": "g:bf2d986c117a590f",
+      "nume": "Costel Cristian Patrulescu Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3519720726,
+      "nou": 963216740,
+      "delta": -2556503986
+    },
+    {
+      "romega_id": "g:6bf0ea942e03d895",
+      "nume": "Ana Maria Smarandache",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 62447676,
+      "delta": -2549616749
+    },
+    {
+      "romega_id": "g:c1afccfcfba0b838",
+      "nume": "Citr Filiala Ilfov Sprl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 89733107,
+      "delta": -2522331318
+    },
+    {
+      "romega_id": "g:ec5c0efa2fa93db4",
+      "nume": "Georgeta Grigore",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 89733107,
+      "delta": -2522331318
+    },
+    {
+      "romega_id": "g:340b4fd16f7abec9",
+      "nume": "Alina Mihaela Moroe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 89733107,
+      "delta": -2522331318
+    },
+    {
+      "romega_id": "g:722c2b1305f6ffa9",
+      "nume": "Gheorghe Mihai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 89733107,
+      "delta": -2522331318
+    },
+    {
+      "romega_id": "g:ee29c5814e37535c",
+      "nume": "Grigore Vasile Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 89733107,
+      "delta": -2522331318
+    },
+    {
+      "romega_id": "g:6d38d56c8511d323",
+      "nume": "Claudia Lupascu Simona",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2563693823,
+      "nou": 41825320,
+      "delta": -2521868503
+    },
+    {
+      "romega_id": "g:f96a1839d657b61d",
+      "nume": "Ionel Pirpiliu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2612064425,
+      "nou": 96327963,
+      "delta": -2515736462
+    },
+    {
+      "romega_id": "g:e3f6452b2d0cf329",
+      "nume": "Dina Gabriel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2479255252,
+      "nou": 98172262,
+      "delta": -2381082990
+    },
+    {
+      "romega_id": "g:f321650a585b2b05",
+      "nume": "Duta Elena",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3166700019,
+      "nou": 789790844,
+      "delta": -2376909175
+    },
+    {
+      "romega_id": "g:df32fac441603be9",
+      "nume": "Catalin Mocanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2321028199,
+      "nou": 31738084,
+      "delta": -2289290115
+    },
+    {
+      "romega_id": "g:ad128949d39873e0",
+      "nume": "Adrian Rosioru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2325843509,
+      "nou": 42763213,
+      "delta": -2283080296
+    },
+    {
+      "romega_id": "g:f9522ceceaf8169e",
+      "nume": "Chihaia Nita",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2325843509,
+      "nou": 42763213,
+      "delta": -2283080296
+    },
+    {
+      "romega_id": "g:fe5b40ef8fc2ece6",
+      "nume": "Diaconu Grigore",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2325843509,
+      "nou": 42763213,
+      "delta": -2283080296
+    },
+    {
+      "romega_id": "g:1eff3f4fb7b0e9de",
+      "nume": "Burduja Costel Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2325843509,
+      "nou": 42763213,
+      "delta": -2283080296
+    },
+    {
+      "romega_id": "g:33b39cc2cc69b367",
+      "nume": "Marian Pavel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2271909802,
+      "nou": 0,
+      "delta": -2271909802
+    },
+    {
+      "romega_id": "g:6a2f0029181c7ee6",
+      "nume": "Diaconu Dragos Octavian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2566254482,
+      "nou": 294796695,
+      "delta": -2271457787
+    },
+    {
+      "romega_id": "g:e2429a9c98fe1191",
+      "nume": "Mihu Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2566254482,
+      "nou": 294796695,
+      "delta": -2271457787
+    },
+    {
+      "romega_id": "g:2f8af4dc3c25f2ab",
+      "nume": "Diana Nicoleta Stafie",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2566254482,
+      "nou": 294796695,
+      "delta": -2271457787
+    },
+    {
+      "romega_id": "g:1ee341b5e6b6d795",
+      "nume": "Dumitrache Vasilica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:b7d13409ea41297c",
+      "nume": "Cristian Eduard Sociu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:0c637dc3fd62ee70",
+      "nume": "Timisescu Victoriea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:b8781fb1e25d3ed2",
+      "nume": "Andrei Capraru Stefan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:6c519ddf4df7c70a",
+      "nume": "Florin Misaila",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:1578a091699d53a1",
+      "nume": "Gheorghe Zamfir",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:becd7cc2fd260ac4",
+      "nume": "Iordache Rusu Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2283343391,
+      "nou": 15788429,
+      "delta": -2267554962
+    },
+    {
+      "romega_id": "g:82093b27c44db8b0",
+      "nume": "Cirstean Monica Tamara",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2291314235,
+      "nou": 28221693,
+      "delta": -2263092542
+    },
+    {
+      "romega_id": "g:d99ed8703d1204a6",
+      "nume": "Amanolesei Doina Elena",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2281968001,
+      "nou": 20825459,
+      "delta": -2261142542
+    },
+    {
+      "romega_id": "g:f974ce1b0fe71049",
+      "nume": "Doru Emil Ochiuz",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2282995062,
+      "nou": 25487469,
+      "delta": -2257507593
+    },
+    {
+      "romega_id": "g:aa467e4fe63281d1",
+      "nume": "Ciuhat Cornel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2282995062,
+      "nou": 25487469,
+      "delta": -2257507593
+    },
+    {
+      "romega_id": "g:6eb0bbf481f6a3da",
+      "nume": "Bucuresti Filiala Fosta Insolvency Maestro Smda Sprl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2263327268,
+      "nou": 6090733,
+      "delta": -2257236535
+    },
+    {
+      "romega_id": "g:8c4f7e64726839e4",
+      "nume": "Ionascu Roxana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2263327268,
+      "nou": 6090733,
+      "delta": -2257236535
+    },
+    {
+      "romega_id": "g:d60d2cc133af22b7",
+      "nume": "Raluca Spinoche",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2263327268,
+      "nou": 6090733,
+      "delta": -2257236535
+    },
+    {
+      "romega_id": "g:cb2bdcd10ef5685d",
+      "nume": "Anca Cristina Sirbu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2263327268,
+      "nou": 6090733,
+      "delta": -2257236535
+    },
+    {
+      "romega_id": "g:94c31eeddf44f28c",
+      "nume": "Floricel Iatan Jipa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2268921221,
+      "nou": 12877595,
+      "delta": -2256043626
+    },
+    {
+      "romega_id": "g:38df1d55e6f1a257",
+      "nume": "Genica Oancea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2272806654,
+      "nou": 20930491,
+      "delta": -2251876163
+    },
+    {
+      "romega_id": "g:e13372bb42c63291",
+      "nume": "Dana Duma Mirela",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2246533366,
+      "nou": 21594797,
+      "delta": -2224938569
+    },
+    {
+      "romega_id": "g:1b8a7527f0f71f1b",
+      "nume": "Dragomir Marian Radu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2565680770,
+      "nou": 341499591,
+      "delta": -2224181179
+    },
+    {
+      "romega_id": "g:a0d12b06a2b5c05f",
+      "nume": "Florin Lazar Mircea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2236000014,
+      "nou": 18198786,
+      "delta": -2217801228
+    },
+    {
+      "romega_id": "g:ec56ed24c9b8b6e3",
+      "nume": "Katia Radulescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2236000014,
+      "nou": 18198786,
+      "delta": -2217801228
+    },
+    {
+      "romega_id": "g:85ee8c69a3198999",
+      "nume": "Serban Sere Traian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2236000014,
+      "nou": 18198786,
+      "delta": -2217801228
+    },
+    {
+      "romega_id": "g:bd3495e786f05de5",
+      "nume": "Baltariu Vasile Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2202080022,
+      "nou": 858660,
+      "delta": -2201221362
+    },
+    {
+      "romega_id": "g:65cf796dc4a87877",
+      "nume": "Al Cezar Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2372980673,
+      "nou": 177593205,
+      "delta": -2195387468
+    },
+    {
+      "romega_id": "g:33e0fc9396f37c3d",
+      "nume": "Daniela Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2372980673,
+      "nou": 177593205,
+      "delta": -2195387468
+    },
+    {
+      "romega_id": "g:657167053ec020a3",
+      "nume": "Cartas Stefan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2195095921,
+      "nou": 9405917,
+      "delta": -2185690004
+    },
+    {
+      "romega_id": "g:750ad1e9c5119fd1",
+      "nume": "Cartas Titi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2195095921,
+      "nou": 9405917,
+      "delta": -2185690004
+    },
+    {
+      "romega_id": "g:882eb19cc10784df",
+      "nume": "Arim Aurel Teodor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2185077451,
+      "nou": 414697,
+      "delta": -2184662754
+    },
+    {
+      "romega_id": "g:16ab7ba16d9c1d6b",
+      "nume": "Chitescu Ioan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2190275474,
+      "nou": 5612720,
+      "delta": -2184662754
+    },
+    {
+      "romega_id": "g:434e732328450040",
+      "nume": "Chichirau Ioan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2190275474,
+      "nou": 5612720,
+      "delta": -2184662754
+    },
+    {
+      "romega_id": "g:056f0d07d61ba20f",
+      "nume": "Buterchi Liviu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2185077451,
+      "nou": 414697,
+      "delta": -2184662754
+    },
+    {
+      "romega_id": "g:3d89e69fa3d831b2",
+      "nume": "Pustiu Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2185077451,
+      "nou": 414697,
+      "delta": -2184662754
+    },
+    {
+      "romega_id": "g:5ea0c025562f0784",
+      "nume": "Gheorghita Simeria Victor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2185077451,
+      "nou": 414697,
+      "delta": -2184662754
+    },
+    {
+      "romega_id": "g:49807541a3aac9dc",
+      "nume": "Mihai Mircea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2191045926,
+      "nou": 6975172,
+      "delta": -2184070754
+    },
+    {
+      "romega_id": "g:aa0a5cd854cca6d0",
+      "nume": "Ioan Petraru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2191045926,
+      "nou": 6975172,
+      "delta": -2184070754
+    },
+    {
+      "romega_id": "g:2a84f19c0cd97f6c",
+      "nume": "Aifun Geaner Suliman",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2229602374,
+      "nou": 46196641,
+      "delta": -2183405733
+    },
+    {
+      "romega_id": "g:99ad39b5495020dd",
+      "nume": "Boanda Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2187110413,
+      "nou": 5152726,
+      "delta": -2181957687
+    },
+    {
+      "romega_id": "g:0188c6c2bd0cdace",
+      "nume": "Ciubotariu Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2187110413,
+      "nou": 5152726,
+      "delta": -2181957687
+    },
+    {
+      "romega_id": "g:f963de5d684a0bb3",
+      "nume": "Ioan Smarcu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2187110413,
+      "nou": 5152726,
+      "delta": -2181957687
+    },
+    {
+      "romega_id": "g:6c80b7be931921f0",
+      "nume": "Alexandru Dumitru Robert",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2177390934,
+      "nou": 1522181,
+      "delta": -2175868753
+    },
+    {
+      "romega_id": "g:c7561a55f328c596",
+      "nume": "Alexandru Bogdan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2177390934,
+      "nou": 1522181,
+      "delta": -2175868753
+    },
+    {
+      "romega_id": "g:283c0d5e18f2e4c9",
+      "nume": "Daniel Neacsu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2176603159,
+      "nou": 1447419,
+      "delta": -2175155740
+    },
+    {
+      "romega_id": "g:d865b29e48e1ef8c",
+      "nume": "Mirela Turbatu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2175447159,
+      "nou": 291419,
+      "delta": -2175155740
+    },
+    {
+      "romega_id": "g:17954a210a7ccd33",
+      "nume": "Andu Bighiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2177257159,
+      "nou": 2510704,
+      "delta": -2174746455
+    },
+    {
+      "romega_id": "g:c633a9564fb2c726",
+      "nume": "Luminita Stupu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2172824391,
+      "nou": 0,
+      "delta": -2172824391
+    },
+    {
+      "romega_id": "g:f6e3d53273c62303",
+      "nume": "Florin Graur",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2172824391,
+      "nou": 0,
+      "delta": -2172824391
+    },
+    {
+      "romega_id": "g:772581ed18a037b5",
+      "nume": "Grigoras Nicoleta",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2172824391,
+      "nou": 0,
+      "delta": -2172824391
+    },
+    {
+      "romega_id": "g:2eac45ea8997e889",
+      "nume": "Gavrila Iulian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2172824391,
+      "nou": 0,
+      "delta": -2172824391
+    },
+    {
+      "romega_id": "g:79aa12d8c4fca737",
+      "nume": "Ioan Mihaila",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2172824391,
+      "nou": 0,
+      "delta": -2172824391
+    },
+    {
+      "romega_id": "g:011c4a73ce781b49",
+      "nume": "Amelia Birgu Relia",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2172824391,
+      "nou": 0,
+      "delta": -2172824391
+    },
+    {
+      "romega_id": "g:7b9b1ab84a6997a9",
+      "nume": "Alin Bogdan Ladaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2116147261,
+      "nou": 27942047,
+      "delta": -2088205214
+    },
+    {
+      "romega_id": "g:26871f5aa90f1ed7",
+      "nume": "Alexandra Pup",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2124300070,
+      "nou": 40542213,
+      "delta": -2083757857
+    },
+    {
+      "romega_id": "g:33fbb364aa87c562",
+      "nume": "Alexandra Purcel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2124300070,
+      "nou": 40542213,
+      "delta": -2083757857
+    },
+    {
+      "romega_id": "g:06c6f98e748ad6fc",
+      "nume": "Management Srl Tiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2589440140,
+      "nou": 506385030,
+      "delta": -2083055110
+    },
+    {
+      "romega_id": "g:0df9b54d0f9aa262",
+      "nume": "Balan Claudiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2589440140,
+      "nou": 506385030,
+      "delta": -2083055110
+    },
+    {
+      "romega_id": "g:5cd1fd7d2563c039",
+      "nume": "Liliana Lupu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2589440140,
+      "nou": 506385030,
+      "delta": -2083055110
+    },
+    {
+      "romega_id": "g:e9c9b5021a8e86fe",
+      "nume": "Adrian Floarea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2589440140,
+      "nou": 506385030,
+      "delta": -2083055110
+    },
+    {
+      "romega_id": "g:da028dc6c5f0da58",
+      "nume": "Scurtu Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4752482696,
+      "nou": 2705867522,
+      "delta": -2046615174
+    },
+    {
+      "romega_id": "g:bc5388ce57bde4c5",
+      "nume": "Elena Iasciurjinschi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4752482696,
+      "nou": 2705867522,
+      "delta": -2046615174
+    },
+    {
+      "romega_id": "g:97005f24f5714782",
+      "nume": "Ionescu Mihail",
+      "camp": "contracte de stat (lei)",
+      "vechi": 4752482696,
+      "nou": 2705867522,
+      "delta": -2046615174
+    },
+    {
+      "romega_id": "g:1fc2e5f7e96c6669",
+      "nume": "Andrica Claudiu Danut",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2033722970,
+      "nou": 19409328,
+      "delta": -2014313642
+    },
+    {
+      "romega_id": "g:43cded29a8a3eeeb",
+      "nume": "Daniel Mihailescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2141882233,
+      "nou": 134362888,
+      "delta": -2007519345
+    },
+    {
+      "romega_id": "g:f00e4e8bd540667f",
+      "nume": "Admin Copraag Srl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2843298112,
+      "nou": 836812396,
+      "delta": -2006485716
+    },
+    {
+      "romega_id": "g:b0da937c702b0216",
+      "nume": "Alexandra Andreea Gheorghe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2843298112,
+      "nou": 836812396,
+      "delta": -2006485716
+    },
+    {
+      "romega_id": "g:2d818cbe24ab84da",
+      "nume": "Catalin Podaru Robert",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2843298112,
+      "nou": 836812396,
+      "delta": -2006485716
+    },
+    {
+      "romega_id": "g:8367f7b07fa656a4",
+      "nume": "Andrei Calin Gradinariu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2997214675,
+      "nou": 1000956975,
+      "delta": -1996257700
+    },
+    {
+      "romega_id": "g:c8525f3564791bb0",
+      "nume": "Corneliu Cristian Pup",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2045656600,
+      "nou": 52070488,
+      "delta": -1993586112
+    },
+    {
+      "romega_id": "g:cf3e4a59fe971a24",
+      "nume": "Brindusa Felicia Gatlan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2097859498,
+      "nou": 138243849,
+      "delta": -1959615649
+    },
+    {
+      "romega_id": "g:8fd172a87a60a456",
+      "nume": "Corneliu Georgescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 163746925,
+      "nou": 2097646906,
+      "delta": 1933899981
+    },
+    {
+      "romega_id": "g:e22d978e111be4ef",
+      "nume": "Nicolae Stan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 163746925,
+      "nou": 2097646906,
+      "delta": 1933899981
+    },
+    {
+      "romega_id": "g:9e34a2eeb612c744",
+      "nume": "Adrian Mirel Scarlat",
+      "camp": "contracte de stat (lei)",
+      "vechi": 163746925,
+      "nou": 2097646906,
+      "delta": 1933899981
+    },
+    {
+      "romega_id": "g:24f9e8bb9e1ea7d2",
+      "nume": "Bota Cristian Ionita",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2289689180,
+      "nou": 379917417,
+      "delta": -1909771763
+    },
+    {
+      "romega_id": "g:ac805d7638bef38a",
+      "nume": "Ion Micsa Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3077578047,
+      "nou": 1170710836,
+      "delta": -1906867211
+    },
+    {
+      "romega_id": "g:aeff450598cb4f7d",
+      "nume": "Botezatu Sonia Vali",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2468017778,
+      "nou": 590199190,
+      "delta": -1877818588
+    },
+    {
+      "romega_id": "g:bc6a495e9ffcf883",
+      "nume": "Dragomir Marian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2380070122,
+      "nou": 511173308,
+      "delta": -1868896814
+    },
+    {
+      "romega_id": "g:2a728e032ca600f4",
+      "nume": "Ionel Stolnicu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2380070122,
+      "nou": 511173308,
+      "delta": -1868896814
+    },
+    {
+      "romega_id": "g:fdff074de98083e0",
+      "nume": "Gabriel Iacob Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2380070122,
+      "nou": 511173308,
+      "delta": -1868896814
+    },
+    {
+      "romega_id": "g:a7910b151c2c802c",
+      "nume": "Cristian Iacob Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2380070122,
+      "nou": 511173308,
+      "delta": -1868896814
+    },
+    {
+      "romega_id": "g:d5ac377c85fe5c5d",
+      "nume": "Aida Carolina Petrescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2648112710,
+      "nou": 789067658,
+      "delta": -1859045052
+    },
+    {
+      "romega_id": "g:a880095645a1ae83",
+      "nume": "Alecsei Elena",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1864577269,
+      "nou": 18517182,
+      "delta": -1846060087
+    },
+    {
+      "romega_id": "g:69e49147169b81f5",
+      "nume": "Constantin Netcu Octavian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1855915077,
+      "nou": 25969518,
+      "delta": -1829945559
+    },
+    {
+      "romega_id": "g:29548a2dfb7e792d",
+      "nume": "Artioli Lorena",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1855915077,
+      "nou": 25969518,
+      "delta": -1829945559
+    },
+    {
+      "romega_id": "g:1f3391cc63c549f5",
+      "nume": "Angelopoulos Panagiotis",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1855915077,
+      "nou": 25969518,
+      "delta": -1829945559
+    },
+    {
+      "romega_id": "g:dce1e9f5063cb022",
+      "nume": "Grigore Vadean",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2719933653,
+      "nou": 897367316,
+      "delta": -1822566337
+    },
+    {
+      "romega_id": "g:4851f6263fee6024",
+      "nume": "Claudiu Ugran",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1882138113,
+      "nou": 70564915,
+      "delta": -1811573198
+    },
+    {
+      "romega_id": "g:119fe4d29ad618af",
+      "nume": "Beneva Mergers",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1954655285,
+      "nou": 150400080,
+      "delta": -1804255205
+    },
+    {
+      "romega_id": "g:3659a2f6068ec88f",
+      "nume": "Fosta Group Insolvency Sprl Zrp",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1954655285,
+      "nou": 150400080,
+      "delta": -1804255205
+    },
+    {
+      "romega_id": "g:46d375f5cdf75e3f",
+      "nume": "Beneva Management Pharma",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1954655285,
+      "nou": 150400080,
+      "delta": -1804255205
+    },
+    {
+      "romega_id": "g:d550574b680f8ad2",
+      "nume": "Bogdan Nicolae Pavel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1954655285,
+      "nou": 150400080,
+      "delta": -1804255205
+    },
+    {
+      "romega_id": "g:d0fed0cba7da6584",
+      "nume": "Mihai Pintilie",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2056908380,
+      "nou": 262777929,
+      "delta": -1794130451
+    },
+    {
+      "romega_id": "g:65e74a056fe0f4bb",
+      "nume": "Gosalvez Martin Ricardo",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1940022476,
+      "nou": 161668540,
+      "delta": -1778353936
+    },
+    {
+      "romega_id": "g:8a47efe03172afd0",
+      "nume": "De Jose Molina Montero Ruiz",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1940022476,
+      "nou": 161668540,
+      "delta": -1778353936
+    },
+    {
+      "romega_id": "g:9d8a69cdad0a66c3",
+      "nume": "Fernando Mendoza Moreno",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1940022476,
+      "nou": 161668540,
+      "delta": -1778353936
+    },
+    {
+      "romega_id": "g:f66a7a9fc529a2dd",
+      "nume": "Anda Ciupe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2097837693,
+      "nou": 323552938,
+      "delta": -1774284755
+    },
+    {
+      "romega_id": "g:9f012f63e6439179",
+      "nume": "Ciupe Mircea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2097837693,
+      "nou": 323552938,
+      "delta": -1774284755
+    },
+    {
+      "romega_id": "g:3c86ddcf61e6b295",
+      "nume": "Bucuresti Confident Invest Sa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1785422217,
+      "nou": 20410762,
+      "delta": -1765011455
+    },
+    {
+      "romega_id": "g:e82d53886358303f",
+      "nume": "Buzas Lucia Viorica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1785422217,
+      "nou": 20410762,
+      "delta": -1765011455
+    },
+    {
+      "romega_id": "g:2993b65e2d5e74df",
+      "nume": "Florel Matei",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1785422217,
+      "nou": 20410762,
+      "delta": -1765011455
+    },
+    {
+      "romega_id": "g:39746e99b2b5d56e",
+      "nume": "Ghergus Nicolae",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1785422217,
+      "nou": 20410762,
+      "delta": -1765011455
+    },
+    {
+      "romega_id": "g:f76590998540dffa",
+      "nume": "Cristina Pachitanu Selena",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2027794144,
+      "nou": 265963285,
+      "delta": -1761830859
+    },
+    {
+      "romega_id": "g:8d003b3caf79e979",
+      "nume": "Andriescu Balanel Codrin Dan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2027794144,
+      "nou": 265963285,
+      "delta": -1761830859
+    },
+    {
+      "romega_id": "g:d2909d1ca4b19a6d",
+      "nume": "Catalin Gheorghe Simon",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2310382944,
+      "nou": 559462860,
+      "delta": -1750920084
+    },
+    {
+      "romega_id": "g:b8bf659da110ad21",
+      "nume": "Daniel Lucian Vatavu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1767316670,
+      "nou": 21027740,
+      "delta": -1746288930
+    },
+    {
+      "romega_id": "g:7ecad9ce42c58e9c",
+      "nume": "Comanescu Neculai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1785192333,
+      "nou": 41633803,
+      "delta": -1743558530
+    },
+    {
+      "romega_id": "g:981d240bf23ff3c9",
+      "nume": "Constantin Diaconescu Florin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2186163475,
+      "nou": 465639750,
+      "delta": -1720523725
+    },
+    {
+      "romega_id": "g:180ea27b70c91cf5",
+      "nume": "Bordeanu Dan Mihai",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2429825222,
+      "nou": 737062528,
+      "delta": -1692762694
+    },
+    {
+      "romega_id": "g:ca050560db51af1c",
+      "nume": "Rotaru Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1699197623,
+      "nou": 8353066,
+      "delta": -1690844557
+    },
+    {
+      "romega_id": "g:c31d7998c4f17f4f",
+      "nume": "Constantin Iulian Moraru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1691533173,
+      "nou": 1616380,
+      "delta": -1689916793
+    },
+    {
+      "romega_id": "g:d1f4d5a7729d0747",
+      "nume": "Gheorghe Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1688531667,
+      "nou": 0,
+      "delta": -1688531667
+    },
+    {
+      "romega_id": "g:6455c707d56bcbda",
+      "nume": "Florin Victor Voican",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1973549000,
+      "nou": 3651127124,
+      "delta": 1677578124
+    },
+    {
+      "romega_id": "g:9066ddc4ae870cb1",
+      "nume": "Constantin Nica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2011290060,
+      "nou": 356441710,
+      "delta": -1654848350
+    },
+    {
+      "romega_id": "g:726351b9ee7c3ef4",
+      "nume": "Dumitrache Laurentiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2011290060,
+      "nou": 356441710,
+      "delta": -1654848350
+    },
+    {
+      "romega_id": "g:f586bee1d299c713",
+      "nume": "Mindrila Nicolae",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1636086119,
+      "nou": 2827910,
+      "delta": -1633258209
+    },
+    {
+      "romega_id": "g:e12a6db870ebd51a",
+      "nume": "Badina Daniel Marius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2079574740,
+      "nou": 468815304,
+      "delta": -1610759436
+    },
+    {
+      "romega_id": "g:9cb4d0fb85429ed0",
+      "nume": "Florin Octavian Paraschiv",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2542448836,
+      "nou": 941430744,
+      "delta": -1601018092
+    },
+    {
+      "romega_id": "g:7884227df449eb9c",
+      "nume": "Andreea Voinea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:2a022b34bd70bce2",
+      "nume": "Ienciu Mihai Serban Tanasescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:87b37c90e781d2f1",
+      "nume": "Mircea Stroe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:17c54819e49df9c0",
+      "nume": "Aura Mustatea Oana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:506a2414dc47eac6",
+      "nume": "Paula Voinea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:9555fd16e5d4c36a",
+      "nume": "Bogdan Pandaru",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:952a9ae9401c22af",
+      "nume": "Ciprian Emanuel Paltineanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2294270016,
+      "nou": 715926602,
+      "delta": -1578343414
+    },
+    {
+      "romega_id": "g:c012adfcd248159d",
+      "nume": "Daniel Duhanes Victor",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1743792144,
+      "nou": 168692285,
+      "delta": -1575099859
+    },
+    {
+      "romega_id": "g:b4d0c6ffbb83a4fe",
+      "nume": "Burlacu Oana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1875260312,
+      "nou": 323473633,
+      "delta": -1551786679
+    },
+    {
+      "romega_id": "g:e493f8fbb020f7c7",
+      "nume": "Andreea Biota Monica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2724036981,
+      "nou": 1199323040,
+      "delta": -1524713941
+    },
+    {
+      "romega_id": "g:196c1a4d02211a4a",
+      "nume": "Banica Nicolae",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2724036981,
+      "nou": 1199323040,
+      "delta": -1524713941
+    },
+    {
+      "romega_id": "g:82e9b6ab7fcfcefc",
+      "nume": "Gheorghe Letiu Mircea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2598107751,
+      "nou": 1076919095,
+      "delta": -1521188656
+    },
+    {
+      "romega_id": "g:971cf663fcb5c1fd",
+      "nume": "George Nicolescu Sorin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1575568191,
+      "nou": 68992853,
+      "delta": -1506575338
+    },
+    {
+      "romega_id": "g:8bc044a5f5e0d12d",
+      "nume": "Ecaterina Mihaela Nicolescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1575568191,
+      "nou": 68992853,
+      "delta": -1506575338
+    },
+    {
+      "romega_id": "g:5b0e9017318a9e73",
+      "nume": "Cristian Gogan Laurentiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1522559982,
+      "nou": 23760195,
+      "delta": -1498799787
+    },
+    {
+      "romega_id": "g:1fcc6790b815f4e2",
+      "nume": "Adina Danna Leaute",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1522559982,
+      "nou": 23760195,
+      "delta": -1498799787
+    },
+    {
+      "romega_id": "g:6020418086df070a",
+      "nume": "Lucaciu Romulus",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1960885156,
+      "nou": 466835236,
+      "delta": -1494049920
+    },
+    {
+      "romega_id": "g:30c256c23a64104d",
+      "nume": "Bekar Umut",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2983724282,
+      "nou": 1491862141,
+      "delta": -1491862141
+    },
+    {
+      "romega_id": "g:898fd7a38f94e1ba",
+      "nume": "Alexandra Iulia Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2435649461,
+      "nou": 959021903,
+      "delta": -1476627558
+    },
+    {
+      "romega_id": "g:4ea83dc1ba3bee58",
+      "nume": "Ioan Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2435649461,
+      "nou": 959021903,
+      "delta": -1476627558
+    },
+    {
+      "romega_id": "g:9f9ab9555b4290ed",
+      "nume": "Popa Sebastian Vlad",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2435649461,
+      "nou": 959021903,
+      "delta": -1476627558
+    },
+    {
+      "romega_id": "g:ed4a8157ec4ee915",
+      "nume": "Abrudan Horia Ovidiu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2435649461,
+      "nou": 959021903,
+      "delta": -1476627558
+    },
+    {
+      "romega_id": "g:00698cacddcd80bc",
+      "nume": "Cristina Ioana Popa",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2435649461,
+      "nou": 959021903,
+      "delta": -1476627558
+    },
+    {
+      "romega_id": "g:664410b6eab3a989",
+      "nume": "Florea Ioan Lucian",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1699485255,
+      "nou": 249318309,
+      "delta": -1450166946
+    },
+    {
+      "romega_id": "g:6f6b6a22c4829a88",
+      "nume": "Andrei Lucian Stancu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1699485255,
+      "nou": 249318309,
+      "delta": -1450166946
+    },
+    {
+      "romega_id": "g:6ccf4fb824d443ba",
+      "nume": "Bucuresti Casa Citr De Filiala Fosta Insolventa Sprl Transilvania",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1690315358,
+      "nou": 240481083,
+      "delta": -1449834275
+    },
+    {
+      "romega_id": "g:e671ea0742b49163",
+      "nume": "Alexandru Cernea",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1690315358,
+      "nou": 240481083,
+      "delta": -1449834275
+    },
+    {
+      "romega_id": "g:ffb98fef28ae7b87",
+      "nume": "Georgiana Matei",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1690315358,
+      "nou": 240481083,
+      "delta": -1449834275
+    },
+    {
+      "romega_id": "g:06dc376357fa6a19",
+      "nume": "Emil Radulescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1690315358,
+      "nou": 240481083,
+      "delta": -1449834275
+    },
+    {
+      "romega_id": "g:4acf012ef39b8a72",
+      "nume": "Bucuresti Filiala Partners Rtz Sprl",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2143234594,
+      "nou": 694012594,
+      "delta": -1449222000
+    },
+    {
+      "romega_id": "g:df1f1e93649940fc",
+      "nume": "Ion Ripan Vasile",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2143234594,
+      "nou": 694012594,
+      "delta": -1449222000
+    },
+    {
+      "romega_id": "g:17a4621e655f1996",
+      "nume": "Adrian Gabriel Stanescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1961602213,
+      "nou": 518263896,
+      "delta": -1443338317
+    },
+    {
+      "romega_id": "g:f3d7baba71c57f45",
+      "nume": "Marian Stanciu Stefan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1961602213,
+      "nou": 518263896,
+      "delta": -1443338317
+    },
+    {
+      "romega_id": "g:eb18f016f4c764aa",
+      "nume": "Andrei Stanciu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1961602213,
+      "nou": 518263896,
+      "delta": -1443338317
+    },
+    {
+      "romega_id": "g:ef431eb8f7a20590",
+      "nume": "Nicolae Putere Radu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1467183067,
+      "nou": 25024885,
+      "delta": -1442158182
+    },
+    {
+      "romega_id": "g:7a37f833471ae39f",
+      "nume": "Iosif Zifceak",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1612923756,
+      "nou": 191141848,
+      "delta": -1421781908
+    },
+    {
+      "romega_id": "g:84a940b9253a71eb",
+      "nume": "Dumitru Ionescu Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1719844039,
+      "nou": 347898604,
+      "delta": -1371945435
+    },
+    {
+      "romega_id": "g:b152092d40cc5509",
+      "nume": "Marian Stoica",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1719844039,
+      "nou": 347898604,
+      "delta": -1371945435
+    },
+    {
+      "romega_id": "g:a1a6a7906ec156f4",
+      "nume": "Kamil Renyi",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1465996541,
+      "nou": 94675901,
+      "delta": -1371320640
+    },
+    {
+      "romega_id": "g:b5dd0b6d8ae27f8d",
+      "nume": "Didier Genin Guillaume",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1465996541,
+      "nou": 94675901,
+      "delta": -1371320640
+    },
+    {
+      "romega_id": "g:4de0d8fd03859946",
+      "nume": "Kamil Lopuch",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1465996541,
+      "nou": 94675901,
+      "delta": -1371320640
+    },
+    {
+      "romega_id": "g:658dc7a30b9a98f9",
+      "nume": "Elisabeta Zifceak",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1533395936,
+      "nou": 170480233,
+      "delta": -1362915703
+    },
+    {
+      "romega_id": "g:0532479e78ec8524",
+      "nume": "Devigne Eric Philippe",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1892706524,
+      "nou": 535842154,
+      "delta": -1356864370
+    },
+    {
+      "romega_id": "g:0da62a357b46bf89",
+      "nume": "Florea Liviu Vasile",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1892706524,
+      "nou": 535842154,
+      "delta": -1356864370
+    },
+    {
+      "romega_id": "g:2002934c32b9b001",
+      "nume": "Henri Joseph Pasquier Seraphin",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1892706524,
+      "nou": 535842154,
+      "delta": -1356864370
+    },
+    {
+      "romega_id": "g:da89166b1b460f64",
+      "nume": "Adrian Tohanean",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3608562070,
+      "nou": 2257736820,
+      "delta": -1350825250
+    },
+    {
+      "romega_id": "g:e35276836de5baa1",
+      "nume": "Mukhametkali Nazar",
+      "camp": "contracte de stat (lei)",
+      "vechi": 3608562070,
+      "nou": 2257736820,
+      "delta": -1350825250
+    },
+    {
+      "romega_id": "g:fbe9c486416cf223",
+      "nume": "Panagiotis Tampourlos",
+      "camp": "contracte de stat (lei)",
+      "vechi": 2383158064,
+      "nou": 1034787270,
+      "delta": -1348370794
+    },
+    {
+      "romega_id": "g:943a22cfaf63ef69",
+      "nume": "Goss Krzysztof",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1551412814,
+      "nou": 212794555,
+      "delta": -1338618259
+    },
+    {
+      "romega_id": "g:4570f71d152fb11e",
+      "nume": "Emilia Isculescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1551412814,
+      "nou": 212794555,
+      "delta": -1338618259
+    },
+    {
+      "romega_id": "g:80087e5e0b2ca6eb",
+      "nume": "Boleslaw Samodulski",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1551412814,
+      "nou": 212794555,
+      "delta": -1338618259
+    },
+    {
+      "romega_id": "g:ebabae220475025a",
+      "nume": "Alexandru Florin Savulescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1364215066,
+      "nou": 26326860,
+      "delta": -1337888206
+    },
+    {
+      "romega_id": "g:f6b4562be1423631",
+      "nume": "Deleanu Sanda",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1416324268,
+      "nou": 83468858,
+      "delta": -1332855410
+    },
+    {
+      "romega_id": "g:c6eb0d95ec88e2e6",
+      "nume": "Dragan Ioana Liliana",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1416324268,
+      "nou": 83468858,
+      "delta": -1332855410
+    },
+    {
+      "romega_id": "g:6d8c3bf068dd1d55",
+      "nume": "Alexandru Daniel Stacescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1416324268,
+      "nou": 83468858,
+      "delta": -1332855410
+    },
+    {
+      "romega_id": "g:9888571bc5d4a5ff",
+      "nume": "Daniel Mihailescu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1430355709,
+      "nou": 97515038,
+      "delta": -1332840671
+    },
+    {
+      "romega_id": "g:b41664620ce9c949",
+      "nume": "Mircea Teisanu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1331936826,
+      "nou": 0,
+      "delta": -1331936826
+    },
+    {
+      "romega_id": "g:98f6eaa58055fa37",
+      "nume": "Balmos Marioara",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1331936826,
+      "nou": 0,
+      "delta": -1331936826
+    },
+    {
+      "romega_id": "g:7dbd5f1a5333de6a",
+      "nume": "Dominte Ioan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1332930463,
+      "nou": 993637,
+      "delta": -1331936826
+    },
+    {
+      "romega_id": "g:805f50575e6c957f",
+      "nume": "Prodan Viorel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1331936826,
+      "nou": 375000,
+      "delta": -1331561826
+    },
+    {
+      "romega_id": "g:f413db8b0d990590",
+      "nume": "Marian Mihai Prodan",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1331936826,
+      "nou": 375000,
+      "delta": -1331561826
+    },
+    {
+      "romega_id": "g:d0adfe019fca31ab",
+      "nume": "Florin Rosca",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1333343961,
+      "nou": 3555115,
+      "delta": -1329788846
+    },
+    {
+      "romega_id": "g:a8382e208f09c3ad",
+      "nume": "Ciocan Daniel",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1331936826,
+      "nou": 12635982,
+      "delta": -1319300844
+    },
+    {
+      "romega_id": "g:541a3705ba9f6725",
+      "nume": "Centea Ciprian Darius",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1357091535,
+      "nou": 40987614,
+      "delta": -1316103921
+    },
+    {
+      "romega_id": "g:d1007574ee326a2f",
+      "nume": "Grigorescu Rita",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1389052234,
+      "nou": 122514805,
+      "delta": -1266537429
+    },
+    {
+      "romega_id": "g:743e0a7e3f0c4052",
+      "nume": "Bogdan Liviu Paun",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1337306012,
+      "nou": 72257363,
+      "delta": -1265048649
+    },
+    {
+      "romega_id": "g:e7cf1e14c8578480",
+      "nume": "Corneliu Pavici",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1355517621,
+      "nou": 140042333,
+      "delta": -1215475288
+    },
+    {
+      "romega_id": "g:5b1e983d4131167b",
+      "nume": "Bogdan Catalin Steriopol",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1832182847,
+      "nou": 621056419,
+      "delta": -1211126428
+    },
+    {
+      "romega_id": "g:e46c6defa2994f59",
+      "nume": "Botagoz Sakhariyeva",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1832182847,
+      "nou": 621056419,
+      "delta": -1211126428
+    },
+    {
+      "romega_id": "g:3b814d1ec9c51d1d",
+      "nume": "Mihail Pocora Silviu",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1832182847,
+      "nou": 621056419,
+      "delta": -1211126428
+    },
+    {
+      "romega_id": "g:bfb1681dde3965e3",
+      "nume": "Alexandru Cordos",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1832182847,
+      "nou": 621056419,
+      "delta": -1211126428
+    },
+    {
+      "romega_id": "g:dc4961631786e68d",
+      "nume": "Utekov Yedil",
+      "camp": "contracte de stat (lei)",
+      "vechi": 1898105187,
+      "nou": 696217587,
+      "delta": -1201887600
+    }
+  ]
 }
