@@ -55,6 +55,16 @@ def csv_dialect(first_line: str) -> dict:
     return {"delimiter": max("^;|,\t", key=s.count), "quoting": csv.QUOTE_NONE}
 
 
+def celula(c) -> str:
+    """Valoarea unei celule XLS/XLSX ca text. Numerele întregi stocate ca float (CUI 4930083621.0)
+    se scriu fără „.0”: altfel, după eliminarea non-cifrelor, CUI-ul capătă un zero în plus la coadă."""
+    if c is None:
+        return ""
+    if isinstance(c, float) and c.is_integer():
+        return str(int(c))
+    return str(c)
+
+
 def iter_rows(url: str, fmt: str, timeout_csv: int = 300, timeout_xls: int = 900):
     """Rânduri (list[str]) dintr-o resursă CSV sau XLS/XLSX — toate foile, fără filtrare."""
     if "XLS" in (fmt or "").upper():
@@ -63,7 +73,7 @@ def iter_rows(url: str, fmt: str, timeout_csv: int = 300, timeout_xls: int = 900
         wb = CalamineWorkbook.from_filelike(io.BytesIO(b))
         for sn in wb.sheet_names:
             for row in wb.get_sheet_by_name(sn).to_python(skip_empty_area=True):
-                yield [("" if c is None else str(c)) for c in row]
+                yield [celula(c) for c in row]
         return
     r = requests.get(url, headers=H, verify=False, timeout=timeout_csv, stream=True)
     r.raise_for_status()
