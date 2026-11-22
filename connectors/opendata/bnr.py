@@ -1,7 +1,8 @@
 """Connector opendata/bnr — curs valutar BNR (enrichment).
 
 Arhetip `api` / XML. Cea mai curată sursă: fișiere XML statice, fără auth.
-`https://www.bnr.ro/nbrfxrates.xml` (azi), arhivă din 2005. Vezi docs/03-SOURCES.md §K.
+`https://curs.bnr.ro/nbrfxrates.xml` (azi), arhivă din 2005. Vezi docs/03-SOURCES.md §K.
+Vechea adresă de pe www.bnr.ro întoarce acum pagina de start a site-ului (HTML, cod 200).
 
 Folosit pentru normalizarea sumelor în valută (ex. depozite EUR în declarații → RON).
 """
@@ -12,7 +13,7 @@ import re
 
 from solomonar_core.http import Client
 
-URL = "https://www.bnr.ro/nbrfxrates.xml"
+URL = "https://curs.bnr.ro/nbrfxrates.xml"
 
 _RE_RATE = re.compile(
     r'<Rate\s+currency="([A-Z]{3})"(?:\s+multiplier="(\d+)")?\s*>([\d.]+)</Rate>'
@@ -33,6 +34,13 @@ def parse_bnr_rates(xml: bytes | str) -> dict:
     return {"date": m.group(1) if m else None, "rates": rates}
 
 
+def cere_curs(d: dict) -> dict:
+    """Refuză un răspuns fără dată sau fără cursuri (ex. o pagină HTML servită cu cod 200)."""
+    if not d.get("date") or not d.get("rates"):
+        raise ValueError(f"Răspunsul BNR de la {URL} nu conține cursul valutar (nu e XML-ul așteptat).")
+    return d
+
+
 class BnrConnector:
     source_id = "bnr"
 
@@ -41,4 +49,4 @@ class BnrConnector:
 
     def fetch_rates(self) -> dict:
         content, _ = self.client.fetch(URL, self.source_id, ext=".xml")
-        return parse_bnr_rates(content)
+        return cere_curs(parse_bnr_rates(content))

@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from connectors.opendata.bnr import BnrConnector, parse_bnr_rates
+from connectors.opendata.bnr import BnrConnector, cere_curs, parse_bnr_rates
 
 XML = """<?xml version="1.0" encoding="utf-8"?>
 <DataSet xmlns="http://www.bnr.ro/xsd">
@@ -21,6 +21,12 @@ def test_parse_bnr_rates():
     assert d["rates"]["EUR"] == 4.9776
     assert d["rates"]["USD"] == 4.3812
     assert round(d["rates"]["HUF"], 6) == round(1.2345 / 100, 6)  # multiplier aplicat
+
+
+def test_html_page_instead_of_feed_is_rejected():
+    with pytest.raises(ValueError):
+        cere_curs(parse_bnr_rates("<!doctype html><html><title>BNR</title></html>"))
+    assert cere_curs(parse_bnr_rates(XML))["rates"]["EUR"] == 4.9776
 
 
 def test_bnr_live():

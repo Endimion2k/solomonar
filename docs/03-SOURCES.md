@@ -241,7 +241,7 @@ Cadru legal: **Legea 187/2023** (modifică OUG 109/2011), AMEPIP creat prin **HG
 
 | # | Sursă | Date | Acces | Format | Note | Fază |
 |---|---|---|---|---|---|---|
-| K1 | **BNR** | curs valutar | api | XML | `bnr.ro/nbrfxrates.xml`, arhivă din 2005; TLS 1.2 | 5 |
+| K1 | **BNR** | curs valutar | api | XML | `curs.bnr.ro/nbrfxrates.xml`, arhivă din 2005; TLS 1.2 | 5 |
 | K2 | **INS Tempo** | statistică oficială | api | JSON | `statistici.insse.ro:8077/tempo-ins/` (HTTP) | 5 |
 | K3 | **data.gov.ro** (CKAN) | ~1.800 dataset-uri (bugete, salarii, firme, achiziții) | api+bulk | JSON+XLSX/CSV | `data.gov.ro/api/3/action/` | 3/5 |
 
