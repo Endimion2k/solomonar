@@ -93,3 +93,26 @@ def test_rows_skip_blanks_headers_and_personal_loans():
     assert (r["entitate"], r["calitate"], r["nr"], r["valoare"]) == ("MAXIMUS SRL", "Asociat", "50 Părţi sociale", "200 RON")
     r = x.rand_participatie("interese_2", ["TERMO PLOIESTI SRL - Ploiesti", "Membru consiliu de administratie", "9000 RON"])
     assert (r["entitate"], r["valoare"], r["nr"]) == ("TERMO PLOIESTI SRL", "9000 RON", "")
+
+
+def test_ocr_year_only_fills_the_gap():
+    from pipeline.build_declaratii_detaliu import adnoteaza
+
+    fara = {"pdf_url": "https://x.ro/docs/declaratie.pdf"}
+    adnoteaza(fara, "avere", None, 2026, an_ocr=2019)
+    assert (fara["an"], fara["an_sursa"]) == (2019, "document_ocr")
+    cu_nume = {"pdf_url": "https://x.ro/docs/declaratie-2021.pdf"}
+    adnoteaza(cu_nume, "avere", None, 2026, an_ocr=2019)
+    assert (cu_nume["an"], cu_nume["an_sursa"]) == (2021, "nume_fisier")
+    adnoteaza(fara, "avere", None, 2026, an_ocr=1999)          # an imposibil: rămâne fără
+    assert (fara["an"], fara["an_sursa"]) == (None, None)
+
+
+def test_year_from_ocr_text_tolerates_broken_dates():
+    from pipeline.ocr_an_declaratii import an_din_text_ocr
+
+    assert an_din_text_ocr("Data completarii\n12 .06, 2019\nSemnatura", 2026) == 2019
+    assert an_din_text_ocr("Data completării: 30-12-2024", 2026) == 2024
+    assert an_din_text_ocr("Data completarii 45.13.2019", 2026) is None      # nu e o dată
+    assert an_din_text_ocr("Data completarii 01.02.2031", 2026) is None      # în viitor
+    assert an_din_text_ocr("venituri in anul 2019", 2026) is None

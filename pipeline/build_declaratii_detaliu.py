@@ -4,7 +4,9 @@ Adnotează pe loc data/v1/declaratii/avere_*.json și interese_*.json:
 
   an, an_sursa      anul declarației — din data completării citită din document (dacă există în
                     data/build/declaratii_detaliu.jsonl), altfel din numele fișierului PDF, altfel
-                    din calea de încărcare. `an_sursa` spune de unde vine, ca să știi cât e de sigur.
+                    din calea de încărcare, altfel din OCR pe ultimele pagini ale PDF-urilor scanate
+                    (`document_ocr`, vezi pipeline/ocr_an_declaratii.py — pe o probă de 120, 88% exact,
+                    restul aproape toate la un an distanță). `an_sursa` spune de unde vine anul.
   roluri            (doar interese) entitățile declarate, cu secțiunea formularului din care provin:
                     1 = asociat/acționar, 2 = organe de conducere, 3 = asociații profesionale/sindicate,
                     4 = funcții în partid. Se deduce din numerotarea rândului („1.1 …”, „4.2 …”).
@@ -30,6 +32,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 V = os.path.join(ROOT, "data", "v1", "declaratii")
 RAW = os.path.join(ROOT, "data", "raw")
 DETALIU = os.path.join(ROOT, "data", "build", "declaratii_detaliu.jsonl")
+AN_OCR = os.path.join(ROOT, "data", "build", "declaratii_an_ocr.jsonl")
 
 PRIMUL_AN = 2008          # Legea 176/2010 și formularele ei; mai devreme = cifre întâmplătoare din URL
 _RE_AN = re.compile(r"(?<!\d)(20[0-3]\d)(?!\d)")
@@ -81,11 +84,11 @@ def roluri_din_entitati(entitati: list | None) -> list[dict]:
     return out
 
 
-def _detalii_extrase() -> dict:
-    """pdf_url -> rândul din data/build/declaratii_detaliu.jsonl (gol dacă extragerea n-a rulat)."""
+def _detalii_extrase(path: str = DETALIU) -> dict:
+    """pdf_url -> rândul din JSONL-ul dat (gol dacă pasul care îl produce n-a rulat)."""
     out = {}
-    if os.path.exists(DETALIU):
-        with open(DETALIU, encoding="utf-8") as fh:
+    if os.path.exists(path):
+        with open(path, encoding="utf-8") as fh:
             for line in fh:
                 try:
                     r = json.loads(line)
@@ -95,11 +98,16 @@ def _detalii_extrase() -> dict:
     return out
 
 
-def adnoteaza(rec: dict, tip: str, extras: dict | None, an_curent: int) -> None:
-    """Completează pe loc `an`, `an_sursa`, `roluri` și `participatii` într-o înregistrare."""
+def adnoteaza(rec: dict, tip: str, extras: dict | None, an_curent: int, an_ocr: int | None = None) -> None:
+    """Completează pe loc `an`, `an_sursa`, `roluri` și `participatii` într-o înregistrare.
+
+    `an_ocr` (anul citit prin OCR dintr-un PDF scanat) se folosește doar când nu există altă sursă.
+    """
     an, sursa = an_din_url(rec.get("pdf_url") or "", an_curent)
     if extras and extras.get("an_document") and PRIMUL_AN <= extras["an_document"] <= an_curent:
         an, sursa = extras["an_document"], "document"
+    elif an is None and an_ocr and PRIMUL_AN <= an_ocr <= an_curent:
+        an, sursa = an_ocr, "document_ocr"
     rec["an"], rec["an_sursa"] = an, sursa
     if tip == "interese":
         rec["roluri"] = roluri_din_entitati(rec.get("entitati"))
@@ -112,7 +120,9 @@ def adnoteaza(rec: dict, tip: str, extras: dict | None, an_curent: int) -> None:
 def main() -> dict:
     an_curent = datetime.now(timezone.utc).year
     extrase = _detalii_extrase()
-    stat = {"declaratii": 0, "cu_an": 0, "an_din_document": 0, "cu_roluri": 0, "roluri": 0, "cu_participatii": 0}
+    ani_ocr = {u: r.get("an_document") for u, r in _detalii_extrase(AN_OCR).items()}
+    stat = {"declaratii": 0, "cu_an": 0, "an_din_document": 0, "an_din_ocr": 0, "cu_roluri": 0, "roluri": 0,
+            "cu_participatii": 0}
     for path in sorted(glob.glob(os.path.join(V, "*.json"))):
         nume = os.path.basename(path)
         tip = nume.split("_")[0]
@@ -124,10 +134,11 @@ def main() -> dict:
         if not isinstance(recs, list):
             continue
         for rec in recs:
-            adnoteaza(rec, tip, extrase.get(rec.get("pdf_url")), an_curent)
+            adnoteaza(rec, tip, extrase.get(rec.get("pdf_url")), an_curent, ani_ocr.get(rec.get("pdf_url")))
             stat["declaratii"] += 1
             stat["cu_an"] += rec["an"] is not None
             stat["an_din_document"] += rec["an_sursa"] == "document"
+            stat["an_din_ocr"] += rec["an_sursa"] == "document_ocr"
             stat["cu_roluri"] += bool(rec.get("roluri"))
             stat["roluri"] += len(rec.get("roluri") or [])
             stat["cu_participatii"] += bool(rec.get("participatii"))
