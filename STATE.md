@@ -3,11 +3,33 @@
 > Memorie de proiect: decizii, blocaje, tensiuni, poziția curentă.
 > Actualizează ÎNAINTE de orice `/compact` sau la final de sesiune.
 
-Owner: Cătălin Popa · Ultima actualizare: 2026-06-06
+Owner: Cătălin Popa · Ultima actualizare: 2026-11-22
 
 ---
 
 ## Poziția curentă
+
+> **🟢 RUNDA 2026-11-22 — STARE DUPĂ REFRESH-UL COMPLET ȘI LUCRUL DE PE LAPTOP (HEAD `59fdf08`):**
+> - **Publicare:** client HTML pe Vercel (`solomonar-endimion2ks-projects.vercel.app`), dashboard pe
+>   Streamlit Cloud (`solomonar.streamlit.app`), legate între ele. Ambele verificate live pe 22.11.
+> - **Refresh complet 20.11** (`487a353`): 109.624 persoane, 146.791 declarații, 1.256 companii de stat.
+> - **Declarații pe rânduri:** 113.280 PDF-uri citite (`extract_declaratii_tabele`, checkpoint
+>   `data/build/declaratii_detaliu.jsonl`); 136.675 declarații cu an, 23.409 cu funcții, 15.272 cu
+>   participații. **50.289 PDF-uri sunt scanate, fără text** — vezi T5.
+> - **Comisii:** text + verdicte pentru 22.402 documente PLx (12.927 prin OCR RapidOCR pe GPU,
+>   checkpoint `data/build/comisii_docs_text.jsonl`), index de căutare, istoric 3.523 ordini de zi
+>   2022–2026 cu filtru pe comisie și perioadă.
+> - **Moțiuni:** 173 cu semnatari și text. **ONRC:** dump-ul din 04.11.2026, reprezentanți legali cu
+>   istoric între dump-uri (`reps_istoric.py`), profil pentru firmele cu bani publici.
+> - **Dashboard:** 20 de pagini; fiecare pagină și tab are „Despre date: sursă și metodă”.
+> - **Gărzi introduse** (clasa de bug „pasul iese cu 0 după ce publică date parțiale”):
+>   `onrc_stream.py` numără octeții și refuză dump-urile trunchiate; `MIN_KEEP_RATIO` refuză
+>   suprascrierea cu mai puțin de 90% din ce e publicat; `mosteneste()` păstrează contextul firmelor
+>   ieșite din listele plafonate. **Regulă de lucru:** datele se comit doar după ce fiecare fișier
+>   modificat e comparat cu git și `python -m pipeline.scrub_pii --check` dă 0.
+> - **Mediu local (PC):** `.venv` Python 3.12, `onnxruntime-gpu==1.22.0` (RTX 4060 8 GB); testele cer
+>   `--basetemp=_local/pytest_tmp` și `PYTHONIOENCODING=utf-8 PYTHONUTF8=1`.
+>
 
 > **🟢 RUNDA 2026-06-11e (commit 153) — CLIENT STREAMLIT (SOLOMONAR Insights):** `web/app/` — dashboard
 > 11 pagini adaptat din cdep-client: Overview/Persoane(56k+fișă)/Companii/Achiziții/Follow-the-money/
@@ -366,19 +388,24 @@ De făcut:
 | T2 | **UBO (beneficiari reali)** restricționat din 2025 (Legea 86/2025: interes legitim + taxă + semnătură; jurnaliștii pot fi refuzați) | Probabil în afara scopului automat. De urmărit cazuistica „interes legitim". |
 | T3 | **Adâncimea instituțională** (Tier 3 deconcentrate ~1.000 + axa locală ~300) | Plan: Tier 2 (agenții centrale) prioritar; Tier 3 templated mai târziu; axa Consiliilor Județene modelată separat. |
 | T4 | **Runner self-hosted** — cdep.ro/senat.ro geo-blochează cloud IPs | Reutilizăm setup-ul din `cdep-api-poc` (PC Windows în RO). De confirmat capacitatea pentru volum crescut (ANI = ~1.6M PDF-uri). |
-| T5 | **OCR pre-2022** pentru declarații scanate ANI | Pipeline OCR (Tesseract RO / cloud). Cost/timp de estimat pe volum. |
+| T5 | **OCR pentru declarații scanate** — 50.289 din 113.280 PDF-uri nu au text (măsurat 20.11.2026) | RapidOCR pe GPU, ca la documentele de comisii (~27 doc/min acolo, max 6 pagini). De măsurat pe declarații. |
 | T6 | **`cdep-client` 404** la fetch | De confirmat dacă e privat/redenumit. Clientul nou (`web/`) îl va succeda oricum. |
 
 ## Următorii pași
 
-0. **Faza 7 — Activitatea comisiilor (PRIORITAR, cerut 2026-06-06)** — vezi secțiunea dedicată:
-   connector `parlament/comisii`, crawl 2024→prezent (comisii → ședințe → ordini de zi PDF → PLx
-   → documente), deputați apoi senat. Rulează după ce se eliberează GPU/CPU (OCR + ministere în curs).
-1. **Faza 0 continuare:** `solomonar_core/http.py` — port `_http.py` din cdep + rate-limit
-   per-host + `BronzeStore` (cache content-addressed) + teste offline (throttle/cache).
-2. **Faza 0:** `pipeline/` pe DuckDB (bronze→silver→gold) + `io.py` (export JSON/Pagefind/feeds).
-3. **Faza 0:** portează `connectors/parlament/cdep` pe noul core → test de regresie (diff gol vs cdep-api-poc).
-4. Decide T1 (buget acționariat) — blochează partea grea din Faza 3 (poate aștepta până la Faza 3).
+Lista de mai jos e cea valabilă la 2026-11-22; fazele 0 și 7 din versiunea veche sunt închise.
+
+1. **Red-flags** — `redflags.json` e din 27.09.2026. La 20.11 cinci perioade SICAP nu se puteau citi de pe
+   data.gov.ro (contracte 2021 T1, 2022 T4, 2023 T1, 2024 T1; directe 2024 T3). Reîncercare: `refresh --only redflags`.
+2. **Rapoartele partidelor (RVC)** — sursa întorcea 0 documente; rămân cele 428 publicate. `refresh --only rvc`.
+3. **OCR pentru declarațiile scanate** (T5) — 50.289 PDF-uri fără text.
+4. **Sume nete la contracte** — valorile sunt brute, cumulate pe ani, fără deduplicarea actelor adiționale.
+5. **Bilanțuri pentru bănci, asigurători, IFN-uri** — alte formulare la MF, neacoperite de `enrich_financials`.
+6. **Runner self-hosted** offline — refresh-urile automate nu rulează (T4).
+7. **`test_bnr_live`** pică (test cu rețea, BNR).
+
+Decizii care aparțin owner-ului: T1 (acționariat plătit) și rescrierea istoricului git pentru datele
+personale din commit-urile vechi (cere force-push pe `main`).
 
 ## Note de context
 
