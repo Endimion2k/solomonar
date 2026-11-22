@@ -6,8 +6,12 @@ i7=Datorii, i13=Cifra afaceri neta, i16=Profit brut, i18=Profit net, i19=Pierder
 i20=Nr. salariati. Stream filtrat pe CUI-urile SOE (~1GB total).
 
 Fără WEB_IR, Hidroelectrica, Romgaz, Nuclearelectrica, Transgaz, Transelectrica etc. lipseau sau
-apăreau cu cifre greșite. Băncile, asigurătorii și IFN-urile au alte formulare (alte fișiere, altă
-legendă) și NU sunt acoperite aici.
+apăreau cu cifre greșite.
+
+Băncile, IFN-urile și asigurătorii au formulare proprii (fișiere mici, altă legendă — vezi SPECIALE).
+Se citesc după cele de mai sus și se aduc la aceleași câmpuri, cu `tip_raportare` ca să se știe că
+cifrele nu sunt direct comparabile: la bănci și IFN „datorii” = datoriile financiare (i10+i11+i12),
+iar numărul de salariați nu se raportează; la asigurători „cifra_afaceri” = veniturile totale (i32).
 
 Enrich companii/_index.json (financials) + publică companii/bilanturi.json.
 """
@@ -40,6 +44,11 @@ COLS = {"datorii": 7, "cifra_afaceri": 13, "profit_brut": 16, "profit_net": 18,
 RAPORTARI = ("WEB_IR", "BL_BS_SL", "WEB_UU")
 MIN_KEEP_RATIO = 0.5   # sub jumătate din ce e publicat = sursă căzută, nu date noi
 
+# Formulare speciale: fragment din numele resursei (normalizat) → (tip_raportare, nr. coloane așteptat).
+# Legenda e verificată pe fișierele 2025; un fișier cu alt număr de coloane are altă legendă și se sare.
+BANCA, IFN, ASIGURATOR = "banca", "ifn", "asigurator"
+SPECIALE = (("INSTITDECREDIT", BANCA, 25), ("INSTDECREDIT", BANCA, 25), ("IFN", IFN, 25), ("ASIG", ASIGURATOR, 40))
+
 
 def _soe_cuis():
     ci = json.load(open(os.path.join(V, "companii/_index.json"), encoding="utf-8"))["data"]
@@ -66,6 +75,58 @@ def _data_urls(an: int):
         if u.lower().endswith(".txt") and tip is not None and "DESCRIERE" not in nm:
             urls.append((tip, u))
     return [u for _, u in sorted(urls)]
+
+
+def _int(v) -> int | None:
+    v = re.sub(r"[^\d-]", "", str(v or ""))
+    return int(v) if v and v != "-" else None
+
+
+def bilant_special(p: list[str], tip: str) -> dict:
+    """Un rând (CUI, CAEN, i1…) dintr-un formular special → câmpurile comune de bilanț."""
+    i = lambda n: _int(p[n + 1]) if n + 1 < len(p) else None   # noqa: E731
+    if tip == ASIGURATOR:
+        profit, pierdere = i(36), i(37)
+        return {"cifra_afaceri": i(32), "profit_net": profit if profit else (-pierdere if pierdere else None),
+                "datorii": i(24), "nr_salariati": i(38), "tip_raportare": tip}
+    datorii = [x for x in (i(10), i(11), i(12)) if x is not None]
+    return {"cifra_afaceri": i(23), "profit_net": i(22), "datorii": sum(datorii) if datorii else None,
+            "nr_salariati": None, "tip_raportare": tip}
+
+
+def _urls_speciale(an: int) -> list[tuple[str, str, int]]:
+    r = requests.get(f"https://data.gov.ro/api/3/action/package_show?id={DATASETS[an]}", timeout=30, verify=False)
+    out = []
+    for rs in r.json()["result"]["resources"]:
+        u = rs.get("url", "")
+        nm = re.sub(r"[^A-Z]", "", u.rsplit("/", 1)[-1].upper().replace(".TXT", ""))
+        if not u.lower().endswith(".txt"):
+            continue
+        for frag, tip, ncol in SPECIALE:
+            if frag in nm:
+                out.append((u, tip, ncol))
+                break
+    return out
+
+
+def _speciale(an: int, cuis: set, out: dict) -> int:
+    """Completează `out` din formularele speciale ale anului; întoarce câte companii a adăugat."""
+    adaugate = 0
+    for url, tip, ncol in _urls_speciale(an):
+        linii = requests.get(url, timeout=120, verify=False).content.decode("utf-8", "replace").splitlines()
+        if not linii:
+            continue
+        delim = ";" if linii[0].count(";") >= linii[0].count(",") else ","
+        if len(linii[0].split(delim)) != ncol:
+            print(f"   SAR {url[-36:]}: {len(linii[0].split(delim))} coloane, legenda cunoscută are {ncol}", flush=True)
+            continue
+        for line in linii:
+            p = line.split(delim)
+            cui = _int(p[0])
+            if cui in cuis and cui not in out:
+                out[cui] = bilant_special(p, tip)
+                adaugate += 1
+    return adaugate
 
 
 def _stream(url, cuis, out):
@@ -126,6 +187,7 @@ def main(an: int = 2023) -> dict:
     for url in _data_urls(an):
         print(f"stream {url[-40:]}", flush=True)
         _stream(url, set(cuis), out)
+    print(f"[bilant] formulare speciale (bănci, IFN, asigurători): +{_speciale(an, set(cuis), out)}", flush=True)
     print(f"[bilant] {len(out)}/{len(cuis)} SOE cu date financiare", flush=True)
     publicate = _published("companii/bilanturi.json")
     if publicate.get("an") == an and len(out) < len(publicate.get("bilanturi") or []) * MIN_KEEP_RATIO:
@@ -161,6 +223,7 @@ def main_trend(ani=(2025, 2024, 2023, 2022, 2021, 2020)) -> dict:
             for url in _data_urls(an):
                 print(f"  {an}: stream {url[-36:]}", flush=True)
                 _stream(url, set(cuis), out)
+            _speciale(an, set(cuis), out)
         except Exception as e:   # sursă instabilă: anul întreg e considerat necitit, nu parțial
             print(f"    EȘEC {an}: {type(e).__name__} {str(e)[:80]}", flush=True)
             ani_esuati.append(an)
