@@ -29,9 +29,9 @@ despre(
            "contractele. Graficul pe sectoare adună, pentru companiile de stat din fiecare sector, valoarea "
            "contractelor câștigate de ele.",
     legaturi="Contractele se leagă de companiile de stat prin CUI.",
-    limite="Sumele pe firmă sunt brute: în exportul SICAP valoarea unui contract se repetă la fiecare "
-           "ofertant din lot, deci totalurile depășesc banii plătiți efectiv. Folosește-le pentru comparații "
-           "între firme.",
+    limite="Sumele pe firmă sunt estimări nete: fiecare contract e numărat o dată; la cele cu mai mulți "
+           "semnatari (asocieri) suma se împarte egal, pentru că exportul SICAP nu dă cota fiecăruia. "
+           "Plafoanele acordurilor-cadru nu intră în total. Sunt valori contractate, nu plăți efectuate.",
 )
 
 df = data.contracte_df()
@@ -45,11 +45,11 @@ total_lei = float(df["total_ron"].fillna(0).sum())
 total_contracte = int(df["nr_contracte"].fillna(0).sum())
 c1, c2, c3, c4 = st.columns(4)
 kpi_card(c1, "Firme câștigătoare", fmt_int(len(df)))
-kpi_card(c2, "Valoare brută contracte", fmt_lei(total_lei),
-         help="Valoarea fiecărui contract e numărată la fiecare ofertant, deci totalul e de câteva "
-              "ori peste suma reală. Folosește-l doar pentru comparații între firme.")
+kpi_card(c2, "Valoare contracte (net estimat)", fmt_lei(total_lei),
+         help="Fiecare contract numărat o singură dată; plafoanele acordurilor-cadru nu sunt incluse. "
+              "Valori contractate, nu plăți.")
 kpi_card(c3, "Număr total contracte", fmt_int(total_contracte))
-kpi_card(c4, "Valoare brută medie / firmă", fmt_lei(total_lei / len(df)) if len(df) else "—")
+kpi_card(c4, "Valoare medie / firmă", fmt_lei(total_lei / len(df)) if len(df) else "—")
 
 st.divider()
 

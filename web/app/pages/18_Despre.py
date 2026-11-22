@@ -73,9 +73,9 @@ st.markdown("#### Limite de care să ții cont")
 st.markdown(
     "- **Conflictele de interese** sunt confirmate doar când firma apare în propria declarație de "
     "interese a persoanei. Restul potrivirilor sunt piste, nu concluzii.\n"
-    "- **Valorile de contracte sunt brute.** Același contract este numărat la fiecare ofertant, deci "
-    "totalurile pe firmă și pe sector sunt mai mari decât sumele încasate. Folosește-le pentru "
-    "comparații, nu ca sume exacte.\n"
+    "- **Valorile de contracte sunt estimări nete.** Fiecare contract e numărat o singură dată. La "
+    "contractele cu mai mulți semnatari suma se împarte egal, pentru că exportul SICAP nu dă cota "
+    "fiecăruia, iar plafoanele acordurilor-cadru nu intră în total. Sunt valori contractate, nu plăți.\n"
     "- **Sumele din declarații** sunt extrase automat din PDF-uri, uneori scanate. Verifică "
     "documentul original înainte de a cita o cifră.\n"
     "- **Comunicatele DNA** descriu trimiteri în judecată și măsuri procesuale, nu condamnări. "

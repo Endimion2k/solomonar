@@ -37,8 +37,8 @@ despre(
              "firme cu contracte publice, firmă trecută și în propria lor declarație de interese "
              "(cuvintele distinctive din denumire apar printre entitățile declarate). Se afișează "
              "primele 10 persoane, cu o singură firmă fiecare.",
-    limite="Valorile contractelor sunt brute: în exportul SICAP suma unui lot se repetă la fiecare "
-           "ofertant, deci totalurile sunt mai mari decât banii încasați. Legătura persoană-firmă din "
+    limite="Valorile contractelor sunt estimări nete: fiecare contract e numărat o dată, iar la cele cu "
+           "mai mulți semnatari suma se împarte egal (exportul SICAP nu dă cota fiecăruia). Legătura persoană-firmă din "
            "ONRC se face după nume, fără CNP. Dacă fișierul unei surse lipsește la o actualizare, cifra "
            "ei rămâne la valoarea anterioară.",
 )
@@ -82,7 +82,7 @@ with col_l:
 
 # top sectoare companii (din DuckDB analytics)
 with col_r:
-    st.markdown("#### Contracte ale companiilor de stat, pe sector (valoare brută)")
+    st.markdown("#### Contracte ale companiilor de stat, pe sector (valoare netă estimată)")
     sec = data.analytics("sumar_sector")
     if not sec.empty and "contracte_totale" in sec.columns:
         sec = sec.dropna(subset=["contracte_totale"]).head(8)

@@ -39,8 +39,9 @@ despre(
              "de persoane după nume: „confirmat” când persoana apare deja la aceeași companie, „candidat” "
              "când există un singur om cu acel nume, fără legătură cu compania. Comparația cu ONRC pune "
              "față în față numele din lista oficială și reprezentanții legali ONRC ai aceleiași companii.",
-    limite="Valorile contractelor sunt brute: suma unui lot se repetă la fiecare ofertant. Bilanțurile "
-           "băncilor, asigurătorilor și IFN-urilor nu sunt acoperite. Procentul de stat există doar pentru "
+    limite="Valorile contractelor sunt estimări nete: la contractele cu mai mulți semnatari suma se împarte "
+           "egal. La bănci, IFN-uri și asigurători bilanțul vine din formulare proprii (doar 2024-2025): "
+           "datoriile sunt cele financiare, iar băncile nu raportează numărul de salariați. Procentul de stat există doar pentru "
            "o listă fixă de companii listate la BVB, iar ONRC publică doar starea curentă a "
            "reprezentanților, fără date de numire.",
 )

@@ -47,8 +47,8 @@ despre(
              "plus) se unesc automat doar când un nume e cuprins în celălalt și au o organizație comună.",
     limite="Declarațiile și firmele găsite pe numele unui parlamentar se atașează fișei lui, deci pot "
            "aparține unui omonim. CV-ul se leagă doar pe nume. Cifrele din declarații sunt extrase automat "
-           "din PDF-uri, unele scanate, iar valorile contractelor sunt brute (suma unui lot se repetă la "
-           "fiecare ofertant).",
+           "din PDF-uri, unele scanate, iar valorile contractelor sunt estimări nete (la contractele cu "
+           "mai mulți semnatari suma se împarte egal).",
 )
 
 # ---- nivel de încredere: etichete lizibile ----

@@ -32,7 +32,7 @@ despre(
           "de pe data.gov.ro, declarațiile de avere și de interese publicate pe site-urile instituțiilor și "
           "listele de deputați și senatori.",
     calcul="Valoarea contractelor unei persoane adună contractele firmelor la care numele ei apare ca "
-           "reprezentant legal. Sumele de contract sunt brute, ca pe pagina Achiziții.",
+           "reprezentant legal. Sumele de contract sunt estimări nete, ca pe pagina Achiziții.",
     legaturi="Persoana și firma se leagă după nume, fără CNP: numele din declarații sau al parlamentarului e "
              "comparat cu reprezentanții legali din ONRC. Legătura devine confirmată când un cuvânt distinctiv "
              "din numele firmei apare la conducere, acționariat sau entități în declarația de interese a "
